@@ -135,4 +135,279 @@ def store_link(element):
         if HASH_SLUG.match(candidate):
             fallback = fallback or candidate   # keep it, but prefer a real slug
             continue
-        return f"{STORE}
+        return f"{STORE}/{kind}/{candidate}"
+
+    if fallback:
+        return f"{STORE}/{kind}/{fallback}"
+    return f"{STORE}/free-games"
+
+
+def artwork(element):
+    images = element.get("keyImages") or []
+    preferred = ("OfferImageWide", "DieselStoreFrontWide", "featuredMedia",
+                 "OfferImageTall", "Thumbnail")
+    for want in preferred:
+        for image in images:
+            if image.get("type") == want and image.get("url"):
+                return image["url"]
+    return images[0].get("url") if images and images[0].get("url") else None
+
+
+# ── normalised offer ────────────────────────────────────────────────────────
+
+def make_offer(title, url, description, image, ends, store, via=None):
+    """One shape for every source, so the posting path stays simple."""
+    return {
+        "title": (title or "Untitled").strip(),
+        "url": url,
+        "description": (description or "").strip(),
+        "image": image,
+        "ends": ends,
+        "store": store,
+        "via": via,
+    }
+
+
+def title_key(title):
+    """Loose key so the same game from two sources collapses to one post."""
+    return re.sub(r"[^a-z0-9]", "", (title or "").lower())
+
+
+# ── source 1: Epic, direct ──────────────────────────────────────────────────
+
+def epic_offers():
+    feed = get_json(FEED)
+    items = elements(feed)
+
+    if not items:
+        print("  Epic returned no elements; their shape may have changed.",
+              file=sys.stderr)
+        print(f"  top-level keys: {list(feed.keys())}", file=sys.stderr)
+        return []
+
+    print(f"  Epic: {len(items)} catalog entries")
+    now = datetime.now(timezone.utc)
+    offers = []
+
+    for element in items:
+        free, end = is_free_now(element, now)
+        if not free or was_already_free(element):
+            continue
+        offers.append(make_offer(
+            title=element.get("title"),
+            url=store_link(element),
+            description=element.get("description"),
+            image=artwork(element),
+            ends=end,
+            store="Epic Games Store",
+        ))
+
+    return offers
+
+
+# ── source 2: GamerPower, aggregated ────────────────────────────────────────
+
+def wanted_platform(entry):
+    platforms = (entry.get("platforms") or "").lower()
+    if any(tag in platforms for tag in WANTED_PLATFORMS):
+        return True
+    blob = f"{entry.get('title', '')} {entry.get('description', '')}".lower()
+    return any(word in blob for word in PLATFORM_KEYWORDS)
+
+
+def parse_gp_date(text):
+    """GamerPower uses 'YYYY-MM-DD HH:MM:SS', and literal 'N/A' for open-ended."""
+    if not text or text.strip().upper() in ("N/A", "NA", ""):
+        return None
+    try:
+        naive = datetime.strptime(text.strip(), "%Y-%m-%d %H:%M:%S")
+        return naive.replace(tzinfo=timezone.utc)
+    except ValueError:
+        return parse_dt(text)
+
+
+def gamerpower_offers():
+    data = get_json(GAMERPOWER)
+
+    # 201 means "no active giveaways" and comes back as an object, not a list.
+    if not isinstance(data, list):
+        print(f"  GamerPower: no active giveaways ({data})")
+        return []
+
+    print(f"  GamerPower: {len(data)} game giveaways")
+    now = datetime.now(timezone.utc)
+    offers = []
+
+    for entry in data:
+        if not wanted_platform(entry):
+            continue
+        if (entry.get("status") or "Active").lower() != "active":
+            continue
+
+        ends = parse_gp_date(entry.get("end_date"))
+        if ends and ends < now:
+            continue
+
+        offers.append(make_offer(
+            title=entry.get("title"),
+            url=entry.get("open_giveaway_url") or entry.get("gamerpower_url"),
+            description=entry.get("description"),
+            image=entry.get("image") or entry.get("thumbnail"),
+            ends=ends,
+            store=entry.get("platforms") or "PC",
+            via="GamerPower",
+        ))
+
+    return offers
+
+
+# ── output ──────────────────────────────────────────────────────────────────
+
+def build_embed(offer):
+    desc = offer["description"]
+    if len(desc) > 280:
+        desc = desc[:277].rstrip() + "..."
+
+    embed = {
+        "title": f"🎮 {offer['title']} — FREE",
+        "url": offer["url"],
+        "description": desc,
+        "color": 0x0074E4,
+    }
+
+    if offer["image"]:
+        embed["image"] = {"url": offer["image"]}
+
+    bits = [offer["store"]]
+    if offer["ends"]:
+        local = offer["ends"].astimezone(LOCAL_TZ)
+        bits.append(f"claim before {local:%a %b %d, %-I:%M %p %Z}")
+    else:
+        bits.append("no listed deadline")
+    if offer["via"]:
+        bits.append("via GamerPower.com")
+
+    embed["footer"] = {"text": " · ".join(bits)}
+    return embed
+
+
+def post(url, embeds, content=None):
+    payload = {
+        "username": BRAND,
+        "allowed_mentions": {"parse": []},
+    }
+    if content:
+        payload["content"] = content
+    if embeds:
+        payload["embeds"] = embeds
+
+    req = urllib.request.Request(
+        url,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json", "User-Agent": "FreeGameAlert/1.0"},
+        method="POST",
+    )
+    with urllib.request.urlopen(req, timeout=20) as res:
+        print(f"posted ({res.status}) with {len(embeds)} embed(s)")
+
+
+# ── state ───────────────────────────────────────────────────────────────────
+
+def load_seen():
+    try:
+        with open(SEEN_FILE) as fh:
+            data = json.load(fh)
+            return set(data) if isinstance(data, list) else set()
+    except (FileNotFoundError, json.JSONDecodeError):
+        return set()
+
+
+def save_seen(seen):
+    # Keep the file from growing forever.
+    with open(SEEN_FILE, "w") as fh:
+        json.dump(sorted(seen)[-400:], fh, indent=1)
+
+
+# ── main ────────────────────────────────────────────────────────────────────
+
+def main():
+    dry = "--dry" in sys.argv
+    force = "--force" in sys.argv
+    webhook = os.environ.get("DISCORD_WEBHOOK", "").strip()
+
+    if not webhook and not dry:
+        print("DISCORD_WEBHOOK is not set.", file=sys.stderr)
+        return 1
+
+    if "--test" in sys.argv:
+        post(webhook, [{"title": "FreeGameAlert is online 🎮",
+                        "color": 0x0074E4}])
+        return 0
+
+    # Each source is independent. One failing must not silence the other.
+    offers, failures = [], []
+    for label, source in (("Epic", epic_offers), ("GamerPower", gamerpower_offers)):
+        try:
+            offers.extend(source())
+        except Exception as err:
+            failures.append(label)
+            print(f"  {label} failed: {err}", file=sys.stderr)
+
+    if failures and len(failures) == 2:
+        print("Both sources failed; nothing to do.", file=sys.stderr)
+        return 1
+
+    seen = set() if force else load_seen()
+    fresh, embeds = [], []
+    batch = set()          # collapses duplicates inside this single run
+
+    # Epic is processed first, so its richer entry wins any overlap.
+    for offer in offers:
+        tkey = title_key(offer["title"])
+        stamp = offer["ends"].date().isoformat() if offer["ends"] else "open"
+        key = f"{tkey}|{stamp}"
+
+        if tkey in batch:
+            print(f"  duplicate in this run, skipping: {offer['title']}")
+            continue
+        if key in seen or tkey in seen:
+            print(f"  already announced: {offer['title']}")
+            batch.add(tkey)
+            continue
+
+        print(f"  NEW: {offer['title']} [{offer['store']}] -> {offer['url']}")
+        embeds.append(build_embed(offer))
+        fresh.extend([key, tkey])
+        batch.add(tkey)
+
+    if not embeds:
+        print("Nothing new to announce.")
+        return 0
+
+    header = "**Free games right now** 🎉"
+    if any(e.get("footer", {}).get("text", "").endswith("via GamerPower.com")
+           for e in embeds):
+        header += f"\n-# Giveaway tracking via [GamerPower]({GAMERPOWER_SITE})"
+
+    if dry:
+        print("\n--- dry run, not posting ---")
+        print(json.dumps(embeds, indent=2, default=str)[:2500])
+        return 0
+
+    # Discord caps a message at 10 embeds.
+    try:
+        for index in range(0, len(embeds), 10):
+            chunk = embeds[index:index + 10]
+            post(webhook, chunk, content=header if index == 0 else None)
+    except urllib.error.HTTPError as err:
+        body = err.read().decode("utf-8", "replace")[:400]
+        print(f"Discord rejected the post: HTTP {err.code} {body}", file=sys.stderr)
+        return 1
+
+    seen.update(fresh)
+    save_seen(seen)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
