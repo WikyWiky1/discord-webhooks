@@ -48,6 +48,19 @@ time, and the two numbers should not be edited independently: raising the
 ceiling again without re-testing the gate against BREAKING_WORDS is how the
 channel fills up with deadlines and heart attacks.
 
+*** ON PROCEEDINGS ***
+An inquest into an explosion, an autopsy after an attack and a committee
+investigating a drone strike all carry a breaking word, and all three are
+about an event that happened weeks or months ago. Nothing in the feed says so:
+the article really was filed twenty minutes ago, so the age gate passes it.
+Three of eleven posts in one sample sweep were this.
+
+The line drawn is process versus outcome. A verdict, a sentencing or a
+decision not to charge is itself the event and still posts; the hearing, the
+deliberation and the testimony that precede it do not. See PROCESS_WORDS and
+BREAKING_OUTCOMES. This is a breaking-lane veto only - an inquest is a fine
+morning read, so it is not in MUTE_WORDS.
+
 *** ON DUPLICATES VERSUS DEVELOPMENTS ***
 A story that moves is not a story repeated. "Father to be sentenced" in the
 morning and "father jailed for 15 years" in the afternoon share four words out
@@ -434,6 +447,45 @@ NOT_BREAKING = (
     # A bill dying in committee is not a casualty event.
     "kills bill", "kills the bill", "kills deal", "kills the deal",
     "kills plan", "kills proposal", "kills measure", "kills amendment",
+)
+
+# Proceedings about an event that already happened. These carry a breaking
+# word - an inquest into an explosion, an autopsy after an attack - but the
+# event is weeks or months cold. The age gate cannot see it, because the
+# article really was filed twenty minutes ago; only the event is old.
+#
+# Breaking lane only, deliberately. An inquest is a perfectly good morning
+# read, so this veto lives in looks_breaking rather than in MUTE_WORDS.
+PROCESS_WORDS = (
+    "inquest", "autopsy", "post-mortem", "coroner", "toxicology",
+    "testifies", "testified", "testimony", "takes the stand",
+    "court hears", "jury hears", "hearing told", "trial hears",
+    "goes on trial", "trial begins", "trial opens", "on trial for",
+    "jury selection", "opening statements", "closing arguments",
+    "jury deliberat", "pleads not guilty", "arraigned", "arraignment",
+    "subpoena", "deposition", "lawsuit", "files suit", "sues over",
+    "anniversary of", "years after", "years since", "decade after",
+    # Oversight, not police work. The plain verb is far too broad to list -
+    # "police investigating shooting at mall" is exactly the kind of fresh
+    # event this gate exists to catch - so the actor has to be named.
+    "lawmakers investigating", "democrats investigating",
+    "republicans investigating", "committee investigating",
+    "congress investigating", "senate investigating",
+    "house investigating", "senators investigating",
+    "opens investigation", "launches investigation",
+    "calls for investigation", "demand answers", "demands answers",
+)
+
+# ...unless the headline carries one of these, because a decision is itself
+# the event. This is the whole distinction: the inquest is process, the
+# verdict is news. "Father to be sentenced" and "father jailed for 15 years"
+# both survive on this list, which is the point - that pair was the reason
+# for drawing the line here rather than muting the category wholesale.
+BREAKING_OUTCOMES = (
+    "sentenced", "sentencing", "convicted", "conviction", "verdict",
+    "acquitted", "cleared of", "jailed", "found guilty", "pleads guilty",
+    "no charges", "charges dropped", "charged", "indicted", "arrested",
+    "guilty of", "ruling", "ruled", "settles",
 )
 
 # Never posted in either lane. Edit freely - sports lives in another channel.
@@ -886,6 +938,9 @@ BREAKING_RE = _breaking_pattern()
 def looks_breaking(item):
     title = item["title"].lower()
     if any(phrase in title for phrase in NOT_BREAKING):
+        return False
+    if any(phrase in title for phrase in PROCESS_WORDS) \
+            and not any(word in title for word in BREAKING_OUTCOMES):
         return False
     return bool(BREAKING_RE.search(title))
 
