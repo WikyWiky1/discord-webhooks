@@ -1,0 +1,43 @@
+name: Holiday Clock
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+      timezone: 'America/Chicago'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Blank for a normal run, or type --test or --preview'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Run Holiday Clock
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          MODE: ${{ inputs.mode }}
+        run: python3 holiday_clock.py $MODE
+
+      - name: Keepalive commit
+        if: github.event_name == 'schedule'
+        run: |
+          if [ "$(date -u +%d)" = "01" ]; then
+            date -u +"%Y-%m-%dT%H:%M:%SZ" > .keepalive
+            git config user.name  "holiday-clock"
+            git config user.email "actions@users.noreply.github.com"
+            git add .keepalive
+            git commit -m "keepalive: keep the scheduled workflow enabled" || exit 0
+            git push
+          else
+            echo "Not the 1st of the month, skipping keepalive."
+          fi
