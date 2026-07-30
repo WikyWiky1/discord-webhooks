@@ -1,13 +1,20 @@
 #!/usr/bin/env python3
 """
 TOWN CRIER - WikyWiky Studios
-Two lanes, one script.
+Three lanes, one script.
 
   breaking  (default)  Sweeps wire feeds every ~20 minutes and posts anything
                        that is both recent and genuinely urgent. Up to 17 a
                        sweep, no more than 4 from any one outlet, and nothing
                        at all on a quiet run - the cap is a ceiling, not a
                        quota, and there is no floor under it.
+
+  --pulse               Sweeps the same feeds every few hours for the
+                       substantive, non-disaster news Breaking's gate is
+                       built to exclude - legislation, courts, the economy,
+                       elections, diplomacy, science and space. Up to 6 a
+                       sweep, no more than 2 from any one outlet, same no-
+                       floor rule as Breaking: a quiet run posts nothing.
 
   --morning            Posts exactly one interesting article to start the day.
                        One per run, never more.
@@ -88,11 +95,24 @@ That is why --check now fails a feed on staleness, not just on errors. Run it
 monthly. If something goes STALE, the fix is almost always to move that source
 onto the Google News pattern the wires already use.
 
+*** WHY PULSE IS A SEPARATE LANE, NOT A LOOSER BREAKING ***
+Breaking's gate is disasters on purpose - that is what BREAKING_WORDS is for,
+and it should stay that way. But a channel that only ever posts disasters
+reads as if disasters are the only thing happening, which is a distortion of
+its own. Pulse is the correction: a second gate (PULSE_WORDS/PULSE_PHRASES),
+a slower cadence, and a hard line against the first gate's subject matter -
+looks_pulse refuses anything looks_breaking already claims, even on the one
+word the two lists share (a ceasefire can be both; it is left to Breaking).
+Loosening BREAKING_WORDS instead would have meant either disasters drowning
+out the calmer news or the calmer news diluting the urgency of real ones.
+Two gates keeps both jobs honest.
+
 Flags:
   --check     fetch every feed, report counts, freshness and images, post none
   --dry       print what it would post, send nothing
   --test      send a single "online" message
   --morning   run the morning pick instead of the breaking sweep
+  --pulse     run the pulse sweep instead of the breaking sweep
 """
 
 import email.utils
@@ -165,6 +185,19 @@ POST_GAP_SECONDS = 1.5          # spacing between messages, Discord rate limit
 # enough that a story running all month can still surface when it moves.
 DEDUPE_WINDOW_HOURS = 48
 
+# Pulse: the third lane. Breaking is disasters, on a 20-minute sweep, no
+# floor. Morning is one science-flavored pick, once a day. Neither one ever
+# reports "Congress passed a budget" or "the Fed held rates" - Pulse exists
+# to run every few hours and cover the substantive, non-morbid news the other
+# two lanes structurally cannot.
+#
+# The age window is wider than the sweep cadence on purpose, the same way
+# Breaking's 120-minute gate outruns its 20-minute schedule: a missed or
+# delayed run should not mean the story never surfaces at all.
+PULSE_MAX_PER_RUN = 6
+PULSE_MAX_PER_OUTLET_PER_RUN = 2
+PULSE_MAX_AGE_MINUTES = 240  # 4h against a 3h cadence
+
 # Log-only. When a pick sits between this and SIMILARITY_THRESHOLD it is
 # printed with its score, so a run that looks like a repeat can be checked
 # against the number that let it through. See the note above on why this is a
@@ -183,6 +216,7 @@ STALE_FEED_HOURS = 36
 # the breaking posts to be as loud visually as the morning read is.
 MORNING_IMAGE = "image"
 BREAKING_IMAGE = "thumbnail"
+PULSE_IMAGE = "thumbnail"
 
 # Anything through Google News arrives with no picture. Two fallbacks, in
 # order: borrow the photo from another outlet's copy of the same story (free,
@@ -224,7 +258,7 @@ FEEDS = [
         "url": GOOGLE_NEWS.format(site="reuters.com"),
         "weight": 3.0,
         "color": 0xFF8000,
-        "lanes": ("breaking", "morning"),
+        "lanes": ("breaking", "pulse", "morning"),
         "suffix": ("Reuters", "reuters.com"),
         "paywall": True,
     },
@@ -238,7 +272,7 @@ FEEDS = [
                "&hl=en-US&gl=US&ceid=US%3Aen",
         "weight": 3.0,
         "color": 0xFF8000,
-        "lanes": ("breaking", "morning"),
+        "lanes": ("breaking", "pulse", "morning"),
         "suffix": ("Reuters", "reuters.com"),
         "paywall": True,
     },
@@ -247,7 +281,7 @@ FEEDS = [
         "url": GOOGLE_NEWS.format(site="apnews.com"),
         "weight": 2.5,
         "color": 0xFF322E,
-        "lanes": ("breaking", "morning"),
+        "lanes": ("breaking", "pulse", "morning"),
         "suffix": ("AP News", "The Associated Press", "Associated Press",
                    "apnews.com", "AP"),
     },
@@ -258,21 +292,21 @@ FEEDS = [
         "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
         "weight": 2.0,
         "color": 0xBB1919,
-        "lanes": ("breaking", "morning"),
+        "lanes": ("breaking", "pulse", "morning"),
     },
     {
         "name": "NPR News",
         "url": "https://feeds.npr.org/1001/rss.xml",
         "weight": 2.0,
         "color": 0x4A90D9,
-        "lanes": ("breaking", "morning"),
+        "lanes": ("breaking", "pulse", "morning"),
     },
     {
         "name": "Guardian World",
         "url": "https://www.theguardian.com/world/rss",
         "weight": 1.5,
         "color": 0x052962,
-        "lanes": ("breaking", "morning"),
+        "lanes": ("breaking", "pulse", "morning"),
     },
 
     # ── right of center. Weighted at or above their opposite numbers so the
@@ -289,7 +323,7 @@ FEEDS = [
         "url": GOOGLE_NEWS.format(site="wsj.com"),
         "weight": 3.0,
         "color": 0x0274B6,
-        "lanes": ("breaking", "morning"),
+        "lanes": ("breaking", "pulse", "morning"),
         "suffix": ("The Wall Street Journal", "Wall Street Journal",
                    "wsj.com", "WSJ"),
         "paywall": True,
@@ -299,7 +333,7 @@ FEEDS = [
         "url": GOOGLE_NEWS.format(site="telegraph.co.uk"),
         "weight": 2.6,
         "color": 0x122B49,
-        "lanes": ("breaking", "morning"),
+        "lanes": ("breaking", "pulse", "morning"),
         "suffix": ("The Telegraph", "Telegraph.co.uk", "telegraph.co.uk"),
         "paywall": True,
     },
@@ -308,21 +342,21 @@ FEEDS = [
         "url": "https://feeds.foxnews.com/foxnews/world",
         "weight": 2.5,
         "color": 0x003366,
-        "lanes": ("breaking", "morning"),
+        "lanes": ("breaking", "pulse", "morning"),
     },
     {
         "name": "New York Post",
         "url": "https://nypost.com/feed/",
         "weight": 2.0,
         "color": 0xC60800,
-        "lanes": ("breaking", "morning"),
+        "lanes": ("breaking", "pulse", "morning"),
     },
     {
         "name": "Washington Examiner",
         "url": "https://www.washingtonexaminer.com/feed",
         "weight": 2.0,
         "color": 0x0A2240,
-        "lanes": ("breaking", "morning"),
+        "lanes": ("breaking", "pulse", "morning"),
     },
 
     # ── center. The ballast. ──
@@ -331,14 +365,14 @@ FEEDS = [
         "url": "https://feeds.skynews.com/feeds/rss/home.xml",
         "weight": 2.2,
         "color": 0xC70000,
-        "lanes": ("breaking", "morning"),
+        "lanes": ("breaking", "pulse", "morning"),
     },
     {
         "name": "The Hill",
         "url": "https://thehill.com/news/feed/",
         "weight": 2.0,
         "color": 0x2E4B33,
-        "lanes": ("breaking", "morning"),
+        "lanes": ("breaking", "pulse", "morning"),
     },
 
     # Morning-only. These exist to give the daily pick something worth reading
@@ -509,6 +543,33 @@ MUTE_WORDS = (
 MUTE_URL_PARTS = (
     "/video/", "/videos/", "/gallery/", "/galleries/", "/photos/",
     "/podcast/", "/podcasts/", "/slideshow",
+)
+
+# The Pulse lane's gate - same shape as BREAKING_WORDS/PHRASES, same
+# word-boundary matcher, deliberately disjoint subject matter. Breaking is
+# disasters and only disasters, on purpose; Pulse is everything substantive
+# that isn't one - legislation, courts, the economy, elections, diplomacy,
+# science and space. Not fluff (that's still MUTE_WORDS's job), not morbid
+# (that's the point of a second lane instead of loosening the first one).
+#
+# The source roster is the same wire/national outlets Breaking reads, so
+# "unveils" or "opens" firing on a small paper's local-business piece isn't a
+# real risk here the way it would be on an unfiltered feed.
+PULSE_WORDS = (
+    "congress", "senate", "legislation", "budget", "election", "elects",
+    "primary", "runoff", "nominates", "nomination", "treaty", "sanctions",
+    "summit", "stocks", "nasdaq", "inflation", "unemployment", "earnings",
+    "tariff", "unveils", "discovery", "discovers", "mission", "spacex",
+    "rover", "vaccine", "nobel", "ceasefire",
+)
+
+PULSE_PHRASES = (
+    "house passes", "senate passes", "passes bill", "signs bill",
+    "signs into law", "supreme court rules", "court rules", "trade deal",
+    "peace deal", "agreement reached", "talks resume", "stock market",
+    "wall street", "interest rate", "federal reserve", "jobs report",
+    "clinical trial", "sworn in", "wins election", "wins nobel",
+    "breaks ground", "spending bill", "trade war", "vaccine approved",
 )
 
 # Nudges the morning pick toward things worth thinking about over coffee.
@@ -918,21 +979,22 @@ def muted(item):
     return any(part in link for part in MUTE_URL_PARTS)
 
 
-def _breaking_pattern():
-    """Compiled once. Whole words and phrases get a boundary on both ends;
-    stems get one on the left only, so 'evacuat' still catches 'evacuations'
-    while 'coup' can no longer catch 'couple'."""
-    exact = [re.escape(w) for w in BREAKING_WORDS + BREAKING_PHRASES]
-    stems = [re.escape(s) for s in BREAKING_STEMS]
+def _word_pattern(words=(), phrases=(), stems=()):
+    """Shared by both lane gates. Whole words and phrases get a boundary on
+    both ends; stems get one on the left only, so 'evacuat' still catches
+    'evacuations' while 'coup' can no longer catch 'couple'."""
+    exact = [re.escape(w) for w in tuple(words) + tuple(phrases)]
+    stem_esc = [re.escape(s) for s in stems]
     parts = []
     if exact:
         parts.append(r"\b(?:" + "|".join(exact) + r")\b")
-    if stems:
-        parts.append(r"\b(?:" + "|".join(stems) + r")")
+    if stem_esc:
+        parts.append(r"\b(?:" + "|".join(stem_esc) + r")")
     return re.compile("|".join(parts), re.I)
 
 
-BREAKING_RE = _breaking_pattern()
+BREAKING_RE = _word_pattern(BREAKING_WORDS, BREAKING_PHRASES, BREAKING_STEMS)
+PULSE_RE = _word_pattern(PULSE_WORDS, PULSE_PHRASES)
 
 
 def looks_breaking(item):
@@ -943,6 +1005,15 @@ def looks_breaking(item):
             and not any(word in title for word in BREAKING_OUTCOMES):
         return False
     return bool(BREAKING_RE.search(title))
+
+
+def looks_pulse(item):
+    """The Pulse gate. Disasters stay Breaking's alone - a headline that
+    already clears looks_breaking is left there rather than doubled up here,
+    even on the rare word both gates share (a ceasefire, say)."""
+    if looks_breaking(item):
+        return False
+    return bool(PULSE_RE.search(item["title"].lower()))
 
 
 def score_interest(item):
@@ -1045,6 +1116,56 @@ def pick_breaking(items, state):
     return picks
 
 
+def pick_pulse(items, state):
+    """Same shape as pick_breaking - gate, freshness/weight rank, per-outlet
+    cap, shared dedupe window - with its own numbers and its own gate. The
+    dedupe fingerprints and the seen-id set are shared with Breaking on
+    purpose: a story Breaking already posted should not resurface here just
+    because it also happens to use a Pulse word."""
+    now = datetime.now(timezone.utc)
+    fingerprints = [p["fp"] for p in recent_posts(state, DEDUPE_WINDOW_HOURS,
+                                                  now)]
+    picks = []
+    per_outlet = {}
+
+    ordered = sorted(items, key=lambda i: breaking_rank(i, now))
+
+    for item in ordered:
+        if item["id"] in state["ids"]:
+            continue
+        if muted(item):
+            continue
+        if per_outlet.get(item["outlet"], 0) >= PULSE_MAX_PER_OUTLET_PER_RUN:
+            continue
+        age = age_minutes(item, now)
+        if age is None or age > PULSE_MAX_AGE_MINUTES:
+            continue
+        if not looks_pulse(item):
+            continue
+
+        fp = fingerprint(item["title"])
+        if too_similar(fp, fingerprints):
+            print(f"  duplicate story, skipping: {clip(item['title'], 60)}")
+            continue
+
+        fingerprints.append(fp)
+        item["fingerprint"] = fp
+        per_outlet[item["outlet"]] = per_outlet.get(item["outlet"], 0) + 1
+        picks.append(item)
+        print(f"  PULSE: [{item['source']}] {clip(item['title'], 70)}")
+        note_related(fp, state, now)
+
+        if len(picks) >= PULSE_MAX_PER_RUN:
+            print(f"  hit the per-run cap of {PULSE_MAX_PER_RUN}")
+            break
+
+    if picks:
+        spread = ", ".join(f"{name} {count}" for name, count
+                           in sorted(per_outlet.items()))
+        print(f"  {len(picks)} to post ({spread})")
+    return picks
+
+
 def pick_morning(items, state):
     """Exactly one article. Scored for interest, with a small daily random
     nudge so it does not pick the same kind of story every morning."""
@@ -1113,7 +1234,8 @@ def build_embed(item, lane="breaking"):
             "inline": True,
         })
 
-    style = MORNING_IMAGE if lane == "morning" else BREAKING_IMAGE
+    style = {"morning": MORNING_IMAGE, "pulse": PULSE_IMAGE}.get(
+        lane, BREAKING_IMAGE)
     if style in ("image", "thumbnail") and item.get("image"):
         embed[style] = {"url": item["image"]}
 
@@ -1321,7 +1443,12 @@ def main():
         return check_feeds()
 
     dry = "--dry" in sys.argv
-    lane = "morning" if "--morning" in sys.argv else "breaking"
+    if "--morning" in sys.argv:
+        lane = "morning"
+    elif "--pulse" in sys.argv:
+        lane = "pulse"
+    else:
+        lane = "breaking"
 
     # Its own secret so news can go to a different channel than StormWatch.
     # Falls back to the StormWatch webhook if you'd rather share one channel.
@@ -1341,7 +1468,9 @@ def main():
         post(webhook, [{
             "title": "Town Crier is online",
             "description": f"Watching {len(FEEDS)} feeds. Breaking sweeps run "
-                           "through the day; one pick lands each morning.",
+                           "through the day, Pulse covers the substantive "
+                           "non-disaster news every few hours, and one pick "
+                           "lands each morning.",
             "color": 0x3BA55D,
         }])
         return 0
@@ -1351,8 +1480,9 @@ def main():
     print(f"{len(items)} item(s) collected.")
 
     state = load_state()
-    picks = pick_morning(items, state) if lane == "morning" \
-        else pick_breaking(items, state)
+    picker = {"morning": pick_morning, "pulse": pick_pulse}.get(
+        lane, pick_breaking)
+    picks = picker(items, state)
 
     if not picks:
         print("Nothing worth posting.")
@@ -1373,7 +1503,8 @@ def main():
         print(json.dumps([build_embed(i, lane) for i in picks], indent=2))
         return 0
 
-    header = "Morning read" if lane == "morning" else "Breaking"
+    header = {"morning": "Morning read", "pulse": "Pulse"}.get(
+        lane, "Breaking")
 
     # State is saved after every successful send. If send 2 of 3 dies, the
     # first one stays recorded and does not repost on the next sweep.
