@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-HOLIDAY CLOCK - WikyWiky Studios
+HOLIDAY HERALD - WikyWiky Studios
 Posts holiday countdowns to a Discord webhook. Runs once a day on GitHub's
 servers. No state file, no database: the schedule is pure date math, so it
 works for 2027, 2028, 2050 with zero maintenance.
@@ -75,7 +75,7 @@ def due_today(today):
 
 def post(url, text, color):
     payload = {
-        "username": "Holiday Clock",
+        "username": "Holiday Herald",
         "allowed_mentions": {"parse": []},          # never pings anyone
         "embeds": [{"title": text, "color": color}],
         # Want plain text instead of a colored embed?
@@ -109,7 +109,7 @@ def main():
         return 1
 
     messages = (
-        [("Holiday Clock is online 🕰️", 0x8B5CF6)]
+        [("Holiday Herald is online 🕰️", 0x8B5CF6)]
         if "--test" in sys.argv
         else due_today(today)
     )
