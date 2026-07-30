@@ -20,6 +20,7 @@ Flags:
 import json
 import os
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -44,6 +45,12 @@ USER_AGENT = (
 API = "https://api.weather.gov"
 BRAND = "StormWatch"
 SEEN_FILE = "weather_seen.json"
+
+# How many alert IDs to remember, and how long to wait between messages.
+# Discord's webhook limit is roughly 5 requests per 2 seconds; during an
+# outbreak this script can easily have a dozen alerts to send at once.
+SEEN_LIMIT = 500
+POST_GAP_SECONDS = 1.5
 
 # UGC county codes: 2-letter state + "C" + 3-digit FIPS county code.
 # Run --check to confirm each of these resolves to the county you expect.
@@ -201,6 +208,21 @@ def build_embed(props):
 
 # ── posting ─────────────────────────────────────────────────────────────────
 
+def retry_after_seconds(err):
+    """Pull the wait time out of a Discord 429 body. Discord has reported
+    retry_after in both seconds and milliseconds over the years, so treat
+    anything implausibly large as milliseconds."""
+    wait = 2.0
+    try:
+        info = json.loads(err.read().decode("utf-8", "replace"))
+        wait = float(info.get("retry_after", wait))
+        if wait > 100:
+            wait /= 1000.0
+    except Exception:
+        pass
+    return min(max(wait, 0.5), 30.0)
+
+
 def post(url, embeds, content=None):
     payload = {"username": BRAND, "allowed_mentions": {"parse": []}}
     if content:
@@ -214,24 +236,42 @@ def post(url, embeds, content=None):
         headers={"Content-Type": "application/json", "User-Agent": "StormWatch/1.0"},
         method="POST",
     )
-    with urllib.request.urlopen(req, timeout=20) as res:
-        print(f"  posted ({res.status})")
+
+    # An outbreak means a burst of messages, which means Discord will rate
+    # limit us. Back off and retry rather than failing the whole run.
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(req, timeout=20) as res:
+                print(f"  posted ({res.status})")
+                return
+        except urllib.error.HTTPError as err:
+            if err.code != 429 or attempt == 3:
+                raise
+            wait = retry_after_seconds(err)
+            print(f"  rate limited, waiting {wait:.1f}s")
+            time.sleep(wait)
 
 
 # ── state ───────────────────────────────────────────────────────────────────
 
 def load_seen():
+    """Returns a list, oldest first, newest last. Order matters: the trim in
+    save_seen drops from the front, so it has to be chronological. Files
+    written by the old set-based version load fine and self-correct as new
+    IDs get appended."""
     try:
         with open(SEEN_FILE) as fh:
             data = json.load(fh)
-            return set(data) if isinstance(data, list) else set()
     except (FileNotFoundError, json.JSONDecodeError):
-        return set()
+        return []
+    if not isinstance(data, list):
+        return []
+    return list(dict.fromkeys(str(item) for item in data))
 
 
 def save_seen(seen):
     with open(SEEN_FILE, "w") as fh:
-        json.dump(sorted(seen)[-500:], fh, indent=1)
+        json.dump(seen[-SEEN_LIMIT:], fh, indent=1)
 
 
 # ── main ────────────────────────────────────────────────────────────────────
@@ -266,7 +306,7 @@ def main():
     print(f"NWS returned {len(features)} active alert(s) for {len(ZONES)} counties.")
 
     seen = load_seen()
-    fresh, posts = [], []
+    posts = []
 
     for feature in features:
         props = feature.get("properties") or {}
@@ -281,8 +321,7 @@ def main():
             continue
 
         print(f"  NEW: {event} - {clip(props.get('areaDesc'), 60)}")
-        posts.append(build_embed(props))
-        fresh.append(ident)
+        posts.append((ident, build_embed(props)))
 
     if not posts:
         print("Nothing new to post.")
@@ -290,22 +329,27 @@ def main():
 
     if dry:
         print("\n--- dry run, not posting ---")
-        print(json.dumps(posts, indent=2))
+        print(json.dumps([embed for _, embed in posts], indent=2))
         return 0
 
-    # One message per alert so each gets its own notification.
+    # One message per alert so each gets its own notification. State is saved
+    # after every successful send - if send #7 of 15 dies, the first six stay
+    # recorded and don't get reposted on the next run.
+    failed = 0
     try:
-        for embed in posts:
+        for index, (ident, embed) in enumerate(posts):
+            if index:
+                time.sleep(POST_GAP_SECONDS)
             headline = embed["title"]
             post(webhook, [embed], content=f"🚨 {headline.strip('🚨 ')} 🚨")
+            seen.append(ident)
+            save_seen(seen)
     except urllib.error.HTTPError as err:
         body = err.read().decode("utf-8", "replace")[:400]
         print(f"Discord rejected the post: HTTP {err.code} {body}", file=sys.stderr)
-        return 1
+        failed = 1
 
-    seen.update(fresh)
-    save_seen(seen)
-    return 0
+    return failed
 
 
 if __name__ == "__main__":
