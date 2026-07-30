@@ -1,0 +1,54 @@
+name: Free Game Alert
+
+on:
+  schedule:
+    - cron: '30 10 * * *'
+      timezone: 'America/Chicago'
+
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'What should this run do?'
+        type: choice
+        required: true
+        default: 'normal run'
+        options:
+          - 'normal run'
+          - 'test post'
+          - 'dry run (no posting)'
+          - 'force repost'
+
+permissions:
+  contents: write
+
+jobs:
+  alert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v5
+
+      - name: Check Epic for freebies
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.GAMES_WEBHOOK }}
+          MODE: ${{ inputs.mode }}
+        run: |
+          case "$MODE" in
+            "test post")            python3 free_games.py --test ;;
+            "dry run (no posting)") python3 free_games.py --dry ;;
+            "force repost")         python3 free_games.py --force ;;
+            *)                      python3 free_games.py ;;
+          esac
+
+      - name: Remember what was announced
+        run: |
+          if [ -n "$(git status --porcelain seen.json)" ]; then
+            git config user.name  "free-game-alert"
+            git config user.email "actions@users.noreply.github.com"
+            git add seen.json
+            git commit -m "seen: record announced free games"
+            git push
+          else
+            echo "seen.json unchanged, nothing to commit."
+          fi
