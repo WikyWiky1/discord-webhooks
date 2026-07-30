@@ -1,10 +1,18 @@
 #!/usr/bin/env python3
 """
 FREE GAME ALERT - WikyWiky Studios
-Posts Epic Games Store weekly freebies to a Discord webhook, with links.
+Posts free PC game giveaways to a Discord webhook, with claim links.
+
+Sources:
+  1. Epic Games Store, direct from their own promotions endpoint (most detail)
+  2. GamerPower, which aggregates Steam, GOG, itch.io, DRM-free and more
 
 Runs daily. Remembers what it already announced in seen.json, so a game is
-posted once when it goes free, not every day for a week.
+posted once when it goes free, not every day for a week. Overlapping offers
+(Epic appears in both sources) are collapsed by title.
+
+Giveaway data for non-Epic stores comes from GamerPower.com, whose terms
+require visible attribution. The footer link stays.
 
 Flags:
   --dry     print what it would post, send nothing
@@ -31,15 +39,26 @@ FEED = (
     "?locale=en-US&country=US&allowCountries=US"
 )
 STORE = "https://store.epicgames.com/en-US"
+
+GAMERPOWER = "https://www.gamerpower.com/api/giveaways?type=game&sort-by=date"
+GAMERPOWER_SITE = "https://www.gamerpower.com"
+
+# Which GamerPower platforms to accept. Bare "pc" is deliberately absent -
+# it sweeps in key-site signup giveaways and would flood the channel.
+WANTED_PLATFORMS = ("steam", "gog", "epic", "itch", "drm-free")
+
+# Prime Gaming has no platform tag of its own, so catch it by name.
+PLATFORM_KEYWORDS = ("prime gaming", "amazon prime")
+
 SEEN_FILE = "seen.json"
 BRAND = "FreeGameAlert"
 
 
 # ── fetching ────────────────────────────────────────────────────────────────
 
-def fetch_feed():
+def get_json(url):
     req = urllib.request.Request(
-        FEED, headers={"User-Agent": "Mozilla/5.0 (FreeGameAlert/1.0)"}
+        url, headers={"User-Agent": "Mozilla/5.0 (FreeGameAlert/1.0)"}
     )
     with urllib.request.urlopen(req, timeout=30) as res:
         return json.loads(res.read().decode("utf-8"))
@@ -116,166 +135,4 @@ def store_link(element):
         if HASH_SLUG.match(candidate):
             fallback = fallback or candidate   # keep it, but prefer a real slug
             continue
-        return f"{STORE}/{kind}/{candidate}"
-
-    if fallback:
-        return f"{STORE}/{kind}/{fallback}"
-    return f"{STORE}/free-games"
-
-
-def artwork(element):
-    images = element.get("keyImages") or []
-    preferred = ("OfferImageWide", "DieselStoreFrontWide", "featuredMedia",
-                 "OfferImageTall", "Thumbnail")
-    for want in preferred:
-        for image in images:
-            if image.get("type") == want and image.get("url"):
-                return image["url"]
-    return images[0].get("url") if images and images[0].get("url") else None
-
-
-def key_for(element, end):
-    ident = element.get("id") or element.get("title") or "?"
-    stamp = end.date().isoformat() if end else "?"
-    return f"{ident}|{stamp}"
-
-
-# ── output ──────────────────────────────────────────────────────────────────
-
-def build_embed(element, end):
-    title = element.get("title") or "Untitled"
-    desc = (element.get("description") or "").strip()
-    if len(desc) > 280:
-        desc = desc[:277].rstrip() + "..."
-
-    embed = {
-        "title": f"🎮 {title} — FREE",
-        "url": store_link(element),
-        "description": desc,
-        "color": 0x0074E4,
-    }
-
-    image = artwork(element)
-    if image:
-        embed["image"] = {"url": image}
-
-    if end:
-        local = end.astimezone(LOCAL_TZ)
-        embed["footer"] = {"text": f"Claim before {local:%a %b %d, %-I:%M %p %Z}"}
-
-    return embed
-
-
-def post(url, embeds, content=None):
-    payload = {
-        "username": BRAND,
-        "allowed_mentions": {"parse": []},
-    }
-    if content:
-        payload["content"] = content
-    if embeds:
-        payload["embeds"] = embeds
-
-    req = urllib.request.Request(
-        url,
-        data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json", "User-Agent": "FreeGameAlert/1.0"},
-        method="POST",
-    )
-    with urllib.request.urlopen(req, timeout=20) as res:
-        print(f"posted ({res.status}) with {len(embeds)} embed(s)")
-
-
-# ── state ───────────────────────────────────────────────────────────────────
-
-def load_seen():
-    try:
-        with open(SEEN_FILE) as fh:
-            data = json.load(fh)
-            return set(data) if isinstance(data, list) else set()
-    except (FileNotFoundError, json.JSONDecodeError):
-        return set()
-
-
-def save_seen(seen):
-    # Keep the file from growing forever.
-    with open(SEEN_FILE, "w") as fh:
-        json.dump(sorted(seen)[-120:], fh, indent=1)
-
-
-# ── main ────────────────────────────────────────────────────────────────────
-
-def main():
-    dry = "--dry" in sys.argv
-    force = "--force" in sys.argv
-    webhook = os.environ.get("DISCORD_WEBHOOK", "").strip()
-
-    if not webhook and not dry:
-        print("DISCORD_WEBHOOK is not set.", file=sys.stderr)
-        return 1
-
-    if "--test" in sys.argv:
-        post(webhook, [{"title": "FreeGameAlert is online 🎮",
-                        "color": 0x0074E4}])
-        return 0
-
-    try:
-        feed = fetch_feed()
-    except Exception as err:
-        print(f"Could not reach Epic: {err}", file=sys.stderr)
-        return 1
-
-    items = elements(feed)
-    if not items:
-        print("Epic returned no elements. Their response shape may have changed.",
-              file=sys.stderr)
-        print(f"Top-level keys seen: {list(feed.keys())}", file=sys.stderr)
-        return 1
-
-    print(f"Epic returned {len(items)} catalog entries.")
-
-    now = datetime.now(timezone.utc)
-    seen = set() if force else load_seen()
-    fresh, embeds = [], []
-
-    for element in items:
-        free, end = is_free_now(element, now)
-        if not free or was_already_free(element):
-            continue
-
-        key = key_for(element, end)
-        title = element.get("title", "?")
-
-        if key in seen:
-            print(f"  already announced: {title}")
-            continue
-
-        print(f"  NEW: {title} -> {store_link(element)}")
-        embeds.append(build_embed(element, end))
-        fresh.append(key)
-
-    if not embeds:
-        print("Nothing new to announce.")
-        return 0
-
-    header = "**Free on Epic right now** 🎉"
-
-    if dry:
-        print("\n--- dry run, not posting ---")
-        print(json.dumps(embeds, indent=2)[:2000])
-        return 0
-
-    try:
-        post(webhook, embeds[:10], content=header)
-    except urllib.error.HTTPError as err:
-        body = err.read().decode("utf-8", "replace")[:400]
-        print(f"Discord rejected the post: HTTP {err.code} {body}", file=sys.stderr)
-        return 1
-
-    seen.update(fresh)
-    save_seen(seen)
-    return 0
-
-
-if __name__ == "__main__":
-    sys.exit(main())
+        return f"{STORE}
