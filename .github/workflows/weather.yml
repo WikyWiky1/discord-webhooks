@@ -1,0 +1,68 @@
+name: Storm Watch
+
+on:
+  # Every 5 minutes is GitHub's floor, and runs are best-effort - expect real
+  # lag. IMPORTANT: Actions minutes are unlimited on PUBLIC repos but capped
+  # at 2,000/month on a private Free plan. 5-minute polling is roughly
+  # 8,600 minutes/month, so this cadence needs a public repo.
+  #
+  # Staying private? Use '*/20 * * * *' (~2,100/mo, still slightly over) or
+  # '*/30 * * * *' (~1,400/mo, safe) and accept the delay.
+  schedule:
+    - cron: '*/5 * * * *'
+
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'What should this run do?'
+        type: choice
+        required: true
+        default: 'normal run'
+        options:
+          - 'normal run'
+          - 'verify county codes'
+          - 'test post'
+          - 'dry run (no posting)'
+
+permissions:
+  contents: write
+
+# Never let two polls run at once - that would double-post.
+concurrency:
+  group: storm-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v5
+
+      - name: Check NWS for active alerts
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.WEATHER_WEBHOOK }}
+          NWS_CONTACT_EMAIL: ${{ secrets.NWS_CONTACT_EMAIL }}
+          MODE: ${{ inputs.mode }}
+        run: |
+          case "$MODE" in
+            "verify county codes")  python3 weather_alert.py --check ;;
+            "test post")            python3 weather_alert.py --test ;;
+            "dry run (no posting)") python3 weather_alert.py --dry ;;
+            *)                      python3 weather_alert.py ;;
+          esac
+
+      - name: Remember what was posted
+        run: |
+          if [ -n "$(git status --porcelain weather_seen.json)" ]; then
+            git config user.name  "storm-watch"
+            git config user.email "actions@users.noreply.github.com"
+            git add weather_seen.json
+            git commit -m "storm: record posted alerts"
+            # Another workflow may have pushed since checkout.
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git push
+          else
+            echo "No new alerts to record."
+          fi
