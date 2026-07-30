@@ -4,8 +4,10 @@ TOWN CRIER - WikyWiky Studios
 Two lanes, one script.
 
   breaking  (default)  Sweeps wire feeds every ~20 minutes and posts anything
-                       that is both recent and genuinely urgent. Hard capped so
-                       it can never flood the channel.
+                       that is both recent and genuinely urgent. Up to 17 a
+                       sweep, no more than 4 from any one outlet, and nothing
+                       at all on a quiet run - the cap is a ceiling, not a
+                       quota, and there is no floor under it.
 
   --morning            Posts exactly one interesting article to start the day.
                        One per run, never more.
@@ -36,6 +38,36 @@ Google News does not, so a bare item first tries to borrow the photo off
 another outlet's copy of the same story - credited in the footer - and failing
 that has its og:image pulled from the article page.
 
+*** ON THE CEILING AND THE GATE ***
+These two move together. The ceiling used to be 3, which meant the keyword
+gate could be sloppy - a headline that matched "coup" because it contained
+"couple" still had to outrank three real emergencies to reach the channel, and
+it almost never did. Raising the ceiling removes that competition, so anything
+the gate admits now posts. The gate was rebuilt on word boundaries at the same
+time, and the two numbers should not be edited independently: raising the
+ceiling again without re-testing the gate against BREAKING_WORDS is how the
+channel fills up with deadlines and heart attacks.
+
+*** ON DUPLICATES VERSUS DEVELOPMENTS ***
+A story that moves is not a story repeated. "Father to be sentenced" in the
+morning and "father jailed for 15 years" in the afternoon share four words out
+of thirteen - 0.31 overlap, nowhere near the 0.55 dedupe bar - so both post,
+correctly. That is working as intended; do not tighten the threshold to
+"fix" it.
+
+Linking the second post back to the first was tried and abandoned. Measured on
+real pairs, the fingerprint cannot tell a development from a different event of
+the same kind: two wildfire evacuation headlines from California and Spain
+score 0.43, higher than the sentencing pair above scores against itself. Any
+threshold that catches the follow-ups also captions unrelated disasters as
+each other. The overlap is still printed to the log when a pick lands in that
+band, so the sweep is legible, but nothing goes in the embed on that basis.
+
+Dedupe memory is time boxed rather than counted. Holding the last N headlines
+forever meant the window silently stretched from a day and a half in a busy
+week to several weeks in a quiet one, and a long-running story could be muted
+by a headline nobody remembered. See DEDUPE_WINDOW_HOURS.
+
 *** ON FEED ROT ***
 Feeds do not fail loudly. They freeze. Both WSJ and the Telegraph were serving
 well-formed XML full of articles from 2024 and reporting themselves healthy.
@@ -62,7 +94,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 try:
     from zoneinfo import ZoneInfo
@@ -85,14 +117,47 @@ JUNK_IMAGE_HINTS = ("1x1", "pixel", "spacer", "favicon", "/logo", "blank.")
 # These are the anti-spam controls. If the channel ever gets noisy, this block
 # is the only thing you need to touch.
 
-MAX_BREAKING_PER_RUN = 3        # hard ceiling per sweep, no exceptions
+# Ceiling, not a target. There is no floor and never was: a sweep that finds
+# nothing urgent posts nothing and says so. This number only decides how much
+# a genuinely busy two hours is allowed to deliver at once.
+#
+# Note what it costs. The sweep runs every 20 minutes but looks back 120, so
+# the first run after raising this will clear the whole backlog in that window
+# in one go - up to the new ceiling, all at once. After that it settles: each
+# sweep only sees what is new since the last one, because everything else is
+# already in the seen file. If the catch-up burst matters, run --dry first to
+# see its size.
+MAX_BREAKING_PER_RUN = 17
+
+# Per outlet, per sweep. The old ceiling of 3 was doing two jobs at once, and
+# only one of them was flood control - it also stopped any single paper from
+# owning the channel, simply by running out of room. At 17 that stops being
+# automatic, so it is stated instead. Seventeen stories from seventeen desks
+# is a wire feed; seventeen from one desk is that paper's front page.
+MAX_PER_OUTLET_PER_RUN = 4
 BREAKING_MAX_AGE_MINUTES = 120  # older than this is not breaking, it is news
 BREAKING_FRESHNESS_BUCKET_MINUTES = 30  # inside one bucket, source weight wins
 MORNING_WINDOW_HOURS = 30       # how far back the morning pick may reach
 SIMILARITY_THRESHOLD = 0.55     # 0-1; higher = more willing to post near-dupes
 SEEN_LIMIT = 800                # article IDs remembered
-TITLE_LIMIT = 300               # headline fingerprints remembered
+POST_MEMORY_LIMIT = 400         # posted headlines remembered
 POST_GAP_SECONDS = 1.5          # spacing between messages, Discord rate limit
+
+# How far back the dedupe actually looks. The count above is only a ceiling on
+# the file size; this is the real window, and it is in hours on purpose. At
+# three posts a sweep the old count-only memory covered a day and a half in a
+# heavy news week and a month in a slow one, which meant "have we posted this?"
+# quietly meant something different depending on the week. Two days is long
+# enough that no outlet's re-file of the same headline slips through and short
+# enough that a story running all month can still surface when it moves.
+DEDUPE_WINDOW_HOURS = 48
+
+# Log-only. When a pick sits between this and SIMILARITY_THRESHOLD it is
+# printed with its score, so a run that looks like a repeat can be checked
+# against the number that let it through. See the note above on why this is a
+# diagnostic and not a feature: the band is real, but it is not clean enough to
+# put in front of readers.
+RELATED_NOTE_OVERLAP = 0.30
 
 # A feed whose newest article is older than this has stopped being maintained,
 # whatever its HTTP status says. Only --check uses it. Set generously: the
@@ -152,6 +217,9 @@ FEEDS = [
     },
     {
         "name": "Reuters World",
+        # Same desk as the entry above, so the per-outlet cap has to see them
+        # as one paper or Reuters quietly gets double the allowance.
+        "outlet": "Reuters",
         "url": "https://news.google.com/rss/search?"
                "q=site%3Areuters.com+world+when%3A1d"
                "&hl=en-US&gl=US&ceid=US%3Aen",
@@ -312,14 +380,60 @@ FEEDS = [
 # ── word lists ──────────────────────────────────────────────────────────────
 
 # A headline must contain one of these to clear the breaking gate.
+#
+# Matched on word boundaries, which is not fussiness. Plain substring matching
+# fired "coup" on "couple", "dead" on "deadline" and on "deadlocked", and
+# "recall" on "Biden recalls his years in the Senate" - all of which posted as
+# BREAKING. At a ceiling of three they usually lost the slot to something
+# actually urgent and you never saw them. There is no such competition at
+# seventeen, so the gate has to be the filter now.
 BREAKING_WORDS = (
-    "breaking", "urgent", "killed", "dead", "death toll", "explosion",
-    "earthquake", "tsunami", "evacuat", "shooting", "gunman", "attack",
-    "airstrike", "invasion", "collapse", "state of emergency", "emergency",
-    "hostage", "wildfire", "hurricane", "tornado", "derail", "plane crash",
-    "mass casualt", "nuclear", "outbreak", "resigns", "steps down", "indicted",
-    "impeach", "assassinat", "manhunt", "lockdown", "recall", "shutdown",
-    "ceasefire", "coup",
+    "breaking", "urgent", "killed", "kills", "kill", "dead", "deadly",
+    "explosion", "earthquake", "quake", "tsunami", "shooting", "gunman",
+    "attack", "airstrike", "invasion", "hostage", "wildfire", "wildfires",
+    "hurricane", "tornado", "nuclear", "outbreak", "indicted", "manhunt",
+    "lockdown", "recall", "shutdown", "ceasefire", "coup", "emergency",
+)
+# Two deliberate absences, both learned from the sample above.
+#
+# "kills" and "kill" are new. The list had "killed" and nothing else, so the
+# ordinary wire present tense - "Landslide kills 30 in Peru", "Floods kill at
+# least 40" - was never eligible to post at all. That gap was invisible at a
+# ceiling of three because something else always filled the slot.
+#
+# "attacks" was removed. As a noun it is real, but as a verb it is the single
+# most common political headline in the roster ("Trump attacks rival"), and
+# there is no boundary rule that separates them. The singular still matches,
+# and a genuine attack story almost always carries a second word from this
+# list anyway - killed, dead, death toll.
+
+# Multi-word, matched as phrases on the same boundary rule.
+BREAKING_PHRASES = (
+    "death toll", "plane crash", "state of emergency", "steps down",
+    "mass casualties", "opens fire", "shot dead",
+)
+
+# Matched as prefixes, because only the tail varies: evacuate, evacuated,
+# evacuation. Keep these genuinely unambiguous - a loose stem here undoes the
+# boundary rule above.
+BREAKING_STEMS = (
+    "evacuat", "assassinat", "derail", "impeach", "collaps", "resign",
+    "casualt",
+)
+
+# Checked first. These are the phrases that contain a breaking word and are
+# reliably not an event - a heart attack is not an attack, an emergency room is
+# not an emergency, a dead heat is a poll result. Anything listed here vetoes
+# the headline outright, so keep it to cases with no honest exception.
+NOT_BREAKING = (
+    "heart attack", "panic attack", "attack ad", "attacks on democracy",
+    "dead heat", "dead last", "dead end", "walking dead", "dead of night",
+    "nuclear option", "nuclear family", "emergency room", "emergency fund",
+    "emergency savings", "recalls how", "recalls the", "recalls his",
+    "recalls her", "shutdown of the", "under attack from critics",
+    # A bill dying in committee is not a casualty event.
+    "kills bill", "kills the bill", "kills deal", "kills the deal",
+    "kills plan", "kills proposal", "kills measure", "kills amendment",
 )
 
 # Never posted in either lane. Edit freely - sports lives in another channel.
@@ -336,6 +450,10 @@ MUTE_WORDS = (
 # took the top breaking slot - the age gate trusts the timestamp, and the
 # timestamp was lying. Clip reels and galleries get re-dated constantly; the
 # written story does not. Cheapest possible fix, and it generalises.
+#
+# Note it cannot see through Google News: those links are opaque redirect IDs,
+# so the wires are on the honour system here. In practice they do not file
+# video repackages the way the tabloids do.
 MUTE_URL_PARTS = (
     "/video/", "/videos/", "/gallery/", "/galleries/", "/photos/",
     "/podcast/", "/podcasts/", "/slideshow",
@@ -416,9 +534,11 @@ def parse_date(text):
 
 
 def fmt_time(stamp):
+    """%-I is a glibc extension - strip the pad by hand so this does not depend
+    on which libc the runner happens to ship."""
     if not stamp:
         return None
-    return f"{stamp.astimezone(LOCAL_TZ):%-I:%M %p %Z}"
+    return f"{stamp.astimezone(LOCAL_TZ):%I:%M %p %Z}".lstrip("0")
 
 
 def fingerprint(title):
@@ -479,13 +599,18 @@ def usable_image(url):
 def find_image(node):
     """Publishers advertise images four different ways, and half of them bury
     the tags inside a media:group wrapper. Try them in order of reliability and
-    take the largest one offered."""
+    take the largest one offered.
+
+    Every candidate is validated as it is considered, not once at the end. A
+    feed that advertises its masthead logo in media:content and the real photo
+    in an enclosure used to end up with no image at all: the logo won on width,
+    then failed the junk check, and the enclosure was never reached."""
     best, best_width = None, -1
 
     for tag in (f"{MEDIA}content", f"{MEDIA}thumbnail"):
         candidates = node.findall(tag) + node.findall(f"{MEDIA}group/{tag}")
         for el in candidates:
-            url = el.get("url")
+            url = usable_image(el.get("url"))
             if not url:
                 continue
             medium = (el.get("medium") or "").lower()
@@ -504,16 +629,19 @@ def find_image(node):
     if not best:
         for el in node.findall("enclosure"):
             if (el.get("type") or "").lower().startswith("image/"):
-                best = el.get("url")
-                break
+                best = usable_image(el.get("url"))
+                if best:
+                    break
 
     if not best:
         blob = node.findtext(f"{CONTENT}encoded") or node.findtext("description")
-        match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', blob or "", re.I)
-        if match:
-            best = match.group(1)
+        for match in re.finditer(r'<img[^>]+src=["\']([^"\']+)["\']',
+                                 blob or "", re.I):
+            best = usable_image(match.group(1))
+            if best:
+                break
 
-    return usable_image(best)
+    return best
 
 
 def fetch_og_image(url):
@@ -689,6 +817,7 @@ def parse_feed(raw, feed):
             "image": find_image(node),
             "published": parse_date(published),
             "source": feed["name"],
+            "outlet": feed.get("outlet") or feed["name"],
             "weight": feed["weight"],
             "color": feed["color"],
             "paywall": bool(feed.get("paywall")),
@@ -720,9 +849,13 @@ def collect(lane):
 # ── selection ───────────────────────────────────────────────────────────────
 
 def age_minutes(item, now):
+    """Never negative. A publisher whose clock runs fast, or who post-dates an
+    embargoed piece, would otherwise land in a negative freshness bucket and
+    hold the top breaking slot on every sweep until it aged into the present.
+    The future is treated as 'just now'."""
     if not item["published"]:
         return None
-    return (now - item["published"]).total_seconds() / 60.0
+    return max((now - item["published"]).total_seconds() / 60.0, 0.0)
 
 
 def muted(item):
@@ -733,8 +866,28 @@ def muted(item):
     return any(part in link for part in MUTE_URL_PARTS)
 
 
+def _breaking_pattern():
+    """Compiled once. Whole words and phrases get a boundary on both ends;
+    stems get one on the left only, so 'evacuat' still catches 'evacuations'
+    while 'coup' can no longer catch 'couple'."""
+    exact = [re.escape(w) for w in BREAKING_WORDS + BREAKING_PHRASES]
+    stems = [re.escape(s) for s in BREAKING_STEMS]
+    parts = []
+    if exact:
+        parts.append(r"\b(?:" + "|".join(exact) + r")\b")
+    if stems:
+        parts.append(r"\b(?:" + "|".join(stems) + r")")
+    return re.compile("|".join(parts), re.I)
+
+
+BREAKING_RE = _breaking_pattern()
+
+
 def looks_breaking(item):
-    return any(word in item["title"].lower() for word in BREAKING_WORDS)
+    title = item["title"].lower()
+    if any(phrase in title for phrase in NOT_BREAKING):
+        return False
+    return bool(BREAKING_RE.search(title))
 
 
 def score_interest(item):
@@ -766,13 +919,35 @@ def breaking_rank(item, now):
     return (bucket, -item["weight"], age)
 
 
+def note_related(fp, state, now):
+    """Log only. Prints the nearest recent headline when a pick clears the
+    dedupe but is not a stranger to it, so a post that reads like a repeat can
+    be checked against the number that let it through.
+
+    This is deliberately not surfaced to the channel. The band is genuinely
+    informative to a human reading a log next to the two headlines, and
+    genuinely unreliable as an automatic claim - see the module docstring."""
+    best = None
+    for prior in recent_posts(state, DEDUPE_WINDOW_HOURS, now):
+        if not prior["title"]:
+            continue
+        score = overlap(fp, prior["fp"])
+        if score >= RELATED_NOTE_OVERLAP and (best is None or score > best[0]):
+            best = (score, prior)
+    if best:
+        print(f"    (near {best[0]:.2f}: [{best[1]['source']}] "
+              f"{clip(best[1]['title'], 55)})")
+
+
 def pick_breaking(items, state):
-    """Newest first, urgent only, deduped against everything already posted,
-    and hard capped. The cap is what keeps an outbreak of bad news from
-    becoming an outbreak of notifications."""
+    """Newest first, urgent only, deduped against everything posted inside the
+    memory window, and hard capped. The cap is what keeps an outbreak of bad
+    news from becoming an outbreak of notifications."""
     now = datetime.now(timezone.utc)
-    fingerprints = list(state["titles"])
+    fingerprints = [p["fp"] for p in recent_posts(state, DEDUPE_WINDOW_HOURS,
+                                                  now)]
     picks = []
+    per_outlet = {}
 
     ordered = sorted(items, key=lambda i: breaking_rank(i, now))
 
@@ -780,6 +955,11 @@ def pick_breaking(items, state):
         if item["id"] in state["ids"]:
             continue
         if muted(item):
+            continue
+        # Checked before the expensive tests, and only skips this item - the
+        # sweep keeps going, so the slot passes to the next paper down rather
+        # than being lost.
+        if per_outlet.get(item["outlet"], 0) >= MAX_PER_OUTLET_PER_RUN:
             continue
         age = age_minutes(item, now)
         if age is None or age > BREAKING_MAX_AGE_MINUTES:
@@ -794,13 +974,19 @@ def pick_breaking(items, state):
 
         fingerprints.append(fp)
         item["fingerprint"] = fp
+        per_outlet[item["outlet"]] = per_outlet.get(item["outlet"], 0) + 1
         picks.append(item)
         print(f"  BREAKING: [{item['source']}] {clip(item['title'], 70)}")
+        note_related(fp, state, now)
 
         if len(picks) >= MAX_BREAKING_PER_RUN:
             print(f"  hit the per-run cap of {MAX_BREAKING_PER_RUN}")
             break
 
+    if picks:
+        spread = ", ".join(f"{name} {count}" for name, count
+                           in sorted(per_outlet.items()))
+        print(f"  {len(picks)} to post ({spread})")
     return picks
 
 
@@ -809,6 +995,8 @@ def pick_morning(items, state):
     nudge so it does not pick the same kind of story every morning."""
     now = datetime.now(timezone.utc)
     rng = random.Random(now.astimezone(LOCAL_TZ).strftime("%Y-%m-%d"))
+    fingerprints = [p["fp"] for p in recent_posts(state, DEDUPE_WINDOW_HOURS,
+                                                  now)]
     scored = []
 
     for item in items:
@@ -820,7 +1008,7 @@ def pick_morning(items, state):
         if age is not None and age > MORNING_WINDOW_HOURS * 60:
             continue
         fp = fingerprint(item["title"])
-        if too_similar(fp, state["titles"]):
+        if too_similar(fp, fingerprints):
             continue
         item["fingerprint"] = fp
         scored.append((score_interest(item) + rng.uniform(0, 1.5), item))
@@ -926,7 +1114,14 @@ def post(url, embeds, content=None):
 
 def load_state():
     """Oldest first, newest last. Order matters: the trim in save_state drops
-    from the front, so it has to be chronological."""
+    from the front, so it has to be chronological.
+
+    Two shapes are readable. The current one records each post as a small
+    object - fingerprint, headline, source, timestamp - because the dedupe
+    window needs the time, and the headline is there so the state file can be
+    read by a human wondering why something did or did not post. The old shape
+    was a bare list of fingerprints. Old files are migrated on first read and
+    rewritten on first save; nothing needs doing by hand."""
     try:
         with open(SEEN_FILE) as fh:
             data = json.load(fh)
@@ -936,19 +1131,77 @@ def load_state():
         data = {}
 
     ids = [str(x) for x in data.get("ids", []) if isinstance(x, (str, int))]
-    titles = [str(x) for x in data.get("titles", []) if isinstance(x, str)]
-    return {
-        "ids": list(dict.fromkeys(ids)),
-        "titles": list(dict.fromkeys(titles)),
-    }
+
+    posts, seen = [], set()
+    for entry in data.get("posts", []):
+        if not isinstance(entry, dict):
+            continue
+        fp = str(entry.get("fp") or "")
+        if not fp or fp in seen:
+            continue
+        seen.add(fp)
+        posts.append({
+            "fp": fp,
+            "title": str(entry.get("title") or ""),
+            "source": str(entry.get("source") or ""),
+            "at": parse_date(entry.get("at")),
+        })
+
+    # Legacy fingerprints carry no timestamp. Stamping them now means they age
+    # out over the next two days rather than all at once, so the migration run
+    # cannot repost the last thing the old build sent.
+    if not posts:
+        now = datetime.now(timezone.utc)
+        for fp in data.get("titles", []):
+            if isinstance(fp, str) and fp and fp not in seen:
+                seen.add(fp)
+                posts.append({"fp": fp, "title": "", "source": "",
+                              "at": now})
+
+    return {"ids": list(dict.fromkeys(ids)), "posts": posts}
 
 
 def save_state(state):
+    """ids are deduped on the way out because a mirror's id can already be in
+    the list from an earlier sweep, and there is no sense spending the cap on
+    it twice. 'titles' is written alongside the real record purely so an older
+    checkout of this script can still read the file if you ever roll back."""
+    posts = state["posts"][-POST_MEMORY_LIMIT:]
     with open(SEEN_FILE, "w") as fh:
         json.dump({
-            "ids": state["ids"][-SEEN_LIMIT:],
-            "titles": state["titles"][-TITLE_LIMIT:],
+            "ids": list(dict.fromkeys(state["ids"]))[-SEEN_LIMIT:],
+            "posts": [{
+                "fp": p["fp"],
+                "title": p["title"],
+                "source": p["source"],
+                "at": p["at"].isoformat() if p["at"] else None,
+            } for p in posts],
+            "titles": [p["fp"] for p in posts],
         }, fh, indent=1)
+
+
+def recent_posts(state, hours, now=None):
+    """Posts inside the window. An entry with an unreadable timestamp is kept
+    rather than dropped - erring toward remembering is the safe direction for a
+    dedupe, and save_state always writes one, so it self-corrects."""
+    now = now or datetime.now(timezone.utc)
+    cutoff = now - timedelta(hours=hours)
+    return [p for p in state["posts"] if p["at"] is None or p["at"] >= cutoff]
+
+
+def record_post(state, item, now):
+    state["ids"].append(item["id"])
+    # The mirror has now been shown to the channel. Burn its ID too, or a later
+    # sweep could pick it up as a fresh story and post the same thing a second
+    # time under a different masthead.
+    if item.get("mirror"):
+        state["ids"].append(item["mirror"]["id"])
+    state["posts"].append({
+        "fp": item.get("fingerprint") or fingerprint(item["title"]),
+        "title": item["title"],
+        "source": item["source"],
+        "at": now,
+    })
 
 
 # ── checks ──────────────────────────────────────────────────────────────────
@@ -982,7 +1235,7 @@ def check_feeds():
         pics = sum(1 for i in items if i["image"])
 
         if stamps:
-            newest = (now - max(stamps)).total_seconds() / 60.0
+            newest = max((now - max(stamps)).total_seconds() / 60.0, 0.0)
             if newest > STALE_FEED_HOURS * 60:
                 print(f"  STALE {label}  ->  {len(items)} items, but the "
                       f"newest is {newest / 1440:.1f} days old")
@@ -1025,6 +1278,11 @@ def main():
         return 1
 
     if "--test" in sys.argv:
+        # --test is the one mode with nothing to preview, so pairing it with
+        # --dry used to mean posting to an empty URL.
+        if dry:
+            print("--test sends the only message it has; --dry cancels it.")
+            return 0
         post(webhook, [{
             "title": "Town Crier is online",
             "description": f"Watching {len(FEEDS)} feeds. Breaking sweeps run "
@@ -1071,14 +1329,7 @@ def main():
                 time.sleep(POST_GAP_SECONDS)
             post(webhook, [build_embed(item, lane)],
                  content=f"**{header}** — {item['source']}")
-            state["ids"].append(item["id"])
-            state["titles"].append(item.get("fingerprint")
-                                   or fingerprint(item["title"]))
-            # The mirror has now been shown to the channel. Burn its ID too, or
-            # a later sweep could pick it up as a fresh story and post the same
-            # thing a second time under a different masthead.
-            if item.get("mirror"):
-                state["ids"].append(item["mirror"]["id"])
+            record_post(state, item, datetime.now(timezone.utc))
             save_state(state)
     except urllib.error.HTTPError as err:
         body = err.read().decode("utf-8", "replace")[:400]
