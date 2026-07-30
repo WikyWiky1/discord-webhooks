@@ -39,7 +39,7 @@ import time
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 
 try:
     from zoneinfo import ZoneInfo
@@ -52,6 +52,11 @@ SEEN_FILE = "crier_seen.json"
 USER_AGENT = "TownCrier/1.0 (github.com/WikyWiky1)"
 
 ATOM = "{http://www.w3.org/2005/Atom}"
+MEDIA = "{http://search.yahoo.com/mrss/}"
+CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
+
+# Tracking pixels, spacers and publisher logos masquerading as article images.
+JUNK_IMAGE_HINTS = ("1x1", "pixel", "spacer", "favicon", "/logo", "blank.")
 
 # ── tuning knobs ────────────────────────────────────────────────────────────
 # These are the anti-spam controls. If the channel ever gets noisy, this block
@@ -59,11 +64,18 @@ ATOM = "{http://www.w3.org/2005/Atom}"
 
 MAX_BREAKING_PER_RUN = 3        # hard ceiling per sweep, no exceptions
 BREAKING_MAX_AGE_MINUTES = 120  # older than this is not breaking, it is news
+BREAKING_FRESHNESS_BUCKET_MINUTES = 30  # inside one bucket, source weight wins
 MORNING_WINDOW_HOURS = 30       # how far back the morning pick may reach
 SIMILARITY_THRESHOLD = 0.55     # 0-1; higher = more willing to post near-dupes
 SEEN_LIMIT = 800                # article IDs remembered
 TITLE_LIMIT = 300               # headline fingerprints remembered
 POST_GAP_SECONDS = 1.5          # spacing between messages, Discord rate limit
+
+# Article images. "image" is a full-width banner, "thumbnail" is a small square
+# in the corner, None turns it off. Reuters and AP come through Google News,
+# which carries no article image, so those posts stay text-only regardless.
+MORNING_IMAGE = "image"
+BREAKING_IMAGE = "thumbnail"
 
 # ── feeds ───────────────────────────────────────────────────────────────────
 # weight  nudges the morning pick toward sources you like. Reuters is highest.
@@ -246,6 +258,16 @@ def fingerprint(title):
     return " ".join(keep)
 
 
+def title_echo(summary, title):
+    """True when the summary is just the headline again. Google News does this
+    on every item, with the publisher name tacked on the end."""
+    words = set(fingerprint(summary).split())
+    head = set(fingerprint(title).split())
+    if not words or not head:
+        return False
+    return len(words & head) / len(head) >= 0.8
+
+
 def too_similar(fp, others):
     mine = set(fp.split())
     if not mine:
@@ -261,6 +283,48 @@ def too_similar(fp, others):
 
 
 # ── feed parsing ────────────────────────────────────────────────────────────
+
+def find_image(node):
+    """Publishers advertise images four different ways. Try them in order of
+    reliability and take the largest one offered."""
+    best, best_width = None, -1
+
+    for tag in (f"{MEDIA}content", f"{MEDIA}thumbnail"):
+        for el in node.findall(tag):
+            url = el.get("url")
+            if not url:
+                continue
+            medium = (el.get("medium") or "").lower()
+            mime = (el.get("type") or "").lower()
+            if medium and medium != "image":
+                continue
+            if mime and not mime.startswith("image/"):
+                continue
+            try:
+                width = int(el.get("width") or 0)
+            except ValueError:
+                width = 0
+            if width > best_width:
+                best, best_width = url, width
+
+    if not best:
+        for el in node.findall("enclosure"):
+            if (el.get("type") or "").lower().startswith("image/"):
+                best = el.get("url")
+                break
+
+    if not best:
+        blob = node.findtext(f"{CONTENT}encoded") or node.findtext("description")
+        match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', blob or "", re.I)
+        if match:
+            best = match.group(1)
+
+    if not best or not best.lower().startswith("http"):
+        return None
+    if any(hint in best.lower() for hint in JUNK_IMAGE_HINTS):
+        return None
+    return best
+
 
 def parse_feed(raw, feed):
     root = ET.fromstring(raw)
@@ -291,7 +355,7 @@ def parse_feed(raw, feed):
 
         # Google News fills description with a repeat of the headline. If the
         # summary adds nothing, drop it rather than print the title twice.
-        if summary and fingerprint(summary)[:60] == fingerprint(title)[:60]:
+        if summary and title_echo(summary, title):
             summary = ""
 
         if not title or not link:
@@ -302,6 +366,7 @@ def parse_feed(raw, feed):
             "title": title,
             "summary": summary,
             "link": link.strip(),
+            "image": find_image(node),
             "published": parse_date(published),
             "source": feed["name"],
             "weight": feed["weight"],
@@ -357,6 +422,20 @@ def score_interest(item):
     return score
 
 
+def breaking_rank(item, now):
+    """Sort key for the breaking sweep. Stories are bucketed by how fresh they
+    are, and inside a bucket the higher-weighted source wins. So a genuinely
+    newer story still beats an older one, but when Reuters and the Guardian
+    file the same thing in the same half hour, Reuters takes the slot - and
+    since the first one through claims it, the duplicate check then drops the
+    Guardian copy rather than the other way round."""
+    age = age_minutes(item, now)
+    if age is None:
+        age = BREAKING_MAX_AGE_MINUTES
+    bucket = int(age // BREAKING_FRESHNESS_BUCKET_MINUTES)
+    return (bucket, -item["weight"], age)
+
+
 def pick_breaking(items, state):
     """Newest first, urgent only, deduped against everything already posted,
     and hard capped. The cap is what keeps an outbreak of bad news from
@@ -365,11 +444,7 @@ def pick_breaking(items, state):
     fingerprints = list(state["titles"])
     picks = []
 
-    ordered = sorted(
-        items,
-        key=lambda i: i["published"] or (now - timedelta(days=365)),
-        reverse=True,
-    )
+    ordered = sorted(items, key=lambda i: breaking_rank(i, now))
 
     for item in ordered:
         if item["id"] in state["ids"]:
@@ -433,7 +508,7 @@ def pick_morning(items, state):
 
 # ── embeds ──────────────────────────────────────────────────────────────────
 
-def build_embed(item):
+def build_embed(item, lane="breaking"):
     embed = {
         "title": clip(item["title"], 240),
         "url": item["link"],
@@ -449,6 +524,10 @@ def build_embed(item):
     when = fmt_time(item["published"])
     if when:
         embed["fields"].append({"name": "Filed", "value": when, "inline": True})
+
+    style = MORNING_IMAGE if lane == "morning" else BREAKING_IMAGE
+    if style in ("image", "thumbnail") and item.get("image"):
+        embed[style] = {"url": item["image"]}
 
     if not embed["fields"]:
         del embed["fields"]
@@ -609,7 +688,7 @@ def main():
 
     if dry:
         print("\n--- dry run, not posting ---")
-        print(json.dumps([build_embed(i) for i in picks], indent=2))
+        print(json.dumps([build_embed(i, lane) for i in picks], indent=2))
         return 0
 
     header = "Morning read" if lane == "morning" else "Breaking"
@@ -621,7 +700,7 @@ def main():
         for index, item in enumerate(picks):
             if index:
                 time.sleep(POST_GAP_SECONDS)
-            post(webhook, [build_embed(item)],
+            post(webhook, [build_embed(item, lane)],
                  content=f"**{header}** — {item['source']}")
             state["ids"].append(item["id"])
             state["titles"].append(item.get("fingerprint")
