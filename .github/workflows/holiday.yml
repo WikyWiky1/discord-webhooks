@@ -1,4 +1,4 @@
-name: Holiday Clock
+name: Holiday Herald
 
 on:
   schedule:
@@ -20,9 +20,9 @@ jobs:
 
     steps:
       - name: Get the code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      - name: Run Holiday Clock
+      - name: Run Holiday Herald
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           MODE: ${{ inputs.mode }}
