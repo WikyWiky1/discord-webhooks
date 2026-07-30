@@ -14,6 +14,7 @@ Flags:
 
 import json
 import os
+import re
 import sys
 import urllib.error
 import urllib.request
@@ -91,29 +92,35 @@ def was_already_free(element):
         return False
 
 
+HASH_SLUG = re.compile(r"^[0-9a-f]{24,}$", re.I)
+
+
+def slug_candidates(element):
+    """Epic scatters the slug around. Readable ones first, junk hash last."""
+    yield element.get("productSlug")
+    for mapping in (element.get("catalogNs") or {}).get("mappings") or []:
+        yield mapping.get("pageSlug")
+    for mapping in element.get("offerMappings") or []:
+        yield mapping.get("pageSlug")
+    yield element.get("urlSlug")
+
+
 def store_link(element):
-    """Epic scatters the URL slug across several fields depending on the item."""
-    slug = element.get("productSlug") or element.get("urlSlug")
-
-    if not slug:
-        for mapping in element.get("offerMappings") or []:
-            if mapping.get("pageSlug"):
-                slug = mapping["pageSlug"]
-                break
-
-    if not slug:
-        mappings = (element.get("catalogNs") or {}).get("mappings") or []
-        for mapping in mappings:
-            if mapping.get("pageSlug"):
-                slug = mapping["pageSlug"]
-                break
-
-    if not slug:
-        return f"{STORE}/free-games"
-
-    slug = slug.split("/")[0]
     kind = "bundles" if element.get("offerType") == "BUNDLE" else "p"
-    return f"{STORE}/{kind}/{slug}"
+    fallback = None
+
+    for candidate in slug_candidates(element):
+        if not candidate:
+            continue
+        candidate = candidate.split("/")[0]
+        if HASH_SLUG.match(candidate):
+            fallback = fallback or candidate   # keep it, but prefer a real slug
+            continue
+        return f"{STORE}/{kind}/{candidate}"
+
+    if fallback:
+        return f"{STORE}/{kind}/{fallback}"
+    return f"{STORE}/free-games"
 
 
 def artwork(element):
@@ -251,8 +258,7 @@ def main():
         print("Nothing new to announce.")
         return 0
 
-    header = ("**Free on Epic right now** 🎉" if len(embeds) > 1
-              else "**Free on Epic right now** 🎉")
+    header = "**Free on Epic right now** 🎉"
 
     if dry:
         print("\n--- dry run, not posting ---")
