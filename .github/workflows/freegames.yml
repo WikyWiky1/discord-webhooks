@@ -1,8 +1,43 @@
 name: Free Game Alert
 
+# ── why this has several schedules instead of one ───────────────────────────
+#
+# The old single entry was syntactically fine. GitHub shipped IANA timezone
+# support for cron in March 2026, so '30 10 * * *' with America/Chicago really
+# does mean 10:30 AM Central, DST handled for you. Keep using it - far easier
+# to read than UTC arithmetic, and it does not drift in November.
+#
+# What that entry could not survive was being the ONLY entry. Scheduled runs
+# are best-effort: GitHub queues them behind paid work, 5-30 minute delays are
+# normal and documented, runs get dropped outright under load, and a workflow
+# added to a brand new repository often misses its first window entirely while
+# the scheduler catches up. One cron a day means one dropped run equals one
+# missed game for a whole week.
+#
+# So: an hourly sweep does the real work, the Thursday entries tighten around
+# Epic's swap, and Friday morning is the backstop. seen.json makes every
+# redundant run a silent no-op, which is what allows this much overlap.
+#
+# Minutes are offset off :00 deliberately. Delays cluster at the top of the
+# hour because that is when everyone else's jobs are scheduled too.
+
 on:
   schedule:
-    - cron: '30 10 * * *'
+    # The workhorse, and the answer to "fire when a new game appears." Nothing
+    # can push to us - Epic has no webhook - so polling is the only mechanism
+    # that exists. Hourly means at most an hour of lag.
+    - cron: '5 * * * *'
+
+    # Thursday, tightened. Epic swaps at 10:00 Central; these add checks at
+    # :20, :35 and :50 across the two hours around it, on top of the hourly.
+    - cron: '20,35,50 10-11 * * 4'
+      timezone: 'America/Chicago'
+
+    # Friday 8 AM Central. The backstop: if Thursday's window was dropped and
+    # you didn't notice, this catches it before the weekend. Costs nothing if
+    # Thursday worked - seen.json turns it into a no-op, so silence here is
+    # success, not failure. Check the run log, not the channel.
+    - cron: '0 8 * * 5'
       timezone: 'America/Chicago'
 
   workflow_dispatch:
@@ -21,6 +56,13 @@ on:
 permissions:
   contents: write
 
+# Hourly runs plus Thursday extras means two jobs can overlap, and both would
+# try to push seen.json. Queue them. Never cancel-in-progress - that would
+# throw away an announcement mid-flight.
+concurrency:
+  group: free-game-alert
+  cancel-in-progress: false
+
 jobs:
   alert:
     runs-on: ubuntu-latest
@@ -28,6 +70,17 @@ jobs:
     steps:
       - name: Get the code
         uses: actions/checkout@v5
+
+      # Prints which trigger fired and the local time. When a schedule is
+      # misbehaving this is the difference between knowing and guessing:
+      # github.event.schedule is empty on manual runs and holds the exact cron
+      # string on scheduled ones, so the log tells you which entry woke it.
+      - name: What triggered this
+        run: |
+          echo "event:    ${{ github.event_name }}"
+          echo "schedule: ${{ github.event.schedule || 'n/a (manual run)' }}"
+          echo "utc:      $(date -u '+%Y-%m-%d %H:%M %Z')"
+          echo "central:  $(TZ=America/Chicago date '+%Y-%m-%d %H:%M %Z')"
 
       - name: Check Epic for freebies
         env:
@@ -43,12 +96,15 @@ jobs:
 
       - name: Remember what was announced
         run: |
-          if [ -n "$(git status --porcelain seen.json)" ]; then
-            git config user.name  "free-game-alert"
-            git config user.email "actions@users.noreply.github.com"
-            git add seen.json
-            git commit -m "seen: record announced free games"
-            git push
-          else
+          if [ -z "$(git status --porcelain seen.json)" ]; then
             echo "seen.json unchanged, nothing to commit."
+            exit 0
           fi
+          git config user.name  "free-game-alert"
+          git config user.email "actions@users.noreply.github.com"
+          git add seen.json
+          git commit -m "seen: record announced free games"
+          # A concurrent run may have pushed first. Rebase and retry once
+          # rather than failing the job over a bookkeeping commit - the games
+          # are already in Discord by this point either way.
+          git push || (git pull --rebase && git push)
