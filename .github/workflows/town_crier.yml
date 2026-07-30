@@ -1,0 +1,73 @@
+name: Town Crier
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What to run"
+        type: choice
+        default: breaking
+        options:
+          - breaking
+          - morning
+          - check
+          - dry
+          - test
+
+permissions:
+  contents: write
+
+concurrency:
+  group: town-crier
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Resolve mode
+        id: mode
+        run: |
+          if [ "${{ github.event.schedule }}" = "0 11 * * *" ]; then
+            echo "flags=--morning" >> "$GITHUB_OUTPUT"
+          else
+            case "${{ inputs.mode }}" in
+              morning) echo "flags=--morning" >> "$GITHUB_OUTPUT" ;;
+              check)   echo "flags=--check"   >> "$GITHUB_OUTPUT" ;;
+              dry)     echo "flags=--dry"     >> "$GITHUB_OUTPUT" ;;
+              test)    echo "flags=--test"    >> "$GITHUB_OUTPUT" ;;
+              *)       echo "flags="          >> "$GITHUB_OUTPUT" ;;
+            esac
+          fi
+
+      - name: Run Town Crier
+        env:
+          CRIER_WEBHOOK: ${{ secrets.CRIER_WEBHOOK }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: python town_crier.py ${{ steps.mode.outputs.flags }}
+
+      - name: Save state
+        if: always()
+        run: |
+          if [ -z "$(git status --porcelain crier_seen.json)" ]; then
+            echo "No state change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add crier_seen.json
+          git commit -m "town crier state"
+          git pull --rebase --autostash
+          git push
