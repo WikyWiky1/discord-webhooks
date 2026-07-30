@@ -5,7 +5,7 @@ Posts free PC game giveaways to a Discord webhook, with claim links.
 
 Sources:
   1. Epic Games Store, direct from their own promotions endpoint (most detail)
-  2. GamerPower, which aggregates Steam, GOG, itch.io, DRM-free and more
+  2. GamerPower, which aggregates Steam, GOG and more
 
 Runs daily. Remembers what it already announced in seen.json, so a game is
 posted once when it goes free, not every day for a week. Overlapping offers
@@ -43,9 +43,9 @@ STORE = "https://store.epicgames.com/en-US"
 GAMERPOWER = "https://www.gamerpower.com/api/giveaways?type=game&sort-by=date"
 GAMERPOWER_SITE = "https://www.gamerpower.com"
 
-# Which GamerPower platforms to accept. Bare "pc" is deliberately absent -
-# it sweeps in key-site signup giveaways and would flood the channel.
-WANTED_PLATFORMS = ("steam", "gog", "epic", "itch", "drm-free")
+# Which GamerPower platforms to accept. Add "itch" and "drm-free" back if the
+# channel feels too quiet; they roughly quadruple the volume with micro-indies.
+WANTED_PLATFORMS = ("steam", "gog", "epic")
 
 # Prime Gaming has no platform tag of its own, so catch it by name.
 PLATFORM_KEYWORDS = ("prime gaming", "amazon prime")
@@ -168,6 +168,32 @@ def make_offer(title, url, description, image, ends, store, via=None):
     }
 
 
+# GamerPower appends store tags to titles. Stripping them makes cross-source
+# dedup work and reads better. Exact matches only - an unrecognised
+# parenthetical stays put, since a long title beats a butchered one.
+STORE_TAGS = {
+    "steam", "epic", "epic games", "epic games store", "gog", "gog.com",
+    "itch.io", "itchio", "itch", "indiegala", "indie gala", "drm-free", "drmfree",
+    "origin", "uplay", "ubisoft", "ubisoft connect", "ea", "ea app",
+    "xbox", "ps4", "ps5", "playstation", "switch", "nintendo", "android", "ios", "pc",
+    "prime gaming", "amazon prime", "amazon", "humble", "humble bundle", "alienware",
+    "fanatical", "twitch", "microsoft store", "battle.net", "rockstar",
+    "legacy games", "gamesplanet", "gleam", "keyhub", "gamehag",
+}
+
+PARENTHETICAL = re.compile(r"\s*\(([^()]+)\)")
+TRAILING_GIVEAWAY = re.compile(r"\s*(?:(?:key|steam|pc)\s+)?giveaway\s*$", re.I)
+
+
+def clean_title(raw):
+    def drop(match):
+        inner = " ".join(match.group(1).split()).lower().strip(" .")
+        return "" if inner in STORE_TAGS else match.group(0)
+    title = PARENTHETICAL.sub(drop, raw or "")
+    title = TRAILING_GIVEAWAY.sub("", title)
+    return " ".join(title.split()).strip(" -–—:") or (raw or "Untitled")
+
+
 def title_key(title):
     """Loose key so the same game from two sources collapses to one post."""
     return re.sub(r"[^a-z0-9]", "", (title or "").lower())
@@ -249,7 +275,7 @@ def gamerpower_offers():
             continue
 
         offers.append(make_offer(
-            title=entry.get("title"),
+            title=clean_title(entry.get("title")),
             url=entry.get("open_giveaway_url") or entry.get("gamerpower_url"),
             description=entry.get("description"),
             image=entry.get("image") or entry.get("thumbnail"),
