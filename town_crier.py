@@ -18,8 +18,23 @@ silence here as "nothing is happening."
 
 Sources: Reuters and AP both shut down their public RSS feeds years ago, so
 those two come through Google News' source-filtered feed, which is public and
-needs no key. BBC, NPR and the Guardian still publish real feeds and are used
-directly. Only headlines, summaries and links are posted - never full text.
+needs no key. Everyone else still publishes a real feed and is read directly.
+The roster is deliberately mixed - wires in the middle, BBC/NPR/Guardian on
+the left, WSJ/Telegraph/Fox/Post/Examiner on the right, Sky/Hill/Monitor
+filling the center - with the right-of-center outlets weighted at or above
+their counterparts so they win the tie when two papers file the same story.
+Only headlines, summaries and links are posted - never full text.
+
+Images: most feeds ship an article image in the XML. The ones that don't
+(anything via Google News, plus WSJ) get their og:image pulled from the
+article page, but only for items already picked for posting.
+
+Paywalls: several of the best sources meter their articles. When a metered
+one wins a slot, the run's leftovers are searched for the same story from a
+source that opens free, and that link is attached to the same embed as one
+extra field. One mirror, on the existing post - never a second message. The
+dedupe exists so the channel doesn't get fifteen copies of one story, and
+this is not allowed to quietly undo that.
 
 Flags:
   --check     fetch every feed, report item counts and freshness, post nothing
@@ -72,18 +87,40 @@ TITLE_LIMIT = 300               # headline fingerprints remembered
 POST_GAP_SECONDS = 1.5          # spacing between messages, Discord rate limit
 
 # Article images. "image" is a full-width banner, "thumbnail" is a small square
-# in the corner, None turns it off. Reuters and AP come through Google News,
-# which carries no article image, so those posts stay text-only regardless.
+# in the corner, None turns it off. Flip BREAKING_IMAGE to "image" if you want
+# the breaking posts to be as loud visually as the morning read is.
 MORNING_IMAGE = "image"
 BREAKING_IMAGE = "thumbnail"
 
+# Some feeds ship no picture at all - Google News strips them, and WSJ's own
+# feed has never carried one. When an item survives selection with no image,
+# go fetch the og:image off the article page. This costs at most four extra
+# requests per run because it only ever runs on items already chosen.
+FETCH_MISSING_IMAGES = True
+OG_TIMEOUT_SECONDS = 8
+OG_READ_BYTES = 200_000  # <head> lives at the top; no reason to read the rest
+OG_USER_AGENT = "Mozilla/5.0 (compatible; TownCrier/1.0; +github.com/WikyWiky1)"
+
+# Free-mirror matching. The similarity bar is deliberately no looser than the
+# dedupe's, because a link to the wrong story is worse than no link at all.
+# The age gap is a sanity check: two papers filing the same event do it within
+# hours, so a "match" from two days ago is a different story wearing similar
+# words.
+MIRROR_SIMILARITY = 0.55
+MIRROR_MAX_AGE_GAP_HOURS = 12
+
 # ── feeds ───────────────────────────────────────────────────────────────────
-# weight  nudges the morning pick toward sources you like. Reuters is highest.
-# lanes   which lane the feed feeds. Science/feature feeds are morning-only so
-#         they can never trip the breaking sweep.
+# weight  nudges the morning pick toward sources you like, and breaks ties in
+#         the breaking sweep. This is the balance dial - see breaking_rank.
+# lanes   which lane the feed feeds. Science, feature and opinion feeds are
+#         morning-only so they can never trip the breaking sweep.
 # suffix  Google News appends " - Publisher" to every headline; strip it.
+# paywall True if the article is metered or walled. Does not affect selection
+#         at all - a walled source can still win the slot on merit. It only
+#         tells attach_free_mirrors to go looking for a readable second link.
 
 FEEDS = [
+    # ── wires. Neutral by trade, top of the board on purpose. ──
     {
         "name": "Reuters",
         "url": "https://news.google.com/rss/search?q=site%3Areuters.com+when%3A1d"
@@ -91,6 +128,7 @@ FEEDS = [
         "weight": 3.0,
         "color": 0xFF8000,
         "lanes": ("breaking", "morning"),
+        "paywall": True,
         "suffix": ("Reuters",),
     },
     {
@@ -101,6 +139,7 @@ FEEDS = [
         "weight": 3.0,
         "color": 0xFF8000,
         "lanes": ("breaking", "morning"),
+        "paywall": True,
         "suffix": ("Reuters",),
     },
     {
@@ -112,6 +151,8 @@ FEEDS = [
         "lanes": ("breaking", "morning"),
         "suffix": ("AP News", "The Associated Press", "Associated Press", "AP"),
     },
+
+    # ── left of center. Kept, unchanged, just no longer unopposed. ──
     {
         "name": "BBC World",
         "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -133,6 +174,72 @@ FEEDS = [
         "color": 0x052962,
         "lanes": ("breaking", "morning"),
     },
+
+    # ── right of center. Weighted at or above their opposite numbers so the
+    # tie-break in breaking_rank actually goes their way. WSJ matches Reuters,
+    # Telegraph and Fox clear AP, and nothing on the left sits above 2.0. ──
+    {
+        "name": "WSJ World",
+        "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+        "weight": 3.0,
+        "color": 0x0274B6,
+        "lanes": ("breaking", "morning"),
+        "paywall": True,
+    },
+    {
+        "name": "Telegraph",
+        "url": "https://www.telegraph.co.uk/news/rss.xml",
+        "weight": 2.6,
+        "color": 0x122B49,
+        "lanes": ("breaking", "morning"),
+        "paywall": True,
+    },
+    {
+        "name": "Fox News World",
+        "url": "https://feeds.foxnews.com/foxnews/world",
+        "weight": 2.5,
+        "color": 0x003366,
+        "lanes": ("breaking", "morning"),
+    },
+    {
+        "name": "New York Post",
+        "url": "https://nypost.com/feed/",
+        "weight": 2.0,
+        "color": 0xC60800,
+        "lanes": ("breaking", "morning"),
+    },
+    {
+        "name": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/feed",
+        "weight": 2.0,
+        "color": 0x0A2240,
+        "lanes": ("breaking", "morning"),
+    },
+
+    # ── center. The ballast. ──
+    {
+        "name": "Sky News World",
+        "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+        "weight": 2.2,
+        "color": 0xC70000,
+        "lanes": ("breaking", "morning"),
+    },
+    {
+        "name": "The Hill",
+        "url": "https://thehill.com/news/feed/",
+        "weight": 2.0,
+        "color": 0x2E4B33,
+        "lanes": ("breaking", "morning"),
+    },
+    {
+        "name": "CS Monitor World",
+        "url": "https://rss.csmonitor.com/feeds/world",
+        "weight": 2.0,
+        "color": 0x9E1B32,
+        "lanes": ("breaking", "morning"),
+        "paywall": True,
+    },
+
     # Morning-only. These exist to give the daily pick something worth reading
     # that is not a disaster.
     {
@@ -147,6 +254,24 @@ FEEDS = [
         "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
         "weight": 2.0,
         "color": 0xBB1919,
+        "lanes": ("morning",),
+    },
+    # Right-of-center commentary. Morning-only deliberately - these are essays
+    # and argument, not wire copy, and have no business tripping a breaking
+    # sweep no matter what verbs end up in the headline.
+    {
+        "name": "National Review",
+        "url": "https://www.nationalreview.com/feed/",
+        "weight": 2.0,
+        "color": 0x1B365D,
+        "lanes": ("morning",),
+        "paywall": True,
+    },
+    {
+        "name": "Reason",
+        "url": "https://reason.com/feed/",
+        "weight": 1.8,
+        "color": 0xE31B23,
         "lanes": ("morning",),
     },
 ]
@@ -165,6 +290,7 @@ BREAKING_WORDS = (
 )
 
 # Never posted in either lane. Edit freely - sports lives in another channel.
+# The tabloid entries carry more of a load now that the Post is on the roster.
 MUTE_WORDS = (
     "nfl", "nba", "mlb", "nhl", "premier league", "world cup", "olympics",
     "box office", "red carpet", "horoscope", "recap", "highlights", "odds",
@@ -268,29 +394,38 @@ def title_echo(summary, title):
     return len(words & head) / len(head) >= 0.8
 
 
+def overlap(fp_a, fp_b):
+    """Jaccard on the two fingerprints. Pulled out of too_similar so the free
+    mirror search can ask 'how alike?' instead of just 'alike enough?'"""
+    a, b = set(fp_a.split()), set(fp_b.split())
+    if not a or not b:
+        return 0.0
+    return len(a & b) / len(a | b)
+
+
 def too_similar(fp, others):
-    mine = set(fp.split())
-    if not mine:
-        return False
-    for other in others:
-        theirs = set(other.split())
-        if not theirs:
-            continue
-        overlap = len(mine & theirs) / len(mine | theirs)
-        if overlap >= SIMILARITY_THRESHOLD:
-            return True
-    return False
+    return any(overlap(fp, other) >= SIMILARITY_THRESHOLD for other in others)
 
 
-# ── feed parsing ────────────────────────────────────────────────────────────
+# ── images ──────────────────────────────────────────────────────────────────
+
+def usable_image(url):
+    if not url or not url.lower().startswith("http"):
+        return None
+    if any(hint in url.lower() for hint in JUNK_IMAGE_HINTS):
+        return None
+    return url
+
 
 def find_image(node):
-    """Publishers advertise images four different ways. Try them in order of
-    reliability and take the largest one offered."""
+    """Publishers advertise images four different ways, and half of them bury
+    the tags inside a media:group wrapper. Try them in order of reliability and
+    take the largest one offered."""
     best, best_width = None, -1
 
     for tag in (f"{MEDIA}content", f"{MEDIA}thumbnail"):
-        for el in node.findall(tag):
+        candidates = node.findall(tag) + node.findall(f"{MEDIA}group/{tag}")
+        for el in candidates:
             url = el.get("url")
             if not url:
                 continue
@@ -319,12 +454,54 @@ def find_image(node):
         if match:
             best = match.group(1)
 
-    if not best or not best.lower().startswith("http"):
-        return None
-    if any(hint in best.lower() for hint in JUNK_IMAGE_HINTS):
-        return None
-    return best
+    return usable_image(best)
 
+
+def fetch_og_image(url):
+    """Last resort for feeds that ship no picture - anything routed through
+    Google News, and WSJ. Reads only the top of the page, since og:image lives
+    in <head>, and swallows every error: a missing image is not worth losing
+    the post over. Only called on items already selected, so at most four
+    requests a run."""
+    try:
+        req = urllib.request.Request(url, headers={
+            "User-Agent": OG_USER_AGENT,
+            "Accept": "text/html,application/xhtml+xml",
+        })
+        with urllib.request.urlopen(req, timeout=OG_TIMEOUT_SECONDS) as res:
+            if "html" not in (res.headers.get("Content-Type") or "").lower():
+                return None
+            head = res.read(OG_READ_BYTES).decode("utf-8", "replace")
+    except Exception:
+        return None
+
+    # Attribute order is not guaranteed, so check both arrangements before
+    # falling back to the Twitter card.
+    patterns = (
+        r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+        r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']',
+    )
+    for pattern in patterns:
+        match = re.search(pattern, head, re.I)
+        if match:
+            found = usable_image(html.unescape(match.group(1)).strip())
+            if found:
+                return found
+    return None
+
+
+def backfill_images(picks):
+    for item in picks:
+        if item.get("image"):
+            continue
+        found = fetch_og_image(item["link"])
+        if found:
+            item["image"] = found
+            print(f"  pulled og:image for [{item['source']}]")
+
+
+# ── feed parsing ────────────────────────────────────────────────────────────
 
 def parse_feed(raw, feed):
     root = ET.fromstring(raw)
@@ -371,6 +548,7 @@ def parse_feed(raw, feed):
             "source": feed["name"],
             "weight": feed["weight"],
             "color": feed["color"],
+            "paywall": bool(feed.get("paywall")),
         })
 
     return items
@@ -423,12 +601,18 @@ def score_interest(item):
 
 
 def breaking_rank(item, now):
-    """Sort key for the breaking sweep. Stories are bucketed by how fresh they
-    are, and inside a bucket the higher-weighted source wins. So a genuinely
-    newer story still beats an older one, but when Reuters and the Guardian
-    file the same thing in the same half hour, Reuters takes the slot - and
-    since the first one through claims it, the duplicate check then drops the
-    Guardian copy rather than the other way round."""
+    """Sort key for the breaking sweep, and the whole balance mechanism.
+
+    Stories are bucketed by how fresh they are, and inside a bucket the higher
+    weighted source wins. So a genuinely newer story still beats an older one,
+    but when two papers file the same thing in the same half hour, the heavier
+    weight takes the slot - and since the first one through claims it, the
+    duplicate check then drops the other copy rather than the other way round.
+
+    That is why the weights read the way they do. The wires sit at the top
+    because they are the least slanted thing on the roster, WSJ matches them,
+    Telegraph and Fox clear AP, and nothing left of center rises above 2.0.
+    Change the balance by changing weights, not by deleting sources."""
     age = age_minutes(item, now)
     if age is None:
         age = BREAKING_MAX_AGE_MINUTES
@@ -506,6 +690,57 @@ def pick_morning(items, state):
     return [scored[0][1]]
 
 
+# ── free mirrors ────────────────────────────────────────────────────────────
+
+def attach_free_mirrors(picks, pool):
+    """Three of the heaviest-weighted sources are metered, so they will keep
+    winning slots that some readers cannot open. When that happens, sift the
+    run's leftovers - the copies the dedupe was going to throw away anyway -
+    for the same story from a source that opens free, and hang the best one on
+    the embed as a single extra field.
+
+    Strictly one mirror per post, attached to the existing message. This is the
+    opposite of posting the same story from every outlet that carried it; it is
+    the dedupe handing back exactly one of the copies it discarded, and nothing
+    here is allowed to grow into a second message.
+
+    Costs no network. Everything it searches was already fetched."""
+    for item in picks:
+        if not item.get("paywall"):
+            continue
+
+        mine = item.get("fingerprint") or fingerprint(item["title"])
+        candidates = []
+
+        for other in pool:
+            if other.get("paywall"):
+                continue
+            if other["id"] == item["id"] or other["source"] == item["source"]:
+                continue
+
+            score = overlap(mine, fingerprint(other["title"]))
+            if score < MIRROR_SIMILARITY:
+                continue
+
+            if item["published"] and other["published"]:
+                gap = abs((item["published"] - other["published"]).total_seconds())
+                if gap > MIRROR_MAX_AGE_GAP_HOURS * 3600:
+                    continue
+
+            candidates.append((score, other["weight"], other))
+
+        if not candidates:
+            continue
+
+        # Closest match first, source weight only as a tiebreak. Never let a
+        # heavyweight outlet win the slot on a looser match.
+        candidates.sort(key=lambda c: (c[0], c[1]), reverse=True)
+        score, _, mirror = candidates[0]
+        item["mirror"] = mirror
+        print(f"  free mirror for [{item['source']}]: "
+              f"{mirror['source']} ({score:.2f} match)")
+
+
 # ── embeds ──────────────────────────────────────────────────────────────────
 
 def build_embed(item, lane="breaking"):
@@ -524,6 +759,16 @@ def build_embed(item, lane="breaking"):
     when = fmt_time(item["published"])
     if when:
         embed["fields"].append({"name": "Filed", "value": when, "inline": True})
+
+    # Sits beside the filing time as a masked link. One line, one link, no
+    # second message.
+    mirror = item.get("mirror")
+    if mirror:
+        embed["fields"].append({
+            "name": "Free version",
+            "value": f"[{mirror['source']}]({mirror['link']})",
+            "inline": True,
+        })
 
     style = MORNING_IMAGE if lane == "morning" else BREAKING_IMAGE
     if style in ("image", "thumbnail") and item.get("image"):
@@ -610,13 +855,14 @@ def save_state(state):
 
 def check_feeds():
     """Feeds rot. Publishers move URLs, Google changes query handling, and a
-    dead feed fails silently forever otherwise."""
+    dead feed fails silently forever otherwise. The image count is here so you
+    can see at a glance which sources will need the og:image fallback."""
     print("Checking feeds...\n")
     now = datetime.now(timezone.utc)
     bad = []
 
     for feed in FEEDS:
-        label = f"{feed['name']} [{'/'.join(feed['lanes'])}]"
+        label = f"{feed['name']} [{'/'.join(feed['lanes'])}] w{feed['weight']}"
         try:
             raw = get_bytes(feed["url"])
             items = parse_feed(raw, feed)
@@ -636,7 +882,9 @@ def check_feeds():
             fresh = f"newest {newest:.0f} min old"
         else:
             fresh = "no timestamps"
-        print(f"  OK    {label}  ->  {len(items)} items, {fresh}")
+        pics = sum(1 for i in items if i["image"])
+        print(f"  OK    {label}  ->  {len(items)} items, "
+              f"{pics} with image, {fresh}")
         print(f"        {clip(items[0]['title'], 70)}")
 
     print()
@@ -686,6 +934,12 @@ def main():
         print("Nothing worth posting.")
         return 0
 
+    # After selection, before building embeds, so the dry run shows you exactly
+    # what the channel would get.
+    attach_free_mirrors(picks, items)
+    if FETCH_MISSING_IMAGES:
+        backfill_images(picks)
+
     if dry:
         print("\n--- dry run, not posting ---")
         print(json.dumps([build_embed(i, lane) for i in picks], indent=2))
@@ -705,6 +959,11 @@ def main():
             state["ids"].append(item["id"])
             state["titles"].append(item.get("fingerprint")
                                    or fingerprint(item["title"]))
+            # The mirror has now been shown to the channel. Burn its ID too, or
+            # a later sweep could pick it up as a fresh story and post the same
+            # thing a second time under a different masthead.
+            if item.get("mirror"):
+                state["ids"].append(item["mirror"]["id"])
             save_state(state)
     except urllib.error.HTTPError as err:
         body = err.read().decode("utf-8", "replace")[:400]
