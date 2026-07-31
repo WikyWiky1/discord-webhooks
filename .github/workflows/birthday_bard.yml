@@ -1,0 +1,94 @@
+name: Birthday Bard
+
+on:
+  schedule:
+    # GitHub Actions cron is ALWAYS UTC.
+    # Daily 9:00 AM Chicago time:
+    #   CDT (Mar–Nov, UTC-5)  ->  14:00 UTC
+    #   CST (Nov–Mar, UTC-6)  ->  15:00 UTC
+    # Both run daily; the script's timezone gate + last_run_date guard
+    # ensure it only actually posts once per day.
+    - cron: '0 14 * * *'
+    - cron: '0 15 * * *'
+
+  # Manual button — Actions tab -> Birthday Bard -> Run workflow
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'What should the Bard do?'
+        required: true
+        default: 'online'
+        type: choice
+        options:
+          - 'online'    # posts "Birthday Bard is online." (test)
+          - 'list'      # prints the roster to the log, posts nothing
+          - 'preview'   # posts a real greeting for the name below
+          - 'force'     # runs today's real check, ignoring the time gate
+      name:
+        description: 'Name to preview (only used when mode = preview)'
+        required: false
+        default: ''
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: birthday-bard
+  cancel-in-progress: false
+
+jobs:
+  celebrate:
+    name: Check birthdays
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # Catches a file mixup (e.g. YAML pasted into the .py) before it runs
+      - name: Verify deployed script
+        run: |
+          echo "── Commit: $(git rev-parse --short HEAD) ──"
+          head -1 birthday_bard.py
+          if head -1 birthday_bard.py | grep -q 'python3'; then
+            echo "✅ birthday_bard.py looks like Python."
+          else
+            echo "⚠️  WARNING: birthday_bard.py does not start with a Python shebang!"
+            exit 1
+          fi
+
+      - name: Run Birthday Bard
+        env:
+          BIRTHDAY_BARD_WEBHOOK: ${{ secrets.BIRTHDAY_BARD_WEBHOOK }}
+          BARD_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'check' }}
+          BARD_NAME: ${{ inputs.name }}
+        run: python birthday_bard.py
+
+      - name: Commit updated state
+        run: |
+          if [[ -n "$(git status --porcelain birthday_state.json)" ]]; then
+            git config user.name  "birthday-bard[bot]"
+            git config user.email "birthday-bard[bot]@users.noreply.github.com"
+            git add birthday_state.json
+            git commit -m "🎂 Birthday Bard: update run state [skip ci]"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+            echo "✅ State committed."
+          else
+            echo "ℹ️ No state changes to commit."
+          fi
