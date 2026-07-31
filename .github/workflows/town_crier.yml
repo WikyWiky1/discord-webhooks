@@ -1,9 +1,11 @@
 name: Town Crier
+
 on:
   schedule:
-    - cron: "*/20 * * * *"
-    - cron: "0 */3 * * *"
-    - cron: "0 11 * * *"
+    - cron: "*/20 * * * *"   # breaking sweep
+    - cron: "0 */3 * * *"    # pulse sweep
+    - cron: "0 11 * * *"     # morning pick
+
   workflow_dispatch:
     inputs:
       mode:
@@ -15,46 +17,70 @@ on:
           - pulse
           - morning
           - check
-          - dry
           - test
+      dry:
+        description: "Preview only — pick and print, post nothing"
+        type: boolean
+        default: false
+
 permissions:
   contents: write
+
 concurrency:
   group: town-crier
   cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Checkout
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0          # rebase in the save step needs real history
+          persist-credentials: true
+
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: "3.11"
+          python-version: "3.12"
+
       - name: Resolve mode
         id: mode
         run: |
           if [ "${{ github.event.schedule }}" = "0 11 * * *" ]; then
-            echo "flags=--morning" >> "$GITHUB_OUTPUT"
+            FLAGS="--morning"
           elif [ "${{ github.event.schedule }}" = "0 */3 * * *" ]; then
-            echo "flags=--pulse" >> "$GITHUB_OUTPUT"
+            FLAGS="--pulse"
+          elif [ -n "${{ github.event.schedule }}" ]; then
+            FLAGS=""                       # */20 sweep -> breaking
           else
             case "${{ inputs.mode }}" in
-              pulse)   echo "flags=--pulse"   >> "$GITHUB_OUTPUT" ;;
-              morning) echo "flags=--morning" >> "$GITHUB_OUTPUT" ;;
-              check)   echo "flags=--check"   >> "$GITHUB_OUTPUT" ;;
-              dry)     echo "flags=--dry"     >> "$GITHUB_OUTPUT" ;;
-              test)    echo "flags=--test"    >> "$GITHUB_OUTPUT" ;;
-              *)       echo "flags="          >> "$GITHUB_OUTPUT" ;;
+              pulse)   FLAGS="--pulse"   ;;
+              morning) FLAGS="--morning" ;;
+              check)   FLAGS="--check"   ;;
+              test)    FLAGS="--test"    ;;
+              *)       FLAGS=""          ;;
             esac
+            # --dry is now a separate toggle, so any lane can be previewed.
+            # --check and --test post nothing anyway, so leave them alone.
+            if [ "${{ inputs.dry }}" = "true" ] \
+               && [ "${{ inputs.mode }}" != "check" ] \
+               && [ "${{ inputs.mode }}" != "test" ]; then
+              FLAGS="$FLAGS --dry"
+            fi
           fi
+          echo "flags=$FLAGS" >> "$GITHUB_OUTPUT"
+          echo "Running: python town_crier.py $FLAGS"
+
       - name: Run Town Crier
         env:
           CRIER_WEBHOOK: ${{ secrets.CRIER_WEBHOOK }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: python town_crier.py ${{ steps.mode.outputs.flags }}
+
       - name: Save state
         if: always()
         run: |
@@ -66,5 +92,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add crier_seen.json
           git commit -m "town crier state"
-          git pull --rebase --autostash
-          git push
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+          echo "State saved."
