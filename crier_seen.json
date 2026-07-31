@@ -31,7 +31,11 @@
   "https://nypost.com/?post_type=article&p=40135706",
   "https://nypost.com/?post_type=article&p=40136811",
   "https://nypost.com/?post_type=article&p=40133537",
-  "https://nypost.com/?post_type=article&p=40137949"
+  "https://nypost.com/?post_type=article&p=40137949",
+  "CBMivgFBVV95cUxOd0Y3SEoyVWhTSnJtX1h1LXZ1WVNqSmJwTjFBdWRjVWh0UVJhUTFHdGJmTEhadjQxdEcxamlnNzZxTm1idDJIUmNMQnZoM3FiUTk2NjFtaUtaNWc2eGc3cWtGRVJEVXU4Uk1mZlBEeGR0N1NSYWx5WnFvUHA1RWdQOTJucmRMQXhRdWNfeEQ0VTFfT2g5SllMc0ZWdzYzUzJWV1E0eVlDNG04UTBVTW9BTm5rTkhsV2dPYWZSREln",
+  "https://nypost.com/?post_type=article&p=40137493",
+  "https://www.theguardian.com/us-news/2026/jul/30/seattle-police-chief-food-festival-shooting",
+  "https://news.sky.com/story/climate-change-fuelled-france-and-spain-wildfires-experts-say-13568639"
  ],
  "posts": [
   {
@@ -225,6 +229,30 @@
    "title": "Seventh person dies in NYC Legionnaires\u2019 disease outbreak",
    "source": "New York Post",
    "at": "2026-07-30T22:58:25.674547+00:00"
+  },
+  {
+   "fp": "back bell customers cyclospora illness outbreak plan taco",
+   "title": "Taco Bell\u2019s Plan to Win Back Customers After Cyclospora Illness Outbreak",
+   "source": "WSJ",
+   "at": "2026-07-31T00:04:11.741040+00:00"
+  },
+  {
+   "fp": "australian dead found going hiker missing national near park trail yellowstone",
+   "title": "Australian hiker found dead after going missing on trail near Yellowstone National Park",
+   "source": "New York Post",
+   "at": "2026-07-31T00:04:13.659818+00:00"
+  },
+  {
+   "fp": "chief deadly festival food police resigns seattle shooting",
+   "title": "Seattle police chief resigns after deadly food festival shooting",
+   "source": "Guardian World",
+   "at": "2026-07-31T00:04:15.703138+00:00"
+  },
+  {
+   "fp": "change climate experts france fuelled spain wildfires",
+   "title": "Climate change fuelled France and Spain wildfires, experts say",
+   "source": "Sky News",
+   "at": "2026-07-31T00:04:17.619671+00:00"
   }
  ],
  "titles": [
@@ -259,6 +287,10 @@
   "attack autistic cops home sources stabbed unprovoked vanished",
   "attack boys cops crew electric hurling rock scooter snatched stabbed teen",
   "akbar allahu attack crime hate indicted maniac screaming stabbed",
-  "dies disease legionnaires outbreak person seventh"
+  "dies disease legionnaires outbreak person seventh",
+  "back bell customers cyclospora illness outbreak plan taco",
+  "australian dead found going hiker missing national near park trail yellowstone",
+  "chief deadly festival food police resigns seattle shooting",
+  "change climate experts france fuelled spain wildfires"
  ]
 }
