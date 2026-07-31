@@ -56,7 +56,8 @@
   "CBMiqgFBVV95cUxOSHREd1FNM0VKZjFKOGltYVdMUDFkRlRqNkdOc0FELWdCZ0o3UDZ5SnFIWlpxeHlUdmxvT190VzM4dWd6b0QtWmgwbDdvUVlMWFlUSmFvZkdtbFJDYUNHVzAzWHR3SExEQ1NTNE9MSENvc1BoZUw3cVlvQ2hwMlp0dVY4a0JrX211aVhnRzUxOVVEYzJsTGZ0TndUVWRLM2xQRjFVSkU5TzlZQQ",
   "CBMiygFBVV95cUxONnBwSWJHRkw0YU5RVUdSMTNHWlZvc3dqZUNlNUdmdWQ4NnFFVnRjQVVHSkF5TnlrNG9Jb3p5VHlGS0szMHdNTGxaaFVIRmdFdXQ1TW5ael9NaV9lODQtYmZqbHBSZG5HbGFlSHVMNVZEMV9jTUdkSi1qWmVDdFBmVXBxSjdNemw0MktSS0Jka3BDQlExZUxBdV9mNWJWSkh4ZnhVS0QxcEc3VmJ0aXo2czRfTWhRanJ1YzBBYkt4eW85UGZDdFpRanVB",
   "https://nypost.com/?post_type=article&p=40133496",
-  "https://thehill.com/?p=6001064"
+  "https://thehill.com/?p=6001064",
+  "https://www.washingtonexaminer.com/?p=4670137"
  ],
  "posts": [
   {
@@ -400,6 +401,12 @@
    "title": "Senate GOP close to cutting deal to avoid shutdown",
    "source": "The Hill",
    "at": "2026-07-31T11:41:17.993182+00:00"
+  },
+  {
+   "fp": "anymore citizenship does matter neither voting",
+   "title": "Does citizenship matter anymore? If not, neither does voting",
+   "source": "Washington Examiner",
+   "at": "2026-07-31T13:01:01.779276+00:00"
   }
  ],
  "titles": [
@@ -459,6 +466,7 @@
   "disappoint earnings shares skid stellantis",
   "congo data ebola largest latest outbreak record second shows",
   "albany bike deadly face mamdani menace need",
-  "avoid close cutting deal senate shutdown"
+  "avoid close cutting deal senate shutdown",
+  "anymore citizenship does matter neither voting"
  ]
 }
