@@ -44,7 +44,13 @@
   "https://thehill.com/?p=6001127",
   "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
   "https://nypost.com/?post_type=article&p=40140237",
-  "CBMinwFBVV95cUxQbUpKQU1iMmN1QTRnUjNmTGd6cEU1V01LR3NieTh3YzEwREpqdkZUc0d2ZzJDbGNWXzhZUkNuVlhyYllDcXkxR0h2SzBwNXAzdS1GZGFTd1JIUTVQSFNVTlJ5U0JPbUVoTnRINmszTmZXTUwxaEtLREhpcW02UlZ1RVpJODNzNlpiajZkTmZZNW9yZVlGZERKbGtMRnRCR0U"
+  "CBMinwFBVV95cUxQbUpKQU1iMmN1QTRnUjNmTGd6cEU1V01LR3NieTh3YzEwREpqdkZUc0d2ZzJDbGNWXzhZUkNuVlhyYllDcXkxR0h2SzBwNXAzdS1GZGFTd1JIUTVQSFNVTlJ5U0JPbUVoTnRINmszTmZXTUwxaEtLREhpcW02UlZ1RVpJODNzNlpiajZkTmZZNW9yZVlGZERKbGtMRnRCR0U",
+  "CBMiuAFBVV95cUxNa1ZzcUQ2cjlBUVYyaXhhaTJHRWQwWkE5UzU4ZUhuaUdmSkpmLURVdmNRS0xjd09pYzJ6MEIzNW1TaDZaMDJ1U09yX1dFS1pZR0szaFhvRVc2ZHk2MFZqLUExRURpY09PdEFUOTZTcWQ5Z29OUXBrQTNnUjNXRjF3V1RoWVZIUTJ6NDJ0Q19ENUQyNnoxREZjYTJrbjFUbmZPMFkyUFlBb1RyaXlLSHdRVWsyY0trYjVZ",
+  "CBMivgFBVV95cUxOMzE4Ukhpa3VkYlpOWVFxRHZsMXVHelByM1V1LTZIbTgwV05nTGVMZldpanR5M1BWb29HNXk2SkNzaGZqZDYydk84XzctZk5ZUlNwUVVJTmV2QW54ZC12Z2h4Y0JRdlgya0Y3S29wN1cxcUFCc19mLWdWRm9EUmJIRE01bXhvY0NXN3BVbGhReUJ1NUZKTFp6RTNkVDRIbU92WjNGNk1qRzhLN3N3aEJMYWVJNktVYVR1SlBQYVVR",
+  "https://www.theguardian.com/environment/2026/jul/31/weather-tracker-wisconsin-rare-tornado-meteotsunami-heat-europe",
+  "https://nypost.com/?post_type=article&p=40140932",
+  "https://www.theguardian.com/uk-news/2026/jul/31/suffolk-wildfire-sizewell-nuclear-plant-dunwich-heath",
+  "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus"
  ],
  "posts": [
   {
@@ -316,6 +322,42 @@
    "title": "Death toll from southwestern Japan quake climbs to 34 as rescuers again search damaged mall",
    "source": "AP",
    "at": "2026-07-31T06:39:05.149149+00:00"
+  },
+  {
+   "fp": "cross deadly enclave halt morocco rush spain spanish",
+   "title": "Spain, Morocco halt deadly rush on Spanish enclave after 49,000 cross in a day",
+   "source": "Reuters",
+   "at": "2026-07-31T09:31:33.224160+00:00"
+  },
+  {
+   "fp": "attack iran retaliates surprise tuesday",
+   "title": "U.S. Retaliates Against Iran for Tuesday\u2019s Surprise Attack",
+   "source": "WSJ",
+   "at": "2026-07-31T09:31:34.868569+00:00"
+  },
+  {
+   "fp": "battered meteotsunami rare tornado tracker weather wisconsin",
+   "title": "Weather tracker: Wisconsin battered by rare tornado and meteotsunami",
+   "source": "Guardian World",
+   "at": "2026-07-31T09:31:36.537784+00:00"
+  },
+  {
+   "fp": "border breached ceuta crisis dead enclave humanitarian least migrants morocco reach serious spain thousands",
+   "title": "At least 18 migrants dead as thousands breached border to reach Spain\u2019s Ceuta enclave from Morocco: \u2018Serious humanitarian crisis\u2019",
+   "source": "New York Post",
+   "at": "2026-07-31T09:31:38.610008+00:00"
+  },
+  {
+   "fp": "hours near nuclear plant sizewell stabilising suffolk wildfire",
+   "title": "Suffolk wildfire near Sizewell nuclear plant \u2018stabilising\u2019 after 24 hours",
+   "source": "Guardian World",
+   "at": "2026-07-31T09:31:40.200887+00:00"
+  },
+  {
+   "fp": "ebola fastest growing history outbreak virus",
+   "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
+   "source": "Guardian World",
+   "at": "2026-07-31T09:31:41.871317+00:00"
   }
  ],
  "titles": [
@@ -363,6 +405,12 @@
   "advance aspr committee nominees senate trump",
   "angus australia donation icac live making member news recall reformers saying taylor tells think worked",
   "abandoned colorado drinking hazard health officials public resign ruled town water",
-  "again climbs damaged death japan mall quake rescuers search southwestern toll"
+  "again climbs damaged death japan mall quake rescuers search southwestern toll",
+  "cross deadly enclave halt morocco rush spain spanish",
+  "attack iran retaliates surprise tuesday",
+  "battered meteotsunami rare tornado tracker weather wisconsin",
+  "border breached ceuta crisis dead enclave humanitarian least migrants morocco reach serious spain thousands",
+  "hours near nuclear plant sizewell stabilising suffolk wildfire",
+  "ebola fastest growing history outbreak virus"
  ]
 }
