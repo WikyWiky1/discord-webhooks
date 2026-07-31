@@ -99,7 +99,9 @@
   "https://nypost.com/?post_type=article&p=40146268",
   "CBMisgFBVV95cUxOM3J0RnUtUXM4RjFRYUkxWTFscENOWTlhMHY5cWNJS0dGNGlKQi1pdU5vTGNRQXBjd0pHM01IbWE1M3VnV01zaTA5RFVuVklaS3didXB4QnRUeWR5TmdMR2NuN2VscFprZFM5X0gyRUloTFphU3VNM2V0Rnh1ZGlZQlA4UF9mdHJzRGVPMW1VRWZjQVFqSHljRHVnYjdQREk5VUtJekFFNURVTlNGSFp6U2R3",
   "https://nypost.com/?post_type=article&p=40146194",
-  "https://www.theguardian.com/us-news/2026/jul/31/australian-hiker-wyoming"
+  "https://www.theguardian.com/us-news/2026/jul/31/australian-hiker-wyoming",
+  "CBMilwFBVV95cUxPOV95bUpPWXM0QVZNQ1ZBN2c2Z2VnOU9FOHQ5S2tTTzhITWlNa0JYYTNxT090NUdDMGpYdVpxYTBPVzMzMFpKakp3YXF4bVdPVUF0NkxIU3lRcjFmbHFobkwtWEJaeUdta3VZZVFxNFd3d2x5bXdVX2dVNU11b2E5ZUtfb3lvdVAtbmdxXzcyQzVCbDBnTk1N",
+  "CBMigAFBVV95cUxPTGFGdGFaLURkRzJPMWFHY0hmcVhydTRHQmFjdllpTXk1LVphLUVDRVNXeEN1LVBCc2poRElOMHdEdVRLZzFvdXZ1dUhEcTI4S3NvV0JzVS1JdXk0UWVHcThfVktTakxRZDJEYjRrWmpSdDNlemxCblVBNE55SklyNg"
  ],
  "posts": [
   {
@@ -701,6 +703,18 @@
    "title": "Missing Australian hiker found dead in Wyoming, officials say",
    "source": "Guardian World",
    "at": "2026-07-31T21:31:33.022129+00:00"
+  },
+  {
+   "fp": "amazon apple earnings falls latest surges",
+   "title": "Amazon Surges and Apple Falls on Latest Earnings",
+   "source": "WSJ",
+   "at": "2026-07-31T22:05:37.044467+00:00"
+  },
+  {
+   "fp": "chinese chip rattles stocks",
+   "title": "Chinese IPO Rattles Chip Stocks",
+   "source": "WSJ",
+   "at": "2026-07-31T22:05:38.732793+00:00"
   }
  ],
  "titles": [
@@ -803,6 +817,8 @@
   "borne flea hits illness issued neighborhood urgent vile vomiting warning",
   "bombings deadly death easter former lanka negligence officials sentenced",
   "country invasion lash migrant minister prime socialist spaniards third world",
-  "australian dead found hiker missing officials wyoming"
+  "australian dead found hiker missing officials wyoming",
+  "amazon apple earnings falls latest surges",
+  "chinese chip rattles stocks"
  ]
 }
