@@ -59,12 +59,12 @@ except ImportError:  # pragma: no cover
 # ══════════════════════════════════════════════════════════════════════
 
 BIRTHDAYS = [
-    {"name": "WikyWiky",     "date": "09/07", "note": "Buider of places. "},
-    {"name": "Bish",         "date": "09/05"}, "note": "You got any games on ya phone?                             Birthday games??"},
-    {"name": "Arctic Fox",   "date": "10/14"}, "note": "The life of the party - full of laughter, warmth, kind hearted and the kind of peace that only you can bring! 🎂 "},
-    {"name": "shouldaducked","date": "05/27"}, "note": "Go spank the candy out of a piñata. You earned it! "},
-    {"name": "capnbrittany", "date": "09/26"}, "note": "Enjoy your special day! "},
-    {"name": "SliceofPiza",  "date": "06/10"}, "note": "A special day for a special man! "},
+    {"name": "WikyWiky",     "date": "09/07", "note": "Builder of places."},
+    {"name": "Bish",         "date": "09/05", "note": "You got any games on ya phone?\n\nBirthday games??"},
+    {"name": "Arctic Fox",   "date": "10/14", "note": "The life of the party - full of laughter, warmth, kind hearted and the kind of peace that only you can bring! 🎂"},
+    {"name": "shouldaducked","date": "05/27", "note": "Go spank the candy out of a piñata. You earned it!"},
+    {"name": "capnbrittany", "date": "09/26", "note": "Enjoy your special day!"},
+    {"name": "SliceofPiza",  "date": "06/10", "note": "A special day for a special man!"},
 
     # Birthday unknown — January 1st adopted as their official day 💫
     {"name": "MisfitMoxie",  "date": "01/01", "note": "Nobody actually knows when Moxie's birthday is, so we've adopted January 1st as the official one. Every legend needs a good origin story. ✨"},
@@ -72,10 +72,10 @@ BIRTHDAYS = [
 
     {"name": "Spartan",      "date": "10/31", "note": "A Halloween birthday is objectively elite. Caked up WITH candy. 🎃"},
     {"name": "Mahogany",     "date": "06/09"},
-    {"name": "zafguy",       "date": "01/09"}, "note": "Hope you get a day that’s chill, fun, and exactly what you need. Wishing you a great year ahead. "},
+    {"name": "zafguy",       "date": "01/09", "note": "Hope you get a day that\u2019s chill, fun, and exactly what you need. Wishing you a great year ahead."},
     {"name": "Wizurd",       "date": "12/25", "note": "A Christmas birthday! Double the celebration, and you deserve every bit of it. 🎄"},
     {"name": "Seanuh",       "date": "10/30"},
-    {"name": "Kahl",         "date": "12/05"}, "note": "Sir, a second birthday has hit the tower."},
+    {"name": "Kahl",         "date": "12/05", "note": "Sir, a second birthday has hit the tower."},
 ]
 
 
@@ -266,7 +266,10 @@ def build_birthday_embed(person: dict) -> dict:
 
     note = person.get("note")
     if note:
-        description += f"\n\n> {note}"
+        # Discord blockquotes only span one line, so prefix each line.
+        quoted = "\n".join(f"> {line}" if line.strip() else ">"
+                           for line in str(note).split("\n"))
+        description += f"\n\n{quoted}"
 
     description += f"\n\n{closer}"
 
