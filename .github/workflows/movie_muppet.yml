@@ -38,21 +38,36 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # v6 targets Node 24 (v4 was Node 20 and is deprecated)
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
           persist-credentials: true
 
+      # v6 targets Node 24 (v5 was Node 20 and is deprecated)
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
+
+      # Proves which version of the script the runner actually checked out.
+      # If this warns, your edit never made it to the branch.
+      - name: Verify deployed script
+        run: |
+          echo "── Commit: $(git rev-parse --short HEAD) ──"
+          echo "── Payload return line: ──"
+          grep -n 'return {' movie_muppet.py | tail -3
+          if grep -q '"avatar_url"[[:space:]]*:' movie_muppet.py; then
+            echo "⚠️  WARNING: avatar_url is STILL being sent in the payload."
+          else
+            echo "✅ No avatar_url in payload — Discord's own avatar will be used."
+          fi
 
       - name: Run Movie Muppet
         env:
