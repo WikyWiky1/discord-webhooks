@@ -53,7 +53,10 @@
   "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
   "CBMiowFBVV95cUxOYjBLM01uX0dLclpkY041M29fZHdIbm52RmhrcUxBdEhxZ1dzeVlHY25tRVJYcGRIejJ5ZjZZOU9RYnhsaFdGX0dWdG9aRGxpRDE5QzItNFNqWm9RVDRheEYxaFVuRm54aXh3cmRNLTlLSEV1ZVZ5azgzMDNtUGR4dVNjQUp2b0R1eldwSTVqeFJXMmJZQWl2MkxMNzFGYkxKM3ZR",
   "CBMiwwFBVV95cUxPM0c1Y3Z1S3JvRDl6YklGRHdRWXJWWDdOMUJYQ0FURHpwLTByV1N0bzBCZ0ZGWGZoc0FwakZlLTI2S3cxWGxOV010X1I1NWlBVGRRbmdJeW9penZraklmQ2dtVERtdVMwM1ljR2t4QTl0OEZicThhNTZnN1ZJb3dlMC05TXBoOG4ybGpka1hRX2hUVGtkYTVjRHhBbk9CZDlMYWluVk03Yl9HeWt6UnhyMXZTMGtBQTE3S2l6NHoxOW96WTg",
-  "CBMiqgFBVV95cUxOSHREd1FNM0VKZjFKOGltYVdMUDFkRlRqNkdOc0FELWdCZ0o3UDZ5SnFIWlpxeHlUdmxvT190VzM4dWd6b0QtWmgwbDdvUVlMWFlUSmFvZkdtbFJDYUNHVzAzWHR3SExEQ1NTNE9MSENvc1BoZUw3cVlvQ2hwMlp0dVY4a0JrX211aVhnRzUxOVVEYzJsTGZ0TndUVWRLM2xQRjFVSkU5TzlZQQ"
+  "CBMiqgFBVV95cUxOSHREd1FNM0VKZjFKOGltYVdMUDFkRlRqNkdOc0FELWdCZ0o3UDZ5SnFIWlpxeHlUdmxvT190VzM4dWd6b0QtWmgwbDdvUVlMWFlUSmFvZkdtbFJDYUNHVzAzWHR3SExEQ1NTNE9MSENvc1BoZUw3cVlvQ2hwMlp0dVY4a0JrX211aVhnRzUxOVVEYzJsTGZ0TndUVWRLM2xQRjFVSkU5TzlZQQ",
+  "CBMiygFBVV95cUxONnBwSWJHRkw0YU5RVUdSMTNHWlZvc3dqZUNlNUdmdWQ4NnFFVnRjQVVHSkF5TnlrNG9Jb3p5VHlGS0szMHdNTGxaaFVIRmdFdXQ1TW5ael9NaV9lODQtYmZqbHBSZG5HbGFlSHVMNVZEMV9jTUdkSi1qWmVDdFBmVXBxSjdNemw0MktSS0Jka3BDQlExZUxBdV9mNWJWSkh4ZnhVS0QxcEc3VmJ0aXo2czRfTWhRanJ1YzBBYkt4eW85UGZDdFpRanVB",
+  "https://nypost.com/?post_type=article&p=40133496",
+  "https://thehill.com/?p=6001064"
  ],
  "posts": [
   {
@@ -379,6 +382,24 @@
    "title": "Stellantis Shares Skid as Earnings Disappoint",
    "source": "WSJ",
    "at": "2026-07-31T11:29:21.962207+00:00"
+  },
+  {
+   "fp": "congo data ebola largest latest outbreak record second shows",
+   "title": "Congo's Ebola outbreak is second-largest on record, latest data shows",
+   "source": "Reuters",
+   "at": "2026-07-31T11:41:14.539956+00:00"
+  },
+  {
+   "fp": "albany bike deadly face mamdani menace need",
+   "title": "Mamdani and Albany need to face the deadly E-bike menace NOW",
+   "source": "New York Post",
+   "at": "2026-07-31T11:41:16.280534+00:00"
+  },
+  {
+   "fp": "avoid close cutting deal senate shutdown",
+   "title": "Senate GOP close to cutting deal to avoid shutdown",
+   "source": "The Hill",
+   "at": "2026-07-31T11:41:17.993182+00:00"
   }
  ],
  "titles": [
@@ -435,6 +456,9 @@
   "ebola fastest growing history outbreak virus",
   "broke copyright court firm german music rules suno",
   "billion dodge gambling helped illicit iranian network pull sanctions",
-  "disappoint earnings shares skid stellantis"
+  "disappoint earnings shares skid stellantis",
+  "congo data ebola largest latest outbreak record second shows",
+  "albany bike deadly face mamdani menace need",
+  "avoid close cutting deal senate shutdown"
  ]
 }
