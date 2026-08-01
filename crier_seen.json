@@ -155,7 +155,9 @@
   "https://nypost.com/?post_type=article&p=40152423",
   "https://nypost.com/?post_type=article&p=40137145",
   "CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ",
-  "https://www.bbc.co.uk/news/articles/cy07qe0knvzo#0"
+  "https://www.bbc.co.uk/news/articles/cy07qe0knvzo#0",
+  "https://nypost.com/?post_type=article&p=40153386",
+  "CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA"
  ],
  "posts": [
   {
@@ -1093,6 +1095,18 @@
    "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
    "source": "BBC World",
    "at": "2026-08-01T17:17:20.149365+00:00"
+  },
+  {
+   "fp": "attack california cause death dragged horrifying revealed shark triathlete",
+   "title": "Horrifying cause of death revealed for California triathlete dragged out to sea in shark attack",
+   "source": "New York Post",
+   "at": "2026-08-01T18:13:47.523984+00:00"
+  },
+  {
+   "fp": "barrier ceuta deadly floating installs migrant rush spain",
+   "title": "Spain installs floating barrier in Ceuta after deadly migrant rush",
+   "source": "Reuters",
+   "at": "2026-08-01T18:13:49.268963+00:00"
   }
  ],
  "titles": [
@@ -1251,6 +1265,8 @@
   "anniversary attack hell neighbors nightmare shark tease victims wonderful",
   "beaches california deadly rescue summer swells turning zones",
   "associated breaking latest news press today",
-  "congo current ebola ever outbreak worst"
+  "congo current ebola ever outbreak worst",
+  "attack california cause death dragged horrifying revealed shark triathlete",
+  "barrier ceuta deadly floating installs migrant rush spain"
  ]
 }
