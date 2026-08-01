@@ -158,7 +158,10 @@
   "https://www.bbc.co.uk/news/articles/cy07qe0knvzo#0",
   "https://nypost.com/?post_type=article&p=40153386",
   "CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA",
-  "https://pagesix.com/?post_type=article&p=9086184"
+  "https://pagesix.com/?post_type=article&p=9086184",
+  "https://nypost.com/?post_type=article&p=40154264",
+  "https://www.foxnews.com/world/socialist-spanish-pm-blasts-meloni-restored-border-controls-ceuta-surge-demands-emergency-meeting",
+  "CBMilwFBVV95cUxQNkhRMDdsSlFaempsUmw0WmZQV0VzNTg5MnQ2TE9pbEs0WUg1ZDVYQWlfVWdXSjRwdUM4YThmMnB3aUs2cUVDZ0s0MnNlSDNHMDJDZU5iWmE0eFdpTmRlMlcwV05HNkI4b0d5SVJhS080bl9CZlNPUkpoSWZjRjRNZUw5alNtaFVQdERIT2p5MDlSTTFCWms4"
  ],
  "posts": [
   {
@@ -1114,6 +1117,24 @@
    "title": "Nicki Minaj blasts Anthony Fauci in mock diary video after explosive Senate testimony",
    "source": "New York Post",
    "at": "2026-08-01T19:07:22.812879+00:00"
+  },
+  {
+   "fp": "dome heat inside prompts risks stay warnings western wildfire",
+   "title": "\u2018Heat dome\u2019 prompts stay-inside warnings and wildfire risks in Western US",
+   "source": "New York Post",
+   "at": "2026-08-01T19:36:27.334563+00:00"
+  },
+  {
+   "fp": "blasts border ceuta controls demands emergency meeting meloni restored socialist spanish surge",
+   "title": "Socialist Spanish PM blasts Meloni over restored border controls after Ceuta surge, demands emergency meeting",
+   "source": "Fox News World",
+   "at": "2026-08-01T19:36:29.042262+00:00"
+  },
+  {
+   "fp": "explosion injured killed moscow tass three",
+   "title": "Three killed, 15 injured in Moscow explosion, TASS says",
+   "source": "Reuters",
+   "at": "2026-08-01T19:36:30.723724+00:00"
   }
  ],
  "titles": [
@@ -1275,6 +1296,9 @@
   "congo current ebola ever outbreak worst",
   "attack california cause death dragged horrifying revealed shark triathlete",
   "barrier ceuta deadly floating installs migrant rush spain",
-  "anthony blasts diary explosive fauci minaj mock nicki senate testimony video"
+  "anthony blasts diary explosive fauci minaj mock nicki senate testimony video",
+  "dome heat inside prompts risks stay warnings western wildfire",
+  "blasts border ceuta controls demands emergency meeting meloni restored socialist spanish surge",
+  "explosion injured killed moscow tass three"
  ]
 }
