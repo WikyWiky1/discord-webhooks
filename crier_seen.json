@@ -167,7 +167,12 @@
   "https://www.washingtonexaminer.com/?p=4672016",
   "https://nypost.com/?post_type=article&p=40146891",
   "CBMiiwFBVV95cUxOREZzVE1SRk1LT3VOa2ZWa1RvNVMxdXF5UXFDcl8tV1FreFhsc19NdjBOWWRpRVhvRTZuSjFVVmhuZXU2MzEyMF82RWdib1ZqaDdUYllEeUdnSDRGLWpMNS1GWU1ZLVItTC1mTTRCOEszcGxseUJSWXk3TVVnUmpXV1VzX2I1LUNobEln",
-  "CBMiigFBVV95cUxNV25Vd0hVYjdlaGdjTWxFUlVSVnFpNkRxWURpaW9GQlBDU1RKa3o1MF8yaG9ZMVM5aFZ4M2VVdnNQTUVHSjFhZWVBejIyRlVlblptT1l4M0k1WEc3WGFmRTZFUlNTWnM2Vkk2dlZMcWlDRm95YnN0ejROU1FBUE9heGhmbllmRzdxdHc"
+  "CBMiigFBVV95cUxNV25Vd0hVYjdlaGdjTWxFUlVSVnFpNkRxWURpaW9GQlBDU1RKa3o1MF8yaG9ZMVM5aFZ4M2VVdnNQTUVHSjFhZWVBejIyRlVlblptT1l4M0k1WEc3WGFmRTZFUlNTWnM2Vkk2dlZMcWlDRm95YnN0ejROU1FBUE9heGhmbllmRzdxdHc",
+  "https://nypost.com/?post_type=article&p=40154289",
+  "CBMiugFBVV95cUxQSnE5c2hGZjM2RjZHLWU5Z3lKclF4ZXUteFlvbk5CTE0wdGN4SlJVdkIyNVFNZXF3SjVyYmY3ZDFkRjMwVTBvUFE3THItbkN1RjF5NFV1UkF6MFhWSDBydFRiQXVxX2djcTBrcm1VTjRCcjJkUGs0VjB6RU12bG91Q2k2ZHZNY1dFUzJqZW9KT09QRVFQZXphSjdDNnJMTWQtRDBsSVR3RnlOSXFvbGg4UTBjU2Rua3Q5VkE",
+  "https://pagesix.com/?post_type=article&p=9086297",
+  "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+  "https://news.sky.com/story/tourist-plane-crash-leaves-13-dead-in-peru-13569102"
  ],
  "posts": [
   {
@@ -1177,6 +1182,36 @@
    "title": "Heat wave expected to bring record-breaking temps, heighten wildfire risk to parts of Western US",
    "source": "AP",
    "at": "2026-08-01T20:30:15.735659+00:00"
+  },
+  {
+   "fp": "arson busted california country homeless madman police probe scourge sparking wildfire wine",
+   "title": "Homeless madman busted for sparking California wine country wildfire as police probe arson scourge",
+   "source": "New York Post",
+   "at": "2026-08-01T21:32:15.043374+00:00"
+  },
+  {
+   "fp": "crash lines nazca peru plane thirteen tourist",
+   "title": "Thirteen die in tourist plane crash over Peru's Nazca Lines",
+   "source": "Reuters",
+   "at": "2026-08-01T21:32:16.802317+00:00"
+  },
+  {
+   "fp": "dead pastore sopranos star vincent",
+   "title": "\u2018Sopranos\u2019 star Vincent Pastore dead at 80",
+   "source": "New York Post",
+   "at": "2026-08-01T21:32:18.576006+00:00"
+  },
+  {
+   "fp": "crashes dead flight least lines nazca peru plane tourist",
+   "title": "At least 13 dead as tourist plane crashes during flight over Peru\u2019s Nazca Lines",
+   "source": "Guardian World",
+   "at": "2026-08-01T21:32:20.388029+00:00"
+  },
+  {
+   "fp": "crash dead leaves peru plane tourist",
+   "title": "Tourist plane crash leaves 13 dead in Peru",
+   "source": "Sky News",
+   "at": "2026-08-01T21:32:22.191419+00:00"
   }
  ],
  "titles": [
@@ -1347,6 +1382,11 @@
   "attack cannot defend general iranian israel missile pentagon report tells",
   "angle assassination candace charlie claims footage kirk never owens releases seen shows",
   "explosion killed moscow people restaurant wounded",
-  "breaking bring expected heat heighten parts record risk temps wave western wildfire"
+  "breaking bring expected heat heighten parts record risk temps wave western wildfire",
+  "arson busted california country homeless madman police probe scourge sparking wildfire wine",
+  "crash lines nazca peru plane thirteen tourist",
+  "dead pastore sopranos star vincent",
+  "crashes dead flight least lines nazca peru plane tourist",
+  "crash dead leaves peru plane tourist"
  ]
 }
