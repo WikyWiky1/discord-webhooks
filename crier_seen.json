@@ -115,7 +115,10 @@
   "https://nypost.com/?post_type=article&p=40150873",
   "https://nypost.com/?post_type=article&p=40149659",
   "https://thehill.com/?p=6003372",
-  "https://nypost.com/?post_type=article&p=40149016"
+  "https://nypost.com/?post_type=article&p=40149016",
+  "CBMimgFBVV95cUxNSmI3Zk9BZXRZTDU3MnpITWtQWVc1Vnp4cUI0QmpsZE5vOENySzBucS16QnkxUklOOUQ5RVpoZFhlUFlOLWZtc1o0Z2o0Q3hXUjNHcW9MV3U4S29MX2NCWkpoVnljUDdrb0hvTzQyUzNRbFVYRG9nLUFXa2Z5QlpWaXRLVFF0STRIcDNLbTN0dHlJd1BwRGJjWUtn",
+  "CBMinwFBVV95cUxOMTlMV09QUXN5bG9WcDh0c1g5ay1ZWFV5b0FjV2JYT3dCSG9UaFRDUDFmc21KLXZZMF9HN0ZRRGxabG9EY0VuVlY4YXBabXEzTXppcUdmWkZrMENTYXJCWVFValF1bUF1S3hJRjZGSVlFMjQyS191blBaV3M5T1ZLOUhfcWp5VFRhSTZiQ2p1MFFfYXYxd2ZaREVzdFlXLXc",
+  "https://www.washingtonexaminer.com/?p=4671751"
  ],
  "posts": [
   {
@@ -813,6 +816,24 @@
    "title": "Gavin Newsom\u2019s tax return bait-and-switch: An attack on democracy",
    "source": "New York Post",
    "at": "2026-08-01T04:37:32.768490+00:00"
+  },
+  {
+   "fp": "cuts economy fight fuel interest losing rate rocket trump wanted",
+   "title": "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far",
+   "source": "AP",
+   "at": "2026-08-01T05:54:38.878693+00:00"
+  },
+  {
+   "fp": "bill chances college long missing revive senate sports support",
+   "title": "SEC, Big Ten add long-missing support to college sports bill and revive its chances in the Senate",
+   "source": "AP",
+   "at": "2026-08-01T05:54:40.585708+00:00"
+  },
+  {
+   "fp": "addresses bill boozman chairman cuts draft farm senate snap unveils updated",
+   "title": "Senate Ag Chairman Boozman unveils updated farm bill draft that addresses SNAP cuts",
+   "source": "Washington Examiner",
+   "at": "2026-08-01T05:54:42.245859+00:00"
   }
  ],
  "titles": [
@@ -931,6 +952,9 @@
   "breaking down landing likely skubal spots tarik",
   "bizarre california camera case dead found mansion rental suspect twist",
   "bipartisan ebola family funding outbreak planning press rubio senators unlock women",
-  "attack bait democracy gavin newsom return switch"
+  "attack bait democracy gavin newsom return switch",
+  "cuts economy fight fuel interest losing rate rocket trump wanted",
+  "bill chances college long missing revive senate sports support",
+  "addresses bill boozman chairman cuts draft farm senate snap unveils updated"
  ]
 }
