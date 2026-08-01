@@ -25,7 +25,7 @@ import requests
 # ---------------------------------------------------------------- config
 
 DAYS_AHEAD = 7               # create events starting within this many days
-EVENT_HOURS = 4              # assumed card length, for the event end time
+EVENT_HOURS = 6              # assumed card length, for the event end time
 STATE_FILE = "oracle_state.json"
 
 # ESPN's UFC feed also carries developmental cards. Drop those.
@@ -33,7 +33,8 @@ EXCLUDE_KEYWORDS = ["Contender Series", "Road to UFC", "Dana White"]
 
 BROADCAST = "Paramount+"      # shown in the description
 BOT_NAME = "Octagon Oracle"
-EMBED_COLOR = 0xD20A0A        # UFC red
+EMBED_COLOR = 0xD20A0A        # UFC red — new event announcements
+UPDATE_COLOR = 0xE8A33D       # amber — schedule change announcements
 
 ESPN_URL = "https://site.api.espn.com/apis/site/v2/sports/mma/ufc/scoreboard"
 DISCORD_API = "https://discord.com/api/v10"
@@ -239,25 +240,14 @@ def event_exists(discord_id):
     return r.status_code == 200
 
 
-def announce(ev, discord_id):
-    """Post a webhook announcement for a newly created event."""
+def post_webhook(embed, label):
+    """Send one embed to the announcement webhook."""
     if not WEBHOOK:
         return
     if DRY:
-        print(f"  [dry] would announce: {ev['name']}")
+        print(f"  [dry] would announce ({label}): {embed['title']}")
         return
 
-    unix = int(ev["start"].timestamp())
-    embed = {
-        "title": f"🥊 {ev['name']}",
-        "description": (
-            f"<t:{unix}:F>  •  <t:{unix}:R>\n\n"
-            f"📍 {ev['venue']}\n"
-            f"📺 {BROADCAST}"
-        ),
-        "color": EMBED_COLOR,
-        "footer": {"text": "Event added to the server calendar — RSVP in the Events tab"},
-    }
     try:
         r = requests.post(
             WEBHOOK,
@@ -268,6 +258,71 @@ def announce(ev, discord_id):
             print(f"  webhook failed [{r.status_code}]: {r.text[:200]}")
     except Exception as exc:
         print(f"  webhook error: {exc}")
+
+
+def announce_new(ev):
+    """Announce a freshly created event."""
+    unix = int(ev["start"].timestamp())
+    embed = {
+        "title": f"\U0001F94A {ev['name']}",
+        "description": (
+            f"<t:{unix}:F>  \u2022  <t:{unix}:R>\n\n"
+            f"\U0001F4CD {ev['venue']}\n"
+            f"\U0001F4FA {BROADCAST}"
+        ),
+        "color": EMBED_COLOR,
+        "footer": {"text": "Event added to the server calendar \u2014 RSVP in the Events tab"},
+    }
+    post_webhook(embed, "new")
+
+
+def announce_change(ev, old_start_iso, old_name):
+    """Announce that an existing card moved, got renamed, or both."""
+    new_unix = int(ev["start"].timestamp())
+
+    moved = False
+    old_unix = None
+    if old_start_iso:
+        try:
+            old_dt = datetime.fromisoformat(old_start_iso)
+            if old_dt.tzinfo is None:
+                old_dt = old_dt.replace(tzinfo=timezone.utc)
+            old_unix = int(old_dt.timestamp())
+            moved = old_unix != new_unix
+        except ValueError:
+            pass
+
+    renamed = bool(old_name) and old_name != ev["name"]
+
+    if not (moved or renamed):
+        return
+
+    lines = []
+    if renamed:
+        lines.append(f"Card was previously **{old_name}**.")
+    if moved:
+        lines.append(f"~~<t:{old_unix}:F>~~")
+        lines.append(f"\u27A1\uFE0F  **<t:{new_unix}:F>**  \u2022  <t:{new_unix}:R>")
+    else:
+        lines.append(f"<t:{new_unix}:F>  \u2022  <t:{new_unix}:R>")
+
+    lines.append("")
+    lines.append(f"\U0001F4CD {ev['venue']}")
+
+    if moved:
+        title = f"\U0001F4C5 Schedule change \u2014 {ev['name']}"
+        footer = "The server event has been updated \u2014 check the Events tab"
+    else:
+        title = f"\U0001F504 Card update \u2014 {ev['name']}"
+        footer = "The server event has been updated"
+
+    embed = {
+        "title": title[:256],
+        "description": "\n".join(lines)[:1000],
+        "color": UPDATE_COLOR,
+        "footer": {"text": footer},
+    }
+    post_webhook(embed, "change")
 
 
 # ---------------------------------------------------------------- modes
@@ -309,6 +364,7 @@ def main():
     print(f"ESPN returned {len(schedule)} UFC card(s) in range\n")
 
     created = 0
+    updated = 0
     for ev in schedule:
         if ev["start"] < now - timedelta(hours=6):
             continue                       # already happened
@@ -331,11 +387,21 @@ def main():
                     }
                 continue
 
-            if rec.get("start") != ev["start"].isoformat() or rec.get("name") != ev["name"]:
-                print(f"  schedule changed: {ev['name']}")
+            old_start = rec.get("start")
+            old_name = rec.get("name")
+            moved = old_start != ev["start"].isoformat()
+            renamed = old_name != ev["name"]
+
+            if moved or renamed:
+                what = " and ".join(
+                    x for x, flag in (("time", moved), ("name", renamed)) if flag
+                )
+                print(f"  {what} changed: {ev['name']}")
                 if update_event(rec["discord_id"], ev):
                     rec["start"] = ev["start"].isoformat()
                     rec["name"] = ev["name"]
+                    announce_change(ev, old_start, old_name)
+                    updated += 1
             else:
                 print(f"  already handled: {ev['name']}")
             continue
@@ -348,11 +414,16 @@ def main():
                 "start": ev["start"].isoformat(),
                 "name": ev["name"],
             }
-            announce(ev, new_id)
+            announce_new(ev)
             created += 1
 
     save_state(state)
-    print(f"\nDone. {created} new event(s) created.")
+
+    verb = "would create" if DRY else "created"
+    summary = f"\nDone. {created} event(s) {verb}"
+    if updated:
+        summary += f", {updated} updated"
+    print(summary + ".")
 
 
 if __name__ == "__main__":
