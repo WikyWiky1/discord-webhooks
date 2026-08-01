@@ -142,7 +142,8 @@
   "https://nypost.com/?post_type=article&p=40152139",
   "https://nypost.com/?post_type=article&p=40152073",
   "https://www.theguardian.com/world/2026/aug/01/top-mountaineer-nirmal-purja-confirmed-dead-after-11-hit-by-avalanche-in-pakistan",
-  "https://nypost.com/?post_type=article&p=40151860"
+  "https://nypost.com/?post_type=article&p=40151860",
+  "CBMiuwFBVV95cUxQejJOMUdaM3o5dDFVSU04YTE1RzhOVjhyTzdxR2tqalUtSk1uUFlxOTJFLTN1TGgtMWRqdUktaGdCQUw3dDE1MG1hZjljOUdkYUk4RWhEZnByVHJyN2JPeFVOUG9Danp4ZUZTNmVUeDJtaXVjYUNhbk5wb1lpMGN6ZnZIVEhrelIzS0RjaEdXT3czX1Vrekh6VTRTQzUtNE8zM0pPVGY4eHA4eFdSWm8xR3pIRnNtcXdZSUQw"
  ],
  "posts": [
   {
@@ -1002,6 +1003,12 @@
    "title": "Spain installing containment fence between Morocco and Ceuta after massive frontier rush killed 67",
    "source": "New York Post",
    "at": "2026-08-01T13:57:34.721938+00:00"
+  },
+  {
+   "fp": "destroy gaza israeli kill medicine storage strikes warehouses",
+   "title": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses",
+   "source": "Reuters",
+   "at": "2026-08-01T15:00:03.123343+00:00"
   }
  ],
  "titles": [
@@ -1147,6 +1154,7 @@
   "chaos crowded fire harrowing injuring mall maryland opens shooter shows teen video",
   "bowler butturff crushing dead jakob soul star",
   "avalanche confirmed dead mountaineer nirmal pakistan purja",
-  "between ceuta containment fence frontier installing killed massive morocco rush spain"
+  "between ceuta containment fence frontier installing killed massive morocco rush spain",
+  "destroy gaza israeli kill medicine storage strikes warehouses"
  ]
 }
