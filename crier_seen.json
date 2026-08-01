@@ -176,7 +176,10 @@
   "CBMieEFVX3lxTFBIenFhdUd6T0VBVHA0YVNHU3A0WnJxXzdWSXEyVC05MjlicVB4NkI3SllvSjg5V3dtcDZtN2N2SUNhNEFONzd6QWhjVkg4YWlSR0d4ZzF2dzZGRXZER19HX284MFBBMENfdUJ4bUJMd3hfbDdOOFA3ag",
   "https://thehill.com/?p=6003882",
   "https://thehill.com/?p=6003529",
-  "CBMi0wFBVV95cUxNaWlqNFRRdmhvdnJCYjdZNU5ZQWRFczZoSnJrbHhmWjc4OEplN3VOSE00RlBwc3J4MDRhbUdiNm80a09weGVQRUxqZHhfRzMtT2d2UkpjazBWaXduSk1MUG5pdUNIZFpTUzgyR09WQnJMYkctNEJtcFlCQWVTb2gwaEd0ZHJpNDhaQzQ0UzZYUTJJZkFiTWJsU1RMMVdRTktiZVZtRWN0cE1wUFpvWUdKbTQ0X295WHBBTW9CakYyRUU0VTh1YlM5b3YzMGwzOGtTZzNR"
+  "CBMi0wFBVV95cUxNaWlqNFRRdmhvdnJCYjdZNU5ZQWRFczZoSnJrbHhmWjc4OEplN3VOSE00RlBwc3J4MDRhbUdiNm80a09weGVQRUxqZHhfRzMtT2d2UkpjazBWaXduSk1MUG5pdUNIZFpTUzgyR09WQnJMYkctNEJtcFlCQWVTb2gwaEd0ZHJpNDhaQzQ0UzZYUTJJZkFiTWJsU1RMMVdRTktiZVZtRWN0cE1wUFpvWUdKbTQ0X295WHBBTW9CakYyRUU0VTh1YlM5b3YzMGwzOGtTZzNR",
+  "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
+  "https://www.foxnews.com/world/explosion-restaurant-central-moscow-leaves-three-dead-dozen-injured",
+  "https://nypost.com/?post_type=article&p=40155422"
  ],
  "posts": [
   {
@@ -1240,6 +1243,24 @@
    "title": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results",
    "source": "Reuters",
    "at": "2026-08-01T21:56:44.184029+00:00"
+  },
+  {
+   "fp": "avalanche climbers famed fellow kills mountaineer nirmal pakistan purja",
+   "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
+   "source": "NPR News",
+   "at": "2026-08-01T22:32:37.330959+00:00"
+  },
+  {
+   "fp": "central dead dozen explosion injured leaves moscow restaurant three",
+   "title": "Explosion at restaurant in central Moscow leaves three dead, more than a dozen injured",
+   "source": "Fox News World",
+   "at": "2026-08-01T22:32:39.073371+00:00"
+  },
+  {
+   "fp": "avoid coast collapse defeat high late liberty mercury note trip west",
+   "title": "Liberty avoid late collapse to defeat Mercury, end West Coast trip on high note",
+   "source": "New York Post",
+   "at": "2026-08-01T22:32:40.835754+00:00"
   }
  ],
  "titles": [
@@ -1419,6 +1440,9 @@
   "rebound stage stocks",
   "leads news paxton points poll race senate talarico texas",
   "blanche claims doubles down live pool presses reflecting senate trump updates vandalism",
-  "ahead beyond investor mars moon paint pink questions results rocket spacex"
+  "ahead beyond investor mars moon paint pink questions results rocket spacex",
+  "avalanche climbers famed fellow kills mountaineer nirmal pakistan purja",
+  "central dead dozen explosion injured leaves moscow restaurant three",
+  "avoid coast collapse defeat high late liberty mercury note trip west"
  ]
 }
