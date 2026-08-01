@@ -134,7 +134,9 @@
   "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
   "CBMivwFBVV95cUxPeWpyZFpUY19WRVp3aFN1ZURWa3hNTU55WnltbHBodng0WlhUekcyX1BEcWJZc0sxOGdTaXdrUDBVaG9uV192bXFveWVWUjdLeUhVeEFZWi1RekN4eEZkV1gzb3ZPdV80MGV4a1dWVXRyRFFiS1N4VHBZZWgzQ2NmVkNRVHhEM0E1SGhGcXBib0hCZU1nT3ppWnhFbk1xMXRMMFBGUjl3SmVjNEFXU1kxX3pkX0g5cWFFUjBablUwWQ",
   "CBMinAFBVV95cUxPNVQ2bFQwMEJabDJUOTZKS0ZFTWwtYnlUQVR3aGQ0UW5HMUpwbVJtQmpBaEFITW12UXozVGZmZTJEUzJjUm1ibmRKS05FU2lRb0x0cm9NbDRlTy1nNzhNVE1HTmtYdHlPaG43d0xiRWY2SER0Q2Vud2R6Ulp2R05CYXNVYWRkaFg4QjhTZmM3YUJNazlVUExKb1lLZWg",
-  "https://www.bbc.co.uk/news/articles/czrxepy3vn3o#1"
+  "https://www.bbc.co.uk/news/articles/czrxepy3vn3o#1",
+  "CBMivAFBVV95cUxPaENSUzhSWi1xMmhoSVFXRFZLTUM2V2Rydm5sOUp0aW1WYkxkV1pWdDFCTVpkbkF0WVFpSUlZbFZuQ2FwYXVvOVR1X1I0NWlWTjFUaFdlU2tyd1RXNm1rcWF5OWV1SzNHYVpvRGtlWFQ2NWxCYUk1R2c1UWVaU3k0SENqbDMxS1B3eUZoOE9pSGhxNGZScDBFY2NLUjVoNzhxNm1BYzFoUm5EbVE0dXQyUGJoQkd1YkRTdjNqXw",
+  "CBMiswFBVV95cUxQYUR4aERLVE00azhSZHJQbWZZUktuVmNhYkFKb1lTWUhEcS1CS3dIbEdJREpybnlaRk01elZwWi1EMlNLV290anVpWTltNDNON1p0em1LLXBraWlSTzhMOVAydVM0NFhSR1dZNE8wRzJvaC16dGlPUkVoM25ZRjZvejNTMzRZZWZNMEE4UnRJN2JWTDc2VTdYblhiNnlYQVhnUmVxQktVSlJ2VWgtZVJfWFBuUQ"
  ],
  "posts": [
   {
@@ -946,6 +948,18 @@
    "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
    "source": "BBC Science",
    "at": "2026-08-01T12:04:58.030113+00:00"
+  },
+  {
+   "fp": "battle continue firefighters france greece rage spain wildfires",
+   "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
+   "source": "Reuters",
+   "at": "2026-08-01T12:14:25.985321+00:00"
+  },
+  {
+   "fp": "amsterdam attack berlin boisterous expected shadow thousands worldpride",
+   "title": "Thousands expected in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
+   "source": "Reuters",
+   "at": "2026-08-01T12:14:27.654545+00:00"
   }
  ],
  "titles": [
@@ -1083,6 +1097,8 @@
   "earthquake hits injured naples near scores seismic swarm",
   "down hungary nuclear paks plant powered weekend",
   "dozens earthquake injured naples rocks",
-  "elusive lifelong mystery obsession pink scientist seaweed zebra"
+  "elusive lifelong mystery obsession pink scientist seaweed zebra",
+  "battle continue firefighters france greece rage spain wildfires",
+  "amsterdam attack berlin boisterous expected shadow thousands worldpride"
  ]
 }
