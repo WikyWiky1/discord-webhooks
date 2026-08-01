@@ -136,7 +136,9 @@
   "CBMinAFBVV95cUxPNVQ2bFQwMEJabDJUOTZKS0ZFTWwtYnlUQVR3aGQ0UW5HMUpwbVJtQmpBaEFITW12UXozVGZmZTJEUzJjUm1ibmRKS05FU2lRb0x0cm9NbDRlTy1nNzhNVE1HTmtYdHlPaG43d0xiRWY2SER0Q2Vud2R6Ulp2R05CYXNVYWRkaFg4QjhTZmM3YUJNazlVUExKb1lLZWg",
   "https://www.bbc.co.uk/news/articles/czrxepy3vn3o#1",
   "CBMivAFBVV95cUxPaENSUzhSWi1xMmhoSVFXRFZLTUM2V2Rydm5sOUp0aW1WYkxkV1pWdDFCTVpkbkF0WVFpSUlZbFZuQ2FwYXVvOVR1X1I0NWlWTjFUaFdlU2tyd1RXNm1rcWF5OWV1SzNHYVpvRGtlWFQ2NWxCYUk1R2c1UWVaU3k0SENqbDMxS1B3eUZoOE9pSGhxNGZScDBFY2NLUjVoNzhxNm1BYzFoUm5EbVE0dXQyUGJoQkd1YkRTdjNqXw",
-  "CBMiswFBVV95cUxQYUR4aERLVE00azhSZHJQbWZZUktuVmNhYkFKb1lTWUhEcS1CS3dIbEdJREpybnlaRk01elZwWi1EMlNLV290anVpWTltNDNON1p0em1LLXBraWlSTzhMOVAydVM0NFhSR1dZNE8wRzJvaC16dGlPUkVoM25ZRjZvejNTMzRZZWZNMEE4UnRJN2JWTDc2VTdYblhiNnlYQVhnUmVxQktVSlJ2VWgtZVJfWFBuUQ"
+  "CBMiswFBVV95cUxQYUR4aERLVE00azhSZHJQbWZZUktuVmNhYkFKb1lTWUhEcS1CS3dIbEdJREpybnlaRk01elZwWi1EMlNLV290anVpWTltNDNON1p0em1LLXBraWlSTzhMOVAydVM0NFhSR1dZNE8wRzJvaC16dGlPUkVoM25ZRjZvejNTMzRZZWZNMEE4UnRJN2JWTDc2VTdYblhiNnlYQVhnUmVxQktVSlJ2VWgtZVJfWFBuUQ",
+  "https://www.washingtonexaminer.com/?p=4671842",
+  "https://nypost.com/?post_type=article&p=40151995"
  ],
  "posts": [
   {
@@ -960,6 +962,18 @@
    "title": "Thousands expected in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
    "source": "Reuters",
    "at": "2026-08-01T12:14:27.654545+00:00"
+  },
+  {
+   "fp": "close democrats destined fetterman leave margins never seems senate",
+   "title": "Fetterman says he would \u2018never\u2019 leave Democrats as Senate seems destined for close margins",
+   "source": "Washington Examiner",
+   "at": "2026-08-01T13:20:34.135454+00:00"
+  },
+  {
+   "fp": "blanche confirm duck even keep lame nomination plan refuse reveals senators todd trump",
+   "title": "Trump reveals plan to keep Todd Blanche \u2014 even if lame duck GOP senators refuse to confirm nomination",
+   "source": "New York Post",
+   "at": "2026-08-01T13:20:35.889611+00:00"
   }
  ],
  "titles": [
@@ -1099,6 +1113,8 @@
   "dozens earthquake injured naples rocks",
   "elusive lifelong mystery obsession pink scientist seaweed zebra",
   "battle continue firefighters france greece rage spain wildfires",
-  "amsterdam attack berlin boisterous expected shadow thousands worldpride"
+  "amsterdam attack berlin boisterous expected shadow thousands worldpride",
+  "close democrats destined fetterman leave margins never seems senate",
+  "blanche confirm duck even keep lame nomination plan refuse reveals senators todd trump"
  ]
 }
