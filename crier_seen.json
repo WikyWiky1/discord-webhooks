@@ -118,7 +118,10 @@
   "https://nypost.com/?post_type=article&p=40149016",
   "CBMimgFBVV95cUxNSmI3Zk9BZXRZTDU3MnpITWtQWVc1Vnp4cUI0QmpsZE5vOENySzBucS16QnkxUklOOUQ5RVpoZFhlUFlOLWZtc1o0Z2o0Q3hXUjNHcW9MV3U4S29MX2NCWkpoVnljUDdrb0hvTzQyUzNRbFVYRG9nLUFXa2Z5QlpWaXRLVFF0STRIcDNLbTN0dHlJd1BwRGJjWUtn",
   "CBMinwFBVV95cUxOMTlMV09QUXN5bG9WcDh0c1g5ay1ZWFV5b0FjV2JYT3dCSG9UaFRDUDFmc21KLXZZMF9HN0ZRRGxabG9EY0VuVlY4YXBabXEzTXppcUdmWkZrMENTYXJCWVFValF1bUF1S3hJRjZGSVlFMjQyS191blBaV3M5T1ZLOUhfcWp5VFRhSTZiQ2p1MFFfYXYxd2ZaREVzdFlXLXc",
-  "https://www.washingtonexaminer.com/?p=4671751"
+  "https://www.washingtonexaminer.com/?p=4671751",
+  "https://nypost.com/?post_type=article&p=40151223",
+  "https://www.theguardian.com/world/2026/aug/01/first-australian-mass-mortality-event-suspected-as-deadly-bird-flu-virus-rapidly-escalates-among-native-birds",
+  "https://nypost.com/?post_type=article&p=40150891"
  ],
  "posts": [
   {
@@ -834,6 +837,24 @@
    "title": "Senate Ag Chairman Boozman unveils updated farm bill draft that addresses SNAP cuts",
    "source": "Washington Examiner",
    "at": "2026-08-01T05:54:42.245859+00:00"
+  },
+  {
+   "fp": "cops dispute employee gunman hunt pennsylvania shot walmart",
+   "title": "Pennsylvania cops hunt gunman after Walmart employee shot during dispute",
+   "source": "New York Post",
+   "at": "2026-08-01T07:10:37.182210+00:00"
+  },
+  {
+   "fp": "australian bird birds deadly escalates event mass mortality native rapidly suspected virus",
+   "title": "First Australian mass mortality event suspected as deadly bird flu virus rapidly escalates among native birds",
+   "source": "Guardian World",
+   "at": "2026-08-01T07:10:38.902200+00:00"
+  },
+  {
+   "fp": "about allegedly carolina drove girlfriend highway kills murder north pact suicide texted",
+   "title": "North Carolina man allegedly kills girlfriend, 19, as she drove on highway after he texted about murder-suicide pact",
+   "source": "New York Post",
+   "at": "2026-08-01T07:10:40.600386+00:00"
   }
  ],
  "titles": [
@@ -955,6 +976,9 @@
   "attack bait democracy gavin newsom return switch",
   "cuts economy fight fuel interest losing rate rocket trump wanted",
   "bill chances college long missing revive senate sports support",
-  "addresses bill boozman chairman cuts draft farm senate snap unveils updated"
+  "addresses bill boozman chairman cuts draft farm senate snap unveils updated",
+  "cops dispute employee gunman hunt pennsylvania shot walmart",
+  "australian bird birds deadly escalates event mass mortality native rapidly suspected virus",
+  "about allegedly carolina drove girlfriend highway kills murder north pact suicide texted"
  ]
 }
