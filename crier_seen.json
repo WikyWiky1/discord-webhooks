@@ -161,7 +161,13 @@
   "https://pagesix.com/?post_type=article&p=9086184",
   "https://nypost.com/?post_type=article&p=40154264",
   "https://www.foxnews.com/world/socialist-spanish-pm-blasts-meloni-restored-border-controls-ceuta-surge-demands-emergency-meeting",
-  "CBMilwFBVV95cUxQNkhRMDdsSlFaempsUmw0WmZQV0VzNTg5MnQ2TE9pbEs0WUg1ZDVYQWlfVWdXSjRwdUM4YThmMnB3aUs2cUVDZ0s0MnNlSDNHMDJDZU5iWmE0eFdpTmRlMlcwV05HNkI4b0d5SVJhS080bl9CZlNPUkpoSWZjRjRNZUw5alNtaFVQdERIT2p5MDlSTTFCWms4"
+  "CBMilwFBVV95cUxQNkhRMDdsSlFaempsUmw0WmZQV0VzNTg5MnQ2TE9pbEs0WUg1ZDVYQWlfVWdXSjRwdUM4YThmMnB3aUs2cUVDZ0s0MnNlSDNHMDJDZU5iWmE0eFdpTmRlMlcwV05HNkI4b0d5SVJhS080bl9CZlNPUkpoSWZjRjRNZUw5alNtaFVQdERIT2p5MDlSTTFCWms4",
+  "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+  "https://www.bbc.co.uk/news/articles/c86n4ljxp63o#1",
+  "https://www.washingtonexaminer.com/?p=4672016",
+  "https://nypost.com/?post_type=article&p=40146891",
+  "CBMiiwFBVV95cUxOREZzVE1SRk1LT3VOa2ZWa1RvNVMxdXF5UXFDcl8tV1FreFhsc19NdjBOWWRpRVhvRTZuSjFVVmhuZXU2MzEyMF82RWdib1ZqaDdUYllEeUdnSDRGLWpMNS1GWU1ZLVItTC1mTTRCOEszcGxseUJSWXk3TVVnUmpXV1VzX2I1LUNobEln",
+  "CBMiigFBVV95cUxNV25Vd0hVYjdlaGdjTWxFUlVSVnFpNkRxWURpaW9GQlBDU1RKa3o1MF8yaG9ZMVM5aFZ4M2VVdnNQTUVHSjFhZWVBejIyRlVlblptT1l4M0k1WEc3WGFmRTZFUlNTWnM2Vkk2dlZMcWlDRm95YnN0ejROU1FBUE9heGhmbllmRzdxdHc"
  ],
  "posts": [
   {
@@ -1135,6 +1141,42 @@
    "title": "Three killed, 15 injured in Moscow explosion, TASS says",
    "source": "Reuters",
    "at": "2026-08-01T19:36:30.723724+00:00"
+  },
+  {
+   "fp": "barrage continues defense kills kyiv nine overnight russian struggle",
+   "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+   "source": "NPR News",
+   "at": "2026-08-01T20:30:06.302915+00:00"
+  },
+  {
+   "fp": "bombing killed moscow restaurant three",
+   "title": "Three killed in Moscow restaurant bombing",
+   "source": "BBC World",
+   "at": "2026-08-01T20:30:08.276273+00:00"
+  },
+  {
+   "fp": "attack cannot defend general iranian israel missile pentagon report tells",
+   "title": "US General tells Pentagon he cannot defend Israel from Iranian missile attack: Report",
+   "source": "Washington Examiner",
+   "at": "2026-08-01T20:30:10.201486+00:00"
+  },
+  {
+   "fp": "angle assassination candace charlie claims footage kirk never owens releases seen shows",
+   "title": "Candace Owens releases footage she claims shows never-before-seen angle of Charlie Kirk assassination",
+   "source": "New York Post",
+   "at": "2026-08-01T20:30:12.122119+00:00"
+  },
+  {
+   "fp": "explosion killed moscow people restaurant wounded",
+   "title": "3 people killed, 15 wounded in Moscow restaurant explosion",
+   "source": "AP",
+   "at": "2026-08-01T20:30:13.860339+00:00"
+  },
+  {
+   "fp": "breaking bring expected heat heighten parts record risk temps wave western wildfire",
+   "title": "Heat wave expected to bring record-breaking temps, heighten wildfire risk to parts of Western US",
+   "source": "AP",
+   "at": "2026-08-01T20:30:15.735659+00:00"
   }
  ],
  "titles": [
@@ -1299,6 +1341,12 @@
   "anthony blasts diary explosive fauci minaj mock nicki senate testimony video",
   "dome heat inside prompts risks stay warnings western wildfire",
   "blasts border ceuta controls demands emergency meeting meloni restored socialist spanish surge",
-  "explosion injured killed moscow tass three"
+  "explosion injured killed moscow tass three",
+  "barrage continues defense kills kyiv nine overnight russian struggle",
+  "bombing killed moscow restaurant three",
+  "attack cannot defend general iranian israel missile pentagon report tells",
+  "angle assassination candace charlie claims footage kirk never owens releases seen shows",
+  "explosion killed moscow people restaurant wounded",
+  "breaking bring expected heat heighten parts record risk temps wave western wildfire"
  ]
 }
