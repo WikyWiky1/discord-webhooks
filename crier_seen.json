@@ -109,7 +109,13 @@
   "https://nypost.com/?post_type=article&p=40148943",
   "https://thehill.com/?p=6003349",
   "https://www.washingtonexaminer.com/?p=4671682",
-  "CBMilgFBVV95cUxNNWFENDcxRjB1MlowV3RUWURJbFpqY282N2t0YWoyR3lwVk1JUlhXTjFEQWVRa3BodHpacHpoZzhRTGZVQ2o0SDlIMHQ1TXBXMk9LdkdWTWtXR29FR1ZWYWw4M0tsU0RsMVJ2Smd3S2M2blFINUdJNklHWFhCX0gyWHlDRHNJbF9wZ3NRNlU4V3lwbWVzWFE"
+  "CBMilgFBVV95cUxNNWFENDcxRjB1MlowV3RUWURJbFpqY282N2t0YWoyR3lwVk1JUlhXTjFEQWVRa3BodHpacHpoZzhRTGZVQ2o0SDlIMHQ1TXBXMk9LdkdWTWtXR29FR1ZWYWw4M0tsU0RsMVJ2Smd3S2M2blFINUdJNklHWFhCX0gyWHlDRHNJbF9wZ3NRNlU4V3lwbWVzWFE",
+  "https://www.theguardian.com/world/2026/aug/01/mystery-briton-found-dead-suitcase-athens",
+  "https://www.theguardian.com/music/2026/aug/01/singapore-bans-massive-attack-for-showing-palestinian-flag-breaching-ban-on-foreign-emblems",
+  "https://nypost.com/?post_type=article&p=40150873",
+  "https://nypost.com/?post_type=article&p=40149659",
+  "https://thehill.com/?p=6003372",
+  "https://nypost.com/?post_type=article&p=40149016"
  ],
  "posts": [
   {
@@ -771,6 +777,42 @@
    "title": "Labour wins Manchester mayoral by-election as voter turnout slumps",
    "source": "Telegraph",
    "at": "2026-08-01T02:46:48.742349+00:00"
+  },
+  {
+   "fp": "athens briton dead done found mystery suitcase",
+   "title": "\u2018Who could have done this?\u2019 Mystery over Briton found dead in a suitcase in Athens",
+   "source": "Guardian World",
+   "at": "2026-08-01T04:37:23.969396+00:00"
+  },
+  {
+   "fp": "attack bans breaching emblems flag foreign massive palestinian showing singapore",
+   "title": "Singapore bans Massive Attack for showing Palestinian flag, breaching ban on foreign emblems",
+   "source": "Guardian World",
+   "at": "2026-08-01T04:37:25.736173+00:00"
+  },
+  {
+   "fp": "breaking down landing likely skubal spots tarik",
+   "title": "Breaking down Tarik Skubal\u2019s most likely landing spots",
+   "source": "New York Post",
+   "at": "2026-08-01T04:37:27.483059+00:00"
+  },
+  {
+   "fp": "bizarre california camera case dead found mansion rental suspect twist",
+   "title": "Bizarre twist in California spy camera rental mansion case as suspect found dead",
+   "source": "New York Post",
+   "at": "2026-08-01T04:37:29.282769+00:00"
+  },
+  {
+   "fp": "bipartisan ebola family funding outbreak planning press rubio senators unlock women",
+   "title": "Bipartisan senators press Rubio to unlock family planning funding for women in Ebola outbreak",
+   "source": "The Hill",
+   "at": "2026-08-01T04:37:31.040897+00:00"
+  },
+  {
+   "fp": "attack bait democracy gavin newsom return switch",
+   "title": "Gavin Newsom\u2019s tax return bait-and-switch: An attack on democracy",
+   "source": "New York Post",
+   "at": "2026-08-01T04:37:32.768490+00:00"
   }
  ],
  "titles": [
@@ -883,6 +925,12 @@
   "allegedly bieniemy elijah evaluation getting health mental shooting",
   "600m amazon customers received refunds return tariff trump",
   "backed establishment lead michigan race sayed senate stevens widens",
-  "election labour manchester mayoral slumps turnout voter wins"
+  "election labour manchester mayoral slumps turnout voter wins",
+  "athens briton dead done found mystery suitcase",
+  "attack bans breaching emblems flag foreign massive palestinian showing singapore",
+  "breaking down landing likely skubal spots tarik",
+  "bizarre california camera case dead found mansion rental suspect twist",
+  "bipartisan ebola family funding outbreak planning press rubio senators unlock women",
+  "attack bait democracy gavin newsom return switch"
  ]
 }
