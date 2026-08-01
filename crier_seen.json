@@ -143,7 +143,11 @@
   "https://nypost.com/?post_type=article&p=40152073",
   "https://www.theguardian.com/world/2026/aug/01/top-mountaineer-nirmal-purja-confirmed-dead-after-11-hit-by-avalanche-in-pakistan",
   "https://nypost.com/?post_type=article&p=40151860",
-  "CBMiuwFBVV95cUxQejJOMUdaM3o5dDFVSU04YTE1RzhOVjhyTzdxR2tqalUtSk1uUFlxOTJFLTN1TGgtMWRqdUktaGdCQUw3dDE1MG1hZjljOUdkYUk4RWhEZnByVHJyN2JPeFVOUG9Danp4ZUZTNmVUeDJtaXVjYUNhbk5wb1lpMGN6ZnZIVEhrelIzS0RjaEdXT3czX1Vrekh6VTRTQzUtNE8zM0pPVGY4eHA4eFdSWm8xR3pIRnNtcXdZSUQw"
+  "CBMiuwFBVV95cUxQejJOMUdaM3o5dDFVSU04YTE1RzhOVjhyTzdxR2tqalUtSk1uUFlxOTJFLTN1TGgtMWRqdUktaGdCQUw3dDE1MG1hZjljOUdkYUk4RWhEZnByVHJyN2JPeFVOUG9Danp4ZUZTNmVUeDJtaXVjYUNhbk5wb1lpMGN6ZnZIVEhrelIzS0RjaEdXT3czX1Vrekh6VTRTQzUtNE8zM0pPVGY4eHA4eFdSWm8xR3pIRnNtcXdZSUQw",
+  "https://nypost.com/?post_type=article&p=40149881",
+  "https://thehill.com/?p=6001831",
+  "https://www.theguardian.com/us-news/2026/aug/01/senate-committee-todd-blanche-attorney-general-nomination",
+  "https://thehill.com/?p=6003506"
  ],
  "posts": [
   {
@@ -1009,6 +1013,30 @@
    "title": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses",
    "source": "Reuters",
    "at": "2026-08-01T15:00:03.123343+00:00"
+  },
+  {
+   "fp": "bloodbath budget city cutting jobs public safety shortfall socal",
+   "title": "SoCal city cutting public safety jobs in bloodbath budget shortfall",
+   "source": "New York Post",
+   "at": "2026-08-01T16:00:19.230918+00:00"
+  },
+  {
+   "fp": "kevin mission monetary restraint reviving warsh",
+   "title": "Kevin Warsh\u2019s mission: reviving the era of monetary restraint",
+   "source": "The Hill",
+   "at": "2026-08-01T16:00:21.039505+00:00"
+  },
+  {
+   "fp": "committee fund nomination push reconsider senate slush trump vows",
+   "title": "Trump vows to push $1.8bn slush fund as Senate committee set to reconsider AG nomination",
+   "source": "Guardian World",
+   "at": "2026-08-01T16:00:22.865001+00:00"
+  },
+  {
+   "fp": "anti blanche fight fund pressure revival senate trump vows weaponization",
+   "title": "Trump ups pressure on Senate GOP in Blanche fight, vows 'anti-weaponization' fund revival",
+   "source": "The Hill",
+   "at": "2026-08-01T16:00:24.634161+00:00"
   }
  ],
  "titles": [
@@ -1155,6 +1183,10 @@
   "bowler butturff crushing dead jakob soul star",
   "avalanche confirmed dead mountaineer nirmal pakistan purja",
   "between ceuta containment fence frontier installing killed massive morocco rush spain",
-  "destroy gaza israeli kill medicine storage strikes warehouses"
+  "destroy gaza israeli kill medicine storage strikes warehouses",
+  "bloodbath budget city cutting jobs public safety shortfall socal",
+  "kevin mission monetary restraint reviving warsh",
+  "committee fund nomination push reconsider senate slush trump vows",
+  "anti blanche fight fund pressure revival senate trump vows weaponization"
  ]
 }
