@@ -106,7 +106,10 @@
   "CBMimAFBVV95cUxPMlFKQUROWXFPbFlVcDdDRlZZS0ZLMHBMY1VaSWV0TzIwQnNpVTFrYVZabzZ0Zjh4RVplRHV5NmtyamgzQzB2VVFZMXh4ekNvcXVETm80anNhekVDTWFzaHdMZ3MxMEdkVFh4UnFRd2cwVmJxUG9LUTZfejY4UmdRVHBBU2FZbGtyOWF0dm1vNEFYQjd6R2VyRA",
   "CBMikgFBVV95cUxOaW1WRldUNkRReDloMURFREdkUXd3bDFHbnJnSFctOHlHa0UyWnRrdzQtYlU1MnF6Mkdmam1uRDJhajdOeGxfOGlGb0h4Yy1JQVpjRFNGRFl0S0c1bEdOMTk2bFR1Q2doZVE1OTlPM2hXc3VJS0JxWTFvMHcxYkZJeWRvcFRNMFc5Ni1kNGpNREpjZw",
   "CBMitgFBVV95cUxORmxlakE4Z2pCMEFKODRZQXBFdUNKUTEtR3l1YU56V0dlck1nUkxrZjQyVHJCbGU3UzVvVTFXcDk4OV9FMlNSQS1sTHc3a2hKRUZLRWhkVlAyT1F2MGpIZ2pnampUdWR3MHp6aXNyUDZxd0k5VG9hb0RVNUlBem92OExqYWpfTUJZNjNmOGg1SnNWQlJrZlNvWHhGczliWGdLeF9RUkx2U3pHaHNZZ2JPMHlNbHUyQQ",
-  "https://nypost.com/?post_type=article&p=40148943"
+  "https://nypost.com/?post_type=article&p=40148943",
+  "https://thehill.com/?p=6003349",
+  "https://www.washingtonexaminer.com/?p=4671682",
+  "CBMilgFBVV95cUxNNWFENDcxRjB1MlowV3RUWURJbFpqY282N2t0YWoyR3lwVk1JUlhXTjFEQWVRa3BodHpacHpoZzhRTGZVQ2o0SDlIMHQ1TXBXMk9LdkdWTWtXR29FR1ZWYWw4M0tsU0RsMVJ2Smd3S2M2blFINUdJNklHWFhCX0gyWHlDRHNJbF9wZ3NRNlU4V3lwbWVzWFE"
  ],
  "posts": [
   {
@@ -750,6 +753,24 @@
    "title": "Elijah Bieniemy getting mental health evaluation after allegedly shooting mom",
    "source": "New York Post",
    "at": "2026-08-01T01:12:14.347942+00:00"
+  },
+  {
+   "fp": "600m amazon customers received refunds return tariff trump",
+   "title": "Amazon received $600M in Trump tariff refunds, will return some to customers",
+   "source": "The Hill",
+   "at": "2026-08-01T02:46:45.381120+00:00"
+  },
+  {
+   "fp": "backed establishment lead michigan race sayed senate stevens widens",
+   "title": "El Sayed widens lead against establishment-backed Stevens in Michigan Senate race",
+   "source": "Washington Examiner",
+   "at": "2026-08-01T02:46:47.027607+00:00"
+  },
+  {
+   "fp": "election labour manchester mayoral slumps turnout voter wins",
+   "title": "Labour wins Manchester mayoral by-election as voter turnout slumps",
+   "source": "Telegraph",
+   "at": "2026-08-01T02:46:48.742349+00:00"
   }
  ],
  "titles": [
@@ -859,6 +880,9 @@
   "attack fresh iran orders trump",
   "american escapes europe wildfires",
   "anti dead defends even fund settlement trump weaponization",
-  "allegedly bieniemy elijah evaluation getting health mental shooting"
+  "allegedly bieniemy elijah evaluation getting health mental shooting",
+  "600m amazon customers received refunds return tariff trump",
+  "backed establishment lead michigan race sayed senate stevens widens",
+  "election labour manchester mayoral slumps turnout voter wins"
  ]
 }
