@@ -1,0 +1,77 @@
+name: Octagon Oracle
+
+on:
+  schedule:
+    # 8:00 AM CST / 9:00 AM CDT — daily sweep
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What to run"
+        required: true
+        default: run
+        type: choice
+        options:
+          - run
+          - dry
+          - peek
+          - state
+
+permissions:
+  contents: write
+
+concurrency:
+  group: octagon-oracle
+  cancel-in-progress: false
+
+jobs:
+  herald:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Verify deployed script
+        run: |
+          head -1 octagon_oracle.py
+          python -c "import ast; ast.parse(open('octagon_oracle.py').read())"
+          echo "Script parses cleanly."
+
+      - name: Run Octagon Oracle
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_GUILD_ID: ${{ secrets.DISCORD_GUILD_ID }}
+          ORACLE_WEBHOOK: ${{ secrets.ORACLE_WEBHOOK }}
+        run: |
+          MODE="${{ github.event.inputs.mode }}"
+          case "$MODE" in
+            dry)   python octagon_oracle.py --dry ;;
+            peek)  python octagon_oracle.py --peek ;;
+            state) python octagon_oracle.py --state ;;
+            *)     python octagon_oracle.py ;;
+          esac
+
+      - name: Commit state
+        if: github.event.inputs.mode != 'dry' && github.event.inputs.mode != 'peek' && github.event.inputs.mode != 'state'
+        run: |
+          git config user.name "octagon-oracle-bot"
+          git config user.email "actions@github.com"
+          if [[ -n "$(git status --porcelain oracle_state.json)" ]]; then
+            git add oracle_state.json
+            git commit -m "Update Octagon Oracle state [skip ci]"
+            git pull --rebase origin ${{ github.ref_name }}
+            git push
+          else
+            echo "No state change."
+          fi
