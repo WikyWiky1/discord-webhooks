@@ -121,7 +121,11 @@
   "https://www.washingtonexaminer.com/?p=4671751",
   "https://nypost.com/?post_type=article&p=40151223",
   "https://www.theguardian.com/world/2026/aug/01/first-australian-mass-mortality-event-suspected-as-deadly-bird-flu-virus-rapidly-escalates-among-native-birds",
-  "https://nypost.com/?post_type=article&p=40150891"
+  "https://nypost.com/?post_type=article&p=40150891",
+  "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
+  "https://www.bbc.co.uk/news/articles/ce973yvk7pko#0",
+  "CBMimwFBVV95cUxQU2FIOWIzSk9OeHRja3Jtc09YOG5Rb0pOWmVvTFlITGdJRXZlejE1RXFmTzdtb1ZrNTN1c1BiODV4dGF4d0s2R2V4RXQ5ZlhwczdxZnZlU3E2VGpnSTRFUzVxUk1wYmZiMExHNF9UZmk4WWtNNU9wamswVzdoZ2l0eVc5cmhxaHZpQ3RsUGlIeUJ0N05OTkRZbHpvVQ",
+  "CBMikwFBVV95cUxOSnlUUmF3WUJfaG9nWXdGdGVqakY5UFB2T1BQQmFHQzRCRjd0TXFBSDdlQzdVVG5jQU1xRm8wMXR1bWhFZThuWVhiMHo4ZXJVdU9YTHUwb3VyWXBLX0R6dXFWLWtDanFDVzBES05tX200V1h0Z2FSOEt0TWtCalg4OXAtRGNwRkt6NjgzcEpDY1M2SDg"
  ],
  "posts": [
   {
@@ -855,6 +859,30 @@
    "title": "North Carolina man allegedly kills girlfriend, 19, as she drove on highway after he texted about murder-suicide pact",
    "source": "New York Post",
    "at": "2026-08-01T07:10:40.600386+00:00"
+  },
+  {
+   "fp": "announces barrier border ceuta crisis death europe government live plans rises spanish toll",
+   "title": "Death toll in Ceuta border crisis rises to 67 as Spanish government announces plans for barrier \u2013 Europe live",
+   "source": "Guardian World",
+   "at": "2026-08-01T09:23:10.465827+00:00"
+  },
+  {
+   "fp": "kill kyiv least nine officials russian strikes ukraine",
+   "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+   "source": "BBC World",
+   "at": "2026-08-01T09:23:12.357650+00:00"
+  },
+  {
+   "fp": "arrested explosion ipswich teenager",
+   "title": "Teenager arrested over \u2018explosion\u2019 in Ipswich",
+   "source": "Telegraph",
+   "at": "2026-08-01T09:23:14.109741+00:00"
+  },
+  {
+   "fp": "border ceuta crisis death morocco reaches spain toll",
+   "title": "Death toll in Spain-Morocco border crisis in Ceuta reaches 67",
+   "source": "AP",
+   "at": "2026-08-01T09:23:15.795062+00:00"
   }
  ],
  "titles": [
@@ -979,6 +1007,10 @@
   "addresses bill boozman chairman cuts draft farm senate snap unveils updated",
   "cops dispute employee gunman hunt pennsylvania shot walmart",
   "australian bird birds deadly escalates event mass mortality native rapidly suspected virus",
-  "about allegedly carolina drove girlfriend highway kills murder north pact suicide texted"
+  "about allegedly carolina drove girlfriend highway kills murder north pact suicide texted",
+  "announces barrier border ceuta crisis death europe government live plans rises spanish toll",
+  "kill kyiv least nine officials russian strikes ukraine",
+  "arrested explosion ipswich teenager",
+  "border ceuta crisis death morocco reaches spain toll"
  ]
 }
