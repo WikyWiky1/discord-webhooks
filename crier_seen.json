@@ -265,7 +265,11 @@
   "https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination",
   "https://www.theguardian.com/us-news/2026/aug/02/max-miller-domestic-abuse-allegations-calls-to-resign",
   "CBMiqgFBVV95cUxPbmxQdEZiSXlLeERWT1Mya3c4bm5OWWtvOGxyNjJ5LUFGYjBHeTZlVjA3SkdfNUNyQzhNTE5Rc0tDcXRLUW9Zdkd6aWFBcElaMEl1b3FIbkxpWkYyQTJZUzBlYXg3RDlOYWNUd1cwV0ROUGppZlkzcG5uY1RZWnBZX29SNlI0a1RwbzY0YzZSX0lJSHpONWpmZUJHLTMyVmRfZFhVMUpUNXJKZw",
-  "CBMipAFBVV95cUxOenJWT1o0OWRwbjZvYW56cjFTdTdBZUlENVF5QkV6Rkd2TldfUWNkeXRNM2JqSXl5ZktScWlsYVFHLW50U3RTaWJnTFQzaEdNYjFzamhNaUVic3JmZWtNdUNEMGZHRlVLSkkycTRsam5SWTdKMG43a2JsSDB4cFI5MEdtcUsxbElialBUZ1JpS3E2S3RNd2pxQzlLVTdWaXFsS2NIUA"
+  "CBMipAFBVV95cUxOenJWT1o0OWRwbjZvYW56cjFTdTdBZUlENVF5QkV6Rkd2TldfUWNkeXRNM2JqSXl5ZktScWlsYVFHLW50U3RTaWJnTFQzaEdNYjFzamhNaUVic3JmZWtNdUNEMGZHRlVLSkkycTRsam5SWTdKMG43a2JsSDB4cFI5MEdtcUsxbElialBUZ1JpS3E2S3RNd2pxQzlLVTdWaXFsS2NIUA",
+  "CBMitAFBVV95cUxOZ0YtT2FkZFVGMEZaVVI4RFh3LTAxN01EcV9xNlF1OHowOXo4ZkxhbDJ3bnZPclRYdnlVREpJSEx3eHRnekQ4SlJWQ004YlQyUEN4VDN0NmVlQ3Q4R1hsYVduaksxZE1lR0NXaGZHODJmNHVkbjV0WUZkWXh2WnhmRzVWYlo1NFRsdVhKS2VibVVtYVRhRzBsdU1XZWZPMUd2OV84bnI2U3F6QjdrZ2FpaDdOMi0",
+  "https://www.washingtonexaminer.com/?p=4672150",
+  "CBMifkFVX3lxTE1SYzBIMXkyejMyd1pJOWFIRmNZV1VTek1XMkFRRnV2Vzl5MzRWcGw4Unc2eVhIQkVtcllFR2p1NzhHSTNzQzNSM0JWWm9OWnRPcjBrQ0F3UFJOdXVIREFZd0puVk5ZVGdoSnVHbDlYeUlGN1F0SDg4YnJUTGh1dw",
+  "https://www.bbc.co.uk/news/articles/c9v471x89m3o#1"
  ],
  "posts": [
   {
@@ -1857,6 +1861,30 @@
    "title": "Gunmen kill 12, abduct women and children in Nigerian village",
    "source": "Reuters World",
    "at": "2026-08-02T18:38:11.888357+00:00"
+  },
+  {
+   "fp": "abuse allegations congressman domestic election ohio shake",
+   "title": "Domestic-Abuse Allegations Shake Ohio Congressman\u2019s Re-election Bid",
+   "source": "WSJ",
+   "at": "2026-08-02T19:09:17.545399+00:00"
+  },
+  {
+   "fp": "alabama contentious fauci florida hearing investigating joins louisiana senate",
+   "title": "Louisiana joins Alabama and Florida in investigating Fauci after contentious Senate hearing",
+   "source": "Washington Examiner",
+   "at": "2026-08-02T19:09:19.323930+00:00"
+  },
+  {
+   "fp": "congress ncaa opinion pushes title",
+   "title": "Opinion | NCAA Pushes Congress to Gut Title IX",
+   "source": "WSJ",
+   "at": "2026-08-02T19:09:21.034763+00:00"
+  },
+  {
+   "fp": "brother died entebbe israel mission rescue statue uganda unveils",
+   "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+   "source": "BBC World",
+   "at": "2026-08-02T19:09:22.775786+00:00"
   }
  ],
  "titles": [
@@ -2124,6 +2152,10 @@
   "children families measles outbreak tells vaccinate",
   "abuse allegations calls congress miller republican resign",
   "burger dead employee fast food idaho owner restaurant shooting",
-  "abduct children gunmen kill nigerian village women"
+  "abduct children gunmen kill nigerian village women",
+  "abuse allegations congressman domestic election ohio shake",
+  "alabama contentious fauci florida hearing investigating joins louisiana senate",
+  "congress ncaa opinion pushes title",
+  "brother died entebbe israel mission rescue statue uganda unveils"
  ]
 }
