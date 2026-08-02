@@ -224,7 +224,9 @@
   "https://nypost.com/?post_type=article&p=40158015",
   "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
   "https://thehill.com/?p=6004176",
-  "https://nypost.com/?post_type=article&p=40158276"
+  "https://nypost.com/?post_type=article&p=40158276",
+  "CBMiuwFBVV95cUxOZnZ5dk1rM0dBSk5iSjEwVV9FNUJRVWJhLXlEY2lKRHAwb0ZSUU5INVUwVFpKV3M3aGhVNmZNSDMxV1JQNnZDWjhwaFhITnVhUUt5X0tCZ2pBTk1rNEg4ZTQ5MUJzRVI2b2hCS1BqYXpKTHBabmc5WHpQajZuS3BfNU5FUHR1cHlfUmQ0bWtFLWdyUFZoaXF6d2ZCUWRPX2JROU5fclRkM3NyOVNXZW52YzdRUkRBRWEtZ3ZF",
+  "https://www.theguardian.com/us-news/2026/aug/02/trump-tariffs-weapon"
  ],
  "posts": [
   {
@@ -1570,6 +1572,18 @@
    "title": "Hero armed citizen opened fire on Idaho In-N-Out gunman, tried to stop shooting that left 2 dead, 7 wounded: harrowing video",
    "source": "New York Post",
    "at": "2026-08-02T12:17:10.075682+00:00"
+  },
+  {
+   "fp": "earnings escalation gulf hopes iran lift rise sentiment stocks",
+   "title": "Gulf stocks rise as Iran de-escalation hopes, earnings lift sentiment",
+   "source": "Reuters World",
+   "at": "2026-08-02T13:20:05.643380+00:00"
+  },
+  {
+   "fp": "determined difficult pursue stop trade trump",
+   "title": "Trump is determined to pursue his trade war \u2013 and he may be difficult to stop",
+   "source": "Guardian World",
+   "at": "2026-08-02T13:20:07.447076+00:00"
   }
  ],
  "titles": [
@@ -1796,6 +1810,8 @@
   "chain dead disgusting doesn human idaho lives others owner shot value worker",
   "births community high premature rate",
   "agreed attack citing deal halts iran parameters plan trump upon",
-  "armed citizen dead fire gunman harrowing hero idaho left opened shooting stop tried video wounded"
+  "armed citizen dead fire gunman harrowing hero idaho left opened shooting stop tried video wounded",
+  "earnings escalation gulf hopes iran lift rise sentiment stocks",
+  "determined difficult pursue stop trade trump"
  ]
 }
