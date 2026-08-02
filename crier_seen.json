@@ -218,7 +218,10 @@
   "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
   "CBMiywFBVV95cUxNMFczWTN0SGkxdGVvcVlBT0MxaFB6UnUycnRURnhBVnQ5cTVBOXlCRER6VVFzNHFNbkJieGRRZmJ2RkJRVHdlN1habVgzY1ZIUzlGTl9tdkVsbHVVdnRHYUNmaDhrYjNvbnF3NVF5VDVhSi1FcXBJMzh1OUNDVlFDdHh1cGVWTUxZSTMwcUtQdFpRbzNSTDZXRy1tdnd5dm56Unl1RnJfcm1iNVFzTFlFbFZjNnhTSWRYUnRITHhQeWVVQm8tcnlzT19Zbw",
   "https://thehill.com/?p=5986910",
-  "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy"
+  "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
+  "https://thehill.com/?p=6004064",
+  "CBMirAFBVV95cUxPN0VsOUJyLVVVWVM4N2dTcVRDRjBnOHJCcUUzTkg0ZmwwU1NyMTdvZV9kM0FnbUtwbjM1elRRYmhDb0JjcFE1Qi1mZHJBRmtzbUt3bGZjaUxzbTBFT3NkRGJjTy1zay1vczliOEUtUUMwSHJ0a1Q1MlBPaWRmNmJzOHExRWJETnpVMk5qbENOVFhNQUpGN2dmWmc3Vk9IdExqclpBT3lDSGd3VlRG",
+  "https://nypost.com/?post_type=article&p=40158015"
  ],
  "posts": [
   {
@@ -1528,6 +1531,24 @@
    "title": "Stock market turmoil sheds stark light on the opaque AI economy",
    "source": "Guardian World",
    "at": "2026-08-02T10:40:52.453509+00:00"
+  },
+  {
+   "fp": "also dead idaho killed multiple people shooting suspect",
+   "title": "Multiple people killed in shooting at Idaho In-N-Out, suspect also dead",
+   "source": "The Hill",
+   "at": "2026-08-02T11:04:28.869505+00:00"
+  },
+  {
+   "fp": "boosts kills lanka prison riot security",
+   "title": "Sri Lanka boosts prison security after riot kills one",
+   "source": "Reuters World",
+   "at": "2026-08-02T11:04:30.709672+00:00"
+  },
+  {
+   "fp": "chain dead disgusting doesn human idaho lives others owner shot value worker",
+   "title": "Idaho In-N-Out worker was shot dead by \u2018disgusting human who doesn\u2019t value lives of others or his own,\u2019 chain owner says",
+   "source": "New York Post",
+   "at": "2026-08-02T11:04:32.458398+00:00"
   }
  ],
  "titles": [
@@ -1748,6 +1769,9 @@
   "city dead fast food idaho leaves restaurant shooting spokesman",
   "billion buried inside stocks",
   "alaska ballot double primary senate sullivans tale voters",
-  "economy light market opaque sheds stark stock turmoil"
+  "economy light market opaque sheds stark stock turmoil",
+  "also dead idaho killed multiple people shooting suspect",
+  "boosts kills lanka prison riot security",
+  "chain dead disgusting doesn human idaho lives others owner shot value worker"
  ]
 }
