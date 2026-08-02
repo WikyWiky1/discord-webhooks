@@ -273,7 +273,10 @@
   "https://nypost.com/?post_type=article&p=40159569",
   "CBMivwFBVV95cUxQQUpTTWg4MEVxOG9ZTExoRTFzZW94TDNkYTFvUVpWMlJFU0JBbE1hRVkta2k5ZmhISGJqMTdjb2Z1TXVncEdZWmxIeUppazRrMzRSMWo2aTJydTM2ekNneWhXTEFaSjVTQzMwLUhNM09GUTN6Y3Z3c1VUbmxIcG9RZXgwWmRuMjQ0OEJsTWdqWEJfYlJ6TU1zRjNvNzBjaGxQMHBiY3Rmc0ZmdWpHd1o2dEdfOHpkSjI3OVVrb084cw",
   "https://nypost.com/?post_type=article&p=40160051",
-  "https://news.sky.com/story/two-suspects-arrested-after-man-shot-dead-at-traveller-site-13569249"
+  "https://news.sky.com/story/two-suspects-arrested-after-man-shot-dead-at-traveller-site-13569249",
+  "CBMiggFBVV95cUxPNVVpTnBVbG5Gc21Dd3dQQnhqb1NjNWxORXBKbEN6VVFRNnlpd3JuaHBfYkpCRWpnV0ItQXpmUUpJcVEzVm5LQWhBTFBiYUR6VFFua2l1SllkMnFlYkdTaUVwb2dxWXFRTjR1NG9WYWdMTGpJWUZWcVgzV3pqSzZ1dmFR",
+  "CBMipwFBVV95cUxPSE51a1VvMjlvdWZja2RvWFJWN0l3aUs2ZVJueVBVdUViSTNJRDFMWHVBSXlCNnVMMC1KN2Vtem50QTFFd2daRU5FNkpZMURYcWV5bjA1Z0pZSDRXOXRVdzVmWXJ6R2Q3YWRsY2dpZ0Vkdk5VVTFhSEJSNlFVMEdlMWxXcWdjeGlyeDUtLXN3QzlIUk1abFFaS2IxMDhyS0dMZUxpVXhWVQ",
+  "https://www.washingtonexaminer.com/?p=4672270"
  ],
  "posts": [
   {
@@ -1913,6 +1916,24 @@
    "title": "Man and woman arrested after fatal shooting at Traveller site",
    "source": "Sky News",
    "at": "2026-08-02T19:50:13.034386+00:00"
+  },
+  {
+   "fp": "dead near shot site swindon traveller",
+   "title": "Man shot dead at traveller site near Swindon",
+   "source": "Telegraph",
+   "at": "2026-08-02T20:44:43.880778+00:00"
+  },
+  {
+   "fp": "ceuta invasion navy pledges reform stop style",
+   "title": "Reform pledges to use Navy to stop Ceuta-style \u2018invasion\u2019",
+   "source": "Telegraph",
+   "at": "2026-08-02T20:44:45.602016+00:00"
+  },
+  {
+   "fp": "chain dead fast food idaho owner shooting three worker",
+   "title": "In-N-Out worker among three dead in Idaho shooting, fast-food chain\u2019s owner says",
+   "source": "Washington Examiner",
+   "at": "2026-08-02T20:44:47.756312+00:00"
   }
  ],
  "titles": [
@@ -2188,6 +2209,9 @@
   "california dead found high identified mystery roof school",
   "agency attack crew home iranian news returns ship ukrainian",
   "employee idaho killed mass reveals shooting",
-  "arrested fatal shooting site traveller woman"
+  "arrested fatal shooting site traveller woman",
+  "dead near shot site swindon traveller",
+  "ceuta invasion navy pledges reform stop style",
+  "chain dead fast food idaho owner shooting three worker"
  ]
 }
