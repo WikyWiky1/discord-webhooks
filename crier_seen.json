@@ -269,7 +269,11 @@
   "CBMitAFBVV95cUxOZ0YtT2FkZFVGMEZaVVI4RFh3LTAxN01EcV9xNlF1OHowOXo4ZkxhbDJ3bnZPclRYdnlVREpJSEx3eHRnekQ4SlJWQ004YlQyUEN4VDN0NmVlQ3Q4R1hsYVduaksxZE1lR0NXaGZHODJmNHVkbjV0WUZkWXh2WnhmRzVWYlo1NFRsdVhKS2VibVVtYVRhRzBsdU1XZWZPMUd2OV84bnI2U3F6QjdrZ2FpaDdOMi0",
   "https://www.washingtonexaminer.com/?p=4672150",
   "CBMifkFVX3lxTE1SYzBIMXkyejMyd1pJOWFIRmNZV1VTek1XMkFRRnV2Vzl5MzRWcGw4Unc2eVhIQkVtcllFR2p1NzhHSTNzQzNSM0JWWm9OWnRPcjBrQ0F3UFJOdXVIREFZd0puVk5ZVGdoSnVHbDlYeUlGN1F0SDg4YnJUTGh1dw",
-  "https://www.bbc.co.uk/news/articles/c9v471x89m3o#1"
+  "https://www.bbc.co.uk/news/articles/c9v471x89m3o#1",
+  "https://nypost.com/?post_type=article&p=40159569",
+  "CBMivwFBVV95cUxQQUpTTWg4MEVxOG9ZTExoRTFzZW94TDNkYTFvUVpWMlJFU0JBbE1hRVkta2k5ZmhISGJqMTdjb2Z1TXVncEdZWmxIeUppazRrMzRSMWo2aTJydTM2ekNneWhXTEFaSjVTQzMwLUhNM09GUTN6Y3Z3c1VUbmxIcG9RZXgwWmRuMjQ0OEJsTWdqWEJfYlJ6TU1zRjNvNzBjaGxQMHBiY3Rmc0ZmdWpHd1o2dEdfOHpkSjI3OVVrb084cw",
+  "https://nypost.com/?post_type=article&p=40160051",
+  "https://news.sky.com/story/two-suspects-arrested-after-man-shot-dead-at-traveller-site-13569249"
  ],
  "posts": [
   {
@@ -1885,6 +1889,30 @@
    "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
    "source": "BBC World",
    "at": "2026-08-02T19:09:22.775786+00:00"
+  },
+  {
+   "fp": "california dead found high identified mystery roof school",
+   "title": "Mystery as man found dead on roof of California high school is identified",
+   "source": "New York Post",
+   "at": "2026-08-02T19:50:07.720441+00:00"
+  },
+  {
+   "fp": "agency attack crew home iranian news returns ship ukrainian",
+   "title": "Crew of Iranian ship hit in Ukrainian attack returns home, news agency says",
+   "source": "Reuters World",
+   "at": "2026-08-02T19:50:09.401361+00:00"
+  },
+  {
+   "fp": "employee idaho killed mass reveals shooting",
+   "title": "In-N-Out employee among 2 killed in Idaho mass shooting, CEO reveals",
+   "source": "New York Post",
+   "at": "2026-08-02T19:50:11.122569+00:00"
+  },
+  {
+   "fp": "arrested fatal shooting site traveller woman",
+   "title": "Man and woman arrested after fatal shooting at Traveller site",
+   "source": "Sky News",
+   "at": "2026-08-02T19:50:13.034386+00:00"
   }
  ],
  "titles": [
@@ -2156,6 +2184,10 @@
   "abuse allegations congressman domestic election ohio shake",
   "alabama contentious fauci florida hearing investigating joins louisiana senate",
   "congress ncaa opinion pushes title",
-  "brother died entebbe israel mission rescue statue uganda unveils"
+  "brother died entebbe israel mission rescue statue uganda unveils",
+  "california dead found high identified mystery roof school",
+  "agency attack crew home iranian news returns ship ukrainian",
+  "employee idaho killed mass reveals shooting",
+  "arrested fatal shooting site traveller woman"
  ]
 }
