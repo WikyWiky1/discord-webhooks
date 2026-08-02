@@ -276,7 +276,13 @@
   "https://news.sky.com/story/two-suspects-arrested-after-man-shot-dead-at-traveller-site-13569249",
   "CBMiggFBVV95cUxPNVVpTnBVbG5Gc21Dd3dQQnhqb1NjNWxORXBKbEN6VVFRNnlpd3JuaHBfYkpCRWpnV0ItQXpmUUpJcVEzVm5LQWhBTFBiYUR6VFFua2l1SllkMnFlYkdTaUVwb2dxWXFRTjR1NG9WYWdMTGpJWUZWcVgzV3pqSzZ1dmFR",
   "CBMipwFBVV95cUxPSE51a1VvMjlvdWZja2RvWFJWN0l3aUs2ZVJueVBVdUViSTNJRDFMWHVBSXlCNnVMMC1KN2Vtem50QTFFd2daRU5FNkpZMURYcWV5bjA1Z0pZSDRXOXRVdzVmWXJ6R2Q3YWRsY2dpZ0Vkdk5VVTFhSEJSNlFVMEdlMWxXcWdjeGlyeDUtLXN3QzlIUk1abFFaS2IxMDhyS0dMZUxpVXhWVQ",
-  "https://www.washingtonexaminer.com/?p=4672270"
+  "https://www.washingtonexaminer.com/?p=4672270",
+  "CBMivAFBVV95cUxNVFdJVVRZQUdvUlhBTkRNNmtTMldXR3RJdW9zVXltTVVsOF8xZk16Z1FZM2dGUVJ6MlJ4eWF3d2tKUXBrZll3NEZiY2lPdWVrbnNqVWpPWHp4Z0FhZHlPTzlLbmU2OGxUT3EzZzZiNFYta0VFMGxFbXBSNTlrVm8zWkRiLVloVldoUDZrUEU4MEt1NkhtaExlM1Vxd25XTXFoa2gxWmdUeEVRZWtyNThUakxMTUxKa1Y3OXlaVw",
+  "CBMioAFBVV95cUxOSEtNZW9oWnRaVXZNYmhxaFNrSERYaDdIaVBCdEsxalJBd1V0d3l5MWl2a2k4azI4Y1cyNHAzeHdBNEdiZmdRREc1b2x5b2ZQb0N0R1lNQ05fRWpCaHlTUWU3RGRQLTc3SXJ5SUN3Z2J6MnJYZFRUVjhfMHJnckc2VktnN2lTaGN1SGNuYk9HaENlcmJTRkF0ekp1MTA3b0tO",
+  "https://nypost.com/?post_type=article&p=40161010",
+  "https://nypost.com/?post_type=article&p=40160166",
+  "https://thehill.com/?p=6004629",
+  "https://news.sky.com/story/deadly-suicide-bombing-targeting-anti-militant-protesters-in-pakistan-13569275"
  ],
  "posts": [
   {
@@ -1934,6 +1940,42 @@
    "title": "In-N-Out worker among three dead in Idaho shooting, fast-food chain\u2019s owner says",
    "source": "Washington Examiner",
    "at": "2026-08-02T20:44:47.756312+00:00"
+  },
+  {
+   "fp": "belgorod child drone injures kills playground region russia ukrainian",
+   "title": "Ukrainian drone kills one child, injures two in playground in Russia's Belgorod region",
+   "source": "Reuters World",
+   "at": "2026-08-02T21:48:13.201166+00:00"
+  },
+  {
+   "fp": "avoid campaign deal funding leaders reach season senate shutdown",
+   "title": "Senate leaders reach funding deal to avoid shutdown during campaign season",
+   "source": "AP",
+   "at": "2026-08-02T21:48:14.984722+00:00"
+  },
+  {
+   "fp": "california dead found going missing park picturesque rafting teen",
+   "title": "Teen found dead after going missing while rafting in picturesque California park",
+   "source": "New York Post",
+   "at": "2026-08-02T21:48:16.711094+00:00"
+  },
+  {
+   "fp": "accident basketball coach dead russian",
+   "title": "Russian pro basketball coach dead in jet ski accident at 44",
+   "source": "New York Post",
+   "at": "2026-08-02T21:48:18.514915+00:00"
+  },
+  {
+   "fp": "abuse allegations calls denies face getting miller race reelection resignation",
+   "title": "Miller denies abuse allegations, says he's 'not getting out of' reelection race in face of resignation calls",
+   "source": "The Hill",
+   "at": "2026-08-02T21:48:20.290185+00:00"
+  },
+  {
+   "fp": "anti bombing deadly militant pakistan rally suicide targeting",
+   "title": "Deadly suicide bombing targeting anti-militant rally in Pakistan",
+   "source": "Sky News",
+   "at": "2026-08-02T21:48:22.142168+00:00"
   }
  ],
  "titles": [
@@ -2212,6 +2254,12 @@
   "arrested fatal shooting site traveller woman",
   "dead near shot site swindon traveller",
   "ceuta invasion navy pledges reform stop style",
-  "chain dead fast food idaho owner shooting three worker"
+  "chain dead fast food idaho owner shooting three worker",
+  "belgorod child drone injures kills playground region russia ukrainian",
+  "avoid campaign deal funding leaders reach season senate shutdown",
+  "california dead found going missing park picturesque rafting teen",
+  "accident basketball coach dead russian",
+  "abuse allegations calls denies face getting miller race reelection resignation",
+  "anti bombing deadly militant pakistan rally suicide targeting"
  ]
 }
