@@ -222,7 +222,9 @@
   "https://thehill.com/?p=6004064",
   "CBMirAFBVV95cUxPN0VsOUJyLVVVWVM4N2dTcVRDRjBnOHJCcUUzTkg0ZmwwU1NyMTdvZV9kM0FnbUtwbjM1elRRYmhDb0JjcFE1Qi1mZHJBRmtzbUt3bGZjaUxzbTBFT3NkRGJjTy1zay1vczliOEUtUUMwSHJ0a1Q1MlBPaWRmNmJzOHExRWJETnpVMk5qbENOVFhNQUpGN2dmWmc3Vk9IdExqclpBT3lDSGd3VlRG",
   "https://nypost.com/?post_type=article&p=40158015",
-  "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan"
+  "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
+  "https://thehill.com/?p=6004176",
+  "https://nypost.com/?post_type=article&p=40158276"
  ],
  "posts": [
   {
@@ -1556,6 +1558,18 @@
    "title": "Why is the rate of premature births so high in this community?",
    "source": "NPR News",
    "at": "2026-08-02T12:07:11.547180+00:00"
+  },
+  {
+   "fp": "agreed attack citing deal halts iran parameters plan trump upon",
+   "title": "Trump halts Iran attack plan, citing agreed-upon 'parameters of a deal'",
+   "source": "The Hill",
+   "at": "2026-08-02T12:17:08.430220+00:00"
+  },
+  {
+   "fp": "armed citizen dead fire gunman harrowing hero idaho left opened shooting stop tried video wounded",
+   "title": "Hero armed citizen opened fire on Idaho In-N-Out gunman, tried to stop shooting that left 2 dead, 7 wounded: harrowing video",
+   "source": "New York Post",
+   "at": "2026-08-02T12:17:10.075682+00:00"
   }
  ],
  "titles": [
@@ -1780,6 +1794,8 @@
   "also dead idaho killed multiple people shooting suspect",
   "boosts kills lanka prison riot security",
   "chain dead disgusting doesn human idaho lives others owner shot value worker",
-  "births community high premature rate"
+  "births community high premature rate",
+  "agreed attack citing deal halts iran parameters plan trump upon",
+  "armed citizen dead fire gunman harrowing hero idaho left opened shooting stop tried video wounded"
  ]
 }
