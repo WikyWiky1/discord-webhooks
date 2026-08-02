@@ -215,7 +215,10 @@
   "CBMirAFBVV95cUxNRnV1R0NBb1BQQXA2WGM0QmdFODlycDFYaWJEa1RPdmFwMVJzYjhHTkIzUS1neTI4dXVPcHMxT2F6ME5XZzlMZHBzc3Z0QXBzaVB3b2Rra1kxRjRubTNLUGQybXRBd3NLNXBrNWxsLTNnV3o0N0JHM2gwb1lzcHY3VGIzYUhVTnJLNTFaVG1tMjlaVXFFVFBTd1c3ckJESmYxV1U5WW1tc1FFOXoz",
   "https://www.washingtonexaminer.com/?p=4668039",
   "https://nypost.com/?post_type=article&p=40158084",
-  "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead"
+  "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
+  "CBMiywFBVV95cUxNMFczWTN0SGkxdGVvcVlBT0MxaFB6UnUycnRURnhBVnQ5cTVBOXlCRER6VVFzNHFNbkJieGRRZmJ2RkJRVHdlN1habVgzY1ZIUzlGTl9tdkVsbHVVdnRHYUNmaDhrYjNvbnF3NVF5VDVhSi1FcXBJMzh1OUNDVlFDdHh1cGVWTUxZSTMwcUtQdFpRbzNSTDZXRy1tdnd5dm56Unl1RnJfcm1iNVFzTFlFbFZjNnhTSWRYUnRITHhQeWVVQm8tcnlzT19Zbw",
+  "https://thehill.com/?p=5986910",
+  "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy"
  ],
  "posts": [
   {
@@ -1507,6 +1510,24 @@
    "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
    "source": "NPR News",
    "at": "2026-08-02T09:36:23.223422+00:00"
+  },
+  {
+   "fp": "billion buried inside stocks",
+   "title": "The Buried $150 Billion Bet Inside the Top 20 U.S. Stocks",
+   "source": "WSJ",
+   "at": "2026-08-02T10:40:48.944448+00:00"
+  },
+  {
+   "fp": "alaska ballot double primary senate sullivans tale voters",
+   "title": "\u200bA tale of 2 Sullivans: Alaska voters see double on Senate primary ballot",
+   "source": "The Hill",
+   "at": "2026-08-02T10:40:50.729819+00:00"
+  },
+  {
+   "fp": "economy light market opaque sheds stark stock turmoil",
+   "title": "Stock market turmoil sheds stark light on the opaque AI economy",
+   "source": "Guardian World",
+   "at": "2026-08-02T10:40:52.453509+00:00"
   }
  ],
  "titles": [
@@ -1724,6 +1745,9 @@
   "265k barclay brothers collapsed empire hmrc owed retail",
   "america father hostage israel killed legacy wants youngest",
   "authorities bomb carried homemade injures kills moscow near restaurant woman",
-  "city dead fast food idaho leaves restaurant shooting spokesman"
+  "city dead fast food idaho leaves restaurant shooting spokesman",
+  "billion buried inside stocks",
+  "alaska ballot double primary senate sullivans tale voters",
+  "economy light market opaque sheds stark stock turmoil"
  ]
 }
