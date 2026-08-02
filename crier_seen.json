@@ -200,7 +200,10 @@
   "CBMifkFVX3lxTE9zNWc5elJ0b1BxTkJvZUNQUHA3dE44QTRLYTFxb1lkTHgxT3FpbDdJTTcwNzk4QVcwdE9KcW5wOV9BU0xIdThaMS02d3VTWndKOWFRWXlmNmFleTJlTG5rbm1nTG85OUM4STIyUUt0akp5R3dvU2NLTGJ0LU5lZw",
   "https://nypost.com/?post_type=article&p=40156231",
   "CBMiVkFVX3lxTE9vUnR4QUdpd3FlRGJVMFlpOXUtNWFYS2JGbUk5REtjM2VtY3ktaDNfZERCZmhHLTFUazFBT1ZubWpNVTlPbllZT21jalZHdHhUbURrdTBR",
-  "https://www.bbc.co.uk/news/articles/cgk4rdley0ko#1"
+  "https://www.bbc.co.uk/news/articles/cgk4rdley0ko#1",
+  "CBMixAFBVV95cUxOU211TUJlRDhVUV9BaEFiVG9wY18xdnJ0U1NBZDgtRFZsVTVDN0puSnkyRnk0Mi11Q0RrcV9NalNyY2RxUDNNNjkwM3FnNlVNTkZMcVBVeGF3RHBHNXFqclEtME9JSWxpRHJjRXNMRUgtVlpfYl9lUzlfZ1RsRm1SRXdjMGJsSy1lYzVEWjBFbVNhRHVjenMzWkRfYUUwV3BvRmdSdXBsVnVnaGhxSFV1YXRULWplREx5YVVJcEFFQVZBUEd6",
+  "CBMirwFBVV95cUxOazhQeWoxdzJ5NHVoZVVxZU1HNG5FU3I2cWw0ODVya1FiSDVjNUhmUE5mYklNU2JmeHFYWlpvZHN4a0VPN2Yzd1ktc1ZTdm9xQ3BTSVJsTWtkd2l3UjEzMFBTNWRGZEhYUTZ6U21vUldNUnRPVXRtdVBPME9DZS0tQUpZaElDVWoyYmpOWjBYa2NvLUR6anhuYU5BSHZBOExLMGd5bl9qMjQxVjhIakpN",
+  "CBMiqwFBVV95cUxNZXdkU0hHU25adjh1bERoVU5VWkZldHVyUW9Sek5oRlU5LXRULXREcWtCZ3duWVgwcHJoZS12a180alJkWHhTcXJaNjJmYTgxelB5d0ZyN2RHdmtlUFRGVEwtYVFEanRzSFRnSG84Q2x6RlBkdXIzaGo4UC0tZk5WbElnT0NaaG1NMGViSzBmejV5ZlpFM25CLTZqUXcwdmVCZ285Z0lOb2dvUXM"
  ],
  "posts": [
   {
@@ -1408,6 +1411,24 @@
    "title": "Russian ship defies sanctions to send military vehicles to Mali",
    "source": "BBC World",
    "at": "2026-08-02T02:45:42.127768+00:00"
+  },
+  {
+   "fp": "china continue death gansu heavy landslide province rains rises toll",
+   "title": "Landslide death toll rises in China's Gansu Province as heavy rains continue",
+   "source": "Reuters",
+   "at": "2026-08-02T04:41:04.115119+00:00"
+  },
+  {
+   "fp": "dead five idaho injured least restaurant shooting three",
+   "title": "Three Dead, at Least Five Injured in Idaho Shooting at In-N-Out Restaurant",
+   "source": "WSJ",
+   "at": "2026-08-02T04:41:05.865894+00:00"
+  },
+  {
+   "fp": "attack calls citing diplomatic iran planned progress trump",
+   "title": "Trump Calls Off Planned Attack on Iran, Citing Diplomatic Progress",
+   "source": "WSJ",
+   "at": "2026-08-02T04:41:07.787674+00:00"
   }
  ],
  "titles": [
@@ -1611,6 +1632,9 @@
   "america bubbles creating great market shrugging stock",
   "answer fauci goodwin hearing important michael questions refusal reveals senate truth",
   "2026 archive august journal news street wall",
-  "defies mali military russian sanctions send ship vehicles"
+  "defies mali military russian sanctions send ship vehicles",
+  "china continue death gansu heavy landslide province rains rises toll",
+  "dead five idaho injured least restaurant shooting three",
+  "attack calls citing diplomatic iran planned progress trump"
  ]
 }
