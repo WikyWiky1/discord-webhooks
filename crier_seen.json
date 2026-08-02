@@ -260,7 +260,12 @@
   "https://www.washingtonexaminer.com/?p=4672171",
   "https://www.washingtonexaminer.com/?p=4672178",
   "CBMingFBVV95cUxNSGhDR0RqTHVKV24tazZCX3BDVFFjNmFSQm1UTy1jX2czb2FaTE5EcXlqRF8yRFpBREJmN0l2MmYwWkFzaWZmWlNtSTNUUURCLUNrdUhFdi03a2lGeHFFY3RncWIzVGtOR1UySG5yWGJKWWFWSUFHOE9qTVhFaWdEaGtBclJuNVVkMEdtckZIdTdFUEhLT0NKS2JsRlpQQQ",
-  "CBMiqwFBVV95cUxPdDZXcXlCclB1VmpxU0VWUl9uTmtBZDNLWjNCUm5GXzAzOHoxY2k4eUVtRWtfZ3BKMzVTRHpwclBzZ0JFbHNfZm10MVA1bUttWmVYVnNOb3NHNGU0VGJJQW9lMW9kTGxXUXdKblVYVUJpRU5nb3VTNkM4SDZ1RnpObFdtQ1RMeVA5cThHOXIyNjF1S0JsYWZUeTBRSVRGNzlTV2E1amVNQzlMMms"
+  "CBMiqwFBVV95cUxPdDZXcXlCclB1VmpxU0VWUl9uTmtBZDNLWjNCUm5GXzAzOHoxY2k4eUVtRWtfZ3BKMzVTRHpwclBzZ0JFbHNfZm10MVA1bUttWmVYVnNOb3NHNGU0VGJJQW9lMW9kTGxXUXdKblVYVUJpRU5nb3VTNkM4SDZ1RnpObFdtQ1RMeVA5cThHOXIyNjF1S0JsYWZUeTBRSVRGNzlTV2E1amVNQzlMMms",
+  "CBMirwFBVV95cUxPdWVfUUtSM1JYdVJZV0xPa3VmbXY5eF9wcWFxeHdBVzhKZ295S2NDaUxXWjh1SXZLTDNJN3dST2doVHdoT21wWmhZYkV1LWNUZTdjZEFSdjR5dkZYTVJhTFN1TkZwelU1emEzcVdmZndiUzdSMGwyMUpxY0xWZ0VBSEgwNG84SDY2TE5uNFZFV1JSQVFfM0RsX3R0cFFYdExrS1Nsb1hXcWhiTlBUWEVF",
+  "https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination",
+  "https://www.theguardian.com/us-news/2026/aug/02/max-miller-domestic-abuse-allegations-calls-to-resign",
+  "CBMiqgFBVV95cUxPbmxQdEZiSXlLeERWT1Mya3c4bm5OWWtvOGxyNjJ5LUFGYjBHeTZlVjA3SkdfNUNyQzhNTE5Rc0tDcXRLUW9Zdkd6aWFBcElaMEl1b3FIbkxpWkYyQTJZUzBlYXg3RDlOYWNUd1cwV0ROUGppZlkzcG5uY1RZWnBZX29SNlI0a1RwbzY0YzZSX0lJSHpONWpmZUJHLTMyVmRfZFhVMUpUNXJKZw",
+  "CBMipAFBVV95cUxOenJWT1o0OWRwbjZvYW56cjFTdTdBZUlENVF5QkV6Rkd2TldfUWNkeXRNM2JqSXl5ZktScWlsYVFHLW50U3RTaWJnTFQzaEdNYjFzamhNaUVic3JmZWtNdUNEMGZHRlVLSkkycTRsam5SWTdKMG43a2JsSDB4cFI5MEdtcUsxbElialBUZ1JpS3E2S3RNd2pxQzlLVTdWaXFsS2NIUA"
  ],
  "posts": [
   {
@@ -1822,6 +1827,36 @@
    "title": "Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes",
    "source": "AP",
    "at": "2026-08-02T17:39:25.299573+00:00"
+  },
+  {
+   "fp": "braced cuts drought hungary nuclear plant power shuts",
+   "title": "Hungary braced for power cuts as drought shuts nuclear plant",
+   "source": "Telegraph",
+   "at": "2026-08-02T18:38:05.106172+00:00"
+  },
+  {
+   "fp": "children families measles outbreak tells vaccinate",
+   "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak",
+   "source": "Guardian World",
+   "at": "2026-08-02T18:38:06.772239+00:00"
+  },
+  {
+   "fp": "abuse allegations calls congress miller republican resign",
+   "title": "Republican calls for Max Miller to resign from Congress amid abuse allegations",
+   "source": "Guardian World",
+   "at": "2026-08-02T18:38:08.425977+00:00"
+  },
+  {
+   "fp": "burger dead employee fast food idaho owner restaurant shooting",
+   "title": "In-N-Out Burger employee among 3 dead in shooting at Idaho fast-food restaurant, owner says",
+   "source": "AP",
+   "at": "2026-08-02T18:38:10.202285+00:00"
+  },
+  {
+   "fp": "abduct children gunmen kill nigerian village women",
+   "title": "Gunmen kill 12, abduct women and children in Nigerian village",
+   "source": "Reuters World",
+   "at": "2026-08-02T18:38:11.888357+00:00"
   }
  ],
  "titles": [
@@ -2084,6 +2119,11 @@
   "bernie calls help miller moreno needs psychological resign serious",
   "athens collide emergency europe firefighting helicopters midair near rages wildfire",
   "crash dead fire firefighting greece helicopter service",
-  "burned eastern evacuation fires forced homes structures washington"
+  "burned eastern evacuation fires forced homes structures washington",
+  "braced cuts drought hungary nuclear plant power shuts",
+  "children families measles outbreak tells vaccinate",
+  "abuse allegations calls congress miller republican resign",
+  "burger dead employee fast food idaho owner restaurant shooting",
+  "abduct children gunmen kill nigerian village women"
  ]
 }
