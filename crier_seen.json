@@ -226,7 +226,12 @@
   "https://thehill.com/?p=6004176",
   "https://nypost.com/?post_type=article&p=40158276",
   "CBMiuwFBVV95cUxOZnZ5dk1rM0dBSk5iSjEwVV9FNUJRVWJhLXlEY2lKRHAwb0ZSUU5INVUwVFpKV3M3aGhVNmZNSDMxV1JQNnZDWjhwaFhITnVhUUt5X0tCZ2pBTk1rNEg4ZTQ5MUJzRVI2b2hCS1BqYXpKTHBabmc5WHpQajZuS3BfNU5FUHR1cHlfUmQ0bWtFLWdyUFZoaXF6d2ZCUWRPX2JROU5fclRkM3NyOVNXZW52YzdRUkRBRWEtZ3ZF",
-  "https://www.theguardian.com/us-news/2026/aug/02/trump-tariffs-weapon"
+  "https://www.theguardian.com/us-news/2026/aug/02/trump-tariffs-weapon",
+  "CBMirgFBVV95cUxQY2tfSTFIZGp1REFNNDRxeVFISkplYldxcjdBRW1ReDV3aFlDTlM1TFBfS19WOFRMb2dCQlFMNWhfdGI0d1VqYTBoTFZodjdKNUNSdFpIeWtVbVZ3MEp3WTdlT25uZG5DeUhENllDck9Xc3ZzOVJ2MEpSZnRWSmo2U3JpcTNyY3FHMGdwdzJxUDJyOU95YURhUm0zb3ZkcHVZN1U0Q0R0VjZNVE9ZclE",
+  "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
+  "https://nypost.com/?post_type=article&p=40156346",
+  "https://nypost.com/?post_type=article&p=40158282",
+  "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens"
  ],
  "posts": [
   {
@@ -1584,6 +1589,36 @@
    "title": "Trump is determined to pursue his trade war \u2013 and he may be difficult to stop",
    "source": "Guardian World",
    "at": "2026-08-02T13:20:07.447076+00:00"
+  },
+  {
+   "fp": "chhetri group india jamshedpur reverse shutdown tata urges",
+   "title": "India's Chhetri urges Tata Group to reverse Jamshedpur shutdown",
+   "source": "Reuters World",
+   "at": "2026-08-02T14:00:22.371274+00:00"
+  },
+  {
+   "fp": "evacuation order people spokane thousands under wash wildfires",
+   "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
+   "source": "NPR News",
+   "at": "2026-08-02T14:00:24.231045+00:00"
+  },
+  {
+   "fp": "billion california collapses days fund lavish tech wedding",
+   "title": "Tech bro\u2019s $45 billion AI fund collapses days before lavish California wedding",
+   "source": "New York Post",
+   "at": "2026-08-02T14:00:26.337291+00:00"
+  },
+  {
+   "fp": "attack colombian group injures kills rebel terrorist vile",
+   "title": "Colombian rebel group\u2019s \u2018vile terrorist attack\u2019 injures 11, kills dog",
+   "source": "New York Post",
+   "at": "2026-08-02T14:00:28.076221+00:00"
+  },
+  {
+   "fp": "athens crisis europe evacuates greece hundreds near retreats western wildfire",
+   "title": "Western Europe\u2019s wildfire crisis retreats as Greece evacuates hundreds near Athens",
+   "source": "Guardian World",
+   "at": "2026-08-02T14:00:29.954239+00:00"
   }
  ],
  "titles": [
@@ -1812,6 +1847,11 @@
   "agreed attack citing deal halts iran parameters plan trump upon",
   "armed citizen dead fire gunman harrowing hero idaho left opened shooting stop tried video wounded",
   "earnings escalation gulf hopes iran lift rise sentiment stocks",
-  "determined difficult pursue stop trade trump"
+  "determined difficult pursue stop trade trump",
+  "chhetri group india jamshedpur reverse shutdown tata urges",
+  "evacuation order people spokane thousands under wash wildfires",
+  "billion california collapses days fund lavish tech wedding",
+  "attack colombian group injures kills rebel terrorist vile",
+  "athens crisis europe evacuates greece hundreds near retreats western wildfire"
  ]
 }
