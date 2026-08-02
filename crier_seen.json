@@ -221,7 +221,8 @@
   "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
   "https://thehill.com/?p=6004064",
   "CBMirAFBVV95cUxPN0VsOUJyLVVVWVM4N2dTcVRDRjBnOHJCcUUzTkg0ZmwwU1NyMTdvZV9kM0FnbUtwbjM1elRRYmhDb0JjcFE1Qi1mZHJBRmtzbUt3bGZjaUxzbTBFT3NkRGJjTy1zay1vczliOEUtUUMwSHJ0a1Q1MlBPaWRmNmJzOHExRWJETnpVMk5qbENOVFhNQUpGN2dmWmc3Vk9IdExqclpBT3lDSGd3VlRG",
-  "https://nypost.com/?post_type=article&p=40158015"
+  "https://nypost.com/?post_type=article&p=40158015",
+  "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan"
  ],
  "posts": [
   {
@@ -1549,6 +1550,12 @@
    "title": "Idaho In-N-Out worker was shot dead by \u2018disgusting human who doesn\u2019t value lives of others or his own,\u2019 chain owner says",
    "source": "New York Post",
    "at": "2026-08-02T11:04:32.458398+00:00"
+  },
+  {
+   "fp": "births community high premature rate",
+   "title": "Why is the rate of premature births so high in this community?",
+   "source": "NPR News",
+   "at": "2026-08-02T12:07:11.547180+00:00"
   }
  ],
  "titles": [
@@ -1772,6 +1779,7 @@
   "economy light market opaque sheds stark stock turmoil",
   "also dead idaho killed multiple people shooting suspect",
   "boosts kills lanka prison riot security",
-  "chain dead disgusting doesn human idaho lives others owner shot value worker"
+  "chain dead disgusting doesn human idaho lives others owner shot value worker",
+  "births community high premature rate"
  ]
 }
