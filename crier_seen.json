@@ -368,7 +368,11 @@
   "CBMiqAFBVV95cUxNVDh5Vi1kUEZTRU1KN1FmV0VGdGJTbXZhdkFkQTlMWGpGMHNYNXhNOFVqT01meXBuZlY0aVN5ZFV6cFg4OWNkVVBMbEJBUWFRbWg4cE01VzlEUjNncmJPM0pQWl92dXl6eWg1T1dBOU5RTXAySlF3RE9CWnFGU1hZc1FFVXYtZjFXb1ZwN3hpRmhfYTdqUUJ2ekt0SHEwM3VSeEVnb3NkYWY",
   "https://www.theguardian.com/politics/2026/aug/03/former-neo-nazi-activist-selected-as-tory-candidate-for-somerset-council-election",
   "CBMitAFBVV95cUxPdlptZlhWZjNYS0pKU2laTkx3NkZuQ0p0cFQ0ZC1jVU5MTGYyOWVicVRpQ1dmTU12VHN4UUFLcFBtTDh0OHlzWWpnX0k5OHN6WEhWcm9sZkhaSmM1dGtEQ2ZkWENKN3JCZ1daNUU5bVRBM19xZTEyNUZBU0hfTnhhOWs1eVFqbk9CYnBLRmNlam41UWpjWW1fdjVBdEZ3MlJVTkx5TU9rRTdGcXVCNklqTGlxTjk",
-  "https://thehill.com/?p=6006089"
+  "https://thehill.com/?p=6006089",
+  "CBMiywFBVV95cUxOYzdWc2p1TFA3Y3AwUFIyZ2hiRExwTWR2N0pBaHY5YnhZVDlsTEduMVc1WjNhQ0JDX2llNHVsR1FfX0d1VVlWMXZ1cnpUalVuX3R5ZnozU28weEZDcmd0UDJUQ0tiRlZMTUVPc3lvcExUQjlqckhDWHdPeXVLcE0zMWRQUU5SM2ctM1BVWWR2QzV0RVNtaE5CZWVJa2tEU2hmQ0lxcEd0N0U4VFN4RlBIcG9wRExrUGNfY25QM3FHYy1rTmgtdDRZOEhGOA",
+  "https://nypost.com/?post_type=article&p=40170500",
+  "https://www.bbc.co.uk/news/articles/c2k7px317eeo#0",
+  "https://www.washingtonexaminer.com/?p=4673184"
  ],
  "posts": [
   {
@@ -2572,6 +2576,30 @@
    "title": "Prince Harry and Meghan's charitable arm urges Congress to act on AI deepfakes: 'More bills are sitting, waiting'",
    "source": "The Hill",
    "at": "2026-08-03T19:36:39.254125+00:00"
+  },
+  {
+   "fp": "address brands cyclospora moving outbreak quickly",
+   "title": "Yum Brands Says It\u2019s Moving Quickly to Address Cyclospora Outbreak",
+   "source": "WSJ",
+   "at": "2026-08-03T20:39:48.899416+00:00"
+  },
+  {
+   "fp": "california deadly issue nile officials turns update virus west",
+   "title": "West Nile Virus turns deadly in California as officials issue update",
+   "source": "New York Post",
+   "at": "2026-08-03T20:39:50.607018+00:00"
+  },
+  {
+   "fp": "deaths diarrhoea explosive linked outbreak reports",
+   "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+   "source": "BBC World",
+   "at": "2026-08-03T20:39:52.359148+00:00"
+  },
+  {
+   "fp": "ceuta invasion nothingburger outrage",
+   "title": "Ceuta invasion \u2014 nothingburger or outrage?",
+   "source": "Washington Examiner",
+   "at": "2026-08-03T20:39:54.093544+00:00"
   }
  ],
  "titles": [
@@ -2941,6 +2969,10 @@
   "admit britain crisis labour must role unemployment youth",
   "activist candidate council election former nazi selected somerset tory",
   "awards blowout bonus chevron earnings following special staff",
-  "bills charitable congress deepfakes harry meghan prince sitting urges waiting"
+  "bills charitable congress deepfakes harry meghan prince sitting urges waiting",
+  "address brands cyclospora moving outbreak quickly",
+  "california deadly issue nile officials turns update virus west",
+  "deaths diarrhoea explosive linked outbreak reports",
+  "ceuta invasion nothingburger outrage"
  ]
 }
