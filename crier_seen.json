@@ -301,7 +301,11 @@
   "CBMipgFBVV95cUxNTnkxZDh5TElCa1dZeUtDT2JfblI5ZFJuQkZNQ1pvbHlkcWxHRUVfMk51N2t0ZDUtbEhOYW9aVjg5d3lMSkNXYlFMc0I5Z3o1bjh4c0pkZ3BsWkRYeWhOalNoOUZPN3pvYVRSb1NnT21rZy1TamRFMHN2MUp1WjhoSmZaT0prMExjTVk1aThUbHAwNEo3MmpsbTI2UFdsY2Z2Y0RlT2RB",
   "CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE",
   "CBMisgFBVV95cUxPb1dZcXJEY0ZGVGZ0VDBPQnpLdHZFSm5WQTNTcTFlamRSV3l2blFJRXJfMmR0eEgwUEZzaHFiZWZ0aXc1aGo4TE5wYmFTYkhGQW9tejFHT3JIOGxqUl9YNjRuQWk5d3JkLXc0NldUaXNiWERBRVBIa0RNMDFZMGdWS2xKQUUtX2Vtc1NpYW9nQnY1aGthMlhiUU1xX0JNUVQ5S21mdE9GbEl6WTVza01IYTJn",
-  "https://thehill.com/?p=6004829"
+  "https://thehill.com/?p=6004829",
+  "CBMiyAFBVV95cUxQdHdFTHBTaVNRM0hxQ0pRRHlRanItcm9jSXZDSkdXQzhVUDc5LTc1NS16c0htMURBci1NUmFBRW11S2lJRzdOaVZPdzdKNjFpRi1YdnV1UnFVZFFhT1VDZkRDWVhQOTQ0OVVKRU9LVngySUExTFlHMEZUUWxuVG9tRXZUcFZIUllvTldVUmluUmlnOGI3TVA0NFNrRmtWcGpJbGhIeVY1M2JDdU9NWTFaMV8td2lvczlkVk94TFRkaGJERzUwQUlNTA",
+  "https://www.theguardian.com/australia-news/2026/aug/03/one-nation-candidates-victoria-state-election-2026-ntwnfb",
+  "CBMihAFBVV95cUxQbWZxVXhUXzZ4NF9odVBnREFjZG51TjhzWjAxUWZkME9QaVFHRllINE5GcEZCNUNXcHpLaFhaRFVkaGtvV19uVGdVT182RV9vWG1ZbnRDVlFDbFRvUlhNMWl2NlVrX0tiX1Y4bHZFNmFfRXVwanNqVEFucFBZcHVaWERrXzU",
+  "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon"
  ],
  "posts": [
   {
@@ -2109,6 +2113,30 @@
    "title": "Trump on making a deal with Iran: 'I'm not looking to kill people'",
    "source": "The Hill",
    "at": "2026-08-03T02:06:55.988850+00:00"
+  },
+  {
+   "fp": "clout democratic direction high michigan primary progressive stakes tests",
+   "title": "High-Stakes Michigan Primary Tests Progressive Clout and the Democratic Direction",
+   "source": "WSJ",
+   "at": "2026-08-03T02:46:51.792965+00:00"
+  },
+  {
+   "fp": "animator anti candidates eight election film former including liberal nation unveils victorian woke",
+   "title": "One Nation unveils eight Victorian election candidates including former Liberal and anti-woke film animator",
+   "source": "Guardian World",
+   "at": "2026-08-03T02:46:53.608331+00:00"
+  },
+  {
+   "fp": "different directions earnings sending tech valuations wildly",
+   "title": "Big Tech Earnings Are Sending Valuations in Wildly Different Directions",
+   "source": "WSJ",
+   "at": "2026-08-03T02:46:55.747340+00:00"
+  },
+  {
+   "fp": "defunct falcon moon part rocket slam spacex",
+   "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
+   "source": "NPR News",
+   "at": "2026-08-03T02:46:57.535980+00:00"
   }
  ],
  "titles": [
@@ -2412,6 +2440,10 @@
   "attack gains gold holds iran slumps trump",
   "attack cancels deal iran nuclear reach trump tumbles",
   "destroy homes hundreds state washington wildfires",
-  "deal iran kill looking making people trump"
+  "deal iran kill looking making people trump",
+  "clout democratic direction high michigan primary progressive stakes tests",
+  "animator anti candidates eight election film former including liberal nation unveils victorian woke",
+  "different directions earnings sending tech valuations wildly",
+  "defunct falcon moon part rocket slam spacex"
  ]
 }
