@@ -380,7 +380,11 @@
   "https://nypost.com/?post_type=article&p=40173502",
   "CBMirAFBVV95cUxOR20wVmhocnJjcm5oQ01HLVYzUEhMR014c256bDF5dTh4cUlYWnE4SjdWaXY5YW1XdnpydndBV19fbFJOU1hXZ0lsZnFiWnFJS1FnTlAycXJYSm1hY2h5b3dhZ3pCc0d5VmNPTFR3ZXZWNnVmTmpITEpJS3hKaEdHWGRsWnJyTGU5dHRZWm9GMmZZNnFMaG9HS2J2NWc2QkpiUmxsSGJFVnRhS196",
   "https://thehill.com/?p=6006499",
-  "CBMioAFBVV95cUxPSTUzYlUxRmJnSldmWTQ1T1JWUGxlNUtGalRMZkJkT3J3OFZONENFSEJ4U0NkakhFWFZFS0oyNmgzVFpyZzdpbnJZVE1jNkJfekJGSGt5bzdSay1JWFlzanpfRUR3VGR4MjhZTGJOekJKVW5LUjRXbG9PZnAxWE1CcUl5a3ZsanZhVnpSOWFjWFlZdzlWQ2NOQ1dBX0tjZ2JI"
+  "CBMioAFBVV95cUxPSTUzYlUxRmJnSldmWTQ1T1JWUGxlNUtGalRMZkJkT3J3OFZONENFSEJ4U0NkakhFWFZFS0oyNmgzVFpyZzdpbnJZVE1jNkJfekJGSGt5bzdSay1JWFlzanpfRUR3VGR4MjhZTGJOekJKVW5LUjRXbG9PZnAxWE1CcUl5a3ZsanZhVnpSOWFjWFlZdzlWQ2NOQ1dBX0tjZ2JI",
+  "CBMikwFBVV95cUxQMGs2LXdJVGdEbHpkNGkydnlyWDBGNmtCOFg5TWdhTVA1UXZrZWR6REpLWmhfQlZTVV8xbmliU0JLZGtCUUFkTmlYV3BWSTlaQml1Y3NUbE1UTFV3VlpFNXdVRGQyNVZrOUZ3THg0T3BBRDBvdHZmVHNtd3kwNDZtSllmcVE0M1BnSmFlRW5uMkRDTjA",
+  "https://nypost.com/?post_type=article&p=40169546",
+  "CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA",
+  "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing"
  ],
  "posts": [
   {
@@ -2656,6 +2660,30 @@
    "title": "California's highest court rules for Gilead in 'duty to innovate' case",
    "source": "Reuters",
    "at": "2026-08-03T22:08:38.814250+00:00"
+  },
+  {
+   "fp": "diarrhoea outbreak sweeping",
+   "title": "Two die in diarrhoea outbreak sweeping US",
+   "source": "Telegraph",
+   "at": "2026-08-03T22:55:07.506022+00:00"
+  },
+  {
+   "fp": "claims collect cyclosporiasis diarrhea experts lives outbreak poised ridden thousands victims",
+   "title": "Diarrhea-ridden cyclosporiasis victims poised to collect thousands as outbreak claims first lives: experts",
+   "source": "New York Post",
+   "at": "2026-08-03T22:55:09.325485+00:00"
+  },
+  {
+   "fp": "breaking news today world",
+   "title": "World News: Top & Breaking World News Today",
+   "source": "AP",
+   "at": "2026-08-03T22:55:11.112127+00:00"
+  },
+  {
+   "fp": "attacks black claims crimea drone kill resort russia ukrainian",
+   "title": "Ukrainian drone attacks on Black Sea resort and Crimea kill 11, Russia claims",
+   "source": "Guardian World",
+   "at": "2026-08-03T22:55:12.928674+00:00"
   }
  ],
  "titles": [
@@ -3037,6 +3065,10 @@
   "city discovery hall launched powder probe rocked suspicious",
   "diplomacy east hopes middle rally slides stocks",
   "chief contracts detention divests giant himself recuses stocks warren",
-  "california case court duty gilead highest innovate rules"
+  "california case court duty gilead highest innovate rules",
+  "diarrhoea outbreak sweeping",
+  "claims collect cyclosporiasis diarrhea experts lives outbreak poised ridden thousands victims",
+  "breaking news today world",
+  "attacks black claims crimea drone kill resort russia ukrainian"
  ]
 }
