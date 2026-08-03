@@ -358,7 +358,11 @@
   "https://nypost.com/?post_type=article&p=40164666",
   "CBMimwFBVV95cUxQbTlMT3pHaGFaRzdjMHdrZ1RWOVhwY1FPSi1TSm5pNEFuaHlLVldYYXF3VHY3WTR2MHNCMW12SVd4dXRSZy13NEkyR3BVc2QwcV9SZnR4Z1hxX05jUGNOYkJnUXp1V2hYbVhZcG4zUUhJVWl2SS1ibTVtdlQ4cjdvcHZSMC1OQS00WldrVmd0RDdWMEN6MlFnT1BOaw",
   "https://nypost.com/?post_type=article&p=40165951",
-  "https://www.theguardian.com/us-news/2026/aug/03/cyclospora-deaths-michigan"
+  "https://www.theguardian.com/us-news/2026/aug/03/cyclospora-deaths-michigan",
+  "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
+  "https://nypost.com/?post_type=article&p=40168559",
+  "CBMiwgFBVV95cUxOUWg4ei1MaEJJbEJOYl80UkRfZGU4UXhwTUVDSERoUldCTGxERWZXVkxta1h1b1lKbFhpUTBFUWVQRjlibkliajJDMEhEbDZkNWc3cWhWMm1YSEVrdHJ0S1NNNXE1alJhS0M0Z05Hd01hREVmQ25jd015WWZiOTQtSE4yb1JoZ3hlQmNuQTBqbjlFVmFDLTEybkZ4a2FRMUo3X05YOW8zamVOcVdTTjdDR1BnR003X2JMOVEyVFJPUWNTZw",
+  "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o#0"
  ],
  "posts": [
   {
@@ -2502,6 +2506,30 @@
    "title": "US cyclosporiasis outbreak kills two people in Michigan, officials say",
    "source": "Guardian World",
    "at": "2026-08-03T17:28:07.731583+00:00"
+  },
+  {
+   "fp": "evacuations lead photos spokane thousands wildfires",
+   "title": "Photos: Wildfires in Spokane lead to thousands of evacuations",
+   "source": "NPR News",
+   "at": "2026-08-03T19:09:21.208953+00:00"
+  },
+  {
+   "fp": "california dead employee idaho killed left mass shooting transplant",
+   "title": "In-N-Out employee, 23, killed in Idaho mass shooting that left 3 dead ID\u2019d as California transplant",
+   "source": "New York Post",
+   "at": "2026-08-03T19:09:22.918156+00:00"
+  },
+  {
+   "fp": "deadly gazans grim jars plan reality touting trump",
+   "title": "After deadly day, Gazans say Trump's touting of plan jars with grim reality",
+   "source": "Reuters World",
+   "at": "2026-08-03T19:09:24.617808+00:00"
+  },
+  {
+   "fp": "beach busy drone hitting injured killed russia seven ukrainian",
+   "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+   "source": "BBC World",
+   "at": "2026-08-03T19:09:26.368932+00:00"
   }
  ],
  "titles": [
@@ -2861,6 +2889,10 @@
   "becomes breaking florida prodigy professor record world year youngest",
   "cyclospora deaths michigan outbreak reports",
   "allegedly hours jail kills offender parking release repeat space",
-  "cyclosporiasis kills michigan officials outbreak people"
+  "cyclosporiasis kills michigan officials outbreak people",
+  "evacuations lead photos spokane thousands wildfires",
+  "california dead employee idaho killed left mass shooting transplant",
+  "deadly gazans grim jars plan reality touting trump",
+  "beach busy drone hitting injured killed russia seven ukrainian"
  ]
 }
