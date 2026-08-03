@@ -376,7 +376,11 @@
   "https://nypost.com/?post_type=article&p=40169808",
   "https://www.washingtonexaminer.com/?p=4673330",
   "CBMi0gFBVV95cUxOenVfYTBUempQWEFvbTFrWG9YMldxbWtFV2FSakgzYml3c0dPenQ3ZE0yQTJjTWMyUC13THhoWWVMZDFRa2F4bXhONklrQVpMb2c5cmh6NmlSREZZeGRBTVRZdnZIQ2M0blZ0SXBEeW53YVUzMElUOFFRdHRGQzBINTFERzNMY2FSMUFqWjdPUmdRWGs3cEd0c01iZ2VoUjZjOHotNVpiWHM5SHdsMWdnRzY4SF9Wa1FnYlBuZEVPeFIzWjZ0X2YtVm5MT3k4M1hEYWc",
-  "CBMirgFBVV95cUxPZXRqaG5OT1JIRlYyV2Z2dVdPTTNwYnBINWR6UlVMcmM2MHk4Q3pGU3hCT0w3MUxUU0M0ZGRadFFrbDl3R0lvNWZlVW9BeGVUVThXUFRCdFQ5QmJhSnRNdUl5MlBaVXBRRG1VQThPaUVYdU4zVlhjX09PM1FnczJjTVVvbVVmRHhOVkItT2lTUjBnaGpoV1lvczV0bnlFUUVVekhya2RJSnh4bE9Pc2c"
+  "CBMirgFBVV95cUxPZXRqaG5OT1JIRlYyV2Z2dVdPTTNwYnBINWR6UlVMcmM2MHk4Q3pGU3hCT0w3MUxUU0M0ZGRadFFrbDl3R0lvNWZlVW9BeGVUVThXUFRCdFQ5QmJhSnRNdUl5MlBaVXBRRG1VQThPaUVYdU4zVlhjX09PM1FnczJjTVVvbVVmRHhOVkItT2lTUjBnaGpoV1lvczV0bnlFUUVVekhya2RJSnh4bE9Pc2c",
+  "https://nypost.com/?post_type=article&p=40173502",
+  "CBMirAFBVV95cUxOR20wVmhocnJjcm5oQ01HLVYzUEhMR014c256bDF5dTh4cUlYWnE4SjdWaXY5YW1XdnpydndBV19fbFJOU1hXZ0lsZnFiWnFJS1FnTlAycXJYSm1hY2h5b3dhZ3pCc0d5VmNPTFR3ZXZWNnVmTmpITEpJS3hKaEdHWGRsWnJyTGU5dHRZWm9GMmZZNnFMaG9HS2J2NWc2QkpiUmxsSGJFVnRhS196",
+  "https://thehill.com/?p=6006499",
+  "CBMioAFBVV95cUxPSTUzYlUxRmJnSldmWTQ1T1JWUGxlNUtGalRMZkJkT3J3OFZONENFSEJ4U0NkakhFWFZFS0oyNmgzVFpyZzdpbnJZVE1jNkJfekJGSGt5bzdSay1JWFlzanpfRUR3VGR4MjhZTGJOekJKVW5LUjRXbG9PZnAxWE1CcUl5a3ZsanZhVnpSOWFjWFlZdzlWQ2NOQ1dBX0tjZ2JI"
  ],
  "posts": [
   {
@@ -2628,6 +2632,30 @@
    "title": "Man who killed top Minnesota lawmaker and her husband makes first state court appearance",
    "source": "AP",
    "at": "2026-08-03T21:47:10.587830+00:00"
+  },
+  {
+   "fp": "city discovery hall launched powder probe rocked suspicious",
+   "title": "LA City Hall rocked by suspicious powder discovery as probe launched",
+   "source": "New York Post",
+   "at": "2026-08-03T22:08:33.802553+00:00"
+  },
+  {
+   "fp": "diplomacy east hopes middle rally slides stocks",
+   "title": "U.S. Stocks Rally, While Oil Slides on Middle East Diplomacy Hopes",
+   "source": "WSJ",
+   "at": "2026-08-03T22:08:35.449176+00:00"
+  },
+  {
+   "fp": "chief contracts detention divests giant himself recuses stocks warren",
+   "title": "ICE chief divests detention giant stocks, recuses himself from contracts: Warren",
+   "source": "The Hill",
+   "at": "2026-08-03T22:08:37.126476+00:00"
+  },
+  {
+   "fp": "california case court duty gilead highest innovate rules",
+   "title": "California's highest court rules for Gilead in 'duty to innovate' case",
+   "source": "Reuters",
+   "at": "2026-08-03T22:08:38.814250+00:00"
   }
  ],
  "titles": [
@@ -3005,6 +3033,10 @@
   "chad chilling crime gunman idaho mass posts railed shooting williams",
   "dead hunt idaho left motive police shooting three",
   "blazes destruction europe greece hold parts photos show take wildfires",
-  "appearance court husband killed lawmaker makes minnesota state"
+  "appearance court husband killed lawmaker makes minnesota state",
+  "city discovery hall launched powder probe rocked suspicious",
+  "diplomacy east hopes middle rally slides stocks",
+  "chief contracts detention divests giant himself recuses stocks warren",
+  "california case court duty gilead highest innovate rules"
  ]
 }
