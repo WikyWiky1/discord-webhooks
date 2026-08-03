@@ -351,7 +351,14 @@
   "CBMimAFBVV95cUxQaU5UYjZEbzc0bzZZQmlHZ2ZVNk9IYTVPcG02TVVRdV8xLUxjQ200X25WZ0otTlQ3VDFlMGRpVnhZT0E5aFF1RVZ1NXlIMlprOWNvWXBKeExJSFhZSjViY21XYWg2RUVSMGFIaGljaE11YmxzSGprVmRTNzI1MWZzUWNRZk10c3o0X3hWZ3B6UjYtaUxSQl9zQg",
   "https://thehill.com/?p=6006046",
   "https://thehill.com/?p=6005659",
-  "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates"
+  "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates",
+  "CBMiowFBVV95cUxPeXYyLTRJZFY0QU1nVkl4a3F4dG0xVWJWRnh2bnU2QjYxOF9JV0g4RzVLQmJHVkVteGN1b3N6WFdFQWRmLUJwTUxGMU9Rd1RwRGJrYjBZekRjNmRpQ0NXYk1RdDRfT1Ezbl96bXM1SWV3MFdGbnVreVlZSlRwR1k4bi1tY01PVlFlc0VRSGF6ajVqRWpqeV80ZTlLa1RMbzA1dm40",
+  "CBMiqgFBVV95cUxQeV9iRmVWNXhWXzBIek9ReFZxMUh5WVJVdmZLdnBaV2Z5THd0WDZkNDZ3YVJyUDY2R0prUktxYkQxQmRXNlNyR1JxWnJyYWozMjNWa1lNSGhjc0trZVRqcHQxVmtKZVZ4OHJlYkd5cW00NVVfMGhxMnNFTFZiOXlzanFJM1lTaDRreXZuYjhyTHp0UkoyZzBZd2o1ZnlRdFdNaG9JSW1sMklRUQ",
+  "https://nypost.com/?post_type=article&p=40164865",
+  "https://nypost.com/?post_type=article&p=40164666",
+  "CBMimwFBVV95cUxQbTlMT3pHaGFaRzdjMHdrZ1RWOVhwY1FPSi1TSm5pNEFuaHlLVldYYXF3VHY3WTR2MHNCMW12SVd4dXRSZy13NEkyR3BVc2QwcV9SZnR4Z1hxX05jUGNOYkJnUXp1V2hYbVhZcG4zUUhJVWl2SS1ibTVtdlQ4cjdvcHZSMC1OQS00WldrVmd0RDdWMEN6MlFnT1BOaw",
+  "https://nypost.com/?post_type=article&p=40165951",
+  "https://www.theguardian.com/us-news/2026/aug/03/cyclospora-deaths-michigan"
  ],
  "posts": [
   {
@@ -2425,12 +2432,6 @@
    "at": "2026-08-03T15:40:07.047061+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-08-03T17:08:48.430889+00:00"
-  },
-  {
    "fp": "aims earnings elon ever fears musk report shake slump spacex spending stock",
    "title": "Elon Musk\u2019s SpaceX aims to shake off AI spending fears, stock slump in first-ever earnings report",
    "source": "New York Post",
@@ -2459,6 +2460,48 @@
    "title": "Holdouts for Trump\u2019s attorney general pick say they will advance his nomination to the full Senate \u2013 US politics live",
    "source": "Guardian World",
    "at": "2026-08-03T17:08:57.235828+00:00"
+  },
+  {
+   "fp": "breaking cruelest game point pushed review",
+   "title": "\u2018The Cruelest Game\u2019 Review: Pushed to the Breaking Point",
+   "source": "WSJ",
+   "at": "2026-08-03T17:27:55.388577+00:00"
+  },
+  {
+   "fp": "authorities burger idaho mass motive seek shooting",
+   "title": "Authorities seek a motive in the mass shooting at an Idaho In-N-Out Burger",
+   "source": "AP",
+   "at": "2026-08-03T17:27:57.142717+00:00"
+  },
+  {
+   "fp": "arrested dead injured shooting year yonkers",
+   "title": "15-year-old arrested after 1 dead, 4 injured in Yonkers shooting",
+   "source": "New York Post",
+   "at": "2026-08-03T17:27:59.795883+00:00"
+  },
+  {
+   "fp": "becomes breaking florida prodigy professor record world year youngest",
+   "title": "Florida prodigy becomes world\u2019s youngest professor \u2014 while breaking 306-year-old record",
+   "source": "New York Post",
+   "at": "2026-08-03T17:28:01.495309+00:00"
+  },
+  {
+   "fp": "cyclospora deaths michigan outbreak reports",
+   "title": "Michigan reports first 2 US deaths in outbreak of cyclospora",
+   "source": "AP",
+   "at": "2026-08-03T17:28:03.309481+00:00"
+  },
+  {
+   "fp": "allegedly hours jail kills offender parking release repeat space",
+   "title": "Repeat offender allegedly kills man over parking space hours after jail release",
+   "source": "New York Post",
+   "at": "2026-08-03T17:28:05.099275+00:00"
+  },
+  {
+   "fp": "cyclosporiasis kills michigan officials outbreak people",
+   "title": "US cyclosporiasis outbreak kills two people in Michigan, officials say",
+   "source": "Guardian World",
+   "at": "2026-08-03T17:28:07.731583+00:00"
   }
  ],
  "titles": [
@@ -2807,11 +2850,17 @@
   "destroy evacuate force homes thousands washington wildfires",
   "2021 done fire firearm gunman mass returned shooting training",
   "about governor state talked trump washington wildfires",
-  "edition journal print street wall",
   "aims earnings elon ever fears musk report shake slump spacex spending stock",
   "attorney back blanche deal fund general holdouts nomination striking",
   "agenda high profile races senate through",
   "booting clayton community head intelligence pulte sworn",
-  "advance attorney full general holdouts live nomination pick politics senate trump"
+  "advance attorney full general holdouts live nomination pick politics senate trump",
+  "breaking cruelest game point pushed review",
+  "authorities burger idaho mass motive seek shooting",
+  "arrested dead injured shooting year yonkers",
+  "becomes breaking florida prodigy professor record world year youngest",
+  "cyclospora deaths michigan outbreak reports",
+  "allegedly hours jail kills offender parking release repeat space",
+  "cyclosporiasis kills michigan officials outbreak people"
  ]
 }
