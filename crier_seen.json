@@ -305,7 +305,13 @@
   "CBMiyAFBVV95cUxQdHdFTHBTaVNRM0hxQ0pRRHlRanItcm9jSXZDSkdXQzhVUDc5LTc1NS16c0htMURBci1NUmFBRW11S2lJRzdOaVZPdzdKNjFpRi1YdnV1UnFVZFFhT1VDZkRDWVhQOTQ0OVVKRU9LVngySUExTFlHMEZUUWxuVG9tRXZUcFZIUllvTldVUmluUmlnOGI3TVA0NFNrRmtWcGpJbGhIeVY1M2JDdU9NWTFaMV8td2lvczlkVk94TFRkaGJERzUwQUlNTA",
   "https://www.theguardian.com/australia-news/2026/aug/03/one-nation-candidates-victoria-state-election-2026-ntwnfb",
   "CBMihAFBVV95cUxQbWZxVXhUXzZ4NF9odVBnREFjZG51TjhzWjAxUWZkME9QaVFHRllINE5GcEZCNUNXcHpLaFhaRFVkaGtvV19uVGdVT182RV9vWG1ZbnRDVlFDbFRvUlhNMWl2NlVrX0tiX1Y4bHZFNmFfRXVwanNqVEFucFBZcHVaWERrXzU",
-  "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon"
+  "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon",
+  "https://www.theguardian.com/australia-news/2026/aug/03/sydney-building-collapse-wattle-st-ultimo",
+  "https://nypost.com/?post_type=article&p=40163064",
+  "CBMiwwFBVV95cUxOaVY1Q3NEcXAyWmpheXd3YXJOM182WG1Ob0JtSFJHRDFjcHpqRGcxTFdFaTk2QXBkWWVBMFctR2dZLVo5Z1M1dktGcWtHZWZfdElPWThnUjZOS21sSnVYeFZsWmdqOWRrdUpZRVR0VklLT0otTjJWWmoyclNjbWplbHdpU1c3cWJDM0dwalZIS3RYQ3hCWm5abksxM0RJU01WajMzeWx3MXZtWWdmM1p5QWpFWXdWS1JZSWRURURTbjJhNms",
+  "CBMiZ0FVX3lxTE1vbVhvbGJZMklsVUdQRE5fSk1IS3E2RjdQMnltWDdvSTBEYWFwd2NGNjVSSWUwT2psSWZYcEFSdmx2Slh6a0VQRWk4NzNYeENXS09ZalVpejZXMjAxOGNDZFE4MWNKS2M",
+  "CBMiZ0FVX3lxTE11Tzdnb0JMVEcwMmNGa29jcXpJa1BsMWtlSVVrSjM5dlp0b3FNY2xneVhWUE5fMGlVZUIwNTVPYjhBeXZwS0YxWktRREcwd2E0R0t1WUdyQ3VRVDZVM2JvalNad2xKQ3M",
+  "https://nypost.com/?post_type=article&p=40162891"
  ],
  "posts": [
   {
@@ -2137,6 +2143,42 @@
    "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
    "source": "NPR News",
    "at": "2026-08-03T02:46:57.535980+00:00"
+  },
+  {
+   "fp": "building collapses injured seriously suddenly sydney",
+   "title": "Two men seriously injured after Sydney building suddenly collapses",
+   "source": "Guardian World",
+   "at": "2026-08-03T05:53:43.624297+00:00"
+  },
+  {
+   "fp": "collapses cuba darkness electric grid plunges",
+   "title": "Cuba plunges into darkness as electric grid collapses",
+   "source": "New York Post",
+   "at": "2026-08-03T05:53:45.340904+00:00"
+  },
+  {
+   "fp": "dead displaced floods fourteen india rains southern strike thousands",
+   "title": "Fourteen dead, thousands displaced as rains, floods strike southern India",
+   "source": "Reuters",
+   "at": "2026-08-03T05:53:47.127896+00:00"
+  },
+  {
+   "fp": "attack called deal hopes iran massive trump",
+   "title": "Trump: US called off 'massive attack' on Iran amid deal hopes",
+   "source": "Reuters",
+   "at": "2026-08-03T05:53:49.058887+00:00"
+  },
+  {
+   "fp": "crash dead firefighting greek helicopter wildfires",
+   "title": "Two dead in Greek firefighting helicopter crash amid wildfires",
+   "source": "Reuters",
+   "at": "2026-08-03T05:53:50.798990+00:00"
+  },
+  {
+   "fp": "barriers broke dead former granger republican trailblazing",
+   "title": "Trailblazing former Republican Rep. Kay Granger dead at 83: \u2018Broke barriers\u2019",
+   "source": "New York Post",
+   "at": "2026-08-03T05:53:52.473692+00:00"
   }
  ],
  "titles": [
@@ -2444,6 +2486,12 @@
   "clout democratic direction high michigan primary progressive stakes tests",
   "animator anti candidates eight election film former including liberal nation unveils victorian woke",
   "different directions earnings sending tech valuations wildly",
-  "defunct falcon moon part rocket slam spacex"
+  "defunct falcon moon part rocket slam spacex",
+  "building collapses injured seriously suddenly sydney",
+  "collapses cuba darkness electric grid plunges",
+  "dead displaced floods fourteen india rains southern strike thousands",
+  "attack called deal hopes iran massive trump",
+  "crash dead firefighting greek helicopter wildfires",
+  "barriers broke dead former granger republican trailblazing"
  ]
 }
