@@ -470,45 +470,15 @@
   "https://www.npr.org/2026/08/04/nx-s1-5919329/ranchers-evacuate-cattle",
   "CBMisAFBVV95cUxPcEdqS3RtT1hyU0xvdjkzU1dIZ0M5akJVaXpsdWJaajl2RG1fbWs3dEZxUFRMXzFzX09qVGdGc2ZRbWhiX0NDMFFFUXc3T0hKSTRzcGFKdU1NZjFES0lhVFMtVDlmQXk4RVFxVFNXY0JONGZsQjl1aVN3YURWTGpNaFpaQlo5emY5T0hOVUdSYVo4bEJVVE9GWVN0MzhldW1Uektvd1VOWTUySjgzZ0RlZQ",
   "CBMipAFBVV95cUxNN3h4Vl9WOUkyc1dzMFZ0OVVvRFJrU2NHTmVUQ1JfMTVTa2U0NWVjYVZLUlJSOXNsOVRuNlJxY0Fya2VaWFZNeWpoQVNva1NiZXB0ZHR4ZFRHVi04TFFsdl9VVmU4VW9DLTNZLWJoUnZqMkRUcWszdk1BMmZMNEcwSnN1SGlCSTlHd1MyaVZDOUlXUE5ickg5RkE0NTlJclRIWHMyUg",
-  "https://thehill.com/?p=6008817"
+  "https://thehill.com/?p=6008817",
+  "CBMiqgFBVV95cUxPYTFzaHNqUVVRQkw4TTd3Xy1nNUVBYXh6QVZaWWdNMzc0dW1wQllwSEZ4dHVNR1ZVbFhTODR3WWJtVnZ1N190QkI4T3JONFkwQlN6VjJDWUNDYTZYRVI0Y0ZVb0s5V2tvTGIzTjZEZkRqSkdkWHpPTjJCUlRURE1BOUVDVUYxYzFBMDczZloyY1ZhVmpXb1VpTmpGSzE4Y1FobjJEYkZYQWIxdw",
+  "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
+  "https://www.washingtonexaminer.com/?p=4675007",
+  "CBMiywFBVV95cUxNRkFZQkJoRmRlajg5SzYxaU5EQVZ3U2RYbUtyZHRfcndUVmpYb3lwWm5DNmtVMFY3bFZoLVEyaVJ0b0dmRWYxZ05vSXhRaWFLVXVlVG9MSmV2Qjg4OEFTNU4xLU5ST2NOMDh5b3NOM1J4cGgzQmFIRjBEOUNlZXhaQ1JoV0VPeS1ZWW9XX1ZSUnZJQ19kNHN6cnYwWHFoN25saEltTjZNQWhlclNieEJCQ1VWUGtDRC1xcjNEUmxjMG9KYVJLaGNHU2RJaw",
+  "CBMigwFBVV95cUxPZEs4cWl4bDlZR3lkOWxyQ3djLVFEMklLSnBORGtLRlhESjc2aWlhSjZEeHc1d0lsM2hsRmRSUkVGWlpKSUJpRDlaMTlMZTdrcnRaOEN4WWVVVmdFd0hWNjNVVExFTkVpRzhiVXoxaXZGZFVYMzFlM09yQmtXTEhMNHJtVQ",
+  "https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report"
  ],
  "posts": [
-  {
-   "fp": "criteria didn early meet moderna norovirus statistical success trial vaccine",
-   "title": "Moderna Says Norovirus Vaccine Didn\u2019t Meet Statistical Criteria for Early Success in Trial",
-   "source": "WSJ",
-   "at": "2026-07-31T14:05:58.733404+00:00"
-  },
-  {
-   "fp": "country evacuations fire forces landscape torches wine woodside",
-   "title": "Wine country \u2018Woodside Fire\u2019 torches landscape and forces evacuations",
-   "source": "New York Post",
-   "at": "2026-07-31T15:57:42.224734+00:00"
-  },
-  {
-   "fp": "conditions france heat help volunteers wildfires",
-   "title": "As heat and dry conditions fan wildfires in France, volunteers fan out to help",
-   "source": "AP",
-   "at": "2026-07-31T15:57:44.037914+00:00"
-  },
-  {
-   "fp": "bordeaux bringing ease flares greece madrid near respite wildfires",
-   "title": "Wildfires ease near Bordeaux and Madrid, bringing respite as Greece flares up",
-   "source": "Reuters",
-   "at": "2026-07-31T15:57:46.857437+00:00"
-  },
-  {
-   "fp": "1500 belt issue million pickup recall seat stellantis trucks",
-   "title": "Stellantis to recall 1.5 million Ram 1500 pickup trucks over seat belt issue",
-   "source": "Reuters",
-   "at": "2026-07-31T15:57:48.689833+00:00"
-  },
-  {
-   "fp": "across blazes continue escape europe greek hundreds wildfire",
-   "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-   "source": "BBC World",
-   "at": "2026-07-31T15:57:50.721721+00:00"
-  },
   {
    "fp": "cabinet camp damaging david iran military next offensive previews summit trump",
    "title": "Trump previews next damaging military offensive against Iran from Camp David cabinet summit",
@@ -2872,15 +2842,45 @@
    "title": "Measles outbreak in 2025 cost almost $5.4M to contain: Research",
    "source": "The Hill",
    "at": "2026-08-04T21:14:24.277301+00:00"
+  },
+  {
+   "fp": "bear goldilocks kevin moment steepener stocks warsh",
+   "title": "Kevin Warsh\u2019s \u2018Bear Steepener\u2019 Is No Goldilocks Moment for Stocks",
+   "source": "WSJ",
+   "at": "2026-08-04T22:11:30.800658+00:00"
+  },
+  {
+   "fp": "back drifts earth once price revenue rises soaring spacex stock",
+   "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
+   "source": "NPR News",
+   "at": "2026-08-04T22:11:32.571171+00:00"
+  },
+  {
+   "fp": "agenda america bill budget save senate threatened uncertainty",
+   "title": "Senate GOP agenda on budget bill and SAVE America Act threatened by uncertainty",
+   "source": "Washington Examiner",
+   "at": "2026-08-04T22:11:34.290145+00:00"
+  },
+  {
+   "fp": "businesses debut quarterly results revenue satellite spacex surge surges",
+   "title": "SpaceX quarterly revenue surges in debut results as satellite, AI businesses surge",
+   "source": "Reuters",
+   "at": "2026-08-04T22:11:36.103047+00:00"
+  },
+  {
+   "fp": "course crash moon musk rocket spacex",
+   "title": "Musk SpaceX rocket on course to crash into Moon",
+   "source": "Telegraph",
+   "at": "2026-08-04T22:11:37.791975+00:00"
+  },
+  {
+   "fp": "81bn beats expectations posting quarter revenue second spacex",
+   "title": "SpaceX beats expectations by posting revenue of $7.81bn in second quarter",
+   "source": "Guardian World",
+   "at": "2026-08-04T22:11:39.602627+00:00"
   }
  ],
  "titles": [
-  "criteria didn early meet moderna norovirus statistical success trial vaccine",
-  "country evacuations fire forces landscape torches wine woodside",
-  "conditions france heat help volunteers wildfires",
-  "bordeaux bringing ease flares greece madrid near respite wildfires",
-  "1500 belt issue million pickup recall seat stellantis trucks",
-  "across blazes continue escape europe greek hundreds wildfire",
   "cabinet camp damaging david iran military next offensive previews summit trump",
   "deal gaza peace roadmap",
   "autumn budget chancellor confirms delivered live october politics",
@@ -3274,6 +3274,12 @@
   "cattle evacuate oregon pushing ranchers season wildfire",
   "cases climb cyclosporiasis michigan ongoing outbreak",
   "2025 angeles caused eaton fire idle killed officials tower transmission utility",
-  "2025 almost contain cost measles outbreak research"
+  "2025 almost contain cost measles outbreak research",
+  "bear goldilocks kevin moment steepener stocks warsh",
+  "back drifts earth once price revenue rises soaring spacex stock",
+  "agenda america bill budget save senate threatened uncertainty",
+  "businesses debut quarterly results revenue satellite spacex surge surges",
+  "course crash moon musk rocket spacex",
+  "81bn beats expectations posting quarter revenue second spacex"
  ]
 }
