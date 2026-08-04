@@ -396,7 +396,10 @@
   "https://pagesix.com/?post_type=article&p=9089287",
   "https://thehill.com/?p=6006989",
   "https://thehill.com/?p=6007017",
-  "CBMioAFBVV95cUxPUkdXNjVtRDJnWExmWEZEN1ZUWG10OXJUZXlma1l3SXlLelNvSEhqc0VTVWlwZHUzQUlxdUM5b3pSaU9CdUhfUUIwcThINko0MjJzbXBGV1NPa0ljU2xPUUVNVFYtOTZyZDQ3ZHZuY1g5TGZFZXhuc09UZVZZaWxocUYxZmhqLVdRUlVTOVZHNWhzQ2pkR2ptay0wNW5zUmpB"
+  "CBMioAFBVV95cUxPUkdXNjVtRDJnWExmWEZEN1ZUWG10OXJUZXlma1l3SXlLelNvSEhqc0VTVWlwZHUzQUlxdUM5b3pSaU9CdUhfUUIwcThINko0MjJzbXBGV1NPa0ljU2xPUUVNVFYtOTZyZDQ3ZHZuY1g5TGZFZXhuc09UZVZZaWxocUYxZmhqLVdRUlVTOVZHNWhzQ2pkR2ptay0wNW5zUmpB",
+  "https://nypost.com/?post_type=article&p=40178338",
+  "https://www.theguardian.com/australia-news/2026/aug/04/sydney-hospitals-nsw-emergency-department-busy-record-winter",
+  "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo#0"
  ],
  "posts": [
   {
@@ -2768,6 +2771,24 @@
    "title": "El-Sayed and Stevens close Michigan Senate primary offering different visions for Democrats",
    "source": "AP",
    "at": "2026-08-04T05:46:35.989631+00:00"
+  },
+  {
+   "fp": "arrest arson authorities connection devastating spokane suspect wildfires",
+   "title": "Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires",
+   "source": "New York Post",
+   "at": "2026-08-04T06:21:49.825702+00:00"
+  },
+  {
+   "fp": "avoid danger departments emergency hospital life might public record sydney unless urged",
+   "title": "Public urged to avoid hospital unless \u2018life might be in danger\u2019 after record day for Sydney emergency departments",
+   "source": "Guardian World",
+   "at": "2026-08-04T06:21:51.511636+00:00"
+  },
+  {
+   "fp": "france hundreds reveal shells village wildfires",
+   "title": "France wildfires reveal hundreds of WW2 shells in village",
+   "source": "BBC World",
+   "at": "2026-08-04T06:21:53.283049+00:00"
   }
  ],
  "titles": [
@@ -3165,6 +3186,9 @@
   "actress dead home spider",
   "center dead detention emergency following medical newark salvadoran",
   "committee invited jack judiciary month next senate smith testify",
-  "close democrats different michigan offering primary sayed senate stevens visions"
+  "close democrats different michigan offering primary sayed senate stevens visions",
+  "arrest arson authorities connection devastating spokane suspect wildfires",
+  "avoid danger departments emergency hospital life might public record sydney unless urged",
+  "france hundreds reveal shells village wildfires"
  ]
 }
