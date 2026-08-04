@@ -411,21 +411,11 @@
   "https://thehill.com/?p=6007150",
   "https://www.theguardian.com/us-news/live/2026/aug/04/donald-trump-todd-blanche-republicans-vote-michigan-midterm-primary-democrats-latest-news-updates",
   "https://www.theguardian.com/us-news/2026/aug/04/michigan-senate-race-abdul-el-sayed-haley-stevens",
-  "CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw"
+  "CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw",
+  "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
+  "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo#1"
  ],
  "posts": [
-  {
-   "fp": "attack family five killed least members missile russian same zelensky",
-   "title": "",
-   "source": "",
-   "at": "2026-07-30T19:14:39.570895+00:00"
-  },
-  {
-   "fp": "benz citing detect door failure mercedes open recall risk vehicles",
-   "title": "",
-   "source": "",
-   "at": "2026-07-30T19:14:39.570895+00:00"
-  },
   {
    "fp": "carried deadly father gifted high jailed school shooting years",
    "title": "",
@@ -2813,11 +2803,21 @@
    "title": "Nasdaq futures underpinned by strong AI forecasts; focus on earnings, data",
    "source": "Reuters",
    "at": "2026-08-04T11:23:04.521575+00:00"
+  },
+  {
+   "fp": "arrest connected hold police primaries spokane states today wildfire",
+   "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+   "source": "NPR News",
+   "at": "2026-08-04T11:47:25.564554+00:00"
+  },
+  {
+   "fp": "deadly ethiopia hits landslide monastery mountain prayer service",
+   "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
+   "source": "BBC World",
+   "at": "2026-08-04T11:47:27.324449+00:00"
   }
  ],
  "titles": [
-  "attack family five killed least members missile russian same zelensky",
-  "benz citing detect door failure mercedes open recall risk vehicles",
   "carried deadly father gifted high jailed school shooting years",
   "barnes bungled chief festival fired food mass police reports response seattle shon shooting",
   "bodycam cops dead drop jayden knife michaca refused santa shot shows year",
@@ -3215,6 +3215,8 @@
   "five michigan primary races spotlight takes watch",
   "blanche drop live nomination opposition place politics senators take vote",
   "battle democrats future michigan party primary senate votes",
-  "data earnings focus forecasts futures nasdaq strong underpinned"
+  "data earnings focus forecasts futures nasdaq strong underpinned",
+  "arrest connected hold police primaries spokane states today wildfire",
+  "deadly ethiopia hits landslide monastery mountain prayer service"
  ]
 }
