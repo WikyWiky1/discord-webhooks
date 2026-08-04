@@ -60,8 +60,17 @@
    "message_id": "1533927799151394888",
    "event": "Extreme Heat Warning",
    "area": "Northwest Plateau; Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Hualapai Mountains; Northwest Deserts; Death Valley National Park; Western Mojave Desert; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin; Cadiz Basin; San Bernardino County-Upper Colorado River Valley; Owens Valley South; Owens Valley North; Esmeralda and Central Nye County; Lincoln County; Northeast Clark County; Western Clark and Southern Nye County; Las Vegas Valley; Southern Clark County; Lake Mead - NV side; Lake Mohave - NV side",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-03T20:01:26+00:00",
+   "expired_at": "2026-08-04T10:08:20+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.962abfe1ec58fa0e19c7c0164707e5238938e1b9.001.1",
+   "message_id": "1534140922982305805",
+   "event": "Extreme Heat Warning",
+   "area": "Northwest Plateau; Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Hualapai Mountains; Northwest Deserts; Death Valley National Park; Western Mojave Desert; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin; Cadiz Basin; San Bernardino County-Upper Colorado River Valley; Owens Valley South; Owens Valley North; Esmeralda and Central Nye County; Lincoln County; Northeast Clark County; Western Clark and Southern Nye County; Las Vegas Valley; Southern Clark County; Lake Mead - NV side; Lake Mohave - NV side",
+   "expired": false,
+   "posted_at": "2026-08-04T10:08:19+00:00",
    "expired_at": null
   }
  ]
