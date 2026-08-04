@@ -384,7 +384,9 @@
   "CBMikwFBVV95cUxQMGs2LXdJVGdEbHpkNGkydnlyWDBGNmtCOFg5TWdhTVA1UXZrZWR6REpLWmhfQlZTVV8xbmliU0JLZGtCUUFkTmlYV3BWSTlaQml1Y3NUbE1UTFV3VlpFNXdVRGQyNVZrOUZ3THg0T3BBRDBvdHZmVHNtd3kwNDZtSllmcVE0M1BnSmFlRW5uMkRDTjA",
   "https://nypost.com/?post_type=article&p=40169546",
   "CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA",
-  "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing"
+  "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing",
+  "https://nypost.com/?post_type=article&p=40175063",
+  "https://thehill.com/?p=6006917"
  ],
  "posts": [
   {
@@ -2684,6 +2686,18 @@
    "title": "Ukrainian drone attacks on Black Sea resort and Crimea kill 11, Russia claims",
    "source": "Guardian World",
    "at": "2026-08-03T22:55:12.928674+00:00"
+  },
+  {
+   "fp": "allan dead fight fighter last nascimento weeks",
+   "title": "UFC fighter Allan Nascimento dead at 34 \u2014 weeks after last fight",
+   "source": "New York Post",
+   "at": "2026-08-04T00:02:11.990066+00:00"
+  },
+  {
+   "fp": "advances aimed bill funding overwhelmingly preventing senate shutdown stopgap",
+   "title": "Senate overwhelmingly advances stopgap funding bill aimed at preventing shutdown",
+   "source": "The Hill",
+   "at": "2026-08-04T00:02:13.720024+00:00"
   }
  ],
  "titles": [
@@ -3069,6 +3083,8 @@
   "diarrhoea outbreak sweeping",
   "claims collect cyclosporiasis diarrhea experts lives outbreak poised ridden thousands victims",
   "breaking news today world",
-  "attacks black claims crimea drone kill resort russia ukrainian"
+  "attacks black claims crimea drone kill resort russia ukrainian",
+  "allan dead fight fighter last nascimento weeks",
+  "advances aimed bill funding overwhelmingly preventing senate shutdown stopgap"
  ]
 }
