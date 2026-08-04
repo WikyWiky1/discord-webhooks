@@ -399,7 +399,8 @@
   "CBMioAFBVV95cUxPUkdXNjVtRDJnWExmWEZEN1ZUWG10OXJUZXlma1l3SXlLelNvSEhqc0VTVWlwZHUzQUlxdUM5b3pSaU9CdUhfUUIwcThINko0MjJzbXBGV1NPa0ljU2xPUUVNVFYtOTZyZDQ3ZHZuY1g5TGZFZXhuc09UZVZZaWxocUYxZmhqLVdRUlVTOVZHNWhzQ2pkR2ptay0wNW5zUmpB",
   "https://nypost.com/?post_type=article&p=40178338",
   "https://www.theguardian.com/australia-news/2026/aug/04/sydney-hospitals-nsw-emergency-department-busy-record-winter",
-  "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo#0"
+  "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo#0",
+  "CBMiYkFVX3lxTE93cEFYWkNCem9IcGg1LXpjb0twM3d1YUZXbzlKZUJpQ2dkLUFPRFB3Zlg2cnZabGlEMHhPN1JvaUhsOEQ3bmc4Mm4tQkJzTnVmTlVDcDVFU0dZNVlUUEpmYlZ3"
  ],
  "posts": [
   {
@@ -2789,6 +2790,12 @@
    "title": "France wildfires reveal hundreds of WW2 shells in village",
    "source": "BBC World",
    "at": "2026-08-04T06:21:53.283049+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-08-04T08:35:44.607816+00:00"
   }
  ],
  "titles": [
@@ -3189,6 +3196,7 @@
   "close democrats different michigan offering primary sayed senate stevens visions",
   "arrest arson authorities connection devastating spokane suspect wildfires",
   "avoid danger departments emergency hospital life might public record sydney unless urged",
-  "france hundreds reveal shells village wildfires"
+  "france hundreds reveal shells village wildfires",
+  "edition journal print street wall"
  ]
 }
