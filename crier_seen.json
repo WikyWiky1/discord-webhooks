@@ -392,7 +392,9 @@
   "https://thehill.com/?p=6006901",
   "CBMie0FVX3lxTE9FbUhCcDNQSE1IQ3dnM055RTJNZ0N1WHYtTUswbUtjZmRTS3FwbEtKZkd5Ti1WT0JndWtUSEJJTktud19OQzRELW93em1SMFdjcnphTVBMQ1BPMzBJLTdEYmxMbnJ2bFB4NVN4ZVlKYjIyZUlFZGx3RUljSQ",
   "https://www.washingtonexaminer.com/?p=4673584",
-  "https://www.theguardian.com/us-news/2026/aug/03/palantir-second-quarter-earnings"
+  "https://www.theguardian.com/us-news/2026/aug/03/palantir-second-quarter-earnings",
+  "https://pagesix.com/?post_type=article&p=9089287",
+  "https://thehill.com/?p=6006989"
  ],
  "posts": [
   {
@@ -2740,6 +2742,18 @@
    "title": "\u2018This quarter was otherworldly\u2019: Palantir earnings surge past expectations",
    "source": "Guardian World",
    "at": "2026-08-04T02:30:28.642795+00:00"
+  },
+  {
+   "fp": "actress dead home spider",
+   "title": "\u2018Spider-Man: No Way Home\u2019 actress dead at 82",
+   "source": "New York Post",
+   "at": "2026-08-04T03:40:27.214205+00:00"
+  },
+  {
+   "fp": "center dead detention emergency following medical newark salvadoran",
+   "title": "ICE says Salvadoran man dead following 'medical emergency' at Newark detention center",
+   "source": "The Hill",
+   "at": "2026-08-04T03:40:29.012198+00:00"
   }
  ],
  "titles": [
@@ -3133,6 +3147,8 @@
   "ballot carolina debate graham jockey replace republicans senate south takeaways",
   "asia higher lead move steady stocks street wall",
   "chuck committee grassley invites jack judiciary senate smith testify",
-  "earnings expectations otherworldly palantir past quarter surge"
+  "earnings expectations otherworldly palantir past quarter surge",
+  "actress dead home spider",
+  "center dead detention emergency following medical newark salvadoran"
  ]
 }
