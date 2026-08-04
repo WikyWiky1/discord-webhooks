@@ -413,15 +413,10 @@
   "https://www.theguardian.com/us-news/2026/aug/04/michigan-senate-race-abdul-el-sayed-haley-stevens",
   "CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw",
   "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
-  "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo#1"
+  "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo#1",
+  "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing"
  ],
  "posts": [
-  {
-   "fp": "carried deadly father gifted high jailed school shooting years",
-   "title": "",
-   "source": "",
-   "at": "2026-07-30T19:14:39.570895+00:00"
-  },
   {
    "fp": "barnes bungled chief festival fired food mass police reports response seattle shon shooting",
    "title": "",
@@ -2815,10 +2810,15 @@
    "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
    "source": "BBC World",
    "at": "2026-08-04T11:47:27.324449+00:00"
+  },
+  {
+   "fp": "economics healthwashing sneaky",
+   "title": "The sneaky economics of healthwashing",
+   "source": "NPR News",
+   "at": "2026-08-04T13:05:54.833366+00:00"
   }
  ],
  "titles": [
-  "carried deadly father gifted high jailed school shooting years",
   "barnes bungled chief festival fired food mass police reports response seattle shon shooting",
   "bodycam cops dead drop jayden knife michaca refused santa shot shows year",
   "blasts denied emergency government house migrants morocco request spanish surge thousands white",
@@ -3217,6 +3217,7 @@
   "battle democrats future michigan party primary senate votes",
   "data earnings focus forecasts futures nasdaq strong underpinned",
   "arrest connected hold police primaries spokane states today wildfire",
-  "deadly ethiopia hits landslide monastery mountain prayer service"
+  "deadly ethiopia hits landslide monastery mountain prayer service",
+  "economics healthwashing sneaky"
  ]
 }
