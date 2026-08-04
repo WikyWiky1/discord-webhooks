@@ -414,21 +414,11 @@
   "CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw",
   "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
   "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo#1",
-  "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing"
+  "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
+  "https://www.theguardian.com/us-news/2026/aug/04/washington-state-arson-charge-old-trails-wildfire",
+  "https://www.washingtonexaminer.com/?p=4673109"
  ],
  "posts": [
-  {
-   "fp": "barnes bungled chief festival fired food mass police reports response seattle shon shooting",
-   "title": "",
-   "source": "",
-   "at": "2026-07-30T19:14:39.570895+00:00"
-  },
-  {
-   "fp": "bodycam cops dead drop jayden knife michaca refused santa shot shows year",
-   "title": "15-year-old Jayden Michaca refused to drop knife before he was shot dead by Santa Ana cops, new bodycam shows",
-   "source": "New York Post",
-   "at": "2026-07-30T19:14:40.400824+00:00"
-  },
   {
    "fp": "blasts denied emergency government house migrants morocco request spanish surge thousands white",
    "title": "White House blasts Spanish government as thousands of migrants surge from Morocco, emergency request denied",
@@ -2816,11 +2806,21 @@
    "title": "The sneaky economics of healthwashing",
    "source": "NPR News",
    "at": "2026-08-04T13:05:54.833366+00:00"
+  },
+  {
+   "fp": "area charged largest starting state washington wildfire",
+   "title": "Man charged in Washington state with starting largest wildfire in the area",
+   "source": "Guardian World",
+   "at": "2026-08-04T13:53:55.846114+00:00"
+  },
+  {
+   "fp": "border chaos europe kills policy proves right trump weak",
+   "title": "Trump was right: Europe\u2019s border chaos proves weak policy kills",
+   "source": "Washington Examiner",
+   "at": "2026-08-04T13:53:57.644374+00:00"
   }
  ],
  "titles": [
-  "barnes bungled chief festival fired food mass police reports response seattle shon shooting",
-  "bodycam cops dead drop jayden knife michaca refused santa shot shows year",
   "blasts denied emergency government house migrants morocco request spanish surge thousands white",
   "alive arizona case charges dead declared parents toddler",
   "alligator attack autopsy bones brittany clark extent found gruesome marks results reveal teeth",
@@ -3218,6 +3218,8 @@
   "data earnings focus forecasts futures nasdaq strong underpinned",
   "arrest connected hold police primaries spokane states today wildfire",
   "deadly ethiopia hits landslide monastery mountain prayer service",
-  "economics healthwashing sneaky"
+  "economics healthwashing sneaky",
+  "area charged largest starting state washington wildfire",
+  "border chaos europe kills policy proves right trump weak"
  ]
 }
