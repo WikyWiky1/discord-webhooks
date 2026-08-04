@@ -476,45 +476,15 @@
   "https://www.washingtonexaminer.com/?p=4675007",
   "CBMiywFBVV95cUxNRkFZQkJoRmRlajg5SzYxaU5EQVZ3U2RYbUtyZHRfcndUVmpYb3lwWm5DNmtVMFY3bFZoLVEyaVJ0b0dmRWYxZ05vSXhRaWFLVXVlVG9MSmV2Qjg4OEFTNU4xLU5ST2NOMDh5b3NOM1J4cGgzQmFIRjBEOUNlZXhaQ1JoV0VPeS1ZWW9XX1ZSUnZJQ19kNHN6cnYwWHFoN25saEltTjZNQWhlclNieEJCQ1VWUGtDRC1xcjNEUmxjMG9KYVJLaGNHU2RJaw",
   "CBMigwFBVV95cUxPZEs4cWl4bDlZR3lkOWxyQ3djLVFEMklLSnBORGtLRlhESjc2aWlhSjZEeHc1d0lsM2hsRmRSUkVGWlpKSUJpRDlaMTlMZTdrcnRaOEN4WWVVVmdFd0hWNjNVVExFTkVpRzhiVXoxaXZGZFVYMzFlM09yQmtXTEhMNHJtVQ",
-  "https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report"
+  "https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report",
+  "https://nypost.com/?post_type=article&p=40186102",
+  "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o#2",
+  "https://www.washingtonexaminer.com/?p=4675046",
+  "https://www.washingtonexaminer.com/?p=4674872",
+  "https://nypost.com/?post_type=article&p=40188520",
+  "https://www.washingtonexaminer.com/?p=4674742"
  ],
  "posts": [
-  {
-   "fp": "cabinet camp damaging david iran military next offensive previews summit trump",
-   "title": "Trump previews next damaging military offensive against Iran from Camp David cabinet summit",
-   "source": "New York Post",
-   "at": "2026-07-31T16:45:53.449273+00:00"
-  },
-  {
-   "fp": "deal gaza peace roadmap",
-   "title": "What's in the Gaza peace deal roadmap?",
-   "source": "BBC World",
-   "at": "2026-07-31T16:45:55.179103+00:00"
-  },
-  {
-   "fp": "autumn budget chancellor confirms delivered live october politics",
-   "title": "Chancellor confirms autumn budget will be delivered on 28 October \u2013 UK politics live",
-   "source": "Guardian World",
-   "at": "2026-07-31T16:45:56.938172+00:00"
-  },
-  {
-   "fp": "carolina debate host nexstar senate south",
-   "title": "Nexstar to host South Carolina Senate debate",
-   "source": "The Hill",
-   "at": "2026-07-31T16:45:58.689243+00:00"
-  },
-  {
-   "fp": "around budget healey late money october power promising sets spread",
-   "title": "Healey sets budget for late October, promising to \u2018spread money and power\u2019 around UK",
-   "source": "Guardian World",
-   "at": "2026-07-31T16:46:00.418329+00:00"
-  },
-  {
-   "fp": "apple drags slump stocks tech",
-   "title": "Apple Slump Drags on Tech Stocks",
-   "source": "WSJ",
-   "at": "2026-07-31T16:46:02.177703+00:00"
-  },
   {
    "fp": "confidentially files firm nuclear westinghouse",
    "title": "Nuclear firm Westinghouse confidentially files for US IPO",
@@ -2878,15 +2848,45 @@
    "title": "SpaceX beats expectations by posting revenue of $7.81bn in second quarter",
    "source": "Guardian World",
    "at": "2026-08-04T22:11:39.602627+00:00"
+  },
+  {
+   "fp": "daughters dead divorce fought found hard hearing hours keep safe",
+   "title": "Dad, 2 daughters found dead hours after divorce hearing \u2014 as mom says she \u2018fought so hard to try to keep them safe\u2019",
+   "source": "New York Post",
+   "at": "2026-08-04T22:30:25.247936+00:00"
+  },
+  {
+   "fp": "climbing died disaster generation guides killed legend record setting",
+   "title": "How a generation of record-setting guides died in a disaster that killed a climbing legend",
+   "source": "BBC World",
+   "at": "2026-08-04T22:30:26.949710+00:00"
+  },
+  {
+   "fp": "allegations domestic miller resign violence",
+   "title": "Max Miller says he will not resign amid domestic violence allegations",
+   "source": "Washington Examiner",
+   "at": "2026-08-04T22:30:28.584906+00:00"
+  },
+  {
+   "fp": "drones front injured july killed line russian seriously troops ukrainian zelensky",
+   "title": "Ukrainian drones seriously injured or killed more than 30,000 front-line Russian troops in July: Zelensky",
+   "source": "Washington Examiner",
+   "at": "2026-08-04T22:30:30.225167+00:00"
+  },
+  {
+   "fp": "attack because doing immigration markwayne mullin right telling truth under",
+   "title": "Markwayne Mullin is under attack because he\u2019s doing his job right \u2014 and telling the truth on immigration",
+   "source": "New York Post",
+   "at": "2026-08-04T22:30:31.885236+00:00"
+  },
+  {
+   "fp": "chipotle jalapenos outbreak prompts pull restaurants salmonella",
+   "title": "Salmonella outbreak prompts Chipotle to pull jalapenos from some restaurants",
+   "source": "Washington Examiner",
+   "at": "2026-08-04T22:30:33.480472+00:00"
   }
  ],
  "titles": [
-  "cabinet camp damaging david iran military next offensive previews summit trump",
-  "deal gaza peace roadmap",
-  "autumn budget chancellor confirms delivered live october politics",
-  "carolina debate host nexstar senate south",
-  "around budget healey late money october power promising sets spread",
-  "apple drags slump stocks tech",
   "confidentially files firm nuclear westinghouse",
   "abandoned colorado declares elected officials resign small town",
   "breaking business economic financial journal news street video wall world",
@@ -3280,6 +3280,12 @@
   "agenda america bill budget save senate threatened uncertainty",
   "businesses debut quarterly results revenue satellite spacex surge surges",
   "course crash moon musk rocket spacex",
-  "81bn beats expectations posting quarter revenue second spacex"
+  "81bn beats expectations posting quarter revenue second spacex",
+  "daughters dead divorce fought found hard hearing hours keep safe",
+  "climbing died disaster generation guides killed legend record setting",
+  "allegations domestic miller resign violence",
+  "drones front injured july killed line russian seriously troops ukrainian zelensky",
+  "attack because doing immigration markwayne mullin right telling truth under",
+  "chipotle jalapenos outbreak prompts pull restaurants salmonella"
  ]
 }
