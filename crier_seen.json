@@ -566,27 +566,12 @@
   "https://www.theguardian.com/education/2026/aug/05/cambridge-professor-jason-arday-resigns-amid-accusations-of-plagiarism",
   "CBMimwFBVV95cUxNSF9kUnh6WFVuS1NHNGppZDBfakNPY3d4djRKVWVKdm1JX3JvMnBoZl9UMmF3MldHYk9yTlZ5amtmdVdjU0doci1OLWJ4NUlaRTMyNjdEZ3ZuemlUV0xxbXlOTHFJMEl3TGM4WHRWN1R6bVA4d3Q5X1dzWnc3eVFLUjlqdWh6a0R6aXdYTm1BWl9rWkE5bVZpMk9XVQ",
   "https://www.foxnews.com/world/nuclear-experts-urge-trump-not-let-iran-steer-talks-away-from-regimes-atomic-threat",
-  "CBMiqAFBVV95cUxObzFFSmhJYUt0eUlNcVpsYWp3YmpBZU1mVVNVTVBiWTcyQzJqcWZlVEU5WWFSOVRPMTdMVGp2M2lWRm1RZVJ4akgwbXF2cHBDVUx2d3FZWWJzZG5MY1g1LVhQX0xoTFZZWGZNcE5NdmNzbFJCblA0cWJyTTg4anhsNWN6MF83QTRHY3BSVzRYN1RPRDVwYmpWUUFRZWFBZ012NlYxRW5RZVc"
+  "CBMiqAFBVV95cUxObzFFSmhJYUt0eUlNcVpsYWp3YmpBZU1mVVNVTVBiWTcyQzJqcWZlVEU5WWFSOVRPMTdMVGp2M2lWRm1RZVJ4akgwbXF2cHBDVUx2d3FZWWJzZG5MY1g1LVhQX0xoTFZZWGZNcE5NdmNzbFJCblA0cWJyTTg4anhsNWN6MF83QTRHY3BSVzRYN1RPRDVwYmpWUUFRZWFBZ012NlYxRW5RZVc",
+  "https://nypost.com/?post_type=article&p=40201987",
+  "https://nypost.com/?post_type=article&p=40202502",
+  "https://thehill.com/?p=6012228"
  ],
  "posts": [
-  {
-   "fp": "attack cannot defend general iranian israel missile pentagon report tells",
-   "title": "US General tells Pentagon he cannot defend Israel from Iranian missile attack: Report",
-   "source": "Washington Examiner",
-   "at": "2026-08-01T20:30:10.201486+00:00"
-  },
-  {
-   "fp": "angle assassination candace charlie claims footage kirk never owens releases seen shows",
-   "title": "Candace Owens releases footage she claims shows never-before-seen angle of Charlie Kirk assassination",
-   "source": "New York Post",
-   "at": "2026-08-01T20:30:12.122119+00:00"
-  },
-  {
-   "fp": "explosion killed moscow people restaurant wounded",
-   "title": "3 people killed, 15 wounded in Moscow restaurant explosion",
-   "source": "AP",
-   "at": "2026-08-01T20:30:13.860339+00:00"
-  },
   {
    "fp": "breaking bring expected heat heighten parts record risk temps wave western wildfire",
    "title": "Heat wave expected to bring record-breaking temps, heighten wildfire risk to parts of Western US",
@@ -2968,12 +2953,27 @@
    "title": "Israel breaks ceasefire to strike Lebanon during talks",
    "source": "Telegraph",
    "at": "2026-08-05T20:46:01.284701+00:00"
+  },
+  {
+   "fp": "cops dead found home month",
+   "title": "6-month-old boy found dead in NYC home: cops",
+   "source": "New York Post",
+   "at": "2026-08-05T22:07:10.028355+00:00"
+  },
+  {
+   "fp": "brown champion dead football georgia national norris tight",
+   "title": "Norris Brown, Georgia football national champion tight end, dead at 65",
+   "source": "New York Post",
+   "at": "2026-08-05T22:07:11.826054+00:00"
+  },
+  {
+   "fp": "about block business details emergency empire files financial getting motion trump",
+   "title": "Trump files emergency motion to block BBC from getting financial details about business empire",
+   "source": "The Hill",
+   "at": "2026-08-05T22:07:13.583941+00:00"
   }
  ],
  "titles": [
-  "attack cannot defend general iranian israel missile pentagon report tells",
-  "angle assassination candace charlie claims footage kirk never owens releases seen shows",
-  "explosion killed moscow people restaurant wounded",
   "breaking bring expected heat heighten parts record risk temps wave western wildfire",
   "arson busted california country homeless madman police probe scourge sparking wildfire wine",
   "crash lines nazca peru plane thirteen tourist",
@@ -3370,6 +3370,9 @@
   "accusations arday cambridge jason plagiarism professor resigns",
   "arday book claims false jason resigns reveals telegraph",
   "atomic away experts iran nuclear regime steer talks threat trump urge",
-  "breaks ceasefire israel lebanon strike talks"
+  "breaks ceasefire israel lebanon strike talks",
+  "cops dead found home month",
+  "brown champion dead football georgia national norris tight",
+  "about block business details emergency empire files financial getting motion trump"
  ]
 }
