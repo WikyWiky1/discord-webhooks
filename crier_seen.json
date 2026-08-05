@@ -552,45 +552,15 @@
   "https://nypost.com/?post_type=article&p=40202116",
   "https://nypost.com/?post_type=article&p=40203910",
   "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo#0",
-  "https://thehill.com/?p=6011419"
+  "https://thehill.com/?p=6011419",
+  "CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F",
+  "https://thehill.com/?p=6011847",
+  "CBMisgFBVV95cUxQeUJ1NzFZNjZQZFFHWWcyajkxeEJtbjJGOWtmWm9uX1B5Z2ZFRHZ0b2Z0bnhqSjBsUm1fZTBPTTZoZjhCU3JYV3N5N2xqeUNJbWc2TE9jc0lkRjl0T0FUMFRtamhZQThUdFY1RDdJTklqYTl2ZXhRVnpTZnVzY3RZRUcwdDdKSTRBWlFubVgwUkE2eVdlY1NxRjhzWGJiQjNsZHZQa3dhMjZUYjRkQldDUml3",
+  "https://www.washingtonexaminer.com/?p=4676367",
+  "https://thehill.com/?p=6011877",
+  "https://www.theguardian.com/media/2026/aug/05/trump-defamation-lawsuit-murdoch-dismissal"
  ],
  "posts": [
-  {
-   "fp": "blazes crisis drive eases europe greece western wildfire winds worsens",
-   "title": "Wildfire crisis eases in western Europe but worsens in Greece as winds drive new blazes",
-   "source": "AP",
-   "at": "2026-08-01T16:05:30.211438+00:00"
-  },
-  {
-   "fp": "collapsed ends japan mall operation quake rescue strong",
-   "title": "Japan ends rescue operation at a mall that collapsed after a strong quake",
-   "source": "AP",
-   "at": "2026-08-01T16:05:32.008376+00:00"
-  },
-  {
-   "fp": "anniversary attack hell neighbors nightmare shark tease victims wonderful",
-   "title": "Shark attack victims\u2019 \u2018wonderful\u2019 neighbors tease him after nightmare anniversary from Hell",
-   "source": "New York Post",
-   "at": "2026-08-01T17:17:14.601169+00:00"
-  },
-  {
-   "fp": "beaches california deadly rescue summer swells turning zones",
-   "title": "Deadly summer swells are turning California beaches into rescue zones",
-   "source": "New York Post",
-   "at": "2026-08-01T17:17:16.576991+00:00"
-  },
-  {
-   "fp": "associated breaking latest news press today",
-   "title": "Associated Press News: Breaking News | Latest News Today",
-   "source": "AP",
-   "at": "2026-08-01T17:17:18.333898+00:00"
-  },
-  {
-   "fp": "congo current ebola ever outbreak worst",
-   "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-   "source": "BBC World",
-   "at": "2026-08-01T17:17:20.149365+00:00"
-  },
   {
    "fp": "attack california cause death dragged horrifying revealed shark triathlete",
    "title": "Horrifying cause of death revealed for California triathlete dragged out to sea in shark attack",
@@ -2954,15 +2924,45 @@
    "title": "Democratic Women's Caucus leaders call on Max Miller to resign",
    "source": "The Hill",
    "at": "2026-08-05T19:27:14.502564+00:00"
+  },
+  {
+   "fp": "2026 governor house michigan primary results senate",
+   "title": "Michigan Primary Results 2026: Senate, House and Governor",
+   "source": "AP",
+   "at": "2026-08-05T19:29:32.248135+00:00"
+  },
+  {
+   "fp": "confirms erica leader schwartz senate",
+   "title": "Senate confirms Erica Schwartz as new CDC leader",
+   "source": "The Hill",
+   "at": "2026-08-05T19:29:33.924129+00:00"
+  },
+  {
+   "fp": "cartel charges cjng five leaders mexico unveils",
+   "title": "US unveils charges against five leaders of Mexico's CJNG cartel",
+   "source": "Reuters",
+   "at": "2026-08-05T19:29:35.604236+00:00"
+  },
+  {
+   "fp": "advantage democrats fundraising hope kansas race ratings senate shift",
+   "title": "Democrats see hope in Kansas Senate race with ratings shift and fundraising advantage",
+   "source": "Washington Examiner",
+   "at": "2026-08-05T19:29:37.274710+00:00"
+  },
+  {
+   "fp": "accusing congress democrats lying prosecution refer wright",
+   "title": "Democrats refer Wright to DOJ for prosecution, accusing him of lying to Congress",
+   "source": "The Hill",
+   "at": "2026-08-05T19:29:38.950723+00:00"
+  },
+  {
+   "fp": "again defamation dismissed journal judge lawsuit signals street trump wall",
+   "title": "Judge signals Trump\u2019s defamation lawsuit against Wall Street Journal may be dismissed again",
+   "source": "Guardian World",
+   "at": "2026-08-05T19:29:40.619100+00:00"
   }
  ],
  "titles": [
-  "blazes crisis drive eases europe greece western wildfire winds worsens",
-  "collapsed ends japan mall operation quake rescue strong",
-  "anniversary attack hell neighbors nightmare shark tease victims wonderful",
-  "beaches california deadly rescue summer swells turning zones",
-  "associated breaking latest news press today",
-  "congo current ebola ever outbreak worst",
   "attack california cause death dragged horrifying revealed shark triathlete",
   "barrier ceuta deadly floating installs migrant rush spain",
   "anthony blasts diary explosive fauci minaj mock nicki senate testimony video",
@@ -3356,6 +3356,12 @@
   "injuring kills lightning match player soccer strike thailand",
   "critical dies head idaho remains shooting shot victim wife",
   "costing deadly interceptor kyiv lives shortage strike ukraine warns",
-  "call caucus democratic leaders miller resign women"
+  "call caucus democratic leaders miller resign women",
+  "2026 governor house michigan primary results senate",
+  "confirms erica leader schwartz senate",
+  "cartel charges cjng five leaders mexico unveils",
+  "advantage democrats fundraising hope kansas race ratings senate shift",
+  "accusing congress democrats lying prosecution refer wright",
+  "again defamation dismissed journal judge lawsuit signals street trump wall"
  ]
 }
