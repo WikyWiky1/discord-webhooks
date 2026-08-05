@@ -492,33 +492,13 @@
   "https://thehill.com/?p=5983451",
   "https://nypost.com/?post_type=article&p=40188583",
   "https://www.washingtonexaminer.com/?p=4673926",
-  "https://www.washingtonexaminer.com/?p=4673417"
+  "https://www.washingtonexaminer.com/?p=4673417",
+  "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
+  "https://www.bbc.co.uk/news/articles/c330pxyvzzyo#0",
+  "https://www.theguardian.com/world/2026/aug/05/kashmir-deadly-cloudbursts-devastate-mountain-communities-erratic-weather-climate-change",
+  "https://nypost.com/?post_type=article&p=40193631"
  ],
  "posts": [
-  {
-   "fp": "benz china legislation mercedes opinion",
-   "title": "Opinion | Our Legislation Is Against China, Not Mercedes Benz",
-   "source": "WSJ",
-   "at": "2026-07-31T19:24:19.692108+00:00"
-  },
-  {
-   "fp": "blockers children clears clinical court giving high puberty trial",
-   "title": "High court clears way for clinical trial giving puberty blockers to children",
-   "source": "Guardian World",
-   "at": "2026-07-31T19:24:21.358767+00:00"
-  },
-  {
-   "fp": "defied indiana leader leaving post redistricting republican senate trump",
-   "title": "Republican Indiana Senate leader who defied Trump on redistricting leaving post",
-   "source": "AP",
-   "at": "2026-07-31T19:24:23.031959+00:00"
-  },
-  {
-   "fp": "changes discovery drop hurt roblox spending worst",
-   "title": "Roblox set for worst one-day drop as discovery changes hurt in-app spending",
-   "source": "Reuters",
-   "at": "2026-07-31T19:24:24.678160+00:00"
-  },
   {
    "fp": "causing damage italy magnitude naples near outages quake strikes",
    "title": "Magnitude 4.7 quake strikes near Italy's Naples, causing outages and damage",
@@ -2894,13 +2874,33 @@
    "title": "Mike Rogers advances to high-stakes Michigan Senate showdown",
    "source": "Washington Examiner",
    "at": "2026-08-05T02:29:57.773458+00:00"
+  },
+  {
+   "fp": "advocates australia bowen fantasy funding improve leeser live living naplan news nuclear results world",
+   "title": "Australia news live: Bowen says nuclear advocates living in \u2018fantasy world\u2019; Leeser says funding won\u2019t improve Naplan results",
+   "source": "Guardian World",
+   "at": "2026-08-05T04:31:29.720931+00:00"
+  },
+  {
+   "fp": "ballistic injures kills kyiv missile officials others russian strike",
+   "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+   "source": "BBC World",
+   "at": "2026-08-05T04:31:31.381648+00:00"
+  },
+  {
+   "fp": "cloudbursts communities deadly devastate find just kashmir mountain want",
+   "title": "\u2018I just want to find them\u2019: deadly cloudbursts devastate Kashmir\u2019s mountain communities",
+   "source": "Guardian World",
+   "at": "2026-08-05T04:31:32.990175+00:00"
+  },
+  {
+   "fp": "dead dory funk legend wrestling",
+   "title": "Pro wrestling legend Dory Funk Jr. dead at 85",
+   "source": "New York Post",
+   "at": "2026-08-05T04:31:34.636674+00:00"
   }
  ],
  "titles": [
-  "benz china legislation mercedes opinion",
-  "blockers children clears clinical court giving high puberty trial",
-  "defied indiana leader leaving post redistricting republican senate trump",
-  "changes discovery drop hurt roblox spending worst",
   "causing damage italy magnitude naples near outages quake strikes",
   "admin blasted deadly deaf just left legionnaire mamdani outbreak tone victory",
   "borne flea hits illness issued neighborhood urgent vile vomiting warning",
@@ -3296,6 +3296,10 @@
   "house michigan moss primary stevens succeed",
   "democrats fractured michigan mike predicts race rogers senate",
   "benson democratic jocelyn michigan primary replace whitmer wins",
-  "advances high michigan mike rogers senate showdown stakes"
+  "advances high michigan mike rogers senate showdown stakes",
+  "advocates australia bowen fantasy funding improve leeser live living naplan news nuclear results world",
+  "ballistic injures kills kyiv missile officials others russian strike",
+  "cloudbursts communities deadly devastate find just kashmir mountain want",
+  "dead dory funk legend wrestling"
  ]
 }
