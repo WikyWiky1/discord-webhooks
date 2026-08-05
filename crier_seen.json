@@ -520,15 +520,10 @@
   "CBMiuAFBVV95cUxPaXJoY204ZmVSTl9SS3ZLS2luVnFtTmh1REZPZElkbmVxR0tvcjIycnFVYlA4UDE2UE55ZnpPbjhvQnZzTjBMd1JzRnhmRy1KdHBfU2VUaWc4MW5iLTBOTjd2UndhNDVzWnJObHppQUVkMmJ0eDVyTmMyRVh2dXplSUdCeUZXbGVWVDRFbmhIQ1RJMG1jWWsybUNKUE5obk5PMHRNQWR4STJtS0JUXzdMLWYzcFNRNlhl",
   "https://news.sky.com/story/rescued-british-woman-becomes-14th-to-die-after-los-gallardos-wildfires-in-spain-13570025",
   "https://thehill.com/?p=6009830",
-  "https://nypost.com/?post_type=article&p=40168282"
+  "https://nypost.com/?post_type=article&p=40168282",
+  "https://www.bbc.co.uk/news/articles/c62q0xerzrno#0"
  ],
  "posts": [
-  {
-   "fp": "addresses bill boozman chairman cuts draft farm senate snap unveils updated",
-   "title": "Senate Ag Chairman Boozman unveils updated farm bill draft that addresses SNAP cuts",
-   "source": "Washington Examiner",
-   "at": "2026-08-01T05:54:42.245859+00:00"
-  },
   {
    "fp": "cops dispute employee gunman hunt pennsylvania shot walmart",
    "title": "Pennsylvania cops hunt gunman after Walmart employee shot during dispute",
@@ -2922,10 +2917,15 @@
    "title": "Why Mamdani\u2019s team botched the deadly Legionnaires\u2019 outbreak",
    "source": "New York Post",
    "at": "2026-08-05T12:18:46.180059+00:00"
+  },
+  {
+   "fp": "hitting learn moon rocket scientists spacex stray",
+   "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+   "source": "BBC Science",
+   "at": "2026-08-05T12:58:31.189508+00:00"
   }
  ],
  "titles": [
-  "addresses bill boozman chairman cuts draft farm senate snap unveils updated",
   "cops dispute employee gunman hunt pennsylvania shot walmart",
   "australian bird birds deadly escalates event mass mortality native rapidly suspected virus",
   "about allegedly carolina drove girlfriend highway kills murder north pact suicide texted",
@@ -3324,6 +3324,7 @@
   "badly director drone explosion factory injured russian",
   "14th becomes british gallardos rescued spain wildfires woman",
   "andy breaking burnham mold transatlantic",
-  "botched deadly legionnaires mamdani outbreak team"
+  "botched deadly legionnaires mamdani outbreak team",
+  "hitting learn moon rocket scientists spacex stray"
  ]
 }
