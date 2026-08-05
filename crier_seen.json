@@ -503,21 +503,11 @@
   "CBMijwFBVV95cUxOVjZYdkY1UEVzOUFUX1lSTFJRM18yeGlPcnYzYk4zZTBZZEV6eVJ0Z25oWUN4UlRQR0lWUjBmTmxvQ2I2Qld6LTBsWmEyVElFaWU4QzhJbFBJeEI4WjMyZG02UlBUcThCNzhUeDhBZktFbG5SZWJOLXNYNVF6Y0NMQVlkdWEwcXFGSU10elJ2NA",
   "CBMiuwFBVV95cUxOc2owYVhEekZ0SDNyam1UekExOU5pdGdoRTNhRjU3QkRCUEx2QWloMFdCbVZNbk1Cb1lha2daWGk2WEN1MU5FbHRCeE8wb2tycWdxNHV4dG5TV0gxMXZhWmpWVy1pYnJNLTNUTkkwUDgxUndMYmc5UEJZVG15b3BNM3NvbDNoRzRBLWg3UjJ6ZHZ5b2hpellGd3J0U2dIX3pkd2o3WGhJZWJNT005b0dELXJTZUpLTmx4cC1n",
   "https://nypost.com/?post_type=article&p=40191259",
-  "CBMirgFBVV95cUxOR0p3ci13M2E4ZHdienF4dUc4Ni1rZDlJZUhrTVJMNlA1NmNaOTNqMUpXaG16cGlCekJCdlBReFgtQmR4ZlJMdThKSTZIcGZwR0pXS0QzcmV5eGE5MG0tRmFWNEt2cnpzaW82YU81akZRR3pXZHF6amg2c1RzUEZKWGNDRWNKdS1lOGRYNW9wdkpZVTltVW1IZkhtSkpqU21sY2pKMVNkMU9XY0ZVbVE"
+  "CBMirgFBVV95cUxOR0p3ci13M2E4ZHdienF4dUc4Ni1rZDlJZUhrTVJMNlA1NmNaOTNqMUpXaG16cGlCekJCdlBReFgtQmR4ZlJMdThKSTZIcGZwR0pXS0QzcmV5eGE5MG0tRmFWNEt2cnpzaW82YU81akZRR3pXZHF6amg2c1RzUEZKWGNDRWNKdS1lOGRYNW9wdkpZVTltVW1IZkhtSkpqU21sY2pKMVNkMU9XY0ZVbVE",
+  "https://thehill.com/?p=6009490",
+  "https://nypost.com/?post_type=article&p=40195542"
  ],
  "posts": [
-  {
-   "fp": "chinese chip rattles stocks",
-   "title": "Chinese IPO Rattles Chip Stocks",
-   "source": "WSJ",
-   "at": "2026-07-31T22:05:38.732793+00:00"
-  },
-  {
-   "fp": "denied illinois killed massey medical officer prison release sonya",
-   "title": "Illinois officer who killed Sonya Massey denied medical release from prison",
-   "source": "Guardian World",
-   "at": "2026-07-31T22:39:11.672398+00:00"
-  },
   {
    "fp": "attack fresh iran orders trump",
    "title": "Trump Orders Fresh Attack on Iran",
@@ -2905,11 +2895,21 @@
    "title": "Russian missile and drone barrage in Ukrainian capital region kills at least 15",
    "source": "AP",
    "at": "2026-08-05T07:20:31.136392+00:00"
+  },
+  {
+   "fp": "call close democratic michigan primary senate takeaways",
+   "title": "Michigan Senate Democratic primary too close to call: 5 takeaways",
+   "source": "The Hill",
+   "at": "2026-08-05T08:35:25.537112+00:00"
+  },
+  {
+   "fp": "battle biter deliver finish michigan nail primary sayed senate stevens voters",
+   "title": "Michigan primary voters deliver nail-biter finish in El-Sayed vs. Stevens Senate battle",
+   "source": "New York Post",
+   "at": "2026-08-05T08:35:27.224864+00:00"
   }
  ],
  "titles": [
-  "chinese chip rattles stocks",
-  "denied illinois killed massey medical officer prison release sonya",
   "attack fresh iran orders trump",
   "american escapes europe wildfires",
   "anti dead defends even fund settlement trump weaponization",
@@ -3307,6 +3307,8 @@
   "democratic leftward michigan party primary puts senate shift test",
   "appetite expiry investor lockup next offer shares spacex test",
   "backed bernie democratic district lawrence michigan primary sanders swing william wins",
-  "barrage capital drone kills least missile region russian ukrainian"
+  "barrage capital drone kills least missile region russian ukrainian",
+  "call close democratic michigan primary senate takeaways",
+  "battle biter deliver finish michigan nail primary sayed senate stevens voters"
  ]
 }
