@@ -546,45 +546,15 @@
   "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates",
   "https://nypost.com/?post_type=article&p=40202944",
   "https://www.washingtonexaminer.com/?p=4675925",
-  "https://www.theguardian.com/world/2026/aug/05/suspect-washington-state-wildfire"
+  "https://www.theguardian.com/world/2026/aug/05/suspect-washington-state-wildfire",
+  "https://nypost.com/?post_type=article&p=40202870",
+  "https://nypost.com/?post_type=article&p=40201304",
+  "https://nypost.com/?post_type=article&p=40202116",
+  "https://nypost.com/?post_type=article&p=40203910",
+  "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo#0",
+  "https://thehill.com/?p=6011419"
  ],
  "posts": [
-  {
-   "fp": "bloodbath budget city cutting jobs public safety shortfall socal",
-   "title": "SoCal city cutting public safety jobs in bloodbath budget shortfall",
-   "source": "New York Post",
-   "at": "2026-08-01T16:00:19.230918+00:00"
-  },
-  {
-   "fp": "kevin mission monetary restraint reviving warsh",
-   "title": "Kevin Warsh\u2019s mission: reviving the era of monetary restraint",
-   "source": "The Hill",
-   "at": "2026-08-01T16:00:21.039505+00:00"
-  },
-  {
-   "fp": "committee fund nomination push reconsider senate slush trump vows",
-   "title": "Trump vows to push $1.8bn slush fund as Senate committee set to reconsider AG nomination",
-   "source": "Guardian World",
-   "at": "2026-08-01T16:00:22.865001+00:00"
-  },
-  {
-   "fp": "anti blanche fight fund pressure revival senate trump vows weaponization",
-   "title": "Trump ups pressure on Senate GOP in Blanche fight, vows 'anti-weaponization' fund revival",
-   "source": "The Hill",
-   "at": "2026-08-01T16:00:24.634161+00:00"
-  },
-  {
-   "fp": "dead detail family left michigan murder revealed shocking suicide timeline",
-   "title": "Shocking new detail revealed in timeline of Michigan murder-suicide that left family of 8 dead",
-   "source": "New York Post",
-   "at": "2026-08-01T16:05:26.884588+00:00"
-  },
-  {
-   "fp": "avalanche climber dead nirmal noted officials pakistan purja",
-   "title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials",
-   "source": "Reuters",
-   "at": "2026-08-01T16:05:28.531386+00:00"
-  },
   {
    "fp": "blazes crisis drive eases europe greece western wildfire winds worsens",
    "title": "Wildfire crisis eases in western Europe but worsens in Greece as winds drive new blazes",
@@ -2948,15 +2918,45 @@
    "title": "Suspect in Washington state wildfire was questioned about blazes last year",
    "source": "Guardian World",
    "at": "2026-08-05T17:57:16.912316+00:00"
+  },
+  {
+   "fp": "clancy diary inner kids killed lindsay reveals torment want",
+   "title": "Lindsay Clancy\u2019s diary reveals her inner torment before she killed 3 kids: \u2018I want to die\u2019",
+   "source": "New York Post",
+   "at": "2026-08-05T19:27:05.974375+00:00"
+  },
+  {
+   "fp": "700m california casino collapses days invite just leaving native only project seven table tribe",
+   "title": "California native tribe\u2019s invite-only casino project collapses after just seven days \u2014 leaving $700M on the table",
+   "source": "New York Post",
+   "at": "2026-08-05T19:27:07.705047+00:00"
+  },
+  {
+   "fp": "injuring kills lightning match player soccer strike thailand",
+   "title": "Lightning strike kills soccer player, injuring 12 during match in Thailand",
+   "source": "New York Post",
+   "at": "2026-08-05T19:27:09.357905+00:00"
+  },
+  {
+   "fp": "critical dies head idaho remains shooting shot victim wife",
+   "title": "3rd Idaho In-N-Out shooting victim dies \u2014 as his wife remains critical after being shot in head",
+   "source": "New York Post",
+   "at": "2026-08-05T19:27:11.024687+00:00"
+  },
+  {
+   "fp": "costing deadly interceptor kyiv lives shortage strike ukraine warns",
+   "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+   "source": "BBC World",
+   "at": "2026-08-05T19:27:12.699653+00:00"
+  },
+  {
+   "fp": "call caucus democratic leaders miller resign women",
+   "title": "Democratic Women's Caucus leaders call on Max Miller to resign",
+   "source": "The Hill",
+   "at": "2026-08-05T19:27:14.502564+00:00"
   }
  ],
  "titles": [
-  "bloodbath budget city cutting jobs public safety shortfall socal",
-  "kevin mission monetary restraint reviving warsh",
-  "committee fund nomination push reconsider senate slush trump vows",
-  "anti blanche fight fund pressure revival senate trump vows weaponization",
-  "dead detail family left michigan murder revealed shocking suicide timeline",
-  "avalanche climber dead nirmal noted officials pakistan purja",
   "blazes crisis drive eases europe greece western wildfire winds worsens",
   "collapsed ends japan mall operation quake rescue strong",
   "anniversary attack hell neighbors nightmare shark tease victims wonderful",
@@ -3350,6 +3350,12 @@
   "abdul boost contentious democratic live michigan politics primary progressives sayed seat senate wins",
   "carolina dead home leaves mass multiple north people reports shooting",
   "cases cyclosporiasis history largest outbreak reports suspected",
-  "about blazes last questioned state suspect washington wildfire year"
+  "about blazes last questioned state suspect washington wildfire year",
+  "clancy diary inner kids killed lindsay reveals torment want",
+  "700m california casino collapses days invite just leaving native only project seven table tribe",
+  "injuring kills lightning match player soccer strike thailand",
+  "critical dies head idaho remains shooting shot victim wife",
+  "costing deadly interceptor kyiv lives shortage strike ukraine warns",
+  "call caucus democratic leaders miller resign women"
  ]
 }
