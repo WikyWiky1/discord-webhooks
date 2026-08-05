@@ -543,27 +543,12 @@
   "https://www.washingtonexaminer.com/?p=4675659",
   "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo#0",
   "https://nypost.com/?post_type=article&p=40196145",
-  "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates"
+  "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates",
+  "https://nypost.com/?post_type=article&p=40202944",
+  "https://www.washingtonexaminer.com/?p=4675925",
+  "https://www.theguardian.com/world/2026/aug/05/suspect-washington-state-wildfire"
  ],
  "posts": [
-  {
-   "fp": "avalanche confirmed dead mountaineer nirmal pakistan purja",
-   "title": "Top mountaineer Nirmal Purja among 11 confirmed dead after avalanche in Pakistan",
-   "source": "Guardian World",
-   "at": "2026-08-01T13:57:33.017099+00:00"
-  },
-  {
-   "fp": "between ceuta containment fence frontier installing killed massive morocco rush spain",
-   "title": "Spain installing containment fence between Morocco and Ceuta after massive frontier rush killed 67",
-   "source": "New York Post",
-   "at": "2026-08-01T13:57:34.721938+00:00"
-  },
-  {
-   "fp": "destroy gaza israeli kill medicine storage strikes warehouses",
-   "title": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses",
-   "source": "Reuters",
-   "at": "2026-08-01T15:00:03.123343+00:00"
-  },
   {
    "fp": "bloodbath budget city cutting jobs public safety shortfall socal",
    "title": "SoCal city cutting public safety jobs in bloodbath budget shortfall",
@@ -2945,12 +2930,27 @@
    "title": "Abdul El-Sayed wins contentious Democratic primary for Michigan US Senate seat in boost for progressives \u2013 US politics live",
    "source": "Guardian World",
    "at": "2026-08-05T16:42:24.317133+00:00"
+  },
+  {
+   "fp": "carolina dead home leaves mass multiple north people reports shooting",
+   "title": "Mass shooting at North Carolina home leaves multiple people dead: reports",
+   "source": "New York Post",
+   "at": "2026-08-05T17:57:13.344284+00:00"
+  },
+  {
+   "fp": "cases cyclosporiasis history largest outbreak reports suspected",
+   "title": "CDC reports over 20,000 suspected cyclosporiasis cases in largest outbreak in US history",
+   "source": "Washington Examiner",
+   "at": "2026-08-05T17:57:15.136050+00:00"
+  },
+  {
+   "fp": "about blazes last questioned state suspect washington wildfire year",
+   "title": "Suspect in Washington state wildfire was questioned about blazes last year",
+   "source": "Guardian World",
+   "at": "2026-08-05T17:57:16.912316+00:00"
   }
  ],
  "titles": [
-  "avalanche confirmed dead mountaineer nirmal pakistan purja",
-  "between ceuta containment fence frontier installing killed massive morocco rush spain",
-  "destroy gaza israeli kill medicine storage strikes warehouses",
   "bloodbath budget city cutting jobs public safety shortfall socal",
   "kevin mission monetary restraint reviving warsh",
   "committee fund nomination push reconsider senate slush trump vows",
@@ -3347,6 +3347,9 @@
   "calling campaign dangerously michigan radical republicans sayed senate victory",
   "democratic left michigan outsider political primary senate wing wins",
   "august collaboration dates dodgers force kobe nike protro release unveils",
-  "abdul boost contentious democratic live michigan politics primary progressives sayed seat senate wins"
+  "abdul boost contentious democratic live michigan politics primary progressives sayed seat senate wins",
+  "carolina dead home leaves mass multiple north people reports shooting",
+  "cases cyclosporiasis history largest outbreak reports suspected",
+  "about blazes last questioned state suspect washington wildfire year"
  ]
 }
