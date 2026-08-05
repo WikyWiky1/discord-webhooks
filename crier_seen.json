@@ -505,33 +505,13 @@
   "https://nypost.com/?post_type=article&p=40191259",
   "CBMirgFBVV95cUxOR0p3ci13M2E4ZHdienF4dUc4Ni1rZDlJZUhrTVJMNlA1NmNaOTNqMUpXaG16cGlCekJCdlBReFgtQmR4ZlJMdThKSTZIcGZwR0pXS0QzcmV5eGE5MG0tRmFWNEt2cnpzaW82YU81akZRR3pXZHF6amg2c1RzUEZKWGNDRWNKdS1lOGRYNW9wdkpZVTltVW1IZkhtSkpqU21sY2pKMVNkMU9XY0ZVbVE",
   "https://thehill.com/?p=6009490",
-  "https://nypost.com/?post_type=article&p=40195542"
+  "https://nypost.com/?post_type=article&p=40195542",
+  "https://www.washingtonexaminer.com/?p=4673967",
+  "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
+  "https://nypost.com/?post_type=article&p=40187025",
+  "CBMipwFBVV95cUxQZnZ4UlZMbnBJV21TQmJ1RUhMaDF4aDBodDVNdG9UWWdRLUxGOVR2enA1Q1NhNU5IVDdBbDZwWnBjaEg0cDQ5c1lYX0FlWUlzcFM5VGE0dE56V2FwaWYzUkJyM3VrUHdBTy1XZTBjQmFDcVZhRWtKYnVNOEt4MHQ2S1pzSDJNZnpVRUN3OXZVczFpYTdMTXZrZmE1Y1ZYRHozeTNKdU54TQ"
  ],
  "posts": [
-  {
-   "fp": "attack fresh iran orders trump",
-   "title": "Trump Orders Fresh Attack on Iran",
-   "source": "WSJ",
-   "at": "2026-07-31T22:39:13.357074+00:00"
-  },
-  {
-   "fp": "american escapes europe wildfires",
-   "title": "An American Mom Escapes From Europe\u2019s Wildfires",
-   "source": "WSJ",
-   "at": "2026-07-31T23:39:29.933475+00:00"
-  },
-  {
-   "fp": "anti dead defends even fund settlement trump weaponization",
-   "title": "Trump says anti-weaponization fund in IRS settlement is \u2018dead\u2019 even as he defends it",
-   "source": "AP",
-   "at": "2026-07-31T23:39:31.681650+00:00"
-  },
-  {
-   "fp": "allegedly bieniemy elijah evaluation getting health mental shooting",
-   "title": "Elijah Bieniemy getting mental health evaluation after allegedly shooting mom",
-   "source": "New York Post",
-   "at": "2026-08-01T01:12:14.347942+00:00"
-  },
   {
    "fp": "600m amazon customers received refunds return tariff trump",
    "title": "Amazon received $600M in Trump tariff refunds, will return some to customers",
@@ -2907,13 +2887,33 @@
    "title": "Michigan primary voters deliver nail-biter finish in El-Sayed vs. Stevens Senate battle",
    "source": "New York Post",
    "at": "2026-08-05T08:35:27.224864+00:00"
+  },
+  {
+   "fp": "beyond looking mountain nuclear storing trump waste yucca",
+   "title": "Why Trump is now looking beyond Yucca Mountain for storing nuclear waste",
+   "source": "Washington Examiner",
+   "at": "2026-08-05T10:13:34.722974+00:00"
+  },
+  {
+   "fp": "anti attack deadly defences europe kyiv lack live missile rails russian zelenskyy",
+   "title": "Zelenskyy rails at lack of anti-missile defences amid deadly Russian attack on Kyiv \u2013 Europe live",
+   "source": "Guardian World",
+   "at": "2026-08-05T10:13:36.557170+00:00"
+  },
+  {
+   "fp": "alarm bells communist coup democrats mock real trump",
+   "title": "Democrats mock Trump\u2019s alarm bells \u2014 but the DSA\u2019s communist coup is real",
+   "source": "New York Post",
+   "at": "2026-08-05T10:13:38.309026+00:00"
+  },
+  {
+   "fp": "fails intercept kill missiles russian strikes ukraine",
+   "title": "Ukraine fails to intercept any Russian missiles as strikes kill 17",
+   "source": "Telegraph",
+   "at": "2026-08-05T10:13:40.033898+00:00"
   }
  ],
  "titles": [
-  "attack fresh iran orders trump",
-  "american escapes europe wildfires",
-  "anti dead defends even fund settlement trump weaponization",
-  "allegedly bieniemy elijah evaluation getting health mental shooting",
   "600m amazon customers received refunds return tariff trump",
   "backed establishment lead michigan race sayed senate stevens widens",
   "election labour manchester mayoral slumps turnout voter wins",
@@ -3309,6 +3309,10 @@
   "backed bernie democratic district lawrence michigan primary sanders swing william wins",
   "barrage capital drone kills least missile region russian ukrainian",
   "call close democratic michigan primary senate takeaways",
-  "battle biter deliver finish michigan nail primary sayed senate stevens voters"
+  "battle biter deliver finish michigan nail primary sayed senate stevens voters",
+  "beyond looking mountain nuclear storing trump waste yucca",
+  "anti attack deadly defences europe kyiv lack live missile rails russian zelenskyy",
+  "alarm bells communist coup democrats mock real trump",
+  "fails intercept kill missiles russian strikes ukraine"
  ]
 }
