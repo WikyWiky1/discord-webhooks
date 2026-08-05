@@ -532,39 +532,14 @@
   "https://www.washingtonexaminer.com/?p=4675528",
   "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
   "CBMiywFBVV95cUxPcGxBblNhZGlrOFlHTS1yYWJ6XzdFMnNGLXF0ZkN5QlU4RkF0d2w4bmt5cnVfbF9raFZlajNHU0U1QXN4OVUwd0tuWndsM3diZE5KQ1ZpZFJpMnFmQ0tfeHFzUnpXRjlGelFxNzlMV1pDbllxMEhXVWl0VGNEYlNoeFRqdGZQNVBodFBmRXZHRDQ4M0FKN2VPQU9jbjM4aGhCTUR0MWtqNS02dXVVWE5WZ0dZNGt2N2dCTm9lLXZCdy1iY3BqYTdzWW5ocw",
-  "CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn"
+  "CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn",
+  "CBMinwFBVV95cUxPbzFHMkNTdFFlVFNvb1ByV3k4d0NxdFBTVHYxVEFTVnI0ZFVJVFlPRGUxTUs2eURKcm9Tai10cVZrMXlDRGRPNENRT0xDc2lCOE9CSHpsVDQtY09wc0RfN3kyOUpYTklHSGZNSzVwaXRTM01OUFVFZHhwMENQNXVsNV9mWi1oV3RSLTF2cDNYRTA3STVwc0ZEQ19wZXZ0cm8",
+  "https://nypost.com/?post_type=article&p=40199748",
+  "https://thehill.com/?p=6011003",
+  "https://www.theguardian.com/us-news/2026/aug/04/cyclosporiasis-outbreak-15-states-cdc",
+  "https://thehill.com/?p=6010558"
  ],
  "posts": [
-  {
-   "fp": "calls ceuta crisis meeting responses selfish spanish urgent",
-   "title": "Spanish PM calls for urgent EU meeting after \u2018selfish\u2019 responses to Ceuta crisis",
-   "source": "Guardian World",
-   "at": "2026-08-01T11:04:02.811689+00:00"
-  },
-  {
-   "fp": "earthquake hits injured naples near scores seismic swarm",
-   "title": "Scores injured as earthquake hits near Naples in seismic swarm",
-   "source": "Guardian World",
-   "at": "2026-08-01T11:04:04.582583+00:00"
-  },
-  {
-   "fp": "down hungary nuclear paks plant powered weekend",
-   "title": "Hungary's Paks nuclear plant could be powered down this weekend, PM says",
-   "source": "Reuters",
-   "at": "2026-08-01T11:04:06.477235+00:00"
-  },
-  {
-   "fp": "dozens earthquake injured naples rocks",
-   "title": "Dozens injured as earthquake rocks Naples",
-   "source": "Telegraph",
-   "at": "2026-08-01T11:04:08.184692+00:00"
-  },
-  {
-   "fp": "elusive lifelong mystery obsession pink scientist seaweed zebra",
-   "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
-   "source": "BBC Science",
-   "at": "2026-08-01T12:04:58.030113+00:00"
-  },
   {
    "fp": "battle continue firefighters france greece rage spain wildfires",
    "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
@@ -2934,14 +2909,39 @@
    "title": "Israeli military issues evacuation warning to village in southern Lebanon",
    "source": "Reuters",
    "at": "2026-08-05T14:39:20.227580+00:00"
+  },
+  {
+   "fp": "china draws nuclear pentagon russia strategy weapons",
+   "title": "Pentagon draws up new nuclear weapons strategy for war with Russia and China",
+   "source": "Telegraph",
+   "at": "2026-08-05T16:19:43.016853+00:00"
+  },
+  {
+   "fp": "attack beach bride calls detectorist losing metal ring wedding",
+   "title": "Bride calls metal detectorist mid wedding after losing ring during bee attack on beach",
+   "source": "New York Post",
+   "at": "2026-08-05T16:19:44.818185+00:00"
+  },
+  {
+   "fp": "cases cyclosporiasis linked outbreak reportedly states suspected",
+   "title": "Over 20K cyclosporiasis cases suspected in US as outbreak reportedly linked to 6 more states",
+   "source": "The Hill",
+   "at": "2026-08-05T16:19:46.511884+00:00"
+  },
+  {
+   "fp": "arkansas cyclosporiasis expands including missouri outbreak reportedly scope states",
+   "title": "CDC reportedly expands scope of US cyclosporiasis outbreak to 15 states, including Arkansas and Missouri",
+   "source": "Guardian World",
+   "at": "2026-08-05T16:19:48.287545+00:00"
+  },
+  {
+   "fp": "campaign focus lindell mike mypillow resigns",
+   "title": "Mike Lindell resigns as MyPillow CEO to focus on campaign",
+   "source": "The Hill",
+   "at": "2026-08-05T16:19:49.972806+00:00"
   }
  ],
  "titles": [
-  "calls ceuta crisis meeting responses selfish spanish urgent",
-  "earthquake hits injured naples near scores seismic swarm",
-  "down hungary nuclear paks plant powered weekend",
-  "dozens earthquake injured naples rocks",
-  "elusive lifelong mystery obsession pink scientist seaweed zebra",
   "battle continue firefighters france greece rage spain wildfires",
   "amsterdam attack berlin boisterous expected shadow thousands worldpride",
   "close democrats destined fetterman leave margins never seems senate",
@@ -3336,6 +3336,11 @@
   "campaign down focus governor lindell mike minnesota mypillow steps",
   "attack calls defences kills kyiv least russian zelenskyy",
   "communities erupts evacuates fuego guatemala photos volcano",
-  "evacuation israeli issues lebanon military southern village warning"
+  "evacuation israeli issues lebanon military southern village warning",
+  "china draws nuclear pentagon russia strategy weapons",
+  "attack beach bride calls detectorist losing metal ring wedding",
+  "cases cyclosporiasis linked outbreak reportedly states suspected",
+  "arkansas cyclosporiasis expands including missouri outbreak reportedly scope states",
+  "campaign focus lindell mike mypillow resigns"
  ]
 }
