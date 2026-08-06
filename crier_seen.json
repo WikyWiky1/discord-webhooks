@@ -628,27 +628,12 @@
   "https://www.theguardian.com/us-news/2026/aug/06/flu-shot-covid-moderna-mrna-mflusiva",
   "CBMifkFVX3lxTFBFaGtxOHFMdFctcDd6TTgzZndpV0U1QUFGRV9nbFdxcVZDemlTTW80ZmZTOWxXT0N1ZUJYM3ByQ3Z1ZGF3d1E5S2FjRlp3dzBicVRtaGNBMUV5V1BEWUFfZ2lwaE9kck1xYlNYTENuTnFlMEFkcHlwRGpxYlY1UQ",
   "https://thehill.com/?p=6013175",
-  "https://thehill.com/?p=6011355"
+  "https://thehill.com/?p=6011355",
+  "https://nypost.com/?post_type=article&p=40219385",
+  "https://nypost.com/?post_type=article&p=40219266",
+  "https://nypost.com/?post_type=article&p=40219455"
  ],
  "posts": [
-  {
-   "fp": "determined difficult pursue stop trade trump",
-   "title": "Trump is determined to pursue his trade war \u2013 and he may be difficult to stop",
-   "source": "Guardian World",
-   "at": "2026-08-02T13:20:07.447076+00:00"
-  },
-  {
-   "fp": "chhetri group india jamshedpur reverse shutdown tata urges",
-   "title": "India's Chhetri urges Tata Group to reverse Jamshedpur shutdown",
-   "source": "Reuters World",
-   "at": "2026-08-02T14:00:22.371274+00:00"
-  },
-  {
-   "fp": "evacuation order people spokane thousands under wash wildfires",
-   "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
-   "source": "NPR News",
-   "at": "2026-08-02T14:00:24.231045+00:00"
-  },
   {
    "fp": "billion california collapses days fund lavish tech wedding",
    "title": "Tech bro\u2019s $45 billion AI fund collapses days before lavish California wedding",
@@ -3030,12 +3015,27 @@
    "title": "Congress must stop the politicization of peer review and American science",
    "source": "The Hill",
    "at": "2026-08-06T14:08:26.775743+00:00"
+  },
+  {
+   "fp": "2025 cluster deadly disease faces families grieving heat legionnaires mamdani outbreak",
+   "title": "Grieving families sue NYC over deadly 2025 Legionnaires\u2019 disease outbreak \u2014 as Mamdani faces heat for new deadly cluster",
+   "source": "New York Post",
+   "at": "2026-08-06T21:20:44.239480+00:00"
+  },
+  {
+   "fp": "confirmed deadly follicles hair hide immune rewire states superbug system",
+   "title": "Deadly superbug confirmed in 23 states can hide in your hair follicles \u2014 and rewire your immune system",
+   "source": "New York Post",
+   "at": "2026-08-06T21:20:45.987532+00:00"
+  },
+  {
+   "fp": "crashes dead driven father minors packed stolen work",
+   "title": "Father of 5 dead after stolen car \u2014 driven by boy, 13, and packed with minors \u2014 crashes into him on way to work",
+   "source": "New York Post",
+   "at": "2026-08-06T21:20:47.759437+00:00"
   }
  ],
  "titles": [
-  "determined difficult pursue stop trade trump",
-  "chhetri group india jamshedpur reverse shutdown tata urges",
-  "evacuation order people spokane thousands under wash wildfires",
   "billion california collapses days fund lavish tech wedding",
   "attack colombian group injures kills rebel terrorist vile",
   "athens crisis europe evacuates greece hundreds near retreats western wildfire",
@@ -3432,6 +3432,9 @@
   "behind covid moderna mrna reaches technology vaccine",
   "chips commits elon fall musk nvidia shares spacex",
   "america carlson party should talk third tucker unveils vision",
-  "american congress must peer politicization review science stop"
+  "american congress must peer politicization review science stop",
+  "2025 cluster deadly disease faces families grieving heat legionnaires mamdani outbreak",
+  "confirmed deadly follicles hair hide immune rewire states superbug system",
+  "crashes dead driven father minors packed stolen work"
  ]
 }
