@@ -619,27 +619,12 @@
   "https://www.theguardian.com/us-news/2026/aug/06/wildfire-betting-prediction-markets",
   "https://www.washingtonexaminer.com/?p=4675831",
   "https://www.washingtonexaminer.com/?p=4676015",
-  "https://www.bbc.co.uk/news/articles/c62q0xerzrno#1"
+  "https://www.bbc.co.uk/news/articles/c62q0xerzrno#1",
+  "https://pagesix.com/?post_type=article&p=9094844",
+  "https://www.washingtonexaminer.com/?p=4676438",
+  "CBMitwFBVV95cUxQUktRWGVETUc4dDd2NGdhbThFbzBSUTNyMmVmSHNMblhEWUJuWk1fOHRGWGI2a3p3NXVhM0wwWjQzME1Kel94aEJGTHI0RWY0V1F1NEh0dVhhRE5zSE41YWs3bDRUUnlvYVFlZ2Jfc3kwOFNNLUM0aFktT0RwZ0JCMmZ0OVlmZkdtMWRGSWpWMjJ2MTZITEFDNTgyR01OZk5YZi14dHNQZU1SLVc0b0FPbk00VjRuOTQ"
  ],
  "posts": [
-  {
-   "fp": "alaska ballot double primary senate sullivans tale voters",
-   "title": "\u200bA tale of 2 Sullivans: Alaska voters see double on Senate primary ballot",
-   "source": "The Hill",
-   "at": "2026-08-02T10:40:50.729819+00:00"
-  },
-  {
-   "fp": "economy light market opaque sheds stark stock turmoil",
-   "title": "Stock market turmoil sheds stark light on the opaque AI economy",
-   "source": "Guardian World",
-   "at": "2026-08-02T10:40:52.453509+00:00"
-  },
-  {
-   "fp": "also dead idaho killed multiple people shooting suspect",
-   "title": "Multiple people killed in shooting at Idaho In-N-Out, suspect also dead",
-   "source": "The Hill",
-   "at": "2026-08-02T11:04:28.869505+00:00"
-  },
   {
    "fp": "boosts kills lanka prison riot security",
    "title": "Sri Lanka boosts prison security after riot kills one",
@@ -3021,12 +3006,27 @@
    "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
    "source": "BBC World",
    "at": "2026-08-06T12:59:49.174437+00:00"
+  },
+  {
+   "fp": "battle cancer dead following rare star sydney tiktok towle",
+   "title": "TikTok star Sydney Towle dead at 26 following rare cancer battle",
+   "source": "New York Post",
+   "at": "2026-08-06T13:47:38.471334+00:00"
+  },
+  {
+   "fp": "hamas hunting killed trump usaid watchdog",
+   "title": "Trump killed USAID. Don\u2019t let its Hamas-hunting watchdog die with it",
+   "source": "Washington Examiner",
+   "at": "2026-08-06T13:47:40.214733+00:00"
+  },
+  {
+   "fp": "animal cause experts explosion health nino rabid seals warn",
+   "title": "El Nino could cause explosion of rabid seals, animal health experts warn",
+   "source": "Telegraph",
+   "at": "2026-08-06T13:47:41.957255+00:00"
   }
  ],
  "titles": [
-  "alaska ballot double primary senate sullivans tale voters",
-  "economy light market opaque sheds stark stock turmoil",
-  "also dead idaho killed multiple people shooting suspect",
   "boosts kills lanka prison riot security",
   "chain dead disgusting doesn human idaho lives others owner shot value worker",
   "births community high premature rate",
@@ -3423,6 +3423,9 @@
   "arson betting crackdown risk senators urge warnings wildfire",
   "activities case crash curious jamming mexico military plane tied",
   "collapse deal gaza peace teeth trump",
-  "crashed moon rocket scientists spacex thrilled"
+  "crashed moon rocket scientists spacex thrilled",
+  "battle cancer dead following rare star sydney tiktok towle",
+  "hamas hunting killed trump usaid watchdog",
+  "animal cause experts explosion health nino rabid seals warn"
  ]
 }
