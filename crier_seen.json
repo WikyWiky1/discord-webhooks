@@ -622,45 +622,15 @@
   "https://www.bbc.co.uk/news/articles/c62q0xerzrno#1",
   "https://pagesix.com/?post_type=article&p=9094844",
   "https://www.washingtonexaminer.com/?p=4676438",
-  "CBMitwFBVV95cUxQUktRWGVETUc4dDd2NGdhbThFbzBSUTNyMmVmSHNMblhEWUJuWk1fOHRGWGI2a3p3NXVhM0wwWjQzME1Kel94aEJGTHI0RWY0V1F1NEh0dVhhRE5zSE41YWs3bDRUUnlvYVFlZ2Jfc3kwOFNNLUM0aFktT0RwZ0JCMmZ0OVlmZkdtMWRGSWpWMjJ2MTZITEFDNTgyR01OZk5YZi14dHNQZU1SLVc0b0FPbk00VjRuOTQ"
+  "CBMitwFBVV95cUxQUktRWGVETUc4dDd2NGdhbThFbzBSUTNyMmVmSHNMblhEWUJuWk1fOHRGWGI2a3p3NXVhM0wwWjQzME1Kel94aEJGTHI0RWY0V1F1NEh0dVhhRE5zSE41YWs3bDRUUnlvYVFlZ2Jfc3kwOFNNLUM0aFktT0RwZ0JCMmZ0OVlmZkdtMWRGSWpWMjJ2MTZITEFDNTgyR01OZk5YZi14dHNQZU1SLVc0b0FPbk00VjRuOTQ",
+  "https://www.bbc.co.uk/news/articles/c1m18158my9o#0",
+  "https://www.washingtonexaminer.com/?p=4677362",
+  "https://www.theguardian.com/us-news/2026/aug/06/flu-shot-covid-moderna-mrna-mflusiva",
+  "CBMifkFVX3lxTFBFaGtxOHFMdFctcDd6TTgzZndpV0U1QUFGRV9nbFdxcVZDemlTTW80ZmZTOWxXT0N1ZUJYM3ByQ3Z1ZGF3d1E5S2FjRlp3dzBicVRtaGNBMUV5V1BEWUFfZ2lwaE9kck1xYlNYTENuTnFlMEFkcHlwRGpxYlY1UQ",
+  "https://thehill.com/?p=6013175",
+  "https://thehill.com/?p=6011355"
  ],
  "posts": [
-  {
-   "fp": "boosts kills lanka prison riot security",
-   "title": "Sri Lanka boosts prison security after riot kills one",
-   "source": "Reuters World",
-   "at": "2026-08-02T11:04:30.709672+00:00"
-  },
-  {
-   "fp": "chain dead disgusting doesn human idaho lives others owner shot value worker",
-   "title": "Idaho In-N-Out worker was shot dead by \u2018disgusting human who doesn\u2019t value lives of others or his own,\u2019 chain owner says",
-   "source": "New York Post",
-   "at": "2026-08-02T11:04:32.458398+00:00"
-  },
-  {
-   "fp": "births community high premature rate",
-   "title": "Why is the rate of premature births so high in this community?",
-   "source": "NPR News",
-   "at": "2026-08-02T12:07:11.547180+00:00"
-  },
-  {
-   "fp": "agreed attack citing deal halts iran parameters plan trump upon",
-   "title": "Trump halts Iran attack plan, citing agreed-upon 'parameters of a deal'",
-   "source": "The Hill",
-   "at": "2026-08-02T12:17:08.430220+00:00"
-  },
-  {
-   "fp": "armed citizen dead fire gunman harrowing hero idaho left opened shooting stop tried video wounded",
-   "title": "Hero armed citizen opened fire on Idaho In-N-Out gunman, tried to stop shooting that left 2 dead, 7 wounded: harrowing video",
-   "source": "New York Post",
-   "at": "2026-08-02T12:17:10.075682+00:00"
-  },
-  {
-   "fp": "earnings escalation gulf hopes iran lift rise sentiment stocks",
-   "title": "Gulf stocks rise as Iran de-escalation hopes, earnings lift sentiment",
-   "source": "Reuters World",
-   "at": "2026-08-02T13:20:05.643380+00:00"
-  },
   {
    "fp": "determined difficult pursue stop trade trump",
    "title": "Trump is determined to pursue his trade war \u2013 and he may be difficult to stop",
@@ -3024,15 +2994,45 @@
    "title": "El Nino could cause explosion of rabid seals, animal health experts warn",
    "source": "Telegraph",
    "at": "2026-08-06T13:47:41.957255+00:00"
+  },
+  {
+   "fp": "committee contempt covid fauci hearing hold senate votes",
+   "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
+   "source": "BBC World",
+   "at": "2026-08-06T14:08:18.321075+00:00"
+  },
+  {
+   "fp": "congress felony judge just nobody noticed zeroed",
+   "title": "Congress zeroed out the gun tax. A judge just noticed nobody zeroed out the felony",
+   "source": "Washington Examiner",
+   "at": "2026-08-06T14:08:20.095102+00:00"
+  },
+  {
+   "fp": "behind covid moderna mrna reaches technology vaccine",
+   "title": "The mRNA technology behind Moderna\u2019s Covid vaccine reaches the flu",
+   "source": "Guardian World",
+   "at": "2026-08-06T14:08:21.815719+00:00"
+  },
+  {
+   "fp": "chips commits elon fall musk nvidia shares spacex",
+   "title": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX",
+   "source": "WSJ",
+   "at": "2026-08-06T14:08:23.457606+00:00"
+  },
+  {
+   "fp": "america carlson party should talk third tucker unveils vision",
+   "title": "Tucker Carlson unveils vision for \u2018what America should be\u2019 amid third party talk",
+   "source": "The Hill",
+   "at": "2026-08-06T14:08:25.136758+00:00"
+  },
+  {
+   "fp": "american congress must peer politicization review science stop",
+   "title": "Congress must stop the politicization of peer review and American science",
+   "source": "The Hill",
+   "at": "2026-08-06T14:08:26.775743+00:00"
   }
  ],
  "titles": [
-  "boosts kills lanka prison riot security",
-  "chain dead disgusting doesn human idaho lives others owner shot value worker",
-  "births community high premature rate",
-  "agreed attack citing deal halts iran parameters plan trump upon",
-  "armed citizen dead fire gunman harrowing hero idaho left opened shooting stop tried video wounded",
-  "earnings escalation gulf hopes iran lift rise sentiment stocks",
   "determined difficult pursue stop trade trump",
   "chhetri group india jamshedpur reverse shutdown tata urges",
   "evacuation order people spokane thousands under wash wildfires",
@@ -3426,6 +3426,12 @@
   "crashed moon rocket scientists spacex thrilled",
   "battle cancer dead following rare star sydney tiktok towle",
   "hamas hunting killed trump usaid watchdog",
-  "animal cause experts explosion health nino rabid seals warn"
+  "animal cause experts explosion health nino rabid seals warn",
+  "committee contempt covid fauci hearing hold senate votes",
+  "congress felony judge just nobody noticed zeroed",
+  "behind covid moderna mrna reaches technology vaccine",
+  "chips commits elon fall musk nvidia shares spacex",
+  "america carlson party should talk third tucker unveils vision",
+  "american congress must peer politicization review science stop"
  ]
 }
