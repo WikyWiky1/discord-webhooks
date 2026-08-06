@@ -618,15 +618,10 @@
   "https://www.washingtonexaminer.com/?p=4677239",
   "https://www.theguardian.com/us-news/2026/aug/06/wildfire-betting-prediction-markets",
   "https://www.washingtonexaminer.com/?p=4675831",
-  "https://www.washingtonexaminer.com/?p=4676015"
+  "https://www.washingtonexaminer.com/?p=4676015",
+  "https://www.bbc.co.uk/news/articles/c62q0xerzrno#1"
  ],
  "posts": [
-  {
-   "fp": "billion buried inside stocks",
-   "title": "The Buried $150 Billion Bet Inside the Top 20 U.S. Stocks",
-   "source": "WSJ",
-   "at": "2026-08-02T10:40:48.944448+00:00"
-  },
   {
    "fp": "alaska ballot double primary senate sullivans tale voters",
    "title": "\u200bA tale of 2 Sullivans: Alaska voters see double on Senate primary ballot",
@@ -3020,10 +3015,15 @@
    "title": "No teeth, no peace: Why Trump\u2019s Gaza deal will collapse",
    "source": "Washington Examiner",
    "at": "2026-08-06T11:49:46.308180+00:00"
+  },
+  {
+   "fp": "crashed moon rocket scientists spacex thrilled",
+   "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
+   "source": "BBC World",
+   "at": "2026-08-06T12:59:49.174437+00:00"
   }
  ],
  "titles": [
-  "billion buried inside stocks",
   "alaska ballot double primary senate sullivans tale voters",
   "economy light market opaque sheds stark stock turmoil",
   "also dead idaho killed multiple people shooting suspect",
@@ -3422,6 +3422,7 @@
   "allegations black cambridge investigates plagiarism professor resigns university youngest",
   "arson betting crackdown risk senators urge warnings wildfire",
   "activities case crash curious jamming mexico military plane tied",
-  "collapse deal gaza peace teeth trump"
+  "collapse deal gaza peace teeth trump",
+  "crashed moon rocket scientists spacex thrilled"
  ]
 }
