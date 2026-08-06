@@ -593,27 +593,12 @@
   "https://nypost.com/?post_type=article&p=40212331",
   "https://thehill.com/?p=6012753",
   "https://www.foxnews.com/world/crowded-russian-beach-descends-chaos-alleged-ukrainian-drone-incident-kills-7-including-4-children",
-  "CBMiogFBVV95cUxQSEVDRzljTDRYNUR5U2dwV3Y0d1NMbC1ObjJkMUVYZkhFelR5RFRuMEZXM2w4SXMtME9pYlE0ekwxN0U1ZFZqU2JyNkVVTXluaGEwVlcwTmZBWjRfN3duSDRDaF9lWFNvZEl4dXBkYzc2YnZVSjhPd2NCaXJPYk16dGhWdl92QnVwSHlBZkFlcjA5eUxRcmpfNzdHeGtWMEtQalE"
+  "CBMiogFBVV95cUxQSEVDRzljTDRYNUR5U2dwV3Y0d1NMbC1ObjJkMUVYZkhFelR5RFRuMEZXM2w4SXMtME9pYlE0ekwxN0U1ZFZqU2JyNkVVTXluaGEwVlcwTmZBWjRfN3duSDRDaF9lWFNvZEl4dXBkYzc2YnZVSjhPd2NCaXJPYk16dGhWdl92QnVwSHlBZkFlcjA5eUxRcmpfNzdHeGtWMEtQalE",
+  "CBMiqAFBVV95cUxQbXVDUWUzWmlqS09tY3VqRWhJVE8wQUYzUUxHaVNhQWp5NUJIQWFIc19hNXR3TXZjM3dTaFdIeGJkWUtlT05RbDJJdmR3YmduNl9XY3phU0VPNVl3M2xFbXNUM1lUREJZQ0pOWkpJSmp5NkVOTUREdi1IREtPMzhYQlB2a1hVN2t1SDBWb0gwUFBONjZkMElmcTRmODE4YzY2cktyc2xfcWU",
+  "CBMiuwFBVV95cUxQTnZEV0ZKa29BT1V0WXRmZFk4cklYbWkyYWdERmMtc0F6ZnNyQ3M0em1LQW5EeVhSaGVKQ2VNM3pJdldPSEtoNGRNZWRFbFNLTnliYkJIZ0ZJZjcxSTFISHZQem5lLWk5SVI3emdkYzFULXh4R2ZFdlViU3VrelZoMzZadllrdWZPamxKM0FYRHFTaVVuTTgyakRsV2w2YWNtcDFmcEk2Z0QzempMNEI0ZlVycVdkanQtalVV",
+  "https://www.washingtonexaminer.com/?p=4677169"
  ],
  "posts": [
-  {
-   "fp": "bombing carried device explodes kills moscow people restaurant three woman",
-   "title": "Moscow restaurant bombing kills three people as device carried by woman explodes",
-   "source": "Guardian World",
-   "at": "2026-08-02T01:11:04.876452+00:00"
-  },
-  {
-   "fp": "announcing breakthrough despite four gaza israeli kill least strikes trump",
-   "title": "Israeli strikes kill at least four in Gaza despite Trump announcing breakthrough",
-   "source": "Reuters",
-   "at": "2026-08-02T01:11:06.504790+00:00"
-  },
-  {
-   "fp": "dead fast food idaho multiple people restaurant shooting southern",
-   "title": "Multiple people dead after shooting at fast food restaurant in southern Idaho",
-   "source": "AP",
-   "at": "2026-08-02T01:11:08.233859+00:00"
-  },
   {
    "fp": "county evacuations ordered spokane spreads state through washington wildfire",
    "title": "Evacuations ordered in Washington state as wildfire spreads through Spokane County",
@@ -2995,12 +2980,27 @@
    "title": "Firefighters get a handle on Spokane wildfires as tens of thousands remain evacuated",
    "source": "AP",
    "at": "2026-08-06T03:41:55.111869+00:00"
+  },
+  {
+   "fp": "earnings east higher inch india middle open peace prospects shares",
+   "title": "India shares inch higher at the open on Middle East peace prospects, earnings",
+   "source": "Reuters World",
+   "at": "2026-08-06T05:48:33.853008+00:00"
+  },
+  {
+   "fp": "approves arduous moderna mrna review vaccine",
+   "title": "FDA Approves First mRNA Flu Vaccine in Win for Moderna After Arduous Review",
+   "source": "WSJ",
+   "at": "2026-08-06T05:48:35.494729+00:00"
+  },
+  {
+   "fp": "hasan michigan minimizes piker race role sayed senate streamer",
+   "title": "El Sayed minimizes Hasan Piker\u2019s role in Michigan Senate race: \u2018He\u2019s a streamer\u2019",
+   "source": "Washington Examiner",
+   "at": "2026-08-06T05:48:37.199843+00:00"
   }
  ],
  "titles": [
-  "bombing carried device explodes kills moscow people restaurant three woman",
-  "announcing breakthrough despite four gaza israeli kill least strikes trump",
-  "dead fast food idaho multiple people restaurant shooting southern",
   "county evacuations ordered spokane spreads state through washington wildfire",
   "arabia assault backed gearing ground houthis invasion iranian major possible report saudi",
   "carolina dead south takes tragic training turn underwater",
@@ -3397,6 +3397,9 @@
   "ambushed california county deputy desert shooting wounded",
   "cyclospora expands multistate outbreak states",
   "alleged beach chaos children crowded descends drone incident including kills russian ukrainian",
-  "evacuated firefighters handle remain spokane tens thousands wildfires"
+  "evacuated firefighters handle remain spokane tens thousands wildfires",
+  "earnings east higher inch india middle open peace prospects shares",
+  "approves arduous moderna mrna review vaccine",
+  "hasan michigan minimizes piker race role sayed senate streamer"
  ]
 }
