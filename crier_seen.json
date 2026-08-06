@@ -596,33 +596,13 @@
   "CBMiogFBVV95cUxQSEVDRzljTDRYNUR5U2dwV3Y0d1NMbC1ObjJkMUVYZkhFelR5RFRuMEZXM2w4SXMtME9pYlE0ekwxN0U1ZFZqU2JyNkVVTXluaGEwVlcwTmZBWjRfN3duSDRDaF9lWFNvZEl4dXBkYzc2YnZVSjhPd2NCaXJPYk16dGhWdl92QnVwSHlBZkFlcjA5eUxRcmpfNzdHeGtWMEtQalE",
   "CBMiqAFBVV95cUxQbXVDUWUzWmlqS09tY3VqRWhJVE8wQUYzUUxHaVNhQWp5NUJIQWFIc19hNXR3TXZjM3dTaFdIeGJkWUtlT05RbDJJdmR3YmduNl9XY3phU0VPNVl3M2xFbXNUM1lUREJZQ0pOWkpJSmp5NkVOTUREdi1IREtPMzhYQlB2a1hVN2t1SDBWb0gwUFBONjZkMElmcTRmODE4YzY2cktyc2xfcWU",
   "CBMiuwFBVV95cUxQTnZEV0ZKa29BT1V0WXRmZFk4cklYbWkyYWdERmMtc0F6ZnNyQ3M0em1LQW5EeVhSaGVKQ2VNM3pJdldPSEtoNGRNZWRFbFNLTnliYkJIZ0ZJZjcxSTFISHZQem5lLWk5SVI3emdkYzFULXh4R2ZFdlViU3VrelZoMzZadllrdWZPamxKM0FYRHFTaVVuTTgyakRsV2w2YWNtcDFmcEk2Z0QzempMNEI0ZlVycVdkanQtalVV",
-  "https://www.washingtonexaminer.com/?p=4677169"
+  "https://www.washingtonexaminer.com/?p=4677169",
+  "https://www.bbc.co.uk/news/articles/cm2g0038yr8o#0",
+  "https://www.theguardian.com/world/2026/aug/06/israeli-strike-that-killed-journalist-in-lebanon-was-war-say-rights-groups",
+  "CBMioAFBVV95cUxNeUc1OHhTU1VHSmtkeXBGM0Vob3M5VW01VVRVMVNIS3hXdk1mTDRDOUdqX0oyMmZpVTY0VUZENE4zaTdkcjR5SlRDdmVrQTVqblBGNmFIcmxPRVdsTllFU1g0Y3ZpeGNpMTJEbTN2TVZFV3F4S0pROHFvR2k5WXVLUTI4T0ItaEhsdkxBb0hYUGFFU2ZRQk5pYkZqZlp0bF9M",
+  "CBMipwFBVV95cUxOV0x4NHVVWXVvMktITkJWT1EyUFlWZEpLdFIyU0RKdUVhdEpiUXIyNklqMnAzdU9BTENxNEkwdG1oN2puNl95OU4xMkVocXpOcDlaNGlQRHdJalhnOUdDNUFRZU5OVV9WbjNZRE5NRGV4OXNEWER2anlHTnRZTlE1YVY2RGE5ODZlSVZSSzJqNzRKVkpSMk1lc2dNVkNUbndCaDZFd3FXcw"
  ],
  "posts": [
-  {
-   "fp": "county evacuations ordered spokane spreads state through washington wildfire",
-   "title": "Evacuations ordered in Washington state as wildfire spreads through Spokane County",
-   "source": "Washington Examiner",
-   "at": "2026-08-02T01:11:09.899008+00:00"
-  },
-  {
-   "fp": "arabia assault backed gearing ground houthis invasion iranian major possible report saudi",
-   "title": "Saudi Arabia gearing up for major assault and possible ground invasion on Iranian-backed Houthis: report",
-   "source": "New York Post",
-   "at": "2026-08-02T01:11:11.726931+00:00"
-  },
-  {
-   "fp": "carolina dead south takes tragic training turn underwater",
-   "title": "South Carolina cop dead after underwater training takes tragic turn",
-   "source": "New York Post",
-   "at": "2026-08-02T01:11:13.398574+00:00"
-  },
-  {
-   "fp": "america bubbles creating great market shrugging stock",
-   "title": "America Is Great at Creating Stock Market Bubbles\u2014and Shrugging Them Off",
-   "source": "WSJ",
-   "at": "2026-08-02T02:45:37.129281+00:00"
-  },
   {
    "fp": "answer fauci goodwin hearing important michael questions refusal reveals senate truth",
    "title": "Michael Goodwin: Fauci\u2019s refusal to answer questions at Senate hearing reveals important truth",
@@ -2998,13 +2978,33 @@
    "title": "El Sayed minimizes Hasan Piker\u2019s role in Michigan Senate race: \u2018He\u2019s a streamer\u2019",
    "source": "Washington Examiner",
    "at": "2026-08-06T05:48:37.199843+00:00"
+  },
+  {
+   "fp": "attack captain football gang murdered outrage street ugandan",
+   "title": "Outrage as Ugandan football captain murdered in street gang attack",
+   "source": "BBC World",
+   "at": "2026-08-06T06:24:22.204635+00:00"
+  },
+  {
+   "fp": "crime groups israeli journalist killed lebanon rights strike",
+   "title": "Israeli strike that killed journalist in Lebanon was war crime, say rights groups",
+   "source": "Guardian World",
+   "at": "2026-08-06T06:24:24.006825+00:00"
+  },
+  {
+   "fp": "deaths hezbollah israeli june killed lebanon since soldiers truce",
+   "title": "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah",
+   "source": "AP",
+   "at": "2026-08-06T06:24:25.790975+00:00"
+  },
+  {
+   "fp": "animals athens hundreds leaves near rescuers reunite scrambling wildfire",
+   "title": "Wildfire near Athens leaves rescuers scrambling to reunite hundreds of animals",
+   "source": "AP",
+   "at": "2026-08-06T06:24:27.498336+00:00"
   }
  ],
  "titles": [
-  "county evacuations ordered spokane spreads state through washington wildfire",
-  "arabia assault backed gearing ground houthis invasion iranian major possible report saudi",
-  "carolina dead south takes tragic training turn underwater",
-  "america bubbles creating great market shrugging stock",
   "answer fauci goodwin hearing important michael questions refusal reveals senate truth",
   "2026 archive august journal news street wall",
   "defies mali military russian sanctions send ship vehicles",
@@ -3400,6 +3400,10 @@
   "evacuated firefighters handle remain spokane tens thousands wildfires",
   "earnings east higher inch india middle open peace prospects shares",
   "approves arduous moderna mrna review vaccine",
-  "hasan michigan minimizes piker race role sayed senate streamer"
+  "hasan michigan minimizes piker race role sayed senate streamer",
+  "attack captain football gang murdered outrage street ugandan",
+  "crime groups israeli journalist killed lebanon rights strike",
+  "deaths hezbollah israeli june killed lebanon since soldiers truce",
+  "animals athens hundreds leaves near rescuers reunite scrambling wildfire"
  ]
 }
