@@ -588,39 +588,14 @@
   "https://www.theguardian.com/us-news/2026/aug/05/florida-python-hunting-contest-winner-2026",
   "CBMixAFBVV95cUxQMlk0UC1taXE5UTRrd1pxbElRS2xBMk05QmYyVTJvM0dEM2xGWU9kMC04X3JTbzBjNjdSaUtxa19zd3luTUQzcHdnbmhCQkRUY3RiQy1UWXkxR2VvUU92aUJGbmVraFE5emsyVkxlMXY4WXgxeG1PMnZTVFhBOUhINnA2Z1V4cHdNOVhGY0g0REpCMTVwVDJXVkZpZ2x2RWFTM0JBWDBZQ05kaGVKRHdSQUxKMGNuUS1WQkg2amZEalhaQzE5",
   "CBMigwFBVV95cUxNYVhudzl3bkNNTXhqeXFPa0docnlNMm0zRkgtLUQ3ZGhOY09ZRjBfeV9RMVFwOXJZdnRJMlN2TlYzNi0zWXpKMl9nSU1tTHotVTlfX0JhTU40NDJWanF0OXFuRU9TdnZ0SThRYmxCWG9HNTZwQkE0NjNCUHp2NE8zZEszcw",
-  "https://thehill.com/?p=6012568"
+  "https://thehill.com/?p=6012568",
+  "https://thehill.com/?p=6012755",
+  "https://nypost.com/?post_type=article&p=40212331",
+  "https://thehill.com/?p=6012753",
+  "https://www.foxnews.com/world/crowded-russian-beach-descends-chaos-alleged-ukrainian-drone-incident-kills-7-including-4-children",
+  "CBMiogFBVV95cUxQSEVDRzljTDRYNUR5U2dwV3Y0d1NMbC1ObjJkMUVYZkhFelR5RFRuMEZXM2w4SXMtME9pYlE0ekwxN0U1ZFZqU2JyNkVVTXluaGEwVlcwTmZBWjRfN3duSDRDaF9lWFNvZEl4dXBkYzc2YnZVSjhPd2NCaXJPYk16dGhWdl92QnVwSHlBZkFlcjA5eUxRcmpfNzdHeGtWMEtQalE"
  ],
  "posts": [
-  {
-   "fp": "family hospital japan pets quake shelter survivors",
-   "title": "'They're family': Japan quake survivors shelter in hospital with pets",
-   "source": "Reuters World",
-   "at": "2026-08-02T01:10:56.541225+00:00"
-  },
-  {
-   "fp": "center dead idaho shooting shopping three",
-   "title": "Three dead in Idaho shopping center shooting",
-   "source": "Reuters World",
-   "at": "2026-08-02T01:10:58.242003+00:00"
-  },
-  {
-   "fp": "burger falls idaho killed multiple people restaurant shooting twin",
-   "title": "Twin Falls In-N-Out shooting: Multiple people killed in shooting at Idaho burger restaurant",
-   "source": "Telegraph",
-   "at": "2026-08-02T01:10:59.876503+00:00"
-  },
-  {
-   "fp": "alleged arrested baby dead found murder plot slain womb",
-   "title": "Baby cut from slain mom\u2019s womb found dead as 5 are arrested in alleged murder-for-baby plot",
-   "source": "New York Post",
-   "at": "2026-08-02T01:11:01.534967+00:00"
-  },
-  {
-   "fp": "burger dead idaho leaves multiple people police restaurant shooting",
-   "title": "Shooting at In-N-Out Burger restaurant in Idaho leaves multiple people dead, police say",
-   "source": "Guardian World",
-   "at": "2026-08-02T01:11:03.217868+00:00"
-  },
   {
    "fp": "bombing carried device explodes kills moscow people restaurant three woman",
    "title": "Moscow restaurant bombing kills three people as device carried by woman explodes",
@@ -2990,14 +2965,39 @@
    "title": "Hemp fight trips up spending bill",
    "source": "The Hill",
    "at": "2026-08-06T02:32:16.351726+00:00"
+  },
+  {
+   "fp": "jalape linked outbreak salmonella warns",
+   "title": "CDC warns of Salmonella outbreak linked to jalape\u00f1os",
+   "source": "The Hill",
+   "at": "2026-08-06T03:41:48.403378+00:00"
+  },
+  {
+   "fp": "ambushed california county deputy desert shooting wounded",
+   "title": "LA County deputy ambushed and wounded after shooting in California desert",
+   "source": "New York Post",
+   "at": "2026-08-06T03:41:50.136610+00:00"
+  },
+  {
+   "fp": "cyclospora expands multistate outbreak states",
+   "title": "Multistate cyclospora outbreak expands to 15 states",
+   "source": "The Hill",
+   "at": "2026-08-06T03:41:51.810554+00:00"
+  },
+  {
+   "fp": "alleged beach chaos children crowded descends drone incident including kills russian ukrainian",
+   "title": "Crowded Russian beach descends into chaos after alleged Ukrainian drone incident kills 7, including 4 children",
+   "source": "Fox News World",
+   "at": "2026-08-06T03:41:53.464175+00:00"
+  },
+  {
+   "fp": "evacuated firefighters handle remain spokane tens thousands wildfires",
+   "title": "Firefighters get a handle on Spokane wildfires as tens of thousands remain evacuated",
+   "source": "AP",
+   "at": "2026-08-06T03:41:55.111869+00:00"
   }
  ],
  "titles": [
-  "family hospital japan pets quake shelter survivors",
-  "center dead idaho shooting shopping three",
-  "burger falls idaho killed multiple people restaurant shooting twin",
-  "alleged arrested baby dead found murder plot slain womb",
-  "burger dead idaho leaves multiple people police restaurant shooting",
   "bombing carried device explodes kills moscow people restaurant three woman",
   "announcing breakthrough despite four gaza israeli kill least strikes trump",
   "dead fast food idaho multiple people restaurant shooting southern",
@@ -3392,6 +3392,11 @@
   "contest florida hunting mission nabs python snakes winner",
   "exceptional global performance stage street wall",
   "copy covid exclusive fauci obtained panel phone senate",
-  "bill fight hemp spending trips"
+  "bill fight hemp spending trips",
+  "jalape linked outbreak salmonella warns",
+  "ambushed california county deputy desert shooting wounded",
+  "cyclospora expands multistate outbreak states",
+  "alleged beach chaos children crowded descends drone incident including kills russian ukrainian",
+  "evacuated firefighters handle remain spokane tens thousands wildfires"
  ]
 }
