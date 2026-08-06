@@ -600,21 +600,11 @@
   "https://www.bbc.co.uk/news/articles/cm2g0038yr8o#0",
   "https://www.theguardian.com/world/2026/aug/06/israeli-strike-that-killed-journalist-in-lebanon-was-war-say-rights-groups",
   "CBMioAFBVV95cUxNeUc1OHhTU1VHSmtkeXBGM0Vob3M5VW01VVRVMVNIS3hXdk1mTDRDOUdqX0oyMmZpVTY0VUZENE4zaTdkcjR5SlRDdmVrQTVqblBGNmFIcmxPRVdsTllFU1g0Y3ZpeGNpMTJEbTN2TVZFV3F4S0pROHFvR2k5WXVLUTI4T0ItaEhsdkxBb0hYUGFFU2ZRQk5pYkZqZlp0bF9M",
-  "CBMipwFBVV95cUxOV0x4NHVVWXVvMktITkJWT1EyUFlWZEpLdFIyU0RKdUVhdEpiUXIyNklqMnAzdU9BTENxNEkwdG1oN2puNl95OU4xMkVocXpOcDlaNGlQRHdJalhnOUdDNUFRZU5OVV9WbjNZRE5NRGV4OXNEWER2anlHTnRZTlE1YVY2RGE5ODZlSVZSSzJqNzRKVkpSMk1lc2dNVkNUbndCaDZFd3FXcw"
+  "CBMipwFBVV95cUxOV0x4NHVVWXVvMktITkJWT1EyUFlWZEpLdFIyU0RKdUVhdEpiUXIyNklqMnAzdU9BTENxNEkwdG1oN2puNl95OU4xMkVocXpOcDlaNGlQRHdJalhnOUdDNUFRZU5OVV9WbjNZRE5NRGV4OXNEWER2anlHTnRZTlE1YVY2RGE5ODZlSVZSSzJqNzRKVkpSMk1lc2dNVkNUbndCaDZFd3FXcw",
+  "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
+  "https://nypost.com/?post_type=article&p=40213737"
  ],
  "posts": [
-  {
-   "fp": "answer fauci goodwin hearing important michael questions refusal reveals senate truth",
-   "title": "Michael Goodwin: Fauci\u2019s refusal to answer questions at Senate hearing reveals important truth",
-   "source": "New York Post",
-   "at": "2026-08-02T02:45:38.787710+00:00"
-  },
-  {
-   "fp": "2026 archive august journal news street wall",
-   "title": "The Wall Street Journal's News Archive for August 2, 2026 - WSJ.com",
-   "source": "WSJ",
-   "at": "2026-08-02T02:45:40.451075+00:00"
-  },
   {
    "fp": "defies mali military russian sanctions send ship vehicles",
    "title": "Russian ship defies sanctions to send military vehicles to Mali",
@@ -3002,11 +2992,21 @@
    "title": "Wildfire near Athens leaves rescuers scrambling to reunite hundreds of animals",
    "source": "AP",
    "at": "2026-08-06T06:24:27.498336+00:00"
+  },
+  {
+   "fp": "committee congress contempt fauci hold senate vote whether",
+   "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress",
+   "source": "NPR News",
+   "at": "2026-08-06T08:36:17.972742+00:00"
+  },
+  {
+   "fp": "claims cory debate embattled even fiery mills pressed primary religion stolen valor",
+   "title": "Embattled Rep. Cory Mills pressed on \u2018stolen valor\u2019 claims and even his religion at fiery GOP primary debate",
+   "source": "New York Post",
+   "at": "2026-08-06T08:36:19.674380+00:00"
   }
  ],
  "titles": [
-  "answer fauci goodwin hearing important michael questions refusal reveals senate truth",
-  "2026 archive august journal news street wall",
   "defies mali military russian sanctions send ship vehicles",
   "china continue death gansu heavy landslide province rains rises toll",
   "dead five idaho injured least restaurant shooting three",
@@ -3404,6 +3404,8 @@
   "attack captain football gang murdered outrage street ugandan",
   "crime groups israeli journalist killed lebanon rights strike",
   "deaths hezbollah israeli june killed lebanon since soldiers truce",
-  "animals athens hundreds leaves near rescuers reunite scrambling wildfire"
+  "animals athens hundreds leaves near rescuers reunite scrambling wildfire",
+  "committee congress contempt fauci hold senate vote whether",
+  "claims cory debate embattled even fiery mills pressed primary religion stolen valor"
  ]
 }
