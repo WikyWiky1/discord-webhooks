@@ -580,21 +580,11 @@
   "https://thehill.com/?p=6012602",
   "https://thehill.com/?p=6012597",
   "https://nypost.com/?post_type=article&p=40208410",
-  "https://www.theguardian.com/australia-news/2026/aug/06/charleville-siege-death-man-woman-police-assault-queensland-ntwnfb"
+  "https://www.theguardian.com/australia-news/2026/aug/06/charleville-siege-death-man-woman-police-assault-queensland-ntwnfb",
+  "https://www.foxnews.com/world/explosive-drone-forces-shutdown-major-german-airport-serving-nato-ukraine-flights",
+  "CBMickFVX3lxTFBfRlRoUkRGRENTSlFuT0pkd05vUnlKSzRXZDhVcW1HOTZlU0pVby0tUXpzeThWZ08zWkJBSDhNSVYybnlMLTR3bldSZl9ubFp4SmlBT3IzZVFDRGJoQ3hMdHlLSzA0RmhYWEUwa290TVozQQ"
  ],
  "posts": [
-  {
-   "fp": "central dead dozen explosion injured leaves moscow restaurant three",
-   "title": "Explosion at restaurant in central Moscow leaves three dead, more than a dozen injured",
-   "source": "Fox News World",
-   "at": "2026-08-01T22:32:39.073371+00:00"
-  },
-  {
-   "fp": "avoid coast collapse defeat high late liberty mercury note trip west",
-   "title": "Liberty avoid late collapse to defeat Mercury, end West Coast trip on high note",
-   "source": "New York Post",
-   "at": "2026-08-01T22:32:40.835754+00:00"
-  },
   {
    "fp": "bartender cops hunt killed mexico police slasher sources",
    "title": "Cops \u2018on the hunt\u2019 in Mexico for NYC slasher who killed bartender: police sources",
@@ -2982,11 +2972,21 @@
    "title": "Man and woman found dead in outback Queensland home after hours-long police siege",
    "source": "Guardian World",
    "at": "2026-08-05T23:18:51.614168+00:00"
+  },
+  {
+   "fp": "airport drone explosive flights forces german major nato serving shutdown ukraine",
+   "title": "Explosive drone forces shutdown at major German airport serving NATO, Ukraine flights",
+   "source": "Fox News World",
+   "at": "2026-08-06T00:13:23.809561+00:00"
+  },
+  {
+   "fp": "emergency fifa infantino meeting president survives",
+   "title": "Infantino Survives as FIFA President After Emergency Meeting",
+   "source": "WSJ",
+   "at": "2026-08-06T00:13:25.549514+00:00"
   }
  ],
  "titles": [
-  "central dead dozen explosion injured leaves moscow restaurant three",
-  "avoid coast collapse defeat high late liberty mercury note trip west",
   "bartender cops hunt killed mexico police slasher sources",
   "barrier death floating hits installs invasion migrant spain toll",
   "camping france threaten tradition wildfires",
@@ -3384,6 +3384,8 @@
   "america attack blame iran systems under water",
   "275b battleships cost nuclear powered report trump",
   "alongside anchor brutally deadly diagnosis fired host longtime sports station",
-  "dead found home hours long outback police queensland siege woman"
+  "dead found home hours long outback police queensland siege woman",
+  "airport drone explosive flights forces german major nato serving shutdown ukraine",
+  "emergency fifa infantino meeting president survives"
  ]
 }
