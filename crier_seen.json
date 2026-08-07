@@ -644,45 +644,15 @@
   "https://www.theguardian.com/us-news/2026/aug/06/hard-rock-hotel-collapse-settlement",
   "CBMimwFBVV95cUxNbTlsOEZXSzZGSk5ET1J0RGlTZzVJYm1jOVZ2MUJHa2kxc2xDRmZ5SjJyQl9HQTF4eERuVWYxX3h3Yy1NVEdIRnptZEFENVV2Z1AwX0NPNEJPVzR1RTQ3LTQ1UktKMEFXSm1LUGxLcm1ZdlctNm9KeFplZ0E2NGUtQktpVlg2MjIxNWJqU2YxcXh2d05XdmMzbHVxYw",
   "CBMirwFBVV95cUxQWVNQTUxpLURMZkNFelpVd0Qtb1lqalJNUkU3YTA1TGxrX3d5bHh1NGR3Y29JUWpFaDlvamRYUHNVdFJUMlMta1JJbVY0Wkx6eVdfQU5LeXd0MGhoc0RzS3Vudlk0dTZTV0ZITnUxUHNYYVhOSG9zNEpCMVpMVDNLMU1BVGtWTm5HNmdLY3N1MnJsLTk3MWRHazFwaUp3TS1KZzEzUjJIeUVVT0l6UG1r",
-  "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo#1"
+  "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo#1",
+  "https://nypost.com/?post_type=article&p=40222422",
+  "https://www.washingtonexaminer.com/?p=4678622",
+  "https://thehill.com/?p=6000724",
+  "https://www.washingtonexaminer.com/?p=4678673",
+  "https://thehill.com/?p=5972642",
+  "https://www.bbc.co.uk/news/articles/cdrvn686dljo#1"
  ],
  "posts": [
-  {
-   "fp": "blaze dead dozens ferry indonesian least leaves missing passenger",
-   "title": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
-   "source": "AP",
-   "at": "2026-08-02T15:29:29.090034+00:00"
-  },
-  {
-   "fp": "anti blank check fund give john kennedy legislation trump weaponization",
-   "title": "John Kennedy: Would not give Trump 'a blank check' on anti-weaponization fund legislation",
-   "source": "The Hill",
-   "at": "2026-08-02T16:02:24.067500+00:00"
-  },
-  {
-   "fp": "argues concerns driving economic khanna left primary victories",
-   "title": "Khanna argues economic concerns driving far-left primary victories",
-   "source": "The Hill",
-   "at": "2026-08-02T16:02:25.983813+00:00"
-  },
-  {
-   "fp": "2024 deal election farage months political reports return sleaze stench struck",
-   "title": "\u2018Stench of sleaze\u2019: Farage struck deal over political return months before 2024 election, reports say",
-   "source": "Guardian World",
-   "at": "2026-08-02T16:02:27.719038+00:00"
-  },
-  {
-   "fp": "ceasefire gaza hamas israel tracking",
-   "title": "Israel-Hamas war: Tracking the Gaza ceasefire",
-   "source": "AP",
-   "at": "2026-08-02T16:31:44.638518+00:00"
-  },
-  {
-   "fp": "abused allegedly bernie calls daughter finally miller moreno ohio resign",
-   "title": "Ohio Sen. Bernie Moreno finally calls for Rep. Max Miller to resign after he allegedly abused Moreno\u2019s own daughter",
-   "source": "New York Post",
-   "at": "2026-08-02T16:31:46.467223+00:00"
-  },
   {
    "fp": "2026 confirmed deadly fungus spreading states superbug where",
    "title": "Superbug confirmed in 23 states: Where is the deadly fungus spreading in 2026?",
@@ -3046,15 +3016,45 @@
    "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
    "source": "BBC World",
    "at": "2026-08-07T00:17:21.646502+00:00"
+  },
+  {
+   "fp": "andy district dramatic loses ogles primary republican reshape tennessee",
+   "title": "Rep. Andy Ogles loses Tennessee\u2019s Republican primary after dramatic district reshape",
+   "source": "New York Post",
+   "at": "2026-08-07T03:11:43.513908+00:00"
+  },
+  {
+   "fp": "andy backed house loses ogles primary seat tennessee trump",
+   "title": "Trump-backed Andy Ogles loses GOP primary for Tennessee House seat",
+   "source": "Washington Examiner",
+   "at": "2026-08-07T03:11:45.139990+00:00"
+  },
+  {
+   "fp": "columbia democratic mayor ogles primary seat tennessee wins",
+   "title": "Columbia mayor wins Democratic primary for Ogles seat in Tennessee",
+   "source": "The Hill",
+   "at": "2026-08-07T03:11:46.813683+00:00"
+  },
+  {
+   "fp": "democratic district justin lawmaker pearson primary redrawn tennessee three wins",
+   "title": "\u2018Tennessee Three\u2019 lawmaker Justin Pearson wins Democratic primary for redrawn 9th District",
+   "source": "Washington Examiner",
+   "at": "2026-08-07T03:11:48.508618+00:00"
+  },
+  {
+   "fp": "defeats former house open primary representative republican rose seat state tennessee",
+   "title": "State representative defeats former House Republican in primary for Rose's open seat in Tennessee",
+   "source": "The Hill",
+   "at": "2026-08-07T03:11:50.213240+00:00"
+  },
+  {
+   "fp": "china chip counter imposes material tariff trump",
+   "title": "Trump imposes 15% tariff on key chip material to counter China",
+   "source": "BBC World",
+   "at": "2026-08-07T03:11:51.841625+00:00"
   }
  ],
  "titles": [
-  "blaze dead dozens ferry indonesian least leaves missing passenger",
-  "anti blank check fund give john kennedy legislation trump weaponization",
-  "argues concerns driving economic khanna left primary victories",
-  "2024 deal election farage months political reports return sleaze stench struck",
-  "ceasefire gaza hamas israel tracking",
-  "abused allegedly bernie calls daughter finally miller moreno ohio resign",
   "2026 confirmed deadly fungus spreading states superbug where",
   "airport chaos fears prompts stansted wildfire",
   "america attack giving national park ranger resistance secret service tours",
@@ -3448,6 +3448,12 @@
   "106m 2019 approves collapse deadly hard hotel judge rock settlement",
   "distributor farm jalape linked mexican outbreak salmonella tracked",
   "arson charged planned police spokane told washington weeks wildfire",
-  "attacks forces government houthi kill least reportedly yemeni"
+  "attacks forces government houthi kill least reportedly yemeni",
+  "andy district dramatic loses ogles primary republican reshape tennessee",
+  "andy backed house loses ogles primary seat tennessee trump",
+  "columbia democratic mayor ogles primary seat tennessee wins",
+  "democratic district justin lawmaker pearson primary redrawn tennessee three wins",
+  "defeats former house open primary representative republican rose seat state tennessee",
+  "china chip counter imposes material tariff trump"
  ]
 }
