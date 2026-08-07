@@ -117,6 +117,24 @@
    "expired": false,
    "posted_at": "2026-08-07T21:56:05+00:00",
    "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.df69d5963473f549d10d8a65ae830b87a85eb9c7.001.1",
+   "message_id": "1535436733028630589",
+   "event": "Severe Thunderstorm Warning",
+   "area": "Christian, MO; Greene, MO; Stone, MO",
+   "expired": false,
+   "posted_at": "2026-08-07T23:57:24+00:00",
+   "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.a37c7c45265d63ee7a2a8757811e6113ec286b11.002.1",
+   "message_id": "1535436739848441967",
+   "event": "Severe Thunderstorm Warning",
+   "area": "Christian, MO; Greene, MO",
+   "expired": false,
+   "posted_at": "2026-08-07T23:57:25+00:00",
+   "expired_at": null
   }
  ]
 }
