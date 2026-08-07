@@ -727,27 +727,12 @@
   "CBMirAFBVV95cUxOWWFoTE9KRHJmOHpyeTlGcGJPVzQ1MXFMaFd3MWlHMzBERzdWMWROekpIcHhOcDJSdTlrdUx6Q3NXT1RfTWRsaW1kVS1RaDFPSUpENW5mQlhBQkNaN1FRZjJ6YS1QUmpjQ1JQWnJPR1ZqZDJnWlNhXy1sZVBKUFFVNmttS1p2ZVhtNDZsaEd3MEt0c3RYZG5VWFNfQ2phZnk1QlNFUFpqOEZjSlJZ",
   "https://www.theguardian.com/us-news/2026/aug/07/yolanda-olejniczak-marodi-wife-husband-murder",
   "https://nypost.com/?post_type=article&p=40242309",
-  "CBMioAFBVV95cUxOa1V3Uko0NTQwakR6dFZlNlZ5cVhzd1o4UXNscmR3aGpDMXpSR0hMN3RnTGlZaW1wcFVWM25kVms2eHFJcDZWckx0MjZZMEI1VEY2dXFmSExLYzZnQ0tCNV9VSEJTbkdHMk1oOERQYkk5LVRDNWRrVi1mSEdFX3JlZTUxZGFVNWhvQzlfd3dRN0twaFo3ejNsR3hoS3pKcHJJ"
+  "CBMioAFBVV95cUxOa1V3Uko0NTQwakR6dFZlNlZ5cVhzd1o4UXNscmR3aGpDMXpSR0hMN3RnTGlZaW1wcFVWM25kVms2eHFJcDZWckx0MjZZMEI1VEY2dXFmSExLYzZnQ0tCNV9VSEJTbkdHMk1oOERQYkk5LVRDNWRrVi1mSEdFX3JlZTUxZGFVNWhvQzlfd3dRN0twaFo3ejNsR3hoS3pKcHJJ",
+  "https://nypost.com/?post_type=article&p=40238177",
+  "https://nypost.com/?post_type=article&p=40241658",
+  "CBMivgFBVV95cUxNR1lCbmZlQld4bUszNnpJNkFvRnBKZHNKVmxIMUcwZ1R0elZ6YlpwdTM4dUJRaTcwM1RyQkp4V0JPQmQ2REF2SjRzU0lHa3hjRFdXUjZGb3dtaDFaSDFta0FDYVZCbVNwUXpuM1A5ZDdGMnpvcXRCMmttV3FZbnZ2RWJxeW1seFZDMEpjQnd3cC1lc2tmWFYtWDM5U3RuR1loODN0VWFSNkRmZTRhVlVpei04S2xXeDV1YVQxYmxB"
  ],
  "posts": [
-  {
-   "fp": "chaos eases growth manufacturing picks tariff trump",
-   "title": "UK manufacturing growth picks up as Trump tariff chaos eases",
-   "source": "Guardian World",
-   "at": "2026-08-03T12:23:03.157835+00:00"
-  },
-  {
-   "fp": "growing liability political republicans senate trump",
-   "title": "Senate Republicans see Trump as a growing political liability",
-   "source": "The Hill",
-   "at": "2026-08-03T12:23:04.894205+00:00"
-  },
-  {
-   "fp": "advance allow anti blanche cornyn deal fund nomination reaches weaponization",
-   "title": "Cornyn reaches deal on 'anti-weaponization fund' to allow Blanche nomination to advance",
-   "source": "The Hill",
-   "at": "2026-08-03T12:23:06.600014+00:00"
-  },
   {
    "fp": "anna journal reporter silman street wall",
    "title": "Anna Silman \u2014 Reporter at The Wall Street Journal",
@@ -3129,12 +3114,27 @@
    "title": "Cambridge academics attack vice-chancellor over Arday fiasco",
    "source": "Telegraph",
    "at": "2026-08-07T20:33:13.479782+00:00"
+  },
+  {
+   "fp": "across bill california cameras derail flock standards used",
+   "title": "New bill could derail standards on how Flock cameras are used across California",
+   "source": "New York Post",
+   "at": "2026-08-07T21:19:27.897129+00:00"
+  },
+  {
+   "fp": "arabia attack deal forge iran lingers pact pakistan saudi turkey",
+   "title": "Saudi Arabia, Turkey and Pakistan forge \u2018attack on one, attack on all\u2019 pact \u2014 as Iran deal lingers",
+   "source": "New York Post",
+   "at": "2026-08-07T21:19:29.609258+00:00"
+  },
+  {
+   "fp": "deadly home quiet rampage school shooting spree teenager thai",
+   "title": "Thai teenager's deadly rampage from his quiet home to a shooting spree at school",
+   "source": "Reuters World",
+   "at": "2026-08-07T21:19:31.374310+00:00"
   }
  ],
  "titles": [
-  "chaos eases growth manufacturing picks tariff trump",
-  "growing liability political republicans senate trump",
-  "advance allow anti blanche cornyn deal fund nomination reaches weaponization",
   "anna journal reporter silman street wall",
   "dead heat hylands night scott star",
   "dogs exterminating faces heartbreaking kill list rate unprecedented",
@@ -3531,6 +3531,9 @@
   "children clancy hospital killed lindsay psychiatric spotlights stay trial",
   "admitted also california husband killed stabbing wife woman",
   "anti attack clinton communist dems effective hillary platform very warns",
-  "academics arday attack cambridge chancellor fiasco vice"
+  "academics arday attack cambridge chancellor fiasco vice",
+  "across bill california cameras derail flock standards used",
+  "arabia attack deal forge iran lingers pact pakistan saudi turkey",
+  "deadly home quiet rampage school shooting spree teenager thai"
  ]
 }
