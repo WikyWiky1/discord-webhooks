@@ -675,39 +675,14 @@
   "https://nypost.com/?post_type=article&p=40232834",
   "https://nypost.com/?post_type=article&p=40232841",
   "https://www.theguardian.com/us-news/2026/aug/07/florida-lobster-dispute",
-  "CBMimgFBVV95cUxPZW1NN1doNGgxSVB3cmpyN2pnTnZfeGc5TG44NzQxaUlySVJ6VUliMzZVNjk3V1ZBckVQc1JKWFRxUDBUMW1iQ2I1TEgyVHBuNHdxdGZoc1EzeE96VEI3bVVjdl9qMFZSM1NzVmM1bUJuWlhXNUprLTRjd040SmVRcTJScUc0dFNlcHc4ZXNjd09xdUNKUEN3Sjhn"
+  "CBMimgFBVV95cUxPZW1NN1doNGgxSVB3cmpyN2pnTnZfeGc5TG44NzQxaUlySVJ6VUliMzZVNjk3V1ZBckVQc1JKWFRxUDBUMW1iQ2I1TEgyVHBuNHdxdGZoc1EzeE96VEI3bVVjdl9qMFZSM1NzVmM1bUJuWlhXNUprLTRjd040SmVRcTJScUc0dFNlcHc4ZXNjd09xdUNKUEN3Sjhn",
+  "https://nypost.com/?post_type=article&p=40233233",
+  "https://www.washingtonexaminer.com/?p=4677439",
+  "https://pagesix.com/?post_type=article&p=9096917",
+  "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
+  "CBMirAFBVV95cUxOLW53bUxYeW15OS1Hc2tXTjEwWWZEVGw2ajRxMk9PcnBFZE5mTHNITWJlc2ZmSGhNNFNFRjRRNE5SWG5uTmI1bldVOUlfanB6Z05iX090NzVRcUFDUzFJNDFUUFREMnZEQ0Z2ekFqUXcxUFFtcVc0Qi1CYy05RjNJQjV6VFNCX0RGckxyMVZJV2x3S1pUZ19YY1VCLUs4eFU5b1lTM1NuY2MxX0dz"
  ],
  "posts": [
-  {
-   "fp": "employee idaho killed mass reveals shooting",
-   "title": "In-N-Out employee among 2 killed in Idaho mass shooting, CEO reveals",
-   "source": "New York Post",
-   "at": "2026-08-02T19:50:11.122569+00:00"
-  },
-  {
-   "fp": "arrested fatal shooting site traveller woman",
-   "title": "Man and woman arrested after fatal shooting at Traveller site",
-   "source": "Sky News",
-   "at": "2026-08-02T19:50:13.034386+00:00"
-  },
-  {
-   "fp": "dead near shot site swindon traveller",
-   "title": "Man shot dead at traveller site near Swindon",
-   "source": "Telegraph",
-   "at": "2026-08-02T20:44:43.880778+00:00"
-  },
-  {
-   "fp": "ceuta invasion navy pledges reform stop style",
-   "title": "Reform pledges to use Navy to stop Ceuta-style \u2018invasion\u2019",
-   "source": "Telegraph",
-   "at": "2026-08-02T20:44:45.602016+00:00"
-  },
-  {
-   "fp": "chain dead fast food idaho owner shooting three worker",
-   "title": "In-N-Out worker among three dead in Idaho shooting, fast-food chain\u2019s owner says",
-   "source": "Washington Examiner",
-   "at": "2026-08-02T20:44:47.756312+00:00"
-  },
   {
    "fp": "belgorod child drone injures kills playground region russia ukrainian",
    "title": "Ukrainian drone kills one child, injures two in playground in Russia's Belgorod region",
@@ -3077,14 +3052,39 @@
    "title": "SpaceX shares rise even as company insiders get a chance to sell for the first time",
    "source": "AP",
    "at": "2026-08-07T11:49:48.496610+00:00"
+  },
+  {
+   "fp": "allied attack country early fall intelligence nato russia warns",
+   "title": "Russia could attack NATO, allied country as early as this fall, US intelligence warns",
+   "source": "New York Post",
+   "at": "2026-08-07T12:27:08.640955+00:00"
+  },
+  {
+   "fp": "dead democrats fraud groceries need protect suing",
+   "title": "Dead men don\u2019t need groceries: The fraud Democrats are suing to protect",
+   "source": "Washington Examiner",
+   "at": "2026-08-07T12:27:10.286969+00:00"
+  },
+  {
+   "fp": "abruptly band earth emergency fire involving medical member postpones show wind",
+   "title": "Earth, Wind & Fire abruptly postpones show over \u2018medical emergency involving a band member\u2019",
+   "source": "New York Post",
+   "at": "2026-08-07T12:27:11.882985+00:00"
+  },
+  {
+   "fp": "cause deadly diarrheal disease major vaccine vanquish",
+   "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
+   "source": "NPR News",
+   "at": "2026-08-07T12:27:13.611692+00:00"
+  },
+  {
+   "fp": "deadly school shooting thai vows",
+   "title": "Thai PM vows new gun law after deadly school shooting",
+   "source": "Reuters",
+   "at": "2026-08-07T12:27:15.278010+00:00"
   }
  ],
  "titles": [
-  "employee idaho killed mass reveals shooting",
-  "arrested fatal shooting site traveller woman",
-  "dead near shot site swindon traveller",
-  "ceuta invasion navy pledges reform stop style",
-  "chain dead fast food idaho owner shooting three worker",
   "belgorod child drone injures kills playground region russia ukrainian",
   "avoid campaign deal funding leaders reach season senate shutdown",
   "california dead found going missing park picturesque rafting teen",
@@ -3479,6 +3479,11 @@
   "about arrest bride child driver drunk footage killed like night wedding whines",
   "biosafety brand design experts fear questions urgent used viruses wrong",
   "accused cutting dispute diver kill lobster supply trying",
-  "chance company even insiders rise sell shares spacex time"
+  "chance company even insiders rise sell shares spacex time",
+  "allied attack country early fall intelligence nato russia warns",
+  "dead democrats fraud groceries need protect suing",
+  "abruptly band earth emergency fire involving medical member postpones show wind",
+  "cause deadly diarrheal disease major vaccine vanquish",
+  "deadly school shooting thai vows"
  ]
 }
