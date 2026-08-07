@@ -660,21 +660,11 @@
   "https://nypost.com/?post_type=article&p=40231734",
   "CBMirgFBVV95cUxOQ3NQbFh2MjQzZ3BsUmkwMWdpV19TdHZRR19Pa1JSWkpqQlRERVdhSmstdm9fclRzdVlSUG9GVzJGcGlZdDNSM1NmdDZIYmRBOS1LSXZnb1NOLTNEekNxcU9JX1JsU2JScE1hMkNYb3QxNmVoWXdTMF9vcXFySEtHbmlFVXRqdVBXLXF5YUhycmY3aUdSV24yV0p2WHhjVUxRNnF0eHNFbTJrTFNBcUE",
   "CBMiwAFBVV95cUxNZS10NkNDSzZNU0hhVHhjcVJ5RFN1YUVXVFl4Skt5bEd6cDE4RDE1NDNKc2E5OXVIV01SWEVDN28xQTBFLWp5MWc3aW44OVBuaXNOZVR0dk5nWF8wR1NKRkdEOXFOaGphdnVFZmlYQ0xGSW8wYnplMi1nSzZDVDdTV21obTBoREpmcjBXZ1N0S1FVVEw3TG01Q2FKRXlEckxyb3k1NFdobFBDUTUxRjRHcmZQSVNXRlFCODhScUJYMFU",
-  "https://www.theguardian.com/society/2026/aug/07/english-primary-schools-to-be-told-to-identify-children-at-risk-of-future-unemployment"
+  "https://www.theguardian.com/society/2026/aug/07/english-primary-schools-to-be-told-to-identify-children-at-risk-of-future-unemployment",
+  "CBMimwFBVV95cUxOX2xvZUJwYnNoTkpuRXVMM056cXZBRzFadUIySTRTRFBENlBOa2plYkQ5M0pBZkFOVGdnMk1ieV9qT2hMYlotSk9LQng3UktZTy1nQmJ3b04zVFZPd1FWMkFvbW9TaW5SV29RcVRmVEV6LVFUTzlSd193RDJLN1B6Z2U3b2hvRldZNWU3YkgtM1FMMnp1WWdqTTB0WQ",
+  "CBMirwFBVV95cUxPYkFLaGF5akhJdUZnTk9pcGVKdVNvUXBfZW5iZlhKMnZNS0NpR3BBWTdLSDZmcFg3WEczXzlBZFhPcThXZlhwRDlZVVYzbU80TEE4NWRrYmEtNEN5TVpWUk5jZ3ZzTVNMUFdBLUFHcFFJMVRHd1UtTHk1NTduNFNyTDRwbzRLaWdvSHkxbjdmRGdFdjIwUXpEd0V5NHJkVDdrMnRjYTdoSnNCUTNyUDJV"
  ],
  "posts": [
-  {
-   "fp": "bernie calls help miller moreno needs psychological resign serious",
-   "title": "Bernie Moreno says Max Miller needs \u2018serious psychological help,\u2019 calls on him to resign",
-   "source": "Washington Examiner",
-   "at": "2026-08-02T17:39:20.117011+00:00"
-  },
-  {
-   "fp": "athens collide emergency europe firefighting helicopters midair near rages wildfire",
-   "title": "Two firefighting helicopters collide midair near Athens as Europe\u2019s wildfire emergency rages",
-   "source": "Washington Examiner",
-   "at": "2026-08-02T17:39:21.833512+00:00"
-  },
   {
    "fp": "crash dead fire firefighting greece helicopter service",
    "title": "Two dead in firefighting helicopter crash in Greece, Fire Service says",
@@ -3062,11 +3052,21 @@
    "title": "Primary schools to be told to identify children at risk of future unemployment",
    "source": "Guardian World",
    "at": "2026-08-07T07:14:53.000760+00:00"
+  },
+  {
+   "fp": "authorities high kills least school shooting student thailand",
+   "title": "Student kills at least 6 in a shooting at a high school in Thailand, authorities say",
+   "source": "AP",
+   "at": "2026-08-07T07:54:25.921354+00:00"
+  },
+  {
+   "fp": "fire five killed opens others pupil school teacher thailand",
+   "title": "Teacher and five others killed as pupil opens fire at school in Thailand",
+   "source": "Telegraph",
+   "at": "2026-08-07T07:54:27.607191+00:00"
   }
  ],
  "titles": [
-  "bernie calls help miller moreno needs psychological resign serious",
-  "athens collide emergency europe firefighting helicopters midair near rages wildfire",
   "crash dead fire firefighting greece helicopter service",
   "burned eastern evacuation fires forced homes structures washington",
   "braced cuts drought hungary nuclear plant power shuts",
@@ -3464,6 +3464,8 @@
   "area called concert earth emergency fans fire left lionel medical moments richie showtime stunned wind",
   "american antarctic flown hospital midwinter mission rare rescue zealand",
   "ants back dents drive homecoming korean kospi rout street swarm wall",
-  "children future identify primary risk schools told unemployment"
+  "children future identify primary risk schools told unemployment",
+  "authorities high kills least school shooting student thailand",
+  "fire five killed opens others pupil school teacher thailand"
  ]
 }
