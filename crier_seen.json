@@ -653,27 +653,13 @@
   "https://www.bbc.co.uk/news/articles/cdrvn686dljo#1",
   "https://nypost.com/?post_type=article&p=40228537",
   "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-attack",
-  "https://www.theguardian.com/australia-news/2026/aug/07/man-dead-suspected-dog-attack-eschol-park-sydney-suburb-ntwnfb"
+  "https://www.theguardian.com/australia-news/2026/aug/07/man-dead-suspected-dog-attack-eschol-park-sydney-suburb-ntwnfb",
+  "CBMiqAFBVV95cUxOT05uSV9KT3VqLUIteGZ3aHpRRkF4QURLSGlFMDdtLUVqbVlyenVCbE9hQ0pQWmVFVnA1MFA5UU4zYXpaMTJPeFBkQy03Qk1fTnNMa25WX1R6N2VhYng3cmdpTHQyNkRiZTEwYjk5TThFdk9yRm9kaGtOMFU1ZnZsRktQdkdsRnFEQm5nM2NuSGkyQ3lDMEFlMjZ1LVZuc3RKUnpkMW5oeUM",
+  "https://nypost.com/?post_type=article&p=40231826",
+  "https://nypost.com/?post_type=article&p=40231818",
+  "https://nypost.com/?post_type=article&p=40231734"
  ],
  "posts": [
-  {
-   "fp": "bombing kills least officials pakistan police station suicide suspected",
-   "title": "Suspected suicide bombing at police station kills at least 14 in Pakistan, officials say",
-   "source": "Reuters World",
-   "at": "2026-08-02T17:39:09.133464+00:00"
-  },
-  {
-   "fp": "border ceuta crisis dead enclave least mass migrant rush spanish sparking storm",
-   "title": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
-   "source": "Fox News World",
-   "at": "2026-08-02T17:39:10.943510+00:00"
-  },
-  {
-   "fp": "attempt border ceuta death enclave enter migrants reaches spanish storming toll",
-   "title": "Ceuta border storming death toll reaches 72 after 50K migrants attempt to enter Spanish enclave",
-   "source": "New York Post",
-   "at": "2026-08-02T17:39:12.934304+00:00"
-  },
   {
    "fp": "affects chicken cobbler concerns massive metal pounds recall spaghetti",
    "title": "Massive recall affects 23K pounds of spaghetti, chicken cobbler over metal concerns",
@@ -3055,12 +3041,27 @@
    "title": "Man dies after suspected dog attack at rural property in Sydney suburb",
    "source": "Guardian World",
    "at": "2026-08-07T03:19:28.683507+00:00"
+  },
+  {
+   "fp": "dead gunman including officials school shooting thailand",
+   "title": "Two dead, including gunman, at school shooting in Thailand, officials say",
+   "source": "Reuters World",
+   "at": "2026-08-07T05:07:13.465669+00:00"
+  },
+  {
+   "fp": "busy bystanders gunman near safety scrambling sending shoots station subway video",
+   "title": "Gunman shoots two near busy NYC subway station, sending bystanders scrambling to safety: video",
+   "source": "New York Post",
+   "at": "2026-08-07T05:07:15.159906+00:00"
+  },
+  {
+   "fp": "area called concert earth emergency fans fire left lionel medical moments richie showtime stunned wind",
+   "title": "Bay Area fans left stunned as Lionel Richie, Earth, Wind & Fire concert called off over medical emergency moments before showtime",
+   "source": "New York Post",
+   "at": "2026-08-07T05:07:16.864383+00:00"
   }
  ],
  "titles": [
-  "bombing kills least officials pakistan police station suicide suspected",
-  "border ceuta crisis dead enclave least mass migrant rush spanish sparking storm",
-  "attempt border ceuta death enclave enter migrants reaches spanish storming toll",
   "affects chicken cobbler concerns massive metal pounds recall spaghetti",
   "arrest cleveland failed girl killed later police year",
   "crash dead firefighting greece helicopters",
@@ -3457,6 +3458,9 @@
   "china chip counter imposes material tariff trump",
   "deadly fall hazard ladders potentially recalled",
   "attack birthright campaign citizenship effort latest obsessive trump",
-  "attack dies property rural suburb suspected sydney"
+  "attack dies property rural suburb suspected sydney",
+  "dead gunman including officials school shooting thailand",
+  "busy bystanders gunman near safety scrambling sending shoots station subway video",
+  "area called concert earth emergency fans fire left lionel medical moments richie showtime stunned wind"
  ]
 }
