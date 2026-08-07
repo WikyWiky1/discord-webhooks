@@ -669,21 +669,11 @@
   "CBMimgFBVV95cUxNLTJqbUlVLUYyTnE1VEkycHVkUTVReGJmR1liUG9DajNoa0E5MkFsaFpFWHBCbm5sRVJMcVVkYnh2NFA0ZVpxSFNnMG9mbkRDNWloWDU0c0RoRnpyQlB1cGlZNVdDM3NzaS1BU0pVSWFyMmE5VE5xX0FsMFg1TDRyUFR4ZzF5VEU2MWM3cE5iREswMDFEbkMyN2RB",
   "CBMimgFBVV95cUxQeU5NZnNvRFR5aUlGbzMtYWJWdy0tYVRVMG5BQkFjODE0akVXbmxsNk9XcnZBaEY2NXdrbmNFZDU3anlBQm12alB0VEl1dHdLV1ZBX3UtWjRpb0p6VTFlMVhzM29mOGRxTTZ2RHRkWFpyYS0zUlRxejdzdmNrR1A4YUhKOUtHMW1YVHdsTm4yZW9aZXpIbDNZV0JR",
   "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
-  "CBMijgFBVV95cUxNM2hsUkw2Zkw4Q3dRTnFBMEFzZWhKMUhiS0d2NkM0dmhTNVRMLWhoOExzSUZncENvdy1NOEJkRUlNNm9CRlR6ZnFPQ0dsM1VFM2V2ajVRS1VTZlJKcWZPVzc1bEtlWjVTdl90V1NKV3pndXVFQUZEMFJjSDRUcUlGdVJaMUctejZUYWVCQ1FR"
+  "CBMijgFBVV95cUxNM2hsUkw2Zkw4Q3dRTnFBMEFzZWhKMUhiS0d2NkM0dmhTNVRMLWhoOExzSUZncENvdy1NOEJkRUlNNm9CRlR6ZnFPQ0dsM1VFM2V2ajVRS1VTZlJKcWZPVzc1bEtlWjVTdl90V1NKV3pndXVFQUZEMFJjSDRUcUlGdVJaMUctejZUYWVCQ1FR",
+  "https://thehill.com/?p=6015595",
+  "CBMirgFBVV95cUxQZndfVnpaMXNHREVrcEFXcjVaUzlTRGpSdUNEMzFObVJwUll5SXJQdUE1cUszMW5ZeDJ6dmV5SEdHbFk5Sy1yZjVETzN3VDdPZzhnejJ3VUwzVTRpdEJjT1BoU3c1M243QWJHMWZBcE5XeGprNEZUTzF1V2IwT0psN1lWMGY2N1dTUXMxTHA0b3U2TGxjeThCX2xybC1mVFZTeGZnNVEwZUI1VEVSaXc"
  ],
  "posts": [
-  {
-   "fp": "abuse allegations congressman domestic election ohio shake",
-   "title": "Domestic-Abuse Allegations Shake Ohio Congressman\u2019s Re-election Bid",
-   "source": "WSJ",
-   "at": "2026-08-02T19:09:17.545399+00:00"
-  },
-  {
-   "fp": "alabama contentious fauci florida hearing investigating joins louisiana senate",
-   "title": "Louisiana joins Alabama and Florida in investigating Fauci after contentious Senate hearing",
-   "source": "Washington Examiner",
-   "at": "2026-08-02T19:09:19.323930+00:00"
-  },
   {
    "fp": "congress ncaa opinion pushes title",
    "title": "Opinion | NCAA Pushes Congress to Gut Title IX",
@@ -3071,11 +3061,21 @@
    "title": "Asian shares are mixed after US stocks fall back while oil rebounds",
    "source": "AP",
    "at": "2026-08-07T10:01:24.026220+00:00"
+  },
+  {
+   "fp": "abuse allegations derail harassment message midterm republicans threaten",
+   "title": "Abuse, harassment allegations threaten to derail Republicans\u2019 midterm message",
+   "source": "The Hill",
+   "at": "2026-08-07T10:44:38.208102+00:00"
+  },
+  {
+   "fp": "attack burns drone giant latest long range retail russian ukraine warehouse",
+   "title": "A Russian retail giant\u2019s warehouse burns after Ukraine\u2019s latest long-range drone attack",
+   "source": "AP",
+   "at": "2026-08-07T10:44:39.909637+00:00"
   }
  ],
  "titles": [
-  "abuse allegations congressman domestic election ohio shake",
-  "alabama contentious fauci florida hearing investigating joins louisiana senate",
   "congress ncaa opinion pushes title",
   "brother died entebbe israel mission rescue statue uganda unveils",
   "california dead found high identified mystery roof school",
@@ -3473,6 +3473,8 @@
   "deadly disease fuels heatwave sheep spread",
   "doing ebola fastest growing history outbreak slow unpaid works",
   "material microchips orders panels solar tariff trump",
-  "asian back fall mixed rebounds shares stocks"
+  "asian back fall mixed rebounds shares stocks",
+  "abuse allegations derail harassment message midterm republicans threaten",
+  "attack burns drone giant latest long range retail russian ukraine warehouse"
  ]
 }
