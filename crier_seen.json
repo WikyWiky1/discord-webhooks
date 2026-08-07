@@ -736,15 +736,11 @@
   "CBMiYkFVX3lxTE1vUFpsa2NUeEp3dEFXUldXX2k5TUtiWlQwaEdUQXR1SWtnMlVqcy0zUzVFTVJpWkhub0NZY2NOdkhnVVFsaDl1SGtCMTFSOWVHc2FLUnFLWjUxVXZrU0ZwV1FR",
   "https://thehill.com/?p=6017663",
   "https://thehill.com/?p=6017600",
-  "https://www.washingtonexaminer.com/?p=4679681"
+  "https://www.washingtonexaminer.com/?p=4679681",
+  "https://www.theguardian.com/us-news/2026/aug/07/idaho-police-shooting-in-n-out-burger-video",
+  "https://www.bbc.co.uk/news/articles/cdewx6rew04o#0"
  ],
  "posts": [
-  {
-   "fp": "attack calls claim denies iran peace planned talks trump",
-   "title": "Iran denies Trump claim new peace talks planned after US calls off attack",
-   "source": "New York Post",
-   "at": "2026-08-03T12:44:18.315466+00:00"
-  },
   {
    "fp": "attack child drone four holiday including killed people resort russia ukrainian",
    "title": "Russia says four people killed at holiday resort, including a child, in Ukrainian drone attack",
@@ -3116,12 +3112,6 @@
    "at": "2026-08-07T21:38:30.736685+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-08-07T21:38:32.406899+00:00"
-  },
-  {
    "fp": "august bill college holding path recess senate sports",
    "title": "College sports bill holding up Senate\u2019s path to August recess",
    "source": "The Hill",
@@ -3138,10 +3128,21 @@
    "title": "Daily on Energy: Things to watch when Congress returns next month",
    "source": "Washington Examiner",
    "at": "2026-08-07T21:38:39.067311+00:00"
+  },
+  {
+   "fp": "burger idaho killed mass police release shooting three video",
+   "title": "Idaho police release video of In-N-Out Burger mass shooting that killed three",
+   "source": "Guardian World",
+   "at": "2026-08-07T21:59:11.421210+00:00"
+  },
+  {
+   "fp": "eight introduce killed laws shooting stricter thai vows",
+   "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+   "source": "BBC World",
+   "at": "2026-08-07T21:59:13.099609+00:00"
   }
  ],
  "titles": [
-  "attack calls claim denies iran peace planned talks trump",
   "attack child drone four holiday including killed people resort russia ukrainian",
   "begins cleanup heat intense japan minister prime quake southern visits",
   "deal hormuz iran oman promises shipping talks tehran thing touts trump",
@@ -3537,9 +3538,10 @@
   "deadly home quiet rampage school shooting spree teenager thai",
   "closes concerns eases high hike jobs rate record report soft",
   "asks coverage delay hemp keep medicare senate seniors",
-  "edition journal print street wall",
   "august bill college holding path recess senate sports",
   "agriculture call groups house pass push reconciliation senate white",
-  "congress daily energy month next returns things watch"
+  "congress daily energy month next returns things watch",
+  "burger idaho killed mass police release shooting three video",
+  "eight introduce killed laws shooting stricter thai vows"
  ]
 }
