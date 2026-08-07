@@ -662,21 +662,11 @@
   "CBMiwAFBVV95cUxNZS10NkNDSzZNU0hhVHhjcVJ5RFN1YUVXVFl4Skt5bEd6cDE4RDE1NDNKc2E5OXVIV01SWEVDN28xQTBFLWp5MWc3aW44OVBuaXNOZVR0dk5nWF8wR1NKRkdEOXFOaGphdnVFZmlYQ0xGSW8wYnplMi1nSzZDVDdTV21obTBoREpmcjBXZ1N0S1FVVEw3TG01Q2FKRXlEckxyb3k1NFdobFBDUTUxRjRHcmZQSVNXRlFCODhScUJYMFU",
   "https://www.theguardian.com/society/2026/aug/07/english-primary-schools-to-be-told-to-identify-children-at-risk-of-future-unemployment",
   "CBMimwFBVV95cUxOX2xvZUJwYnNoTkpuRXVMM056cXZBRzFadUIySTRTRFBENlBOa2plYkQ5M0pBZkFOVGdnMk1ieV9qT2hMYlotSk9LQng3UktZTy1nQmJ3b04zVFZPd1FWMkFvbW9TaW5SV29RcVRmVEV6LVFUTzlSd193RDJLN1B6Z2U3b2hvRldZNWU3YkgtM1FMMnp1WWdqTTB0WQ",
-  "CBMirwFBVV95cUxPYkFLaGF5akhJdUZnTk9pcGVKdVNvUXBfZW5iZlhKMnZNS0NpR3BBWTdLSDZmcFg3WEczXzlBZFhPcThXZlhwRDlZVVYzbU80TEE4NWRrYmEtNEN5TVpWUk5jZ3ZzTVNMUFdBLUFHcFFJMVRHd1UtTHk1NTduNFNyTDRwbzRLaWdvSHkxbjdmRGdFdjIwUXpEd0V5NHJkVDdrMnRjYTdoSnNCUTNyUDJV"
+  "CBMirwFBVV95cUxPYkFLaGF5akhJdUZnTk9pcGVKdVNvUXBfZW5iZlhKMnZNS0NpR3BBWTdLSDZmcFg3WEczXzlBZFhPcThXZlhwRDlZVVYzbU80TEE4NWRrYmEtNEN5TVpWUk5jZ3ZzTVNMUFdBLUFHcFFJMVRHd1UtTHk1NTduNFNyTDRwbzRLaWdvSHkxbjdmRGdFdjIwUXpEd0V5NHJkVDdrMnRjYTdoSnNCUTNyUDJV",
+  "CBMivwFBVV95cUxOZVV0a3F4WUVuVi1vLTBHYzhxaHo0alduWmZDX3habThUSnFrb1RDUFo5bWkwdVVlUG03TkNCbkZKQzRDY2tMVmsycVRWTW9pejJrc1Y4RjQ3UGpzR2ozbl9tVzZ5T3d1OVh4c2p5WEM4cXRkMTg5bzcycnVhT3c1RzZmV2VXUFpJd0luV2FDYXBCdUh2TlZQNUpoTHg2T1U4MVlNbVZjbzdNVFpxdGYwTERDYnhxSm1KNHZlMGtYQQ",
+  "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok"
  ],
  "posts": [
-  {
-   "fp": "crash dead fire firefighting greece helicopter service",
-   "title": "Two dead in firefighting helicopter crash in Greece, Fire Service says",
-   "source": "Reuters",
-   "at": "2026-08-02T17:39:23.575370+00:00"
-  },
-  {
-   "fp": "burned eastern evacuation fires forced homes structures washington",
-   "title": "Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes",
-   "source": "AP",
-   "at": "2026-08-02T17:39:25.299573+00:00"
-  },
   {
    "fp": "braced cuts drought hungary nuclear plant power shuts",
    "title": "Hungary braced for power cuts as drought shuts nuclear plant",
@@ -3064,11 +3054,21 @@
    "title": "Teacher and five others killed as pupil opens fire at school in Thailand",
    "source": "Telegraph",
    "at": "2026-08-07T07:54:27.607191+00:00"
+  },
+  {
+   "fp": "another attack campaign drone reports russia target ukrainian urals wildberries",
+   "title": "Russia's Wildberries, target of Ukrainian drone campaign, reports another attack in Urals",
+   "source": "Reuters World",
+   "at": "2026-08-07T08:49:32.366616+00:00"
+  },
+  {
+   "fp": "attacker eight including killed police school shooting suspected thailand",
+   "title": "Thailand school shooting: eight killed including suspected attacker, police say",
+   "source": "Guardian World",
+   "at": "2026-08-07T08:49:34.081159+00:00"
   }
  ],
  "titles": [
-  "crash dead fire firefighting greece helicopter service",
-  "burned eastern evacuation fires forced homes structures washington",
   "braced cuts drought hungary nuclear plant power shuts",
   "children families measles outbreak tells vaccinate",
   "abuse allegations calls congress miller republican resign",
@@ -3466,6 +3466,8 @@
   "ants back dents drive homecoming korean kospi rout street swarm wall",
   "children future identify primary risk schools told unemployment",
   "authorities high kills least school shooting student thailand",
-  "fire five killed opens others pupil school teacher thailand"
+  "fire five killed opens others pupil school teacher thailand",
+  "another attack campaign drone reports russia target ukrainian urals wildberries",
+  "attacker eight including killed police school shooting suspected thailand"
  ]
 }
