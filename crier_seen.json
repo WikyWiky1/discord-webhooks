@@ -657,27 +657,12 @@
   "CBMiqAFBVV95cUxOT05uSV9KT3VqLUIteGZ3aHpRRkF4QURLSGlFMDdtLUVqbVlyenVCbE9hQ0pQWmVFVnA1MFA5UU4zYXpaMTJPeFBkQy03Qk1fTnNMa25WX1R6N2VhYng3cmdpTHQyNkRiZTEwYjk5TThFdk9yRm9kaGtOMFU1ZnZsRktQdkdsRnFEQm5nM2NuSGkyQ3lDMEFlMjZ1LVZuc3RKUnpkMW5oeUM",
   "https://nypost.com/?post_type=article&p=40231826",
   "https://nypost.com/?post_type=article&p=40231818",
-  "https://nypost.com/?post_type=article&p=40231734"
+  "https://nypost.com/?post_type=article&p=40231734",
+  "CBMirgFBVV95cUxOQ3NQbFh2MjQzZ3BsUmkwMWdpV19TdHZRR19Pa1JSWkpqQlRERVdhSmstdm9fclRzdVlSUG9GVzJGcGlZdDNSM1NmdDZIYmRBOS1LSXZnb1NOLTNEekNxcU9JX1JsU2JScE1hMkNYb3QxNmVoWXdTMF9vcXFySEtHbmlFVXRqdVBXLXF5YUhycmY3aUdSV24yV0p2WHhjVUxRNnF0eHNFbTJrTFNBcUE",
+  "CBMiwAFBVV95cUxNZS10NkNDSzZNU0hhVHhjcVJ5RFN1YUVXVFl4Skt5bEd6cDE4RDE1NDNKc2E5OXVIV01SWEVDN28xQTBFLWp5MWc3aW44OVBuaXNOZVR0dk5nWF8wR1NKRkdEOXFOaGphdnVFZmlYQ0xGSW8wYnplMi1nSzZDVDdTV21obTBoREpmcjBXZ1N0S1FVVEw3TG01Q2FKRXlEckxyb3k1NFdobFBDUTUxRjRHcmZQSVNXRlFCODhScUJYMFU",
+  "https://www.theguardian.com/society/2026/aug/07/english-primary-schools-to-be-told-to-identify-children-at-risk-of-future-unemployment"
  ],
  "posts": [
-  {
-   "fp": "affects chicken cobbler concerns massive metal pounds recall spaghetti",
-   "title": "Massive recall affects 23K pounds of spaghetti, chicken cobbler over metal concerns",
-   "source": "New York Post",
-   "at": "2026-08-02T17:39:14.663920+00:00"
-  },
-  {
-   "fp": "arrest cleveland failed girl killed later police year",
-   "title": "Cleveland police failed to arrest man who later killed two-year-old girl",
-   "source": "Guardian World",
-   "at": "2026-08-02T17:39:16.572767+00:00"
-  },
-  {
-   "fp": "crash dead firefighting greece helicopters",
-   "title": "Two dead after firefighting helicopters crash in Greece",
-   "source": "Telegraph",
-   "at": "2026-08-02T17:39:18.297788+00:00"
-  },
   {
    "fp": "bernie calls help miller moreno needs psychological resign serious",
    "title": "Bernie Moreno says Max Miller needs \u2018serious psychological help,\u2019 calls on him to resign",
@@ -3059,12 +3044,27 @@
    "title": "Bay Area fans left stunned as Lionel Richie, Earth, Wind & Fire concert called off over medical emergency moments before showtime",
    "source": "New York Post",
    "at": "2026-08-07T05:07:16.864383+00:00"
+  },
+  {
+   "fp": "american antarctic flown hospital midwinter mission rare rescue zealand",
+   "title": "American flown to a New Zealand hospital in a rare midwinter Antarctic rescue mission",
+   "source": "AP",
+   "at": "2026-08-07T07:14:49.512638+00:00"
+  },
+  {
+   "fp": "ants back dents drive homecoming korean kospi rout street swarm wall",
+   "title": "Korean 'ants' swarm back to Wall Street as KOSPI rout dents homecoming drive",
+   "source": "Reuters",
+   "at": "2026-08-07T07:14:51.184994+00:00"
+  },
+  {
+   "fp": "children future identify primary risk schools told unemployment",
+   "title": "Primary schools to be told to identify children at risk of future unemployment",
+   "source": "Guardian World",
+   "at": "2026-08-07T07:14:53.000760+00:00"
   }
  ],
  "titles": [
-  "affects chicken cobbler concerns massive metal pounds recall spaghetti",
-  "arrest cleveland failed girl killed later police year",
-  "crash dead firefighting greece helicopters",
   "bernie calls help miller moreno needs psychological resign serious",
   "athens collide emergency europe firefighting helicopters midair near rages wildfire",
   "crash dead fire firefighting greece helicopter service",
@@ -3461,6 +3461,9 @@
   "attack dies property rural suburb suspected sydney",
   "dead gunman including officials school shooting thailand",
   "busy bystanders gunman near safety scrambling sending shoots station subway video",
-  "area called concert earth emergency fans fire left lionel medical moments richie showtime stunned wind"
+  "area called concert earth emergency fans fire left lionel medical moments richie showtime stunned wind",
+  "american antarctic flown hospital midwinter mission rare rescue zealand",
+  "ants back dents drive homecoming korean kospi rout street swarm wall",
+  "children future identify primary risk schools told unemployment"
  ]
 }
