@@ -738,15 +738,10 @@
   "https://thehill.com/?p=6017600",
   "https://www.washingtonexaminer.com/?p=4679681",
   "https://www.theguardian.com/us-news/2026/aug/07/idaho-police-shooting-in-n-out-burger-video",
-  "https://www.bbc.co.uk/news/articles/cdewx6rew04o#0"
+  "https://www.bbc.co.uk/news/articles/cdewx6rew04o#0",
+  "https://nypost.com/?post_type=article&p=40243682"
  ],
  "posts": [
-  {
-   "fp": "attack child drone four holiday including killed people resort russia ukrainian",
-   "title": "Russia says four people killed at holiday resort, including a child, in Ukrainian drone attack",
-   "source": "Reuters",
-   "at": "2026-08-03T12:44:20.080706+00:00"
-  },
   {
    "fp": "begins cleanup heat intense japan minister prime quake southern visits",
    "title": "Prime minister visits quake-hit southern Japan as cleanup begins in intense heat",
@@ -3140,10 +3135,15 @@
    "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
    "source": "BBC World",
    "at": "2026-08-07T21:59:13.099609+00:00"
+  },
+  {
+   "fp": "autistic dead feet florida found home just year",
+   "title": "5-year-old autistic boy found dead just feet from his Florida home",
+   "source": "New York Post",
+   "at": "2026-08-07T22:40:13.267781+00:00"
   }
  ],
  "titles": [
-  "attack child drone four holiday including killed people resort russia ukrainian",
   "begins cleanup heat intense japan minister prime quake southern visits",
   "deal hormuz iran oman promises shipping talks tehran thing touts trump",
   "area destroy evacuate fires force hundreds residents spokane state structures washington",
@@ -3542,6 +3542,7 @@
   "agriculture call groups house pass push reconciliation senate white",
   "congress daily energy month next returns things watch",
   "burger idaho killed mass police release shooting three video",
-  "eight introduce killed laws shooting stricter thai vows"
+  "eight introduce killed laws shooting stricter thai vows",
+  "autistic dead feet florida found home just year"
  ]
 }
