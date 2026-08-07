@@ -671,27 +671,12 @@
   "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
   "CBMijgFBVV95cUxNM2hsUkw2Zkw4Q3dRTnFBMEFzZWhKMUhiS0d2NkM0dmhTNVRMLWhoOExzSUZncENvdy1NOEJkRUlNNm9CRlR6ZnFPQ0dsM1VFM2V2ajVRS1VTZlJKcWZPVzc1bEtlWjVTdl90V1NKV3pndXVFQUZEMFJjSDRUcUlGdVJaMUctejZUYWVCQ1FR",
   "https://thehill.com/?p=6015595",
-  "CBMirgFBVV95cUxQZndfVnpaMXNHREVrcEFXcjVaUzlTRGpSdUNEMzFObVJwUll5SXJQdUE1cUszMW5ZeDJ6dmV5SEdHbFk5Sy1yZjVETzN3VDdPZzhnejJ3VUwzVTRpdEJjT1BoU3c1M243QWJHMWZBcE5XeGprNEZUTzF1V2IwT0psN1lWMGY2N1dTUXMxTHA0b3U2TGxjeThCX2xybC1mVFZTeGZnNVEwZUI1VEVSaXc"
+  "CBMirgFBVV95cUxQZndfVnpaMXNHREVrcEFXcjVaUzlTRGpSdUNEMzFObVJwUll5SXJQdUE1cUszMW5ZeDJ6dmV5SEdHbFk5Sy1yZjVETzN3VDdPZzhnejJ3VUwzVTRpdEJjT1BoU3c1M243QWJHMWZBcE5XeGprNEZUTzF1V2IwT0psN1lWMGY2N1dTUXMxTHA0b3U2TGxjeThCX2xybC1mVFZTeGZnNVEwZUI1VEVSaXc",
+  "https://nypost.com/?post_type=article&p=40232834",
+  "https://nypost.com/?post_type=article&p=40232841",
+  "https://www.theguardian.com/us-news/2026/aug/07/florida-lobster-dispute"
  ],
  "posts": [
-  {
-   "fp": "congress ncaa opinion pushes title",
-   "title": "Opinion | NCAA Pushes Congress to Gut Title IX",
-   "source": "WSJ",
-   "at": "2026-08-02T19:09:21.034763+00:00"
-  },
-  {
-   "fp": "brother died entebbe israel mission rescue statue uganda unveils",
-   "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-   "source": "BBC World",
-   "at": "2026-08-02T19:09:22.775786+00:00"
-  },
-  {
-   "fp": "california dead found high identified mystery roof school",
-   "title": "Mystery as man found dead on roof of California high school is identified",
-   "source": "New York Post",
-   "at": "2026-08-02T19:50:07.720441+00:00"
-  },
   {
    "fp": "agency attack crew home iranian news returns ship ukrainian",
    "title": "Crew of Iranian ship hit in Ukrainian attack returns home, news agency says",
@@ -3073,12 +3058,27 @@
    "title": "A Russian retail giant\u2019s warehouse burns after Ukraine\u2019s latest long-range drone attack",
    "source": "AP",
    "at": "2026-08-07T10:44:39.909637+00:00"
+  },
+  {
+   "fp": "about arrest bride child driver drunk footage killed like night wedding whines",
+   "title": "Drunk driver who killed bride on wedding night whines like child about arrest in new footage",
+   "source": "New York Post",
+   "at": "2026-08-07T11:39:57.054470+00:00"
+  },
+  {
+   "fp": "biosafety brand design experts fear questions urgent used viruses wrong",
+   "title": "AI used to design brand new viruses \u2014 but experts fear a lot could go wrong: \u2018Urgent biosafety questions\u2019",
+   "source": "New York Post",
+   "at": "2026-08-07T11:39:58.872055+00:00"
+  },
+  {
+   "fp": "accused cutting dispute diver kill lobster supply trying",
+   "title": "US man accused of trying to kill diver by cutting air supply in lobster dispute",
+   "source": "Guardian World",
+   "at": "2026-08-07T11:40:00.571963+00:00"
   }
  ],
  "titles": [
-  "congress ncaa opinion pushes title",
-  "brother died entebbe israel mission rescue statue uganda unveils",
-  "california dead found high identified mystery roof school",
   "agency attack crew home iranian news returns ship ukrainian",
   "employee idaho killed mass reveals shooting",
   "arrested fatal shooting site traveller woman",
@@ -3475,6 +3475,9 @@
   "material microchips orders panels solar tariff trump",
   "asian back fall mixed rebounds shares stocks",
   "abuse allegations derail harassment message midterm republicans threaten",
-  "attack burns drone giant latest long range retail russian ukraine warehouse"
+  "attack burns drone giant latest long range retail russian ukraine warehouse",
+  "about arrest bride child driver drunk footage killed like night wedding whines",
+  "biosafety brand design experts fear questions urgent used viruses wrong",
+  "accused cutting dispute diver kill lobster supply trying"
  ]
 }
