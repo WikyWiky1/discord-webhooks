@@ -686,27 +686,12 @@
   "https://thehill.com/?p=6015981",
   "https://www.washingtonexaminer.com/?p=4678328",
   "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
-  "CBMitwFBVV95cUxPUks4b2Fka2UwQVNGMXhQdnpVN0Jya2xIMGh2WHJmUnJXblRRQndFbjFQRlNTU0dEUGp6ZWhKUEp1QW0tVTVHMTZRXzlENW9RSWN2QVlVWS04ZFZOSVljQkhiVHoya0JZSnVBQUlGUFJKZmliNWZBM0tSYTlEcG9nZDJZSzlMUVdZYjlTenM2OUs3MnJHdTdxZ01IejhNZ1hXTWQ1OTJaT0U2R2JRLVRXNXVZVjlXc0E"
+  "CBMitwFBVV95cUxPUks4b2Fka2UwQVNGMXhQdnpVN0Jya2xIMGh2WHJmUnJXblRRQndFbjFQRlNTU0dEUGp6ZWhKUEp1QW0tVTVHMTZRXzlENW9RSWN2QVlVWS04ZFZOSVljQkhiVHoya0JZSnVBQUlGUFJKZmliNWZBM0tSYTlEcG9nZDJZSzlMUVdZYjlTenM2OUs3MnJHdTdxZ01IejhNZ1hXTWQ1OTJaT0U2R2JRLVRXNXVZVjlXc0E",
+  "https://nypost.com/?post_type=article&p=40233096",
+  "https://www.theguardian.com/business/2026/aug/07/flight-travel-costs-iran-war",
+  "https://www.theguardian.com/us-news/2026/aug/07/kristen-galvan-houston-family"
  ],
  "posts": [
-  {
-   "fp": "backs jackson maine platform race sanders senate strong troy",
-   "title": "Sanders backs Troy Jackson in Maine Senate race: 'Strong platform'",
-   "source": "The Hill",
-   "at": "2026-08-02T21:56:02.199528+00:00"
-  },
-  {
-   "fp": "class election general many republican sanders sayed vote voters working",
-   "title": "Sanders says \u2018many\u2019 working-class Republican voters could vote for el Sayed in general election",
-   "source": "Washington Examiner",
-   "at": "2026-08-02T21:56:04.006967+00:00"
-  },
-  {
-   "fp": "chorus fill graham left looks republicans senate void",
-   "title": "Senate GOP looks for 'chorus' of Republicans to fill void left by Graham",
-   "source": "The Hill",
-   "at": "2026-08-02T21:56:05.778529+00:00"
-  },
   {
    "fp": "nasdaq shorts",
    "title": "Nasdaq Shorts Up 2%",
@@ -3088,12 +3073,27 @@
    "title": "Republican Sen. Lisa Murkowski says she will oppose Todd Blanche's nomination as attorney general",
    "source": "AP",
    "at": "2026-08-07T13:02:32.676221+00:00"
+  },
+  {
+   "fp": "couple dead death door found glamorous going kayaking missing near perilous trip young",
+   "title": "Glamorous young couple on kayaking trip found dead after going missing near perilous \u2018Death\u2019s Door\u2019",
+   "source": "New York Post",
+   "at": "2026-08-07T13:54:38.183475+00:00"
+  },
+  {
+   "fp": "airfares ceasefire drops even expected experts high iran prices stay",
+   "title": "US airfares expected to stay high even if Iran ceasefire drops oil prices, experts say",
+   "source": "Guardian World",
+   "at": "2026-08-07T13:54:40.000722+00:00"
+  },
+  {
+   "fp": "decries didn failures killed mother need police teen trafficked",
+   "title": "\u2018It didn\u2019t need to end this way\u2019: mother of US teen trafficked and killed decries police failures",
+   "source": "Guardian World",
+   "at": "2026-08-07T13:54:41.741824+00:00"
   }
  ],
  "titles": [
-  "backs jackson maine platform race sanders senate strong troy",
-  "class election general many republican sanders sayed vote voters working",
-  "chorus fill graham left looks republicans senate void",
   "nasdaq shorts",
   "asian doubts equities korean leading lower stocks tumble",
   "abuse allegations citing congress miller moreno ohio senator serve should",
@@ -3490,6 +3490,9 @@
   "blanche faces live nomination ropes senate updates votes",
   "economy friday jobs means report trump",
   "another attorney blanche comes confirmation general live narrowing nomination path republican todd",
-  "attorney blanche general lisa murkowski nomination oppose republican todd"
+  "attorney blanche general lisa murkowski nomination oppose republican todd",
+  "couple dead death door found glamorous going kayaking missing near perilous trip young",
+  "airfares ceasefire drops even expected experts high iran prices stay",
+  "decries didn failures killed mother need police teen trafficked"
  ]
 }
