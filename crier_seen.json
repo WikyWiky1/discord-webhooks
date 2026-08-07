@@ -690,33 +690,13 @@
   "https://nypost.com/?post_type=article&p=40233096",
   "https://www.theguardian.com/business/2026/aug/07/flight-travel-costs-iran-war",
   "https://www.theguardian.com/us-news/2026/aug/07/kristen-galvan-houston-family",
-  "https://www.bbc.co.uk/news/articles/c980j3j578do#0"
+  "https://www.bbc.co.uk/news/articles/c980j3j578do#0",
+  "https://nypost.com/?post_type=article&p=40236709",
+  "https://nypost.com/?post_type=article&p=40233762",
+  "https://www.washingtonexaminer.com/?p=4679079",
+  "CBMimgFBVV95cUxPb2lDSDVIamFRRWdzU0tlSjVrOHAxN3EtNzItQmVZbmtaZ3VPaHNsVUs1TEl4OFNtaGxDanBQMERJVHh6SWJqN0w3VnhtR2RNZmxNWEsyWkF4dG5iQ3lvU0wyOUhJLWlOWV9wQVhGOUhQMlZDdG5fYU5lMkJWLXRrX1NmYlFaTURXa0xrdE1NamZ4dlBSTjFQYzh3"
  ],
  "posts": [
-  {
-   "fp": "asian doubts equities korean leading lower stocks tumble",
-   "title": "Korean Stocks Tumble on Doubts Over AI, Leading Asian Equities Lower",
-   "source": "WSJ",
-   "at": "2026-08-02T21:56:09.230566+00:00"
-  },
-  {
-   "fp": "abuse allegations citing congress miller moreno ohio senator serve should",
-   "title": "US Senator Moreno says Ohio's Miller should not serve in Congress, citing abuse allegations",
-   "source": "Reuters",
-   "at": "2026-08-02T21:56:10.942659+00:00"
-  },
-  {
-   "fp": "cried fiend front killed lands mama slammer year years",
-   "title": "Fiend killed ex in front of their 4-year-old son as he cried, \u2018Mama!\u2019 \u2014 lands 50 years in slammer",
-   "source": "New York Post",
-   "at": "2026-08-02T22:48:28.947829+00:00"
-  },
-  {
-   "fp": "arizona central farmworkers left mass measles outbreak threatens valley",
-   "title": "Mass measles outbreak threatens Central Valley after farmworkers left Arizona",
-   "source": "New York Post",
-   "at": "2026-08-02T22:48:30.790134+00:00"
-  },
   {
    "fp": "chad gunman idaho injured killed mass shooting williams",
    "title": "Chad Williams ID\u2019d as Idaho In-N-Out gunman after two killed, 7 injured in mass shooting",
@@ -3092,13 +3072,33 @@
    "title": "Seven killed after Thai student opens fire at home and school",
    "source": "BBC World",
    "at": "2026-08-07T14:47:28.324870+00:00"
+  },
+  {
+   "fp": "bomb closed diverted emergency hospital patients threat",
+   "title": "Hospital closed after bomb threat, emergency patients diverted",
+   "source": "New York Post",
+   "at": "2026-08-07T15:48:34.332420+00:00"
+  },
+  {
+   "fp": "communist fuel helped homeless killed madison network probe protests socialist wisconsin",
+   "title": "Communist, socialist network helped fuel Madison, Wisconsin protests after cop killed homeless man: probe",
+   "source": "New York Post",
+   "at": "2026-08-07T15:48:36.022709+00:00"
+  },
+  {
+   "fp": "disaster holding hostage knows thin trump",
+   "title": "Trump is holding disaster aid hostage. He knows he\u2019s on thin ice",
+   "source": "Washington Examiner",
+   "at": "2026-08-07T15:48:37.709010+00:00"
+  },
+  {
+   "fp": "attack clown death dressed police random stabbed year",
+   "title": "15-year-old dressed as a clown stabbed a man to death in random attack, police say",
+   "source": "AP",
+   "at": "2026-08-07T15:48:39.392953+00:00"
   }
  ],
  "titles": [
-  "asian doubts equities korean leading lower stocks tumble",
-  "abuse allegations citing congress miller moreno ohio senator serve should",
-  "cried fiend front killed lands mama slammer year years",
-  "arizona central farmworkers left mass measles outbreak threatens valley",
   "chad gunman idaho injured killed mass shooting williams",
   "admin contract emergency extends homeless hotels mamdani serve shelters",
   "destroy eastern evacuate fires force structures washington",
@@ -3494,6 +3494,10 @@
   "couple dead death door found glamorous going kayaking missing near perilous trip young",
   "airfares ceasefire drops even expected experts high iran prices stay",
   "decries didn failures killed mother need police teen trafficked",
-  "fire home killed opens school seven student thai"
+  "fire home killed opens school seven student thai",
+  "bomb closed diverted emergency hospital patients threat",
+  "communist fuel helped homeless killed madison network probe protests socialist wisconsin",
+  "disaster holding hostage knows thin trump",
+  "attack clown death dressed police random stabbed year"
  ]
 }
