@@ -709,27 +709,12 @@
   "https://news.sky.com/story/developers-found-guilty-after-man-53-crushed-by-falling-window-13570729",
   "https://pagesix.com/?post_type=article&p=9097632",
   "https://pagesix.com/?post_type=article&p=9097099",
-  "CBMinwFBVV95cUxOWTJWaTZJVmF2Zm1DNDdfSDY5RzZBcVpLRjhPWjZtSjFnZUhoU0Z0cTMza3J0MGxoNnZjVFMycjdLWUV0a1ZoQUFNTHNJd2k1RHZoUW81VTFWRlhwYUExSHlmX29ZQkxvdWlmcnhRT2E4cmlNcVFqYUtTLXJjbmZjMjJfcmk3U00tU2FENjcyXzFmbk4ydTVSS2t5ZGpNR0U"
+  "CBMinwFBVV95cUxOWTJWaTZJVmF2Zm1DNDdfSDY5RzZBcVpLRjhPWjZtSjFnZUhoU0Z0cTMza3J0MGxoNnZjVFMycjdLWUV0a1ZoQUFNTHNJd2k1RHZoUW81VTFWRlhwYUExSHlmX29ZQkxvdWlmcnhRT2E4cmlNcVFqYUtTLXJjbmZjMjJfcmk3U00tU2FENjcyXzFmbk4ydTVSS2t5ZGpNR0U",
+  "https://news.sky.com/story/man-admits-hiding-fatal-arson-attack-suspect-body-in-bin-in-liverpool-13570722",
+  "CBMirwFBVV95cUxOcmlwdEhBUnJqS3JfdVRZN3JnZ0RqS2RvZ09BUHRkMEdRTjVVMGttaGo2Sl94SWlnbnJXLWhhYlpsck0tSVN6TWdEQTBJYnFzSnhadWd1eDJVODhCNU1TYkh5VTBLVFhCRFFrM0RtR01EU1kzR3hPRlo1MGJhREM3Q1hnd3FybVB2LTdHTV9sc0ZnbC1pMmZXOTd2NW5HY3JuZFdjT2tjdEc2UHZVSUo4",
+  "CBMivwFBVV95cUxQWURYWkFRQ0h3Sk4tWWFVUlQ2QXk5c09vaWVnSUZGWW1LVjVoT1pHejg2VHpUUUxaM185RENRc3czZjZ2VXpqTjYxRDQ0ejBHd1VMLUlONlpCYnp3UzZ4LVFnak8tdV9PTVkwcFI2TWNNZ1VCelFobU0wVDlDX2RDNmh1Yi1mWnNQd1dEN1NMaFp0LU9rbUJBamxWaE9IMUV6aFVvdG1Cb09mVTFwZ2Jsa0k1M01Qd1o3Rnh1YzhEOA"
  ],
  "posts": [
-  {
-   "fp": "building collapses injured seriously suddenly sydney",
-   "title": "Two men seriously injured after Sydney building suddenly collapses",
-   "source": "Guardian World",
-   "at": "2026-08-03T05:53:43.624297+00:00"
-  },
-  {
-   "fp": "collapses cuba darkness electric grid plunges",
-   "title": "Cuba plunges into darkness as electric grid collapses",
-   "source": "New York Post",
-   "at": "2026-08-03T05:53:45.340904+00:00"
-  },
-  {
-   "fp": "dead displaced floods fourteen india rains southern strike thousands",
-   "title": "Fourteen dead, thousands displaced as rains, floods strike southern India",
-   "source": "Reuters",
-   "at": "2026-08-03T05:53:47.127896+00:00"
-  },
   {
    "fp": "attack called deal hopes iran massive trump",
    "title": "Trump: US called off 'massive attack' on Iran amid deal hopes",
@@ -3111,12 +3096,27 @@
    "title": "Infantino allies rally as Norway FA demands FIFA president's resignation",
    "source": "Reuters",
    "at": "2026-08-07T17:42:37.268086+00:00"
+  },
+  {
+   "fp": "admits arson attack body fatal hiding suspect",
+   "title": "Man admits hiding fatal arson attack suspect's body in bin",
+   "source": "Sky News",
+   "at": "2026-08-07T18:43:49.126997+00:00"
+  },
+  {
+   "fp": "burials ceuta identities killed migrant plans rush seeks spain those",
+   "title": "Spain plans burials, seeks identities of those killed in Ceuta migrant rush",
+   "source": "Reuters",
+   "at": "2026-08-07T18:43:50.771879+00:00"
+  },
+  {
+   "fp": "bombers europe future race tackle water wildfires",
+   "title": "Europe's would-be water bombers in race to tackle future wildfires",
+   "source": "Reuters",
+   "at": "2026-08-07T18:43:52.438788+00:00"
   }
  ],
  "titles": [
-  "building collapses injured seriously suddenly sydney",
-  "collapses cuba darkness electric grid plunges",
-  "dead displaced floods fourteen india rains southern strike thousands",
   "attack called deal hopes iran massive trump",
   "crash dead firefighting greek helicopter wildfires",
   "barriers broke dead former granger republican trailblazing",
@@ -3513,6 +3513,9 @@
   "developers falling found guilty killed window",
   "beloved country dead detamore musician tommy",
   "campaign christina dead divorce lipstick makes mommy pazsitzky segura statement",
-  "allies demands fifa infantino norway president rally resignation"
+  "allies demands fifa infantino norway president rally resignation",
+  "admits arson attack body fatal hiding suspect",
+  "burials ceuta identities killed migrant plans rush seeks spain those",
+  "bombers europe future race tackle water wildfires"
  ]
 }
