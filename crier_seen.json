@@ -689,15 +689,10 @@
   "CBMitwFBVV95cUxPUks4b2Fka2UwQVNGMXhQdnpVN0Jya2xIMGh2WHJmUnJXblRRQndFbjFQRlNTU0dEUGp6ZWhKUEp1QW0tVTVHMTZRXzlENW9RSWN2QVlVWS04ZFZOSVljQkhiVHoya0JZSnVBQUlGUFJKZmliNWZBM0tSYTlEcG9nZDJZSzlMUVdZYjlTenM2OUs3MnJHdTdxZ01IejhNZ1hXTWQ1OTJaT0U2R2JRLVRXNXVZVjlXc0E",
   "https://nypost.com/?post_type=article&p=40233096",
   "https://www.theguardian.com/business/2026/aug/07/flight-travel-costs-iran-war",
-  "https://www.theguardian.com/us-news/2026/aug/07/kristen-galvan-houston-family"
+  "https://www.theguardian.com/us-news/2026/aug/07/kristen-galvan-houston-family",
+  "https://www.bbc.co.uk/news/articles/c980j3j578do#0"
  ],
  "posts": [
-  {
-   "fp": "nasdaq shorts",
-   "title": "Nasdaq Shorts Up 2%",
-   "source": "WSJ",
-   "at": "2026-08-02T21:56:07.509484+00:00"
-  },
   {
    "fp": "asian doubts equities korean leading lower stocks tumble",
    "title": "Korean Stocks Tumble on Doubts Over AI, Leading Asian Equities Lower",
@@ -3091,10 +3086,15 @@
    "title": "\u2018It didn\u2019t need to end this way\u2019: mother of US teen trafficked and killed decries police failures",
    "source": "Guardian World",
    "at": "2026-08-07T13:54:41.741824+00:00"
+  },
+  {
+   "fp": "fire home killed opens school seven student thai",
+   "title": "Seven killed after Thai student opens fire at home and school",
+   "source": "BBC World",
+   "at": "2026-08-07T14:47:28.324870+00:00"
   }
  ],
  "titles": [
-  "nasdaq shorts",
   "asian doubts equities korean leading lower stocks tumble",
   "abuse allegations citing congress miller moreno ohio senator serve should",
   "cried fiend front killed lands mama slammer year years",
@@ -3493,6 +3493,7 @@
   "attorney blanche general lisa murkowski nomination oppose republican todd",
   "couple dead death door found glamorous going kayaking missing near perilous trip young",
   "airfares ceasefire drops even expected experts high iran prices stay",
-  "decries didn failures killed mother need police teen trafficked"
+  "decries didn failures killed mother need police teen trafficked",
+  "fire home killed opens school seven student thai"
  ]
 }
