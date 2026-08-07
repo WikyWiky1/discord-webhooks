@@ -705,33 +705,13 @@
   "https://nypost.com/?post_type=article&p=40235723",
   "https://nypost.com/?post_type=article&p=40236414",
   "https://nypost.com/?post_type=article&p=40235084",
-  "CBMikAFBVV95cUxQQ3NXekxmcVFkTEJhNS1CR1oySVJsU01ja0lSODRoNHdBMjQ0UE1OSTdpeDZYdXZsVTNVNzA0X1M2Wno3dEpubEJXY1pwRl9vVWV0QkdZa1ZzUnRDSDVjaS1LenRxalExSkd5NkFHT3hFLTNqc3dLQUVjSW1WOENsWThRNEp0TEg2VFVXb1dEcm8"
+  "CBMikAFBVV95cUxQQ3NXekxmcVFkTEJhNS1CR1oySVJsU01ja0lSODRoNHdBMjQ0UE1OSTdpeDZYdXZsVTNVNzA0X1M2Wno3dEpubEJXY1pwRl9vVWV0QkdZa1ZzUnRDSDVjaS1LenRxalExSkd5NkFHT3hFLTNqc3dLQUVjSW1WOENsWThRNEp0TEg2VFVXb1dEcm8",
+  "https://news.sky.com/story/developers-found-guilty-after-man-53-crushed-by-falling-window-13570729",
+  "https://pagesix.com/?post_type=article&p=9097632",
+  "https://pagesix.com/?post_type=article&p=9097099",
+  "CBMinwFBVV95cUxOWTJWaTZJVmF2Zm1DNDdfSDY5RzZBcVpLRjhPWjZtSjFnZUhoU0Z0cTMza3J0MGxoNnZjVFMycjdLWUV0a1ZoQUFNTHNJd2k1RHZoUW81VTFWRlhwYUExSHlmX29ZQkxvdWlmcnhRT2E4cmlNcVFqYUtTLXJjbmZjMjJfcmk3U00tU2FENjcyXzFmbk4ydTVSS2t5ZGpNR0U"
  ],
  "posts": [
-  {
-   "fp": "clout democratic direction high michigan primary progressive stakes tests",
-   "title": "High-Stakes Michigan Primary Tests Progressive Clout and the Democratic Direction",
-   "source": "WSJ",
-   "at": "2026-08-03T02:46:51.792965+00:00"
-  },
-  {
-   "fp": "animator anti candidates eight election film former including liberal nation unveils victorian woke",
-   "title": "One Nation unveils eight Victorian election candidates including former Liberal and anti-woke film animator",
-   "source": "Guardian World",
-   "at": "2026-08-03T02:46:53.608331+00:00"
-  },
-  {
-   "fp": "different directions earnings sending tech valuations wildly",
-   "title": "Big Tech Earnings Are Sending Valuations in Wildly Different Directions",
-   "source": "WSJ",
-   "at": "2026-08-03T02:46:55.747340+00:00"
-  },
-  {
-   "fp": "defunct falcon moon part rocket slam spacex",
-   "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
-   "source": "NPR News",
-   "at": "2026-08-03T02:46:57.535980+00:00"
-  },
   {
    "fp": "building collapses injured seriously suddenly sydney",
    "title": "Two men seriously injured after Sydney building suddenly collapses",
@@ -3107,13 +3087,33 @@
    "title": "Manhunt under way for escaped child rapist",
    "source": "Telegraph",
    "at": "2026-08-07T16:44:52.026793+00:00"
+  },
+  {
+   "fp": "developers falling found guilty killed window",
+   "title": "Developers found guilty after man killed by falling window",
+   "source": "Sky News",
+   "at": "2026-08-07T17:42:32.083162+00:00"
+  },
+  {
+   "fp": "beloved country dead detamore musician tommy",
+   "title": "Beloved country musician Tommy Detamore dead at 70",
+   "source": "New York Post",
+   "at": "2026-08-07T17:42:33.914600+00:00"
+  },
+  {
+   "fp": "campaign christina dead divorce lipstick makes mommy pazsitzky segura statement",
+   "title": "Christina Pazsitzky makes statement with new lipstick campaign amid Tom Segura divorce: \u2018Mommy ain\u2019t dead yet\u2019",
+   "source": "New York Post",
+   "at": "2026-08-07T17:42:35.568404+00:00"
+  },
+  {
+   "fp": "allies demands fifa infantino norway president rally resignation",
+   "title": "Infantino allies rally as Norway FA demands FIFA president's resignation",
+   "source": "Reuters",
+   "at": "2026-08-07T17:42:37.268086+00:00"
   }
  ],
  "titles": [
-  "clout democratic direction high michigan primary progressive stakes tests",
-  "animator anti candidates eight election film former including liberal nation unveils victorian woke",
-  "different directions earnings sending tech valuations wildly",
-  "defunct falcon moon part rocket slam spacex",
   "building collapses injured seriously suddenly sydney",
   "collapses cuba darkness electric grid plunges",
   "dead displaced floods fourteen india rains southern strike thousands",
@@ -3509,6 +3509,10 @@
   "deadly fire flames flee gann heartbreaking neighbors reason refused revealed victim",
   "cyclospora falls fears jalape latest outbreak removes second sweetgreen victim",
   "giants hackers hold hostage phone plot ransom report simple street trick wall",
-  "child escaped manhunt rapist under"
+  "child escaped manhunt rapist under",
+  "developers falling found guilty killed window",
+  "beloved country dead detamore musician tommy",
+  "campaign christina dead divorce lipstick makes mommy pazsitzky segura statement",
+  "allies demands fifa infantino norway president rally resignation"
  ]
 }
