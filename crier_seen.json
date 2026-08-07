@@ -667,21 +667,11 @@
   "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
   "CBMirwFBVV95cUxQdjRPZGpHWm04NkhRSUg5ekVfUnd2TTY3RjU5bU9rV0Yyd29sd25BT0J5N0dwWW9aRzVxX2t6QURHTzZ1OF9tS28wMFFFVmhxZ3h2d2pzUUU5VkpDNDVOaHAwZFUtMHlBRVdXUXBBVTlraXQ4ZnQ0RlhhV2c1ZXB0Z0IzcXdtTUx2UkZKQ0FtdmE1Zm5fTkxucnh3aFd5X3ZrOHhoZ0VPanB4V0luQ21z",
   "CBMimgFBVV95cUxNLTJqbUlVLUYyTnE1VEkycHVkUTVReGJmR1liUG9DajNoa0E5MkFsaFpFWHBCbm5sRVJMcVVkYnh2NFA0ZVpxSFNnMG9mbkRDNWloWDU0c0RoRnpyQlB1cGlZNVdDM3NzaS1BU0pVSWFyMmE5VE5xX0FsMFg1TDRyUFR4ZzF5VEU2MWM3cE5iREswMDFEbkMyN2RB",
-  "CBMimgFBVV95cUxQeU5NZnNvRFR5aUlGbzMtYWJWdy0tYVRVMG5BQkFjODE0akVXbmxsNk9XcnZBaEY2NXdrbmNFZDU3anlBQm12alB0VEl1dHdLV1ZBX3UtWjRpb0p6VTFlMVhzM29mOGRxTTZ2RHRkWFpyYS0zUlRxejdzdmNrR1A4YUhKOUtHMW1YVHdsTm4yZW9aZXpIbDNZV0JR"
+  "CBMimgFBVV95cUxQeU5NZnNvRFR5aUlGbzMtYWJWdy0tYVRVMG5BQkFjODE0akVXbmxsNk9XcnZBaEY2NXdrbmNFZDU3anlBQm12alB0VEl1dHdLV1ZBX3UtWjRpb0p6VTFlMVhzM29mOGRxTTZ2RHRkWFpyYS0zUlRxejdzdmNrR1A4YUhKOUtHMW1YVHdsTm4yZW9aZXpIbDNZV0JR",
+  "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
+  "CBMijgFBVV95cUxNM2hsUkw2Zkw4Q3dRTnFBMEFzZWhKMUhiS0d2NkM0dmhTNVRMLWhoOExzSUZncENvdy1NOEJkRUlNNm9CRlR6ZnFPQ0dsM1VFM2V2ajVRS1VTZlJKcWZPVzc1bEtlWjVTdl90V1NKV3pndXVFQUZEMFJjSDRUcUlGdVJaMUctejZUYWVCQ1FR"
  ],
  "posts": [
-  {
-   "fp": "burger dead employee fast food idaho owner restaurant shooting",
-   "title": "In-N-Out Burger employee among 3 dead in shooting at Idaho fast-food restaurant, owner says",
-   "source": "AP",
-   "at": "2026-08-02T18:38:10.202285+00:00"
-  },
-  {
-   "fp": "abduct children gunmen kill nigerian village women",
-   "title": "Gunmen kill 12, abduct women and children in Nigerian village",
-   "source": "Reuters World",
-   "at": "2026-08-02T18:38:11.888357+00:00"
-  },
   {
    "fp": "abuse allegations congressman domestic election ohio shake",
    "title": "Domestic-Abuse Allegations Shake Ohio Congressman\u2019s Re-election Bid",
@@ -3069,11 +3059,21 @@
    "title": "One man works to slow the fastest-growing Ebola outbreak in history, and he's doing it unpaid",
    "source": "AP",
    "at": "2026-08-07T09:54:14.900663+00:00"
+  },
+  {
+   "fp": "material microchips orders panels solar tariff trump",
+   "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
+   "source": "Guardian World",
+   "at": "2026-08-07T10:01:22.152477+00:00"
+  },
+  {
+   "fp": "asian back fall mixed rebounds shares stocks",
+   "title": "Asian shares are mixed after US stocks fall back while oil rebounds",
+   "source": "AP",
+   "at": "2026-08-07T10:01:24.026220+00:00"
   }
  ],
  "titles": [
-  "burger dead employee fast food idaho owner restaurant shooting",
-  "abduct children gunmen kill nigerian village women",
   "abuse allegations congressman domestic election ohio shake",
   "alabama contentious fauci florida hearing investigating joins louisiana senate",
   "congress ncaa opinion pushes title",
@@ -3471,6 +3471,8 @@
   "attacker eight including killed police school shooting suspected thailand",
   "attack intelligence nato russia warns weeks within",
   "deadly disease fuels heatwave sheep spread",
-  "doing ebola fastest growing history outbreak slow unpaid works"
+  "doing ebola fastest growing history outbreak slow unpaid works",
+  "material microchips orders panels solar tariff trump",
+  "asian back fall mixed rebounds shares stocks"
  ]
 }
