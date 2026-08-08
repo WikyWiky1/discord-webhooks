@@ -783,33 +783,13 @@
   "https://thehill.com/?p=6018352",
   "https://nypost.com/?post_type=article&p=40250967",
   "CBMiwwFBVV95cUxPWFAzQWhyMHFMN1ZpMm9wNll2WXhINmJQMDhVMTFkcUxnRTh4QmZnUjEyT3hpTmFnYldiZ29UX29YMUJHZXJuMkhoTHNfTnpWWFUwcnJMaTVCRjVFSFZEYmt4QWNTYkVqeUw5WUt4QllhUWpBTXBrN29ZZFdzRElROHEyX0p2TmNneFpuS0tSMVRLNndubHJyS0ZtZlcxRk00UXUyckN2UUpDQUI4bnZzVExmMXBSLWJxbWRqSWcwdEZZMUU",
-  "CBMitAFBVV95cUxNUWE4cGY1cW52LTJNUUZsVWhmSFVMY3hHY2lhZjNfV29BX21GelZUZDRxbEpIbnMyNkFzZVdkOUs4aDRjdXQ0REZQdzR2SElEU1hiNmdYVVBJdzNSX3B1eWEtMXpXbnNNaWNvVzlHNDAtY09JbnpmMm5IYUo0bHZ6MHZ6dUxSWmZ5dVFRRnkyZmhFOTdMVEpTNFlvSktQVG9zZzdFSDlmLXR1RWNwVVBHNG9EbGE"
+  "CBMitAFBVV95cUxNUWE4cGY1cW52LTJNUUZsVWhmSFVMY3hHY2lhZjNfV29BX21GelZUZDRxbEpIbnMyNkFzZVdkOUs4aDRjdXQ0REZQdzR2SElEU1hiNmdYVVBJdzNSX3B1eWEtMXpXbnNNaWNvVzlHNDAtY09JbnpmMm5IYUo0bHZ6MHZ6dUxSWmZ5dVFRRnkyZmhFOTdMVEpTNFlvSktQVG9zZzdFSDlmLXR1RWNwVVBHNG9EbGE",
+  "https://nypost.com/?post_type=article&p=40240781",
+  "https://nypost.com/?post_type=article&p=40251273",
+  "https://thehill.com/?p=6018567",
+  "https://thehill.com/?p=6018546"
  ],
  "posts": [
-  {
-   "fp": "chief contracts detention divests giant himself recuses stocks warren",
-   "title": "ICE chief divests detention giant stocks, recuses himself from contracts: Warren",
-   "source": "The Hill",
-   "at": "2026-08-03T22:08:37.126476+00:00"
-  },
-  {
-   "fp": "california case court duty gilead highest innovate rules",
-   "title": "California's highest court rules for Gilead in 'duty to innovate' case",
-   "source": "Reuters",
-   "at": "2026-08-03T22:08:38.814250+00:00"
-  },
-  {
-   "fp": "diarrhoea outbreak sweeping",
-   "title": "Two die in diarrhoea outbreak sweeping US",
-   "source": "Telegraph",
-   "at": "2026-08-03T22:55:07.506022+00:00"
-  },
-  {
-   "fp": "claims collect cyclosporiasis diarrhea experts lives outbreak poised ridden thousands victims",
-   "title": "Diarrhea-ridden cyclosporiasis victims poised to collect thousands as outbreak claims first lives: experts",
-   "source": "New York Post",
-   "at": "2026-08-03T22:55:09.325485+00:00"
-  },
   {
    "fp": "breaking news today world",
    "title": "World News: Top & Breaking World News Today",
@@ -3185,13 +3165,33 @@
    "title": "Hungary's ruling party nominates former supreme court head Baka as president",
    "source": "Reuters",
    "at": "2026-08-08T15:29:15.269464+00:00"
+  },
+  {
+   "fp": "arrived bloodied cold dead designer emts fashion found medical montauk report yacht",
+   "title": "NYC fashion designer found dead on Montauk yacht was cold, bloodied when EMTs arrived: medical report",
+   "source": "New York Post",
+   "at": "2026-08-08T15:59:36.503035+00:00"
+  },
+  {
+   "fp": "california deadly firebug irony shocking sparked wildfire",
+   "title": "Shocking irony of firebug who sparked deadly California wildfire",
+   "source": "New York Post",
+   "at": "2026-08-08T15:59:38.320444+00:00"
+  },
+  {
+   "fp": "ceasefire close deal dispute hormuz iran lingers signals strait",
+   "title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
+   "source": "The Hill",
+   "at": "2026-08-08T15:59:40.216444+00:00"
+  },
+  {
+   "fp": "atlanta fatal office shooting visits year",
+   "title": "RFK Jr. visits CDC Atlanta office one year after fatal shooting",
+   "source": "The Hill",
+   "at": "2026-08-08T15:59:41.927174+00:00"
   }
  ],
  "titles": [
-  "chief contracts detention divests giant himself recuses stocks warren",
-  "california case court duty gilead highest innovate rules",
-  "diarrhoea outbreak sweeping",
-  "claims collect cyclosporiasis diarrhea experts lives outbreak poised ridden thousands victims",
   "breaking news today world",
   "attacks black claims crimea drone kill resort russia ukrainian",
   "allan dead fight fighter last nascimento weeks",
@@ -3587,6 +3587,10 @@
   "bill blanche confirmed funding lead live passes senate stopgap todd updates",
   "attacks blanche lisa murkowski nearly nomination sinks todd trump",
   "challenger democratic hawaii incumbent latest left primary wing younger",
-  "baka court former head hungary nominates party president ruling supreme"
+  "baka court former head hungary nominates party president ruling supreme",
+  "arrived bloodied cold dead designer emts fashion found medical montauk report yacht",
+  "california deadly firebug irony shocking sparked wildfire",
+  "ceasefire close deal dispute hormuz iran lingers signals strait",
+  "atlanta fatal office shooting visits year"
  ]
 }
