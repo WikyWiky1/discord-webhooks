@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/uk-news/2026/jul/30/major-incident-fire-suffolk-coast-dunwich-heath-leiston",
   "CBMirgFBVV95cUxPbWpsSnpKVndGWThyUHhGTmU3SGw2LWtnTldYT2gxcUFYZmV4Rk9uVlpDb0Vyal9RWGtKdTdONFlhOF9TLTB6c3ZLaWJoVjdNWWNkZzlFWi1iZUhqOVhtdE41U0Yxejdwd05LbjB1d3gyZmIwaV81ZDdWT0EzQ0R0SVdRNmtYUUhKWE4tRkpsZjY2NjRmZlJCOUlfMl9HbEhVTmY1RU1fXzJXZjRtUEE",
   "https://nypost.com/?post_type=article&p=40130569",
   "CBMizAFBVV95cUxPYWM5NFpLa3p4OE1XZUMybkU4TDdyeWxjbTlEaXpUaUtJR1JUNngzd3AxNmgydElQNUc4aVBFS3V6N0FCcXZOTVV0a0tYQjl1dTVRTnZrNXdRaTh4aGVOR25hM0xvQ3hEWElrWWtjWGI0aWhwb28wbjJLMklKZEFQb1dzWVktU2YteVN3dW84MmpzdnRkUXlzZWxWam9COVVHZ1h5NkhFcXRvZi12SUx1S2hGcm93U1lkdmJNVXRDbUpYSjRIemlpX1NqaDk",
@@ -799,15 +798,10 @@
   "CBMijgFBVV95cUxPeWIzT1dzUEI1bndudWxMT1RZYmFzaGR3ZlYtOV9oWDV0dlNjcEdGZnE5bXVJcmpQcUpNMlFwbVBjR2hKVXp5SzJZX2ZodVNYQ2lMS3kyMXNvR1VqdzR5blRFaHk3dGl6YUpQaUxsMzJrN25nVGlzZG9PZXRVSHZqM0dKVjRlY3MyTmF1UjhR",
   "https://thehill.com/?p=6017347",
   "CBMiqAFBVV95cUxPZXFjOGlGSWlVVFQtNW5CeDhLSGdXV3QyaFRVR0g4RkJGNFA2aktsd185WGRUN3FaZlRxMWxLcm40T3J5dUtiQ21jT3NsNFZWTW95X2Y2ejFLaW83d2tidFVXUTNzVDFzVWVwaWZXcm9XX0U3T3NWZThBUHR5VlpCOHJESWtQTnZ3TjJpVXJYYTRFa0NzVjlWZHZ6SlZsVlZMQklPaHExbms",
-  "https://www.washingtonexaminer.com/?p=4679983"
+  "https://www.washingtonexaminer.com/?p=4679983",
+  "https://nypost.com/?post_type=article&p=40252595"
  ],
  "posts": [
-  {
-   "fp": "arrest arson authorities connection devastating spokane suspect wildfires",
-   "title": "Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires",
-   "source": "New York Post",
-   "at": "2026-08-04T06:21:49.825702+00:00"
-  },
   {
    "fp": "avoid danger departments emergency hospital life might public record sydney unless urged",
    "title": "Public urged to avoid hospital unless \u2018life might be in danger\u2019 after record day for Sydney emergency departments",
@@ -3201,10 +3195,15 @@
    "title": "How Grassley got Todd Blanche\u2019s attorney general nomination back on track",
    "source": "Washington Examiner",
    "at": "2026-08-08T18:36:34.878491+00:00"
+  },
+  {
+   "fp": "activist away dead ground lobaido mamdani scott stay still warns zero",
+   "title": "\u2018Dead\u2019 pro-cop activist Scott LoBaido still warns Mamdani to stay away from Ground Zero",
+   "source": "New York Post",
+   "at": "2026-08-08T19:11:02.433840+00:00"
   }
  ],
  "titles": [
-  "arrest arson authorities connection devastating spokane suspect wildfires",
   "avoid danger departments emergency hospital life might public record sydney unless urged",
   "france hundreds reveal shells village wildfires",
   "continues dead five moscow region strikes ukraine warehouse",
@@ -3603,6 +3602,7 @@
   "attack children couples lost mass nigerian remarries wedding widower wife",
   "budget childhood children congress debates lines live",
   "carolina darline experience famous graham lack name primary south tests value",
-  "attorney back blanche general grassley nomination todd track"
+  "attorney back blanche general grassley nomination todd track",
+  "activist away dead ground lobaido mamdani scott stay still warns zero"
  ]
 }
