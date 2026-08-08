@@ -790,27 +790,12 @@
   "https://thehill.com/?p=6018546",
   "https://nypost.com/?post_type=article&p=40250585",
   "CBMifEFVX3lxTE1MOVdSTzg2cVF1NlJadS1oMm5WRG5nVkQyS3p6RW11Vy1SeWcxdlVleVVGT0JrTXlBeXp0ZUFDMWpKNWxRWVZGODlmSC1fYndoa2U3VTBrQkxTWXR5bWZJcnl4cGRjNXNhWWZZOUpURVE0TTVSekRESG9wRTE",
-  "https://news.sky.com/story/thousands-evacuated-as-huge-wildfire-spreads-in-canada-13571032"
+  "https://news.sky.com/story/thousands-evacuated-as-huge-wildfire-spreads-in-canada-13571032",
+  "CBMipwFBVV95cUxQY3lTSDk2R3JndERKZ0dEbnRVX2ZvSDEweXNaQjBPeDRXVmZxVENSYTNzSm12clM5eFBlcXZFSWNhZDRtcDZXMEJIczY5THd6aHk5S0hGc1hwM3VlNDNwV2RzbWFMTkVDeWFtbWk1cTBMWWczdGZ3VDZFaW92U0U3RUxRNG4wV0dXcGsxMVlzYUZHMk5TME01SG9hNzFqSGlJWldRRGhQTQ",
+  "CBMisAFBVV95cUxNNjdvZmtIbUhPd2hSMjBTbGJkbExLVFZGQlY3dzhSUXNfdS1fSzF1Uk5HRWUtcEhKUE1wNk82T0Q3S2k2T2dMdXl6ZFJQaHFWUkpzM2hMei1reHI1LUVneEk3Y2dMdE9iSzJhMVY5MUNCcVJhS0w4aXlyal9YZ0s1a3kwV0JHcnVCYUdmY1dwamprYnJFSTJPUUpPMk1vaDFxaEFrZVMzLUh5X1RKRS1uUw",
+  "CBMinAFBVV95cUxNMC1ESVdvTEp1b3lGanRHTGFRNjhibE5jV0VydUcxMXVOQ2dTSG1BYzBkUFNPN0JpZ3ZCYlk3TEpYZzlZMnZoZEtRUWZydWVmanp1U0xkOGFudktYb3hhYmYxdUpMZm5MTlRBemlJWTlsNGhxbURpY0dOa2x3YVdfbk51a1kyTVVDbWxBSGxyWTd0T2NEV3luaU85RXo"
  ],
  "posts": [
-  {
-   "fp": "advances aimed bill funding overwhelmingly preventing senate shutdown stopgap",
-   "title": "Senate overwhelmingly advances stopgap funding bill aimed at preventing shutdown",
-   "source": "The Hill",
-   "at": "2026-08-04T00:02:13.720024+00:00"
-  },
-  {
-   "fp": "chip investors rotate stocks",
-   "title": "Investors Rotate Out of Chip Stocks",
-   "source": "WSJ",
-   "at": "2026-08-04T02:30:19.862261+00:00"
-  },
-  {
-   "fp": "bidder consequences highest huge market posts sells social stock trump",
-   "title": "Trump sells his social posts to the highest bidder - with huge stock market consequences",
-   "source": "Sky News",
-   "at": "2026-08-04T02:30:21.714651+00:00"
-  },
   {
    "fp": "ballot carolina debate graham jockey replace republicans senate south takeaways",
    "title": "South Carolina Republicans jockey to replace Graham on Senate ballot: Key takeaways from first debate",
@@ -3192,12 +3177,27 @@
    "title": "Thousands evacuated as huge wildfire spreads in Canada",
    "source": "Sky News",
    "at": "2026-08-08T16:39:32.625324+00:00"
+  },
+  {
+   "fp": "house manhunt manor national rare silver stolen trust",
+   "title": "Manhunt after rare silver stolen from National Trust manor house",
+   "source": "Telegraph",
+   "at": "2026-08-08T17:06:32.910480+00:00"
+  },
+  {
+   "fp": "call deadly inside school shooting thailand",
+   "title": "'Mom, don't call me': Inside Thailand's deadly school shooting",
+   "source": "Reuters",
+   "at": "2026-08-08T17:06:34.751379+00:00"
+  },
+  {
+   "fp": "congo group kills least linked village",
+   "title": "IS-linked group kills at least 13 in Congo village",
+   "source": "AP",
+   "at": "2026-08-08T17:06:36.769293+00:00"
   }
  ],
  "titles": [
-  "advances aimed bill funding overwhelmingly preventing senate shutdown stopgap",
-  "chip investors rotate stocks",
-  "bidder consequences highest huge market posts sells social stock trump",
   "ballot carolina debate graham jockey replace republicans senate south takeaways",
   "asia higher lead move steady stocks street wall",
   "chuck committee grassley invites jack judiciary senate smith testify",
@@ -3594,6 +3594,9 @@
   "atlanta fatal office shooting visits year",
   "coast east hurricane intensity predict scientists sharks using",
   "casualty drills internet slower taiwan",
-  "canada evacuated huge spreads thousands wildfire"
+  "canada evacuated huge spreads thousands wildfire",
+  "house manhunt manor national rare silver stolen trust",
+  "call deadly inside school shooting thailand",
+  "congo group kills least linked village"
  ]
 }
