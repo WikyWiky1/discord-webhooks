@@ -763,33 +763,13 @@
   "https://thehill.com/?p=6018324",
   "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
   "https://nypost.com/?post_type=article&p=40245413",
-  "https://thehill.com/?p=6017926"
+  "https://thehill.com/?p=6017926",
+  "https://nypost.com/?post_type=article&p=40228596",
+  "https://nypost.com/?post_type=article&p=40250324",
+  "CBMisAFBVV95cUxOZDRVbmJYT1dkcjVDVFcxSUd1N3NQX05HcXVpR0lRRWo4RDVCTGpLTG5aVDRnSk5Yc3NoRi1VaENibDRldWRWZGo2WlFtdXBGZUdNV2RHVl9XWTEzTDIzWEwxNktuNEtUc09uY1FROTNyTWJ4LUo2VFhkcG50UlVaSkpYNTNTMFBQTFlld1I3TENoM3l3Y2RCekJJUnppdHhNMHB5SnpSb1ZmMF91QmdJOA",
+  "CBMilAFBVV95cUxQczJKQlNxb05hS05Zc0hoUC1HTjJ2ZlpoWHRRVzlXTDNyTDFWQ3BKVnZhM1hmb1FZb0NiVkp3aDF6ZW5qWW9CU2Fyd1BiTTFmVTEzNmdpbkxRd0pOLVNqRTZyOWJVVVdLSWRrdW1uSDA3bWoxV0RyUlhQUzc1ZHlDUUctbFpQbnJWV3NpZGY2b3d6bzdJ"
  ],
  "posts": [
-  {
-   "fp": "evacuations lead photos spokane thousands wildfires",
-   "title": "Photos: Wildfires in Spokane lead to thousands of evacuations",
-   "source": "NPR News",
-   "at": "2026-08-03T19:09:21.208953+00:00"
-  },
-  {
-   "fp": "california dead employee idaho killed left mass shooting transplant",
-   "title": "In-N-Out employee, 23, killed in Idaho mass shooting that left 3 dead ID\u2019d as California transplant",
-   "source": "New York Post",
-   "at": "2026-08-03T19:09:22.918156+00:00"
-  },
-  {
-   "fp": "deadly gazans grim jars plan reality touting trump",
-   "title": "After deadly day, Gazans say Trump's touting of plan jars with grim reality",
-   "source": "Reuters World",
-   "at": "2026-08-03T19:09:24.617808+00:00"
-  },
-  {
-   "fp": "beach busy drone hitting injured killed russia seven ukrainian",
-   "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-   "source": "BBC World",
-   "at": "2026-08-03T19:09:26.368932+00:00"
-  },
   {
    "fp": "beats loses michigan poll rogers sayed senate stevens",
    "title": "Rogers beats El-Sayed, loses to Stevens in Michigan Senate poll",
@@ -3165,13 +3145,33 @@
    "title": "Senate tables hemp amendment at center of funding fight, allowing one-month delay of ban",
    "source": "The Hill",
    "at": "2026-08-08T09:37:25.321725+00:00"
+  },
+  {
+   "fp": "clear iran made national painfully priority security urgent",
+   "title": "Iran has made our most urgent national-security priority painfully clear",
+   "source": "New York Post",
+   "at": "2026-08-08T09:56:09.460614+00:00"
+  },
+  {
+   "fp": "attacks defenses fall kill kyiv region russian short surrounding",
+   "title": "Russian attacks kill 4 in Kyiv and surrounding region as air defenses fall short",
+   "source": "New York Post",
+   "at": "2026-08-08T09:56:11.181501+00:00"
+  },
+  {
+   "fp": "bangkok bodies families killed least outside retrieve shooting year",
+   "title": "Families retrieve bodies after a 14-year-old killed at least 7 in a shooting outside Bangkok",
+   "source": "AP",
+   "at": "2026-08-08T09:56:12.932215+00:00"
+  },
+  {
+   "fp": "approves avoid bill election funding senate shutdown",
+   "title": "Senate approves funding bill to avoid a shutdown before the election",
+   "source": "AP",
+   "at": "2026-08-08T09:56:14.641710+00:00"
   }
  ],
  "titles": [
-  "evacuations lead photos spokane thousands wildfires",
-  "california dead employee idaho killed left mass shooting transplant",
-  "deadly gazans grim jars plan reality touting trump",
-  "beach busy drone hitting injured killed russia seven ukrainian",
   "beats loses michigan poll rogers sayed senate stevens",
   "august iran kick optimism rallies street talks wall",
   "admit britain crisis labour must role unemployment youth",
@@ -3567,6 +3567,10 @@
   "blanche confirming embarks funding government other priorities punting recess senate",
   "attorney blanche confirm general senate todd votes",
   "attorney blanche confirms general senate todd trump vote",
-  "allowing amendment center delay fight funding hemp month senate tables"
+  "allowing amendment center delay fight funding hemp month senate tables",
+  "clear iran made national painfully priority security urgent",
+  "attacks defenses fall kill kyiv region russian short surrounding",
+  "bangkok bodies families killed least outside retrieve shooting year",
+  "approves avoid bill election funding senate shutdown"
  ]
 }
