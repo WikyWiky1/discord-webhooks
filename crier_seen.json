@@ -756,15 +756,10 @@
   "https://www.washingtonexaminer.com/?p=4680005",
   "CBMirgFBVV95cUxOcUJOLXptM1F6NjZEd04tNHJGQ1ZkUVpCTlI5YkY5eVBOWUpvRmNXTVhaWl9KeFdTZVZhV0JmQ29IdjBwcUF0RW1JQ2FkaGlkWjN5RFQwaFVxWDBUa1NoNW44Tm5EZU5UbkRreUJLZWRkNUhNc0Jqb281NkhJYWpybzQ4ajNYNERfVExUejExVlRLOTdxR2NLNDhqRnNtQ0xOUENKMDBUT01tMG9wcmc",
   "CBMimgFBVV95cUxPNnZETHRKWS1CWVRoQzNhZUY5UG9oN2E4TDFncGxtVG03MWk1YkZxcXBjS2JYZ0ZxQjdfdHQ3Y2hYaDMwLVZkQUo3U05lZkh5Y3ctUGRBZXlSX1lGYWxhMXJDNWFNMFppRjR4Q2x0NjVxbzdkYTJFbmlMNXcyZHljUDZDZUw2XzlfZEVwWHh0UUYtM201NGNWNVFB",
-  "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo#0"
+  "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo#0",
+  "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts"
  ],
  "posts": [
-  {
-   "fp": "breaking cruelest game point pushed review",
-   "title": "\u2018The Cruelest Game\u2019 Review: Pushed to the Breaking Point",
-   "source": "WSJ",
-   "at": "2026-08-03T17:27:55.388577+00:00"
-  },
   {
    "fp": "authorities burger idaho mass motive seek shooting",
    "title": "Authorities seek a motive in the mass shooting at an Idaho In-N-Out Burger",
@@ -3158,10 +3153,15 @@
    "title": "Child among three killed in Russian missile attacks near Kyiv",
    "source": "BBC World",
    "at": "2026-08-08T04:49:22.462153+00:00"
+  },
+  {
+   "fp": "breathe burden couldn deadly health smoke wildfire",
+   "title": "\u2018I couldn\u2019t breathe\u2019: the deadly health burden of wildfire smoke",
+   "source": "Guardian World",
+   "at": "2026-08-08T05:37:10.370157+00:00"
   }
  ],
  "titles": [
-  "breaking cruelest game point pushed review",
   "authorities burger idaho mass motive seek shooting",
   "arrested dead injured shooting year yonkers",
   "becomes breaking florida prodigy professor record world year youngest",
@@ -3560,6 +3560,7 @@
   "august budget fight line party punts recess senate until",
   "backed evasion hottest network russia sanctions startup state",
   "bitter democrats front michigan present primary united",
-  "attacks child killed kyiv missile near russian three"
+  "attacks child killed kyiv missile near russian three",
+  "breathe burden couldn deadly health smoke wildfire"
  ]
 }
