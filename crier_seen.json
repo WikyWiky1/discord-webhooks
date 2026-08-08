@@ -776,21 +776,11 @@
   "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo#0",
   "https://thehill.com/?p=6017947",
   "CBMiowFBVV95cUxPVkI3UGpBZkg3d2ptZUUtcUJjbk5WQjlNVFdFcmZiSERjeUhVWEhLcjJhbS15UEtQdkVQMGpTR2pKMVoxR2tRdnFkOGY4RmpFeG5qZnRORHZ1anA3VnJTMXFhTzJxcjh2WkJGdGtyb3luWFlkcTVrVWxadEd6dktkVHBoaVFQcWdDVzF2VjNjc2V2eXZuTm1OaXo4OEw2UG16YUxJ",
-  "CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE"
+  "CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE",
+  "https://pagesix.com/?post_type=article&p=9097920",
+  "CBMizAFBVV95cUxQeUg1Y1BqdGNyMk45Z19zcUlaNXlrQWc5MDRMc1cydHgzSjhBeERvNDc5TXZ4NVBSOVFyd1gybkM5Um11Z1lGcXdxQ1pZUFptLVdtd0ZZWXhsa1lfem13aUNkVnIyNDlSckhSSk12b1VNMkc2U0VoVlJzQzlXVlp1T0VVRi1LUVVQQ3lYWVNTMjVaWVE0SU5EeENDRUVVVXNQWjlVZkx6eXZpZ2JjemhoTW8zdlhkdmNnd0ZabTEweWNibkFpcFBmUGh1Y2k"
  ],
  "posts": [
-  {
-   "fp": "ceuta invasion nothingburger outrage",
-   "title": "Ceuta invasion \u2014 nothingburger or outrage?",
-   "source": "Washington Examiner",
-   "at": "2026-08-03T20:39:54.093544+00:00"
-  },
-  {
-   "fp": "chad chilling crime gunman idaho mass posts railed shooting williams",
-   "title": "In-N-Out gunman Chad Williams railed against crime in chilling posts before Idaho mass shooting",
-   "source": "New York Post",
-   "at": "2026-08-03T21:47:05.506444+00:00"
-  },
   {
    "fp": "dead hunt idaho left motive police shooting three",
    "title": "Police hunt for motive in Idaho In-N-Out shooting that left three dead",
@@ -3178,11 +3168,21 @@
    "title": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4",
    "source": "AP",
    "at": "2026-08-08T14:51:20.540519+00:00"
+  },
+  {
+   "fp": "died dietl heartbreaking killed late life like pastore reaction real reveals sopranos vincent",
+   "title": "Bo Dietl reveals late pal Vincent Pastore\u2019s heartbreaking reaction to being killed off \u2018Sopranos\u2019: \u2018Like he died in real life\u2019",
+   "source": "New York Post",
+   "at": "2026-08-08T15:21:56.457467+00:00"
+  },
+  {
+   "fp": "british columbia declares district emergency evacuation issues orders rages state wildfire",
+   "title": "British Columbia district declares state of emergency, issues evacuation orders as wildfire rages",
+   "source": "Reuters",
+   "at": "2026-08-08T15:21:58.227814+00:00"
   }
  ],
  "titles": [
-  "ceuta invasion nothingburger outrage",
-  "chad chilling crime gunman idaho mass posts railed shooting williams",
   "dead hunt idaho left motive police shooting three",
   "blazes destruction europe greece hold parts photos show take wildfires",
   "appearance court husband killed lawmaker makes minnesota state",
@@ -3580,6 +3580,8 @@
   "backed colombia pledges president support sworn trump",
   "barrels clouds economy jobs memo midterms report toward trump weak",
   "collector dead honors killed recovering souls ukraine",
-  "attacks friendly kill kyiv moscow region russian serbia visits zelenskyy"
+  "attacks friendly kill kyiv moscow region russian serbia visits zelenskyy",
+  "died dietl heartbreaking killed late life like pastore reaction real reveals sopranos vincent",
+  "british columbia declares district emergency evacuation issues orders rages state wildfire"
  ]
 }
