@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMipwFBVV95cUxNR3h6WTB6MGE4MnpxcEt6Q1ZlejdBcDlGWFNCZEJTOWNLX2lqam1Fd1VoOW0xeTBpLW1CMHQ3WFhnVmMwdU54U0dOVDZzbXhGQlExVWQ5WjFEOFFCcnJaRnhCdlBHYWw3S0tvd0tNUEFSUzM0QlpvbWwyQ0Myc3FJRzlKODcxekpvQVRhUkZwbDBvTjMzbE5KcFY0M0ZEcVV0c3ZuTmlPcw",
-  "https://nypost.com/?post_type=article&p=40131408",
   "https://www.bbc.co.uk/news/articles/c9w01781981o#0",
   "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo#0",
   "CBMiyAFBVV95cUxOU2U1VHBDNEtNV2NlVGhLcUNrOU9KRkV3OHowQ1hjYzM3V3A1bFRfTF9rT2k5Wjd5SW5aQkUzVUs5d0plWmkzblZjenh4QXhOUXU1TGVMRzVuSm9KTWVpTVVneFNoczdyZW5hVHk4eFo4ZWtpcDNLRUhUcElOSnROM1BPOUNxTHJneGZvSkVnaWtQOXlka0JXS3NCdWxCX1lXamp4T0d6NThKV0o0dUFMd2RzcjhsNVdWTFhDNEFud3NBMWRubjdreg",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40252595",
   "https://nypost.com/?post_type=article&p=40220244",
   "https://www.washingtonexaminer.com/?p=4680260",
-  "https://nypost.com/?post_type=article&p=40149312"
+  "https://nypost.com/?post_type=article&p=40149312",
+  "https://nypost.com/?post_type=article&p=40253831",
+  "CBMirwFBVV95cUxOM0E3NWhTMHdFczZGRndJTDREOWFZSWZjVUtmQnVid1VCWHZQcWpObTlmbnFCWTdnTjNDZXgzZXN4dW82QzZQVzM4aE9SOFJoUXFuYWd4cmpTQk1DMHQzeHpCWlprT0VmTGhUN2x3ekZoZDBDWDNWT3Q0a19VSEIzM3BVUFNtYXZIeVl1M1pPdGN6dUl1eW54WVQ4Sm5OOWhXX1Y1OFR4azFWWmpqZ2Rz"
  ],
  "posts": [
-  {
-   "fp": "comes crisis down drought europe hungary live millimetres nuclear plant power shutting within",
-   "title": "Hungary comes \u2018within millimetres\u2019 of shutting down nuclear power plant amid drought crisis \u2013 Europe live",
-   "source": "Guardian World",
-   "at": "2026-08-04T09:24:15.984550+00:00"
-  },
-  {
-   "fp": "civilians crimea fellow kills report russian soldier three troop",
-   "title": "Russian soldier kills fellow troop and three civilians in Crimea: report",
-   "source": "New York Post",
-   "at": "2026-08-04T09:24:17.706312+00:00"
-  },
   {
    "fp": "alert amber creek dead discovery found frantic heartbreaking home near neighbor recalls search sparked texas toddler",
    "title": "Texas toddler, 2, found dead in creek near home after Amber Alert sparked frantic search as neighbor recalls heartbreaking discovery",
@@ -3201,11 +3189,21 @@
    "title": "Trump could consider taking out Pickaxe Mountain entrances to stop Iran from rebooting nuclear weapons: expert",
    "source": "New York Post",
    "at": "2026-08-08T19:45:34.884882+00:00"
+  },
+  {
+   "fp": "avalanche criminal deadly forward leave moves probe questions redacted reports tahoe unanswered",
+   "title": "Criminal probe into deadly Tahoe avalanche moves forward as redacted reports leave questions unanswered",
+   "source": "New York Post",
+   "at": "2026-08-08T20:20:41.011225+00:00"
+  },
+  {
+   "fp": "attack bomb colombia conservative office president southwest takes targets",
+   "title": "A car-bomb attack targets southwest Colombia a day after conservative president takes office",
+   "source": "AP",
+   "at": "2026-08-08T20:20:42.743707+00:00"
   }
  ],
  "titles": [
-  "comes crisis down drought europe hungary live millimetres nuclear plant power shutting within",
-  "civilians crimea fellow kills report russian soldier three troop",
   "alert amber creek dead discovery found frantic heartbreaking home near neighbor recalls search sparked texas toddler",
   "arrested arson battles devastating spokane suspect wildfires",
   "democratic michigan primary senate stake",
@@ -3603,6 +3601,8 @@
   "activist away dead ground lobaido mamdani scott stay still warns zero",
   "brooklyn coming dead final found hammering hears home minutes neighbor woman",
   "canada evacuate fast forces moving people western wildfire",
-  "consider entrances expert iran mountain nuclear pickaxe rebooting stop taking trump weapons"
+  "consider entrances expert iran mountain nuclear pickaxe rebooting stop taking trump weapons",
+  "avalanche criminal deadly forward leave moves probe questions redacted reports tahoe unanswered",
+  "attack bomb colombia conservative office president southwest takes targets"
  ]
 }
