@@ -69,7 +69,7 @@ HEADER = "**Free games right now** 🎉"
 #        repo works fine. Leave "" to post without one.
 GAMERTOOL = {
     "title": "GamerTool",
-    "url": "https://github.com/WikyWiky1/GamerTool/releases/latest",
+    "url": "https://github.com/WikyWiky1/GamerTool-releases/releases/latest",
     "image": "",
     "description": (
         "A free all-in-one desktop companion for PC gamers from WikyWiky "
