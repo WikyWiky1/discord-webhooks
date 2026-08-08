@@ -755,15 +755,10 @@
   "https://thehill.com/?p=6018225",
   "https://www.washingtonexaminer.com/?p=4680005",
   "CBMirgFBVV95cUxOcUJOLXptM1F6NjZEd04tNHJGQ1ZkUVpCTlI5YkY5eVBOWUpvRmNXTVhaWl9KeFdTZVZhV0JmQ29IdjBwcUF0RW1JQ2FkaGlkWjN5RFQwaFVxWDBUa1NoNW44Tm5EZU5UbkRreUJLZWRkNUhNc0Jqb281NkhJYWpybzQ4ajNYNERfVExUejExVlRLOTdxR2NLNDhqRnNtQ0xOUENKMDBUT01tMG9wcmc",
-  "CBMimgFBVV95cUxPNnZETHRKWS1CWVRoQzNhZUY5UG9oN2E4TDFncGxtVG03MWk1YkZxcXBjS2JYZ0ZxQjdfdHQ3Y2hYaDMwLVZkQUo3U05lZkh5Y3ctUGRBZXlSX1lGYWxhMXJDNWFNMFppRjR4Q2x0NjVxbzdkYTJFbmlMNXcyZHljUDZDZUw2XzlfZEVwWHh0UUYtM201NGNWNVFB"
+  "CBMimgFBVV95cUxPNnZETHRKWS1CWVRoQzNhZUY5UG9oN2E4TDFncGxtVG03MWk1YkZxcXBjS2JYZ0ZxQjdfdHQ3Y2hYaDMwLVZkQUo3U05lZkh5Y3ctUGRBZXlSX1lGYWxhMXJDNWFNMFppRjR4Q2x0NjVxbzdkYTJFbmlMNXcyZHljUDZDZUw2XzlfZEVwWHh0UUYtM201NGNWNVFB",
+  "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo#0"
  ],
  "posts": [
-  {
-   "fp": "advance attorney full general holdouts live nomination pick politics senate trump",
-   "title": "Holdouts for Trump\u2019s attorney general pick say they will advance his nomination to the full Senate \u2013 US politics live",
-   "source": "Guardian World",
-   "at": "2026-08-03T17:08:57.235828+00:00"
-  },
   {
    "fp": "breaking cruelest game point pushed review",
    "title": "\u2018The Cruelest Game\u2019 Review: Pushed to the Breaking Point",
@@ -3157,10 +3152,15 @@
    "title": "Democrats try to present a united front in Michigan after bitter primary",
    "source": "AP",
    "at": "2026-08-08T04:10:45.167352+00:00"
+  },
+  {
+   "fp": "attacks child killed kyiv missile near russian three",
+   "title": "Child among three killed in Russian missile attacks near Kyiv",
+   "source": "BBC World",
+   "at": "2026-08-08T04:49:22.462153+00:00"
   }
  ],
  "titles": [
-  "advance attorney full general holdouts live nomination pick politics senate trump",
   "breaking cruelest game point pushed review",
   "authorities burger idaho mass motive seek shooting",
   "arrested dead injured shooting year yonkers",
@@ -3559,6 +3559,7 @@
   "america aside budget conservatives deal impasse reach save senate thune trump",
   "august budget fight line party punts recess senate until",
   "backed evasion hottest network russia sanctions startup state",
-  "bitter democrats front michigan present primary united"
+  "bitter democrats front michigan present primary united",
+  "attacks child killed kyiv missile near russian three"
  ]
 }
