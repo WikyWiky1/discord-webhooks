@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMirgFBVV95cUxPbWpsSnpKVndGWThyUHhGTmU3SGw2LWtnTldYT2gxcUFYZmV4Rk9uVlpDb0Vyal9RWGtKdTdONFlhOF9TLTB6c3ZLaWJoVjdNWWNkZzlFWi1iZUhqOVhtdE41U0Yxejdwd05LbjB1d3gyZmIwaV81ZDdWT0EzQ0R0SVdRNmtYUUhKWE4tRkpsZjY2NjRmZlJCOUlfMl9HbEhVTmY1RU1fXzJXZjRtUEE",
-  "https://nypost.com/?post_type=article&p=40130569",
-  "CBMizAFBVV95cUxPYWM5NFpLa3p4OE1XZUMybkU4TDdyeWxjbTlEaXpUaUtJR1JUNngzd3AxNmgydElQNUc4aVBFS3V6N0FCcXZOTVV0a0tYQjl1dTVRTnZrNXdRaTh4aGVOR25hM0xvQ3hEWElrWWtjWGI0aWhwb28wbjJLMklKZEFQb1dzWVktU2YteVN3dW84MmpzdnRkUXlzZWxWam9COVVHZ1h5NkhFcXRvZi12SUx1S2hGcm93U1lkdmJNVXRDbUpYSjRIemlpX1NqaDk",
   "CBMipwFBVV95cUxNR3h6WTB6MGE4MnpxcEt6Q1ZlejdBcDlGWFNCZEJTOWNLX2lqam1Fd1VoOW0xeTBpLW1CMHQ3WFhnVmMwdU54U0dOVDZzbXhGQlExVWQ5WjFEOFFCcnJaRnhCdlBHYWw3S0tvd0tNUEFSUzM0QlpvbWwyQ0Myc3FJRzlKODcxekpvQVRhUkZwbDBvTjMzbE5KcFY0M0ZEcVV0c3ZuTmlPcw",
   "https://nypost.com/?post_type=article&p=40131408",
   "https://www.bbc.co.uk/news/articles/c9w01781981o#0",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6017347",
   "CBMiqAFBVV95cUxPZXFjOGlGSWlVVFQtNW5CeDhLSGdXV3QyaFRVR0g4RkJGNFA2aktsd185WGRUN3FaZlRxMWxLcm40T3J5dUtiQ21jT3NsNFZWTW95X2Y2ejFLaW83d2tidFVXUTNzVDFzVWVwaWZXcm9XX0U3T3NWZThBUHR5VlpCOHJESWtQTnZ3TjJpVXJYYTRFa0NzVjlWZHZ6SlZsVlZMQklPaHExbms",
   "https://www.washingtonexaminer.com/?p=4679983",
-  "https://nypost.com/?post_type=article&p=40252595"
+  "https://nypost.com/?post_type=article&p=40252595",
+  "https://nypost.com/?post_type=article&p=40220244",
+  "https://www.washingtonexaminer.com/?p=4680260",
+  "https://nypost.com/?post_type=article&p=40149312"
  ],
  "posts": [
-  {
-   "fp": "avoid danger departments emergency hospital life might public record sydney unless urged",
-   "title": "Public urged to avoid hospital unless \u2018life might be in danger\u2019 after record day for Sydney emergency departments",
-   "source": "Guardian World",
-   "at": "2026-08-04T06:21:51.511636+00:00"
-  },
-  {
-   "fp": "france hundreds reveal shells village wildfires",
-   "title": "France wildfires reveal hundreds of WW2 shells in village",
-   "source": "BBC World",
-   "at": "2026-08-04T06:21:53.283049+00:00"
-  },
-  {
-   "fp": "continues dead five moscow region strikes ukraine warehouse",
-   "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-   "source": "BBC World",
-   "at": "2026-08-04T09:24:14.324897+00:00"
-  },
   {
    "fp": "comes crisis down drought europe hungary live millimetres nuclear plant power shutting within",
    "title": "Hungary comes \u2018within millimetres\u2019 of shutting down nuclear power plant amid drought crisis \u2013 Europe live",
@@ -3201,12 +3183,27 @@
    "title": "\u2018Dead\u2019 pro-cop activist Scott LoBaido still warns Mamdani to stay away from Ground Zero",
    "source": "New York Post",
    "at": "2026-08-08T19:11:02.433840+00:00"
+  },
+  {
+   "fp": "brooklyn coming dead final found hammering hears home minutes neighbor woman",
+   "title": "Brooklyn woman found dead after neighbor hears \u201830 minutes of hammering\u2019 and a final \u2018F\u2013k You\u2019 coming from home",
+   "source": "New York Post",
+   "at": "2026-08-08T19:45:31.475082+00:00"
+  },
+  {
+   "fp": "canada evacuate fast forces moving people western wildfire",
+   "title": "A fast-moving wildfire forces more than 20,000 people to evacuate in western Canada",
+   "source": "Washington Examiner",
+   "at": "2026-08-08T19:45:33.167392+00:00"
+  },
+  {
+   "fp": "consider entrances expert iran mountain nuclear pickaxe rebooting stop taking trump weapons",
+   "title": "Trump could consider taking out Pickaxe Mountain entrances to stop Iran from rebooting nuclear weapons: expert",
+   "source": "New York Post",
+   "at": "2026-08-08T19:45:34.884882+00:00"
   }
  ],
  "titles": [
-  "avoid danger departments emergency hospital life might public record sydney unless urged",
-  "france hundreds reveal shells village wildfires",
-  "continues dead five moscow region strikes ukraine warehouse",
   "comes crisis down drought europe hungary live millimetres nuclear plant power shutting within",
   "civilians crimea fellow kills report russian soldier three troop",
   "alert amber creek dead discovery found frantic heartbreaking home near neighbor recalls search sparked texas toddler",
@@ -3603,6 +3600,9 @@
   "budget childhood children congress debates lines live",
   "carolina darline experience famous graham lack name primary south tests value",
   "attorney back blanche general grassley nomination todd track",
-  "activist away dead ground lobaido mamdani scott stay still warns zero"
+  "activist away dead ground lobaido mamdani scott stay still warns zero",
+  "brooklyn coming dead final found hammering hears home minutes neighbor woman",
+  "canada evacuate fast forces moving people western wildfire",
+  "consider entrances expert iran mountain nuclear pickaxe rebooting stop taking trump weapons"
  ]
 }
