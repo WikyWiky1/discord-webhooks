@@ -775,15 +775,10 @@
   "CBMirwFBVV95cUxNR1ZYbkR1TTdOc0p4Ymxia2JDN3o1aU9uZ3Q1QUowTjB3b3Rtc3o4WWxYNXIxZU14WUxobHBLN0RfMFUycmY1c3NUdkhyUHlYVkFXSUV4Q291d2tuOEtSeFRPMG5McDhoZmd4RlB2bTlIWXNBNUF4VUV3ZW9pQ0dnN2NkTEZoREcxM2FvNHdoMzBpYlBfUGtmZHdlWmhkX1MtRnk5cmdsdWlxeHhmS0RZ",
   "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo#0",
   "https://thehill.com/?p=6017947",
-  "CBMiowFBVV95cUxPVkI3UGpBZkg3d2ptZUUtcUJjbk5WQjlNVFdFcmZiSERjeUhVWEhLcjJhbS15UEtQdkVQMGpTR2pKMVoxR2tRdnFkOGY4RmpFeG5qZnRORHZ1anA3VnJTMXFhTzJxcjh2WkJGdGtyb3luWFlkcTVrVWxadEd6dktkVHBoaVFQcWdDVzF2VjNjc2V2eXZuTm1OaXo4OEw2UG16YUxJ"
+  "CBMiowFBVV95cUxPVkI3UGpBZkg3d2ptZUUtcUJjbk5WQjlNVFdFcmZiSERjeUhVWEhLcjJhbS15UEtQdkVQMGpTR2pKMVoxR2tRdnFkOGY4RmpFeG5qZnRORHZ1anA3VnJTMXFhTzJxcjh2WkJGdGtyb3luWFlkcTVrVWxadEd6dktkVHBoaVFQcWdDVzF2VjNjc2V2eXZuTm1OaXo4OEw2UG16YUxJ",
+  "CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE"
  ],
  "posts": [
-  {
-   "fp": "deaths diarrhoea explosive linked outbreak reports",
-   "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
-   "source": "BBC World",
-   "at": "2026-08-03T20:39:52.359148+00:00"
-  },
   {
    "fp": "ceuta invasion nothingburger outrage",
    "title": "Ceuta invasion \u2014 nothingburger or outrage?",
@@ -3177,10 +3172,15 @@
    "title": "Ukraine honors its \u2018collector of souls\u2019 killed while recovering the war dead",
    "source": "AP",
    "at": "2026-08-08T13:29:38.044600+00:00"
+  },
+  {
+   "fp": "attacks friendly kill kyiv moscow region russian serbia visits zelenskyy",
+   "title": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4",
+   "source": "AP",
+   "at": "2026-08-08T14:51:20.540519+00:00"
   }
  ],
  "titles": [
-  "deaths diarrhoea explosive linked outbreak reports",
   "ceuta invasion nothingburger outrage",
   "chad chilling crime gunman idaho mass posts railed shooting williams",
   "dead hunt idaho left motive police shooting three",
@@ -3579,6 +3579,7 @@
   "attorney confirmed general pick senate trump",
   "backed colombia pledges president support sworn trump",
   "barrels clouds economy jobs memo midterms report toward trump weak",
-  "collector dead honors killed recovering souls ukraine"
+  "collector dead honors killed recovering souls ukraine",
+  "attacks friendly kill kyiv moscow region russian serbia visits zelenskyy"
  ]
 }
