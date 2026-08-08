@@ -774,15 +774,10 @@
   "CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA",
   "CBMirwFBVV95cUxNR1ZYbkR1TTdOc0p4Ymxia2JDN3o1aU9uZ3Q1QUowTjB3b3Rtc3o4WWxYNXIxZU14WUxobHBLN0RfMFUycmY1c3NUdkhyUHlYVkFXSUV4Q291d2tuOEtSeFRPMG5McDhoZmd4RlB2bTlIWXNBNUF4VUV3ZW9pQ0dnN2NkTEZoREcxM2FvNHdoMzBpYlBfUGtmZHdlWmhkX1MtRnk5cmdsdWlxeHhmS0RZ",
   "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo#0",
-  "https://thehill.com/?p=6017947"
+  "https://thehill.com/?p=6017947",
+  "CBMiowFBVV95cUxPVkI3UGpBZkg3d2ptZUUtcUJjbk5WQjlNVFdFcmZiSERjeUhVWEhLcjJhbS15UEtQdkVQMGpTR2pKMVoxR2tRdnFkOGY4RmpFeG5qZnRORHZ1anA3VnJTMXFhTzJxcjh2WkJGdGtyb3luWFlkcTVrVWxadEd6dktkVHBoaVFQcWdDVzF2VjNjc2V2eXZuTm1OaXo4OEw2UG16YUxJ"
  ],
  "posts": [
-  {
-   "fp": "california deadly issue nile officials turns update virus west",
-   "title": "West Nile Virus turns deadly in California as officials issue update",
-   "source": "New York Post",
-   "at": "2026-08-03T20:39:50.607018+00:00"
-  },
   {
    "fp": "deaths diarrhoea explosive linked outbreak reports",
    "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
@@ -3176,10 +3171,15 @@
    "title": "The Memo: Weak jobs report clouds economy as Trump barrels toward midterms",
    "source": "The Hill",
    "at": "2026-08-08T12:46:54.203612+00:00"
+  },
+  {
+   "fp": "collector dead honors killed recovering souls ukraine",
+   "title": "Ukraine honors its \u2018collector of souls\u2019 killed while recovering the war dead",
+   "source": "AP",
+   "at": "2026-08-08T13:29:38.044600+00:00"
   }
  ],
  "titles": [
-  "california deadly issue nile officials turns update virus west",
   "deaths diarrhoea explosive linked outbreak reports",
   "ceuta invasion nothingburger outrage",
   "chad chilling crime gunman idaho mass posts railed shooting williams",
@@ -3578,6 +3578,7 @@
   "democrats house impeachment investigations plan sources trump",
   "attorney confirmed general pick senate trump",
   "backed colombia pledges president support sworn trump",
-  "barrels clouds economy jobs memo midterms report toward trump weak"
+  "barrels clouds economy jobs memo midterms report toward trump weak",
+  "collector dead honors killed recovering souls ukraine"
  ]
 }
