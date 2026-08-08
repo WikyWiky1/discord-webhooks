@@ -794,33 +794,13 @@
   "CBMipwFBVV95cUxQY3lTSDk2R3JndERKZ0dEbnRVX2ZvSDEweXNaQjBPeDRXVmZxVENSYTNzSm12clM5eFBlcXZFSWNhZDRtcDZXMEJIczY5THd6aHk5S0hGc1hwM3VlNDNwV2RzbWFMTkVDeWFtbWk1cTBMWWczdGZ3VDZFaW92U0U3RUxRNG4wV0dXcGsxMVlzYUZHMk5TME01SG9hNzFqSGlJWldRRGhQTQ",
   "CBMisAFBVV95cUxNNjdvZmtIbUhPd2hSMjBTbGJkbExLVFZGQlY3dzhSUXNfdS1fSzF1Uk5HRWUtcEhKUE1wNk82T0Q3S2k2T2dMdXl6ZFJQaHFWUkpzM2hMei1reHI1LUVneEk3Y2dMdE9iSzJhMVY5MUNCcVJhS0w4aXlyal9YZ0s1a3kwV0JHcnVCYUdmY1dwamprYnJFSTJPUUpPMk1vaDFxaEFrZVMzLUh5X1RKRS1uUw",
   "CBMinAFBVV95cUxNMC1ESVdvTEp1b3lGanRHTGFRNjhibE5jV0VydUcxMXVOQ2dTSG1BYzBkUFNPN0JpZ3ZCYlk3TEpYZzlZMnZoZEtRUWZydWVmanp1U0xkOGFudktYb3hhYmYxdUpMZm5MTlRBemlJWTlsNGhxbURpY0dOa2x3YVdfbk51a1kyTVVDbWxBSGxyWTd0T2NEV3luaU85RXo",
-  "https://nypost.com/?post_type=article&p=40244956"
+  "https://nypost.com/?post_type=article&p=40244956",
+  "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#1",
+  "https://nypost.com/?post_type=article&p=40253501",
+  "CBMihAFBVV95cUxNSjh6QlBTczc0SVVjakZ5VkowSEtxRTN0VUQwYWxaaldPcE5SZVU4UDdGNzVXN3VhcVI4SEx0UUNCTTctRHQ3bUVoMXBIVlVibFMwVDYwV1doZWdzSzl2dkVpeUJLVmhnS3IyYllPbGZkQkdPT0lyQk52VlZxNENKSF9HNzk",
+  "CBMijgFBVV95cUxPeWIzT1dzUEI1bndudWxMT1RZYmFzaGR3ZlYtOV9oWDV0dlNjcEdGZnE5bXVJcmpQcUpNMlFwbVBjR2hKVXp5SzJZX2ZodVNYQ2lMS3kyMXNvR1VqdzR5blRFaHk3dGl6YUpQaUxsMzJrN25nVGlzZG9PZXRVSHZqM0dKVjRlY3MyTmF1UjhR"
  ],
  "posts": [
-  {
-   "fp": "asia higher lead move steady stocks street wall",
-   "title": "Asia stocks move higher on Wall Street lead, oil steady",
-   "source": "Reuters",
-   "at": "2026-08-04T02:30:25.164858+00:00"
-  },
-  {
-   "fp": "chuck committee grassley invites jack judiciary senate smith testify",
-   "title": "Sen. Chuck Grassley invites Jack Smith to testify before Senate Judiciary Committee",
-   "source": "Washington Examiner",
-   "at": "2026-08-04T02:30:26.947737+00:00"
-  },
-  {
-   "fp": "earnings expectations otherworldly palantir past quarter surge",
-   "title": "\u2018This quarter was otherworldly\u2019: Palantir earnings surge past expectations",
-   "source": "Guardian World",
-   "at": "2026-08-04T02:30:28.642795+00:00"
-  },
-  {
-   "fp": "actress dead home spider",
-   "title": "\u2018Spider-Man: No Way Home\u2019 actress dead at 82",
-   "source": "New York Post",
-   "at": "2026-08-04T03:40:27.214205+00:00"
-  },
   {
    "fp": "center dead detention emergency following medical newark salvadoran",
    "title": "ICE says Salvadoran man dead following 'medical emergency' at Newark detention center",
@@ -3196,13 +3176,33 @@
    "title": "LAUSD chief Alberto Carvalho accused of hiding his tracks before resignation, secret letter reveals",
    "source": "New York Post",
    "at": "2026-08-08T17:47:21.639465+00:00"
+  },
+  {
+   "fp": "canada doubles fast flee forcing homes moving size thousands wildfire",
+   "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+   "source": "BBC World",
+   "at": "2026-08-08T18:26:06.408433+00:00"
+  },
+  {
+   "fp": "closure evacuation fire forces highway hoopa mp18 near warnings",
+   "title": "MP18 Fire forces evacuation warnings, Highway 96 closure near Hoopa",
+   "source": "New York Post",
+   "at": "2026-08-08T18:26:08.220979+00:00"
+  },
+  {
+   "fp": "deadly recounts school shooting survived teenager thailand",
+   "title": "Teenager recounts how she survived Thailand's deadly school shooting",
+   "source": "Reuters World",
+   "at": "2026-08-08T18:26:09.953198+00:00"
+  },
+  {
+   "fp": "attack children couples lost mass nigerian remarries wedding widower wife",
+   "title": "Widower who lost wife and 6 children in attack remarries in Nigerian mass wedding for 1,500 couples",
+   "source": "AP",
+   "at": "2026-08-08T18:26:11.688502+00:00"
   }
  ],
  "titles": [
-  "asia higher lead move steady stocks street wall",
-  "chuck committee grassley invites jack judiciary senate smith testify",
-  "earnings expectations otherworldly palantir past quarter surge",
-  "actress dead home spider",
   "center dead detention emergency following medical newark salvadoran",
   "committee invited jack judiciary month next senate smith testify",
   "close democrats different michigan offering primary sayed senate stevens visions",
@@ -3598,6 +3598,10 @@
   "house manhunt manor national rare silver stolen trust",
   "call deadly inside school shooting thailand",
   "congo group kills least linked village",
-  "accused alberto carvalho chief hiding lausd letter resignation reveals secret tracks"
+  "accused alberto carvalho chief hiding lausd letter resignation reveals secret tracks",
+  "canada doubles fast flee forcing homes moving size thousands wildfire",
+  "closure evacuation fire forces highway hoopa mp18 near warnings",
+  "deadly recounts school shooting survived teenager thailand",
+  "attack children couples lost mass nigerian remarries wedding widower wife"
  ]
 }
