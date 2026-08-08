@@ -769,21 +769,11 @@
   "CBMisAFBVV95cUxOZDRVbmJYT1dkcjVDVFcxSUd1N3NQX05HcXVpR0lRRWo4RDVCTGpLTG5aVDRnSk5Yc3NoRi1VaENibDRldWRWZGo2WlFtdXBGZUdNV2RHVl9XWTEzTDIzWEwxNktuNEtUc09uY1FROTNyTWJ4LUo2VFhkcG50UlVaSkpYNTNTMFBQTFlld1I3TENoM3l3Y2RCekJJUnppdHhNMHB5SnpSb1ZmMF91QmdJOA",
   "CBMilAFBVV95cUxQczJKQlNxb05hS05Zc0hoUC1HTjJ2ZlpoWHRRVzlXTDNyTDFWQ3BKVnZhM1hmb1FZb0NiVkp3aDF6ZW5qWW9CU2Fyd1BiTTFmVTEzNmdpbkxRd0pOLVNqRTZyOWJVVVdLSWRrdW1uSDA3bWoxV0RyUlhQUzc1ZHlDUUctbFpQbnJWV3NpZGY2b3d6bzdJ",
   "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
-  "https://www.washingtonexaminer.com/?p=4679680"
+  "https://www.washingtonexaminer.com/?p=4679680",
+  "CBMivgFBVV95cUxPclAtNUZ3Z3drR0pPSjJpaVBLa292ay1pdEZxZlJnanFnT1AwbGJPYVJZbEVZWWVRSm9xempKX3VVXzM5NlRzRFNVWHJiSFBEZk1vRmsxekhLZnFZLXpjb2xlcXFJOW10bHZzZlN6NXZjMUVfR1VxWENJV2JqT0ZMemlkbWNJZFN6QkpYSFUwbkdKeXp4UHowQlR3ZEk1bnNEWVhWdE1vMEhrbEpFbW1jT1NEVUFlQ19mRmxSUTh3",
+  "CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA"
  ],
  "posts": [
-  {
-   "fp": "admit britain crisis labour must role unemployment youth",
-   "title": "Labour must admit its role in Britain\u2019s youth unemployment crisis",
-   "source": "Telegraph",
-   "at": "2026-08-03T19:36:34.051967+00:00"
-  },
-  {
-   "fp": "activist candidate council election former nazi selected somerset tory",
-   "title": "Former neo-Nazi activist selected as Tory candidate for Somerset council election",
-   "source": "Guardian World",
-   "at": "2026-08-03T19:36:35.706359+00:00"
-  },
   {
    "fp": "awards blowout bonus chevron earnings following special staff",
    "title": "Chevron awards staff special bonus following earnings blowout",
@@ -3171,11 +3161,21 @@
    "title": "Fauci and the art of turning accountability into the villain",
    "source": "Washington Examiner",
    "at": "2026-08-08T11:33:49.256665+00:00"
+  },
+  {
+   "fp": "above attack base days drone drones german military spotted suspected",
+   "title": "Drones spotted above German military base two days after suspected drone attack",
+   "source": "Reuters",
+   "at": "2026-08-08T11:45:39.918078+00:00"
+  },
+  {
+   "fp": "democrats house impeachment investigations plan sources trump",
+   "title": "Democrats plan Trump investigations over impeachment if they win House, sources say",
+   "source": "Reuters",
+   "at": "2026-08-08T11:45:41.561414+00:00"
   }
  ],
  "titles": [
-  "admit britain crisis labour must role unemployment youth",
-  "activist candidate council election former nazi selected somerset tory",
   "awards blowout bonus chevron earnings following special staff",
   "bills charitable congress deepfakes harry meghan prince sitting urges waiting",
   "address brands cyclospora moving outbreak quickly",
@@ -3573,6 +3573,8 @@
   "bangkok bodies families killed least outside retrieve shooting year",
   "approves avoid bill election funding senate shutdown",
   "bunkers country nation neutral nuclear switzerland world",
-  "accountability fauci turning villain"
+  "accountability fauci turning villain",
+  "above attack base days drone drones german military spotted suspected",
+  "democrats house impeachment investigations plan sources trump"
  ]
 }
