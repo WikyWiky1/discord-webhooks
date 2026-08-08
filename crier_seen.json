@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c9w01781981o#0",
-  "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo#0",
   "CBMiyAFBVV95cUxOU2U1VHBDNEtNV2NlVGhLcUNrOU9KRkV3OHowQ1hjYzM3V3A1bFRfTF9rT2k5Wjd5SW5aQkUzVUs5d0plWmkzblZjenh4QXhOUXU1TGVMRzVuSm9KTWVpTVVneFNoczdyZW5hVHk4eFo4ZWtpcDNLRUhUcElOSnROM1BPOUNxTHJneGZvSkVnaWtQOXlka0JXS3NCdWxCX1lXamp4T0d6NThKV0o0dUFMd2RzcjhsNVdWTFhDNEFud3NBMWRubjdreg",
   "https://news.sky.com/story/father-who-gifted-gun-to-son-before-he-carried-out-deadly-high-school-shooting-jailed-for-15-years-13568560",
   "https://nypost.com/?post_type=article&p=40129868",
@@ -799,21 +797,11 @@
   "https://www.washingtonexaminer.com/?p=4680260",
   "https://nypost.com/?post_type=article&p=40149312",
   "https://nypost.com/?post_type=article&p=40253831",
-  "CBMirwFBVV95cUxOM0E3NWhTMHdFczZGRndJTDREOWFZSWZjVUtmQnVid1VCWHZQcWpObTlmbnFCWTdnTjNDZXgzZXN4dW82QzZQVzM4aE9SOFJoUXFuYWd4cmpTQk1DMHQzeHpCWlprT0VmTGhUN2x3ekZoZDBDWDNWT3Q0a19VSEIzM3BVUFNtYXZIeVl1M1pPdGN6dUl1eW54WVQ4Sm5OOWhXX1Y1OFR4azFWWmpqZ2Rz"
+  "CBMirwFBVV95cUxOM0E3NWhTMHdFczZGRndJTDREOWFZSWZjVUtmQnVid1VCWHZQcWpObTlmbnFCWTdnTjNDZXgzZXN4dW82QzZQVzM4aE9SOFJoUXFuYWd4cmpTQk1DMHQzeHpCWlprT0VmTGhUN2x3ekZoZDBDWDNWT3Q0a19VSEIzM3BVUFNtYXZIeVl1M1pPdGN6dUl1eW54WVQ4Sm5OOWhXX1Y1OFR4azFWWmpqZ2Rz",
+  "https://nypost.com/?post_type=article&p=40254415",
+  "https://nypost.com/?post_type=article&p=40254072"
  ],
  "posts": [
-  {
-   "fp": "alert amber creek dead discovery found frantic heartbreaking home near neighbor recalls search sparked texas toddler",
-   "title": "Texas toddler, 2, found dead in creek near home after Amber Alert sparked frantic search as neighbor recalls heartbreaking discovery",
-   "source": "New York Post",
-   "at": "2026-08-04T09:24:19.581007+00:00"
-  },
-  {
-   "fp": "arrested arson battles devastating spokane suspect wildfires",
-   "title": "Arson suspect arrested as Spokane battles devastating wildfires",
-   "source": "AP",
-   "at": "2026-08-04T09:24:21.320521+00:00"
-  },
   {
    "fp": "democratic michigan primary senate stake",
    "title": "What\u2019s at stake in the Michigan Democratic Senate primary",
@@ -3201,11 +3189,21 @@
    "title": "A car-bomb attack targets southwest Colombia a day after conservative president takes office",
    "source": "AP",
    "at": "2026-08-08T20:20:42.743707+00:00"
+  },
+  {
+   "fp": "behind black dead found hanging home mississippi tree vacant woman",
+   "title": "Black woman found dead, hanging from tree behind vacant home in Mississippi",
+   "source": "New York Post",
+   "at": "2026-08-08T21:02:37.214694+00:00"
+  },
+  {
+   "fp": "bystander dead happened hero horrific left reopens reveals shooting",
+   "title": "In-N-Out reopens after horrific shooting left 3 dead \u2014 as hero bystander reveals what happened",
+   "source": "New York Post",
+   "at": "2026-08-08T21:02:39.415378+00:00"
   }
  ],
  "titles": [
-  "alert amber creek dead discovery found frantic heartbreaking home near neighbor recalls search sparked texas toddler",
-  "arrested arson battles devastating spokane suspect wildfires",
   "democratic michigan primary senate stake",
   "affordable congress energy overreach protect rein reliable should",
   "five michigan primary races spotlight takes watch",
@@ -3603,6 +3601,8 @@
   "canada evacuate fast forces moving people western wildfire",
   "consider entrances expert iran mountain nuclear pickaxe rebooting stop taking trump weapons",
   "avalanche criminal deadly forward leave moves probe questions redacted reports tahoe unanswered",
-  "attack bomb colombia conservative office president southwest takes targets"
+  "attack bomb colombia conservative office president southwest takes targets",
+  "behind black dead found hanging home mississippi tree vacant woman",
+  "bystander dead happened hero horrific left reopens reveals shooting"
  ]
 }
