@@ -758,15 +758,10 @@
   "CBMimgFBVV95cUxPNnZETHRKWS1CWVRoQzNhZUY5UG9oN2E4TDFncGxtVG03MWk1YkZxcXBjS2JYZ0ZxQjdfdHQ3Y2hYaDMwLVZkQUo3U05lZkh5Y3ctUGRBZXlSX1lGYWxhMXJDNWFNMFppRjR4Q2x0NjVxbzdkYTJFbmlMNXcyZHljUDZDZUw2XzlfZEVwWHh0UUYtM201NGNWNVFB",
   "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo#0",
   "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
-  "https://nypost.com/?post_type=article&p=40250023"
+  "https://nypost.com/?post_type=article&p=40250023",
+  "https://thehill.com/?p=6018009"
  ],
  "posts": [
-  {
-   "fp": "arrested dead injured shooting year yonkers",
-   "title": "15-year-old arrested after 1 dead, 4 injured in Yonkers shooting",
-   "source": "New York Post",
-   "at": "2026-08-03T17:27:59.795883+00:00"
-  },
   {
    "fp": "becomes breaking florida prodigy professor record world year youngest",
    "title": "Florida prodigy becomes world\u2019s youngest professor \u2014 while breaking 306-year-old record",
@@ -3160,10 +3155,15 @@
    "title": "James Carville predicts 2028 Democratic primary will test true strength of party\u2019s socialist wing",
    "source": "New York Post",
    "at": "2026-08-08T06:52:40.910283+00:00"
+  },
+  {
+   "fp": "ahead bill funding midterms passes prevent senate shutdown stopgap",
+   "title": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
+   "source": "The Hill",
+   "at": "2026-08-08T08:18:28.907420+00:00"
   }
  ],
  "titles": [
-  "arrested dead injured shooting year yonkers",
   "becomes breaking florida prodigy professor record world year youngest",
   "cyclospora deaths michigan outbreak reports",
   "allegedly hours jail kills offender parking release repeat space",
@@ -3562,6 +3562,7 @@
   "bitter democrats front michigan present primary united",
   "attacks child killed kyiv missile near russian three",
   "breathe burden couldn deadly health smoke wildfire",
-  "2028 carville democratic james party predicts primary socialist strength test true wing"
+  "2028 carville democratic james party predicts primary socialist strength test true wing",
+  "ahead bill funding midterms passes prevent senate shutdown stopgap"
  ]
 }
