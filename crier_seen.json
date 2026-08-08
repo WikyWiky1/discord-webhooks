@@ -787,27 +787,12 @@
   "https://nypost.com/?post_type=article&p=40240781",
   "https://nypost.com/?post_type=article&p=40251273",
   "https://thehill.com/?p=6018567",
-  "https://thehill.com/?p=6018546"
+  "https://thehill.com/?p=6018546",
+  "https://nypost.com/?post_type=article&p=40250585",
+  "CBMifEFVX3lxTE1MOVdSTzg2cVF1NlJadS1oMm5WRG5nVkQyS3p6RW11Vy1SeWcxdlVleVVGT0JrTXlBeXp0ZUFDMWpKNWxRWVZGODlmSC1fYndoa2U3VTBrQkxTWXR5bWZJcnl4cGRjNXNhWWZZOUpURVE0TTVSekRESG9wRTE",
+  "https://news.sky.com/story/thousands-evacuated-as-huge-wildfire-spreads-in-canada-13571032"
  ],
  "posts": [
-  {
-   "fp": "breaking news today world",
-   "title": "World News: Top & Breaking World News Today",
-   "source": "AP",
-   "at": "2026-08-03T22:55:11.112127+00:00"
-  },
-  {
-   "fp": "attacks black claims crimea drone kill resort russia ukrainian",
-   "title": "Ukrainian drone attacks on Black Sea resort and Crimea kill 11, Russia claims",
-   "source": "Guardian World",
-   "at": "2026-08-03T22:55:12.928674+00:00"
-  },
-  {
-   "fp": "allan dead fight fighter last nascimento weeks",
-   "title": "UFC fighter Allan Nascimento dead at 34 \u2014 weeks after last fight",
-   "source": "New York Post",
-   "at": "2026-08-04T00:02:11.990066+00:00"
-  },
   {
    "fp": "advances aimed bill funding overwhelmingly preventing senate shutdown stopgap",
    "title": "Senate overwhelmingly advances stopgap funding bill aimed at preventing shutdown",
@@ -3189,12 +3174,27 @@
    "title": "RFK Jr. visits CDC Atlanta office one year after fatal shooting",
    "source": "The Hill",
    "at": "2026-08-08T15:59:41.927174+00:00"
+  },
+  {
+   "fp": "coast east hurricane intensity predict scientists sharks using",
+   "title": "How scientists are using sharks to predict hurricane intensity on the East Coast",
+   "source": "New York Post",
+   "at": "2026-08-08T16:39:29.051288+00:00"
+  },
+  {
+   "fp": "casualty drills internet slower taiwan",
+   "title": "One Casualty of Taiwan\u2019s War Drills: A Slower Internet",
+   "source": "WSJ",
+   "at": "2026-08-08T16:39:30.893792+00:00"
+  },
+  {
+   "fp": "canada evacuated huge spreads thousands wildfire",
+   "title": "Thousands evacuated as huge wildfire spreads in Canada",
+   "source": "Sky News",
+   "at": "2026-08-08T16:39:32.625324+00:00"
   }
  ],
  "titles": [
-  "breaking news today world",
-  "attacks black claims crimea drone kill resort russia ukrainian",
-  "allan dead fight fighter last nascimento weeks",
   "advances aimed bill funding overwhelmingly preventing senate shutdown stopgap",
   "chip investors rotate stocks",
   "bidder consequences highest huge market posts sells social stock trump",
@@ -3591,6 +3591,9 @@
   "arrived bloodied cold dead designer emts fashion found medical montauk report yacht",
   "california deadly firebug irony shocking sparked wildfire",
   "ceasefire close deal dispute hormuz iran lingers signals strait",
-  "atlanta fatal office shooting visits year"
+  "atlanta fatal office shooting visits year",
+  "coast east hurricane intensity predict scientists sharks using",
+  "casualty drills internet slower taiwan",
+  "canada evacuated huge spreads thousands wildfire"
  ]
 }
