@@ -52,6 +52,11 @@ on:
           - 'test post'
           - 'dry run (no posting)'
           - 'force repost'
+          # Manual only, and never scheduled: announces GamerTool itself.
+          # Ignores seen.json, so picking it always posts. Preview it first
+          # with "announce GamerTool (dry)".
+          - 'announce GamerTool'
+          - 'announce GamerTool (dry)'
 
 permissions:
   contents: write
@@ -88,10 +93,12 @@ jobs:
           MODE: ${{ inputs.mode }}
         run: |
           case "$MODE" in
-            "test post")            python3 free_games.py --test ;;
-            "dry run (no posting)") python3 free_games.py --dry ;;
-            "force repost")         python3 free_games.py --force ;;
-            *)                      python3 free_games.py ;;
+            "test post")                 python3 free_games.py --test ;;
+            "dry run (no posting)")      python3 free_games.py --dry ;;
+            "force repost")              python3 free_games.py --force ;;
+            "announce GamerTool")        python3 free_games.py --gamer ;;
+            "announce GamerTool (dry)")  python3 free_games.py --gamer --dry ;;
+            *)                           python3 free_games.py ;;
           esac
 
       - name: Remember what was announced
