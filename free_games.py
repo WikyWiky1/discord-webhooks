@@ -18,6 +18,9 @@ Flags:
   --dry     print what it would post, send nothing
   --force   ignore seen.json and repost everything currently free
   --test    send a single "online" message
+  --gamer   manual push: announce GamerTool (WikyWiky Studios) as a free game.
+            Skips the feeds and seen.json entirely - it fires when you say so.
+            Combine with --dry to preview it first.
 """
 
 import json
@@ -52,6 +55,31 @@ PLATFORM_KEYWORDS = ("prime gaming", "amazon prime")
 
 SEEN_FILE = "seen.json"
 BRAND = "FreeGameAlert"
+
+HEADER = "**Free games right now** 🎉"
+
+
+# ── house release: GamerTool ────────────────────────────────────────────────
+# Manual push only (--gamer). Not a feed, so nothing here expires or dedups.
+#
+# url:   must be a page a logged-OUT visitor can open. The repo settings page
+#        is admin-only and will 404 for everyone else, so point at the release.
+# image: optional. A direct .png/.jpg URL gives it the big banner the Epic
+#        posts get - a raw.githubusercontent.com link to a screenshot in the
+#        repo works fine. Leave "" to post without one.
+GAMERTOOL = {
+    "title": "GamerTool",
+    "url": "https://github.com/WikyWiky1/GamerTool/releases/latest",
+    "image": "",
+    "description": (
+        "A free all-in-one desktop companion for PC gamers from WikyWiky "
+        "Studios - system tools, game utilities, and a built-in casino "
+        "(Blackjack, with more on the table). No ads, no accounts, "
+        "just download and play."
+    ),
+    "store": "WikyWiky Studios",
+    "ends_text": "free forever",
+}
 
 
 # ── fetching ────────────────────────────────────────────────────────────────
@@ -155,8 +183,15 @@ def artwork(element):
 
 # ── normalised offer ────────────────────────────────────────────────────────
 
-def make_offer(title, url, description, image, ends, store, via=None):
-    """One shape for every source, so the posting path stays simple."""
+def make_offer(title, url, description, image, ends, store, via=None,
+               ends_text=None):
+    """One shape for every source, so the posting path stays simple.
+
+    ends_text overrides the computed deadline line in the footer. Feed sources
+    leave it None and behave exactly as before; only the manual GamerTool push
+    uses it, so its footer can read "free forever" instead of "no listed
+    deadline".
+    """
     return {
         "title": (title or "Untitled").strip(),
         "url": url,
@@ -165,6 +200,7 @@ def make_offer(title, url, description, image, ends, store, via=None):
         "ends": ends,
         "store": store,
         "via": via,
+        "ends_text": ends_text,
     }
 
 
@@ -287,6 +323,22 @@ def gamerpower_offers():
     return offers
 
 
+# ── source 3: the house release, on demand ──────────────────────────────────
+
+def gamertool_offer():
+    """Built through make_offer like every other source, so the embed that
+    lands in Discord is the same shape as an Epic or GamerPower post."""
+    return make_offer(
+        title=GAMERTOOL["title"],
+        url=GAMERTOOL["url"],
+        description=GAMERTOOL["description"],
+        image=GAMERTOOL["image"] or None,
+        ends=None,
+        store=GAMERTOOL["store"],
+        ends_text=GAMERTOOL["ends_text"],
+    )
+
+
 # ── output ──────────────────────────────────────────────────────────────────
 
 def build_embed(offer):
@@ -305,7 +357,9 @@ def build_embed(offer):
         embed["image"] = {"url": offer["image"]}
 
     bits = [offer["store"]]
-    if offer["ends"]:
+    if offer.get("ends_text"):
+        bits.append(offer["ends_text"])
+    elif offer["ends"]:
         local = offer["ends"].astimezone(LOCAL_TZ)
         bits.append(f"claim before {local:%a %b %d, %-I:%M %p %Z}")
     else:
@@ -370,6 +424,26 @@ def main():
                         "color": 0x0074E4}])
         return 0
 
+    # Manual push. Deliberately ignores seen.json - if you fire it, it posts.
+    if "--gamer" in sys.argv:
+        embed = build_embed(gamertool_offer())
+        print(f"  PUSH: {GAMERTOOL['title']} [{GAMERTOOL['store']}] "
+              f"-> {GAMERTOOL['url']}")
+
+        if dry:
+            print("\n--- dry run, not posting ---")
+            print(json.dumps([embed], indent=2, default=str))
+            return 0
+
+        try:
+            post(webhook, [embed], content=HEADER)
+        except urllib.error.HTTPError as err:
+            body = err.read().decode("utf-8", "replace")[:400]
+            print(f"Discord rejected the post: HTTP {err.code} {body}",
+                  file=sys.stderr)
+            return 1
+        return 0
+
     # Each source is independent. One failing must not silence the other.
     offers, failures = [], []
     for label, source in (("Epic", epic_offers), ("GamerPower", gamerpower_offers)):
@@ -410,7 +484,7 @@ def main():
         print("Nothing new to announce.")
         return 0
 
-    header = "**Free games right now** 🎉"
+    header = HEADER
     if any(e.get("footer", {}).get("text", "").endswith("via GamerPower.com")
            for e in embeds):
         header += f"\n-# Giveaway tracking via [GamerPower]({GAMERPOWER_SITE})"
