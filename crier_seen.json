@@ -767,15 +767,10 @@
   "https://nypost.com/?post_type=article&p=40228596",
   "https://nypost.com/?post_type=article&p=40250324",
   "CBMisAFBVV95cUxOZDRVbmJYT1dkcjVDVFcxSUd1N3NQX05HcXVpR0lRRWo4RDVCTGpLTG5aVDRnSk5Yc3NoRi1VaENibDRldWRWZGo2WlFtdXBGZUdNV2RHVl9XWTEzTDIzWEwxNktuNEtUc09uY1FROTNyTWJ4LUo2VFhkcG50UlVaSkpYNTNTMFBQTFlld1I3TENoM3l3Y2RCekJJUnppdHhNMHB5SnpSb1ZmMF91QmdJOA",
-  "CBMilAFBVV95cUxQczJKQlNxb05hS05Zc0hoUC1HTjJ2ZlpoWHRRVzlXTDNyTDFWQ3BKVnZhM1hmb1FZb0NiVkp3aDF6ZW5qWW9CU2Fyd1BiTTFmVTEzNmdpbkxRd0pOLVNqRTZyOWJVVVdLSWRrdW1uSDA3bWoxV0RyUlhQUzc1ZHlDUUctbFpQbnJWV3NpZGY2b3d6bzdJ"
+  "CBMilAFBVV95cUxQczJKQlNxb05hS05Zc0hoUC1HTjJ2ZlpoWHRRVzlXTDNyTDFWQ3BKVnZhM1hmb1FZb0NiVkp3aDF6ZW5qWW9CU2Fyd1BiTTFmVTEzNmdpbkxRd0pOLVNqRTZyOWJVVVdLSWRrdW1uSDA3bWoxV0RyUlhQUzc1ZHlDUUctbFpQbnJWV3NpZGY2b3d6bzdJ",
+  "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers"
  ],
  "posts": [
-  {
-   "fp": "beats loses michigan poll rogers sayed senate stevens",
-   "title": "Rogers beats El-Sayed, loses to Stevens in Michigan Senate poll",
-   "source": "The Hill",
-   "at": "2026-08-03T19:36:30.599891+00:00"
-  },
   {
    "fp": "august iran kick optimism rallies street talks wall",
    "title": "Wall Street rallies to kick off August on Iran talks optimism",
@@ -3169,10 +3164,15 @@
    "title": "Senate approves funding bill to avoid a shutdown before the election",
    "source": "AP",
    "at": "2026-08-08T09:56:14.641710+00:00"
+  },
+  {
+   "fp": "bunkers country nation neutral nuclear switzerland world",
+   "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+   "source": "NPR News",
+   "at": "2026-08-08T11:03:49.710560+00:00"
   }
  ],
  "titles": [
-  "beats loses michigan poll rogers sayed senate stevens",
   "august iran kick optimism rallies street talks wall",
   "admit britain crisis labour must role unemployment youth",
   "activist candidate council election former nazi selected somerset tory",
@@ -3571,6 +3571,7 @@
   "clear iran made national painfully priority security urgent",
   "attacks defenses fall kill kyiv region russian short surrounding",
   "bangkok bodies families killed least outside retrieve shooting year",
-  "approves avoid bill election funding senate shutdown"
+  "approves avoid bill election funding senate shutdown",
+  "bunkers country nation neutral nuclear switzerland world"
  ]
 }
