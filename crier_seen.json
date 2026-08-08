@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40134300",
-  "https://www.bbc.co.uk/news/articles/cn0nqv05g0do#0",
-  "CBMinwFBVV95cUxOdUI5RmE0STdnLThRMWpSNF9VTGRjWklIX2NEako2cXBMc2ttYldYdzVWM0hfZFZBVWozRlRtRndJREljUGduOGViX0xtN3RYSEYwdG1oTXc1VTBBMFhMekFpVUprOTB2M3I4ajdfOUZyM1kwckI5VFlhUGtNU2kyOGQ1NkN5Y2l4UU01dTV2LWRiandpOWJzV2g0dTE5RzQ",
   "https://news.sky.com/story/aircraft-engineer-died-after-heathrow-explosion-inquest-hears-13568555",
   "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv",
   "https://nypost.com/?post_type=article&p=40135238",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40240860",
   "CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB",
   "https://www.washingtonexaminer.com/?p=4680256",
-  "CBMiW0FVX3lxTFBIWlgyYnU0WDc1N0NpdVZib3ZaX19iakJKbEFSVmYyN2prSVlseWxSMzQ2MnZpS1dpQ05aS096S3VfSzZqeGpObjE1VHFzaE5oMnU3TkdDUWlTUU0"
+  "CBMiW0FVX3lxTFBIWlgyYnU0WDc1N0NpdVZib3ZaX19iakJKbEFSVmYyN2prSVlseWxSMzQ2MnZpS1dpQ05aS096S3VfSzZqeGpObjE1VHFzaE5oMnU3TkdDUWlTUU0",
+  "https://nypost.com/?post_type=article&p=40252830",
+  "CBMisgFBVV95cUxQRWFHcGZLTElaS2tjME10OWxDWE9aM3ZHeXpMVzJIUVhLeVMzY0Y1LWxZODh1SmRrdDJvRHVHR09TOEV3STlXNVc1YnRtbFdSYWdpR0E5alVOMDB5QWdBdmw1U3VzZkVQYU5oalA4cU9NNk5CZ0EtZ3dlRDV4R0xkRWNGR1MzTDVVVTd3UWpTcW50QkdjZkFhY0hVbGRmZWtVSmZycjAzcTBHRmdMYTYyT2pB",
+  "https://nypost.com/?post_type=article&p=40254511"
  ],
  "posts": [
-  {
-   "fp": "arrest connected hold police primaries spokane states today wildfire",
-   "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
-   "source": "NPR News",
-   "at": "2026-08-04T11:47:25.564554+00:00"
-  },
-  {
-   "fp": "deadly ethiopia hits landslide monastery mountain prayer service",
-   "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
-   "source": "BBC World",
-   "at": "2026-08-04T11:47:27.324449+00:00"
-  },
-  {
-   "fp": "economics healthwashing sneaky",
-   "title": "The sneaky economics of healthwashing",
-   "source": "NPR News",
-   "at": "2026-08-04T13:05:54.833366+00:00"
-  },
   {
    "fp": "area charged largest starting state washington wildfire",
    "title": "Man charged in Washington state with starting largest wildfire in the area",
@@ -3201,12 +3183,27 @@
    "title": "Caitlin Carlson \u2014 Contributor at The Wall Street Journal",
    "source": "WSJ",
    "at": "2026-08-08T21:29:53.677992+00:00"
+  },
+  {
+   "fp": "deadly fatally flees overnight runs scene sees sources strikes truck usps",
+   "title": "USPS truck fatally strikes man and flees scene as NYC sees 2 deadly hit-and-runs overnight: sources",
+   "source": "New York Post",
+   "at": "2026-08-08T21:47:18.055163+00:00"
+  },
+  {
+   "fp": "british columbia declares emergency flee force state wildfires",
+   "title": "Wildfires force 20,000 to flee as British Columbia declares state of emergency",
+   "source": "AP",
+   "at": "2026-08-08T21:47:19.836774+00:00"
+  },
+  {
+   "fp": "california carrying erupts explosion flames gallons highway massive tanker",
+   "title": "Massive explosion on California highway as tanker carrying 8,600 gallons of gas erupts into flames",
+   "source": "New York Post",
+   "at": "2026-08-08T21:47:21.586474+00:00"
   }
  ],
  "titles": [
-  "arrest connected hold police primaries spokane states today wildfire",
-  "deadly ethiopia hits landslide monastery mountain prayer service",
-  "economics healthwashing sneaky",
   "area charged largest starting state washington wildfire",
   "border chaos europe kills policy proves right trump weak",
   "badenoch council defends election harassing jailed jewish kemi live politics selection",
@@ -3603,6 +3600,9 @@
   "around candidate congressional hand michigan picked primary rallying salsa seat seller trump unknown winning",
   "advances august bill crypto heading landmark recess senate",
   "between carolina graham nordone norman polling race sanford senate shows south tight",
-  "caitlin carlson contributor journal street wall"
+  "caitlin carlson contributor journal street wall",
+  "deadly fatally flees overnight runs scene sees sources strikes truck usps",
+  "british columbia declares emergency flee force state wildfires",
+  "california carrying erupts explosion flames gallons highway massive tanker"
  ]
 }
