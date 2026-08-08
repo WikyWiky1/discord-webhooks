@@ -747,33 +747,13 @@
   "https://thehill.com/?p=6018153",
   "CBMi3wFBVV95cUxNOFk2Y1FTV2RvdVA5UHZWbmNPR1BUalp2YlptN0tqS3NYZkRlV1FkNm9FSWpicnIwS0t6bW5qWEtvRTFNdHRFZFpwZ1ZBRGFjWHJBNWZrUFdIUEt0cFlnaXRMMTFTRE81Ql9ISWd4TVlxTHBqaFNyYTYxT091XzR1ajY3eGxybmpreVhVTVJiQTJyRnRhZUhCcUNyQUtUVmZZOWZiMG9FNU1zc2ZaYzd1WmtHek9ZU1l2RVQtTXlGQXBqMUdkRU9tNm95M291bXF3LWY1bjFCOWhzdGdBUGNj",
   "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
-  "https://thehill.com/?p=6017982"
+  "https://thehill.com/?p=6017982",
+  "https://nypost.com/?post_type=article&p=40248604",
+  "https://nypost.com/?post_type=article&p=40244652",
+  "https://nypost.com/?post_type=article&p=40247933",
+  "https://www.theguardian.com/us-news/2026/aug/07/utah-wildfire-helicopter-crash"
  ],
  "posts": [
-  {
-   "fp": "blasts danube divert drought nuclear reactor rock romania water",
-   "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-   "source": "Guardian World",
-   "at": "2026-08-03T15:40:01.725740+00:00"
-  },
-  {
-   "fp": "destroy evacuate force homes thousands washington wildfires",
-   "title": "Washington wildfires destroy homes, force thousands to evacuate",
-   "source": "NPR News",
-   "at": "2026-08-03T15:40:03.574623+00:00"
-  },
-  {
-   "fp": "2021 done fire firearm gunman mass returned shooting training",
-   "title": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting",
-   "source": "Guardian World",
-   "at": "2026-08-03T15:40:05.377716+00:00"
-  },
-  {
-   "fp": "about governor state talked trump washington wildfires",
-   "title": "Washington state governor says he's talked to Trump about wildfires",
-   "source": "The Hill",
-   "at": "2026-08-03T15:40:07.047061+00:00"
-  },
   {
    "fp": "aims earnings elon ever fears musk report shake slump spacex spending stock",
    "title": "Elon Musk\u2019s SpaceX aims to shake off AI spending fears, stock slump in first-ever earnings report",
@@ -3149,13 +3129,33 @@
    "title": "Senate confirms 74 Trump nominees: Here are 5 notable ones",
    "source": "The Hill",
    "at": "2026-08-08T01:37:51.593024+00:00"
+  },
+  {
+   "fp": "avalanche cause death devastating disturbing killed months revealed skiers tahoe tragedy",
+   "title": "Disturbing cause of death for 9 skiers killed in devastating Tahoe avalanche revealed months after tragedy",
+   "source": "New York Post",
+   "at": "2026-08-08T02:23:19.239191+00:00"
+  },
+  {
+   "fp": "chilled just leads lion lockdown mountain neighborhood relax socal trying",
+   "title": "Chilled-out mountain lion leads to lockdown of SoCal neighborhood: \u2018Just trying to relax\u2019",
+   "source": "New York Post",
+   "at": "2026-08-08T02:23:20.939396+00:00"
+  },
+  {
+   "fp": "alleged boss embattled fifa gianni grows infantino linked mistress paid pressure resign",
+   "title": "Embattled FIFA boss Gianni Infantino linked to alleged paid-off mistress as pressure to resign grows",
+   "source": "New York Post",
+   "at": "2026-08-08T02:23:22.630083+00:00"
+  },
+  {
+   "fp": "crashes fighting helicopter officials onboard people utah wildfire",
+   "title": "Helicopter fighting Utah wildfire crashes with two people onboard, officials say",
+   "source": "Guardian World",
+   "at": "2026-08-08T02:23:24.332146+00:00"
   }
  ],
  "titles": [
-  "blasts danube divert drought nuclear reactor rock romania water",
-  "destroy evacuate force homes thousands washington wildfires",
-  "2021 done fire firearm gunman mass returned shooting training",
-  "about governor state talked trump washington wildfires",
   "aims earnings elon ever fears musk report shake slump spacex spending stock",
   "attorney back blanche deal fund general holdouts nomination striking",
   "agenda high profile races senate through",
@@ -3551,6 +3551,10 @@
   "comptroller confirms hurst pentagon senate",
   "billion demand eyeing furniture recovery revenue sees spacex trillion wayfair",
   "ally colombia continent president rightward shift sworn tigre trump",
-  "confirms here nominees notable ones senate trump"
+  "confirms here nominees notable ones senate trump",
+  "avalanche cause death devastating disturbing killed months revealed skiers tahoe tragedy",
+  "chilled just leads lion lockdown mountain neighborhood relax socal trying",
+  "alleged boss embattled fifa gianni grows infantino linked mistress paid pressure resign",
+  "crashes fighting helicopter officials onboard people utah wildfire"
  ]
 }
