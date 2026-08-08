@@ -771,27 +771,12 @@
   "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
   "https://www.washingtonexaminer.com/?p=4679680",
   "CBMivgFBVV95cUxPclAtNUZ3Z3drR0pPSjJpaVBLa292ay1pdEZxZlJnanFnT1AwbGJPYVJZbEVZWWVRSm9xempKX3VVXzM5NlRzRFNVWHJiSFBEZk1vRmsxekhLZnFZLXpjb2xlcXFJOW10bHZzZlN6NXZjMUVfR1VxWENJV2JqT0ZMemlkbWNJZFN6QkpYSFUwbkdKeXp4UHowQlR3ZEk1bnNEWVhWdE1vMEhrbEpFbW1jT1NEVUFlQ19mRmxSUTh3",
-  "CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA"
+  "CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA",
+  "CBMirwFBVV95cUxNR1ZYbkR1TTdOc0p4Ymxia2JDN3o1aU9uZ3Q1QUowTjB3b3Rtc3o4WWxYNXIxZU14WUxobHBLN0RfMFUycmY1c3NUdkhyUHlYVkFXSUV4Q291d2tuOEtSeFRPMG5McDhoZmd4RlB2bTlIWXNBNUF4VUV3ZW9pQ0dnN2NkTEZoREcxM2FvNHdoMzBpYlBfUGtmZHdlWmhkX1MtRnk5cmdsdWlxeHhmS0RZ",
+  "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo#0",
+  "https://thehill.com/?p=6017947"
  ],
  "posts": [
-  {
-   "fp": "awards blowout bonus chevron earnings following special staff",
-   "title": "Chevron awards staff special bonus following earnings blowout",
-   "source": "Reuters",
-   "at": "2026-08-03T19:36:37.488534+00:00"
-  },
-  {
-   "fp": "bills charitable congress deepfakes harry meghan prince sitting urges waiting",
-   "title": "Prince Harry and Meghan's charitable arm urges Congress to act on AI deepfakes: 'More bills are sitting, waiting'",
-   "source": "The Hill",
-   "at": "2026-08-03T19:36:39.254125+00:00"
-  },
-  {
-   "fp": "address brands cyclospora moving outbreak quickly",
-   "title": "Yum Brands Says It\u2019s Moving Quickly to Address Cyclospora Outbreak",
-   "source": "WSJ",
-   "at": "2026-08-03T20:39:48.899416+00:00"
-  },
   {
    "fp": "california deadly issue nile officials turns update virus west",
    "title": "West Nile Virus turns deadly in California as officials issue update",
@@ -3173,12 +3158,27 @@
    "title": "Democrats plan Trump investigations over impeachment if they win House, sources say",
    "source": "Reuters",
    "at": "2026-08-08T11:45:41.561414+00:00"
+  },
+  {
+   "fp": "attorney confirmed general pick senate trump",
+   "title": "Trump\u2019s pick for Attorney General confirmed by Senate",
+   "source": "Telegraph",
+   "at": "2026-08-08T12:46:50.575635+00:00"
+  },
+  {
+   "fp": "backed colombia pledges president support sworn trump",
+   "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
+   "source": "BBC World",
+   "at": "2026-08-08T12:46:52.341250+00:00"
+  },
+  {
+   "fp": "barrels clouds economy jobs memo midterms report toward trump weak",
+   "title": "The Memo: Weak jobs report clouds economy as Trump barrels toward midterms",
+   "source": "The Hill",
+   "at": "2026-08-08T12:46:54.203612+00:00"
   }
  ],
  "titles": [
-  "awards blowout bonus chevron earnings following special staff",
-  "bills charitable congress deepfakes harry meghan prince sitting urges waiting",
-  "address brands cyclospora moving outbreak quickly",
   "california deadly issue nile officials turns update virus west",
   "deaths diarrhoea explosive linked outbreak reports",
   "ceuta invasion nothingburger outrage",
@@ -3575,6 +3575,9 @@
   "bunkers country nation neutral nuclear switzerland world",
   "accountability fauci turning villain",
   "above attack base days drone drones german military spotted suspected",
-  "democrats house impeachment investigations plan sources trump"
+  "democrats house impeachment investigations plan sources trump",
+  "attorney confirmed general pick senate trump",
+  "backed colombia pledges president support sworn trump",
+  "barrels clouds economy jobs memo midterms report toward trump weak"
  ]
 }
