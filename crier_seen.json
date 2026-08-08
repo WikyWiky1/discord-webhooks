@@ -743,33 +743,13 @@
   "https://nypost.com/?post_type=article&p=40246825",
   "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
   "CBMiuwFBVV95cUxOWl9pVjdTTDRja3M3UVFTY3lQNTZkWThLaHlBRjdrWFZhZEpsd2Y1OU9nX0MyVkliUlhiOHRTYS1jaXhJYlYzVGhoWU1YcENwZUhRUU83bnZNV2JFaWgtQjVKMy1qaEFkUmZzSk5VRVdBdUc2UUhfR2NBTkNVOFM2XzQ0cHQwbkd1eDZDMDFqX1ZWbUM3YmtSRHE0WFFURnc0a1VrWWNNWWNqX2ktSkdqQ3VHVDNyeEJfZUww",
-  "https://nypost.com/?post_type=article&p=40247020"
+  "https://nypost.com/?post_type=article&p=40247020",
+  "https://thehill.com/?p=6018153",
+  "CBMi3wFBVV95cUxNOFk2Y1FTV2RvdVA5UHZWbmNPR1BUalp2YlptN0tqS3NYZkRlV1FkNm9FSWpicnIwS0t6bW5qWEtvRTFNdHRFZFpwZ1ZBRGFjWHJBNWZrUFdIUEt0cFlnaXRMMTFTRE81Ql9ISWd4TVlxTHBqaFNyYTYxT091XzR1ajY3eGxybmpreVhVTVJiQTJyRnRhZUhCcUNyQUtUVmZZOWZiMG9FNU1zc2ZaYzd1WmtHek9ZU1l2RVQtTXlGQXBqMUdkRU9tNm95M291bXF3LWY1bjFCOWhzdGdBUGNj",
+  "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
+  "https://thehill.com/?p=6017982"
  ],
  "posts": [
-  {
-   "fp": "athens crews fight fourth greek northwest wildfire",
-   "title": "Greek crews fight wildfire northwest of Athens for fourth day",
-   "source": "Reuters",
-   "at": "2026-08-03T15:39:54.798949+00:00"
-  },
-  {
-   "fp": "blasts cooling danube nuclear reactor reroute rocks romania water",
-   "title": "Romania blasts rocks to reroute cooling Danube water to nuclear reactor",
-   "source": "Reuters",
-   "at": "2026-08-03T15:39:56.439132+00:00"
-  },
-  {
-   "fp": "breaking europe european news today",
-   "title": "Europe News | Breaking European News Today",
-   "source": "AP",
-   "at": "2026-08-03T15:39:58.151861+00:00"
-  },
-  {
-   "fp": "blames bombing deadly embassy italian moscow restaurant rome russian ukraine",
-   "title": "Russian Embassy in Rome blames Ukraine for deadly Italian restaurant bombing in Moscow",
-   "source": "AP",
-   "at": "2026-08-03T15:39:59.790346+00:00"
-  },
   {
    "fp": "blasts danube divert drought nuclear reactor rock romania water",
    "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
@@ -3145,13 +3125,33 @@
    "title": "Helicopter crashes while battling large Utah wildfires \u2014 as conditions of 2 people aboard remain unknown",
    "source": "New York Post",
    "at": "2026-08-08T00:03:28.310040+00:00"
+  },
+  {
+   "fp": "comptroller confirms hurst pentagon senate",
+   "title": "Senate confirms Hurst as Pentagon comptroller",
+   "source": "The Hill",
+   "at": "2026-08-08T01:37:46.313992+00:00"
+  },
+  {
+   "fp": "billion demand eyeing furniture recovery revenue sees spacex trillion wayfair",
+   "title": "Wayfair Sees Recovery in U.S. Furniture Demand; SpaceX Is Eyeing $1 Trillion in Revenue; P&G\u2019s $3.8 Billion Bet",
+   "source": "WSJ",
+   "at": "2026-08-08T01:37:48.100807+00:00"
+  },
+  {
+   "fp": "ally colombia continent president rightward shift sworn tigre trump",
+   "title": "Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift",
+   "source": "Fox News World",
+   "at": "2026-08-08T01:37:49.838581+00:00"
+  },
+  {
+   "fp": "confirms here nominees notable ones senate trump",
+   "title": "Senate confirms 74 Trump nominees: Here are 5 notable ones",
+   "source": "The Hill",
+   "at": "2026-08-08T01:37:51.593024+00:00"
   }
  ],
  "titles": [
-  "athens crews fight fourth greek northwest wildfire",
-  "blasts cooling danube nuclear reactor reroute rocks romania water",
-  "breaking europe european news today",
-  "blames bombing deadly embassy italian moscow restaurant rome russian ukraine",
   "blasts danube divert drought nuclear reactor rock romania water",
   "destroy evacuate force homes thousands washington wildfires",
   "2021 done fire firearm gunman mass returned shooting training",
@@ -3547,6 +3547,10 @@
   "closure evacuation fire forces freeway gorman near ridge triggers warnings",
   "ally attack effort fragment intel launch limited nato organization report russia warns",
   "attack battle birthright citizenship faces legal trump uphill",
-  "aboard battling conditions crashes helicopter large people remain unknown utah wildfires"
+  "aboard battling conditions crashes helicopter large people remain unknown utah wildfires",
+  "comptroller confirms hurst pentagon senate",
+  "billion demand eyeing furniture recovery revenue sees spacex trillion wayfair",
+  "ally colombia continent president rightward shift sworn tigre trump",
+  "confirms here nominees notable ones senate trump"
  ]
 }
