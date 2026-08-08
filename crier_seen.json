@@ -751,33 +751,13 @@
   "https://nypost.com/?post_type=article&p=40248604",
   "https://nypost.com/?post_type=article&p=40244652",
   "https://nypost.com/?post_type=article&p=40247933",
-  "https://www.theguardian.com/us-news/2026/aug/07/utah-wildfire-helicopter-crash"
+  "https://www.theguardian.com/us-news/2026/aug/07/utah-wildfire-helicopter-crash",
+  "https://thehill.com/?p=6018225",
+  "https://www.washingtonexaminer.com/?p=4680005",
+  "CBMirgFBVV95cUxOcUJOLXptM1F6NjZEd04tNHJGQ1ZkUVpCTlI5YkY5eVBOWUpvRmNXTVhaWl9KeFdTZVZhV0JmQ29IdjBwcUF0RW1JQ2FkaGlkWjN5RFQwaFVxWDBUa1NoNW44Tm5EZU5UbkRreUJLZWRkNUhNc0Jqb281NkhJYWpybzQ4ajNYNERfVExUejExVlRLOTdxR2NLNDhqRnNtQ0xOUENKMDBUT01tMG9wcmc",
+  "CBMimgFBVV95cUxPNnZETHRKWS1CWVRoQzNhZUY5UG9oN2E4TDFncGxtVG03MWk1YkZxcXBjS2JYZ0ZxQjdfdHQ3Y2hYaDMwLVZkQUo3U05lZkh5Y3ctUGRBZXlSX1lGYWxhMXJDNWFNMFppRjR4Q2x0NjVxbzdkYTJFbmlMNXcyZHljUDZDZUw2XzlfZEVwWHh0UUYtM201NGNWNVFB"
  ],
  "posts": [
-  {
-   "fp": "aims earnings elon ever fears musk report shake slump spacex spending stock",
-   "title": "Elon Musk\u2019s SpaceX aims to shake off AI spending fears, stock slump in first-ever earnings report",
-   "source": "New York Post",
-   "at": "2026-08-03T17:08:50.246720+00:00"
-  },
-  {
-   "fp": "attorney back blanche deal fund general holdouts nomination striking",
-   "title": "GOP holdouts say they will back Blanche's attorney general nomination after striking deal over fund",
-   "source": "AP",
-   "at": "2026-08-03T17:08:51.877657+00:00"
-  },
-  {
-   "fp": "agenda high profile races senate through",
-   "title": "Senate races through high-profile agenda",
-   "source": "The Hill",
-   "at": "2026-08-03T17:08:53.526930+00:00"
-  },
-  {
-   "fp": "booting clayton community head intelligence pulte sworn",
-   "title": "Jay Clayton sworn in as head of intelligence community, booting Pulte",
-   "source": "The Hill",
-   "at": "2026-08-03T17:08:55.360437+00:00"
-  },
   {
    "fp": "advance attorney full general holdouts live nomination pick politics senate trump",
    "title": "Holdouts for Trump\u2019s attorney general pick say they will advance his nomination to the full Senate \u2013 US politics live",
@@ -3153,13 +3133,33 @@
    "title": "Helicopter fighting Utah wildfire crashes with two people onboard, officials say",
    "source": "Guardian World",
    "at": "2026-08-08T02:23:24.332146+00:00"
+  },
+  {
+   "fp": "america aside budget conservatives deal impasse reach save senate thune trump",
+   "title": "Thune, Trump, Senate conservatives reach deal to set aside budget, SAVE America Act impasse",
+   "source": "The Hill",
+   "at": "2026-08-08T04:10:39.634895+00:00"
+  },
+  {
+   "fp": "august budget fight line party punts recess senate until",
+   "title": "Senate GOP punts party-line budget fight until after August recess",
+   "source": "Washington Examiner",
+   "at": "2026-08-08T04:10:41.551463+00:00"
+  },
+  {
+   "fp": "backed evasion hottest network russia sanctions startup state",
+   "title": "Russia\u2019s Hottest Startup Is a State-Backed Sanctions Evasion Network",
+   "source": "WSJ",
+   "at": "2026-08-08T04:10:43.459791+00:00"
+  },
+  {
+   "fp": "bitter democrats front michigan present primary united",
+   "title": "Democrats try to present a united front in Michigan after bitter primary",
+   "source": "AP",
+   "at": "2026-08-08T04:10:45.167352+00:00"
   }
  ],
  "titles": [
-  "aims earnings elon ever fears musk report shake slump spacex spending stock",
-  "attorney back blanche deal fund general holdouts nomination striking",
-  "agenda high profile races senate through",
-  "booting clayton community head intelligence pulte sworn",
   "advance attorney full general holdouts live nomination pick politics senate trump",
   "breaking cruelest game point pushed review",
   "authorities burger idaho mass motive seek shooting",
@@ -3555,6 +3555,10 @@
   "avalanche cause death devastating disturbing killed months revealed skiers tahoe tragedy",
   "chilled just leads lion lockdown mountain neighborhood relax socal trying",
   "alleged boss embattled fifa gianni grows infantino linked mistress paid pressure resign",
-  "crashes fighting helicopter officials onboard people utah wildfire"
+  "crashes fighting helicopter officials onboard people utah wildfire",
+  "america aside budget conservatives deal impasse reach save senate thune trump",
+  "august budget fight line party punts recess senate until",
+  "backed evasion hottest network russia sanctions startup state",
+  "bitter democrats front michigan present primary united"
  ]
 }
