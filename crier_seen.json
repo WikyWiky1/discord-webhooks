@@ -742,15 +742,10 @@
   "https://nypost.com/?post_type=article&p=40243682",
   "https://nypost.com/?post_type=article&p=40246825",
   "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
-  "CBMiuwFBVV95cUxOWl9pVjdTTDRja3M3UVFTY3lQNTZkWThLaHlBRjdrWFZhZEpsd2Y1OU9nX0MyVkliUlhiOHRTYS1jaXhJYlYzVGhoWU1YcENwZUhRUU83bnZNV2JFaWgtQjVKMy1qaEFkUmZzSk5VRVdBdUc2UUhfR2NBTkNVOFM2XzQ0cHQwbkd1eDZDMDFqX1ZWbUM3YmtSRHE0WFFURnc0a1VrWWNNWWNqX2ktSkdqQ3VHVDNyeEJfZUww"
+  "CBMiuwFBVV95cUxOWl9pVjdTTDRja3M3UVFTY3lQNTZkWThLaHlBRjdrWFZhZEpsd2Y1OU9nX0MyVkliUlhiOHRTYS1jaXhJYlYzVGhoWU1YcENwZUhRUU83bnZNV2JFaWgtQjVKMy1qaEFkUmZzSk5VRVdBdUc2UUhfR2NBTkNVOFM2XzQ0cHQwbkd1eDZDMDFqX1ZWbUM3YmtSRHE0WFFURnc0a1VrWWNNWWNqX2ktSkdqQ3VHVDNyeEJfZUww",
+  "https://nypost.com/?post_type=article&p=40247020"
  ],
  "posts": [
-  {
-   "fp": "dead field natasha rising star track ward",
-   "title": "Rising track-and-field star Natasha Ward dead at 21",
-   "source": "New York Post",
-   "at": "2026-08-03T15:39:53.042744+00:00"
-  },
   {
    "fp": "athens crews fight fourth greek northwest wildfire",
    "title": "Greek crews fight wildfire northwest of Athens for fourth day",
@@ -3144,10 +3139,15 @@
    "title": "Trump's new attack on birthright citizenship faces uphill legal battle",
    "source": "Reuters",
    "at": "2026-08-07T23:27:25.603896+00:00"
+  },
+  {
+   "fp": "aboard battling conditions crashes helicopter large people remain unknown utah wildfires",
+   "title": "Helicopter crashes while battling large Utah wildfires \u2014 as conditions of 2 people aboard remain unknown",
+   "source": "New York Post",
+   "at": "2026-08-08T00:03:28.310040+00:00"
   }
  ],
  "titles": [
-  "dead field natasha rising star track ward",
   "athens crews fight fourth greek northwest wildfire",
   "blasts cooling danube nuclear reactor reroute rocks romania water",
   "breaking europe european news today",
@@ -3546,6 +3546,7 @@
   "autistic dead feet florida found home just year",
   "closure evacuation fire forces freeway gorman near ridge triggers warnings",
   "ally attack effort fragment intel launch limited nato organization report russia warns",
-  "attack battle birthright citizenship faces legal trump uphill"
+  "attack battle birthright citizenship faces legal trump uphill",
+  "aboard battling conditions crashes helicopter large people remain unknown utah wildfires"
  ]
 }
