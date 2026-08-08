@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/czjlk9rym18o#0",
-  "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
   "https://www.theguardian.com/uk-news/2026/jul/30/major-incident-fire-suffolk-coast-dunwich-heath-leiston",
   "CBMirgFBVV95cUxPbWpsSnpKVndGWThyUHhGTmU3SGw2LWtnTldYT2gxcUFYZmV4Rk9uVlpDb0Vyal9RWGtKdTdONFlhOF9TLTB6c3ZLaWJoVjdNWWNkZzlFWi1iZUhqOVhtdE41U0Yxejdwd05LbjB1d3gyZmIwaV81ZDdWT0EzQ0R0SVdRNmtYUUhKWE4tRkpsZjY2NjRmZlJCOUlfMl9HbEhVTmY1RU1fXzJXZjRtUEE",
   "https://nypost.com/?post_type=article&p=40130569",
@@ -798,27 +796,12 @@
   "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#1",
   "https://nypost.com/?post_type=article&p=40253501",
   "CBMihAFBVV95cUxNSjh6QlBTczc0SVVjakZ5VkowSEtxRTN0VUQwYWxaaldPcE5SZVU4UDdGNzVXN3VhcVI4SEx0UUNCTTctRHQ3bUVoMXBIVlVibFMwVDYwV1doZWdzSzl2dkVpeUJLVmhnS3IyYllPbGZkQkdPT0lyQk52VlZxNENKSF9HNzk",
-  "CBMijgFBVV95cUxPeWIzT1dzUEI1bndudWxMT1RZYmFzaGR3ZlYtOV9oWDV0dlNjcEdGZnE5bXVJcmpQcUpNMlFwbVBjR2hKVXp5SzJZX2ZodVNYQ2lMS3kyMXNvR1VqdzR5blRFaHk3dGl6YUpQaUxsMzJrN25nVGlzZG9PZXRVSHZqM0dKVjRlY3MyTmF1UjhR"
+  "CBMijgFBVV95cUxPeWIzT1dzUEI1bndudWxMT1RZYmFzaGR3ZlYtOV9oWDV0dlNjcEdGZnE5bXVJcmpQcUpNMlFwbVBjR2hKVXp5SzJZX2ZodVNYQ2lMS3kyMXNvR1VqdzR5blRFaHk3dGl6YUpQaUxsMzJrN25nVGlzZG9PZXRVSHZqM0dKVjRlY3MyTmF1UjhR",
+  "https://thehill.com/?p=6017347",
+  "CBMiqAFBVV95cUxPZXFjOGlGSWlVVFQtNW5CeDhLSGdXV3QyaFRVR0g4RkJGNFA2aktsd185WGRUN3FaZlRxMWxLcm40T3J5dUtiQ21jT3NsNFZWTW95X2Y2ejFLaW83d2tidFVXUTNzVDFzVWVwaWZXcm9XX0U3T3NWZThBUHR5VlpCOHJESWtQTnZ3TjJpVXJYYTRFa0NzVjlWZHZ6SlZsVlZMQklPaHExbms",
+  "https://www.washingtonexaminer.com/?p=4679983"
  ],
  "posts": [
-  {
-   "fp": "center dead detention emergency following medical newark salvadoran",
-   "title": "ICE says Salvadoran man dead following 'medical emergency' at Newark detention center",
-   "source": "The Hill",
-   "at": "2026-08-04T03:40:29.012198+00:00"
-  },
-  {
-   "fp": "committee invited jack judiciary month next senate smith testify",
-   "title": "Jack Smith invited to testify before Senate Judiciary Committee next month",
-   "source": "The Hill",
-   "at": "2026-08-04T05:46:34.206179+00:00"
-  },
-  {
-   "fp": "close democrats different michigan offering primary sayed senate stevens visions",
-   "title": "El-Sayed and Stevens close Michigan Senate primary offering different visions for Democrats",
-   "source": "AP",
-   "at": "2026-08-04T05:46:35.989631+00:00"
-  },
   {
    "fp": "arrest arson authorities connection devastating spokane suspect wildfires",
    "title": "Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires",
@@ -3200,12 +3183,27 @@
    "title": "Widower who lost wife and 6 children in attack remarries in Nigerian mass wedding for 1,500 couples",
    "source": "AP",
    "at": "2026-08-08T18:26:11.688502+00:00"
+  },
+  {
+   "fp": "budget childhood children congress debates lines live",
+   "title": "Congress debates childhood by budget lines. Children don't live that way.",
+   "source": "The Hill",
+   "at": "2026-08-08T18:36:31.048028+00:00"
+  },
+  {
+   "fp": "carolina darline experience famous graham lack name primary south tests value",
+   "title": "Darline Graham tests value of a famous name vs. lack of experience in South Carolina primary",
+   "source": "AP",
+   "at": "2026-08-08T18:36:32.968732+00:00"
+  },
+  {
+   "fp": "attorney back blanche general grassley nomination todd track",
+   "title": "How Grassley got Todd Blanche\u2019s attorney general nomination back on track",
+   "source": "Washington Examiner",
+   "at": "2026-08-08T18:36:34.878491+00:00"
   }
  ],
  "titles": [
-  "center dead detention emergency following medical newark salvadoran",
-  "committee invited jack judiciary month next senate smith testify",
-  "close democrats different michigan offering primary sayed senate stevens visions",
   "arrest arson authorities connection devastating spokane suspect wildfires",
   "avoid danger departments emergency hospital life might public record sydney unless urged",
   "france hundreds reveal shells village wildfires",
@@ -3602,6 +3600,9 @@
   "canada doubles fast flee forcing homes moving size thousands wildfire",
   "closure evacuation fire forces highway hoopa mp18 near warnings",
   "deadly recounts school shooting survived teenager thailand",
-  "attack children couples lost mass nigerian remarries wedding widower wife"
+  "attack children couples lost mass nigerian remarries wedding widower wife",
+  "budget childhood children congress debates lines live",
+  "carolina darline experience famous graham lack name primary south tests value",
+  "attorney back blanche general grassley nomination todd track"
  ]
 }
