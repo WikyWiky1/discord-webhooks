@@ -150,17 +150,35 @@
    "message_id": "1535922082888814683",
    "event": "Extreme Heat Warning",
    "area": "Northwest Plateau; Hualapai Mountains; Northwest Deserts; Western Mojave Desert; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin; Cadiz Basin; Owens Valley South; Owens Valley North; Esmeralda and Central Nye County; Lincoln County; Southern Clark County",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-09T08:06:00+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-09T14:54:29+00:00"
   },
   {
    "id": "urn:oid:2.49.0.1.840.0.e5d29109ec660f8bf3be1224cfea468fac6a5bc7.001.1",
    "message_id": "1535922090107207783",
    "event": "Extreme Heat Warning",
    "area": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Death Valley National Park; San Bernardino County-Upper Colorado River Valley; Northeast Clark County; Western Clark and Southern Nye County; Las Vegas Valley; Lake Mead - NV side; Lake Mohave - NV side",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-09T08:06:02+00:00",
+   "expired_at": "2026-08-09T14:54:31+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.5e7f9f59b9bc0832daa4c1a05530b3a1ecb2add6.001.1",
+   "message_id": "1536024867453796424",
+   "event": "Extreme Heat Warning",
+   "area": "Northwest Plateau; Hualapai Mountains; Northwest Deserts; Western Mojave Desert; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin; Cadiz Basin; Owens Valley South; Owens Valley North; Esmeralda and Central Nye County; Lincoln County; Southern Clark County",
+   "expired": false,
+   "posted_at": "2026-08-09T14:54:26+00:00",
+   "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.5e7f9f59b9bc0832daa4c1a05530b3a1ecb2add6.002.1",
+   "message_id": "1536024874500493403",
+   "event": "Extreme Heat Warning",
+   "area": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Death Valley National Park; San Bernardino County-Upper Colorado River Valley; Northeast Clark County; Western Clark and Southern Nye County; Las Vegas Valley; Lake Mead - NV side; Lake Mohave - NV side",
+   "expired": false,
+   "posted_at": "2026-08-09T14:54:28+00:00",
    "expired_at": null
   }
  ]
