@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40143653",
   "CBMirgFBVV95cUxNbjNUdU1YZmo5aHRQeUlKRkdtTFl5NERHYy11VUFNUm1ZOHBENHA0SWNlMmNzY1dsaHd1clhFQnRRNGs1UndFOXpBTDc2aHJ3ZUNfRWxIR21ubXlkR0JHLVI2M3Q1WlVGcTVEUGxSNm8tNFB6ZjFBVE9WbXFFSEx4Z2hnMnpPVTBkZDRSYnBOMmdOcFpjbEV6SGxDdmp2R21wcmJXWmZnemc0N1Mxdmc",
   "CBMirgFBVV95cUxOd05jdW45TDVMejhCUHVfa2RCaDJLTFk5RUxkOTFmeEdKMllFcTk1eVllOFlsZWFXWTBXTVdIME1OUWxMemY3WUhJdFpZVUpyNXoxNy1SMTRBVTRNTjYteHNBRmhRTHB5T19PRmFFcFNheE91aUFEY1FkbzItS18xR2dDTHFpTDVKcVBYU2VmaWItSnRzeHJPeFhWTlRtRDRpTTAwd0RiWElITEdhdHc",
   "CBMitAFBVV95cUxQcEg1TjNNRjg1TW9sOXpkaUcyakowdXhRZVplOWZzR0tGQmNoMDZlYXBDeklkUmh6eTlFT3FJRUpTOUxPRFZ0TktEdW1BVjlXSHhwSS1mQmZ3UC11MDloNzFlVzNNUmpFdWY4cEJKWllNaGtfdWxLT2wtMEdaNHNPUk1BUS1xM1JmbHdtbkxoUFZwMF93U2dlekN2OXZZTk9tZU4zdDVrR004ZTJkTktXRGllYkc",
@@ -799,15 +798,10 @@
   "https://www.bbc.co.uk/news/articles/cgjeznj6979o#0",
   "CBMiwgFBVV95cUxQM3otejF5WTA1YnJzdjU5bEZ3OHNmb2RTR1VtajdTQUJpWTFJTGd1UU9GajlqTW5DT011MzFyUHNUSjdVR3dramFadk9zZ3RCNGR2WWM3eV9SY1JaNXIxSVJ4T3BmZXFKdllyN2hBVVB2Sy1MSlRxeTkzZWZiV0dBYTNKcE9fODBub0dYVE9ja2hWU3FyLTA5LXpqZkZmdEhVM21XcVppcTVrcGxnQnpiUFZPSXhRZkxqMzMzVTVRZ3dfZw",
   "https://nypost.com/?post_type=article&p=40259361",
-  "https://nypost.com/?post_type=article&p=40259579"
+  "https://nypost.com/?post_type=article&p=40259579",
+  "CBMiswFBVV95cUxOVHZ4ZTczbFBkMldxZ1AxeXpPbUZlcFlRMFdIekNfcDVjUVp5VTUtaHIwVWMxLTdfdEg0cmoxVFQwX2w5cVdTekxUbXBQSm1ib0EwRW5yWUNFS1lpUDZJaDQ2cGh3bFFTdWdfeHRBOVFySWpiWVhhelFBQjNkODZrRy1rUGxHbWNwTkpnSTAtMFJpYnJVTFc5NGxtcVQ2TFpxWDB2TEdWNnpKMVNOanp5dTlOdw"
  ],
  "posts": [
-  {
-   "fp": "cyclospora deadly people",
-   "title": "Why cyclospora can be deadly for some people",
-   "source": "The Hill",
-   "at": "2026-08-04T19:59:02.523817+00:00"
-  },
   {
    "fp": "denies hormuz iran president resign strait talks threatening",
    "title": "Iran\u2019s president denies threatening to resign during talks over strait of Hormuz",
@@ -3201,10 +3195,15 @@
    "title": "Grim photos show doomed boat pulled from New York Harbor hours after deadly crash killed 2, including tot",
    "source": "New York Post",
    "at": "2026-08-09T16:25:33.583468+00:00"
+  },
+  {
+   "fp": "bacterial beachgoers caution coast deadly gulf health infections officials surge urge",
+   "title": "Health officials urge caution for Gulf Coast beachgoers during surge of deadly bacterial infections",
+   "source": "AP",
+   "at": "2026-08-09T17:07:07.629824+00:00"
   }
  ],
  "titles": [
-  "cyclospora deadly people",
   "denies hormuz iran president resign strait talks threatening",
   "chipotle health investigate jalape officials outbreak pulls restaurants salmonella",
   "cattle evacuate oregon pushing ranchers season wildfire",
@@ -3603,6 +3602,7 @@
   "assassination candidate case charges ecuador minister presidential",
   "assistance british columbia evacuations federal forces wildfire",
   "arabia aramco attack backed houthis iran port refinery saudi",
-  "boat crash deadly doomed grim harbor hours including killed photos pulled show york"
+  "boat crash deadly doomed grim harbor hours including killed photos pulled show york",
+  "bacterial beachgoers caution coast deadly gulf health infections officials surge urge"
  ]
 }
