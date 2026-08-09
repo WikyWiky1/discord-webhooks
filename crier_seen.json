@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/politics/live/2026/jul/31/andy-burnham-devolution-plan-labour-conservatives-kemi-bedenoch-uk-politics-live",
   "https://thehill.com/?p=6002245",
   "https://www.theguardian.com/business/2026/jul/31/john-healey-budget-late-october",
   "CBMilwFBVV95cUxOakZJSnYtc0Q2VHd2YVlWSWRjdThSS0FKeFVoLUk0cEZOMXhzajN4dlhGWVRHdVhSSEtMQWhsdjFWMnFjbnltTWRWMWM3eWRIOU8zd3JSa3ZtYUZDS0N0UW5JRE82N3ZzZG9ZcG5DN3R6bDRsbFNxOTd6YXRNcEFxVldrc3J0Zjg1QVgxM1RiaW1oMGxzTFpB",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40259506",
   "CBMirgFBVV95cUxOb2hvX1JZYmNKUXQ2RWVObVJJN3VWdFpLWXM1cUs0TkZNUHB6Wlc5eTFGcm83cjB1d2VVSmpFOTZxR3lCZTBvZnBaTGRJc0VOQ1NjVGpYUVRlazlsRkk1ZFZXMjlCWjhIeUdHT3kxdHpYQXdNTE05X2VyczFTR2lXa1BVRmtuOXJMUVVVTlpRVURkQTVQM1k2c3dhNUFVc2NBNVFqN3BnZndnVXptakE",
   "https://thehill.com/?p=6019094",
-  "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires"
+  "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+  "https://nypost.com/?post_type=article&p=40261540"
  ],
  "posts": [
-  {
-   "fp": "bear goldilocks kevin moment steepener stocks warsh",
-   "title": "Kevin Warsh\u2019s \u2018Bear Steepener\u2019 Is No Goldilocks Moment for Stocks",
-   "source": "WSJ",
-   "at": "2026-08-04T22:11:30.800658+00:00"
-  },
   {
    "fp": "back drifts earth once price revenue rises soaring spacex stock",
    "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
@@ -3201,10 +3195,15 @@
    "title": "Canadian government steps in as \u2018out of control\u2019 wildfires force thousands to flee",
    "source": "Guardian World",
    "at": "2026-08-09T19:17:46.872058+00:00"
+  },
+  {
+   "fp": "bullets cops dead hail pier shot",
+   "title": "Man, 30, shot dead in hail of bullets at NYC pier: cops",
+   "source": "New York Post",
+   "at": "2026-08-09T21:05:17.508281+00:00"
   }
  ],
  "titles": [
-  "bear goldilocks kevin moment steepener stocks warsh",
   "back drifts earth once price revenue rises soaring spacex stock",
   "agenda america bill budget save senate threatened uncertainty",
   "businesses debut quarterly results revenue satellite spacex surge surges",
@@ -3603,6 +3602,7 @@
   "candidate class defends hasan hate hints increase middle piker sayed senate streamer ties",
   "bruising crackdown immigration looms minnesota primary senate trump",
   "michigan obama primary reveals sayed senate spoke",
-  "canadian control flee force government steps thousands wildfires"
+  "canadian control flee force government steps thousands wildfires",
+  "bullets cops dead hail pier shot"
  ]
 }
