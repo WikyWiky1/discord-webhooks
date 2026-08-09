@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
   "https://nypost.com/?post_type=article&p=40140237",
   "CBMinwFBVV95cUxQbUpKQU1iMmN1QTRnUjNmTGd6cEU1V01LR3NieTh3YzEwREpqdkZUc0d2ZzJDbGNWXzhZUkNuVlhyYllDcXkxR0h2SzBwNXAzdS1GZGFTd1JIUTVQSFNVTlJ5U0JPbUVoTnRINmszTmZXTUwxaEtLREhpcW02UlZ1RVpJODNzNlpiajZkTmZZNW9yZVlGZERKbGtMRnRCR0U",
   "CBMiuAFBVV95cUxNa1ZzcUQ2cjlBUVYyaXhhaTJHRWQwWkE5UzU4ZUhuaUdmSkpmLURVdmNRS0xjd09pYzJ6MEIzNW1TaDZaMDJ1U09yX1dFS1pZR0szaFhvRVc2ZHk2MFZqLUExRURpY09PdEFUOTZTcWQ5Z29OUXBrQTNnUjNXRjF3V1RoWVZIUTJ6NDJ0Q19ENUQyNnoxREZjYTJrbjFUbmZPMFkyUFlBb1RyaXlLSHdRVWsyY0trYjVZ",
@@ -799,15 +798,10 @@
   "CBMisgFBVV95cUxQc1NQSzJNZnFaUTN0bXBaYlZ3dDJJTGFadWM1MDRPYk5QaEkzNVhvVDBQNmhIN2FNRmRGNFpzVWs1XzBPR2FaV25LOC1zZkRZMXg5Wk1fSUtVUmpWM2RHU3BsQ05tem9XVjl4aEo0V21CZEhpTi1zWGFFejU1Z2VObEZxY3k2MWY2d3RsbFNmMHBqTlFJNlNOcnBOdVVKUG5GZ0UycFVSMGdMX0FtRFM0a2tn",
   "CBMiXkFVX3lxTE9HamRMTG5oYmhLZ2dGYVllMGs1eFNVQ2s5WGhFY2lJSUlDMmNQSmZVNXpoeWFvV2Ytd3B5Z0pLTU9pT3ZTVmVkV3V1ak10cTNPQ3BiQ1dEMnRiNWpMd3c",
   "https://nypost.com/?post_type=article&p=40258285",
-  "CBMixwFBVV95cUxQMDI0Q29OUW1ERktJQnRqbUlVTndlUERiR3NLejRJa3VqclFlMWtnM2hJMjd5WnhsVHNlMXhtWHlVQlVpamZFdWNQVDNybjV1Q3gzMk5rbHpoWFVVaHI3OTF6b2hXREtMcGJrWnJPMC1GVHluWjhnbE9yT19icGFGeE5SWUJEaHZOSC1XYWVlN19FYlJtZEJaUk5PbnAxMXpMaTEzNms0VGEzb09hS0RSLVl0c1dlelowYnlkdjBDeE9ETFBWQS1v"
+  "CBMixwFBVV95cUxQMDI0Q29OUW1ERktJQnRqbUlVTndlUERiR3NLejRJa3VqclFlMWtnM2hJMjd5WnhsVHNlMXhtWHlVQlVpamZFdWNQVDNybjV1Q3gzMk5rbHpoWFVVaHI3OTF6b2hXREtMcGJrWnJPMC1GVHluWjhnbE9yT19icGFGeE5SWUJEaHZOSC1XYWVlN19FYlJtZEJaUk5PbnAxMXpMaTEzNms0VGEzb09hS0RSLVl0c1dlelowYnlkdjBDeE9ETFBWQS1v",
+  "https://nypost.com/?post_type=article&p=40258384"
  ],
  "posts": [
-  {
-   "fp": "attorney blanche clears critical deal general holdouts hurdle nomination todd",
-   "title": "Todd Blanche's nomination for attorney general clears critical hurdle after deal with GOP holdouts",
-   "source": "AP",
-   "at": "2026-08-04T16:51:05.557814+00:00"
-  },
   {
    "fp": "between democrats high michigan moderate pick primary profile progressive senate",
    "title": "Michigan Democrats pick between moderate and progressive in high-profile Senate primary",
@@ -3201,10 +3195,15 @@
    "title": "Sweetgreen Lowers Full-Year Outlook Due to Cyclosporiasis Outbreak as Loss Widens",
    "source": "WSJ",
    "at": "2026-08-09T07:37:55.062117+00:00"
+  },
+  {
+   "fp": "down girls hanging jersey left malfunction recall ride shore stuck teen upside",
+   "title": "Teen girls recall Jersey Shore ride malfunction that left them stuck hanging upside down",
+   "source": "New York Post",
+   "at": "2026-08-09T08:20:37.212675+00:00"
   }
  ],
  "titles": [
-  "attorney blanche clears critical deal general holdouts hurdle nomination todd",
   "between democrats high michigan moderate pick primary profile progressive senate",
   "around arrested arson rage spokane suspect washington wildfires",
   "anti attack business despite griffin mamdani park personal plans policies skyscraper stick",
@@ -3603,6 +3602,7 @@
   "airport allegedly arizona arrested germany girlfriend history indian killed national surfaces violent",
   "dream easy elon hang musk part selling spacex",
   "crashed dead fighting helicopter officials pilots utah wildfire",
-  "cyclosporiasis full loss lowers outbreak outlook sweetgreen widens year"
+  "cyclosporiasis full loss lowers outbreak outlook sweetgreen widens year",
+  "down girls hanging jersey left malfunction recall ride shore stuck teen upside"
  ]
 }
