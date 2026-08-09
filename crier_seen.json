@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6002245",
-  "https://www.theguardian.com/business/2026/jul/31/john-healey-budget-late-october",
   "CBMilwFBVV95cUxOakZJSnYtc0Q2VHd2YVlWSWRjdThSS0FKeFVoLUk0cEZOMXhzajN4dlhGWVRHdVhSSEtMQWhsdjFWMnFjbnltTWRWMWM3eWRIOU8zd3JSa3ZtYUZDS0N0UW5JRE82N3ZzZG9ZcG5DN3R6bDRsbFNxOTd6YXRNcEFxVldrc3J0Zjg1QVgxM1RiaW1oMGxzTFpB",
   "CBMiowFBVV95cUxNUi05dGwzYTU3U0N1YWJHZ3JlSVozMUF5d0FSV2VYWjQ5eUt3YXVwQjVnSlVtSm1KbC0ycHlGYk1TNlFMa2FwZWl4bzZkbnMwNEZvZkVrbTNVWlNQb3JQR0Y3OHFNZF9XWWN5a2h5OXZXU3dic25QYmVtS0x2U1doeFR1M09TeUtWdjZSWXozd21DaEd5MV82Sl9lc2ZaMXFaaWJj",
   "https://www.washingtonexaminer.com/?p=4670826",
@@ -799,21 +797,11 @@
   "CBMirgFBVV95cUxOb2hvX1JZYmNKUXQ2RWVObVJJN3VWdFpLWXM1cUs0TkZNUHB6Wlc5eTFGcm83cjB1d2VVSmpFOTZxR3lCZTBvZnBaTGRJc0VOQ1NjVGpYUVRlazlsRkk1ZFZXMjlCWjhIeUdHT3kxdHpYQXdNTE05X2VyczFTR2lXa1BVRmtuOXJMUVVVTlpRVURkQTVQM1k2c3dhNUFVc2NBNVFqN3BnZndnVXptakE",
   "https://thehill.com/?p=6019094",
   "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
-  "https://nypost.com/?post_type=article&p=40261540"
+  "https://nypost.com/?post_type=article&p=40261540",
+  "https://thehill.com/?p=6017968",
+  "https://thehill.com/?p=6018937"
  ],
  "posts": [
-  {
-   "fp": "back drifts earth once price revenue rises soaring spacex stock",
-   "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
-   "source": "NPR News",
-   "at": "2026-08-04T22:11:32.571171+00:00"
-  },
-  {
-   "fp": "agenda america bill budget save senate threatened uncertainty",
-   "title": "Senate GOP agenda on budget bill and SAVE America Act threatened by uncertainty",
-   "source": "Washington Examiner",
-   "at": "2026-08-04T22:11:34.290145+00:00"
-  },
   {
    "fp": "businesses debut quarterly results revenue satellite spacex surge surges",
    "title": "SpaceX quarterly revenue surges in debut results as satellite, AI businesses surge",
@@ -3201,11 +3189,21 @@
    "title": "Man, 30, shot dead in hail of bullets at NYC pier: cops",
    "source": "New York Post",
    "at": "2026-08-09T21:05:17.508281+00:00"
+  },
+  {
+   "fp": "bill chances crypto dimming leaves passing senate town voting without",
+   "title": "Senate leaves town without voting on crypto bill, dimming its chances of passing",
+   "source": "The Hill",
+   "at": "2026-08-09T21:31:35.335378+00:00"
+  },
+  {
+   "fp": "hill hold minnesota primary races week wisconsin",
+   "title": "This week on the Hill: Minnesota, Wisconsin to hold key primary races",
+   "source": "The Hill",
+   "at": "2026-08-09T21:31:37.156039+00:00"
   }
  ],
  "titles": [
-  "back drifts earth once price revenue rises soaring spacex stock",
-  "agenda america bill budget save senate threatened uncertainty",
   "businesses debut quarterly results revenue satellite spacex surge surges",
   "course crash moon musk rocket spacex",
   "81bn beats expectations posting quarter revenue second spacex",
@@ -3603,6 +3601,8 @@
   "bruising crackdown immigration looms minnesota primary senate trump",
   "michigan obama primary reveals sayed senate spoke",
   "canadian control flee force government steps thousands wildfires",
-  "bullets cops dead hail pier shot"
+  "bullets cops dead hail pier shot",
+  "bill chances crypto dimming leaves passing senate town voting without",
+  "hill hold minnesota primary races week wisconsin"
  ]
 }
