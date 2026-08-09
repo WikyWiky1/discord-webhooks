@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/jul/30/seattle-police-chief-food-festival-shooting",
   "https://news.sky.com/story/climate-change-fuelled-france-and-spain-wildfires-experts-say-13568639",
   "CBMiYkFVX3lxTE9Uc2VBeE9vMmgtSWxJRUc1SUF2V2JNYnFhdzRYZUpuX2twb3IzdE51RWFSd3pxLUE1Mk94REp0THRLLWNjdGxBZEU5ZVJ1VFlCVFY5U2tCYlV4Rm45QXFFd01n",
   "CBMigwFBVV95cUxPNlVXYXdFRjZLcGRvZUdsRkVNc0ZwYUJzNE1rcHdzN3VQOC00WF90TVNOdXhudGZVY3BqWlJ5ZUVTUDZYLVVhd2VEekFRX25rdnZwck13QThNMUhLOEpuVUZHUDhMV3d5ZmlKbDJOTmJmRDQ2Y29uTDBONzZSZ2d5aGtNZw",
@@ -799,15 +798,10 @@
   "CBMiswFBVV95cUxOS0Q5N0tzekVmWnI5R18zRGhBUWxITXNyNkg4eU45Vkc4UlVZS29LR1NsYmY2MXJPcFRXbUdrNTZGV0RVZmh1SFlBWHc2YUN1T2NIWl9KZnl2bS13WExvZC1oblMzbGRqczN1MjhGYUZoNVd1YTRWYk90SmZ4VGxTM1ZNdlAwSUxtOUdEXzJrTklmWXQ2RGlhUUxWLW1lbkNtNExJTDE3RnVtOF9IdHhzZEJtQQ",
   "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say",
   "CBMisgFBVV95cUxNS05uS1RyLUd6dmFHSkt1bUxJUzA2RnVrZlhwZDFJQmVrQ19wRmd2RFNJRWQ5RGVoZDRGeXlIWi1laXQySGUxaERfQkszMGdOVElVdmFfRDYzNWdrU2ppQU1DS2VULWtsUnNMTTZXMVAzV1VTdnMzaG5VLW1kMUlScndvenRpaVhGQUxVSFdmb1VqR2thZm15LVZoMlBSYTc0THFQV3RRLXJXaXdhb0V0UFhR",
-  "CBMilAFBVV95cUxPWHFiLWJhb1NhN1N4NlN3aTdNSU9vODFLZHBvR3BxNlU2bldZZzZPRmxHd3A2ck9tRld6V1NjdU9Nc0oybWZJQ0dXUVh3V3JvUzdSYmVSZzlFWlFVRDhwUnVBMmtiejNMTW9ESV9HNkEzNWFmaDBzaXhnNEUwLXROem1paEZjWGxyelY3LUZ6NFZqZF9Z"
+  "CBMilAFBVV95cUxPWHFiLWJhb1NhN1N4NlN3aTdNSU9vODFLZHBvR3BxNlU2bldZZzZPRmxHd3A2ck9tRld6V1NjdU9Nc0oybWZJQ0dXUVh3V3JvUzdSYmVSZzlFWlFVRDhwUnVBMmtiejNMTW9ESV9HNkEzNWFmaDBzaXhnNEUwLXROem1paEZjWGxyelY3LUZ6NFZqZF9Z",
+  "https://nypost.com/?post_type=article&p=40257619"
  ],
  "posts": [
-  {
-   "fp": "couldn happier kill next startup tape tech",
-   "title": "Red tape will kill the next AI startup, and Big Tech couldn\u2019t be happier",
-   "source": "Washington Examiner",
-   "at": "2026-08-04T16:08:51.542264+00:00"
-  },
   {
    "fp": "arabia last need nuclear pathway saudi thing",
    "title": "The last thing we need is a nuclear pathway for Saudi Arabia",
@@ -3201,10 +3195,15 @@
    "title": "Blockbuster Earnings Bolster Stocks\u2019 Record Run",
    "source": "WSJ",
    "at": "2026-08-09T04:17:51.080728+00:00"
+  },
+  {
+   "fp": "assistant bowl dead fred giants hoaglin super time winning",
+   "title": "Fred Hoaglin \u2014 two-time Super Bowl-winning assistant with Giants \u2014 dead at 82",
+   "source": "New York Post",
+   "at": "2026-08-09T04:38:23.018977+00:00"
   }
  ],
  "titles": [
-  "couldn happier kill next startup tape tech",
   "arabia last need nuclear pathway saudi thing",
   "arrest arson largest made state washington wildfires",
   "advances blanche happens next nomination todd",
@@ -3603,6 +3602,7 @@
   "access bromo closes expands indonesia mount wildfire",
   "dies nine police rises school shooting thailand toll year",
   "boost companies concerns defense depleted pentagon production pushes stocks weapons",
-  "blockbuster bolster earnings record stocks"
+  "blockbuster bolster earnings record stocks",
+  "assistant bowl dead fred giants hoaglin super time winning"
  ]
 }
