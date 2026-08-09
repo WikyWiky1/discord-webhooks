@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMivgFBVV95cUxOd0Y3SEoyVWhTSnJtX1h1LXZ1WVNqSmJwTjFBdWRjVWh0UVJhUTFHdGJmTEhadjQxdEcxamlnNzZxTm1idDJIUmNMQnZoM3FiUTk2NjFtaUtaNWc2eGc3cWtGRVJEVXU4Uk1mZlBEeGR0N1NSYWx5WnFvUHA1RWdQOTJucmRMQXhRdWNfeEQ0VTFfT2g5SllMc0ZWdzYzUzJWV1E0eVlDNG04UTBVTW9BTm5rTkhsV2dPYWZSREln",
-  "https://nypost.com/?post_type=article&p=40137493",
   "https://www.theguardian.com/us-news/2026/jul/30/seattle-police-chief-food-festival-shooting",
   "https://news.sky.com/story/climate-change-fuelled-france-and-spain-wildfires-experts-say-13568639",
   "CBMiYkFVX3lxTE9Uc2VBeE9vMmgtSWxJRUc1SUF2V2JNYnFhdzRYZUpuX2twb3IzdE51RWFSd3pxLUE1Mk94REp0THRLLWNjdGxBZEU5ZVJ1VFlCVFY5U2tCYlV4Rm45QXFFd01n",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40256919",
   "https://nypost.com/?post_type=article&p=40257483",
   "CBMiswFBVV95cUxOS0Q5N0tzekVmWnI5R18zRGhBUWxITXNyNkg4eU45Vkc4UlVZS29LR1NsYmY2MXJPcFRXbUdrNTZGV0RVZmh1SFlBWHc2YUN1T2NIWl9KZnl2bS13WExvZC1oblMzbGRqczN1MjhGYUZoNVd1YTRWYk90SmZ4VGxTM1ZNdlAwSUxtOUdEXzJrTklmWXQ2RGlhUUxWLW1lbkNtNExJTDE3RnVtOF9IdHhzZEJtQQ",
-  "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say"
+  "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say",
+  "CBMisgFBVV95cUxNS05uS1RyLUd6dmFHSkt1bUxJUzA2RnVrZlhwZDFJQmVrQ19wRmd2RFNJRWQ5RGVoZDRGeXlIWi1laXQySGUxaERfQkszMGdOVElVdmFfRDYzNWdrU2ppQU1DS2VULWtsUnNMTTZXMVAzV1VTdnMzaG5VLW1kMUlScndvenRpaVhGQUxVSFdmb1VqR2thZm15LVZoMlBSYTc0THFQV3RRLXJXaXdhb0V0UFhR",
+  "CBMilAFBVV95cUxPWHFiLWJhb1NhN1N4NlN3aTdNSU9vODFLZHBvR3BxNlU2bldZZzZPRmxHd3A2ck9tRld6V1NjdU9Nc0oybWZJQ0dXUVh3V3JvUzdSYmVSZzlFWlFVRDhwUnVBMmtiejNMTW9ESV9HNkEzNWFmaDBzaXhnNEUwLXROem1paEZjWGxyelY3LUZ6NFZqZF9Z"
  ],
  "posts": [
-  {
-   "fp": "bigwig driver gangland getaway goon police shooting sources",
-   "title": "NY police bigwig was getaway driver for goon son in gangland shooting: sources",
-   "source": "New York Post",
-   "at": "2026-08-04T16:08:47.977600+00:00"
-  },
-  {
-   "fp": "2023 funeral gaza israeli killed mass palestinians strike",
-   "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-   "source": "BBC World",
-   "at": "2026-08-04T16:08:49.729518+00:00"
-  },
   {
    "fp": "couldn happier kill next startup tape tech",
    "title": "Red tape will kill the next AI startup, and Big Tech couldn\u2019t be happier",
@@ -3201,11 +3189,21 @@
    "title": "Thailand school shooting toll rises to nine after 12-year-old dies, police say",
    "source": "Guardian World",
    "at": "2026-08-09T03:09:21.268516+00:00"
+  },
+  {
+   "fp": "boost companies concerns defense depleted pentagon production pushes stocks weapons",
+   "title": "Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks",
+   "source": "AP",
+   "at": "2026-08-09T04:17:49.378438+00:00"
+  },
+  {
+   "fp": "blockbuster bolster earnings record stocks",
+   "title": "Blockbuster Earnings Bolster Stocks\u2019 Record Run",
+   "source": "WSJ",
+   "at": "2026-08-09T04:17:51.080728+00:00"
   }
  ],
  "titles": [
-  "bigwig driver gangland getaway goon police shooting sources",
-  "2023 funeral gaza israeli killed mass palestinians strike",
   "couldn happier kill next startup tape tech",
   "arabia last need nuclear pathway saudi thing",
   "arrest arson largest made state washington wildfires",
@@ -3603,6 +3601,8 @@
   "democratic displays goodwin michael michigan party race radical senate shift taken",
   "california chaos city cripple declares emergency hackers state system",
   "access bromo closes expands indonesia mount wildfire",
-  "dies nine police rises school shooting thailand toll year"
+  "dies nine police rises school shooting thailand toll year",
+  "boost companies concerns defense depleted pentagon production pushes stocks weapons",
+  "blockbuster bolster earnings record stocks"
  ]
 }
