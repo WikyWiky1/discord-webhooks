@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4670137",
-  "CBMivgFBVV95cUxPYVFQTUstWlliaUNab2xmcWZBdmNqTi10c0N1OEpIUVBSWHNkc1hhLTlGT1BKbHB2Sk9Ta2QzcTVsRkNYMFN6TUxtWTNFdUhOR1RCbEVSSWNqamdBSDZYLUc0QmpxWXlLUm1TWTlRdUpyNGlvYVJ1ZEFVSUlacDlIdkVDV1NmdnFzUHBNd2FlUFNTVzczaHBsZkFsOTYxYTNmVmtNMllPYkhFQkExVGRxQVh0WWZJVHNUVXFIdWVR",
   "https://www.theguardian.com/world/2026/jul/31/spain-wildfire-bedar-british-couple-pete-fran-gillam-killed",
   "https://www.washingtonexaminer.com/?p=4669788",
   "CBMipgFBVV95cUxNUGpMOFN5aUhlNEd0SmVEY2NwdFZ4R2xZSW9YejNqcm5LZ2dZMmJ0RmlBQmdhQnB3M2ZQVTFuZFEtd1dGZmw5YWNUalBRNEVUdVYxWEotUlJKcjduRktYOGZQTVQ4UzBUaEdXYzZ4alk4OXdwbXlqLXRUNjJjUVZpTTRzeWJkeG9TTnUyTmd4c0tZd2g4cVp1YWZxLTZMRHYzckVlekNR",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
   "https://www.washingtonexaminer.com/?p=4680345",
   "https://nypost.com/?post_type=article&p=40258730",
-  "https://pagesix.com/?post_type=article&p=9099847"
+  "https://pagesix.com/?post_type=article&p=9099847",
+  "CBMi4wFBVV95cUxNbDJ3R0NGaWpTZzVnczV2cmdpTEg1dlVVUVhBVlM1bWd6Z3dKZHpDWGt5T2lCSy1BM2Y3dEU5QVBzZXNBazVxRHd5TTNLWUxhSFFtT3ZRQnNQUWFxSDU4SjhNS3JyazNLa1llMzVzRXpkeEowWHphYndkWHpwYm15d1hGNzRvbTNlVFJrMnUyX1VSc2JVVURKckJGMm03TUttWXp0WVVYUGRXZDVYRG1Zcm01WFc1a1c1LXBOVHlDbGFoRF80Vl9PRENucGlzc09oZ1dfNkg0ZnFCY1Y2cVhvdjNXTQ",
+  "CBMijAFBVV95cUxOcS1jZk0tTE1tSmNZd0hvOGQ0c1Vrc0ZpVldrcWxUQnhabzQ0WTU0QlIwSGZnWlNsWFlVY0lnRUNYUGRQaDVSNFZ5TlptM3hiWU51Qy1xSkZ2TGlPUjB1TktQOGRtTGdrTmJOajlKWjczR1lzNHRfLVo0NFBxdVhlU2ZQZ1REcUNiYlNaSA"
  ],
  "posts": [
-  {
-   "fp": "access administration advanced democrats models press senate trump",
-   "title": "Senate Democrats press Trump administration on access to advanced AI models",
-   "source": "The Hill",
-   "at": "2026-08-04T19:37:24.785992+00:00"
-  },
-  {
-   "fp": "advances blanche contempt fauci live nomination paul senate sets updates vote",
-   "title": "Live updates: Blanche nomination advances in Senate; Paul sets Fauci contempt vote",
-   "source": "The Hill",
-   "at": "2026-08-04T19:37:26.548430+00:00"
-  },
   {
    "fp": "banks blind democrats epstein jeffrey moves senate suspicious turned",
    "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
@@ -3201,11 +3189,21 @@
    "title": "\u2018Highlander\u2019 star Christopher Lambert, 69, collapses at Pittsburgh Comic-Con",
    "source": "New York Post",
    "at": "2026-08-09T13:45:43.497284+00:00"
+  },
+  {
+   "fp": "attack line opinion search socialist",
+   "title": "WSJ Opinion: The GOP's Search for a Socialist Attack Line",
+   "source": "WSJ",
+   "at": "2026-08-09T14:27:20.779082+00:00"
+  },
+  {
+   "fp": "astaire beach fred nuclear story strange went",
+   "title": "When Fred Astaire went nuclear: The strange story of On the Beach",
+   "source": "Telegraph",
+   "at": "2026-08-09T14:27:22.507170+00:00"
   }
  ],
  "titles": [
-  "access administration advanced democrats models press senate trump",
-  "advances blanche contempt fauci live nomination paul senate sets updates vote",
   "banks blind democrats epstein jeffrey moves senate suspicious turned",
   "arson attack building calculated charges federal former indicted manhattan soldier",
   "attack battered boardwalk camera canadian caught deported downplays ordered patriotic teen",
@@ -3603,6 +3601,8 @@
   "attack claim houthis refinery responsibility saudi yemen",
   "81st anniversary atomic bomb deterrence increases marks mayor nagasaki nuclear only risk",
   "between civilians dozens injuring kill overnight russia strikes ukraine",
-  "christopher collapses comic highlander lambert pittsburgh star"
+  "christopher collapses comic highlander lambert pittsburgh star",
+  "attack line opinion search socialist",
+  "astaire beach fred nuclear story strange went"
  ]
 }
