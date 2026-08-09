@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40136811",
-  "https://nypost.com/?post_type=article&p=40133537",
-  "https://nypost.com/?post_type=article&p=40137949",
   "CBMivgFBVV95cUxOd0Y3SEoyVWhTSnJtX1h1LXZ1WVNqSmJwTjFBdWRjVWh0UVJhUTFHdGJmTEhadjQxdEcxamlnNzZxTm1idDJIUmNMQnZoM3FiUTk2NjFtaUtaNWc2eGc3cWtGRVJEVXU4Uk1mZlBEeGR0N1NSYWx5WnFvUHA1RWdQOTJucmRMQXhRdWNfeEQ0VTFfT2g5SllMc0ZWdzYzUzJWV1E0eVlDNG04UTBVTW9BTm5rTkhsV2dPYWZSREln",
   "https://nypost.com/?post_type=article&p=40137493",
   "https://www.theguardian.com/us-news/2026/jul/30/seattle-police-chief-food-festival-shooting",
@@ -799,27 +796,12 @@
   "CBMiR0FVX3lxTE9XNkpfcFJnQjhBMTM1V1NKWWx5SDA2Q2xwMHRJOGRSS25rTGxOaTNFUmhybHdBVzJXOC15M2trTFBHWFQxNTVF",
   "https://nypost.com/?post_type=article&p=40256673",
   "https://www.theguardian.com/us-news/2026/aug/08/utah-helicopter-crash-wildfire",
-  "https://nypost.com/?post_type=article&p=40256919"
+  "https://nypost.com/?post_type=article&p=40256919",
+  "https://nypost.com/?post_type=article&p=40257483",
+  "CBMiswFBVV95cUxOS0Q5N0tzekVmWnI5R18zRGhBUWxITXNyNkg4eU45Vkc4UlVZS29LR1NsYmY2MXJPcFRXbUdrNTZGV0RVZmh1SFlBWHc2YUN1T2NIWl9KZnl2bS13WExvZC1oblMzbGRqczN1MjhGYUZoNVd1YTRWYk90SmZ4VGxTM1ZNdlAwSUxtOUdEXzJrTklmWXQ2RGlhUUxWLW1lbkNtNExJTDE3RnVtOF9IdHhzZEJtQQ",
+  "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say"
  ],
  "posts": [
-  {
-   "fp": "avalanche climbers foot grounds helicopters killed pakistan remains search teams weather",
-   "title": "Pakistan teams search on foot for remains of climbers killed in avalanche as weather grounds helicopters",
-   "source": "New York Post",
-   "at": "2026-08-04T16:08:42.886195+00:00"
-  },
-  {
-   "fp": "abuse allegations calls domestic faces growing miller ohio republican resign",
-   "title": "Ohio Republican Max Miller faces growing calls to resign over domestic abuse allegations",
-   "source": "Guardian World",
-   "at": "2026-08-04T16:08:44.554553+00:00"
-  },
-  {
-   "fp": "attacks country drone each killed russia trade ukraine",
-   "title": "Russia and Ukraine trade drone attacks with 5 killed in each country",
-   "source": "AP",
-   "at": "2026-08-04T16:08:46.253393+00:00"
-  },
   {
    "fp": "bigwig driver gangland getaway goon police shooting sources",
    "title": "NY police bigwig was getaway driver for goon son in gangland shooting: sources",
@@ -3201,12 +3183,27 @@
    "title": "Michael Goodwin: Michigan Senate race displays the radical \u2018shift\u2019 the Democratic Party has taken",
    "source": "New York Post",
    "at": "2026-08-09T01:42:57.535109+00:00"
+  },
+  {
+   "fp": "california chaos city cripple declares emergency hackers state system",
+   "title": "Chaos as California city declares state of emergency after hackers cripple 911 system",
+   "source": "New York Post",
+   "at": "2026-08-09T03:09:17.705657+00:00"
+  },
+  {
+   "fp": "access bromo closes expands indonesia mount wildfire",
+   "title": "Indonesia closes all access to Mount Bromo as wildfire expands",
+   "source": "Reuters World",
+   "at": "2026-08-09T03:09:19.472940+00:00"
+  },
+  {
+   "fp": "dies nine police rises school shooting thailand toll year",
+   "title": "Thailand school shooting toll rises to nine after 12-year-old dies, police say",
+   "source": "Guardian World",
+   "at": "2026-08-09T03:09:21.268516+00:00"
   }
  ],
  "titles": [
-  "avalanche climbers foot grounds helicopters killed pakistan remains search teams weather",
-  "abuse allegations calls domestic faces growing miller ohio republican resign",
-  "attacks country drone each killed russia trade ukraine",
   "bigwig driver gangland getaway goon police shooting sources",
   "2023 funeral gaza israeli killed mass palestinians strike",
   "couldn happier kill next startup tape tech",
@@ -3603,6 +3600,9 @@
   "wildfires",
   "burbank evacuation flames homes near orders prompts roar wildfire",
   "blocks crash firefighting helicopter reaching rescuers site utah wildfire",
-  "democratic displays goodwin michael michigan party race radical senate shift taken"
+  "democratic displays goodwin michael michigan party race radical senate shift taken",
+  "california chaos city cripple declares emergency hackers state system",
+  "access bromo closes expands indonesia mount wildfire",
+  "dies nine police rises school shooting thailand toll year"
  ]
 }
