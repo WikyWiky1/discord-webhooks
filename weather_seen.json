@@ -189,6 +189,15 @@
    "expired": true,
    "posted_at": "2026-08-09T21:39:32+00:00",
    "expired_at": "2026-08-09T22:06:49+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.06102d36f1b332815f374a791b54cc5f172e2556.001.1",
+   "message_id": "1536161522479403152",
+   "event": "Severe Thunderstorm Warning",
+   "area": "Mohave, AZ; Clark, NV",
+   "expired": false,
+   "posted_at": "2026-08-09T23:57:27+00:00",
+   "expired_at": null
   }
  ]
 }
