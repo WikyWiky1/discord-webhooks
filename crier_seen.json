@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://news.sky.com/story/climate-change-fuelled-france-and-spain-wildfires-experts-say-13568639",
   "CBMiYkFVX3lxTE9Uc2VBeE9vMmgtSWxJRUc1SUF2V2JNYnFhdzRYZUpuX2twb3IzdE51RWFSd3pxLUE1Mk94REp0THRLLWNjdGxBZEU5ZVJ1VFlCVFY5U2tCYlV4Rm45QXFFd01n",
   "CBMigwFBVV95cUxPNlVXYXdFRjZLcGRvZUdsRkVNc0ZwYUJzNE1rcHdzN3VQOC00WF90TVNOdXhudGZVY3BqWlJ5ZUVTUDZYLVVhd2VEekFRX25rdnZwck13QThNMUhLOEpuVUZHUDhMV3d5ZmlKbDJOTmJmRDQ2Y29uTDBONzZSZ2d5aGtNZw",
   "CBMilwFBVV95cUxPYXVQbFd2b2dBZFVoT3ZiRndKdVVic0xJWVFBWF9hN0FYaUk2ZkhlVkctWWtibi1GNVgxdE5Ec0FzNkpwNnlsZXNla1d5cXgzbFVIZ2pnMFdvMW93QlhXOW9CbkRhd2J2Vl9jaVV1THY2RzFzbUtvSGhNanA5NE5OQXJTN1BNVlEzXzVQQ00zQk54U0NIdlpj",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say",
   "CBMisgFBVV95cUxNS05uS1RyLUd6dmFHSkt1bUxJUzA2RnVrZlhwZDFJQmVrQ19wRmd2RFNJRWQ5RGVoZDRGeXlIWi1laXQySGUxaERfQkszMGdOVElVdmFfRDYzNWdrU2ppQU1DS2VULWtsUnNMTTZXMVAzV1VTdnMzaG5VLW1kMUlScndvenRpaVhGQUxVSFdmb1VqR2thZm15LVZoMlBSYTc0THFQV3RRLXJXaXdhb0V0UFhR",
   "CBMilAFBVV95cUxPWHFiLWJhb1NhN1N4NlN3aTdNSU9vODFLZHBvR3BxNlU2bldZZzZPRmxHd3A2ck9tRld6V1NjdU9Nc0oybWZJQ0dXUVh3V3JvUzdSYmVSZzlFWlFVRDhwUnVBMmtiejNMTW9ESV9HNkEzNWFmaDBzaXhnNEUwLXROem1paEZjWGxyelY3LUZ6NFZqZF9Z",
-  "https://nypost.com/?post_type=article&p=40257619"
+  "https://nypost.com/?post_type=article&p=40257619",
+  "https://nypost.com/?post_type=article&p=40257831"
  ],
  "posts": [
-  {
-   "fp": "arabia last need nuclear pathway saudi thing",
-   "title": "The last thing we need is a nuclear pathway for Saudi Arabia",
-   "source": "The Hill",
-   "at": "2026-08-04T16:08:53.339905+00:00"
-  },
   {
    "fp": "arrest arson largest made state washington wildfires",
    "title": "Arson arrest made over largest of Washington state's wildfires",
@@ -3201,10 +3195,15 @@
    "title": "Fred Hoaglin \u2014 two-time Super Bowl-winning assistant with Giants \u2014 dead at 82",
    "source": "New York Post",
    "at": "2026-08-09T04:38:23.018977+00:00"
+  },
+  {
+   "fp": "boat child coast dead dozen island liberty overturns pulled sources water woman",
+   "title": "Boat overturns off Liberty Island coast; woman and child dead as more than a dozen pulled from water: sources",
+   "source": "New York Post",
+   "at": "2026-08-09T05:32:30.826964+00:00"
   }
  ],
  "titles": [
-  "arabia last need nuclear pathway saudi thing",
   "arrest arson largest made state washington wildfires",
   "advances blanche happens next nomination todd",
   "democrat different lots make people rise room senate should voices",
@@ -3603,6 +3602,7 @@
   "dies nine police rises school shooting thailand toll year",
   "boost companies concerns defense depleted pentagon production pushes stocks weapons",
   "blockbuster bolster earnings record stocks",
-  "assistant bowl dead fred giants hoaglin super time winning"
+  "assistant bowl dead fred giants hoaglin super time winning",
+  "boat child coast dead dozen island liberty overturns pulled sources water woman"
  ]
 }
