@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMirgFBVV95cUxNbjNUdU1YZmo5aHRQeUlKRkdtTFl5NERHYy11VUFNUm1ZOHBENHA0SWNlMmNzY1dsaHd1clhFQnRRNGs1UndFOXpBTDc2aHJ3ZUNfRWxIR21ubXlkR0JHLVI2M3Q1WlVGcTVEUGxSNm8tNFB6ZjFBVE9WbXFFSEx4Z2hnMnpPVTBkZDRSYnBOMmdOcFpjbEV6SGxDdmp2R21wcmJXWmZnemc0N1Mxdmc",
-  "CBMirgFBVV95cUxOd05jdW45TDVMejhCUHVfa2RCaDJLTFk5RUxkOTFmeEdKMllFcTk1eVllOFlsZWFXWTBXTVdIME1OUWxMemY3WUhJdFpZVUpyNXoxNy1SMTRBVTRNTjYteHNBRmhRTHB5T19PRmFFcFNheE91aUFEY1FkbzItS18xR2dDTHFpTDVKcVBYU2VmaWItSnRzeHJPeFhWTlRtRDRpTTAwd0RiWElITEdhdHc",
   "CBMitAFBVV95cUxQcEg1TjNNRjg1TW9sOXpkaUcyakowdXhRZVplOWZzR0tGQmNoMDZlYXBDeklkUmh6eTlFT3FJRUpTOUxPRFZ0TktEdW1BVjlXSHhwSS1mQmZ3UC11MDloNzFlVzNNUmpFdWY4cEJKWllNaGtfdWxLT2wtMEdaNHNPUk1BUS1xM1JmbHdtbkxoUFZwMF93U2dlekN2OXZZTk9tZU4zdDVrR004ZTJkTktXRGllYkc",
   "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o#0",
   "https://nypost.com/?post_type=article&p=40144147",
@@ -799,21 +797,11 @@
   "CBMiwgFBVV95cUxQM3otejF5WTA1YnJzdjU5bEZ3OHNmb2RTR1VtajdTQUJpWTFJTGd1UU9GajlqTW5DT011MzFyUHNUSjdVR3dramFadk9zZ3RCNGR2WWM3eV9SY1JaNXIxSVJ4T3BmZXFKdllyN2hBVVB2Sy1MSlRxeTkzZWZiV0dBYTNKcE9fODBub0dYVE9ja2hWU3FyLTA5LXpqZkZmdEhVM21XcVppcTVrcGxnQnpiUFZPSXhRZkxqMzMzVTVRZ3dfZw",
   "https://nypost.com/?post_type=article&p=40259361",
   "https://nypost.com/?post_type=article&p=40259579",
-  "CBMiswFBVV95cUxOVHZ4ZTczbFBkMldxZ1AxeXpPbUZlcFlRMFdIekNfcDVjUVp5VTUtaHIwVWMxLTdfdEg0cmoxVFQwX2w5cVdTekxUbXBQSm1ib0EwRW5yWUNFS1lpUDZJaDQ2cGh3bFFTdWdfeHRBOVFySWpiWVhhelFBQjNkODZrRy1rUGxHbWNwTkpnSTAtMFJpYnJVTFc5NGxtcVQ2TFpxWDB2TEdWNnpKMVNOanp5dTlOdw"
+  "CBMiswFBVV95cUxOVHZ4ZTczbFBkMldxZ1AxeXpPbUZlcFlRMFdIekNfcDVjUVp5VTUtaHIwVWMxLTdfdEg0cmoxVFQwX2w5cVdTekxUbXBQSm1ib0EwRW5yWUNFS1lpUDZJaDQ2cGh3bFFTdWdfeHRBOVFySWpiWVhhelFBQjNkODZrRy1rUGxHbWNwTkpnSTAtMFJpYnJVTFc5NGxtcVQ2TFpxWDB2TEdWNnpKMVNOanp5dTlOdw",
+  "CBMinwFBVV95cUxPMmpIU01RS2s2UlpsWVRZcF9naUlDVXFadXI5RGdNTlF2U1FteUJWMEtLWXFILTg2U2s5bjRPOUFEMkpGVFpkZ0stZ1UxYnU4RjBkWVBiS1NaVF9YdEc0U1l0a1dPc0FPeHJYckpGS09HTFRWN0w2cjdSVlNPLURiTW1sTk5Zd3JzbWNtV1kyVGpvU2xIXzlUc216UElzZG8",
+  "https://www.washingtonexaminer.com/?p=4680435"
  ],
  "posts": [
-  {
-   "fp": "denies hormuz iran president resign strait talks threatening",
-   "title": "Iran\u2019s president denies threatening to resign during talks over strait of Hormuz",
-   "source": "Guardian World",
-   "at": "2026-08-04T19:59:04.273470+00:00"
-  },
-  {
-   "fp": "chipotle health investigate jalape officials outbreak pulls restaurants salmonella",
-   "title": "Chipotle pulls jalape\u00f1os from some restaurants as health officials investigate salmonella outbreak",
-   "source": "AP",
-   "at": "2026-08-04T21:14:17.294188+00:00"
-  },
   {
    "fp": "cattle evacuate oregon pushing ranchers season wildfire",
    "title": "Oregon's wildfire season is pushing ranchers to evacuate their cattle",
@@ -3201,11 +3189,21 @@
    "title": "Health officials urge caution for Gulf Coast beachgoers during surge of deadly bacterial infections",
    "source": "AP",
    "at": "2026-08-09T17:07:07.629824+00:00"
+  },
+  {
+   "fp": "collapse deal harvey nichols rescue risks without",
+   "title": "Harvey Nichols risks collapse without rescue deal",
+   "source": "Telegraph",
+   "at": "2026-08-09T17:48:59.188937+00:00"
+  },
+  {
+   "fp": "2020 blames defund lockdown past police rhetoric support",
+   "title": "AOC blames 2020 lockdown \u2018rhetoric\u2019 for past \u2018defund the police\u2019 support",
+   "source": "Washington Examiner",
+   "at": "2026-08-09T17:49:00.836854+00:00"
   }
  ],
  "titles": [
-  "denies hormuz iran president resign strait talks threatening",
-  "chipotle health investigate jalape officials outbreak pulls restaurants salmonella",
   "cattle evacuate oregon pushing ranchers season wildfire",
   "cases climb cyclosporiasis michigan ongoing outbreak",
   "2025 angeles caused eaton fire idle killed officials tower transmission utility",
@@ -3603,6 +3601,8 @@
   "assistance british columbia evacuations federal forces wildfire",
   "arabia aramco attack backed houthis iran port refinery saudi",
   "boat crash deadly doomed grim harbor hours including killed photos pulled show york",
-  "bacterial beachgoers caution coast deadly gulf health infections officials surge urge"
+  "bacterial beachgoers caution coast deadly gulf health infections officials surge urge",
+  "collapse deal harvey nichols rescue risks without",
+  "2020 blames defund lockdown past police rhetoric support"
  ]
 }
