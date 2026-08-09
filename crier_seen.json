@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40135706",
   "https://nypost.com/?post_type=article&p=40136811",
   "https://nypost.com/?post_type=article&p=40133537",
   "https://nypost.com/?post_type=article&p=40137949",
@@ -799,15 +798,10 @@
   "https://www.washingtonexaminer.com/?p=4680313",
   "CBMiR0FVX3lxTE9XNkpfcFJnQjhBMTM1V1NKWWx5SDA2Q2xwMHRJOGRSS25rTGxOaTNFUmhybHdBVzJXOC15M2trTFBHWFQxNTVF",
   "https://nypost.com/?post_type=article&p=40256673",
-  "https://www.theguardian.com/us-news/2026/aug/08/utah-helicopter-crash-wildfire"
+  "https://www.theguardian.com/us-news/2026/aug/08/utah-helicopter-crash-wildfire",
+  "https://nypost.com/?post_type=article&p=40256919"
  ],
  "posts": [
-  {
-   "fp": "beaming heartbreaking idaho mass murdered photos shooting show worker",
-   "title": "Heartbreaking photos show murdered In-N-Out worker beaming before Idaho mass shooting",
-   "source": "New York Post",
-   "at": "2026-08-04T16:08:41.176121+00:00"
-  },
   {
    "fp": "avalanche climbers foot grounds helicopters killed pakistan remains search teams weather",
    "title": "Pakistan teams search on foot for remains of climbers killed in avalanche as weather grounds helicopters",
@@ -3201,10 +3195,15 @@
    "title": "Utah wildfire blocks rescuers from reaching firefighting helicopter crash site",
    "source": "Guardian World",
    "at": "2026-08-09T01:09:03.151732+00:00"
+  },
+  {
+   "fp": "democratic displays goodwin michael michigan party race radical senate shift taken",
+   "title": "Michael Goodwin: Michigan Senate race displays the radical \u2018shift\u2019 the Democratic Party has taken",
+   "source": "New York Post",
+   "at": "2026-08-09T01:42:57.535109+00:00"
   }
  ],
  "titles": [
-  "beaming heartbreaking idaho mass murdered photos shooting show worker",
   "avalanche climbers foot grounds helicopters killed pakistan remains search teams weather",
   "abuse allegations calls domestic faces growing miller ohio republican resign",
   "attacks country drone each killed russia trade ukraine",
@@ -3603,6 +3602,7 @@
   "companies democrats elected house immediate impeachment investigations linked prefer report trump",
   "wildfires",
   "burbank evacuation flames homes near orders prompts roar wildfire",
-  "blocks crash firefighting helicopter reaching rescuers site utah wildfire"
+  "blocks crash firefighting helicopter reaching rescuers site utah wildfire",
+  "democratic displays goodwin michael michigan party race radical senate shift taken"
  ]
 }
