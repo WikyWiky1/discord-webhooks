@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMilwFBVV95cUxOakZJSnYtc0Q2VHd2YVlWSWRjdThSS0FKeFVoLUk0cEZOMXhzajN4dlhGWVRHdVhSSEtMQWhsdjFWMnFjbnltTWRWMWM3eWRIOU8zd3JSa3ZtYUZDS0N0UW5JRE82N3ZzZG9ZcG5DN3R6bDRsbFNxOTd6YXRNcEFxVldrc3J0Zjg1QVgxM1RiaW1oMGxzTFpB",
-  "CBMiowFBVV95cUxNUi05dGwzYTU3U0N1YWJHZ3JlSVozMUF5d0FSV2VYWjQ5eUt3YXVwQjVnSlVtSm1KbC0ycHlGYk1TNlFMa2FwZWl4bzZkbnMwNEZvZkVrbTNVWlNQb3JQR0Y3OHFNZF9XWWN5a2h5OXZXU3dic25QYmVtS0x2U1doeFR1M09TeUtWdjZSWXozd21DaEd5MV82Sl9lc2ZaMXFaaWJj",
-  "https://www.washingtonexaminer.com/?p=4670826",
   "CBMiN0FVX3lxTE90Y3MxWTNmYjZIUEhwbU13WHFsQ1ZqamxiaFowSEdKeDR4LUF6QzV0UmZzX0Vjd0E",
   "CBMipgFBVV95cUxQYzVGWU1tbmRJTGpwT3c5al9ScDNYRFJOVWdDazQ0d21XTlAwRkpBRHJDS3pSZWx0azZ0Tm0xNGZFUHVaY2VVS3dKcmJkRTg3aXp5LTdKOFdvM3ZCOGN0RndLSk5CMXJIM2I5MFlzY3N4d05LSDRyaTZZZ1Ata241M1hOcHVVR3plV2J6LURqMk5GNWdaMDZ3eUhZaFdIX2xoUFBFUGhB",
   "CBMitwFBVV95cUxOQ3NWakstbEU3UGFDdGlSNFR6VVNuVDV6cjZjY2sxdm1pNi1qMkNSOGlQMlhqcnluc3E0c21FMVZrNnZQLUhtbEthbUIxMV8xNGk3YnpRajVyaHROZmxVSzFLWlJXdWdOMUNHaDF5NS1OOWwzcld3VDFKdFpQNUpTdVV3aHhOZE1rdkJFQ3kxLW1xZTBmQ1d4bGhoakx6YVVOVXlhSUlMblNMXzJ4REltbGdqOW5taUk",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
   "https://nypost.com/?post_type=article&p=40261540",
   "https://thehill.com/?p=6017968",
-  "https://thehill.com/?p=6018937"
+  "https://thehill.com/?p=6018937",
+  "https://nypost.com/?post_type=article&p=40262948",
+  "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
+  "CBMikAFBVV95cUxPMjJ5UUtGSnBqYXN1Zjh2aG5TM3RlaVMwbWNHeWk4ZDBwcW5XVVdzY3RjSWsyYzljWmhGYmlGXzZ3Xy1vRDFtRUM0RnIwTzRkQTVmNzBBSjBTYzJQeGE5emhKODdhT2t2aUFqZ0lKcDFCSlVkWnM5bGpUTWlpeGtqbkQ1UlBteEZhUmxXYVFhV1o"
  ],
  "posts": [
-  {
-   "fp": "businesses debut quarterly results revenue satellite spacex surge surges",
-   "title": "SpaceX quarterly revenue surges in debut results as satellite, AI businesses surge",
-   "source": "Reuters",
-   "at": "2026-08-04T22:11:36.103047+00:00"
-  },
-  {
-   "fp": "course crash moon musk rocket spacex",
-   "title": "Musk SpaceX rocket on course to crash into Moon",
-   "source": "Telegraph",
-   "at": "2026-08-04T22:11:37.791975+00:00"
-  },
-  {
-   "fp": "81bn beats expectations posting quarter revenue second spacex",
-   "title": "SpaceX beats expectations by posting revenue of $7.81bn in second quarter",
-   "source": "Guardian World",
-   "at": "2026-08-04T22:11:39.602627+00:00"
-  },
   {
    "fp": "daughters dead divorce fought found hard hearing hours keep safe",
    "title": "Dad, 2 daughters found dead hours after divorce hearing \u2014 as mom says she \u2018fought so hard to try to keep them safe\u2019",
@@ -3201,12 +3183,27 @@
    "title": "This week on the Hill: Minnesota, Wisconsin to hold key primary races",
    "source": "The Hill",
    "at": "2026-08-09T21:31:37.156039+00:00"
+  },
+  {
+   "fp": "accident capitan climber deadly dies nevada record scaling sierra speed yosemite",
+   "title": "Yosemite speed climber who set record for scaling deadly El Capitan dies in Sierra Nevada accident",
+   "source": "New York Post",
+   "at": "2026-08-09T21:49:48.157845+00:00"
+  },
+  {
+   "fp": "airport airservices australia calls chaos live meeting minister news sydney transport urgent",
+   "title": "Australia news live: transport minister calls in Airservices Australia for urgent meeting after Sydney airport chaos",
+   "source": "Guardian World",
+   "at": "2026-08-09T21:49:49.886865+00:00"
+  },
+  {
+   "fp": "across burn canada evacuated residents western wildfires",
+   "title": "Wildfires burn across western US and Canada as residents are evacuated",
+   "source": "AP",
+   "at": "2026-08-09T21:49:51.598715+00:00"
   }
  ],
  "titles": [
-  "businesses debut quarterly results revenue satellite spacex surge surges",
-  "course crash moon musk rocket spacex",
-  "81bn beats expectations posting quarter revenue second spacex",
   "daughters dead divorce fought found hard hearing hours keep safe",
   "climbing died disaster generation guides killed legend record setting",
   "allegations domestic miller resign violence",
@@ -3603,6 +3600,9 @@
   "canadian control flee force government steps thousands wildfires",
   "bullets cops dead hail pier shot",
   "bill chances crypto dimming leaves passing senate town voting without",
-  "hill hold minnesota primary races week wisconsin"
+  "hill hold minnesota primary races week wisconsin",
+  "accident capitan climber deadly dies nevada record scaling sierra speed yosemite",
+  "airport airservices australia calls chaos live meeting minister news sydney transport urgent",
+  "across burn canada evacuated residents western wildfires"
  ]
 }
