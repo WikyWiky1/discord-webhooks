@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMiygFBVV95cUxONnBwSWJHRkw0YU5RVUdSMTNHWlZvc3dqZUNlNUdmdWQ4NnFFVnRjQVVHSkF5TnlrNG9Jb3p5VHlGS0szMHdNTGxaaFVIRmdFdXQ1TW5ael9NaV9lODQtYmZqbHBSZG5HbGFlSHVMNVZEMV9jTUdkSi1qWmVDdFBmVXBxSjdNemw0MktSS0Jka3BDQlExZUxBdV9mNWJWSkh4ZnhVS0QxcEc3VmJ0aXo2czRfTWhRanJ1YzBBYkt4eW85UGZDdFpRanVB",
-  "https://nypost.com/?post_type=article&p=40133496",
-  "https://thehill.com/?p=6001064",
   "https://www.washingtonexaminer.com/?p=4670137",
   "CBMivgFBVV95cUxPYVFQTUstWlliaUNab2xmcWZBdmNqTi10c0N1OEpIUVBSWHNkc1hhLTlGT1BKbHB2Sk9Ta2QzcTVsRkNYMFN6TUxtWTNFdUhOR1RCbEVSSWNqamdBSDZYLUc0QmpxWXlLUm1TWTlRdUpyNGlvYVJ1ZEFVSUlacDlIdkVDV1NmdnFzUHBNd2FlUFNTVzczaHBsZkFsOTYxYTNmVmtNMllPYkhFQkExVGRxQVh0WWZJVHNUVXFIdWVR",
   "https://www.theguardian.com/world/2026/jul/31/spain-wildfire-bedar-british-couple-pete-fran-gillam-killed",
@@ -799,27 +796,12 @@
   "CBMiqgFBVV95cUxON3JrVzBGcExkY2hhZkg2QzdFXzcwTk5lampzMEVHc0FOQVh4RVRiSXFIa3JKa1NCZk00WTdUUmpHSjRCU1ZrTXdCNzRvRDhzVHQ0SUItVVkzX1BPUGd5cXpyWUtKSzZXcHl3eUQ2M1BESDVHMDRSZHl2bFFMUE4wNmJ5V25xbE91SGJWSEMyeGVTZk9VT1VOenFWSWRYZW54T0ZVNWxieEJYQQ",
   "https://thehill.com/?p=6017601",
   "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#0",
-  "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz"
+  "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+  "https://www.washingtonexaminer.com/?p=4680345",
+  "https://nypost.com/?post_type=article&p=40258730",
+  "https://pagesix.com/?post_type=article&p=9099847"
  ],
  "posts": [
-  {
-   "fp": "crater create expected foot hurtling moon rocket spacex toward",
-   "title": "SpaceX rocket hurtling toward moon expected to create 90-foot crater",
-   "source": "Washington Examiner",
-   "at": "2026-08-04T19:37:19.268820+00:00"
-  },
-  {
-   "fp": "beach blasting brutal candidate congress karma music packed tropical",
-   "title": "Brutal karma for Dem congress candidate blasting music on packed tropical beach",
-   "source": "New York Post",
-   "at": "2026-08-04T19:37:21.085532+00:00"
-  },
-  {
-   "fp": "attorneys effect five general hemp senate state take thirty urge",
-   "title": "Thirty-five state attorneys general urge Senate to let hemp ban take effect",
-   "source": "Washington Examiner",
-   "at": "2026-08-04T19:37:22.917745+00:00"
-  },
   {
    "fp": "access administration advanced democrats models press senate trump",
    "title": "Senate Democrats press Trump administration on access to advanced AI models",
@@ -3201,12 +3183,27 @@
    "title": "Yemen\u2019s Houthis claim responsibility for attack on Saudi oil refinery",
    "source": "Guardian World",
    "at": "2026-08-09T12:56:17.702731+00:00"
+  },
+  {
+   "fp": "81st anniversary atomic bomb deterrence increases marks mayor nagasaki nuclear only risk",
+   "title": "Nagasaki marks 81st atomic bomb anniversary as mayor says nuclear deterrence only increases risk",
+   "source": "Washington Examiner",
+   "at": "2026-08-09T13:45:40.040538+00:00"
+  },
+  {
+   "fp": "between civilians dozens injuring kill overnight russia strikes ukraine",
+   "title": "Overnight strikes between Russia and Ukraine kill 7 civilians, injuring dozens more",
+   "source": "New York Post",
+   "at": "2026-08-09T13:45:41.791115+00:00"
+  },
+  {
+   "fp": "christopher collapses comic highlander lambert pittsburgh star",
+   "title": "\u2018Highlander\u2019 star Christopher Lambert, 69, collapses at Pittsburgh Comic-Con",
+   "source": "New York Post",
+   "at": "2026-08-09T13:45:43.497284+00:00"
   }
  ],
  "titles": [
-  "crater create expected foot hurtling moon rocket spacex toward",
-  "beach blasting brutal candidate congress karma music packed tropical",
-  "attorneys effect five general hemp senate state take thirty urge",
   "access administration advanced democrats models press senate trump",
   "advances blanche contempt fauci live nomination paul senate sets updates vote",
   "banks blind democrats epstein jeffrey moves senate suspicious turned",
@@ -3603,6 +3600,9 @@
   "funds like make stocks strangers twin",
   "case challenge democratic fends hawaii house left primary",
   "canada declared doubles emergency fast moving size state wildfire",
-  "attack claim houthis refinery responsibility saudi yemen"
+  "attack claim houthis refinery responsibility saudi yemen",
+  "81st anniversary atomic bomb deterrence increases marks mayor nagasaki nuclear only risk",
+  "between civilians dozens injuring kill overnight russia strikes ukraine",
+  "christopher collapses comic highlander lambert pittsburgh star"
  ]
 }
