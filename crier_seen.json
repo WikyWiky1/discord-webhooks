@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiwwFBVV95cUxPM0c1Y3Z1S3JvRDl6YklGRHdRWXJWWDdOMUJYQ0FURHpwLTByV1N0bzBCZ0ZGWGZoc0FwakZlLTI2S3cxWGxOV010X1I1NWlBVGRRbmdJeW9penZraklmQ2dtVERtdVMwM1ljR2t4QTl0OEZicThhNTZnN1ZJb3dlMC05TXBoOG4ybGpka1hRX2hUVGtkYTVjRHhBbk9CZDlMYWluVk03Yl9HeWt6UnhyMXZTMGtBQTE3S2l6NHoxOW96WTg",
-  "CBMiqgFBVV95cUxOSHREd1FNM0VKZjFKOGltYVdMUDFkRlRqNkdOc0FELWdCZ0o3UDZ5SnFIWlpxeHlUdmxvT190VzM4dWd6b0QtWmgwbDdvUVlMWFlUSmFvZkdtbFJDYUNHVzAzWHR3SExEQ1NTNE9MSENvc1BoZUw3cVlvQ2hwMlp0dVY4a0JrX211aVhnRzUxOVVEYzJsTGZ0TndUVWRLM2xQRjFVSkU5TzlZQQ",
   "CBMiygFBVV95cUxONnBwSWJHRkw0YU5RVUdSMTNHWlZvc3dqZUNlNUdmdWQ4NnFFVnRjQVVHSkF5TnlrNG9Jb3p5VHlGS0szMHdNTGxaaFVIRmdFdXQ1TW5ael9NaV9lODQtYmZqbHBSZG5HbGFlSHVMNVZEMV9jTUdkSi1qWmVDdFBmVXBxSjdNemw0MktSS0Jka3BDQlExZUxBdV9mNWJWSkh4ZnhVS0QxcEc3VmJ0aXo2czRfTWhRanJ1YzBBYkt4eW85UGZDdFpRanVB",
   "https://nypost.com/?post_type=article&p=40133496",
   "https://thehill.com/?p=6001064",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises",
   "CBMilwFBVV95cUxPY21fMUFpVVpNM1lXZHZxVzJkT0F6ZnlWZWJsb3B6QnVHZU5YZkdNR3k2dlBVV24tMFc5Zk9oUUFfaTlyenpJb0ttc1htYVlGbHZOcE9uLXA1Z293emJXRnVLeEhiY2o5SVlDZ1BxZmFNVmhpeVlvVU80Z19UbU1TZEVTZ2hSOGFiVEYzWjB1RHI0U0JuWXpB",
   "CBMiqgFBVV95cUxON3JrVzBGcExkY2hhZkg2QzdFXzcwTk5lampzMEVHc0FOQVh4RVRiSXFIa3JKa1NCZk00WTdUUmpHSjRCU1ZrTXdCNzRvRDhzVHQ0SUItVVkzX1BPUGd5cXpyWUtKSzZXcHl3eUQ2M1BESDVHMDRSZHl2bFFMUE4wNmJ5V25xbE91SGJWSEMyeGVTZk9VT1VOenFWSWRYZW54T0ZVNWxieEJYQQ",
-  "https://thehill.com/?p=6017601"
+  "https://thehill.com/?p=6017601",
+  "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#0",
+  "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz"
  ],
  "posts": [
-  {
-   "fp": "attack black calls drone ensure russia safety turkey ukraine",
-   "title": "Turkey calls on Russia, Ukraine to ensure Black Sea safety after drone attack",
-   "source": "Reuters World",
-   "at": "2026-08-04T18:05:00.655572+00:00"
-  },
-  {
-   "fp": "dead korea memorial north vietnam years",
-   "title": "North Korea's Vietnam War dead to get first memorial 60 years on",
-   "source": "Reuters",
-   "at": "2026-08-04T18:05:02.725972+00:00"
-  },
   {
    "fp": "crater create expected foot hurtling moon rocket spacex toward",
    "title": "SpaceX rocket hurtling toward moon expected to create 90-foot crater",
@@ -3201,11 +3189,21 @@
    "title": "Case fends off challenge from his left in Hawaii Democratic House primary",
    "source": "The Hill",
    "at": "2026-08-09T12:49:12.617445+00:00"
+  },
+  {
+   "fp": "canada declared doubles emergency fast moving size state wildfire",
+   "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+   "source": "BBC World",
+   "at": "2026-08-09T12:56:15.973824+00:00"
+  },
+  {
+   "fp": "attack claim houthis refinery responsibility saudi yemen",
+   "title": "Yemen\u2019s Houthis claim responsibility for attack on Saudi oil refinery",
+   "source": "Guardian World",
+   "at": "2026-08-09T12:56:17.702731+00:00"
   }
  ],
  "titles": [
-  "attack black calls drone ensure russia safety turkey ukraine",
-  "dead korea memorial north vietnam years",
   "crater create expected foot hurtling moon rocket spacex toward",
   "beach blasting brutal candidate congress karma music packed tropical",
   "attorneys effect five general hemp senate state take thirty urge",
@@ -3603,6 +3601,8 @@
   "assault continues democrats election simulate threats trump voting",
   "federal kevin opinion reserve status warsh",
   "funds like make stocks strangers twin",
-  "case challenge democratic fends hawaii house left primary"
+  "case challenge democratic fends hawaii house left primary",
+  "canada declared doubles emergency fast moving size state wildfire",
+  "attack claim houthis refinery responsibility saudi yemen"
  ]
 }
