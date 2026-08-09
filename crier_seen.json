@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/science/2026/jul/31/spacex-rocket-moon-collision",
-  "CBMiugFBVV95cUxOUGRzMENLMHh5X255MUNMMEVaUG1FbnFJUy1rb1Rpd3NWcG12QXhYZmNmeTVGM3k5YS0xVWQzZ2N4dXFKYzF4bGxuZm4tclR1MlZJLTMtSXBfX045WUhSVXZKSE9pdG9uWnBfMFlvdHBoaWU4TGdpS2FaV0tiUlFBWDhFbS1sN0NmNk9UZ1FOVDhSV2gyX210R2swOHhUWlZyQzRlVnhrdFpYUmJFZFdDV0k4X3c2ZmZsZEE",
   "https://nypost.com/?post_type=article&p=40143653",
   "CBMirgFBVV95cUxNbjNUdU1YZmo5aHRQeUlKRkdtTFl5NERHYy11VUFNUm1ZOHBENHA0SWNlMmNzY1dsaHd1clhFQnRRNGs1UndFOXpBTDc2aHJ3ZUNfRWxIR21ubXlkR0JHLVI2M3Q1WlVGcTVEUGxSNm8tNFB6ZjFBVE9WbXFFSEx4Z2hnMnpPVTBkZDRSYnBOMmdOcFpjbEV6SGxDdmp2R21wcmJXWmZnemc0N1Mxdmc",
   "CBMirgFBVV95cUxOd05jdW45TDVMejhCUHVfa2RCaDJLTFk5RUxkOTFmeEdKMllFcTk1eVllOFlsZWFXWTBXTVdIME1OUWxMemY3WUhJdFpZVUpyNXoxNy1SMTRBVTRNTjYteHNBRmhRTHB5T19PRmFFcFNheE91aUFEY1FkbzItS18xR2dDTHFpTDVKcVBYU2VmaWItSnRzeHJPeFhWTlRtRDRpTTAwd0RiWElITEdhdHc",
@@ -799,21 +797,11 @@
   "https://thehill.com/?p=6017650",
   "https://www.washingtonexaminer.com/?p=4680344",
   "https://www.bbc.co.uk/news/articles/cgjeznj6979o#0",
-  "CBMiwgFBVV95cUxQM3otejF5WTA1YnJzdjU5bEZ3OHNmb2RTR1VtajdTQUJpWTFJTGd1UU9GajlqTW5DT011MzFyUHNUSjdVR3dramFadk9zZ3RCNGR2WWM3eV9SY1JaNXIxSVJ4T3BmZXFKdllyN2hBVVB2Sy1MSlRxeTkzZWZiV0dBYTNKcE9fODBub0dYVE9ja2hWU3FyLTA5LXpqZkZmdEhVM21XcVppcTVrcGxnQnpiUFZPSXhRZkxqMzMzVTVRZ3dfZw"
+  "CBMiwgFBVV95cUxQM3otejF5WTA1YnJzdjU5bEZ3OHNmb2RTR1VtajdTQUJpWTFJTGd1UU9GajlqTW5DT011MzFyUHNUSjdVR3dramFadk9zZ3RCNGR2WWM3eV9SY1JaNXIxSVJ4T3BmZXFKdllyN2hBVVB2Sy1MSlRxeTkzZWZiV0dBYTNKcE9fODBub0dYVE9ja2hWU3FyLTA5LXpqZkZmdEhVM21XcVppcTVrcGxnQnpiUFZPSXhRZkxqMzMzVTVRZ3dfZw",
+  "https://nypost.com/?post_type=article&p=40259361",
+  "https://nypost.com/?post_type=article&p=40259579"
  ],
  "posts": [
-  {
-   "fp": "congo eastern ebola fastest growing kills outbreak surges",
-   "title": "Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges",
-   "source": "AP",
-   "at": "2026-08-04T19:58:59.076295+00:00"
-  },
-  {
-   "fp": "alert eruption erupts evacuates fuego guatemala hundreds villagers volcano",
-   "title": "Guatemala is on alert and evacuates hundreds of villagers after eruption of the Fuego volcano erupts",
-   "source": "AP",
-   "at": "2026-08-04T19:59:00.787792+00:00"
-  },
   {
    "fp": "cyclospora deadly people",
    "title": "Why cyclospora can be deadly for some people",
@@ -3201,11 +3189,21 @@
    "title": "British Columbia to get federal assistance as wildfire forces evacuations",
    "source": "Reuters World",
    "at": "2026-08-09T15:48:19.175184+00:00"
+  },
+  {
+   "fp": "arabia aramco attack backed houthis iran port refinery saudi",
+   "title": "Iran-backed Houthis attack Aramco refinery in Saudi Arabia, Red Sea port",
+   "source": "New York Post",
+   "at": "2026-08-09T16:25:31.848893+00:00"
+  },
+  {
+   "fp": "boat crash deadly doomed grim harbor hours including killed photos pulled show york",
+   "title": "Grim photos show doomed boat pulled from New York Harbor hours after deadly crash killed 2, including tot",
+   "source": "New York Post",
+   "at": "2026-08-09T16:25:33.583468+00:00"
   }
  ],
  "titles": [
-  "congo eastern ebola fastest growing kills outbreak surges",
-  "alert eruption erupts evacuates fuego guatemala hundreds villagers volcano",
   "cyclospora deadly people",
   "denies hormuz iran president resign strait talks threatening",
   "chipotle health investigate jalape officials outbreak pulls restaurants salmonella",
@@ -3603,6 +3601,8 @@
   "astronauts forgotten mission nasa once planned send venus",
   "case defeats democratic hawaii house primary progressive rival",
   "assassination candidate case charges ecuador minister presidential",
-  "assistance british columbia evacuations federal forces wildfire"
+  "assistance british columbia evacuations federal forces wildfire",
+  "arabia aramco attack backed houthis iran port refinery saudi",
+  "boat crash deadly doomed grim harbor hours including killed photos pulled show york"
  ]
 }
