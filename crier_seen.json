@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/aug/01/first-australian-mass-mortality-event-suspected-as-deadly-bird-flu-virus-rapidly-escalates-among-native-birds",
-  "https://nypost.com/?post_type=article&p=40150891",
-  "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
-  "https://www.bbc.co.uk/news/articles/ce973yvk7pko#0",
-  "CBMimwFBVV95cUxQU2FIOWIzSk9OeHRja3Jtc09YOG5Rb0pOWmVvTFlITGdJRXZlejE1RXFmTzdtb1ZrNTN1c1BiODV4dGF4d0s2R2V4RXQ5ZlhwczdxZnZlU3E2VGpnSTRFUzVxUk1wYmZiMExHNF9UZmk4WWtNNU9wamswVzdoZ2l0eVc5cmhxaHZpQ3RsUGlIeUJ0N05OTkRZbHpvVQ",
-  "CBMikwFBVV95cUxOSnlUUmF3WUJfaG9nWXdGdGVqakY5UFB2T1BQQmFHQzRCRjd0TXFBSDdlQzdVVG5jQU1xRm8wMXR1bWhFZThuWVhiMHo4ZXJVdU9YTHUwb3VyWXBLX0R6dXFWLWtDanFDVzBES05tX200V1h0Z2FSOEt0TWtCalg4OXAtRGNwRkt6NjgzcEpDY1M2SDg",
   "https://www.washingtonexaminer.com/?p=4668736",
   "CBMingFBVV95cUxOZzdxMHNMWnZqYktyTy1jVEhaRGh5ZjBwdjR5ZWcySjNMS0I5SVU0QU15WUdiNEhXMmxveV9WSWg0endtTjVKRE1JQkF6R3h6RWZ1LVJXWFdpT0pDRGNjVWlPdW9qYlVLNldkM2hJWUFtRjJiQnpNeXM4MU52YzlMRWk1VGFsamNkRnZFUUhZQlBKRlF2b3BKZVBRZXM0Zw",
   "https://www.npr.org/2026/08/01/nx-s1-5904608/michigan-primary-haley-stevens-abdul-el-sayed-democrats",
@@ -799,45 +793,15 @@
   "https://www.theguardian.com/australia-news/2026/aug/10/new-head-australian-trade-union-movement-melissa-donnelly-sally-mcmanus-steps-down",
   "https://www.bbc.co.uk/news/articles/cvgx1kpz17go#1",
   "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
-  "CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk"
+  "CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk",
+  "https://www.washingtonexaminer.com/?p=4679545",
+  "CBMisgFBVV95cUxOWXMwbFhiWVNTUHpsQUlLcHhEUkhSVTZMRnRVblMySC1fMVJDa0VKZW0zWmE1MlRnRFdGaXZfRTBQZkgzLXN2TzBFV2h4TVFldUZDbi1JUkI4RzB2VF9KU0JRVHdoZXc1NGtqT2FBUjR3MWp0VmstSFgxSE5ERXFmY0lTTFNNblh1OEJFaHlVb01xNE9lYjJEcXlNVnFwQzZ2TGI2MnlIS3RTamRnZzRVOUZR",
+  "CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ",
+  "CBMi0gFBVV95cUxOTVV5UnQ5MDEtWHg2dW9rS2ZQUnBVMjBpWUpWaExpTmxyeVRFcjFwUlhPNXQ0WEd3ejk1NVV4TEFpMkRNNmZ0M2szNlY4cUtpQktFTjBQY1J4Rk1UZzVSQ3pldzdIQ3BzY1E5YmNRUVRMQnhoazJfU1ptU19IamtRbVFnZnRRNkJwR1BlekljbkpaZVRJdnZTeEQwVnpUTDBBS1dIWGZNNWpIM09UbDFCel9nYnN4RkoxU1liTU4zRUI5NDZfQmdfZjNPOXJQbmU1Vmc",
+  "CBMiZ0FVX3lxTE5LVmpHckN0TEFtcFNBVld6WHJHZUdZTUkzQWJ1dkZjdjU5aUc2YUhENE9pem9lWU92bnk1ZjJYOFlXcFU4QUdHd1UyWFhGR2h1TkpsZ1lWcmxLWTh2U0RLN1Jkd2hYQzQ",
+  "CBMisgFBVV95cUxNTGpaWVF2U0MtYkg1LWp3SHI4QmFQMkdONFhaNFE4MU40QlJuMEVVcEg3cmRLcUJOUjI3Y1RKa1B2UHFWaW5oazNNdzEyUFdCTWpoZVFjRWt0Q05MQWJEbFhOeFBqNXVlYlZkRTFpNHVOa2tqb2ZwdEN5anpaXzNQbVFvbk1jdXZNMk5ocVNXaks1ZkYycGU1ckN2LUEtbndEd1BNZ0ZFMFFoVmtaTl9tdW5B"
  ],
  "posts": [
-  {
-   "fp": "anger august doesn exit scrambles senate strategy trump",
-   "title": "Senate GOP scrambles for August exit strategy that doesn't anger Trump",
-   "source": "The Hill",
-   "at": "2026-08-05T11:21:00.547027+00:00"
-  },
-  {
-   "fp": "allegedly been clown crazy dressed elderly eyed killed looking teen whispered",
-   "title": "Crazy-eyed teen dressed as clown allegedly killed elderly man \u2014 and whispered \u2018I\u2019ve been looking for you\u2019",
-   "source": "New York Post",
-   "at": "2026-08-05T12:18:39.026732+00:00"
-  },
-  {
-   "fp": "badly director drone explosion factory injured russian",
-   "title": "Russian drone factory director badly injured in car explosion",
-   "source": "AP",
-   "at": "2026-08-05T12:18:40.744436+00:00"
-  },
-  {
-   "fp": "14th becomes british gallardos rescued spain wildfires woman",
-   "title": "Rescued British woman becomes 14th to die after Los Gallardos wildfires in Spain",
-   "source": "Sky News",
-   "at": "2026-08-05T12:18:42.516377+00:00"
-  },
-  {
-   "fp": "andy breaking burnham mold transatlantic",
-   "title": "Andy Burnham is breaking the transatlantic mold",
-   "source": "The Hill",
-   "at": "2026-08-05T12:18:44.401143+00:00"
-  },
-  {
-   "fp": "botched deadly legionnaires mamdani outbreak team",
-   "title": "Why Mamdani\u2019s team botched the deadly Legionnaires\u2019 outbreak",
-   "source": "New York Post",
-   "at": "2026-08-05T12:18:46.180059+00:00"
-  },
   {
    "fp": "hitting learn moon rocket scientists spacex stray",
    "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
@@ -3201,15 +3165,45 @@
    "title": "Ukrainian drone attack on a Russian city kills 13, officials say, with a refinery reportedly hit",
    "source": "AP",
    "at": "2026-08-10T12:01:01.873175+00:00"
+  },
+  {
+   "fp": "agent billion broke congress containment just needs response",
+   "title": "An AI agent just broke containment. Congress needs a $3 billion response",
+   "source": "Washington Examiner",
+   "at": "2026-08-10T13:06:42.328112+00:00"
+  },
+  {
+   "fp": "carolina decision expect graham lindsey notes primary replace south special",
+   "title": "AP Decision Notes: What to expect in South Carolina\u2019s special primary to replace Sen. Lindsey Graham",
+   "source": "AP",
+   "at": "2026-08-10T13:06:44.134595+00:00"
+  },
+  {
+   "fp": "futures hormuz inch markets monitor nasdaq situation",
+   "title": "S&P 500, Nasdaq futures inch up as markets monitor Hormuz situation",
+   "source": "Reuters",
+   "at": "2026-08-10T13:06:45.933994+00:00"
+  },
+  {
+   "fp": "backed evasion hottest morning network report risk russia sanctions startup state",
+   "title": "The Morning Risk Report: Russia\u2019s Hottest Startup Is a State-Backed Sanctions Evasion Network",
+   "source": "WSJ",
+   "at": "2026-08-10T13:06:47.731143+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-08-10T13:06:49.639806+00:00"
+  },
+  {
+   "fp": "friday investors retail shares sold spacex time",
+   "title": "Retail investors sold SpaceX shares for first time on Friday",
+   "source": "Reuters",
+   "at": "2026-08-10T13:06:51.375709+00:00"
   }
  ],
  "titles": [
-  "anger august doesn exit scrambles senate strategy trump",
-  "allegedly been clown crazy dressed elderly eyed killed looking teen whispered",
-  "badly director drone explosion factory injured russian",
-  "14th becomes british gallardos rescued spain wildfires woman",
-  "andy breaking burnham mold transatlantic",
-  "botched deadly legionnaires mamdani outbreak team",
   "hitting learn moon rocket scientists spacex stray",
   "edition journal print street wall",
   "achieve draft militants peace reintegrate turkey unveils",
@@ -3603,6 +3597,12 @@
   "australian down head mcmanus movement named sally steps trade union",
   "ancient coast discovered roman shipwreck sicily",
   "alleged arson attack farage home live murder police politics probe revived welcomes widdecombe",
-  "attack city drone kills officials refinery reportedly russian ukrainian"
+  "attack city drone kills officials refinery reportedly russian ukrainian",
+  "agent billion broke congress containment just needs response",
+  "carolina decision expect graham lindsey notes primary replace south special",
+  "futures hormuz inch markets monitor nasdaq situation",
+  "backed evasion hottest morning network report risk russia sanctions startup state",
+  "edition journal print street wall",
+  "friday investors retail shares sold spacex time"
  ]
 }
