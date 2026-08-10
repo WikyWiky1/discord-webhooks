@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4671120",
-  "https://nypost.com/?post_type=article&p=40143187",
   "https://nypost.com/?post_type=article&p=40144207",
   "https://thehill.com/?p=6002807",
   "https://www.washingtonexaminer.com/?p=4671133",
@@ -799,21 +797,11 @@
   "CBMikAFBVV95cUxPMjJ5UUtGSnBqYXN1Zjh2aG5TM3RlaVMwbWNHeWk4ZDBwcW5XVVdzY3RjSWsyYzljWmhGYmlGXzZ3Xy1vRDFtRUM0RnIwTzRkQTVmNzBBSjBTYzJQeGE5emhKODdhT2t2aUFqZ0lKcDFCSlVkWnM5bGpUTWlpeGtqbkQ1UlBteEZhUmxXYVFhV1o",
   "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
   "CBMiZkFVX3lxTE81U3hBUmxxQmx3UW9PeGtFT21pdVFlTVFJU2UwdDU2LUtEbHIzRVd1M3lwYmpha0wyTmNZZmdJLVNpTjVpNGloNGY4ZGpqcVNqZVl5SXY0ZGtuSTFzeElQUjh3MFByQQ",
-  "https://pagesix.com/?post_type=article&p=9100342"
+  "https://pagesix.com/?post_type=article&p=9100342",
+  "CBMimAFBVV95cUxObEJ3UVU2VTBEaDBBQ3JxOGZiVGc4SjhUaG9BUkdNUjlXcmJiNWtoNVFPc1ZEUkxIZENjMzVvVkg5UFMyTnF2eEI4MW1ESV9YenR4V2RieVAwMEFZbS1jdmtkZHBUM0lYeGdpZkx2VUd0MGFaTjVsZG10TU12dXpLVndJazZxNEx4WWhUNHhqckFBaUpSWFpyUA",
+  "CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw"
  ],
  "posts": [
-  {
-   "fp": "drones front injured july killed line russian seriously troops ukrainian zelensky",
-   "title": "Ukrainian drones seriously injured or killed more than 30,000 front-line Russian troops in July: Zelensky",
-   "source": "Washington Examiner",
-   "at": "2026-08-04T22:30:30.225167+00:00"
-  },
-  {
-   "fp": "attack because doing immigration markwayne mullin right telling truth under",
-   "title": "Markwayne Mullin is under attack because he\u2019s doing his job right \u2014 and telling the truth on immigration",
-   "source": "New York Post",
-   "at": "2026-08-04T22:30:31.885236+00:00"
-  },
   {
    "fp": "chipotle jalapenos outbreak prompts pull restaurants salmonella",
    "title": "Salmonella outbreak prompts Chipotle to pull jalapenos from some restaurants",
@@ -3201,11 +3189,21 @@
    "title": "\u2018Dukes of Hazzard\u2019 actor Ben Jones dead at 84",
    "source": "New York Post",
    "at": "2026-08-10T01:10:52.202764+00:00"
+  },
+  {
+   "fp": "electronics metals nikkei rises stocks",
+   "title": "Nikkei Rises 1.2%, Led by Electronics, Metals Stocks",
+   "source": "WSJ",
+   "at": "2026-08-10T01:46:19.059320+00:00"
+  },
+  {
+   "fp": "asia confusion edge gulf higher stocks",
+   "title": "Asia stocks edge higher, oil up amid Gulf confusion",
+   "source": "Reuters",
+   "at": "2026-08-10T01:46:20.846133+00:00"
   }
  ],
  "titles": [
-  "drones front injured july killed line russian seriously troops ukrainian zelensky",
-  "attack because doing immigration markwayne mullin right telling truth under",
   "chipotle jalapenos outbreak prompts pull restaurants salmonella",
   "evacuations fuego guatemala intensifies preventive prompts volcano",
   "bears breaking darnell deal emerging four give million record star tackle wright year",
@@ -3603,6 +3601,8 @@
   "across burn canada evacuated residents western wildfires",
   "battle canada crews western wildfires",
   "battle confront firefighters flames intense spain wildfire",
-  "actor dead dukes hazzard jones"
+  "actor dead dukes hazzard jones",
+  "electronics metals nikkei rises stocks",
+  "asia confusion edge gulf higher stocks"
  ]
 }
