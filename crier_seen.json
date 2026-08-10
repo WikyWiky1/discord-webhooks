@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4671751",
-  "https://nypost.com/?post_type=article&p=40151223",
   "https://www.theguardian.com/world/2026/aug/01/first-australian-mass-mortality-event-suspected-as-deadly-bird-flu-virus-rapidly-escalates-among-native-birds",
   "https://nypost.com/?post_type=article&p=40150891",
   "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/business/2026/aug/10/great-britain-emergency-power-cuts-grid-neso-blackouts",
   "https://www.bbc.co.uk/news/articles/cqx7lje8l79o#0",
   "https://www.theguardian.com/australia-news/2026/aug/10/new-head-australian-trade-union-movement-melissa-donnelly-sally-mcmanus-steps-down",
-  "https://www.bbc.co.uk/news/articles/cvgx1kpz17go#1"
+  "https://www.bbc.co.uk/news/articles/cvgx1kpz17go#1",
+  "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
+  "CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk"
  ],
  "posts": [
-  {
-   "fp": "drag futures hopes inch mideast offset spacex",
-   "title": "S&P 500, Dow futures inch up as MidEast hopes offset SpaceX, AMD drag",
-   "source": "Reuters",
-   "at": "2026-08-05T11:20:57.154825+00:00"
-  },
-  {
-   "fp": "both democrats flexes moderate power primary progressives races trump wins",
-   "title": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
-   "source": "NPR News",
-   "at": "2026-08-05T11:20:58.894678+00:00"
-  },
   {
    "fp": "anger august doesn exit scrambles senate strategy trump",
    "title": "Senate GOP scrambles for August exit strategy that doesn't anger Trump",
@@ -3201,11 +3189,21 @@
    "title": "Ancient Roman shipwreck discovered off Sicily coast",
    "source": "BBC World",
    "at": "2026-08-10T11:52:19.277978+00:00"
+  },
+  {
+   "fp": "alleged arson attack farage home live murder police politics probe revived welcomes widdecombe",
+   "title": "Farage welcomes revived police probe into alleged arson attack at his home after Widdecombe murder \u2013 UK politics live",
+   "source": "Guardian World",
+   "at": "2026-08-10T12:00:59.427594+00:00"
+  },
+  {
+   "fp": "attack city drone kills officials refinery reportedly russian ukrainian",
+   "title": "Ukrainian drone attack on a Russian city kills 13, officials say, with a refinery reportedly hit",
+   "source": "AP",
+   "at": "2026-08-10T12:01:01.873175+00:00"
   }
  ],
  "titles": [
-  "drag futures hopes inch mideast offset spacex",
-  "both democrats flexes moderate power primary progressives races trump wins",
   "anger august doesn exit scrambles senate strategy trump",
   "allegedly been clown crazy dressed elderly eyed killed looking teen whispered",
   "badly director drone explosion factory injured russian",
@@ -3603,6 +3601,8 @@
   "britain cuts emergency face great millions notice power short",
   "allegedly confesses former kills official thai youtube",
   "australian down head mcmanus movement named sally steps trade union",
-  "ancient coast discovered roman shipwreck sicily"
+  "ancient coast discovered roman shipwreck sicily",
+  "alleged arson attack farage home live murder police politics probe revived welcomes widdecombe",
+  "attack city drone kills officials refinery reportedly russian ukrainian"
  ]
 }
