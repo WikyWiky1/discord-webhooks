@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40156231",
-  "CBMiVkFVX3lxTE9vUnR4QUdpd3FlRGJVMFlpOXUtNWFYS2JGbUk5REtjM2VtY3ktaDNfZERCZmhHLTFUazFBT1ZubWpNVTlPbllZT21jalZHdHhUbURrdTBR",
   "https://www.bbc.co.uk/news/articles/cgk4rdley0ko#1",
   "CBMixAFBVV95cUxOU211TUJlRDhVUV9BaEFiVG9wY18xdnJ0U1NBZDgtRFZsVTVDN0puSnkyRnk0Mi11Q0RrcV9NalNyY2RxUDNNNjkwM3FnNlVNTkZMcVBVeGF3RHBHNXFqclEtME9JSWxpRHJjRXNMRUgtVlpfYl9lUzlfZ1RsRm1SRXdjMGJsSy1lYzVEWjBFbVNhRHVjenMzWkRfYUUwV3BvRmdSdXBsVnVnaGhxSFV1YXRULWplREx5YVVJcEFFQVZBUEd6",
   "CBMirwFBVV95cUxOazhQeWoxdzJ5NHVoZVVxZU1HNG5FU3I2cWw0ODVya1FiSDVjNUhmUE5mYklNU2JmeHFYWlpvZHN4a0VPN2Yzd1ktc1ZTdm9xQ3BTSVJsTWtkd2l3UjEzMFBTNWRGZEhYUTZ6U21vUldNUnRPVXRtdVBPME9DZS0tQUpZaElDVWoyYmpOWjBYa2NvLUR6anhuYU5BSHZBOExLMGd5bl9qMjQxVjhIakpN",
@@ -799,21 +797,11 @@
   "https://thehill.com/?p=6021261",
   "https://thehill.com/?p=6021244",
   "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles",
-  "CBMinwFBVV95cUxQZUEzSDdKQmM1cmFtSUpxRGRqTVdWelRGT2NHVUNDZV9JaExndU1UNXdocmxpMXVRRVNUYmtLSlhpdXlTLU9xZEphcEo1eUM2a09Zbk9LYlZwQmltM1l2MkVzWFU3Y3J2WDdJdGx0YmROcjM3MTJRUzJndi1QZ2ppdDRuUmJCTHFOMFJTQl9JOTdvVlgxb3B5WWVseUhOWm8"
+  "CBMinwFBVV95cUxQZUEzSDdKQmM1cmFtSUpxRGRqTVdWelRGT2NHVUNDZV9JaExndU1UNXdocmxpMXVRRVNUYmtLSlhpdXlTLU9xZEphcEo1eUM2a09Zbk9LYlZwQmltM1l2MkVzWFU3Y3J2WDdJdGx0YmROcjM3MTJRUzJndi1QZ2ppdDRuUmJCTHFOMFJTQl9JOTdvVlgxb3B5WWVseUhOWm8",
+  "https://nypost.com/?post_type=article&p=40275655",
+  "https://www.theguardian.com/us-news/2026/aug/10/man-charged-new-york-harbor-boat-capsizing"
  ],
  "posts": [
-  {
-   "fp": "alleged beach chaos children crowded descends drone incident including kills russian ukrainian",
-   "title": "Crowded Russian beach descends into chaos after alleged Ukrainian drone incident kills 7, including 4 children",
-   "source": "Fox News World",
-   "at": "2026-08-06T03:41:53.464175+00:00"
-  },
-  {
-   "fp": "evacuated firefighters handle remain spokane tens thousands wildfires",
-   "title": "Firefighters get a handle on Spokane wildfires as tens of thousands remain evacuated",
-   "source": "AP",
-   "at": "2026-08-06T03:41:55.111869+00:00"
-  },
   {
    "fp": "earnings east higher inch india middle open peace prospects shares",
    "title": "India shares inch higher at the open on Middle East peace prospects, earnings",
@@ -3201,11 +3189,21 @@
    "title": "Nigerians' cost of living pain deepens as election looms",
    "source": "Reuters",
    "at": "2026-08-10T21:40:38.522326+00:00"
+  },
+  {
+   "fp": "apart clancy drugs hours kids killed lawyer lindsay prescribed shrink spends tearing",
+   "title": "Lawyer spends hours tearing apart shrink who prescribed Lindsay Clancy drugs before she killed 3 kids",
+   "source": "New York Post",
+   "at": "2026-08-10T22:17:11.712153+00:00"
+  },
+  {
+   "fp": "boat capsizing charges faces federal infant killed mother operator york",
+   "title": "Boat operator faces federal charges after mother and infant killed in New York capsizing",
+   "source": "Guardian World",
+   "at": "2026-08-10T22:17:13.389661+00:00"
   }
  ],
  "titles": [
-  "alleged beach chaos children crowded descends drone incident including kills russian ukrainian",
-  "evacuated firefighters handle remain spokane tens thousands wildfires",
   "earnings east higher inch india middle open peace prospects shares",
   "approves arduous moderna mrna review vaccine",
   "hasan michigan minimizes piker race role sayed senate streamer",
@@ -3603,6 +3601,8 @@
   "blasts cassidy changes expertise make order saying trump vaccine",
   "bill bipartisan graham house introduce members russia sanctions",
   "attempting break order override schedule shots signs trump vaccine",
-  "cost deepens election living looms nigerians pain"
+  "cost deepens election living looms nigerians pain",
+  "apart clancy drugs hours kids killed lawyer lindsay prescribed shrink spends tearing",
+  "boat capsizing charges faces federal infant killed mother operator york"
  ]
 }
