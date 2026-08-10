@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4671133",
-  "CBMikAFBVV95cUxQRmR2alh4WjZraXJzQWp1OVdTX25VTUZKU2FnNUp4VG9hU01mV2tMd3RCMTRDVzE1YUtzdkF4WFh0WnA1bGdwbVR0X3V0UjQ1VURXUTNqeG56RGdoVEU1RTRsT3VFaGVwX3kxTk9Zcm1mMXRnRi1MMWRuR09WaEsxeWVDemRwRjlnYVUzUEVad0M",
   "https://www.theguardian.com/society/2026/jul/31/high-court-clinical-trial-puberty-blockers-children",
   "CBMijgFBVV95cUxOaUhEMkZFTG9SNDhsZVp3OVBrWE9qMzNkTVdJRkxSRWozV0pnZ3c4bmV3ampEQm1rNVRtRk8zR3EyeThSN0VvNWJhaGJBdjVlMkdQRE96TTd0R2I2cDRsdHFrRmFwcmVXbjhyLXVYYlluUnI0aDRnU1YzclRkeXFYX0NoRFhvN282N1FUSElR",
   "CBMiswFBVV95cUxNaF8wLXZZWk1GZHRtTHN1aXhYWFAxTFMzd3hncG1TNDFBYlZ2b0JMNWVicmJaeHlEaUNtZ0tNanVPdmZhSkgtR3o3TXhlZUFYMEJZc2F2YmxrWExKTTJubmczbWluN3prdzZOcDNLX3l2OFZfdDNVWmR5dzR4MnBNb3JBODNoRXVydGVpbjYyU0tSeXF6LWtrWWgzbFBROFJXdmZQakFTRlE0dzRJdnRtT2E5VQ",
@@ -799,21 +797,11 @@
   "CBMimAFBVV95cUxObEJ3UVU2VTBEaDBBQ3JxOGZiVGc4SjhUaG9BUkdNUjlXcmJiNWtoNVFPc1ZEUkxIZENjMzVvVkg5UFMyTnF2eEI4MW1ESV9YenR4V2RieVAwMEFZbS1jdmtkZHBUM0lYeGdpZkx2VUd0MGFaTjVsZG10TU12dXpLVndJazZxNEx4WWhUNHhqckFBaUpSWFpyUA",
   "CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw",
   "CBMiwAFBVV95cUxOcnozSHhXbFZBdy04TDRTVjVRYzJIUVZiVlpSTUJjbkVfYTB6UXdYNUt1ZkgzbGt3UG1WdjVNSUJwNWpCZVBtV1lVeWxWNXAyYzNkb0Y3VWxCTjZLUWkwejBBNDRzY2o1TExEanRBNDNDc1hVa1M0aG94V1V4T3JlVDZGSXhsUkR6MmZsTGppc0VMMUs2SVRrM0dCaEVPX2U5N3A4TGVuZmxLQjNoSUd0WTBUSDhzTFN2bjA1X2U2UXg",
-  "https://nypost.com/?post_type=article&p=40264931"
+  "https://nypost.com/?post_type=article&p=40264931",
+  "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
+  "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations"
  ],
  "posts": [
-  {
-   "fp": "bears breaking darnell deal emerging four give million record star tackle wright year",
-   "title": "Bears give emerging star tackle Darnell Wright record-breaking four-year, $116 million deal",
-   "source": "New York Post",
-   "at": "2026-08-04T23:37:18.050337+00:00"
-  },
-  {
-   "fp": "buying cyclosporiasis exclusive iceberg lettuce mexico outbreak stopped sysco",
-   "title": "EXCLUSIVE: Sysco has stopped buying iceberg lettuce from Mexico amid US cyclosporiasis outbreak, CEO says",
-   "source": "Reuters",
-   "at": "2026-08-05T01:01:42.179423+00:00"
-  },
   {
    "fp": "acres evacuations expand fast fire flames force gann grows moving",
    "title": "Gann Fire grows to 6,400 acres as fast-moving flames force evacuations to expand",
@@ -3201,11 +3189,21 @@
    "title": "Ex-PGA golfer Matt McQuillan dead at 45",
    "source": "New York Post",
    "at": "2026-08-10T03:19:15.803149+00:00"
+  },
+  {
+   "fp": "atomic city generation grounds idaho next nuclear proving reactors view",
+   "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
+   "source": "NPR News",
+   "at": "2026-08-10T04:58:31.396987+00:00"
+  },
+  {
+   "fp": "china dolphin dumped evacuated million people rainfall record shanghai typhoon",
+   "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
+   "source": "Guardian World",
+   "at": "2026-08-10T04:58:33.149234+00:00"
   }
  ],
  "titles": [
-  "bears breaking darnell deal emerging four give million record star tackle wright year",
-  "buying cyclosporiasis exclusive iceberg lettuce mexico outbreak stopped sysco",
   "acres evacuations expand fast fire flames force gann grows moving",
   "bell bush comeback cori fails house missouri primary wesley wins",
   "carolina debate four senate south takeaways",
@@ -3603,6 +3601,8 @@
   "electronics metals nikkei rises stocks",
   "asia confusion edge gulf higher stocks",
   "farms implicated jalape outbreak products recalls salmonella taylor",
-  "dead golfer matt mcquillan"
+  "dead golfer matt mcquillan",
+  "atomic city generation grounds idaho next nuclear proving reactors view",
+  "china dolphin dumped evacuated million people rainfall record shanghai typhoon"
  ]
 }
