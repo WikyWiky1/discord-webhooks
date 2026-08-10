@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/jul/31/sonya-massey-shooting-prison",
   "CBMimAFBVV95cUxPMlFKQUROWXFPbFlVcDdDRlZZS0ZLMHBMY1VaSWV0TzIwQnNpVTFrYVZabzZ0Zjh4RVplRHV5NmtyamgzQzB2VVFZMXh4ekNvcXVETm80anNhekVDTWFzaHdMZ3MxMEdkVFh4UnFRd2cwVmJxUG9LUTZfejY4UmdRVHBBU2FZbGtyOWF0dm1vNEFYQjd6R2VyRA",
   "CBMikgFBVV95cUxOaW1WRldUNkRReDloMURFREdkUXd3bDFHbnJnSFctOHlHa0UyWnRrdzQtYlU1MnF6Mkdmam1uRDJhajdOeGxfOGlGb0h4Yy1JQVpjRFNGRFl0S0c1bEdOMTk2bFR1Q2doZVE1OTlPM2hXc3VJS0JxWTFvMHcxYkZJeWRvcFRNMFc5Ni1kNGpNREpjZw",
   "CBMitgFBVV95cUxORmxlakE4Z2pCMEFKODRZQXBFdUNKUTEtR3l1YU56V0dlck1nUkxrZjQyVHJCbGU3UzVvVTFXcDk4OV9FMlNSQS1sTHc3a2hKRUZLRWhkVlAyT1F2MGpIZ2pnampUdWR3MHp6aXNyUDZxd0k5VG9hb0RVNUlBem92OExqYWpfTUJZNjNmOGg1SnNWQlJrZlNvWHhGczliWGdLeF9RUkx2U3pHaHNZZ2JPMHlNbHUyQQ",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40265985",
   "https://nypost.com/?post_type=article&p=40265643",
   "CBMiiwFBVV95cUxNeWplZUljbnc5UmNrV3ZlYmNVRW50SVFncXdIVG5MLWlYckhhbVVMVEpjOHFWTlNva0tlM19oX2tLNGpkVWQ2V001Rm1UeHg4R09GOGUtb1hVTTY1NW5ndUJpazdhNzZLa0lmQnNjYk9EbnRuTmFROHBGYmpmNmt2NlhaLUV0eXkxNmRz",
-  "CBMipwFBVV95cUxNN3BPcUNqNXFzNXgza1JEODlIbVRlRE9VM1d0Y1gyeEl5c1FaTl9qTW1oR3NVczNnRGc4U1M4OVIwQW9BR1lDc2FjSkEweUlUQXZVQUJhWVBEajdBMy1EZHM4eUFUSjVMT1cxaklmclk5YnVjcUJNcVdjOWNEQXVfMTlMeTdIYmxIVUlLZkw1NHd5cEtfc1NtUmVLei1SdGxuOGQzSno0RQ"
+  "CBMipwFBVV95cUxNN3BPcUNqNXFzNXgza1JEODlIbVRlRE9VM1d0Y1gyeEl5c1FaTl9qTW1oR3NVczNnRGc4U1M4OVIwQW9BR1lDc2FjSkEweUlUQXZVQUJhWVBEajdBMy1EZHM4eUFUSjVMT1cxaklmclk5YnVjcUJNcVdjOWNEQXVfMTlMeTdIYmxIVUlLZkw1NHd5cEtfc1NtUmVLei1SdGxuOGQzSno0RQ",
+  "CBMiwgFBVV95cUxOWWEzU2g0WHZKaTFWSUtaNmZ2cHY1dWlHM1MwYmxLQzZuODlIQnZXUnduMTZXZl9GcnhWbGJGaDBBZWhaUVRjdWhkZWJ2bFNWLXZJRlU1RkFuVGdBRkZBdGJLR1JoY19QT3ZnUFJ0U0FJUmh4enlCZjVfdVRELTBmVEMwSm4xVkVsZlFZWnlNVXZiNzFHalpVZnJFZVhTMUx6UXktTjh0MzRhb3YzXzFZU3U4a1hRNGp6NlBsanZoN1hjdw"
  ],
  "posts": [
-  {
-   "fp": "call close holds lead michigan narrow primary race sayed senate",
-   "title": "El-Sayed holds narrow lead in Michigan Senate primary but race too close to call",
-   "source": "Guardian World",
-   "at": "2026-08-05T05:45:50.908043+00:00"
-  },
   {
    "fp": "bell bush cori democratic former missouri primary rematch wesley wins",
    "title": "Missouri US Rep. Wesley Bell wins a Democratic primary rematch against former Rep. Cori Bush",
@@ -3201,10 +3195,15 @@
    "title": "Despite everything, the UK stock market keeps going up",
    "source": "Telegraph",
    "at": "2026-08-10T07:40:48.616716+00:00"
+  },
+  {
+   "fp": "city drone kills mayor nizhnekamsk russian strikes ukraine",
+   "title": "Ukraine kills 12 in drone strikes on Russian city of Nizhnekamsk, mayor says",
+   "source": "Reuters",
+   "at": "2026-08-10T08:06:01.600266+00:00"
   }
  ],
  "titles": [
-  "call close holds lead michigan narrow primary race sayed senate",
   "bell bush cori democratic former missouri primary rematch wesley wins",
   "backed falls hassan house mcdonald michigan primary rivet short take trump",
   "democratic leftward michigan party primary puts senate shift test",
@@ -3603,6 +3602,7 @@
   "binface britain count election parliament plan seat seeks wackiest",
   "accidentally economist jobs justin live report segment swallowing wings wolfers",
   "drive earnings european indexes markets rise",
-  "despite everything going keeps market stock"
+  "despite everything going keeps market stock",
+  "city drone kills mayor nizhnekamsk russian strikes ukraine"
  ]
 }
