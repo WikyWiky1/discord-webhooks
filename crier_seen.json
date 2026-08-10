@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40150873",
-  "https://nypost.com/?post_type=article&p=40149659",
-  "https://thehill.com/?p=6003372",
-  "https://nypost.com/?post_type=article&p=40149016",
-  "CBMimgFBVV95cUxNSmI3Zk9BZXRZTDU3MnpITWtQWVc1Vnp4cUI0QmpsZE5vOENySzBucS16QnkxUklOOUQ5RVpoZFhlUFlOLWZtc1o0Z2o0Q3hXUjNHcW9MV3U4S29MX2NCWkpoVnljUDdrb0hvTzQyUzNRbFVYRG9nLUFXa2Z5QlpWaXRLVFF0STRIcDNLbTN0dHlJd1BwRGJjWUtn",
   "CBMinwFBVV95cUxOMTlMV09QUXN5bG9WcDh0c1g5ay1ZWFV5b0FjV2JYT3dCSG9UaFRDUDFmc21KLXZZMF9HN0ZRRGxabG9EY0VuVlY4YXBabXEzTXppcUdmWkZrMENTYXJCWVFValF1bUF1S3hJRjZGSVlFMjQyS191blBaV3M5T1ZLOUhfcWp5VFRhSTZiQ2p1MFFfYXYxd2ZaREVzdFlXLXc",
   "https://www.washingtonexaminer.com/?p=4671751",
   "https://nypost.com/?post_type=article&p=40151223",
@@ -799,39 +794,14 @@
   "https://thehill.com/?p=6017781",
   "CBMinAFBVV95cUxPNkpEM1BlSlZXSUZmWnBXOU0tcGVCb3kyRWpQV0gtR3VVR3JraTVKdjYzemxKeS0wYVFYRmplNDlxaUVEU1JsVTJfTVQxZ3Ricy1Wa3dwTUxYWjRrYnRoX0NzQnoyX1F3aEIxVnJWbk9VQkhGNHZFQjktUGxXU0NHd2QtQjZEY3F2YkFFNnNxbTQ1YV9BLVhianAxLUw",
   "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
-  "CBMiqgFBVV95cUxPNHVGZzhaR3JFOXhKeF84Qy14bHBBRkphM3RuQ250MTN4Y0NLT1l1RldGUDVRTDlRZ3ZTcmRBSmRMT0hkN3d1aWxhODNyMjVsRXU0NllWVUUtLS1SbzRhZDNuTkJQY0duMnJJanBfS3pabkI4MFBVeWk3WHVwZDFMMEZzV1g3UDFPZEFHV010NnA2ZG5oZ1BUMy1ZdE8zMmpnODRaMHR5YnN2QQ"
+  "CBMiqgFBVV95cUxPNHVGZzhaR3JFOXhKeF84Qy14bHBBRkphM3RuQ250MTN4Y0NLT1l1RldGUDVRTDlRZ3ZTcmRBSmRMT0hkN3d1aWxhODNyMjVsRXU0NllWVUUtLS1SbzRhZDNuTkJQY0duMnJJanBfS3pabkI4MFBVeWk3WHVwZDFMMEZzV1g3UDFPZEFHV010NnA2ZG5oZ1BUMy1ZdE8zMmpnODRaMHR5YnN2QQ",
+  "CBMilAFBVV95cUxQUkRTYnFESnJsdVFfSTBOWlBFNnVRWkdSTEs1SmVjNndjdXNlZ1FZMGFvVDZaR3Z2RzZiblRlS3RqZ1NtYTluM29Uek9FSEVwYlZFamlHaFRVTlZqSzMyaXRzYnpBZWczWHIwcG44UmZEc0NYbHVjN25Wbi12c1IzZnUwMkk5NEUyb2Q1aVpKQ2JDblZQ",
+  "https://pagesix.com/?post_type=article&p=9100519",
+  "https://www.theguardian.com/business/2026/aug/10/great-britain-emergency-power-cuts-grid-neso-blackouts",
+  "https://www.bbc.co.uk/news/articles/cqx7lje8l79o#0",
+  "https://www.theguardian.com/australia-news/2026/aug/10/new-head-australian-trade-union-movement-melissa-donnelly-sally-mcmanus-steps-down"
  ],
  "posts": [
-  {
-   "fp": "anti attack deadly defences europe kyiv lack live missile rails russian zelenskyy",
-   "title": "Zelenskyy rails at lack of anti-missile defences amid deadly Russian attack on Kyiv \u2013 Europe live",
-   "source": "Guardian World",
-   "at": "2026-08-05T10:13:36.557170+00:00"
-  },
-  {
-   "fp": "alarm bells communist coup democrats mock real trump",
-   "title": "Democrats mock Trump\u2019s alarm bells \u2014 but the DSA\u2019s communist coup is real",
-   "source": "New York Post",
-   "at": "2026-08-05T10:13:38.309026+00:00"
-  },
-  {
-   "fp": "fails intercept kill missiles russian strikes ukraine",
-   "title": "Ukraine fails to intercept any Russian missiles as strikes kill 17",
-   "source": "Telegraph",
-   "at": "2026-08-05T10:13:40.033898+00:00"
-  },
-  {
-   "fp": "drifting last moon rocket since slams space spacex through year",
-   "title": "SpaceX rocket \u2018slams into the moon\u2019 after drifting through space since last year",
-   "source": "New York Post",
-   "at": "2026-08-05T11:20:52.164688+00:00"
-  },
-  {
-   "fp": "chuck conduct drops edwards election ethics finds house inappropriate report scathing",
-   "title": "GOP Rep. Chuck Edwards drops re-election bid after scathing House ethics report finds \u2018inappropriate conduct\u2019",
-   "source": "New York Post",
-   "at": "2026-08-05T11:20:53.841580+00:00"
-  },
   {
    "fp": "early overshadow returns slides spacex spending worries",
    "title": "SpaceX slides as AI spending worries overshadow early returns",
@@ -3201,14 +3171,39 @@
    "title": "AfD on pre-election roll in east Germany, despite economists' scepticism",
    "source": "Reuters",
    "at": "2026-08-10T10:16:17.134676+00:00"
+  },
+  {
+   "fp": "bungalow destroys explosion keynes milton",
+   "title": "Gas explosion destroys Milton Keynes bungalow",
+   "source": "Telegraph",
+   "at": "2026-08-10T11:01:13.998632+00:00"
+  },
+  {
+   "fp": "actress christmas dead moore story tedde",
+   "title": "\u2018A Christmas Story\u2019 actress Tedde Moore dead at 79",
+   "source": "New York Post",
+   "at": "2026-08-10T11:01:15.729705+00:00"
+  },
+  {
+   "fp": "britain cuts emergency face great millions notice power short",
+   "title": "Millions in Great Britain can now face emergency power cuts at short notice",
+   "source": "Guardian World",
+   "at": "2026-08-10T11:01:17.501761+00:00"
+  },
+  {
+   "fp": "allegedly confesses former kills official thai youtube",
+   "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+   "source": "BBC World",
+   "at": "2026-08-10T11:01:19.307306+00:00"
+  },
+  {
+   "fp": "australian down head mcmanus movement named sally steps trade union",
+   "title": "New head of Australian trade union movement named after Sally McManus steps down",
+   "source": "Guardian World",
+   "at": "2026-08-10T11:01:20.993094+00:00"
   }
  ],
  "titles": [
-  "anti attack deadly defences europe kyiv lack live missile rails russian zelenskyy",
-  "alarm bells communist coup democrats mock real trump",
-  "fails intercept kill missiles russian strikes ukraine",
-  "drifting last moon rocket since slams space spacex through year",
-  "chuck conduct drops edwards election ethics finds house inappropriate report scathing",
   "early overshadow returns slides spacex spending worries",
   "drag futures hopes inch mideast offset spacex",
   "both democrats flexes moderate power primary progressives races trump wins",
@@ -3603,6 +3598,11 @@
   "2026 calendar contests left notable primary",
   "breakout fomo fuels pile rally street traders wall",
   "competitive deciders maine race senate voters women",
-  "despite east economists election germany roll scepticism"
+  "despite east economists election germany roll scepticism",
+  "bungalow destroys explosion keynes milton",
+  "actress christmas dead moore story tedde",
+  "britain cuts emergency face great millions notice power short",
+  "allegedly confesses former kills official thai youtube",
+  "australian down head mcmanus movement named sally steps trade union"
  ]
 }
