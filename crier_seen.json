@@ -1,11 +1,5 @@
 {
  "ids": [
-  "CBMixwFBVV95cUxPNzFyTXBvZ1pGeVZXTUlTRWM3VGxjTjd5dXk4Y1RwZUYtaE9adFlFRGNkcU1tNmR6M2lCckhIN2cwMG54RUNiNzNib3RQVWxLd1FqWlY5eVZObDc4b3NCdGlLZi10a214V25teXViTkpCZXBXeDRfazBSOUNJVkZTM1RLcWt5SzUwaURiUUJMcDlOZFJFTkg5NXZXV0ZuakxZanh2YUNVMko3R1pJS3RsUFBsQjNpOXlLcHQwbHJtZ1FZWk9VdDRz",
-  "CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3",
-  "https://www.washingtonexaminer.com/?p=4672053",
-  "https://nypost.com/?post_type=article&p=40154984",
-  "https://nypost.com/?post_type=article&p=40155220",
-  "CBMifkFVX3lxTE9zNWc5elJ0b1BxTkJvZUNQUHA3dE44QTRLYTFxb1lkTHgxT3FpbDdJTTcwNzk4QVcwdE9KcW5wOV9BU0xIdThaMS02d3VTWndKOWFRWXlmNmFleTJlTG5rbm1nTG85OUM4STIyUUt0akp5R3dvU2NLTGJ0LU5lZw",
   "https://nypost.com/?post_type=article&p=40156231",
   "CBMiVkFVX3lxTE9vUnR4QUdpd3FlRGJVMFlpOXUtNWFYS2JGbUk5REtjM2VtY3ktaDNfZERCZmhHLTFUazFBT1ZubWpNVTlPbllZT21jalZHdHhUbURrdTBR",
   "https://www.bbc.co.uk/news/articles/cgk4rdley0ko#1",
@@ -799,45 +793,15 @@
   "CBMiugFBVV95cUxQZUFsdXRzY3NWUURUVmgwcnVOS1RNNTlVRFF4c3FmcWZsMmRscUZpT1dHUWhuT3VxazRTREZxR2s0QTNUM3gyWjlFejhtNFNHQ2hoaGNnVXdXdXQtVVNiX2h0Z1hialZYWmhoVHFUMjdLMUlvZURsRlpRZkhabjB5LUM4SV9mY2lmcHpEM2RMZDB5bVJkdFdEXzlCdGZrMkhUM3JNV0JHazlEYkVCdXNlWVlTN0JyQ1B1bmc",
   "https://nypost.com/?post_type=article&p=40272482",
   "CBMimAFBVV95cUxPS0t1R19FQ1I2SVAyazVxWDhQWE5OdmRReVdMWURwM21Tb0V5OW51RnVKY3FGT19fbEl3dF9CX1ppTzVuYmh6WmI3U1QxVjNxdEpTaWczSjRfS0MxXzM5Szd5RWZDSmcxNGNua0JCMC1XUEZZWUNXU01HaG5BZllKSmpPWDBCMkVGdk1QV0VnTllhaVdITm52Vg",
-  "https://nypost.com/?post_type=article&p=40276490"
+  "https://nypost.com/?post_type=article&p=40276490",
+  "CBMiwwFBVV95cUxPYVA3cEZHOHJhS2FUNV9aSEZ4c21hT0d4a1JycFN4VkF1Mk9VMy1xZnpIOUVlVjE1R1NWZU50M0xKVDdaVmNtV2R1bGtyRDRwR1NkWk1WWHNRVE9KNTBhcmN2cmplSW9kbG9tNGJxc1FsbFdSbHJTa2ZTX0U3elJlMTdsSS1ZTkhSRmhRTk9NY29kUDVZVl9QWV9pUnhZLWdKVGRjaXBSOGV4SlVyYjVBM0dBaXNGWkZ2XzUxTjFPdzQ4ejQ",
+  "CBMitwFBVV95cUxPZ1Zsc2lob0pqTjZQV2hSLVFPanZTOWpRSzA5Ylh2ak9zSmFHanRnQndTZ2EyMzVLTlNDbUE3dHA5RmVSUmJ3RUlBUXJXclgwY0IxaVBrS3BJbF83ZzYwa0pQNGR2THpVb0pEb2V3bzg3dm1KLXhNU3J6RFQ3dVFJZ0xCR2NtaFlPLVhkYmtPM2dGOVlCVkR4R1NyZ05hYWhTdGVtemRUU0ZuN2RFY3lXWnhsbzduTUE",
+  "https://thehill.com/?p=6021261",
+  "https://thehill.com/?p=6021244",
+  "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles",
+  "CBMinwFBVV95cUxQZUEzSDdKQmM1cmFtSUpxRGRqTVdWelRGT2NHVUNDZV9JaExndU1UNXdocmxpMXVRRVNUYmtLSlhpdXlTLU9xZEphcEo1eUM2a09Zbk9LYlZwQmltM1l2MkVzWFU3Y3J2WDdJdGx0YmROcjM3MTJRUzJndi1QZ2ppdDRuUmJCTHFOMFJTQl9JOTdvVlgxb3B5WWVseUhOWm8"
  ],
  "posts": [
-  {
-   "fp": "exceptional global performance stage street wall",
-   "title": "Wall Street\u2019s performance isn\u2019t so \u2018exceptional\u2019 on the global stage",
-   "source": "Reuters World",
-   "at": "2026-08-06T02:32:12.651289+00:00"
-  },
-  {
-   "fp": "copy covid exclusive fauci obtained panel phone senate",
-   "title": "Exclusive | Senate Panel Says It Has Obtained Copy of Fauci\u2019s Covid-Era Phone",
-   "source": "WSJ",
-   "at": "2026-08-06T02:32:14.371550+00:00"
-  },
-  {
-   "fp": "bill fight hemp spending trips",
-   "title": "Hemp fight trips up spending bill",
-   "source": "The Hill",
-   "at": "2026-08-06T02:32:16.351726+00:00"
-  },
-  {
-   "fp": "jalape linked outbreak salmonella warns",
-   "title": "CDC warns of Salmonella outbreak linked to jalape\u00f1os",
-   "source": "The Hill",
-   "at": "2026-08-06T03:41:48.403378+00:00"
-  },
-  {
-   "fp": "ambushed california county deputy desert shooting wounded",
-   "title": "LA County deputy ambushed and wounded after shooting in California desert",
-   "source": "New York Post",
-   "at": "2026-08-06T03:41:50.136610+00:00"
-  },
-  {
-   "fp": "cyclospora expands multistate outbreak states",
-   "title": "Multistate cyclospora outbreak expands to 15 states",
-   "source": "The Hill",
-   "at": "2026-08-06T03:41:51.810554+00:00"
-  },
   {
    "fp": "alleged beach chaos children crowded descends drone incident including kills russian ukrainian",
    "title": "Crowded Russian beach descends into chaos after alleged Ukrainian drone incident kills 7, including 4 children",
@@ -3201,15 +3165,45 @@
    "title": "California man trapped in Colombia reveals his terror as massive earthquake struck",
    "source": "New York Post",
    "at": "2026-08-10T21:23:18.113157+00:00"
+  },
+  {
+   "fp": "covid discussing fauci pregnant release risk senators texts vaccine women",
+   "title": "GOP Senators Release Fauci Texts Discussing Covid Vaccine Risk to Pregnant Women",
+   "source": "WSJ",
+   "at": "2026-08-10T21:40:29.056067+00:00"
+  },
+  {
+   "fp": "again dashed fall hopes hormuz reopening stocks strait",
+   "title": "U.S. Stocks Fall as Hopes for Strait of Hormuz Reopening Are Dashed Again",
+   "source": "WSJ",
+   "at": "2026-08-10T21:40:31.005950+00:00"
+  },
+  {
+   "fp": "blasts cassidy changes expertise make order saying trump vaccine",
+   "title": "Cassidy blasts vaccine order, saying Trump has no 'expertise to make these changes'",
+   "source": "The Hill",
+   "at": "2026-08-10T21:40:33.234144+00:00"
+  },
+  {
+   "fp": "bill bipartisan graham house introduce members russia sanctions",
+   "title": "Bipartisan House members introduce Graham\u2019s Russia sanctions bill",
+   "source": "The Hill",
+   "at": "2026-08-10T21:40:34.969151+00:00"
+  },
+  {
+   "fp": "attempting break order override schedule shots signs trump vaccine",
+   "title": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots",
+   "source": "Guardian World",
+   "at": "2026-08-10T21:40:36.774830+00:00"
+  },
+  {
+   "fp": "cost deepens election living looms nigerians pain",
+   "title": "Nigerians' cost of living pain deepens as election looms",
+   "source": "Reuters",
+   "at": "2026-08-10T21:40:38.522326+00:00"
   }
  ],
  "titles": [
-  "exceptional global performance stage street wall",
-  "copy covid exclusive fauci obtained panel phone senate",
-  "bill fight hemp spending trips",
-  "jalape linked outbreak salmonella warns",
-  "ambushed california county deputy desert shooting wounded",
-  "cyclospora expands multistate outbreak states",
   "alleged beach chaos children crowded descends drone incident including kills russian ukrainian",
   "evacuated firefighters handle remain spokane tens thousands wildfires",
   "earnings east higher inch india middle open peace prospects shares",
@@ -3603,6 +3597,12 @@
   "care clancy defense kids killed lawyer lindsay psychiatrist takes",
   "anti attack films hospital innocent rushed shocking videos workers",
   "british canada columbia displace kill military puts standby thousands wildfires",
-  "california colombia earthquake massive reveals struck terror trapped"
+  "california colombia earthquake massive reveals struck terror trapped",
+  "covid discussing fauci pregnant release risk senators texts vaccine women",
+  "again dashed fall hopes hormuz reopening stocks strait",
+  "blasts cassidy changes expertise make order saying trump vaccine",
+  "bill bipartisan graham house introduce members russia sanctions",
+  "attempting break order override schedule shots signs trump vaccine",
+  "cost deepens election living looms nigerians pain"
  ]
 }
