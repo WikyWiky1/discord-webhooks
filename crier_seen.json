@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40153005",
-  "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say",
-  "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
   "CBMixwFBVV95cUxPNzFyTXBvZ1pGeVZXTUlTRWM3VGxjTjd5dXk4Y1RwZUYtaE9adFlFRGNkcU1tNmR6M2lCckhIN2cwMG54RUNiNzNib3RQVWxLd1FqWlY5eVZObDc4b3NCdGlLZi10a214V25teXViTkpCZXBXeDRfazBSOUNJVkZTM1RLcWt5SzUwaURiUUJMcDlOZFJFTkg5NXZXV0ZuakxZanh2YUNVMko3R1pJS3RsUFBsQjNpOXlLcHQwbHJtZ1FZWk9VdDRz",
   "CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3",
   "https://www.washingtonexaminer.com/?p=4672053",
@@ -799,27 +796,12 @@
   "CBMi4wFBVV95cUxNT0RjVGRZTkwyWVR4dFpXckFJRUdMdVJWcDNvQllJWVJqdjVjOUY5ajRmWnVwZERtRFplQVFOazVnajAyQWs1Z0ItdFJpcWZ2dFp0RXpzdDdqT25xaF9Iek1rdEMtWC1pQ0prSU5mOFV2NWVhNW9zQWRTZWJVYzJvaTBISU1fSFcwS2hSemRFb2tqemV2Z3JIOVNvampFMVhPMUhhM25IY2VvNGlwY3ZYNDJ0c1NfWS1YVUh6azRJby14bGFiX2VaR1VrMi12cF9HREhvY1JzSVlmWDlxWmpnNUZhMA",
   "https://www.theguardian.com/uk-news/2026/aug/10/firefighters-fbu-wildfires-drought-heatwave-weather",
   "https://nypost.com/?post_type=article&p=40271379",
-  "CBMiugFBVV95cUxQZUFsdXRzY3NWUURUVmgwcnVOS1RNNTlVRFF4c3FmcWZsMmRscUZpT1dHUWhuT3VxazRTREZxR2s0QTNUM3gyWjlFejhtNFNHQ2hoaGNnVXdXdXQtVVNiX2h0Z1hialZYWmhoVHFUMjdLMUlvZURsRlpRZkhabjB5LUM4SV9mY2lmcHpEM2RMZDB5bVJkdFdEXzlCdGZrMkhUM3JNV0JHazlEYkVCdXNlWVlTN0JyQ1B1bmc"
+  "CBMiugFBVV95cUxQZUFsdXRzY3NWUURUVmgwcnVOS1RNNTlVRFF4c3FmcWZsMmRscUZpT1dHUWhuT3VxazRTREZxR2s0QTNUM3gyWjlFejhtNFNHQ2hoaGNnVXdXdXQtVVNiX2h0Z1hialZYWmhoVHFUMjdLMUlvZURsRlpRZkhabjB5LUM4SV9mY2lmcHpEM2RMZDB5bVJkdFdEXzlCdGZrMkhUM3JNV0JHazlEYkVCdXNlWVlTN0JyQ1B1bmc",
+  "https://nypost.com/?post_type=article&p=40272482",
+  "CBMimAFBVV95cUxPS0t1R19FQ1I2SVAyazVxWDhQWE5OdmRReVdMWURwM21Tb0V5OW51RnVKY3FGT19fbEl3dF9CX1ppTzVuYmh6WmI3U1QxVjNxdEpTaWczSjRfS0MxXzM5Szd5RWZDSmcxNGNua0JCMC1XUEZZWUNXU01HaG5BZllKSmpPWDBCMkVGdk1QV0VnTllhaVdITm52Vg",
+  "https://nypost.com/?post_type=article&p=40276490"
  ],
  "posts": [
-  {
-   "fp": "280m australia brilliant confident despite elon gina investment live loss musk news paper rinehart spacex still",
-   "title": "Australia news live: Gina Rinehart still confident in \u2018brilliant\u2019 Elon Musk despite $280m paper loss on SpaceX investment",
-   "source": "Guardian World",
-   "at": "2026-08-06T02:32:07.405205+00:00"
-  },
-  {
-   "fp": "deal fuel hopes iran oman peace prices slip talks",
-   "title": "Oil prices slip as Iran-Oman talks fuel hopes for US-Iran peace deal",
-   "source": "Reuters World",
-   "at": "2026-08-06T02:32:09.146933+00:00"
-  },
-  {
-   "fp": "contest florida hunting mission nabs python snakes winner",
-   "title": "Winner of Florida python hunting contest nabs 96 snakes: \u2018I was on a mission\u2019",
-   "source": "Guardian World",
-   "at": "2026-08-06T02:32:10.923919+00:00"
-  },
   {
    "fp": "exceptional global performance stage street wall",
    "title": "Wall Street\u2019s performance isn\u2019t so \u2018exceptional\u2019 on the global stage",
@@ -3201,12 +3183,27 @@
    "title": "Defense lawyer takes aim at psychiatrist\u2019s care before Lindsay Clancy killed her 3 kids",
    "source": "AP",
    "at": "2026-08-10T20:34:17.437082+00:00"
+  },
+  {
+   "fp": "anti attack films hospital innocent rushed shocking videos workers",
+   "title": "Anti-ICE mob films attack on innocent workers in shocking videos \u2013 two rushed to hospital",
+   "source": "New York Post",
+   "at": "2026-08-10T21:23:14.261593+00:00"
+  },
+  {
+   "fp": "british canada columbia displace kill military puts standby thousands wildfires",
+   "title": "Canada puts the military on standby as British Columbia wildfires kill 1 and displace thousands",
+   "source": "AP",
+   "at": "2026-08-10T21:23:16.256328+00:00"
+  },
+  {
+   "fp": "california colombia earthquake massive reveals struck terror trapped",
+   "title": "California man trapped in Colombia reveals his terror as massive earthquake struck",
+   "source": "New York Post",
+   "at": "2026-08-10T21:23:18.113157+00:00"
   }
  ],
  "titles": [
-  "280m australia brilliant confident despite elon gina investment live loss musk news paper rinehart spacex still",
-  "deal fuel hopes iran oman peace prices slip talks",
-  "contest florida hunting mission nabs python snakes winner",
   "exceptional global performance stage street wall",
   "copy covid exclusive fauci obtained panel phone senate",
   "bill fight hemp spending trips",
@@ -3603,6 +3600,9 @@
   "colombia deadly destruction earthquake hits leaving magnitude photos widespread",
   "equip firefighters growing national priority threat wildfire",
   "arrest behavior bride drunkenly exposes killed post ridiculous video wedding woman",
-  "care clancy defense kids killed lawyer lindsay psychiatrist takes"
+  "care clancy defense kids killed lawyer lindsay psychiatrist takes",
+  "anti attack films hospital innocent rushed shocking videos workers",
+  "british canada columbia displace kill military puts standby thousands wildfires",
+  "california colombia earthquake massive reveals struck terror trapped"
  ]
 }
