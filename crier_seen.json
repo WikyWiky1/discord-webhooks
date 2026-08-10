@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cgk4rdley0ko#1",
-  "CBMixAFBVV95cUxOU211TUJlRDhVUV9BaEFiVG9wY18xdnJ0U1NBZDgtRFZsVTVDN0puSnkyRnk0Mi11Q0RrcV9NalNyY2RxUDNNNjkwM3FnNlVNTkZMcVBVeGF3RHBHNXFqclEtME9JSWxpRHJjRXNMRUgtVlpfYl9lUzlfZ1RsRm1SRXdjMGJsSy1lYzVEWjBFbVNhRHVjenMzWkRfYUUwV3BvRmdSdXBsVnVnaGhxSFV1YXRULWplREx5YVVJcEFFQVZBUEd6",
   "CBMirwFBVV95cUxOazhQeWoxdzJ5NHVoZVVxZU1HNG5FU3I2cWw0ODVya1FiSDVjNUhmUE5mYklNU2JmeHFYWlpvZHN4a0VPN2Yzd1ktc1ZTdm9xQ3BTSVJsTWtkd2l3UjEzMFBTNWRGZEhYUTZ6U21vUldNUnRPVXRtdVBPME9DZS0tQUpZaElDVWoyYmpOWjBYa2NvLUR6anhuYU5BSHZBOExLMGd5bl9qMjQxVjhIakpN",
   "CBMiqwFBVV95cUxNZXdkU0hHU25adjh1bERoVU5VWkZldHVyUW9Sek5oRlU5LXRULXREcWtCZ3duWVgwcHJoZS12a180alJkWHhTcXJaNjJmYTgxelB5d0ZyN2RHdmtlUFRGVEwtYVFEanRzSFRnSG84Q2x6RlBkdXIzaGo4UC0tZk5WbElnT0NaaG1NMGViSzBmejV5ZlpFM25CLTZqUXcwdmVCZ285Z0lOb2dvUXM",
   "CBMiYkFVX3lxTE9ydlZzM0FGSVQ2TWNEalRKY01nNTRWd01fVnpzd3I5anlsNC12djJxeUE4N29ZUkk0cVhRQjRYOWYzSk4xYUVpWk9ud0NWQV84SFhPb0w0TnA5dmpZakRMN0VR",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles",
   "CBMinwFBVV95cUxQZUEzSDdKQmM1cmFtSUpxRGRqTVdWelRGT2NHVUNDZV9JaExndU1UNXdocmxpMXVRRVNUYmtLSlhpdXlTLU9xZEphcEo1eUM2a09Zbk9LYlZwQmltM1l2MkVzWFU3Y3J2WDdJdGx0YmROcjM3MTJRUzJndi1QZ2ppdDRuUmJCTHFOMFJTQl9JOTdvVlgxb3B5WWVseUhOWm8",
   "https://nypost.com/?post_type=article&p=40275655",
-  "https://www.theguardian.com/us-news/2026/aug/10/man-charged-new-york-harbor-boat-capsizing"
+  "https://www.theguardian.com/us-news/2026/aug/10/man-charged-new-york-harbor-boat-capsizing",
+  "CBMipgFBVV95cUxPaXltbWpibFBieFlGQi1PQXlTWktFYXdFSENITmhTenpTVFhpSkhhMG1CMUJKTXo4VUdDX29YdVpmRHViaHowb3k0WjE1ajdjM0JldlRVN0ZVZVlMYU5HaXFlVWlqcmQ5Uk9JbWxsUkhVVUlFSzlMUFNnSnJyNnBhQkR1WVV6UjJFenJPaVNSVVh0YUpwUkduWTFXSkhEMW9IeVhJMFpB",
+  "https://www.washingtonexaminer.com/?p=4682025"
  ],
  "posts": [
-  {
-   "fp": "earnings east higher inch india middle open peace prospects shares",
-   "title": "India shares inch higher at the open on Middle East peace prospects, earnings",
-   "source": "Reuters World",
-   "at": "2026-08-06T05:48:33.853008+00:00"
-  },
-  {
-   "fp": "approves arduous moderna mrna review vaccine",
-   "title": "FDA Approves First mRNA Flu Vaccine in Win for Moderna After Arduous Review",
-   "source": "WSJ",
-   "at": "2026-08-06T05:48:35.494729+00:00"
-  },
   {
    "fp": "hasan michigan minimizes piker race role sayed senate streamer",
    "title": "El Sayed minimizes Hasan Piker\u2019s role in Michigan Senate race: \u2018He\u2019s a streamer\u2019",
@@ -3201,11 +3189,21 @@
    "title": "Boat operator faces federal charges after mother and infant killed in New York capsizing",
    "source": "Guardian World",
    "at": "2026-08-10T22:17:13.389661+00:00"
+  },
+  {
+   "fp": "attacks continue drone force libya majeure refinery shutdown warns zawiya",
+   "title": "Libya's NOC warns of force majeure, Zawiya refinery shutdown if drone attacks continue",
+   "source": "Reuters World",
+   "at": "2026-08-10T23:38:07.432887+00:00"
+  },
+  {
+   "fp": "covert deal material negotiates nuclear removal report site syrian",
+   "title": "US negotiates deal for removal of nuclear material from covert Syrian site: Report",
+   "source": "Washington Examiner",
+   "at": "2026-08-10T23:38:09.194510+00:00"
   }
  ],
  "titles": [
-  "earnings east higher inch india middle open peace prospects shares",
-  "approves arduous moderna mrna review vaccine",
   "hasan michigan minimizes piker race role sayed senate streamer",
   "attack captain football gang murdered outrage street ugandan",
   "crime groups israeli journalist killed lebanon rights strike",
@@ -3603,6 +3601,8 @@
   "attempting break order override schedule shots signs trump vaccine",
   "cost deepens election living looms nigerians pain",
   "apart clancy drugs hours kids killed lawyer lindsay prescribed shrink spends tearing",
-  "boat capsizing charges faces federal infant killed mother operator york"
+  "boat capsizing charges faces federal infant killed mother operator york",
+  "attacks continue drone force libya majeure refinery shutdown warns zawiya",
+  "covert deal material negotiates nuclear removal report site syrian"
  ]
 }
