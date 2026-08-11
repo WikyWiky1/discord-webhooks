@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4672137",
-  "https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens",
-  "CBMiswFBVV95cUxPSVVmOGN3UkdYdHBLWVhmMlFheVFwZkplU2xkekoybWZtRi0tbXFRMHBwVHpBTUlwU1RfdFVBTUhuSEVVYnQ0TFVLYXFTWlFNbDZ6Q3JhQUwtMTk0R25HRlZ4OVNKOWtwN2FzYW5Ia2NKdWFsd1U2OFdXVWFyb290dGFUT2VDREhreE5CbUxUQWlmRi1KaWlNdGVuRF80NThpckZ2c2VsSlVRTzU0aUFUVTI4RQ",
   "CBMinAFBVV95cUxPc0lKdjVraF9jNC00MkFVWW9laUIzY3dhUGtXZE5sT1J2dzVCUFo0dS1EZ1ZOZTVlWHhBaXRYeFZDb1ZTeXdCM3lyQi1xWm9wd3JxWVVsNU5ycWI1Ynd1WUM0WVJQVllad1VudGJwRGRlcWZrT2JENC1vRVVWSTNQMUt4cklGUG91dzgySTVRcVlGbU9XUGZiaXE4M1I",
   "https://thehill.com/?p=6004304",
   "https://thehill.com/?p=6004259",
@@ -799,27 +796,12 @@
   "CBMifkFVX3lxTFBQQmtqdm84SzJnTG8ybWJHTW0zVlhXWDJFeHIteXRyY2Rsb2JBMkpPSjdCSWQ0Wk5EZ0lnblQ4YWhQV192Wm5OTzNVWkt3bmlTY3JBLUxGRmFXanFEM2NCRW5JWjlnSVFyaTRRemthbGdKdlU0VklYX2lhbzR1UQ",
   "CBMirgFBVV95cUxQcFh5Uk8xSW0wTVRPMWptTnR1Q3ZVWWRvbkJhYlFKMTdJWjRqM0l0anUzREpaNEhjWm5pNEtBWmFlMjJJVzBNUXRkV2RpRE9nMTZGTk5Udk0wMkdySW9NVGtLcW9HZnF4NmhyS0xCUTYyOTlHVlhIM3dCbXZKOU16cnhGWHpqdGduejY0MHhlRVdRQTFCekRUQ2lTbWVUU05fV2RmMEhwOGQwY04tVXc",
   "CBMivAFBVV95cUxNWl9feWhQdTVlYnFhSjgzSml1UEx5dTFuQ084SVp2UHdxVmIzX3RuU21FQXRFR1Ryeks4bllBRjUxR2g1OWl5OVJkVWE2OUtROVhEOWc4RUFpd1Jxek96aWlqSzV0dy1FcUdVaV9ZX1ZTN0J4VU81cVRuOHljaXVIWHpYQkhCQlZua0ZvZWpwTXV1d05GOElka1JncHRXbHZKRGhlbEU2dDJlSVMwQ0Q3dk9Ya1FubFhkNGdzLQ",
-  "CBMiuwFBVV95cUxQcER4RXBhdDI4TUFTVGVuMWhWcm5Yd21hMkJ5RzZXT2c0VG0wWTU1Z0phY3ctVzRfMXFMWVI3TFZvT3pnM0NvLVdxamxxQmh5WE04bG9IX0dvbXlFLW9zYUdNMk5uekM2LXYwZ2lvTHh2UGNaakRpZ0Nnbmp6U05mWHZpTEF0ZHkzc3FEZUcxUWdDeFRpMDNHazJoUkdQR1VjRUItVHRfWmJGMUtNNzhSSXpqZGVuLUtrNjhJ"
+  "CBMiuwFBVV95cUxQcER4RXBhdDI4TUFTVGVuMWhWcm5Yd21hMkJ5RzZXT2c0VG0wWTU1Z0phY3ctVzRfMXFMWVI3TFZvT3pnM0NvLVdxamxxQmh5WE04bG9IX0dvbXlFLW9zYUdNMk5uekM2LXYwZ2lvTHh2UGNaakRpZ0Nnbmp6U05mWHZpTEF0ZHkzc3FEZUcxUWdDeFRpMDNHazJoUkdQR1VjRUItVHRfWmJGMUtNNzhSSXpqZGVuLUtrNjhJ",
+  "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
+  "CBMiuwFBVV95cUxQNjdiVWVvWFRoVzRKNXZXdzREWFZXTGF4ajUwVTJvWENuYl94UTRsU1NaM2pzNFJWWWh4d0VxODBXaUNlR0NDWFJDT0FZbkV4eU1sNjVhTTlESnlKRUdEQ2xSOXJiUk50MjZ1YWx2ZlR4OGlXT0t1SkZxMTlKV0FjY0Zqemt1YTNpLXJvU0ptc0w1Mmx6dXZVaGlIdVN0LXhVR2dYYTY1ZDN0N1RYV0dDS1YwS3ZlQi1WWk40",
+  "CBMihwFBVV95cUxOSF9yUjNXX2h4OXJYMjN4LUdDRS03dGd6MmwzWXM4azBtY2FPMW0zcGsyRXNoRHBoZEhERXNUOTFfd3RYOEhvVEF0WEZuLVp1X0JtdUFFZWlVNlVyeXgtR05sUkc5c19CWW85WmZYRWRCNG9YSHVJVU4xUDZCWjEydDNpSHY1WGs"
  ],
  "posts": [
-  {
-   "fp": "actions material protect semiconductor solar trade trump unveils",
-   "title": "Trump unveils trade actions to protect key solar and semiconductor material",
-   "source": "Reuters",
-   "at": "2026-08-06T23:58:21.823537+00:00"
-  },
-  {
-   "fp": "believers epic lockup past propel shares spacex true",
-   "title": "SpaceX True Believers Propel Shares Past End of Epic Lockup",
-   "source": "WSJ",
-   "at": "2026-08-06T23:58:23.612422+00:00"
-  },
-  {
-   "fp": "calls filibuster pressure republicans sayed senate trump uses",
-   "title": "Trump uses El-Sayed's calls to nix filibuster to pressure Senate Republicans",
-   "source": "The Hill",
-   "at": "2026-08-06T23:58:25.326172+00:00"
-  },
   {
    "fp": "deal doubts down hormuz stocks",
    "title": "U.S. Stocks Down on Hormuz Deal Doubts",
@@ -3201,12 +3183,27 @@
    "title": "Romania could shut down nuclear reactor on Thursday as Danube levels fall",
    "source": "Reuters",
    "at": "2026-08-11T10:43:51.592249+00:00"
+  },
+  {
+   "fp": "became colombia deadly guard hits life national part quake year",
+   "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+   "source": "NPR News",
+   "at": "2026-08-11T11:38:45.968264+00:00"
+  },
+  {
+   "fp": "firearm licences purchase school shooting suspends thai",
+   "title": "Thai PM suspends firearm purchase licences after school shooting",
+   "source": "Reuters",
+   "at": "2026-08-11T11:38:47.676437+00:00"
+  },
+  {
+   "fp": "congo died ebola fastest growing outbreak people record",
+   "title": "Congo says 2,000 people have died in its Ebola outbreak, the fastest growing on record",
+   "source": "AP",
+   "at": "2026-08-11T11:38:49.383671+00:00"
   }
  ],
  "titles": [
-  "actions material protect semiconductor solar trade trump unveils",
-  "believers epic lockup past propel shares spacex true",
-  "calls filibuster pressure republicans sayed senate trump uses",
   "deal doubts down hormuz stocks",
   "allegedly camera caught costco coworker jealous kills motorcycle rage worker",
   "author book concerns deal derailed innocent million whose",
@@ -3603,6 +3600,9 @@
   "clapham dies shooting",
   "cuts fifth french heatwave jump nuclear power prices supply",
   "agree border check content crossings deadly fact incident meta spain tiktok",
-  "danube down fall levels nuclear reactor romania shut thursday"
+  "danube down fall levels nuclear reactor romania shut thursday",
+  "became colombia deadly guard hits life national part quake year",
+  "firearm licences purchase school shooting suspends thai",
+  "congo died ebola fastest growing outbreak people record"
  ]
 }
