@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40159309",
-  "https://www.theguardian.com/us-news/2026/aug/02/eastern-washington-wildfires",
-  "CBMi2AFBVV95cUxPYVZtV1lHYnlhV0hzYTZycFdSdGR2RWF0T3dUMEs5OVlBTk4yOE42Zmp4eGUxVlB0eXBuelp2UHgzRlJFU2dadFZBM0FPbldHdnZqT3VMMXFSM25PRWtRblctWktoUXg0Vlluc3pTWlNMdGlQSG01SDVWVFlWOUoxdEdSdkoxOUpWRXlwSXB5aVZWT1ppZF9uZU8wdUh0dlIwLXYwWUNsQTBOclVNUUYwRF9DQURlOW1ENU5QcmVyaGJITjZjb2FLMWlLcjVCVlQ1US1Hczh3Zk8",
-  "https://nypost.com/?post_type=article&p=40161312",
   "https://nypost.com/?post_type=article&p=40161745",
   "CBMiekFVX3lxTE94MTVZUWQ3eXJaMGw2bkVpUEdaNEY1SkhuV2NJdGtOQ1VJb2NranRjUkQwVlItendVcjdOUlVjUHBWdTVQZEJNaTZGcDMtS2RZRFRoeXVRSGlKWUFHdV9jMUpUNjY2YkhYMTd5UmZtQ3RzWFRVWlRMcVpB",
   "CBMipgFBVV95cUxNTnkxZDh5TElCa1dZeUtDT2JfblI5ZFJuQkZNQ1pvbHlkcWxHRUVfMk51N2t0ZDUtbEhOYW9aVjg5d3lMSkNXYlFMc0I5Z3o1bjh4c0pkZ3BsWkRYeWhOalNoOUZPN3pvYVRSb1NnT21rZy1TamRFMHN2MUp1WjhoSmZaT0prMExjTVk1aThUbHAwNEo3MmpsbTI2UFdsY2Z2Y0RlT2RB",
@@ -799,33 +795,13 @@
   "https://thehill.com/?p=6022913",
   "CBMilgFBVV95cUxOczVqMTVzakY3aDFBNERBZ2dPaHEzX2wxVUNrRG0yZjhQelN1eDAxV1ZHUHhwYmNiQkpVT1hMSGRaYm8wcDNqTU01RXc2TDBNaVJlYXByMFc2dDUtS2xyTWRMc1VlZVdvU3cya0d0NXcyMkd3Y1VUYjZyWUtRazhQS0pILXhQbk4wemd1aUg2WWEwdTczV0E",
   "CBMiqwFBVV95cUxPTE52c1ozbzI4ekd5U2t3a1ZLRUwzLXA1ZThEMDhRUnpzbzh1ZjhlaTR6Y3ZISmI2OEI1SnJDYnh0TnlMak1RX0FfQU1KdDBFT0RDMW1HdWxscUpBSGNGMFh5VEFqVVV5X2swTGVCbFNNcm9HQjVQbjJhd28tVXFMaEF2ZXNrVUgyZkxFV01peVJ4OW05TFcyV3ZUaEFFYVJYQTd3b0pabU5aQXc",
-  "CBMimAFBVV95cUxNSlU0dHBxc0tERE5PYTUyUVRDNTJTRl9ISXJyYnlFOEtvWllWWUtnV3lEc3JpNTRvb1BpLVVNdnNOdmFQZFowZDVOSVZ2dXlERkV4UU9WbDNzUk1SVS0zRkhxUm5VNnhnakNQaWlwS01ITjZvcko2dUxzVUNJM0FnZ2Zta2NLMHNxajZUby1SSmtlZ2NSQnBtRg"
+  "CBMimAFBVV95cUxNSlU0dHBxc0tERE5PYTUyUVRDNTJTRl9ISXJyYnlFOEtvWllWWUtnV3lEc3JpNTRvb1BpLVVNdnNOdmFQZFowZDVOSVZ2dXlERkV4UU9WbDNzUk1SVS0zRkhxUm5VNnhnakNQaWlwS01ITjZvcko2dUxzVUNJM0FnZ2Zta2NLMHNxajZUby1SSmtlZ2NSQnBtRg",
+  "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o#0",
+  "https://thehill.com/?p=6021343",
+  "CBMikgFBVV95cUxPMDNxSFZuMk93QUFjWlFpdWhpaThLN1lDTHNtYXdfQ2VGSk01YWpfd1ZBR2I0bDJQdEZPTjB3TzFma3BiZGdrZmpSUmNjQVV3RVVybGI1anpSTTBzQWQ0bDNNcXVLQXVkZERDN2NJcktrNDFlZzN2cF9ON2d2LVVLVWJXanh4UlpVVFNpTUFSTkl1Zw",
+  "CBMingFBVV95cUxNU0ozalQtRWtyUl9RYWZINnRiZVBVVV9hNEh5RjVtQUFRSm5BazRfRFRDY0VHaVZpb202U3dpR2MzSkVldmdJWDNjM1dqSF9PaXdIN1NySmxmU3ZuZV9CX1oyV0F6QnB5cUljclFDTnpJbGVsenhBTnNlRmt1bGlDZjh1UEVSb3dRWVR3Z2x5Y3NmYXhhV3lXd2h3bkVKZw"
  ],
  "posts": [
-  {
-   "fp": "airfares ceasefire drops even expected experts high iran prices stay",
-   "title": "US airfares expected to stay high even if Iran ceasefire drops oil prices, experts say",
-   "source": "Guardian World",
-   "at": "2026-08-07T13:54:40.000722+00:00"
-  },
-  {
-   "fp": "decries didn failures killed mother need police teen trafficked",
-   "title": "\u2018It didn\u2019t need to end this way\u2019: mother of US teen trafficked and killed decries police failures",
-   "source": "Guardian World",
-   "at": "2026-08-07T13:54:41.741824+00:00"
-  },
-  {
-   "fp": "fire home killed opens school seven student thai",
-   "title": "Seven killed after Thai student opens fire at home and school",
-   "source": "BBC World",
-   "at": "2026-08-07T14:47:28.324870+00:00"
-  },
-  {
-   "fp": "bomb closed diverted emergency hospital patients threat",
-   "title": "Hospital closed after bomb threat, emergency patients diverted",
-   "source": "New York Post",
-   "at": "2026-08-07T15:48:34.332420+00:00"
-  },
   {
    "fp": "communist fuel helped homeless killed madison network probe protests socialist wisconsin",
    "title": "Communist, socialist network helped fuel Madison, Wisconsin protests after cop killed homeless man: probe",
@@ -3201,13 +3177,33 @@
    "title": "Wall Street drifts near its all-time high as oil prices keep swinging",
    "source": "AP",
    "at": "2026-08-11T19:01:51.442327+00:00"
+  },
+  {
+   "fp": "colombia dead earthquake rescuers scramble survivors",
+   "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+   "source": "BBC World",
+   "at": "2026-08-11T19:27:26.661362+00:00"
+  },
+  {
+   "fp": "bacteria death eating flesh rises signs toll vibrio warning watch",
+   "title": "Death toll from flesh-eating bacteria rises: These are the Vibrio warning signs to watch for",
+   "source": "The Hill",
+   "at": "2026-08-11T19:27:28.408057+00:00"
+  },
+  {
+   "fp": "1976 breaking britain heatwave outstrip record summer tipped",
+   "title": "Heatwave Britain tipped to outstrip record-breaking summer of 1976",
+   "source": "Telegraph",
+   "at": "2026-08-11T19:27:30.261070+00:00"
+  },
+  {
+   "fp": "bomb drone east kills libya officer strikes town western",
+   "title": "Drone strikes hit Libya\u2019s key western oil town and a car bomb kills an officer in the east",
+   "source": "AP",
+   "at": "2026-08-11T19:27:32.923962+00:00"
   }
  ],
  "titles": [
-  "airfares ceasefire drops even expected experts high iran prices stay",
-  "decries didn failures killed mother need police teen trafficked",
-  "fire home killed opens school seven student thai",
-  "bomb closed diverted emergency hospital patients threat",
   "communist fuel helped homeless killed madison network probe protests socialist wisconsin",
   "disaster holding hostage knows thin trump",
   "attack clown death dressed police random stabbed year",
@@ -3603,6 +3599,10 @@
   "ahead boost deserves lindell minnesota offers primary trump",
   "fights government importers judge order refunds tariff trade",
   "edge lower stocks",
-  "drifts high keep near prices street swinging time wall"
+  "drifts high keep near prices street swinging time wall",
+  "colombia dead earthquake rescuers scramble survivors",
+  "bacteria death eating flesh rises signs toll vibrio warning watch",
+  "1976 breaking britain heatwave outstrip record summer tipped",
+  "bomb drone east kills libya officer strikes town western"
  ]
 }
