@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6004629",
-  "https://news.sky.com/story/deadly-suicide-bombing-targeting-anti-militant-protesters-in-pakistan-13569275",
-  "https://thehill.com/?p=6004642",
-  "https://www.washingtonexaminer.com/?p=4672299",
-  "https://thehill.com/?p=6002871",
-  "CBMiggFBVV95cUxPTjRrTlhIR05zUnFza20teVlGd3lMMzk2c2JwVXRzUnpqN2M1WUFFMHZEQmRFS3BTS0xrMzV1eF9uMTVBQ3l3ZFlLN01YbWd3UVlvTlllbll0OW1hNnNkZlZHSmZaZVBTQ3hUOFBWNEwwbVFRejR2RFl2aWZSM3I2SGRn",
   "CBMiiAFBVV95cUxPTFM0bFk1NjM3X1QwZzlvTkxFa3lQRFZHQWt2VWpKR2pndV9HdHQyQnUxY0RsbVJmUERwVFAzNngyWVlUUTY4X1M4R0VraklGZ2prR2F1aGt0bTNVbjJKcW1tR081dWFLaGRMSTlQbURoc1ByNmV5Nkt0UTVEN1ZUQ2tNQkJ3dW00",
   "CBMixgFBVV95cUxQdjRwZGczVkVkNGRrWHNRV1BUWS14QkFEOVJ1SmRhWmdtTDlUUm9xT0VLNTR3MjEtM2FKd0hIbDgxd2FlR2FBbmVpVlF3Sk5aanBaYlpweS1jQ1pRZE1OWS05UUdHckEzaFhXQkpQTHUzdXU1Vl9MN1BXMEFMZ2tnUGZLOThabWZ0dWQ4d2ZUUHlkNmI0UVNsMFRkVlhLRTlmQVRaVW1kVXllLVNvU0FJQ2NGMng3V2ROQ2w3LXVHVlIwLUVxWVE",
   "https://nypost.com/?post_type=article&p=40160258",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=40287709",
   "https://nypost.com/?post_type=article&p=40285330",
   "https://nypost.com/?post_type=article&p=40284842",
-  "https://nypost.com/?post_type=article&p=40286071"
+  "https://nypost.com/?post_type=article&p=40286071",
+  "https://nypost.com/?post_type=article&p=40288280",
+  "https://www.washingtonexaminer.com/?p=4682612",
+  "https://nypost.com/?post_type=article&p=40287712",
+  "https://nypost.com/?post_type=article&p=40284382",
+  "https://www.theguardian.com/us-news/2026/aug/11/florida-alligator-rescue-paddleboarder",
+  "https://www.foxnews.com/world/more-than-3000-missing-colombia-earthquake-trump-administration-provides-15-5-million-relief"
  ],
  "posts": [
-  {
-   "fp": "dead democrats fraud groceries need protect suing",
-   "title": "Dead men don\u2019t need groceries: The fraud Democrats are suing to protect",
-   "source": "Washington Examiner",
-   "at": "2026-08-07T12:27:10.286969+00:00"
-  },
-  {
-   "fp": "abruptly band earth emergency fire involving medical member postpones show wind",
-   "title": "Earth, Wind & Fire abruptly postpones show over \u2018medical emergency involving a band member\u2019",
-   "source": "New York Post",
-   "at": "2026-08-07T12:27:11.882985+00:00"
-  },
-  {
-   "fp": "cause deadly diarrheal disease major vaccine vanquish",
-   "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
-   "source": "NPR News",
-   "at": "2026-08-07T12:27:13.611692+00:00"
-  },
-  {
-   "fp": "deadly school shooting thai vows",
-   "title": "Thai PM vows new gun law after deadly school shooting",
-   "source": "Reuters",
-   "at": "2026-08-07T12:27:15.278010+00:00"
-  },
-  {
-   "fp": "jobs july lost lower ticked unemployment",
-   "title": "U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower",
-   "source": "WSJ",
-   "at": "2026-08-07T13:02:23.553679+00:00"
-  },
-  {
-   "fp": "dips jobs july loses slightly unemployment",
-   "title": "US loses 23k jobs in July, unemployment dips slightly",
-   "source": "The Hill",
-   "at": "2026-08-07T13:02:25.501031+00:00"
-  },
   {
    "fp": "blanche faces live nomination ropes senate updates votes",
    "title": "Live updates: Senate faces day of big votes with Blanche's nomination on the ropes",
@@ -3201,15 +3165,45 @@
    "title": "LA council president issues scathing four-word attack on mayoral hopeful Nithya Raman after she was dumped from top role",
    "source": "New York Post",
    "at": "2026-08-11T17:14:15.736484+00:00"
+  },
+  {
+   "fp": "building chicago custodians dead elementary fired found inside school shots",
+   "title": "Two custodians found dead in Chicago elementary school after \u2018shots fired inside building\u2019",
+   "source": "New York Post",
+   "at": "2026-08-11T18:08:24.542461+00:00"
+  },
+  {
+   "fp": "aircraft assassination attempt breaking down involved iranian plan thwart trump",
+   "title": "Breaking down the aircraft involved in Trump\u2019s plan to thwart Iranian assassination attempt",
+   "source": "Washington Examiner",
+   "at": "2026-08-11T18:08:29.780163+00:00"
+  },
+  {
+   "fp": "accuse anti attack chaos dems devolves full muslim name panel sayed using",
+   "title": "CNN panel devolves into chaos as Dems accuse GOP of \u2018anti-Muslim\u2019 attack on El-Sayed by using his full name",
+   "source": "New York Post",
+   "at": "2026-08-11T18:08:31.682604+00:00"
+  },
+  {
+   "fp": "attack escalation kills korea missile mocks north preparing reliance russia zelensky",
+   "title": "Zelensky mocks Russia for reliance on North Korea after missile attack kills 10: \u2018Preparing for escalation\u2019",
+   "source": "New York Post",
+   "at": "2026-08-11T18:08:33.430283+00:00"
+  },
+  {
+   "fp": "alligator attack florida paddleboarder rescues woman",
+   "title": "Florida paddleboarder rescues woman from alligator attack",
+   "source": "Guardian World",
+   "at": "2026-08-11T18:08:35.155958+00:00"
+  },
+  {
+   "fp": "administration colombia earthquake million missing provides relief trump",
+   "title": "More than 3,000 missing after Colombia earthquake as Trump administration provides $15.5 million in relief",
+   "source": "Fox News World",
+   "at": "2026-08-11T18:08:36.829871+00:00"
   }
  ],
  "titles": [
-  "dead democrats fraud groceries need protect suing",
-  "abruptly band earth emergency fire involving medical member postpones show wind",
-  "cause deadly diarrheal disease major vaccine vanquish",
-  "deadly school shooting thai vows",
-  "jobs july lost lower ticked unemployment",
-  "dips jobs july loses slightly unemployment",
   "blanche faces live nomination ropes senate updates votes",
   "economy friday jobs means report trump",
   "another attorney blanche comes confirmation general live narrowing nomination path republican todd",
@@ -3603,6 +3597,12 @@
   "acres across border california converge evacuations massive nevada underway wildfires",
   "evacuations explodes luxury raging resort size wildfire",
   "blazing college dead fight fresno graduate house party shot woman",
-  "attack council dumped four hopeful issues mayoral nithya president raman role scathing word"
+  "attack council dumped four hopeful issues mayoral nithya president raman role scathing word",
+  "building chicago custodians dead elementary fired found inside school shots",
+  "aircraft assassination attempt breaking down involved iranian plan thwart trump",
+  "accuse anti attack chaos dems devolves full muslim name panel sayed using",
+  "attack escalation kills korea missile mocks north preparing reliance russia zelensky",
+  "alligator attack florida paddleboarder rescues woman",
+  "administration colombia earthquake million missing provides relief trump"
  ]
 }
