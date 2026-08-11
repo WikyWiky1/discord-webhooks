@@ -222,8 +222,17 @@
    "message_id": "1536736140546150551",
    "event": "Severe Thunderstorm Warning",
    "area": "Lee, IL; Ogle, IL; Winnebago, IL",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-11T14:00:47+00:00",
+   "expired_at": "2026-08-11T15:12:28+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.dcd1cb7c66db63471d451f99483be34247101d35.001.1",
+   "message_id": "1536754174048600167",
+   "event": "Severe Thunderstorm Warning",
+   "area": "Lee, IL; Ogle, IL; Winnebago, IL",
+   "expired": false,
+   "posted_at": "2026-08-11T15:12:26+00:00",
    "expired_at": null
   }
  ]
