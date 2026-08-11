@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMixgFBVV95cUxPalBXdlNoQ05vVlFLOElTc3BweEhPcWhyd2x4UjBiUmROdDVKN0tvZGlSWnFveF8tNG1zZVBjbVM3VGhYc2hTNGVlZzJrUzcyeEZaY0h5Zllrd25MNUl2ZkI0bGpnaEZubUlYTmNXSUl4RjVpZ2pmckVta1J1NWVQTWlsRVV6aG5JM3BVb2RlMWJncnVqblEyV0R3YmFSNWl3Q1FESl9zVEx0T3ZydjZCX0F0REdZdF9yTUVqZmRwd2lnR3NZRHc",
   "CBMirAFBVV95cUxNRnV1R0NBb1BQQXA2WGM0QmdFODlycDFYaWJEa1RPdmFwMVJzYjhHTkIzUS1neTI4dXVPcHMxT2F6ME5XZzlMZHBzc3Z0QXBzaVB3b2Rra1kxRjRubTNLUGQybXRBd3NLNXBrNWxsLTNnV3o0N0JHM2gwb1lzcHY3VGIzYUhVTnJLNTFaVG1tMjlaVXFFVFBTd1c3ckJESmYxV1U5WW1tc1FFOXoz",
   "https://www.washingtonexaminer.com/?p=4668039",
   "https://nypost.com/?post_type=article&p=40158084",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6021466",
   "https://www.bbc.co.uk/news/articles/c20e360lx0vo#0",
   "https://www.washingtonexaminer.com/?p=4682205",
-  "https://thehill.com/?p=6021575"
+  "https://thehill.com/?p=6021575",
+  "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia"
  ],
  "posts": [
-  {
-   "fp": "cost daughter deadly grieving illegal immigration killer parole reveals seeks",
-   "title": "Grieving mom reveals deadly cost of illegal immigration as daughter\u2019s killer seeks parole",
-   "source": "New York Post",
-   "at": "2026-08-06T09:26:31.656058+00:00"
-  },
   {
    "fp": "earnings european iran optimism proposals rise stocks traders weigh",
    "title": "European stocks rise on earnings optimism as traders weigh Iran proposals",
@@ -3201,10 +3195,15 @@
    "title": "Iran\u2019s steep demands for US over Strait of Hormuz threaten to derail reopening",
    "source": "The Hill",
    "at": "2026-08-11T02:29:39.991750+00:00"
+  },
+  {
+   "fp": "colombia killing least magnitude people quake rocks western",
+   "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+   "source": "NPR News",
+   "at": "2026-08-11T04:04:10.424655+00:00"
   }
  ],
  "titles": [
-  "cost daughter deadly grieving illegal immigration killer parole reveals seeks",
   "earnings european iran optimism proposals rise stocks traders weigh",
   "abrams election elon integrity musk party political stacey",
   "2006 common democratic does doesn election shades wave years",
@@ -3603,6 +3602,7 @@
   "about executive know order trump vaccine",
   "colombia earthquake killed largest least years",
   "aboard assassination catering elude iranian plane plot report snuck truck trump",
-  "demands derail hormuz iran reopening steep strait threaten"
+  "demands derail hormuz iran reopening steep strait threaten",
+  "colombia killing least magnitude people quake rocks western"
  ]
 }
