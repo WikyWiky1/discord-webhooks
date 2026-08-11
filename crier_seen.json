@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40161745",
-  "CBMiekFVX3lxTE94MTVZUWQ3eXJaMGw2bkVpUEdaNEY1SkhuV2NJdGtOQ1VJb2NranRjUkQwVlItendVcjdOUlVjUHBWdTVQZEJNaTZGcDMtS2RZRFRoeXVRSGlKWUFHdV9jMUpUNjY2YkhYMTd5UmZtQ3RzWFRVWlRMcVpB",
-  "CBMipgFBVV95cUxNTnkxZDh5TElCa1dZeUtDT2JfblI5ZFJuQkZNQ1pvbHlkcWxHRUVfMk51N2t0ZDUtbEhOYW9aVjg5d3lMSkNXYlFMc0I5Z3o1bjh4c0pkZ3BsWkRYeWhOalNoOUZPN3pvYVRSb1NnT21rZy1TamRFMHN2MUp1WjhoSmZaT0prMExjTVk1aThUbHAwNEo3MmpsbTI2UFdsY2Z2Y0RlT2RB",
   "CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE",
   "CBMisgFBVV95cUxPb1dZcXJEY0ZGVGZ0VDBPQnpLdHZFSm5WQTNTcTFlamRSV3l2blFJRXJfMmR0eEgwUEZzaHFiZWZ0aXc1aGo4TE5wYmFTYkhGQW9tejFHT3JIOGxqUl9YNjRuQWk5d3JkLXc0NldUaXNiWERBRVBIa0RNMDFZMGdWS2xKQUUtX2Vtc1NpYW9nQnY1aGthMlhiUU1xX0JNUVQ5S21mdE9GbEl6WTVza01IYTJn",
   "https://thehill.com/?p=6004829",
@@ -799,27 +796,12 @@
   "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o#0",
   "https://thehill.com/?p=6021343",
   "CBMikgFBVV95cUxPMDNxSFZuMk93QUFjWlFpdWhpaThLN1lDTHNtYXdfQ2VGSk01YWpfd1ZBR2I0bDJQdEZPTjB3TzFma3BiZGdrZmpSUmNjQVV3RVVybGI1anpSTTBzQWQ0bDNNcXVLQXVkZERDN2NJcktrNDFlZzN2cF9ON2d2LVVLVWJXanh4UlpVVFNpTUFSTkl1Zw",
-  "CBMingFBVV95cUxNU0ozalQtRWtyUl9RYWZINnRiZVBVVV9hNEh5RjVtQUFRSm5BazRfRFRDY0VHaVZpb202U3dpR2MzSkVldmdJWDNjM1dqSF9PaXdIN1NySmxmU3ZuZV9CX1oyV0F6QnB5cUljclFDTnpJbGVsenhBTnNlRmt1bGlDZjh1UEVSb3dRWVR3Z2x5Y3NmYXhhV3lXd2h3bkVKZw"
+  "CBMingFBVV95cUxNU0ozalQtRWtyUl9RYWZINnRiZVBVVV9hNEh5RjVtQUFRSm5BazRfRFRDY0VHaVZpb202U3dpR2MzSkVldmdJWDNjM1dqSF9PaXdIN1NySmxmU3ZuZV9CX1oyV0F6QnB5cUljclFDTnpJbGVsenhBTnNlRmt1bGlDZjh1UEVSb3dRWVR3Z2x5Y3NmYXhhV3lXd2h3bkVKZw",
+  "https://nypost.com/?post_type=article&p=40288896",
+  "https://www.washingtonexaminer.com/?p=4683315",
+  "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno#1"
  ],
  "posts": [
-  {
-   "fp": "communist fuel helped homeless killed madison network probe protests socialist wisconsin",
-   "title": "Communist, socialist network helped fuel Madison, Wisconsin protests after cop killed homeless man: probe",
-   "source": "New York Post",
-   "at": "2026-08-07T15:48:36.022709+00:00"
-  },
-  {
-   "fp": "disaster holding hostage knows thin trump",
-   "title": "Trump is holding disaster aid hostage. He knows he\u2019s on thin ice",
-   "source": "Washington Examiner",
-   "at": "2026-08-07T15:48:37.709010+00:00"
-  },
-  {
-   "fp": "attack clown death dressed police random stabbed year",
-   "title": "15-year-old dressed as a clown stabbed a man to death in random attack, police say",
-   "source": "AP",
-   "at": "2026-08-07T15:48:39.392953+00:00"
-  },
   {
    "fp": "approval ballroom congress court house must rules trump white",
    "title": "Trump must get Congress\u2019s approval for White House ballroom, DC court rules",
@@ -3201,12 +3183,27 @@
    "title": "Drone strikes hit Libya\u2019s key western oil town and a car bomb kills an officer in the east",
    "source": "AP",
    "at": "2026-08-11T19:27:32.923962+00:00"
+  },
+  {
+   "fp": "battling california crash dies helicopter massive pilot utah wildfire",
+   "title": "California pilot dies in helicopter crash battling massive Utah wildfire",
+   "source": "New York Post",
+   "at": "2026-08-11T20:20:52.772734+00:00"
+  },
+  {
+   "fp": "attack cuts democrats doctor house iowa medicaid race tight",
+   "title": "Democrats attack GOP doctor for cuts to Medicaid in tight Iowa House race",
+   "source": "Washington Examiner",
+   "at": "2026-08-11T20:20:54.900867+00:00"
+  },
+  {
+   "fp": "attack deadly houthis iran kill reportedly since start",
+   "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
+   "source": "BBC World",
+   "at": "2026-08-11T20:20:56.663010+00:00"
   }
  ],
  "titles": [
-  "communist fuel helped homeless killed madison network probe protests socialist wisconsin",
-  "disaster holding hostage knows thin trump",
-  "attack clown death dressed police random stabbed year",
   "approval ballroom congress court house must rules trump white",
   "august live looks major power priorities recess senate through watch",
   "canada gain hits jobs july monster posts rate unemployment year",
@@ -3603,6 +3600,9 @@
   "colombia dead earthquake rescuers scramble survivors",
   "bacteria death eating flesh rises signs toll vibrio warning watch",
   "1976 breaking britain heatwave outstrip record summer tipped",
-  "bomb drone east kills libya officer strikes town western"
+  "bomb drone east kills libya officer strikes town western",
+  "battling california crash dies helicopter massive pilot utah wildfire",
+  "attack cuts democrats doctor house iowa medicaid race tight",
+  "attack deadly houthis iran kill reportedly since start"
  ]
 }
