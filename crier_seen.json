@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6004064",
-  "CBMirAFBVV95cUxPN0VsOUJyLVVVWVM4N2dTcVRDRjBnOHJCcUUzTkg0ZmwwU1NyMTdvZV9kM0FnbUtwbjM1elRRYmhDb0JjcFE1Qi1mZHJBRmtzbUt3bGZjaUxzbTBFT3NkRGJjTy1zay1vczliOEUtUUMwSHJ0a1Q1MlBPaWRmNmJzOHExRWJETnpVMk5qbENOVFhNQUpGN2dmWmc3Vk9IdExqclpBT3lDSGd3VlRG",
-  "https://nypost.com/?post_type=article&p=40158015",
-  "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
-  "https://thehill.com/?p=6004176",
   "https://nypost.com/?post_type=article&p=40158276",
   "CBMiuwFBVV95cUxOZnZ5dk1rM0dBSk5iSjEwVV9FNUJRVWJhLXlEY2lKRHAwb0ZSUU5INVUwVFpKV3M3aGhVNmZNSDMxV1JQNnZDWjhwaFhITnVhUUt5X0tCZ2pBTk1rNEg4ZTQ5MUJzRVI2b2hCS1BqYXpKTHBabmc5WHpQajZuS3BfNU5FUHR1cHlfUmQ0bWtFLWdyUFZoaXF6d2ZCUWRPX2JROU5fclRkM3NyOVNXZW52YzdRUkRBRWEtZ3ZF",
   "https://www.theguardian.com/us-news/2026/aug/02/trump-tariffs-weapon",
@@ -799,39 +794,14 @@
   "CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw",
   "CBMijwFBVV95cUxPQjhVSTJQc2tlWGZJR0EyMDVyM0VaVk5nX3p0bzBTUHR5d3FrYWhEbXdnNWw2V3ppVy1rSHlkaFloNGZ5eEh2ZzMtUGVSWWVFdmpXX3FUODd1VDhmSV8tRVhKNF8xaXJYa0xlWTE0eWdMMTJxMGlBbTN5bUUySnNxdFRDeXZOd1dOM2xOS3BxZw",
   "CBMiswFBVV95cUxQM0pWdFZzeWRnNk5zclJaZzJnUnhXVnZnNHdFcFRtTlo3T00wd1RVdHF6QmNZRVJBSGNIMm50YW1ob0x4dENzeGFpTDlSNUdvbkZZNXBBLVc0WVFjVVRMUEl3NldGcFNtTXYybWJLVklxYlZnbUkzRVpyeU55b3FFZlhlRmVueEdTTHNGcnVVS05zUnZyWkJ5VkhIcmFwS01KYVNXaHVyeE1yZEhtd3Z4alAwUQ",
-  "CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z"
+  "CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z",
+  "https://www.theguardian.com/technology/2026/aug/11/nvidia-wall-street-finance-ai-infrastructure",
+  "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
+  "CBMipwFBVV95cUxNMDFiYmhSaEZBcUFlZjdQYlJkWGVzT2NSaENRSmVlZU05ZGtLYk5MR2VWc0dFRU10eE1JOTFDQkRPbDJPVFBUQnZLLVNCeW14Y3BmOHVRSlRVclBWOEZnWUlXY0VhVkJYeDJqcUxkemRXUGhHdHdEV05HVExVamNGRXV5Qlh2SW9VZlhDUm9MT0xSOGg1R0hPQm1fV01hWm9wd0ZWOGJabw",
+  "CBMitwFBVV95cUxNVzNENElkRmF2N0xQRTJpTl9qTVpLQm4xV18zbldhdkRlUDh1Y21iZlgyS2NSMjJZOXlQOERyUzJMVTI2YUhXbVhkU3RPa3o1WVRJbzJoOWFUQnd1eldBVDZlV1JxT1ExZ2tyWnhnZ1ZmcTducDNudHNCVFNOalRoRnFVeVFqTmpDbXF6MjV2QTdlazhYZU1WbG1HUTVqOFZLUVh4M2NxbkF1TkJwZ1hmZG44eTJIYTQ",
+  "CBMiqgFBVV95cUxPVTFBYUhnR1J1V2dhNDdXeV9PTXFQVG5kMTE0cGh0QVIycTN2Vm5NV1hHQWZCOGlteFBuY1MzTXhWOG1xSkVXLXdVek5TWGZqR3dmT0Y2NjBkanJ5MVZmbl9POTYyellOdnNpMUhQYW5YS1lnTWdhQ096WVlzTVRxNGkxakNtVjI0SkZEb2xiRUdPMG9aZno2M25NQ3c2VmEzd194LUN1aFZ3QQ"
  ],
  "posts": [
-  {
-   "fp": "arrested attack beach connecticut deadly home invasion rocked suspects town",
-   "title": "Suspects in deadly Connecticut home invasion arrested in attack that rocked beach town",
-   "source": "New York Post",
-   "at": "2026-08-06T11:49:39.249238+00:00"
-  },
-  {
-   "fp": "allegations black cambridge investigates plagiarism professor resigns university youngest",
-   "title": "Youngest Black professor at Cambridge resigns as university investigates allegations of plagiarism",
-   "source": "Washington Examiner",
-   "at": "2026-08-06T11:49:40.961898+00:00"
-  },
-  {
-   "fp": "arson betting crackdown risk senators urge warnings wildfire",
-   "title": "US senators urge crackdown on wildfire betting amid warnings of arson risk",
-   "source": "Guardian World",
-   "at": "2026-08-06T11:49:42.618736+00:00"
-  },
-  {
-   "fp": "activities case crash curious jamming mexico military plane tied",
-   "title": "The curious case of the New Mexico plane crash tied to military jamming activities",
-   "source": "Washington Examiner",
-   "at": "2026-08-06T11:49:44.228324+00:00"
-  },
-  {
-   "fp": "collapse deal gaza peace teeth trump",
-   "title": "No teeth, no peace: Why Trump\u2019s Gaza deal will collapse",
-   "source": "Washington Examiner",
-   "at": "2026-08-06T11:49:46.308180+00:00"
-  },
   {
    "fp": "crashed moon rocket scientists spacex thrilled",
    "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
@@ -3201,14 +3171,39 @@
    "title": "Colombia searches for its missing after a powerful earthquake kills more than 100",
    "source": "AP",
    "at": "2026-08-11T05:29:54.095252+00:00"
+  },
+  {
+   "fp": "500bn deal financing firms links nvidia street wall",
+   "title": "Nvidia links with Wall Street firms for $500bn AI financing deal",
+   "source": "Guardian World",
+   "at": "2026-08-11T07:06:38.015072+00:00"
+  },
+  {
+   "fp": "back fizzle iran other pivots sanctions strategies trump",
+   "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+   "source": "NPR News",
+   "at": "2026-08-11T07:06:39.914642+00:00"
+  },
+  {
+   "fp": "carolina graham hold late lindsey pick primary replacement republicans senate south",
+   "title": "South Carolina Republicans hold primary to pick Senate replacement for the late Lindsey Graham",
+   "source": "AP",
+   "at": "2026-08-11T07:06:41.591656+00:00"
+  },
+  {
+   "fp": "backed democratic fight hopefuls latest minnesota primary proxy senate test trump",
+   "title": "Minnesota primary is latest Democratic proxy fight for Senate and a test for Trump-backed hopefuls",
+   "source": "AP",
+   "at": "2026-08-11T07:06:43.318616+00:00"
+  },
+  {
+   "fp": "2027 deal launch signs spacex vietnam vinspace",
+   "title": "Vietnam's VinSpace signs SpaceX launch deal for 2027",
+   "source": "Reuters",
+   "at": "2026-08-11T07:06:45.030902+00:00"
   }
  ],
  "titles": [
-  "arrested attack beach connecticut deadly home invasion rocked suspects town",
-  "allegations black cambridge investigates plagiarism professor resigns university youngest",
-  "arson betting crackdown risk senators urge warnings wildfire",
-  "activities case crash curious jamming mexico military plane tied",
-  "collapse deal gaza peace teeth trump",
   "crashed moon rocket scientists spacex thrilled",
   "battle cancer dead following rare star sydney tiktok towle",
   "hamas hunting killed trump usaid watchdog",
@@ -3603,6 +3598,11 @@
   "asia drift iran prices rise stalemate stocks",
   "european extend highs record stocks",
   "deal highs hopes iran near peace steadies week",
-  "colombia earthquake kills missing powerful searches"
+  "colombia earthquake kills missing powerful searches",
+  "500bn deal financing firms links nvidia street wall",
+  "back fizzle iran other pivots sanctions strategies trump",
+  "carolina graham hold late lindsey pick primary replacement republicans senate south",
+  "backed democratic fight hopefuls latest minnesota primary proxy senate test trump",
+  "2027 deal launch signs spacex vietnam vinspace"
  ]
 }
