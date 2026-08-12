@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://news.sky.com/story/art-of-the-deal-or-insider-trading-trump-takes-truth-social-to-wall-street-13569579",
-  "https://thehill.com/?p=6006901",
   "CBMie0FVX3lxTE9FbUhCcDNQSE1IQ3dnM055RTJNZ0N1WHYtTUswbUtjZmRTS3FwbEtKZkd5Ti1WT0JndWtUSEJJTktud19OQzRELW93em1SMFdjcnphTVBMQ1BPMzBJLTdEYmxMbnJ2bFB4NVN4ZVlKYjIyZUlFZGx3RUljSQ",
   "https://www.washingtonexaminer.com/?p=4673584",
   "https://www.theguardian.com/us-news/2026/aug/03/palantir-second-quarter-earnings",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40302575",
   "https://nypost.com/?post_type=article&p=40305832",
   "CBMiqAFBVV95cUxOcnltaTZLUy1uZ1dibURFLURYLS0wZ0c5VDYtWVd4em1ndXdubHFsZW8yeTZPbmdmR1hrNU5Uc0lBWlVreHBsd0E4UXFPV1pWQVBsMnNzazJ2ODVjenM5WkdUc2tYbV83RmJyVzdUekNkVU9IT3oxM3ZSQ1h2Y2U1azM2X2hWR0lXOHE1REQzc3FseEt1MS1YQUhiMnYtVXhhMFVncmRzQTc",
-  "CBMilgFBVV95cUxPeW0xX1RTYWRIeE94MURSaFhhN3VPeDBfY2Q1YXUtQkp2YXE5eVhPYTRuVmFISjhhQ2t1SFVGcUs0QjhMQmJLSjBDbjVmVEU5eDN4Z0g0Q1lCVkYyX3dfTzliQVBkLW5RWWYtYmQ1UHB4WmxPNDB6UmRpdHFPZVdKNVJIWmd2MmlvRmMxLWhEVHVmRnNfUWc"
+  "CBMilgFBVV95cUxPeW0xX1RTYWRIeE94MURSaFhhN3VPeDBfY2Q1YXUtQkp2YXE5eVhPYTRuVmFISjhhQ2t1SFVGcUs0QjhMQmJLSjBDbjVmVEU5eDN4Z0g0Q1lCVkYyX3dfTzliQVBkLW5RWWYtYmQ1UHB4WmxPNDB6UmRpdHFPZVdKNVJIWmd2MmlvRmMxLWhEVHVmRnNfUWc",
+  "https://www.bbc.co.uk/news/articles/c5y49xp2wrno#0",
+  "https://news.sky.com/story/bus-driver-shot-dead-outside-london-pub-named-by-police-13572349"
  ],
  "posts": [
-  {
-   "fp": "ceasefire close deal dispute hormuz iran lingers signals strait",
-   "title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
-   "source": "The Hill",
-   "at": "2026-08-08T15:59:40.216444+00:00"
-  },
-  {
-   "fp": "atlanta fatal office shooting visits year",
-   "title": "RFK Jr. visits CDC Atlanta office one year after fatal shooting",
-   "source": "The Hill",
-   "at": "2026-08-08T15:59:41.927174+00:00"
-  },
   {
    "fp": "coast east hurricane intensity predict scientists sharks using",
    "title": "How scientists are using sharks to predict hurricane intensity on the East Coast",
@@ -3201,11 +3189,21 @@
    "title": "WHO says Congo\u2019s Ebola outbreak is on track to eclipse the deadliest one in history",
    "source": "AP",
    "at": "2026-08-12T17:14:52.973774+00:00"
+  },
+  {
+   "fp": "attack black export grain major port russian terminals ukraine",
+   "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+   "source": "BBC World",
+   "at": "2026-08-12T18:08:30.609825+00:00"
+  },
+  {
+   "fp": "dead driver london named outside police shot",
+   "title": "Bus driver shot dead outside London pub named by police",
+   "source": "Sky News",
+   "at": "2026-08-12T18:08:32.392517+00:00"
   }
  ],
  "titles": [
-  "ceasefire close deal dispute hormuz iran lingers signals strait",
-  "atlanta fatal office shooting visits year",
   "coast east hurricane intensity predict scientists sharks using",
   "casualty drills internet slower taiwan",
   "canada evacuated huge spreads thousands wildfire",
@@ -3603,6 +3601,8 @@
   "dead flash floods midwest tornadoes year",
   "child daycare dead front horrific including kids minnesota murder suicide suspected young",
   "child daycare killed life minnesota partner police taking",
-  "congo deadliest ebola eclipse history outbreak track"
+  "congo deadliest ebola eclipse history outbreak track",
+  "attack black export grain major port russian terminals ukraine",
+  "dead driver london named outside police shot"
  ]
 }
