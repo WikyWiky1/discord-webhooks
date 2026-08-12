@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
-  "https://nypost.com/?post_type=article&p=40178827",
-  "https://nypost.com/?post_type=article&p=40178757",
-  "CBMiqAFBVV95cUxObjlrYTFEWU1Td0psdzA1WmlzRUpyelV2aEtibTIyY3FidC14QkxNckU3ZmI1VUFmMVFpOExQOFMyQjBXZTlEdUhLTWFqQnd0UUh5ZE16eEZKOThCSFdzQ2RDMTVkbFRKeUN4elR3bHJJQUl6S1l2Um5uSEpRclhIMkZabHRmbjJwTTJLS25QRVNiQjVpSDJPcm9PM3VPeEZZN0J0MUUxTlY",
   "https://www.washingtonexaminer.com/?p=4673563",
   "https://thehill.com/?p=5972141",
   "https://thehill.com/?p=6007150",
@@ -799,33 +795,13 @@
   "https://nypost.com/?post_type=article&p=40304204",
   "CBMiuwFBVV95cUxOOTJmLUtFVzNUdEN0d0xaVDdrNk85VkREUWd4eFQ3UzdxSUcxeVBiRHFuaXp1V0FYTkhsRnI0cndXQlNqT3Nsa2xJYm9aUFN6SDhoYTRMRzF2czR4QWdFOXF4a1U5YnNnbXVXMlBSRU9nX1hWSTNrR0FGbkctVDRpbDBpdkRqNnctX3RWbW9uYkE4ZFZ5UFdqblFTaXhfM0dNVjhWTjN1aURXekowakR3eUl2d212TWxaMmRV",
   "https://nypost.com/?post_type=article&p=40310207",
-  "https://www.theguardian.com/us-news/2026/aug/12/nick-reiner-indicted-parents-murders"
+  "https://www.theguardian.com/us-news/2026/aug/12/nick-reiner-indicted-parents-murders",
+  "https://thehill.com/?p=6026151",
+  "https://www.washingtonexaminer.com/?p=4685067",
+  "CBMisAFBVV95cUxQbnJXNzBsTDNMc0JITVpQUHVTUkFxSmpkQUdWM21fM2FxOGVSaFFpeHFBdzZhYnlIZXc4ZklfNGtaSG5mMkpIWnlmUUxXbTJSRmY5bkF4X1B5OTVKbVhLb0Y0NDNhOVlPb3VrLVZsTzJqUDNxcUM1dzhFdFpwS3ljX3FVc2hiaUFFNEpDbGk2VHdHWDFpOXVnYVYyZG92VHNBa2Jmc0hNWDQxXzBtVjUtbQ",
+  "CBMivAFBVV95cUxQcUJ0U0RwQ2U2OHRKX1JZX1daaUdjR0ZMZWM5a0x3VndUUzJ0RFRTMTQ4ZHA1blZIYlVNWTZOeTUwa2QxcGQtVGpCRXN0WlJqNW1abl9wMnptY2hTSDA2VHUzNVFBLWVsTnRDYzZYQjBQS2VnZ2VBVVRNVHQwQTJiQ2dxSF92cHlFSENDQ1psZF9rM3plUE5mTzZtUWR0U1d0ZlZ3Z3NZRXBOX2ZQSGZXUTlKNkpHMHZ0amdoUg"
  ],
  "posts": [
-  {
-   "fp": "carolina darline experience famous graham lack name primary south tests value",
-   "title": "Darline Graham tests value of a famous name vs. lack of experience in South Carolina primary",
-   "source": "AP",
-   "at": "2026-08-08T18:36:32.968732+00:00"
-  },
-  {
-   "fp": "attorney back blanche general grassley nomination todd track",
-   "title": "How Grassley got Todd Blanche\u2019s attorney general nomination back on track",
-   "source": "Washington Examiner",
-   "at": "2026-08-08T18:36:34.878491+00:00"
-  },
-  {
-   "fp": "activist away dead ground lobaido mamdani scott stay still warns zero",
-   "title": "\u2018Dead\u2019 pro-cop activist Scott LoBaido still warns Mamdani to stay away from Ground Zero",
-   "source": "New York Post",
-   "at": "2026-08-08T19:11:02.433840+00:00"
-  },
-  {
-   "fp": "brooklyn coming dead final found hammering hears home minutes neighbor woman",
-   "title": "Brooklyn woman found dead after neighbor hears \u201830 minutes of hammering\u2019 and a final \u2018F\u2013k You\u2019 coming from home",
-   "source": "New York Post",
-   "at": "2026-08-08T19:45:31.475082+00:00"
-  },
   {
    "fp": "canada evacuate fast forces moving people western wildfire",
    "title": "A fast-moving wildfire forces more than 20,000 people to evacuate in western Canada",
@@ -3201,13 +3177,33 @@
    "title": "Nick Reiner indicted for murders of parents Rob and Michele Reiner",
    "source": "Guardian World",
    "at": "2026-08-12T21:07:32.254174+00:00"
+  },
+  {
+   "fp": "defends endorsement hong khanna loss primary surprise wisconsin",
+   "title": "Khanna defends Hong endorsement after surprise loss in Wisconsin primary",
+   "source": "The Hill",
+   "at": "2026-08-12T21:44:18.145830+00:00"
+  },
+  {
+   "fp": "backed hasan hong loss piker primary sounds thanksgiving",
+   "title": "Hasan Piker sounds off after DSA-backed Hong\u2019s primary loss: \u2018F*** Thanksgiving\u2019",
+   "source": "Washington Examiner",
+   "at": "2026-08-12T21:44:19.851296+00:00"
+  },
+  {
+   "fp": "bessent counter evasion lack press rubio russia sanctions senators",
+   "title": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia",
+   "source": "Reuters World",
+   "at": "2026-08-12T21:44:21.601999+00:00"
+  },
+  {
+   "fp": "billion deficit grow july negative outlays receipts stay tariff tops",
+   "title": "US July deficit tops $432 billion as outlays grow, tariff receipts stay negative",
+   "source": "Reuters",
+   "at": "2026-08-12T21:44:23.406920+00:00"
   }
  ],
  "titles": [
-  "carolina darline experience famous graham lack name primary south tests value",
-  "attorney back blanche general grassley nomination todd track",
-  "activist away dead ground lobaido mamdani scott stay still warns zero",
-  "brooklyn coming dead final found hammering hears home minutes neighbor woman",
   "canada evacuate fast forces moving people western wildfire",
   "consider entrances expert iran mountain nuclear pickaxe rebooting stop taking trump weapons",
   "avalanche criminal deadly forward leave moves probe questions redacted reports tahoe unanswered",
@@ -3603,6 +3599,10 @@
   "alliances banks climate collapses flee gooder push report street wall zero",
   "emergency energy expansion export fast massive plaquemines terminal track trump",
   "affair arrested attack home incestuous shocked whose woman",
-  "indicted michele murders nick parents reiner"
+  "indicted michele murders nick parents reiner",
+  "defends endorsement hong khanna loss primary surprise wisconsin",
+  "backed hasan hong loss piker primary sounds thanksgiving",
+  "bessent counter evasion lack press rubio russia sanctions senators",
+  "billion deficit grow july negative outlays receipts stay tariff tops"
  ]
 }
