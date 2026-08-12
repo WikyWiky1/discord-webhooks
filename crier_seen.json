@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiqgFBVV95cUxQeV9iRmVWNXhWXzBIek9ReFZxMUh5WVJVdmZLdnBaV2Z5THd0WDZkNDZ3YVJyUDY2R0prUktxYkQxQmRXNlNyR1JxWnJyYWozMjNWa1lNSGhjc0trZVRqcHQxVmtKZVZ4OHJlYkd5cW00NVVfMGhxMnNFTFZiOXlzanFJM1lTaDRreXZuYjhyTHp0UkoyZzBZd2o1ZnlRdFdNaG9JSW1sMklRUQ",
-  "https://nypost.com/?post_type=article&p=40164865",
   "https://nypost.com/?post_type=article&p=40164666",
   "CBMimwFBVV95cUxQbTlMT3pHaGFaRzdjMHdrZ1RWOVhwY1FPSi1TSm5pNEFuaHlLVldYYXF3VHY3WTR2MHNCMW12SVd4dXRSZy13NEkyR3BVc2QwcV9SZnR4Z1hxX05jUGNOYkJnUXp1V2hYbVhZcG4zUUhJVWl2SS1ibTVtdlQ4cjdvcHZSMC1OQS00WldrVmd0RDdWMEN6MlFnT1BOaw",
   "https://nypost.com/?post_type=article&p=40165951",
@@ -799,21 +797,11 @@
   "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
   "CBMinwFBVV95cUxNUzZXdGs0bXFtcmF6Qkw5NC0xbVJUdmVJSkxIZEZwWm1SWDJsZ0pTbmZMZ2tiWjczMkJCMEEzVC1COFg0YzVKemJFMWtvd3c1UUEtRTMyblRBY2ZNRnIyRlRxRnZfZmhNS1VZRV9GSUlUcmtmN3V5cll6NFg1UEVNTXdLekI5a0N3NUlSdGJYd08yV05CRGxWa3lkS1piUjg",
   "CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU",
-  "CBMiwgFBVV95cUxPLW16bGlGNTd2RjdTVW96c29mdnRDS0NpSUlYbTFZNWpPLTNhbWxvT1lKSnNyek0zV1RnTW0xa0pYRHNFMDNNRWo0YVcyaENNbjM4Q0FkcW9BVEpLNlRyZHpsUEdGOUNXbjdjLThOVEhRdjM4bnlNcWFJa2k4S0N1Tmc5Y1BMMlItUURwTHVFYzFIaUxMeFFfcDNmcEthSTI1dkNzZk5RNFZLNzNhZjFZM09jWThKemZ3aHduNWdJQ1hSUQ"
+  "CBMiwgFBVV95cUxPLW16bGlGNTd2RjdTVW96c29mdnRDS0NpSUlYbTFZNWpPLTNhbWxvT1lKSnNyek0zV1RnTW0xa0pYRHNFMDNNRWo0YVcyaENNbjM4Q0FkcW9BVEpLNlRyZHpsUEdGOUNXbjdjLThOVEhRdjM4bnlNcWFJa2k4S0N1Tmc5Y1BMMlItUURwTHVFYzFIaUxMeFFfcDNmcEthSTI1dkNzZk5RNFZLNzNhZjFZM09jWThKemZ3aHduNWdJQ1hSUQ",
+  "https://www.theguardian.com/us-news/2026/aug/12/david-crowley-defeats-francesca-hong-to-win-democratic-primary-for-wisconsin-governor",
+  "https://nypost.com/?post_type=article&p=40284536"
  ],
  "posts": [
-  {
-   "fp": "crashes fighting helicopter officials onboard people utah wildfire",
-   "title": "Helicopter fighting Utah wildfire crashes with two people onboard, officials say",
-   "source": "Guardian World",
-   "at": "2026-08-08T02:23:24.332146+00:00"
-  },
-  {
-   "fp": "america aside budget conservatives deal impasse reach save senate thune trump",
-   "title": "Thune, Trump, Senate conservatives reach deal to set aside budget, SAVE America Act impasse",
-   "source": "The Hill",
-   "at": "2026-08-08T04:10:39.634895+00:00"
-  },
   {
    "fp": "august budget fight line party punts recess senate until",
    "title": "Senate GOP punts party-line budget fight until after August recess",
@@ -3201,11 +3189,21 @@
    "title": "Wildfires, heatwaves pose growing fiscal risk to Greece, PM adviser says",
    "source": "Reuters",
    "at": "2026-08-12T09:33:16.432121+00:00"
+  },
+  {
+   "fp": "crowley david defeats democratic francesca governor hong primary wisconsin",
+   "title": "David Crowley defeats Francesca Hong to win Democratic primary for Wisconsin governor",
+   "source": "Guardian World",
+   "at": "2026-08-12T10:04:44.380602+00:00"
+  },
+  {
+   "fp": "crowley david francesca gubernatorial hating holiday hong loses moderate primary wisconsin",
+   "title": "Holiday-hating Francesca Hong loses to moderate David Crowley in Wisconsin gubernatorial primary",
+   "source": "New York Post",
+   "at": "2026-08-12T10:04:46.159557+00:00"
   }
  ],
  "titles": [
-  "crashes fighting helicopter officials onboard people utah wildfire",
-  "america aside budget conservatives deal impasse reach save senate thune trump",
   "august budget fight line party punts recess senate until",
   "backed evasion hottest network russia sanctions startup state",
   "bitter democrats front michigan present primary united",
@@ -3603,6 +3601,8 @@
   "concerns health mill nuclear power push ramps tribal uranium",
   "baby colombia earthquake rescued rubble",
   "backdrop eclipse heat prepares rare solar spain wildfires",
-  "adviser fiscal greece growing heatwaves pose risk wildfires"
+  "adviser fiscal greece growing heatwaves pose risk wildfires",
+  "crowley david defeats democratic francesca governor hong primary wisconsin",
+  "crowley david francesca gubernatorial hating holiday hong loses moderate primary wisconsin"
  ]
 }
