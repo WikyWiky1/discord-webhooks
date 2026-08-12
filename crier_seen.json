@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40163348",
-  "CBMixAFBVV95cUxOaHoyYXVud3NrcC03c0FNa1BBbEZFT0dsaHphTDBmQ3ZBRDRsNm00UjJja3NKTWdRS1hwLUYtOEc5QS03Z281Z01JQTNMU1RmanNQSE9iaXNLa3lVSFdpenhkLTR3ZkhFZlQ3Z2RtZU12ZU9jSFFweW1lclZuMi1SN2k5T001RWI5V3Q1QWxQTWdRdkFwYy16bm5xc2RkLVZzc2cwdF92UFNZeVR5eWlHcXlzNTlMdTBheDIxUVVjN1E0Z0tQ",
-  "https://www.bbc.co.uk/news/articles/c24mr09r99eo#0",
-  "https://www.washingtonexaminer.com/?p=4671275",
-  "https://nypost.com/?post_type=article&p=40160462",
-  "https://www.theguardian.com/business/2026/aug/03/uk-manufacturing-growth-donald-trump-tariff-us-iran",
   "https://thehill.com/?p=6003165",
   "https://thehill.com/?p=6005040",
   "CBMiVkFVX3lxTE5WVVdvNVIyNVNYNjduVDJpeEFmYVlPU0p4QTlkTWtmWTNFWFlJVnVITVZEX1dWTXJKVVBNMjlzeWI4TjVYM3d5UlJvTVY1Y01kdVpGeHN3",
@@ -799,45 +793,15 @@
   "https://thehill.com/?p=6023883",
   "https://nypost.com/?post_type=article&p=40296689",
   "https://thehill.com/?p=6023743",
-  "https://www.bbc.co.uk/news/articles/clye8332d63o#2"
+  "https://www.bbc.co.uk/news/articles/clye8332d63o#2",
+  "https://www.washingtonexaminer.com/?p=4682736",
+  "https://www.washingtonexaminer.com/?p=4682677",
+  "https://thehill.com/?p=6014896",
+  "https://www.theguardian.com/us-news/2026/aug/11/south-carolina-senate-primary-runoff-darline-graham",
+  "https://thehill.com/?p=6006760",
+  "https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister"
  ],
  "posts": [
-  {
-   "fp": "confirms fema leader senate",
-   "title": "Senate confirms FEMA leader",
-   "source": "The Hill",
-   "at": "2026-08-07T18:56:04.868519+00:00"
-  },
-  {
-   "fp": "bill graham late lindsey negotiated passes russia sanctions senate sweeping",
-   "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham",
-   "source": "AP",
-   "at": "2026-08-07T18:56:06.607107+00:00"
-  },
-  {
-   "fp": "chest election million name ticket touts trump without",
-   "title": "Trump touts $800 million war chest in first election without his name at the top of the ticket",
-   "source": "Washington Examiner",
-   "at": "2026-08-07T18:56:08.372514+00:00"
-  },
-  {
-   "fp": "bill overwhelmingly passes russia sanctions senate",
-   "title": "Senate overwhelmingly passes Russia sanctions bill",
-   "source": "The Hill",
-   "at": "2026-08-07T18:56:10.320361+00:00"
-  },
-  {
-   "fp": "bill democrats oppose paul rand russia sanctions",
-   "title": "10 Democrats and Rand Paul oppose Russia sanctions bill",
-   "source": "Washington Examiner",
-   "at": "2026-08-07T18:56:12.026799+00:00"
-  },
-  {
-   "fp": "allegedly california chainsaw dead least person sparked wildfire",
-   "title": "At least one person dead in California wildfire allegedly sparked by chainsaw",
-   "source": "Guardian World",
-   "at": "2026-08-07T19:46:57.452906+00:00"
-  },
   {
    "fp": "burger drive gunman idaho shooting shows thru victims video",
    "title": "New video shows gunman shooting victims at Idaho In-N-Out Burger drive-thru",
@@ -3201,15 +3165,45 @@
    "title": "How a 97-year-old escaped deadly Indian floods on a banana raft",
    "source": "BBC World",
    "at": "2026-08-12T00:39:12.581067+00:00"
+  },
+  {
+   "fp": "democratic gubernatorial klobuchar minnesota nomination wins",
+   "title": "Amy Klobuchar wins Democratic gubernatorial nomination in Minnesota",
+   "source": "Washington Examiner",
+   "at": "2026-08-12T01:54:57.387765+00:00"
+  },
+  {
+   "fp": "governor nomination secures tiffany wisconsin",
+   "title": "Tom Tiffany secures GOP nomination for Wisconsin governor",
+   "source": "Washington Examiner",
+   "at": "2026-08-12T01:54:59.118238+00:00"
+  },
+  {
+   "fp": "connecticut former hartford house larson mayor ousts primary",
+   "title": "Former Hartford mayor ousts Larson in Connecticut House primary",
+   "source": "The Hill",
+   "at": "2026-08-12T01:55:01.011949+00:00"
+  },
+  {
+   "fp": "carolina darline face graham norman primary ralph republican runoff south",
+   "title": "Darline Graham to face Ralph Norman in South Carolina Republican primary runoff",
+   "source": "Guardian World",
+   "at": "2026-08-12T01:55:02.918530+00:00"
+  },
+  {
+   "fp": "alabama carl congress house jerry moore primary return seat track",
+   "title": "Jerry Carl on track to return to Congress after Alabama House primary win for Moore seat",
+   "source": "The Hill",
+   "at": "2026-08-12T01:55:04.662987+00:00"
+  },
+  {
+   "fp": "brown cook crises defined diplomatic election islands mark speaks year",
+   "title": "Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year",
+   "source": "Guardian World",
+   "at": "2026-08-12T01:55:06.418006+00:00"
   }
  ],
  "titles": [
-  "confirms fema leader senate",
-  "bill graham late lindsey negotiated passes russia sanctions senate sweeping",
-  "chest election million name ticket touts trump without",
-  "bill overwhelmingly passes russia sanctions senate",
-  "bill democrats oppose paul rand russia sanctions",
-  "allegedly california chainsaw dead least person sparked wildfire",
   "burger drive gunman idaho shooting shows thru victims video",
   "cover drive employees footage horrifying kill mass scramble shooter shows terrified thru window worker",
   "1983 championship cozell dead legend mcqueen part state team",
@@ -3603,6 +3597,12 @@
   "airstrikes civilians congress killed military pentagon resulted tells yemen",
   "clancy intrusive kids killed lindsay persistent revealed suicide thoughts weeks worst",
   "declaring elections emergency happened national security stranger things trump",
-  "banana deadly escaped floods indian raft year"
+  "banana deadly escaped floods indian raft year",
+  "democratic gubernatorial klobuchar minnesota nomination wins",
+  "governor nomination secures tiffany wisconsin",
+  "connecticut former hartford house larson mayor ousts primary",
+  "carolina darline face graham norman primary ralph republican runoff south",
+  "alabama carl congress house jerry moore primary return seat track",
+  "brown cook crises defined diplomatic election islands mark speaks year"
  ]
 }
