@@ -261,6 +261,15 @@
    "expired": false,
    "posted_at": "2026-08-12T10:14:39+00:00",
    "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.60f9df4bfd2c23bedbbb329189f2b2e141ba6baa.001.2",
+   "message_id": "1537168995189268491",
+   "event": "Extreme Heat Warning",
+   "area": "Pulaski; Phelps; Laclede; Texas; Dent; Greene; Webster; Wright; Christian; Douglas; Howell; Shannon; Barry; Stone; Taney; Ozark; Oregon",
+   "expired": false,
+   "posted_at": "2026-08-12T18:40:47+00:00",
+   "expired_at": null
   }
  ]
 }
