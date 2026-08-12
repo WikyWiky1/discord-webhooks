@@ -240,8 +240,17 @@
    "message_id": "1536785360816709753",
    "event": "Extreme Heat Warning",
    "area": "Russell; Lincoln; Barton; Ellsworth; Saline; Rice; McPherson; Marion; Chase; Reno; Harvey; Butler; Greenwood; Woodson; Allen; Kingman; Sedgwick; Harper; Sumner; Cowley; Elk; Wilson; Neosho; Chautauqua; Montgomery; Labette",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-11T17:16:22+00:00",
+   "expired_at": "2026-08-12T02:35:13+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.19a24a674f6d14974d5020b1b724b9922142053a.001.1",
+   "message_id": "1536925993024098315",
+   "event": "Extreme Heat Warning",
+   "area": "Russell; Lincoln; Barton; Ellsworth; Saline; Rice; McPherson; Marion; Chase; Reno; Harvey; Butler; Greenwood; Woodson; Allen; Kingman; Sedgwick; Harper; Sumner; Cowley; Elk; Wilson; Neosho; Chautauqua; Montgomery; Labette",
+   "expired": false,
+   "posted_at": "2026-08-12T02:35:11+00:00",
    "expired_at": null
   }
  ]
