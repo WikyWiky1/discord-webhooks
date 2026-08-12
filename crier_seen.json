@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/03/in-n-out-shooting-idaho",
-  "https://thehill.com/?p=6005207",
   "CBMiYkFVX3lxTE5LNi1QQ3FnOWtLNURBWF8xVWk4b20yRkx0QXlNWUIzQlRDTUlHcnkxZUV6aENOODJXbXhMd3NBQXNrQWlVWkNEU1otWExDZE40MG1ubnNWWFRHS1JwdzZyQmlB",
   "https://nypost.com/?post_type=article&p=40166047",
   "CBMimAFBVV95cUxQaU5UYjZEbzc0bzZZQmlHZ2ZVNk9IYTVPcG02TVVRdV8xLUxjQ200X25WZ0otTlQ3VDFlMGRpVnhZT0E5aFF1RVZ1NXlIMlprOWNvWXBKeExJSFhZSjViY21XYWg2RUVSMGFIaGljaE11YmxzSGprVmRTNzI1MWZzUWNRZk10c3o0X3hWZ3B6UjYtaUxSQl9zQg",
@@ -799,21 +797,11 @@
   "https://thehill.com/?p=6023832",
   "https://nypost.com/?post_type=article&p=40299207",
   "https://www.theguardian.com/australia-news/2026/aug/12/victorian-microparty-mps-including-georgie-purcell-to-face-re-election-struggle-after-group-voting-tickets-abolished",
-  "CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw"
+  "CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw",
+  "CBMilwFBVV95cUxOMWZZT1Z3Sjl0Y3Ixczg0aHdRVUk3aXVnRlBxN2JDZmdpY3pHSGQwSEJ2U0dZc20yNDBFU09qWm9FVXNackZ2M0xfTkwydjJrQmw2OFZGdWJaejN6YWZlVHZMSGhSc0hWMnlNbXZsa3BvdFRCMWZ5akRXc2dVS2c2aF85eGNDdFN2NHlsbk5wMC1OQXM3Z0ZR",
+  "CBMitwFBVV95cUxONm1OVFhKdVF3WHJaSlZsaTAwVzI4WmV5eDFhZjctdUxxZ0twOVgxNXFsbVoyU3NfYmg2aWNMdklRTlRnWDJOYWoyOTlfUTBkOUo5Sjd1T3lqUUZUOVZQbDRmV0d6UDRRSUdHWGN0RmY5TEJXN29vU1NVbGJTUGYwNzQ0amNIMGR4N3hud3BFOG9OMmsxZmxJQ2lBNVdPU3FpRjYxUHROOE01d2ZVWVpwUnBVZ0s3LUk"
  ],
  "posts": [
-  {
-   "fp": "attack battle birthright citizenship faces legal trump uphill",
-   "title": "Trump's new attack on birthright citizenship faces uphill legal battle",
-   "source": "Reuters",
-   "at": "2026-08-07T23:27:25.603896+00:00"
-  },
-  {
-   "fp": "aboard battling conditions crashes helicopter large people remain unknown utah wildfires",
-   "title": "Helicopter crashes while battling large Utah wildfires \u2014 as conditions of 2 people aboard remain unknown",
-   "source": "New York Post",
-   "at": "2026-08-08T00:03:28.310040+00:00"
-  },
   {
    "fp": "comptroller confirms hurst pentagon senate",
    "title": "Senate confirms Hurst as Pentagon comptroller",
@@ -3201,11 +3189,21 @@
    "title": "Luxon survives another leadership vote months before New Zealand\u2019s election",
    "source": "AP",
    "at": "2026-08-12T07:24:12.079272+00:00"
+  },
+  {
+   "fp": "bali burning dead dozens evacuate ferry indonesian least left near rescuers",
+   "title": "Indonesian rescuers evacuate dozens from a burning ferry that left at least 1 dead near Bali",
+   "source": "AP",
+   "at": "2026-08-12T08:10:53.485937+00:00"
+  },
+  {
+   "fp": "attack drone grain halts industry novorossiysk operations russia source terminal ukrainian",
+   "title": "Russia's Novorossiysk grain terminal halts operations after Ukrainian drone attack, industry source says",
+   "source": "Reuters",
+   "at": "2026-08-12T08:10:55.178824+00:00"
   }
  ],
  "titles": [
-  "attack battle birthright citizenship faces legal trump uphill",
-  "aboard battling conditions crashes helicopter large people remain unknown utah wildfires",
   "comptroller confirms hurst pentagon senate",
   "billion demand eyeing furniture recovery revenue sees spacex trillion wayfair",
   "ally colombia continent president rightward shift sworn tigre trump",
@@ -3603,6 +3601,8 @@
   "biter crowley defeats governor hong nail primary takeaways wisconsin",
   "ballot democratic driving drunk forged husband mayor primary prosecutors signatures",
   "abolished election face georgie group including microparty purcell struggle tickets victorian voting",
-  "another election leadership luxon months survives vote zealand"
+  "another election leadership luxon months survives vote zealand",
+  "bali burning dead dozens evacuate ferry indonesian least left near rescuers",
+  "attack drone grain halts industry novorossiysk operations russia source terminal ukrainian"
  ]
 }
