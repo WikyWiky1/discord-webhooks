@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40165951",
   "https://www.theguardian.com/us-news/2026/aug/03/cyclospora-deaths-michigan",
   "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
   "https://nypost.com/?post_type=article&p=40168559",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/us-news/2026/aug/12/david-crowley-defeats-francesca-hong-to-win-democratic-primary-for-wisconsin-governor",
   "https://nypost.com/?post_type=article&p=40284536",
   "https://www.theguardian.com/us-news/2026/aug/12/trump-catering-cart-iran-threat",
-  "https://www.theguardian.com/environment/2026/aug/12/just-20-of-6600-defra-staff-working-on-climate-adaptation-amid-drought-and-wildfires"
+  "https://www.theguardian.com/environment/2026/aug/12/just-20-of-6600-defra-staff-working-on-climate-adaptation-amid-drought-and-wildfires",
+  "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers"
  ],
  "posts": [
-  {
-   "fp": "bitter democrats front michigan present primary united",
-   "title": "Democrats try to present a united front in Michigan after bitter primary",
-   "source": "AP",
-   "at": "2026-08-08T04:10:45.167352+00:00"
-  },
   {
    "fp": "attacks child killed kyiv missile near russian three",
    "title": "Child among three killed in Russian missile attacks near Kyiv",
@@ -3201,10 +3195,15 @@
    "title": "Just 20 of 6,600 Defra staff working on climate adaptation amid drought and wildfires",
    "source": "Guardian World",
    "at": "2026-08-12T10:39:32.759719+00:00"
+  },
+  {
+   "fp": "african armyworm discovery farmers fungus halting hope march offers",
+   "title": "Halting the march of the armyworm: fungus discovery offers hope to African farmers",
+   "source": "Guardian World",
+   "at": "2026-08-12T11:52:09.918195+00:00"
   }
  ],
  "titles": [
-  "bitter democrats front michigan present primary united",
   "attacks child killed kyiv missile near russian three",
   "breathe burden couldn deadly health smoke wildfire",
   "2028 carville democratic james party predicts primary socialist strength test true wing",
@@ -3603,6 +3602,7 @@
   "crowley david defeats democratic francesca governor hong primary wisconsin",
   "crowley david francesca gubernatorial hating holiday hong loses moderate primary wisconsin",
   "assassination flight indicates iran secret severity switch threat trump",
-  "adaptation climate defra drought just staff wildfires working"
+  "adaptation climate defra drought just staff wildfires working",
+  "african armyworm discovery farmers fungus halting hope march offers"
  ]
 }
