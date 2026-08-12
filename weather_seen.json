@@ -351,6 +351,15 @@
    "expired": false,
    "posted_at": "2026-08-12T22:21:45+00:00",
    "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.1b9186e0a7a72ad5e4d702b9c2a256f0cab5ce18.001.1",
+   "message_id": "1537236782050058362",
+   "event": "Severe Thunderstorm Warning",
+   "area": "Christian, MO; Greene, MO; Webster, MO",
+   "expired": false,
+   "posted_at": "2026-08-12T23:10:09+00:00",
+   "expired_at": null
   }
  ]
 }
