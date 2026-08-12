@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMinAFBVV95cUxOSHppbDIxTzQ0MWQ0SU0wa2lxeUo3VGtHN0cxTTh5NUlzNDZYRUhvWmFKNGdxWlJydmZLZDR5Z1M2S24yaDlBeFg3c21Lb2UzWjc4YmtXR0JGdzZBS3pnY0RvVExPUmlRY014NWJObTFOaTROYUlRTzF2Y0VvOXdWa2phNWJHYnJlcWVnZ0o2TW1WOFdNeVdRUy15d2w",
-  "https://nypost.com/?post_type=article&p=40164080",
   "CBMiugFBVV95cUxPUGIyNjVnT0dMdTN2aXQ3V0x4WmtGdlRYbmtZZW0wcDFtTEJsaWRzTXVjZTdwcjRjU2phNFduMEdINlZpaTNfZmZBU3lnNVI0QW1vendwdGdEVjFJd2k0cklkQ3g0NV9tWU1lbThLTXRiNVZqSnVOdWV6YWNQUm9TRndKME9jXy00b2QzSzFTbl9idlpPVURiSThxbUlfSkFWdExNZDdZd0xfbU1QOUw1WmZnQmxTTzFyamc",
   "CBMiyAFBVV95cUxNc0NCWUZNek9CZlFRVXdwMjJmd2R4cVhscGFpeS1ubmFhSWF0ZnkwU1VXc3Z6N1hCcDVWclZjSzVBUXNEWlJwNWpuUFhVSXh2YzJCc3RIeHlET2FKMjBadXp3NldkQXoyR0ZzWXUxTlE2QUJvMTBTQjNpVW15SzJWMEZNR09iQXhEZnFoa3VidVd6ckJfTDViSlZPbUg3bWZQUHplR0d6cGRpZWlmdlpCWVRmek5tbjZvUUpXM3Faak9MVDlOcUFJYQ",
   "CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU",
@@ -799,21 +797,11 @@
   "https://www.washingtonexaminer.com/?p=4681622",
   "https://nypost.com/?post_type=article&p=40296542",
   "https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall",
-  "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say"
+  "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say",
+  "https://www.theguardian.com/uk-news/2026/aug/12/uk-extreme-heat-prompts-cobra-emergency-meeting",
+  "CBMiogFBVV95cUxPcUVMM3B0dFY2Qk5WYnZROWNMYU5JckVUUmQ4U2dvV0FnQkRZNDdlZWFaSmtUREZtaDFmWjMzNWlRVkZCaFdCSTlndVBkcld3d1l2S0RwcGpkTTZvRXY4Mi1yS0Y3SDZjUloxTWlKVWhBanFpOEtzeFVndUh0WExKZFliYmswNVBKWWxpNFNFZy1aSEVxNnZRUmtrTVh3RUpUZEE"
  ],
  "posts": [
-  {
-   "fp": "august bill college holding path recess senate sports",
-   "title": "College sports bill holding up Senate\u2019s path to August recess",
-   "source": "The Hill",
-   "at": "2026-08-07T21:38:34.075065+00:00"
-  },
-  {
-   "fp": "agriculture call groups house pass push reconciliation senate white",
-   "title": "Agriculture groups call on Senate to pass reconciliation in White House push",
-   "source": "The Hill",
-   "at": "2026-08-07T21:38:35.730245+00:00"
-  },
   {
    "fp": "congress daily energy month next returns things watch",
    "title": "Daily on Energy: Things to watch when Congress returns next month",
@@ -3201,11 +3189,21 @@
    "title": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
    "source": "Guardian World",
    "at": "2026-08-12T05:04:49.018296+00:00"
+  },
+  {
+   "fp": "cobra emergency extreme heat meeting prompts",
+   "title": "UK extreme heat prompts Cobra emergency meeting",
+   "source": "Guardian World",
+   "at": "2026-08-12T06:44:28.807322+00:00"
+  },
+  {
+   "fp": "clock colombia earthquake government race rescuers response strains",
+   "title": "Earthquake response strains Colombia's new government and rescuers as they race against the clock",
+   "source": "AP",
+   "at": "2026-08-12T06:44:30.473522+00:00"
   }
  ],
  "titles": [
-  "august bill college holding path recess senate sports",
-  "agriculture call groups house pass push reconciliation senate white",
   "congress daily energy month next returns things watch",
   "burger idaho killed mass police release shooting three video",
   "eight introduce killed laws shooting stricter thai vows",
@@ -3603,6 +3601,8 @@
   "angie craig defeats extending flanagan minnesota peggy primary progressive senate streak winning",
   "battle between candidates centrist democratic flanagan latest leftists minnesota peggy primary senate walz wins",
   "beijing brings china dolphin evacuations mass rain torrential typhoon",
-  "deliberately firefighters israel lebanon southern starting wildfires"
+  "deliberately firefighters israel lebanon southern starting wildfires",
+  "cobra emergency extreme heat meeting prompts",
+  "clock colombia earthquake government race rescuers response strains"
  ]
 }
