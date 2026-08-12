@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6007017",
-  "CBMioAFBVV95cUxPUkdXNjVtRDJnWExmWEZEN1ZUWG10OXJUZXlma1l3SXlLelNvSEhqc0VTVWlwZHUzQUlxdUM5b3pSaU9CdUhfUUIwcThINko0MjJzbXBGV1NPa0ljU2xPUUVNVFYtOTZyZDQ3ZHZuY1g5TGZFZXhuc09UZVZZaWxocUYxZmhqLVdRUlVTOVZHNWhzQ2pkR2ptay0wNW5zUmpB",
-  "https://nypost.com/?post_type=article&p=40178338",
   "https://www.theguardian.com/australia-news/2026/aug/04/sydney-hospitals-nsw-emergency-department-busy-record-winter",
   "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo#0",
   "CBMiYkFVX3lxTE93cEFYWkNCem9IcGg1LXpjb0twM3d1YUZXbzlKZUJpQ2dkLUFPRFB3Zlg2cnZabGlEMHhPN1JvaUhsOEQ3bmc4Mm4tQkJzTnVmTlVDcDVFU0dZNVlUUEpmYlZ3",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6025526",
   "https://thehill.com/?p=6025443",
   "https://www.theguardian.com/uk-news/2026/aug/12/serial-sex-offender-simon-levy-sentenced-double-muder",
-  "CBMisgFBVV95cUxOdTF1MzVWSHNpMzNvMlFNTy1RQWpPVC1CV1JRMURaZjAxTW1feUpaZ2pSYThMSXU1Ylh3SjJDSlBWRVRNUUpFc2x4MXFqZkNQeFlUNHJSNGhnUERHMlZ3SEZSWll3Z1V5VmdxdHh1RE9HenVJanMzWmtWcUMzY1puVDdtWm9wWkt5S1Q0YndmWjBfX2EtMm9TNW9CLWZ0M0wwQm1FSnU0QUFYek8wbHA1Z1ZR"
+  "CBMisgFBVV95cUxOdTF1MzVWSHNpMzNvMlFNTy1RQWpPVC1CV1JRMURaZjAxTW1feUpaZ2pSYThMSXU1Ylh3SjJDSlBWRVRNUUpFc2x4MXFqZkNQeFlUNHJSNGhnUERHMlZ3SEZSWll3Z1V5VmdxdHh1RE9HenVJanMzWmtWcUMzY1puVDdtWm9wWkt5S1Q0YndmWjBfX2EtMm9TNW9CLWZ0M0wwQm1FSnU0QUFYek8wbHA1Z1ZR",
+  "https://nypost.com/?post_type=article&p=40306201",
+  "https://nypost.com/?post_type=article&p=40305960",
+  "https://www.washingtonexaminer.com/?p=4684810"
  ],
  "posts": [
-  {
-   "fp": "congo group kills least linked village",
-   "title": "IS-linked group kills at least 13 in Congo village",
-   "source": "AP",
-   "at": "2026-08-08T17:06:36.769293+00:00"
-  },
-  {
-   "fp": "accused alberto carvalho chief hiding lausd letter resignation reveals secret tracks",
-   "title": "LAUSD chief Alberto Carvalho accused of hiding his tracks before resignation, secret letter reveals",
-   "source": "New York Post",
-   "at": "2026-08-08T17:47:21.639465+00:00"
-  },
-  {
-   "fp": "canada doubles fast flee forcing homes moving size thousands wildfire",
-   "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-   "source": "BBC World",
-   "at": "2026-08-08T18:26:06.408433+00:00"
-  },
   {
    "fp": "closure evacuation fire forces highway hoopa mp18 near warnings",
    "title": "MP18 Fire forces evacuation warnings, Highway 96 closure near Hoopa",
@@ -3201,12 +3183,27 @@
    "title": "Trump\u2019s goal to split MMR vaccine could take a decade, experts say",
    "source": "Reuters",
    "at": "2026-08-12T19:01:48.865285+00:00"
+  },
+  {
+   "fp": "california colombia deadly dire earthquake forecast issues predictor tremor warned",
+   "title": "Earthquake predictor who warned of deadly Colombia tremor issues dire California forecast",
+   "source": "New York Post",
+   "at": "2026-08-12T19:28:41.815324+00:00"
+  },
+  {
+   "fp": "died family kids killed mother murder protecting suicide",
+   "title": "Mother of 5 killed by ex in murder-suicide \u2018died protecting her kids,\u2019 family says",
+   "source": "New York Post",
+   "at": "2026-08-12T19:28:43.608682+00:00"
+  },
+  {
+   "fp": "anti back comes dead fund georgia life race senate trump weaponization",
+   "title": "Trump\u2019s dead \u2018anti-weaponization fund\u2019 comes back to life in Georgia Senate race",
+   "source": "Washington Examiner",
+   "at": "2026-08-12T19:28:45.443908+00:00"
   }
  ],
  "titles": [
-  "congo group kills least linked village",
-  "accused alberto carvalho chief hiding lausd letter resignation reveals secret tracks",
-  "canada doubles fast flee forcing homes moving size thousands wildfire",
   "closure evacuation fire forces highway hoopa mp18 near warnings",
   "deadly recounts school shooting survived teenager thailand",
   "attack children couples lost mass nigerian remarries wedding widower wife",
@@ -3603,6 +3600,9 @@
   "breaks congress little recess show summer",
   "backs carolina chair graham nrsc scott seat senate south",
   "double levy life murderer rapist sentenced simon tariff whole",
-  "decade experts goal split take trump vaccine"
+  "decade experts goal split take trump vaccine",
+  "california colombia deadly dire earthquake forecast issues predictor tremor warned",
+  "died family kids killed mother murder protecting suicide",
+  "anti back comes dead fund georgia life race senate trump weaponization"
  ]
 }
