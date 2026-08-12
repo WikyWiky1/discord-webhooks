@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMioAFBVV95cUxOZWdCVmdMVFRCSlFoaHJudV9wMjI5bXFsWWJzR1VvNkRYeldLcFNWLVlLT2dGN0g4RkZpdl80WllJTnBNSHJPT3dBTEYyVXBSV3g5VUpfSFR1UGNudEpwYkVpZzZkZ25GSEFBZmVDWjJzVllCMnpQaDNTSjRndGVTOE9Pdk15TnUtYS1aR3JNNjNLNXBSZ0lzNndqN1RTcU9q",
-  "https://www.theguardian.com/us-news/2026/aug/03/first-thing-trump-iran-talks-tehran-hormuz-shipping-deal-oman",
   "CBMinAFBVV95cUxOSHppbDIxTzQ0MWQ0SU0wa2lxeUo3VGtHN0cxTTh5NUlzNDZYRUhvWmFKNGdxWlJydmZLZDR5Z1M2S24yaDlBeFg3c21Lb2UzWjc4YmtXR0JGdzZBS3pnY0RvVExPUmlRY014NWJObTFOaTROYUlRTzF2Y0VvOXdWa2phNWJHYnJlcWVnZ0o2TW1WOFdNeVdRUy15d2w",
   "https://nypost.com/?post_type=article&p=40164080",
   "CBMiugFBVV95cUxPUGIyNjVnT0dMdTN2aXQ3V0x4WmtGdlRYbmtZZW0wcDFtTEJsaWRzTXVjZTdwcjRjU2phNFduMEdINlZpaTNfZmZBU3lnNVI0QW1vendwdGdEVjFJd2k0cklkQ3g0NV9tWU1lbThLTXRiNVZqSnVOdWV6YWNQUm9TRndKME9jXy00b2QzSzFTbl9idlpPVURiSThxbUlfSkFWdExNZDdZd0xfbU1QOUw1WmZnQmxTTzFyamc",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/2026/aug/11/wisconsin-primary-election-governor-race",
   "https://www.bbc.co.uk/news/articles/c980r4wpl9lo#0",
   "https://www.washingtonexaminer.com/?p=4681622",
-  "https://nypost.com/?post_type=article&p=40296542"
+  "https://nypost.com/?post_type=article&p=40296542",
+  "https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall",
+  "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say"
  ],
  "posts": [
-  {
-   "fp": "closes concerns eases high hike jobs rate record report soft",
-   "title": "S&P closes at record high as soft jobs report eases rate-hike concerns",
-   "source": "Reuters",
-   "at": "2026-08-07T21:38:29.011279+00:00"
-  },
-  {
-   "fp": "asks coverage delay hemp keep medicare senate seniors",
-   "title": "Dr. Oz asks Senate to delay hemp ban to keep CBD coverage for seniors on Medicare",
-   "source": "Washington Examiner",
-   "at": "2026-08-07T21:38:30.736685+00:00"
-  },
   {
    "fp": "august bill college holding path recess senate sports",
    "title": "College sports bill holding up Senate\u2019s path to August recess",
@@ -3201,11 +3189,21 @@
    "title": "Walz Lt. Gov. Peggy Flanagan wins Minnesota Democratic Senate primary in latest battle between leftists and centrist candidates",
    "source": "New York Post",
    "at": "2026-08-12T04:47:06.406497+00:00"
+  },
+  {
+   "fp": "beijing brings china dolphin evacuations mass rain torrential typhoon",
+   "title": "Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China",
+   "source": "Guardian World",
+   "at": "2026-08-12T05:04:47.246988+00:00"
+  },
+  {
+   "fp": "deliberately firefighters israel lebanon southern starting wildfires",
+   "title": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
+   "source": "Guardian World",
+   "at": "2026-08-12T05:04:49.018296+00:00"
   }
  ],
  "titles": [
-  "closes concerns eases high hike jobs rate record report soft",
-  "asks coverage delay hemp keep medicare senate seniors",
   "august bill college holding path recess senate sports",
   "agriculture call groups house pass push reconciliation senate white",
   "congress daily energy month next returns things watch",
@@ -3603,6 +3601,8 @@
   "aims francesca governor hong primary progressive ride wave wisconsin",
   "because nato planes possible summit switched threat trump",
   "angie craig defeats extending flanagan minnesota peggy primary progressive senate streak winning",
-  "battle between candidates centrist democratic flanagan latest leftists minnesota peggy primary senate walz wins"
+  "battle between candidates centrist democratic flanagan latest leftists minnesota peggy primary senate walz wins",
+  "beijing brings china dolphin evacuations mass rain torrential typhoon",
+  "deliberately firefighters israel lebanon southern starting wildfires"
  ]
 }
