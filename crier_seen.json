@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40164666",
-  "CBMimwFBVV95cUxQbTlMT3pHaGFaRzdjMHdrZ1RWOVhwY1FPSi1TSm5pNEFuaHlLVldYYXF3VHY3WTR2MHNCMW12SVd4dXRSZy13NEkyR3BVc2QwcV9SZnR4Z1hxX05jUGNOYkJnUXp1V2hYbVhZcG4zUUhJVWl2SS1ibTVtdlQ4cjdvcHZSMC1OQS00WldrVmd0RDdWMEN6MlFnT1BOaw",
   "https://nypost.com/?post_type=article&p=40165951",
   "https://www.theguardian.com/us-news/2026/aug/03/cyclospora-deaths-michigan",
   "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
@@ -799,21 +797,11 @@
   "CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU",
   "CBMiwgFBVV95cUxPLW16bGlGNTd2RjdTVW96c29mdnRDS0NpSUlYbTFZNWpPLTNhbWxvT1lKSnNyek0zV1RnTW0xa0pYRHNFMDNNRWo0YVcyaENNbjM4Q0FkcW9BVEpLNlRyZHpsUEdGOUNXbjdjLThOVEhRdjM4bnlNcWFJa2k4S0N1Tmc5Y1BMMlItUURwTHVFYzFIaUxMeFFfcDNmcEthSTI1dkNzZk5RNFZLNzNhZjFZM09jWThKemZ3aHduNWdJQ1hSUQ",
   "https://www.theguardian.com/us-news/2026/aug/12/david-crowley-defeats-francesca-hong-to-win-democratic-primary-for-wisconsin-governor",
-  "https://nypost.com/?post_type=article&p=40284536"
+  "https://nypost.com/?post_type=article&p=40284536",
+  "https://www.theguardian.com/us-news/2026/aug/12/trump-catering-cart-iran-threat",
+  "https://www.theguardian.com/environment/2026/aug/12/just-20-of-6600-defra-staff-working-on-climate-adaptation-amid-drought-and-wildfires"
  ],
  "posts": [
-  {
-   "fp": "august budget fight line party punts recess senate until",
-   "title": "Senate GOP punts party-line budget fight until after August recess",
-   "source": "Washington Examiner",
-   "at": "2026-08-08T04:10:41.551463+00:00"
-  },
-  {
-   "fp": "backed evasion hottest network russia sanctions startup state",
-   "title": "Russia\u2019s Hottest Startup Is a State-Backed Sanctions Evasion Network",
-   "source": "WSJ",
-   "at": "2026-08-08T04:10:43.459791+00:00"
-  },
   {
    "fp": "bitter democrats front michigan present primary united",
    "title": "Democrats try to present a united front in Michigan after bitter primary",
@@ -3201,11 +3189,21 @@
    "title": "Holiday-hating Francesca Hong loses to moderate David Crowley in Wisconsin gubernatorial primary",
    "source": "New York Post",
    "at": "2026-08-12T10:04:46.159557+00:00"
+  },
+  {
+   "fp": "assassination flight indicates iran secret severity switch threat trump",
+   "title": "Trump\u2019s secret flight switch indicates severity of assassination threat by Iran",
+   "source": "Guardian World",
+   "at": "2026-08-12T10:39:30.907047+00:00"
+  },
+  {
+   "fp": "adaptation climate defra drought just staff wildfires working",
+   "title": "Just 20 of 6,600 Defra staff working on climate adaptation amid drought and wildfires",
+   "source": "Guardian World",
+   "at": "2026-08-12T10:39:32.759719+00:00"
   }
  ],
  "titles": [
-  "august budget fight line party punts recess senate until",
-  "backed evasion hottest network russia sanctions startup state",
   "bitter democrats front michigan present primary united",
   "attacks child killed kyiv missile near russian three",
   "breathe burden couldn deadly health smoke wildfire",
@@ -3603,6 +3601,8 @@
   "backdrop eclipse heat prepares rare solar spain wildfires",
   "adviser fiscal greece growing heatwaves pose risk wildfires",
   "crowley david defeats democratic francesca governor hong primary wisconsin",
-  "crowley david francesca gubernatorial hating holiday hong loses moderate primary wisconsin"
+  "crowley david francesca gubernatorial hating holiday hong loses moderate primary wisconsin",
+  "assassination flight indicates iran secret severity switch threat trump",
+  "adaptation climate defra drought just staff wildfires working"
  ]
 }
