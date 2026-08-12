@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6006089",
-  "CBMiywFBVV95cUxOYzdWc2p1TFA3Y3AwUFIyZ2hiRExwTWR2N0pBaHY5YnhZVDlsTEduMVc1WjNhQ0JDX2llNHVsR1FfX0d1VVlWMXZ1cnpUalVuX3R5ZnozU28weEZDcmd0UDJUQ0tiRlZMTUVPc3lvcExUQjlqckhDWHdPeXVLcE0zMWRQUU5SM2ctM1BVWWR2QzV0RVNtaE5CZWVJa2tEU2hmQ0lxcEd0N0U4VFN4RlBIcG9wRExrUGNfY25QM3FHYy1rTmgtdDRZOEhGOA",
   "https://nypost.com/?post_type=article&p=40170500",
   "https://www.bbc.co.uk/news/articles/c2k7px317eeo#0",
   "https://www.washingtonexaminer.com/?p=4673184",
@@ -799,21 +797,11 @@
   "https://thehill.com/?p=6023693",
   "CBMiowFBVV95cUxQRFhQQ0ctUFg5dmpoZFktVWJpZkV3dWE2MFpGMnRERzlPZzltQUdNN2tlMG1kdnozWi1TTkczRG5RZmdXV2RDU1R4WEZwR3kwTXhKendjU1JjX3ROM2tiOEd1TjBFRVdMZ2hPOTNpZkpLbDhGOHBaUk93N3ZDQTNfblJJMXUtR3ExSTNsenBuZjBpM0ZtdlpfcV9WQ1RMN0MtZDcw",
   "https://thehill.com/?p=6022551",
-  "CBMitAFBVV95cUxQc1ExQS1ISERIZUtIcGtkWkNTMFBiclA3Um53eW13akVUMkFkS1lJdVV2X1N2c1QxMlc2QzZRTjdPWHJKck1BQ25GQnhmNDFzMjk3WEozS2xVbmdnLTU4dUphZFR5SzN3cTdVdjVhdEQ1WkhlZjcwMVFOc0NRdXR6TTkyMi1ZODlMbnFYNE9WR3d2T0UwUzYwM0JsWU44STkySzF1MlE3Yk42NXdNN2lneXdSWjQ"
+  "CBMitAFBVV95cUxQc1ExQS1ISERIZUtIcGtkWkNTMFBiclA3Um53eW13akVUMkFkS1lJdVV2X1N2c1QxMlc2QzZRTjdPWHJKck1BQ25GQnhmNDFzMjk3WEozS2xVbmdnLTU4dUphZFR5SzN3cTdVdjVhdEQ1WkhlZjcwMVFOc0NRdXR6TTkyMi1ZODlMbnFYNE9WR3d2T0UwUzYwM0JsWU44STkySzF1MlE3Yk42NXdNN2lneXdSWjQ",
+  "https://www.theguardian.com/us-news/2026/aug/12/midwest-storms-deaths-wind-power-outages-flooding",
+  "CBMinAFBVV95cUxQTXktdGpnVUNHOU1aVWxVSW12cjhFc1ItNjB2cEFMbXp6MlItS3FEcVYycExzQU43MmVRMXFjNTVwaUxzYUtvV3lNYkc5SThOb253QVRtU1dJNi1pS2UzcEYtMmlqQzNTRS1TaU1Cekp4UEZjaWZBRWZpYmppMF91TUM0czZBdW9jQ3h6UjgwTm5XT2FTTHhIZl82Q3I"
  ],
  "posts": [
-  {
-   "fp": "bangkok bodies families killed least outside retrieve shooting year",
-   "title": "Families retrieve bodies after a 14-year-old killed at least 7 in a shooting outside Bangkok",
-   "source": "AP",
-   "at": "2026-08-08T09:56:12.932215+00:00"
-  },
-  {
-   "fp": "approves avoid bill election funding senate shutdown",
-   "title": "Senate approves funding bill to avoid a shutdown before the election",
-   "source": "AP",
-   "at": "2026-08-08T09:56:14.641710+00:00"
-  },
   {
    "fp": "bunkers country nation neutral nuclear switzerland world",
    "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
@@ -3201,11 +3189,21 @@
    "title": "See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday",
    "source": "WSJ",
    "at": "2026-08-12T13:08:02.579252+00:00"
+  },
+  {
+   "fp": "dead leave midwest power powerful storms three without",
+   "title": "Powerful storms in US midwest leave three dead and 800,000 without power",
+   "source": "Guardian World",
+   "at": "2026-08-12T14:03:27.520954+00:00"
+  },
+  {
+   "fp": "capsized death ferry lake overloaded rises toll zimbabwe",
+   "title": "Death toll rises to 44 after an overloaded ferry capsized on a Zimbabwe lake",
+   "source": "AP",
+   "at": "2026-08-12T14:03:29.526770+00:00"
   }
  ],
  "titles": [
-  "bangkok bodies families killed least outside retrieve shooting year",
-  "approves avoid bill election funding senate shutdown",
   "bunkers country nation neutral nuclear switzerland world",
   "accountability fauci turning villain",
   "above attack base days drone drones german military spotted suspected",
@@ -3603,6 +3601,8 @@
   "congress itself must nursing shortage step",
   "cancelled democrat loses primary radical thanksgiving wanted",
   "congress must problem protected status temporary",
-  "gives merger musk payday shortcut spacex tesla trillion"
+  "gives merger musk payday shortcut spacex tesla trillion",
+  "dead leave midwest power powerful storms three without",
+  "capsized death ferry lake overloaded rises toll zimbabwe"
  ]
 }
