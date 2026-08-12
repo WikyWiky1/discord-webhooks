@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/03/cyclospora-deaths-michigan",
-  "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
-  "https://nypost.com/?post_type=article&p=40168559",
-  "CBMiwgFBVV95cUxOUWg4ei1MaEJJbEJOYl80UkRfZGU4UXhwTUVDSERoUldCTGxERWZXVkxta1h1b1lKbFhpUTBFUWVQRjlibkliajJDMEhEbDZkNWc3cWhWMm1YSEVrdHJ0S1NNNXE1alJhS0M0Z05Hd01hREVmQ25jd015WWZiOTQtSE4yb1JoZ3hlQmNuQTBqbjlFVmFDLTEybkZ4a2FRMUo3X05YOW8zamVOcVdTTjdDR1BnR003X2JMOVEyVFJPUWNTZw",
   "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o#0",
   "https://thehill.com/?p=6006366",
   "CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA",
@@ -799,33 +795,13 @@
   "https://nypost.com/?post_type=article&p=40284536",
   "https://www.theguardian.com/us-news/2026/aug/12/trump-catering-cart-iran-threat",
   "https://www.theguardian.com/environment/2026/aug/12/just-20-of-6600-defra-staff-working-on-climate-adaptation-amid-drought-and-wildfires",
-  "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers"
+  "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
+  "https://www.theguardian.com/uk-news/2026/aug/12/inglorious-twelfth-calls-grouse-season-banned-prevent-wildfires-peatland-damage",
+  "CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf",
+  "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno#0",
+  "CBMiugFBVV95cUxPZDZ6SWFiSG8zZWkwdHY2cHg3dzZFaUFESUFMcDJIT3hfazk4bXRMel9UWWVDWXBOSGNneFl0UF90U3NycnpkVlFjR014RnVjVGdQNXBSQ3BfY1pEdDR1ODJPSnFQMEhpc3I3WEl5d3cwbm9pNTdZS2R3TWNzejk0WXAzdmVYVERRTE5VWUQzblJPRDA3TDJJSFM4VWttcEtZXzZMM1FNcXAwRUltZENkSlJrWjU5a2dFUWc"
  ],
  "posts": [
-  {
-   "fp": "attacks child killed kyiv missile near russian three",
-   "title": "Child among three killed in Russian missile attacks near Kyiv",
-   "source": "BBC World",
-   "at": "2026-08-08T04:49:22.462153+00:00"
-  },
-  {
-   "fp": "breathe burden couldn deadly health smoke wildfire",
-   "title": "\u2018I couldn\u2019t breathe\u2019: the deadly health burden of wildfire smoke",
-   "source": "Guardian World",
-   "at": "2026-08-08T05:37:10.370157+00:00"
-  },
-  {
-   "fp": "2028 carville democratic james party predicts primary socialist strength test true wing",
-   "title": "James Carville predicts 2028 Democratic primary will test true strength of party\u2019s socialist wing",
-   "source": "New York Post",
-   "at": "2026-08-08T06:52:40.910283+00:00"
-  },
-  {
-   "fp": "ahead bill funding midterms passes prevent senate shutdown stopgap",
-   "title": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
-   "source": "The Hill",
-   "at": "2026-08-08T08:18:28.907420+00:00"
-  },
   {
    "fp": "blanche confirming embarks funding government other priorities punting recess senate",
    "title": "Senate embarks on recess after funding government and confirming Blanche, punting other priorities",
@@ -3201,13 +3177,33 @@
    "title": "Halting the march of the armyworm: fungus discovery offers hope to African farmers",
    "source": "Guardian World",
    "at": "2026-08-12T11:52:09.918195+00:00"
+  },
+  {
+   "fp": "banned calls damage grouse inglorious peatland prevent season twelfth wildfires",
+   "title": "Inglorious Twelfth? Calls for grouse season to be banned to prevent wildfires and peatland damage",
+   "source": "Guardian World",
+   "at": "2026-08-12T12:28:10.886998+00:00"
+  },
+  {
+   "fp": "ceasefire discussing extension iran iranian official senior",
+   "title": "Iran, US not discussing ceasefire extension, senior Iranian official says",
+   "source": "Reuters",
+   "at": "2026-08-12T12:28:12.900962+00:00"
+  },
+  {
+   "fp": "alive colombia hours pulled quake rubble woman",
+   "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+   "source": "BBC World",
+   "at": "2026-08-12T12:28:14.722483+00:00"
+  },
+  {
+   "fp": "also attack democrats gives hands line maha order trump vaccine voters",
+   "title": "Trump\u2019s vaccine order hands some MAHA voters a win. It also gives Democrats an attack line",
+   "source": "AP",
+   "at": "2026-08-12T12:28:16.419847+00:00"
   }
  ],
  "titles": [
-  "attacks child killed kyiv missile near russian three",
-  "breathe burden couldn deadly health smoke wildfire",
-  "2028 carville democratic james party predicts primary socialist strength test true wing",
-  "ahead bill funding midterms passes prevent senate shutdown stopgap",
   "blanche confirming embarks funding government other priorities punting recess senate",
   "attorney blanche confirm general senate todd votes",
   "attorney blanche confirms general senate todd trump vote",
@@ -3603,6 +3599,10 @@
   "crowley david francesca gubernatorial hating holiday hong loses moderate primary wisconsin",
   "assassination flight indicates iran secret severity switch threat trump",
   "adaptation climate defra drought just staff wildfires working",
-  "african armyworm discovery farmers fungus halting hope march offers"
+  "african armyworm discovery farmers fungus halting hope march offers",
+  "banned calls damage grouse inglorious peatland prevent season twelfth wildfires",
+  "ceasefire discussing extension iran iranian official senior",
+  "alive colombia hours pulled quake rubble woman",
+  "also attack democrats gives hands line maha order trump vaccine voters"
  ]
 }
