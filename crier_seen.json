@@ -1,10 +1,5 @@
 {
  "ids": [
-  "CBMie0FVX3lxTE9FbUhCcDNQSE1IQ3dnM055RTJNZ0N1WHYtTUswbUtjZmRTS3FwbEtKZkd5Ti1WT0JndWtUSEJJTktud19OQzRELW93em1SMFdjcnphTVBMQ1BPMzBJLTdEYmxMbnJ2bFB4NVN4ZVlKYjIyZUlFZGx3RUljSQ",
-  "https://www.washingtonexaminer.com/?p=4673584",
-  "https://www.theguardian.com/us-news/2026/aug/03/palantir-second-quarter-earnings",
-  "https://pagesix.com/?post_type=article&p=9089287",
-  "https://thehill.com/?p=6006989",
   "https://thehill.com/?p=6007017",
   "CBMioAFBVV95cUxPUkdXNjVtRDJnWExmWEZEN1ZUWG10OXJUZXlma1l3SXlLelNvSEhqc0VTVWlwZHUzQUlxdUM5b3pSaU9CdUhfUUIwcThINko0MjJzbXBGV1NPa0ljU2xPUUVNVFYtOTZyZDQ3ZHZuY1g5TGZFZXhuc09UZVZZaWxocUYxZmhqLVdRUlVTOVZHNWhzQ2pkR2ptay0wNW5zUmpB",
   "https://nypost.com/?post_type=article&p=40178338",
@@ -799,39 +794,14 @@
   "CBMiqAFBVV95cUxOcnltaTZLUy1uZ1dibURFLURYLS0wZ0c5VDYtWVd4em1ndXdubHFsZW8yeTZPbmdmR1hrNU5Uc0lBWlVreHBsd0E4UXFPV1pWQVBsMnNzazJ2ODVjenM5WkdUc2tYbV83RmJyVzdUekNkVU9IT3oxM3ZSQ1h2Y2U1azM2X2hWR0lXOHE1REQzc3FseEt1MS1YQUhiMnYtVXhhMFVncmRzQTc",
   "CBMilgFBVV95cUxPeW0xX1RTYWRIeE94MURSaFhhN3VPeDBfY2Q1YXUtQkp2YXE5eVhPYTRuVmFISjhhQ2t1SFVGcUs0QjhMQmJLSjBDbjVmVEU5eDN4Z0g0Q1lCVkYyX3dfTzliQVBkLW5RWWYtYmQ1UHB4WmxPNDB6UmRpdHFPZVdKNVJIWmd2MmlvRmMxLWhEVHVmRnNfUWc",
   "https://www.bbc.co.uk/news/articles/c5y49xp2wrno#0",
-  "https://news.sky.com/story/bus-driver-shot-dead-outside-london-pub-named-by-police-13572349"
+  "https://news.sky.com/story/bus-driver-shot-dead-outside-london-pub-named-by-police-13572349",
+  "CBMisAFBVV95cUxPVUtYRlN0bXF1Zi1TYTJMNGJOaXRDWGhabnU5aVlmSUZOb3J3Y09XXzZiSUtuSTBsYW1OVFNjT0RhTk9VenVpdDQ3SEhySnBXZ2c3M3h2YVpOakt0ZVc2bi04Q3l3VDFMNERaT3B1ZlFiXzU5UDg0WDdaVEN2eUM3ZWhHcW8tVWJnckgyaUctUUdUbDBRaDZkRUNXLVlUT1hjUDRVRnNBUXJGZlJITi1tQw",
+  "https://thehill.com/?p=6025526",
+  "https://thehill.com/?p=6025443",
+  "https://www.theguardian.com/uk-news/2026/aug/12/serial-sex-offender-simon-levy-sentenced-double-muder",
+  "CBMisgFBVV95cUxOdTF1MzVWSHNpMzNvMlFNTy1RQWpPVC1CV1JRMURaZjAxTW1feUpaZ2pSYThMSXU1Ylh3SjJDSlBWRVRNUUpFc2x4MXFqZkNQeFlUNHJSNGhnUERHMlZ3SEZSWll3Z1V5VmdxdHh1RE9HenVJanMzWmtWcUMzY1puVDdtWm9wWkt5S1Q0YndmWjBfX2EtMm9TNW9CLWZ0M0wwQm1FSnU0QUFYek8wbHA1Z1ZR"
  ],
  "posts": [
-  {
-   "fp": "coast east hurricane intensity predict scientists sharks using",
-   "title": "How scientists are using sharks to predict hurricane intensity on the East Coast",
-   "source": "New York Post",
-   "at": "2026-08-08T16:39:29.051288+00:00"
-  },
-  {
-   "fp": "casualty drills internet slower taiwan",
-   "title": "One Casualty of Taiwan\u2019s War Drills: A Slower Internet",
-   "source": "WSJ",
-   "at": "2026-08-08T16:39:30.893792+00:00"
-  },
-  {
-   "fp": "canada evacuated huge spreads thousands wildfire",
-   "title": "Thousands evacuated as huge wildfire spreads in Canada",
-   "source": "Sky News",
-   "at": "2026-08-08T16:39:32.625324+00:00"
-  },
-  {
-   "fp": "house manhunt manor national rare silver stolen trust",
-   "title": "Manhunt after rare silver stolen from National Trust manor house",
-   "source": "Telegraph",
-   "at": "2026-08-08T17:06:32.910480+00:00"
-  },
-  {
-   "fp": "call deadly inside school shooting thailand",
-   "title": "'Mom, don't call me': Inside Thailand's deadly school shooting",
-   "source": "Reuters",
-   "at": "2026-08-08T17:06:34.751379+00:00"
-  },
   {
    "fp": "congo group kills least linked village",
    "title": "IS-linked group kills at least 13 in Congo village",
@@ -3201,14 +3171,39 @@
    "title": "Bus driver shot dead outside London pub named by police",
    "source": "Sky News",
    "at": "2026-08-12T18:08:32.392517+00:00"
+  },
+  {
+   "fp": "crowley david governor pick primary race razor sets thin trump wisconsin",
+   "title": "David Crowley's razor-thin primary win sets up Wisconsin governor's race against Trump's pick",
+   "source": "AP",
+   "at": "2026-08-12T19:01:41.385889+00:00"
+  },
+  {
+   "fp": "breaks congress little recess show summer",
+   "title": "Congress breaks for summer recess with little to show",
+   "source": "The Hill",
+   "at": "2026-08-12T19:01:43.211293+00:00"
+  },
+  {
+   "fp": "backs carolina chair graham nrsc scott seat senate south",
+   "title": "Tim Scott, NRSC chair, backs Graham for South Carolina Senate seat",
+   "source": "The Hill",
+   "at": "2026-08-12T19:01:44.996717+00:00"
+  },
+  {
+   "fp": "double levy life murderer rapist sentenced simon tariff whole",
+   "title": "Double murderer and rapist Simon Levy sentenced to whole-life tariff",
+   "source": "Guardian World",
+   "at": "2026-08-12T19:01:47.108886+00:00"
+  },
+  {
+   "fp": "decade experts goal split take trump vaccine",
+   "title": "Trump\u2019s goal to split MMR vaccine could take a decade, experts say",
+   "source": "Reuters",
+   "at": "2026-08-12T19:01:48.865285+00:00"
   }
  ],
  "titles": [
-  "coast east hurricane intensity predict scientists sharks using",
-  "casualty drills internet slower taiwan",
-  "canada evacuated huge spreads thousands wildfire",
-  "house manhunt manor national rare silver stolen trust",
-  "call deadly inside school shooting thailand",
   "congo group kills least linked village",
   "accused alberto carvalho chief hiding lausd letter resignation reveals secret tracks",
   "canada doubles fast flee forcing homes moving size thousands wildfire",
@@ -3603,6 +3598,11 @@
   "child daycare killed life minnesota partner police taking",
   "congo deadliest ebola eclipse history outbreak track",
   "attack black export grain major port russian terminals ukraine",
-  "dead driver london named outside police shot"
+  "dead driver london named outside police shot",
+  "crowley david governor pick primary race razor sets thin trump wisconsin",
+  "breaks congress little recess show summer",
+  "backs carolina chair graham nrsc scott seat senate south",
+  "double levy life murderer rapist sentenced simon tariff whole",
+  "decade experts goal split take trump vaccine"
  ]
 }
