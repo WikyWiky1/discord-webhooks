@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6003165",
-  "https://thehill.com/?p=6005040",
-  "CBMiVkFVX3lxTE5WVVdvNVIyNVNYNjduVDJpeEFmYVlPU0p4QTlkTWtmWTNFWFlJVnVITVZEX1dWTXJKVVBNMjlzeWI4TjVYM3d5UlJvTVY1Y01kdVpGeHN3",
-  "https://pagesix.com/?post_type=article&p=9087225",
   "https://nypost.com/?post_type=article&p=40073624",
   "https://decider.com/2026/08/03/the-best-marvel-movies-since-avengers-endgame-to-stream-for-free-on-disney/",
   "https://thehill.com/?p=6005098",
@@ -799,33 +795,13 @@
   "https://thehill.com/?p=6014896",
   "https://www.theguardian.com/us-news/2026/aug/11/south-carolina-senate-primary-runoff-darline-graham",
   "https://thehill.com/?p=6006760",
-  "https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister"
+  "https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister",
+  "https://nypost.com/?post_type=article&p=40298468",
+  "https://www.washingtonexaminer.com/?p=4683876",
+  "https://www.theguardian.com/australia-news/2026/aug/12/bondi-shooting-hero-ahmed-al-ahmed-assault-charges-dropped-ntwnfb",
+  "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated"
  ],
  "posts": [
-  {
-   "fp": "burger drive gunman idaho shooting shows thru victims video",
-   "title": "New video shows gunman shooting victims at Idaho In-N-Out Burger drive-thru",
-   "source": "AP",
-   "at": "2026-08-07T19:47:00.694721+00:00"
-  },
-  {
-   "fp": "cover drive employees footage horrifying kill mass scramble shooter shows terrified thru window worker",
-   "title": "Horrifying footage shows In-N-Out mass shooter kill worker at drive-thru window \u2014 as terrified employees scramble for cover",
-   "source": "New York Post",
-   "at": "2026-08-07T19:47:02.531671+00:00"
-  },
-  {
-   "fp": "1983 championship cozell dead legend mcqueen part state team",
-   "title": "NC State legend Cozell McQueen \u2014 key part of 1983 championship team \u2014 dead at 64",
-   "source": "New York Post",
-   "at": "2026-08-07T19:47:04.255005+00:00"
-  },
-  {
-   "fp": "children clancy hospital killed lindsay psychiatric spotlights stay trial",
-   "title": "Lindsay Clancy trial spotlights psychiatric hospital stay before she killed her 3 children",
-   "source": "AP",
-   "at": "2026-08-07T19:47:06.059122+00:00"
-  },
   {
    "fp": "admitted also california husband killed stabbing wife woman",
    "title": "California woman who admitted to stabbing wife had also killed husband",
@@ -3201,13 +3177,33 @@
    "title": "Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year",
    "source": "Guardian World",
    "at": "2026-08-12T01:55:06.418006+00:00"
+  },
+  {
+   "fp": "240m agency feds goes homeless nuclear threaten",
+   "title": "RFK Jr goes nuclear over LA\u2019s homeless agency as feds threaten to cut off $240M",
+   "source": "New York Post",
+   "at": "2026-08-12T03:08:57.225848+00:00"
+  },
+  {
+   "fp": "2025 civilians killed pentagon strikes three yemen",
+   "title": "US killed 153 civilians in three strikes on Yemen in 2025, Pentagon says",
+   "source": "Washington Examiner",
+   "at": "2026-08-12T03:08:58.973631+00:00"
+  },
+  {
+   "fp": "ahmed assault bondi charges cleared hero shooting",
+   "title": "Bondi shooting hero Ahmed al-Ahmed cleared of assault charges",
+   "source": "Guardian World",
+   "at": "2026-08-12T03:09:00.817761+00:00"
+  },
+  {
+   "fp": "cremated grandparents killed licences shooter suspends teen thailand",
+   "title": "Thailand suspends gun licences as teen shooter and grandparents he killed are cremated",
+   "source": "Guardian World",
+   "at": "2026-08-12T03:09:02.605987+00:00"
   }
  ],
  "titles": [
-  "burger drive gunman idaho shooting shows thru victims video",
-  "cover drive employees footage horrifying kill mass scramble shooter shows terrified thru window worker",
-  "1983 championship cozell dead legend mcqueen part state team",
-  "children clancy hospital killed lindsay psychiatric spotlights stay trial",
   "admitted also california husband killed stabbing wife woman",
   "anti attack clinton communist dems effective hillary platform very warns",
   "academics arday attack cambridge chancellor fiasco vice",
@@ -3603,6 +3599,10 @@
   "connecticut former hartford house larson mayor ousts primary",
   "carolina darline face graham norman primary ralph republican runoff south",
   "alabama carl congress house jerry moore primary return seat track",
-  "brown cook crises defined diplomatic election islands mark speaks year"
+  "brown cook crises defined diplomatic election islands mark speaks year",
+  "240m agency feds goes homeless nuclear threaten",
+  "2025 civilians killed pentagon strikes three yemen",
+  "ahmed assault bondi charges cleared hero shooting",
+  "cremated grandparents killed licences shooter suspends teen thailand"
  ]
 }
