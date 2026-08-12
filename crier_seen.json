@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40175063",
-  "https://thehill.com/?p=6006917",
-  "CBMihgFBVV95cUxQWTlHR1RtRk5GdmJiejZ6ZmVHQml4OEh4Z0hGX2xfMFVydmdzSGk2c3Y1dXhqMkRrVjV3Ny1EVGJkMlhPbTh1Mnh5dkk5VGJlc0FHMkkySkt5dkp3OFY3LWxmVmY0ZEF1b3oycVpUeEJmX2ZIbEh6SnQ5UjFobVJKNl9KLTZhUQ",
   "https://news.sky.com/story/art-of-the-deal-or-insider-trading-trump-takes-truth-social-to-wall-street-13569579",
   "https://thehill.com/?p=6006901",
   "CBMie0FVX3lxTE9FbUhCcDNQSE1IQ3dnM055RTJNZ0N1WHYtTUswbUtjZmRTS3FwbEtKZkd5Ti1WT0JndWtUSEJJTktud19OQzRELW93em1SMFdjcnphTVBMQ1BPMzBJLTdEYmxMbnJ2bFB4NVN4ZVlKYjIyZUlFZGx3RUljSQ",
@@ -799,27 +796,12 @@
   "CBMingFBVV95cUxQb0VrMUhmQ1hxS0xRZmdtS0RsYjdBaEY0RnhRdHVMT1htcUtPWHBIWG1XY0Y5QjZjM25RdzJCUnBUY3NIbWQyUkRqWUpoYnlXUDZiNjloM0VPWDFDQjBjRVVJWHNtOVgyRFJhcW1yd0h3RGcxZkptU3F5NjRiWTFnYjhVcWpPenR3Vk9PTjF1VE5leW9kQlpaSF9pbmRpZw",
   "CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ",
   "CBMirgFBVV95cUxQLWZuZFpUQ0JKbW5uc3dBdFd0WUxfSlpDR3FTUElnWXJ0YjE2WFc3SWFLM29sRi1hX2J5WU94WTBhS3RvWl9vMFFWbzd4bF81QnZ3X19Ic04yLXgzbzBlQVZuX0JrRzh3UUJ1V1pQdld1R1pHc1duSWlkWXNkb3BSOUhCRXJPMmhMSmJYYVdsbDlsaU42cnN6dkVCdzhITHdabEZJXy1UbmFsdE5ZNUE",
-  "https://nypost.com/?post_type=article&p=40302575"
+  "https://nypost.com/?post_type=article&p=40302575",
+  "https://nypost.com/?post_type=article&p=40305832",
+  "CBMiqAFBVV95cUxOcnltaTZLUy1uZ1dibURFLURYLS0wZ0c5VDYtWVd4em1ndXdubHFsZW8yeTZPbmdmR1hrNU5Uc0lBWlVreHBsd0E4UXFPV1pWQVBsMnNzazJ2ODVjenM5WkdUc2tYbV83RmJyVzdUekNkVU9IT3oxM3ZSQ1h2Y2U1azM2X2hWR0lXOHE1REQzc3FseEt1MS1YQUhiMnYtVXhhMFVncmRzQTc",
+  "CBMilgFBVV95cUxPeW0xX1RTYWRIeE94MURSaFhhN3VPeDBfY2Q1YXUtQkp2YXE5eVhPYTRuVmFISjhhQ2t1SFVGcUs0QjhMQmJLSjBDbjVmVEU5eDN4Z0g0Q1lCVkYyX3dfTzliQVBkLW5RWWYtYmQ1UHB4WmxPNDB6UmRpdHFPZVdKNVJIWmd2MmlvRmMxLWhEVHVmRnNfUWc"
  ],
  "posts": [
-  {
-   "fp": "baka court former head hungary nominates party president ruling supreme",
-   "title": "Hungary's ruling party nominates former supreme court head Baka as president",
-   "source": "Reuters",
-   "at": "2026-08-08T15:29:15.269464+00:00"
-  },
-  {
-   "fp": "arrived bloodied cold dead designer emts fashion found medical montauk report yacht",
-   "title": "NYC fashion designer found dead on Montauk yacht was cold, bloodied when EMTs arrived: medical report",
-   "source": "New York Post",
-   "at": "2026-08-08T15:59:36.503035+00:00"
-  },
-  {
-   "fp": "california deadly firebug irony shocking sparked wildfire",
-   "title": "Shocking irony of firebug who sparked deadly California wildfire",
-   "source": "New York Post",
-   "at": "2026-08-08T15:59:38.320444+00:00"
-  },
   {
    "fp": "ceasefire close deal dispute hormuz iran lingers signals strait",
    "title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
@@ -3201,12 +3183,27 @@
    "title": "4-year-old among dead after tornadoes, flash floods in Midwest",
    "source": "New York Post",
    "at": "2026-08-12T16:11:56.500712+00:00"
+  },
+  {
+   "fp": "child daycare dead front horrific including kids minnesota murder suicide suspected young",
+   "title": "3 dead, including child, in horrific suspected murder-suicide in front of young kids at Minnesota daycare",
+   "source": "New York Post",
+   "at": "2026-08-12T17:14:49.486237+00:00"
+  },
+  {
+   "fp": "child daycare killed life minnesota partner police taking",
+   "title": "Man killed his partner and child at a Minnesota daycare before taking his own life, police say",
+   "source": "AP",
+   "at": "2026-08-12T17:14:51.244537+00:00"
+  },
+  {
+   "fp": "congo deadliest ebola eclipse history outbreak track",
+   "title": "WHO says Congo\u2019s Ebola outbreak is on track to eclipse the deadliest one in history",
+   "source": "AP",
+   "at": "2026-08-12T17:14:52.973774+00:00"
   }
  ],
  "titles": [
-  "baka court former head hungary nominates party president ruling supreme",
-  "arrived bloodied cold dead designer emts fashion found medical montauk report yacht",
-  "california deadly firebug irony shocking sparked wildfire",
   "ceasefire close deal dispute hormuz iran lingers signals strait",
   "atlanta fatal office shooting visits year",
   "coast east hurricane intensity predict scientists sharks using",
@@ -3603,6 +3600,9 @@
   "back companies profits records report rise stocks strong towards",
   "gains global hold line stocks",
   "attack citizens developments houthi killed mideast other pakistan ship",
-  "dead flash floods midwest tornadoes year"
+  "dead flash floods midwest tornadoes year",
+  "child daycare dead front horrific including kids minnesota murder suicide suspected young",
+  "child daycare killed life minnesota partner police taking",
+  "congo deadliest ebola eclipse history outbreak track"
  ]
 }
