@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA",
-  "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing",
   "https://nypost.com/?post_type=article&p=40175063",
   "https://thehill.com/?p=6006917",
   "CBMihgFBVV95cUxQWTlHR1RtRk5GdmJiejZ6ZmVHQml4OEh4Z0hGX2xfMFVydmdzSGk2c3Y1dXhqMkRrVjV3Ny1EVGJkMlhPbTh1Mnh5dkk5VGJlc0FHMkkySkt5dkp3OFY3LWxmVmY0ZEF1b3oycVpUeEJmX2ZIbEh6SnQ5UjFobVJKNl9KLTZhUQ",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40303242",
   "CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB",
   "CBMingFBVV95cUxQb0VrMUhmQ1hxS0xRZmdtS0RsYjdBaEY0RnhRdHVMT1htcUtPWHBIWG1XY0Y5QjZjM25RdzJCUnBUY3NIbWQyUkRqWUpoYnlXUDZiNjloM0VPWDFDQjBjRVVJWHNtOVgyRFJhcW1yd0h3RGcxZkptU3F5NjRiWTFnYjhVcWpPenR3Vk9PTjF1VE5leW9kQlpaSF9pbmRpZw",
-  "CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ"
+  "CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ",
+  "CBMirgFBVV95cUxQLWZuZFpUQ0JKbW5uc3dBdFd0WUxfSlpDR3FTUElnWXJ0YjE2WFc3SWFLM29sRi1hX2J5WU94WTBhS3RvWl9vMFFWbzd4bF81QnZ3X19Ic04yLXgzbzBlQVZuX0JrRzh3UUJ1V1pQdld1R1pHc1duSWlkWXNkb3BSOUhCRXJPMmhMSmJYYVdsbDlsaU42cnN6dkVCdzhITHdabEZJXy1UbmFsdE5ZNUE",
+  "https://nypost.com/?post_type=article&p=40302575"
  ],
  "posts": [
-  {
-   "fp": "attacks blanche lisa murkowski nearly nomination sinks todd trump",
-   "title": "Trump attacks Lisa Murkowski after she nearly sinks Todd Blanche nomination",
-   "source": "New York Post",
-   "at": "2026-08-08T15:29:11.792413+00:00"
-  },
-  {
-   "fp": "challenger democratic hawaii incumbent latest left primary wing younger",
-   "title": "Hawaii primary is latest to pit Democratic incumbent against younger, more left-wing challenger",
-   "source": "Reuters",
-   "at": "2026-08-08T15:29:13.526214+00:00"
-  },
   {
    "fp": "baka court former head hungary nominates party president ruling supreme",
    "title": "Hungary's ruling party nominates former supreme court head Baka as president",
@@ -3201,11 +3189,21 @@
    "title": "Global stocks hold gains after in-line US CPI",
    "source": "Reuters",
    "at": "2026-08-12T15:58:37.891915+00:00"
+  },
+  {
+   "fp": "attack citizens developments houthi killed mideast other pakistan ship",
+   "title": "Pakistan says 3 citizens killed in Houthi attack on ship, and other developments in the Mideast",
+   "source": "AP",
+   "at": "2026-08-12T16:11:54.317501+00:00"
+  },
+  {
+   "fp": "dead flash floods midwest tornadoes year",
+   "title": "4-year-old among dead after tornadoes, flash floods in Midwest",
+   "source": "New York Post",
+   "at": "2026-08-12T16:11:56.500712+00:00"
   }
  ],
  "titles": [
-  "attacks blanche lisa murkowski nearly nomination sinks todd trump",
-  "challenger democratic hawaii incumbent latest left primary wing younger",
   "baka court former head hungary nominates party president ruling supreme",
   "arrived bloodied cold dead designer emts fashion found medical montauk report yacht",
   "california deadly firebug irony shocking sparked wildfire",
@@ -3603,6 +3601,8 @@
   "cameras cost google here latest much phones pixel slimmer unveils",
   "deal interim iran peace progress reviving",
   "back companies profits records report rise stocks strong towards",
-  "gains global hold line stocks"
+  "gains global hold line stocks",
+  "attack citizens developments houthi killed mideast other pakistan ship",
+  "dead flash floods midwest tornadoes year"
  ]
 }
