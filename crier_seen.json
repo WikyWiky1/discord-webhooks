@@ -1,11 +1,5 @@
 {
  "ids": [
-  "CBMiugFBVV95cUxPUGIyNjVnT0dMdTN2aXQ3V0x4WmtGdlRYbmtZZW0wcDFtTEJsaWRzTXVjZTdwcjRjU2phNFduMEdINlZpaTNfZmZBU3lnNVI0QW1vendwdGdEVjFJd2k0cklkQ3g0NV9tWU1lbThLTXRiNVZqSnVOdWV6YWNQUm9TRndKME9jXy00b2QzSzFTbl9idlpPVURiSThxbUlfSkFWdExNZDdZd0xfbU1QOUw1WmZnQmxTTzFyamc",
-  "CBMiyAFBVV95cUxNc0NCWUZNek9CZlFRVXdwMjJmd2R4cVhscGFpeS1ubmFhSWF0ZnkwU1VXc3Z6N1hCcDVWclZjSzVBUXNEWlJwNWpuUFhVSXh2YzJCc3RIeHlET2FKMjBadXp3NldkQXoyR0ZzWXUxTlE2QUJvMTBTQjNpVW15SzJWMEZNR09iQXhEZnFoa3VidVd6ckJfTDViSlZPbUg3bWZQUHplR0d6cGRpZWlmdlpCWVRmek5tbjZvUUpXM3Faak9MVDlOcUFJYQ",
-  "CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU",
-  "CBMirgFBVV95cUxPMTQ0d1JKQzRTU1NONWhCT1N5VzV4Rms1dkR5bVhiT2kwRWpiUVI4Q0lnanJtcXFPRWNBY2IxSDNpRm4xSDJ0MmtXbkd3X1hUQ3VyZmJaT2tvWEJZdE52SW1PeHp1QTdRMml2aDhWVUhsQnFfeElVVFdGcGltSmU3Y0V5QU93anpRTHVtYkk3QTZpbEZQYzNhYjFZYmIwTjR5X3c5a2l2WUZyOGxGa2c",
-  "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary",
-  "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
   "https://www.theguardian.com/us-news/2026/aug/03/in-n-out-shooting-idaho",
   "https://thehill.com/?p=6005207",
   "CBMiYkFVX3lxTE5LNi1QQ3FnOWtLNURBWF8xVWk4b20yRkx0QXlNWUIzQlRDTUlHcnkxZUV6aENOODJXbXhMd3NBQXNrQWlVWkNEU1otWExDZE40MG1ubnNWWFRHS1JwdzZyQmlB",
@@ -799,45 +793,15 @@
   "https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall",
   "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say",
   "https://www.theguardian.com/uk-news/2026/aug/12/uk-extreme-heat-prompts-cobra-emergency-meeting",
-  "CBMiogFBVV95cUxPcUVMM3B0dFY2Qk5WYnZROWNMYU5JckVUUmQ4U2dvV0FnQkRZNDdlZWFaSmtUREZtaDFmWjMzNWlRVkZCaFdCSTlndVBkcld3d1l2S0RwcGpkTTZvRXY4Mi1yS0Y3SDZjUloxTWlKVWhBanFpOEtzeFVndUh0WExKZFliYmswNVBKWWxpNFNFZy1aSEVxNnZRUmtrTVh3RUpUZEE"
+  "CBMiogFBVV95cUxPcUVMM3B0dFY2Qk5WYnZROWNMYU5JckVUUmQ4U2dvV0FnQkRZNDdlZWFaSmtUREZtaDFmWjMzNWlRVkZCaFdCSTlndVBkcld3d1l2S0RwcGpkTTZvRXY4Mi1yS0Y3SDZjUloxTWlKVWhBanFpOEtzeFVndUh0WExKZFliYmswNVBKWWxpNFNFZy1aSEVxNnZRUmtrTVh3RUpUZEE",
+  "CBMiygFBVV95cUxQWloxM0JBWi1KZHlmdHJEZzZFWnhNeXVnVHRZa0JCdFhfZW5wTF9jeEdrRk9XM2xaWWlMWnhtbS1EVGNpX3Bta2dGcHBHYlF3UVlhV3ZodE1SWjNIMzNrUWc0aXdKQURNdkFZZ3FQMzVEb2FHQ1loTldoREwzaWotLU4yVVJsQWVqQ2k2blctRW9UaXI2Zm9Dc2dIQTJXVkN6OTB5UlFGS2NuX1hLWmFuS2ViY1JHeXVwM242SzgxaFdKLW85VEZodkNn",
+  "CBMizAFBVV95cUxOcXdTX0JRRkR5TkpEQVhUM2xoRnVuMXBwNk1Scm5DRzlWTmtjN3RfX1hKdVg0WHBwMExfY29JNkJoWXVST0s3aDFOM090SmZSejNJZ291dkpDSFE3cjNRbzdEeTdIUi1UQllvV2U3WjVlTTlvLTc3Nml1YjZ1ekNtbl8ya1gtYU1walg1a19mVWhSdXNMTnk0U2RVN3J3Ym9EeXJ1UVJXNFZIaktJZmpLYXhoRzY0STZBX3FVb3IwVVptWEY4SWpXaGxrZGQ",
+  "https://thehill.com/?p=6023832",
+  "https://nypost.com/?post_type=article&p=40299207",
+  "https://www.theguardian.com/australia-news/2026/aug/12/victorian-microparty-mps-including-georgie-purcell-to-face-re-election-struggle-after-group-voting-tickets-abolished",
+  "CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw"
  ],
  "posts": [
-  {
-   "fp": "congress daily energy month next returns things watch",
-   "title": "Daily on Energy: Things to watch when Congress returns next month",
-   "source": "Washington Examiner",
-   "at": "2026-08-07T21:38:39.067311+00:00"
-  },
-  {
-   "fp": "burger idaho killed mass police release shooting three video",
-   "title": "Idaho police release video of In-N-Out Burger mass shooting that killed three",
-   "source": "Guardian World",
-   "at": "2026-08-07T21:59:11.421210+00:00"
-  },
-  {
-   "fp": "eight introduce killed laws shooting stricter thai vows",
-   "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-   "source": "BBC World",
-   "at": "2026-08-07T21:59:13.099609+00:00"
-  },
-  {
-   "fp": "autistic dead feet florida found home just year",
-   "title": "5-year-old autistic boy found dead just feet from his Florida home",
-   "source": "New York Post",
-   "at": "2026-08-07T22:40:13.267781+00:00"
-  },
-  {
-   "fp": "closure evacuation fire forces freeway gorman near ridge triggers warnings",
-   "title": "Ridge Fire forces 5 Freeway closure near Gorman, triggers evacuation warnings",
-   "source": "New York Post",
-   "at": "2026-08-07T23:27:22.129369+00:00"
-  },
-  {
-   "fp": "ally attack effort fragment intel launch limited nato organization report russia warns",
-   "title": "US intel warns Russia could launch limited attack on NATO ally in effort to fragment organization: report",
-   "source": "Fox News World",
-   "at": "2026-08-07T23:27:23.860845+00:00"
-  },
   {
    "fp": "attack battle birthright citizenship faces legal trump uphill",
    "title": "Trump's new attack on birthright citizenship faces uphill legal battle",
@@ -3201,15 +3165,45 @@
    "title": "Earthquake response strains Colombia's new government and rescuers as they race against the clock",
    "source": "AP",
    "at": "2026-08-12T06:44:30.473522+00:00"
+  },
+  {
+   "fp": "2030 future korea landing moon projects south targets technology unveils",
+   "title": "South Korea unveils future technology projects, targets moon landing by 2030",
+   "source": "Reuters",
+   "at": "2026-08-12T07:24:03.299920+00:00"
+  },
+  {
+   "fp": "democratic francesca hong left locked nomination race tight wing wisconsin",
+   "title": "Left-Wing Francesca Hong Locked in Tight Race for Democratic Nomination in Wisconsin",
+   "source": "WSJ",
+   "at": "2026-08-12T07:24:05.150242+00:00"
+  },
+  {
+   "fp": "biter crowley defeats governor hong nail primary takeaways wisconsin",
+   "title": "Crowley defeats Hong in nail-biter Wisconsin governor primary: 5 takeaways",
+   "source": "The Hill",
+   "at": "2026-08-12T07:24:06.945410+00:00"
+  },
+  {
+   "fp": "ballot democratic driving drunk forged husband mayor primary prosecutors signatures",
+   "title": "Drunk driving ex-NJ mayor, husband forged signatures to get on Democratic primary ballot: prosecutors",
+   "source": "New York Post",
+   "at": "2026-08-12T07:24:08.711701+00:00"
+  },
+  {
+   "fp": "abolished election face georgie group including microparty purcell struggle tickets victorian voting",
+   "title": "Victorian microparty MPs including Georgie Purcell to face re-election struggle after group voting tickets abolished",
+   "source": "Guardian World",
+   "at": "2026-08-12T07:24:10.418834+00:00"
+  },
+  {
+   "fp": "another election leadership luxon months survives vote zealand",
+   "title": "Luxon survives another leadership vote months before New Zealand\u2019s election",
+   "source": "AP",
+   "at": "2026-08-12T07:24:12.079272+00:00"
   }
  ],
  "titles": [
-  "congress daily energy month next returns things watch",
-  "burger idaho killed mass police release shooting three video",
-  "eight introduce killed laws shooting stricter thai vows",
-  "autistic dead feet florida found home just year",
-  "closure evacuation fire forces freeway gorman near ridge triggers warnings",
-  "ally attack effort fragment intel launch limited nato organization report russia warns",
   "attack battle birthright citizenship faces legal trump uphill",
   "aboard battling conditions crashes helicopter large people remain unknown utah wildfires",
   "comptroller confirms hurst pentagon senate",
@@ -3603,6 +3597,12 @@
   "beijing brings china dolphin evacuations mass rain torrential typhoon",
   "deliberately firefighters israel lebanon southern starting wildfires",
   "cobra emergency extreme heat meeting prompts",
-  "clock colombia earthquake government race rescuers response strains"
+  "clock colombia earthquake government race rescuers response strains",
+  "2030 future korea landing moon projects south targets technology unveils",
+  "democratic francesca hong left locked nomination race tight wing wisconsin",
+  "biter crowley defeats governor hong nail primary takeaways wisconsin",
+  "ballot democratic driving drunk forged husband mayor primary prosecutors signatures",
+  "abolished election face georgie group including microparty purcell struggle tickets victorian voting",
+  "another election leadership luxon months survives vote zealand"
  ]
 }
