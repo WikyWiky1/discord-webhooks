@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o#0",
-  "https://thehill.com/?p=6006366",
-  "CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA",
-  "CBMiqAFBVV95cUxNVDh5Vi1kUEZTRU1KN1FmV0VGdGJTbXZhdkFkQTlMWGpGMHNYNXhNOFVqT01meXBuZlY0aVN5ZFV6cFg4OWNkVVBMbEJBUWFRbWg4cE01VzlEUjNncmJPM0pQWl92dXl6eWg1T1dBOU5RTXAySlF3RE9CWnFGU1hZc1FFVXYtZjFXb1ZwN3hpRmhfYTdqUUJ2ekt0SHEwM3VSeEVnb3NkYWY",
-  "https://www.theguardian.com/politics/2026/aug/03/former-neo-nazi-activist-selected-as-tory-candidate-for-somerset-council-election",
-  "CBMitAFBVV95cUxPdlptZlhWZjNYS0pKU2laTkx3NkZuQ0p0cFQ0ZC1jVU5MTGYyOWVicVRpQ1dmTU12VHN4UUFLcFBtTDh0OHlzWWpnX0k5OHN6WEhWcm9sZkhaSmM1dGtEQ2ZkWENKN3JCZ1daNUU5bVRBM19xZTEyNUZBU0hfTnhhOWs1eVFqbk9CYnBLRmNlam41UWpjWW1fdjVBdEZ3MlJVTkx5TU9rRTdGcXVCNklqTGlxTjk",
   "https://thehill.com/?p=6006089",
   "CBMiywFBVV95cUxOYzdWc2p1TFA3Y3AwUFIyZ2hiRExwTWR2N0pBaHY5YnhZVDlsTEduMVc1WjNhQ0JDX2llNHVsR1FfX0d1VVlWMXZ1cnpUalVuX3R5ZnozU28weEZDcmd0UDJUQ0tiRlZMTUVPc3lvcExUQjlqckhDWHdPeXVLcE0zMWRQUU5SM2ctM1BVWWR2QzV0RVNtaE5CZWVJa2tEU2hmQ0lxcEd0N0U4VFN4RlBIcG9wRExrUGNfY25QM3FHYy1rTmgtdDRZOEhGOA",
   "https://nypost.com/?post_type=article&p=40170500",
@@ -799,45 +793,15 @@
   "https://www.theguardian.com/uk-news/2026/aug/12/inglorious-twelfth-calls-grouse-season-banned-prevent-wildfires-peatland-damage",
   "CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf",
   "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno#0",
-  "CBMiugFBVV95cUxPZDZ6SWFiSG8zZWkwdHY2cHg3dzZFaUFESUFMcDJIT3hfazk4bXRMel9UWWVDWXBOSGNneFl0UF90U3NycnpkVlFjR014RnVjVGdQNXBSQ3BfY1pEdDR1ODJPSnFQMEhpc3I3WEl5d3cwbm9pNTdZS2R3TWNzejk0WXAzdmVYVERRTE5VWUQzblJPRDA3TDJJSFM4VWttcEtZXzZMM1FNcXAwRUltZENkSlJrWjU5a2dFUWc"
+  "CBMiugFBVV95cUxPZDZ6SWFiSG8zZWkwdHY2cHg3dzZFaUFESUFMcDJIT3hfazk4bXRMel9UWWVDWXBOSGNneFl0UF90U3NycnpkVlFjR014RnVjVGdQNXBSQ3BfY1pEdDR1ODJPSnFQMEhpc3I3WEl5d3cwbm9pNTdZS2R3TWNzejk0WXAzdmVYVERRTE5VWUQzblJPRDA3TDJJSFM4VWttcEtZXzZMM1FNcXAwRUltZENkSlJrWjU5a2dFUWc",
+  "https://nypost.com/?post_type=article&p=40300101",
+  "https://nypost.com/?post_type=article&p=40293009",
+  "https://thehill.com/?p=6023693",
+  "CBMiowFBVV95cUxQRFhQQ0ctUFg5dmpoZFktVWJpZkV3dWE2MFpGMnRERzlPZzltQUdNN2tlMG1kdnozWi1TTkczRG5RZmdXV2RDU1R4WEZwR3kwTXhKendjU1JjX3ROM2tiOEd1TjBFRVdMZ2hPOTNpZkpLbDhGOHBaUk93N3ZDQTNfblJJMXUtR3ExSTNsenBuZjBpM0ZtdlpfcV9WQ1RMN0MtZDcw",
+  "https://thehill.com/?p=6022551",
+  "CBMitAFBVV95cUxQc1ExQS1ISERIZUtIcGtkWkNTMFBiclA3Um53eW13akVUMkFkS1lJdVV2X1N2c1QxMlc2QzZRTjdPWHJKck1BQ25GQnhmNDFzMjk3WEozS2xVbmdnLTU4dUphZFR5SzN3cTdVdjVhdEQ1WkhlZjcwMVFOc0NRdXR6TTkyMi1ZODlMbnFYNE9WR3d2T0UwUzYwM0JsWU44STkySzF1MlE3Yk42NXdNN2lneXdSWjQ"
  ],
  "posts": [
-  {
-   "fp": "blanche confirming embarks funding government other priorities punting recess senate",
-   "title": "Senate embarks on recess after funding government and confirming Blanche, punting other priorities",
-   "source": "The Hill",
-   "at": "2026-08-08T09:37:20.150669+00:00"
-  },
-  {
-   "fp": "attorney blanche confirm general senate todd votes",
-   "title": "Senate votes to confirm Todd Blanche as attorney general",
-   "source": "NPR News",
-   "at": "2026-08-08T09:37:21.881228+00:00"
-  },
-  {
-   "fp": "attorney blanche confirms general senate todd trump vote",
-   "title": "Senate confirms Todd Blanche as Trump\u2019s attorney general in 50-49 vote",
-   "source": "New York Post",
-   "at": "2026-08-08T09:37:23.608838+00:00"
-  },
-  {
-   "fp": "allowing amendment center delay fight funding hemp month senate tables",
-   "title": "Senate tables hemp amendment at center of funding fight, allowing one-month delay of ban",
-   "source": "The Hill",
-   "at": "2026-08-08T09:37:25.321725+00:00"
-  },
-  {
-   "fp": "clear iran made national painfully priority security urgent",
-   "title": "Iran has made our most urgent national-security priority painfully clear",
-   "source": "New York Post",
-   "at": "2026-08-08T09:56:09.460614+00:00"
-  },
-  {
-   "fp": "attacks defenses fall kill kyiv region russian short surrounding",
-   "title": "Russian attacks kill 4 in Kyiv and surrounding region as air defenses fall short",
-   "source": "New York Post",
-   "at": "2026-08-08T09:56:11.181501+00:00"
-  },
   {
    "fp": "bangkok bodies families killed least outside retrieve shooting year",
    "title": "Families retrieve bodies after a 14-year-old killed at least 7 in a shooting outside Bangkok",
@@ -3201,15 +3165,45 @@
    "title": "Trump\u2019s vaccine order hands some MAHA voters a win. It also gives Democrats an attack line",
    "source": "AP",
    "at": "2026-08-12T12:28:16.419847+00:00"
+  },
+  {
+   "fp": "carolina connecticut minnesota night primary south takeaways wisconsin",
+   "title": "Key takeaways from primary night in Wisconsin, Minnesota, South Carolina and Connecticut",
+   "source": "New York Post",
+   "at": "2026-08-12T13:07:53.465370+00:00"
+  },
+  {
+   "fp": "california child deport feds inside killers mission molesters rapists stealth",
+   "title": "Inside feds\u2019 stealth mission to deport California killers, rapists and child molesters",
+   "source": "New York Post",
+   "at": "2026-08-12T13:07:55.196989+00:00"
+  },
+  {
+   "fp": "congress itself must nursing shortage step",
+   "title": "The nursing shortage won't fix itself. Congress must step in.",
+   "source": "The Hill",
+   "at": "2026-08-12T13:07:57.209927+00:00"
+  },
+  {
+   "fp": "cancelled democrat loses primary radical thanksgiving wanted",
+   "title": "Radical democrat who wanted Thanksgiving cancelled loses primary",
+   "source": "Telegraph",
+   "at": "2026-08-12T13:07:58.967236+00:00"
+  },
+  {
+   "fp": "congress must problem protected status temporary",
+   "title": "Congress must fix our temporary protected status problem",
+   "source": "The Hill",
+   "at": "2026-08-12T13:08:00.800445+00:00"
+  },
+  {
+   "fp": "gives merger musk payday shortcut spacex tesla trillion",
+   "title": "See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday",
+   "source": "WSJ",
+   "at": "2026-08-12T13:08:02.579252+00:00"
   }
  ],
  "titles": [
-  "blanche confirming embarks funding government other priorities punting recess senate",
-  "attorney blanche confirm general senate todd votes",
-  "attorney blanche confirms general senate todd trump vote",
-  "allowing amendment center delay fight funding hemp month senate tables",
-  "clear iran made national painfully priority security urgent",
-  "attacks defenses fall kill kyiv region russian short surrounding",
   "bangkok bodies families killed least outside retrieve shooting year",
   "approves avoid bill election funding senate shutdown",
   "bunkers country nation neutral nuclear switzerland world",
@@ -3603,6 +3597,12 @@
   "banned calls damage grouse inglorious peatland prevent season twelfth wildfires",
   "ceasefire discussing extension iran iranian official senior",
   "alive colombia hours pulled quake rubble woman",
-  "also attack democrats gives hands line maha order trump vaccine voters"
+  "also attack democrats gives hands line maha order trump vaccine voters",
+  "carolina connecticut minnesota night primary south takeaways wisconsin",
+  "california child deport feds inside killers mission molesters rapists stealth",
+  "congress itself must nursing shortage step",
+  "cancelled democrat loses primary radical thanksgiving wanted",
+  "congress must problem protected status temporary",
+  "gives merger musk payday shortcut spacex tesla trillion"
  ]
 }
