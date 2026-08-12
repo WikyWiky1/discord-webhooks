@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiYkFVX3lxTE93cEFYWkNCem9IcGg1LXpjb0twM3d1YUZXbzlKZUJpQ2dkLUFPRFB3Zlg2cnZabGlEMHhPN1JvaUhsOEQ3bmc4Mm4tQkJzTnVmTlVDcDVFU0dZNVlUUEpmYlZ3",
-  "https://www.bbc.co.uk/news/articles/c151pkww79zo#0",
   "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
   "https://nypost.com/?post_type=article&p=40178827",
   "https://nypost.com/?post_type=article&p=40178757",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40305960",
   "https://www.washingtonexaminer.com/?p=4684810",
   "https://nypost.com/?post_type=article&p=40304204",
-  "CBMiuwFBVV95cUxOOTJmLUtFVzNUdEN0d0xaVDdrNk85VkREUWd4eFQ3UzdxSUcxeVBiRHFuaXp1V0FYTkhsRnI0cndXQlNqT3Nsa2xJYm9aUFN6SDhoYTRMRzF2czR4QWdFOXF4a1U5YnNnbXVXMlBSRU9nX1hWSTNrR0FGbkctVDRpbDBpdkRqNnctX3RWbW9uYkE4ZFZ5UFdqblFTaXhfM0dNVjhWTjN1aURXekowakR3eUl2d212TWxaMmRV"
+  "CBMiuwFBVV95cUxOOTJmLUtFVzNUdEN0d0xaVDdrNk85VkREUWd4eFQ3UzdxSUcxeVBiRHFuaXp1V0FYTkhsRnI0cndXQlNqT3Nsa2xJYm9aUFN6SDhoYTRMRzF2czR4QWdFOXF4a1U5YnNnbXVXMlBSRU9nX1hWSTNrR0FGbkctVDRpbDBpdkRqNnctX3RWbW9uYkE4ZFZ5UFdqblFTaXhfM0dNVjhWTjN1aURXekowakR3eUl2d212TWxaMmRV",
+  "https://nypost.com/?post_type=article&p=40310207",
+  "https://www.theguardian.com/us-news/2026/aug/12/nick-reiner-indicted-parents-murders"
  ],
  "posts": [
-  {
-   "fp": "attack children couples lost mass nigerian remarries wedding widower wife",
-   "title": "Widower who lost wife and 6 children in attack remarries in Nigerian mass wedding for 1,500 couples",
-   "source": "AP",
-   "at": "2026-08-08T18:26:11.688502+00:00"
-  },
-  {
-   "fp": "budget childhood children congress debates lines live",
-   "title": "Congress debates childhood by budget lines. Children don't live that way.",
-   "source": "The Hill",
-   "at": "2026-08-08T18:36:31.048028+00:00"
-  },
   {
    "fp": "carolina darline experience famous graham lack name primary south tests value",
    "title": "Darline Graham tests value of a famous name vs. lack of experience in South Carolina primary",
@@ -3201,11 +3189,21 @@
    "title": "Trump\u2019s \u2018energy emergency\u2019 could fast-track massive expansion of Plaquemines LNG export terminal",
    "source": "AP",
    "at": "2026-08-12T20:19:43.238084+00:00"
+  },
+  {
+   "fp": "affair arrested attack home incestuous shocked whose woman",
+   "title": "Mom whose incestuous affair with son shocked US arrested for attack on old woman\u2019s home",
+   "source": "New York Post",
+   "at": "2026-08-12T21:07:30.610178+00:00"
+  },
+  {
+   "fp": "indicted michele murders nick parents reiner",
+   "title": "Nick Reiner indicted for murders of parents Rob and Michele Reiner",
+   "source": "Guardian World",
+   "at": "2026-08-12T21:07:32.254174+00:00"
   }
  ],
  "titles": [
-  "attack children couples lost mass nigerian remarries wedding widower wife",
-  "budget childhood children congress debates lines live",
   "carolina darline experience famous graham lack name primary south tests value",
   "attorney back blanche general grassley nomination todd track",
   "activist away dead ground lobaido mamdani scott stay still warns zero",
@@ -3603,6 +3601,8 @@
   "died family kids killed mother murder protecting suicide",
   "anti back comes dead fund georgia life race senate trump weaponization",
   "alliances banks climate collapses flee gooder push report street wall zero",
-  "emergency energy expansion export fast massive plaquemines terminal track trump"
+  "emergency energy expansion export fast massive plaquemines terminal track trump",
+  "affair arrested attack home incestuous shocked whose woman",
+  "indicted michele murders nick parents reiner"
  ]
 }
