@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cn4n03xg981o#0",
   "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
   "https://www.theguardian.com/world/2026/aug/04/us-qatar-progress-iran-ceasefire-hormuz-strait",
   "CBMipAFBVV95cUxOUW9xNGExM09EbEdnQ1lNMkZCOEM0TE1FeGxMbGJGZkExOW5YdkpGQlVUOWFuRTVhSF93cm5tcjd6QnZmVVNrMmdHY2dYUXpkRDhRNGhzU252THJCejdCZXcteThHRGptY05VOWtWYVJCRUFBZ3lvWnRXZ0J1cGRMSldmSnJwVzQxN045Y00yZnFhUlJkSzBoVWJqa0Z5ZFprY3daTg",
@@ -799,15 +798,10 @@
   "CBMiYkFVX3lxTFA4d0lycEVRaU1EUXVtTG9FNjlickVWRUpuSEtYUTU1VF9pUW43UkJBQnMzcklJamVMTERCc3p1V3I3VlZPeVhlY3RQcnUzdGZNbUo4UXZPdmd3NnN5c0hocll3",
   "CBMimwFBVV95cUxQTThmQnFUX3lIallnOHExbTVZbmc1anVQLUREMjRRSU56Q0tEUHJHMlJFSG9Yc0VpazVwcDUwb0xndmZXWDZfQTlqSkR4cEhsRTBtSmVza09XejNzYWhsUW9vRl93VmI0dlctZlF3T3JwZzBrYmFiaHd2NzlCTk5oVklBaFN1dTUtZG9ER1lld0RNMjMyaXBtbmpxMA",
   "CBMiowFBVV95cUxNQ2Z2aGVqeTlOMFVENTFOYk1KTzRnVDhMTmZJcmk5UnlIQmhRblBVWVZTb2h3NEJyMTlsSDR1aHRYYmc1QUdtUXBYbVBaN0Y2XzVKb19TTzBwTjNLd0RJellsc3Q1RnVCRzVnbWFJYmZBdTQwZmU5RXFNUFI4RFl4cTh3NDdpOVpwLUtWUDRRSFBZNGxGSDJTclVwNnpBQzk3YzdJ",
-  "https://nypost.com/?post_type=article&p=40318322"
+  "https://nypost.com/?post_type=article&p=40318322",
+  "https://www.bbc.co.uk/weather/articles/ce85pj0e20po#0"
  ],
  "posts": [
-  {
-   "fp": "crashed dead fighting helicopter officials pilots utah wildfire",
-   "title": "Pilots of helicopter that crashed while fighting wildfire in Utah are dead, officials say",
-   "source": "New York Post",
-   "at": "2026-08-09T07:37:53.348175+00:00"
-  },
   {
    "fp": "cyclosporiasis full loss lowers outbreak outlook sweetgreen widens year",
    "title": "Sweetgreen Lowers Full-Year Outlook Due to Cyclosporiasis Outbreak as Loss Widens",
@@ -3201,10 +3195,15 @@
    "title": "Brave Florida dad killed moments after dropping his daughter off for first day of school as he tried to stop brawling couple",
    "source": "New York Post",
    "at": "2026-08-13T10:29:30.462500+00:00"
+  },
+  {
+   "fp": "amber effect extreme heat soar temperatures warning",
+   "title": "Temperatures to soar to 38C as amber extreme heat warning in effect",
+   "source": "BBC Science",
+   "at": "2026-08-13T11:52:53.116783+00:00"
   }
  ],
  "titles": [
-  "crashed dead fighting helicopter officials pilots utah wildfire",
   "cyclosporiasis full loss lowers outbreak outlook sweetgreen widens year",
   "down girls hanging jersey left malfunction recall ride shore stuck teen upside",
   "attack badger barbershop brushes favourite hair philip prince under using",
@@ -3603,6 +3602,7 @@
   "down nuclear nuclearelectrica reactor romanian shutting sole starts working",
   "ballots cast economic election incumbent presidential reforms tests zambians",
   "democratic drama election slump takeaways trump",
-  "brave brawling couple daughter dropping florida killed moments school stop tried"
+  "brave brawling couple daughter dropping florida killed moments school stop tried",
+  "amber effect extreme heat soar temperatures warning"
  ]
 }
