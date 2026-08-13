@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6007283",
-  "https://thehill.com/?p=6007248",
-  "CBMirAFBVV95cUxNU0x2ZGllY3pSdGVaY1JXaHdiVERGWVJFV21nX2ZqM09Sdjk5VEhJcHgwVVY0a3lGM0s4c29ONzRCOWVGbGJ6bjJqYTVjNkVsZm5nSzE5UUdJTDVHV2pOWG55alNXQTJqX0VjQjJqa1NUNktoYWxja1F6Z2NON184VlZGVWFrbkJNMGlud1lDQmVzY09HOE9PbmtlVHFqOVdkN2VuUURZUndWU2xY",
   "CBMi4AFBVV95cUxQM3lmMk85dldqOW03S0ZkeHhNdGRJelJuSVh5cHI4ZWo1d2tpclRZdEhicVBVZ0pwMnlrTElVWmdxQjYtMjhvY2FWXzBLdGszVWt2OUtBZ1dMU3l5cUdOcFFJcUhTWUoteTFzVUc4Q2wzZFRaUENia19ocGVuSnRYa0prUWU2VDhxc3NrMXVyZ0VSeTFERDFBMkVuNk00RkVZaXAxSW1SRTVEdjBDbGFveDhVUm9HQUZ0d3NWQXUycHFJZmpFNFNJTlRUcnVWMmhzY041SmVIb2FZeWY5UWRhSA",
   "https://nypost.com/?post_type=article&p=40180563",
   "https://nypost.com/?post_type=article&p=40182153",
@@ -799,27 +796,12 @@
   "https://www.washingtonexaminer.com/?p=4685588",
   "https://nypost.com/?post_type=article&p=40313921",
   "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
-  "CBMikgFBVV95cUxQQnFQSVNJb2w1Ujl3d3J0R2t0TWJLemJYN1RHbnRnSmZvdURCdXVxUWk0Mld4XzhTU0pjTVRzbTh2a2VVa2hGb1hUSGRIa1hHaGtoczBsMDdWY0l6QVh6MnpvLXVBSXV6ejFVQk5QdmRYc3g5RXpzaWUweEpDTXZrZTJpUkVGaDVRakFEeVlaVVJuUQ"
+  "CBMikgFBVV95cUxQQnFQSVNJb2w1Ujl3d3J0R2t0TWJLemJYN1RHbnRnSmZvdURCdXVxUWk0Mld4XzhTU0pjTVRzbTh2a2VVa2hGb1hUSGRIa1hHaGtoczBsMDdWY0l6QVh6MnpvLXVBSXV6ejFVQk5QdmRYc3g5RXpzaWUweEpDTXZrZTJpUkVGaDVRakFEeVlaVVJuUQ",
+  "CBMimwFBVV95cUxNR3JmbV9MUHhTRjdVWF9RNldwWFRoSmU1YVNNcS0ydXVaX0pzcHhqeUZjMnI5bVNUUHF5Q0l5Zl91YzNqbzRFUFBiLUk0SkczemlDSkh5VURGWWlYTXpYYzJHa09PM1Y0bWUtQXR4S1hPVGUzUUtiZzdoU3Z6RXpqTHp1MmY3MC00Y2p2ZGF3TWUyM3N5SDN0aEhySQ",
+  "CBMiYkFVX3lxTFBKRzhKTFBfYi1IQjh5MlNwQXpYeGJHajVLb3VGelVfZkhKZTFJRWY4VjNPYjJZRUgyOVBaSVFrUVNvN0RQRHJtNnhUNmJ2RlBNaVNfSmlIV2NqODhZd3pxOFVB",
+  "https://thehill.com/?p=6026323"
  ],
  "posts": [
-  {
-   "fp": "british columbia declares emergency flee force state wildfires",
-   "title": "Wildfires force 20,000 to flee as British Columbia declares state of emergency",
-   "source": "AP",
-   "at": "2026-08-08T21:47:19.836774+00:00"
-  },
-  {
-   "fp": "california carrying erupts explosion flames gallons highway massive tanker",
-   "title": "Massive explosion on California highway as tanker carrying 8,600 gallons of gas erupts into flames",
-   "source": "New York Post",
-   "at": "2026-08-08T21:47:21.586474+00:00"
-  },
-  {
-   "fp": "airport down emergency evacuate forces landing passengers shortly slide smoke",
-   "title": "Passengers evacuate down slide at ATL airport shortly after smoke forces emergency landing",
-   "source": "New York Post",
-   "at": "2026-08-08T22:20:50.448454+00:00"
-  },
   {
    "fp": "breaking live news russia ukraine updates",
    "title": "Russia-Ukraine | Breaking News & Live Updates",
@@ -3201,12 +3183,27 @@
    "title": "Two dead in Apache crash at US military base",
    "source": "Telegraph",
    "at": "2026-08-13T00:00:38.372965+00:00"
+  },
+  {
+   "fp": "earnings here refunds tariff turbocharging",
+   "title": "Tariff Refunds Are Here\u2014and Turbocharging Earnings",
+   "source": "WSJ",
+   "at": "2026-08-13T01:57:01.275436+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-08-13T01:57:03.157142+00:00"
+  },
+  {
+   "fp": "comes order political risks trump vaccine",
+   "title": "Trump's vaccine order comes with political risks",
+   "source": "The Hill",
+   "at": "2026-08-13T01:57:04.883576+00:00"
   }
  ],
  "titles": [
-  "british columbia declares emergency flee force state wildfires",
-  "california carrying erupts explosion flames gallons highway massive tanker",
-  "airport down emergency evacuate forces landing passengers shortly slide smoke",
   "breaking live news russia ukraine updates",
   "crash crews dangerous helicopter keeps reaching utah wildfire",
   "county evacuation fire forces holser near orders piru ventura",
@@ -3603,6 +3600,9 @@
   "apache attack central crashes dead helicopter texas",
   "breaking california down hilton plan steve sweeping",
   "area estate explosion francisco fueled sells sign wealth",
-  "apache base crash dead military"
+  "apache base crash dead military",
+  "earnings here refunds tariff turbocharging",
+  "edition journal print street wall",
+  "comes order political risks trump vaccine"
  ]
 }
