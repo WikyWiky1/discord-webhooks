@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4674593",
-  "https://nypost.com/?post_type=article&p=40187862",
-  "https://nypost.com/?post_type=article&p=40183048",
-  "https://nypost.com/?post_type=article&p=40183996",
   "https://www.washingtonexaminer.com/?p=4674415",
   "https://www.theguardian.com/us-news/2026/aug/04/eaton-wildfire-cause-los-angeles",
   "CBMilwFBVV95cUxOZ2J5eWEwWktqLUh2S0h5OE1SNHJGNnhKVTdCM3U1Zjh0OWtOQ2ZXZkx6ajMxd0JtckJRNWd1WE8weXZPNHRXa0JHQlgxTkdZNG44eGREeFdvOVBFMVMzRUtXLTJsaU8waHVqc1l1NlZLMXNDdEFuV0ZuWnMteUlwQ254OHUxek42cF82aVNXWnJtUWR4WGZF",
@@ -799,33 +795,13 @@
   "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
   "CBMikwFBVV95cUxNY2R1Y21OR1lSdTNjcVZSNUpUUzlJVEFPcHY3Wjg4QmMwQTZ5V2ZjQ3hnVlkwMXY0c052UXlrSFBSTXZVZXVtNnpnUTdNQVlIT3VYbXR3cDR6ZjRVeDJZb3RUV1FWZ1d1ZVNyQ2g4VFhSb09GRjBBMFBfdjlYcktuZWVlbzJRRkJVeDA3QXJKaEg2UXc",
   "CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw",
-  "https://thehill.com/?p=6026446"
+  "https://thehill.com/?p=6026446",
+  "https://nypost.com/?post_type=article&p=40319765",
+  "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
+  "https://nypost.com/?post_type=article&p=40318702",
+  "CBMisgFBVV95cUxOUzJVaVRQdEpobS14T0dDeGtNUFhEX05XaTFwdHJfcUVvcm9pa2FHMG5OaGF4ODdrZDdqQ1UwTm1GTzdNWk4xREZtUjFfWjd4aUhQZDdNczZQQm1vR29PQUtyaWh2NnNlU3QxRFdMbDJNZElydDZob3g0UnpveWVpblFBU3ZQSzlLSGNTenNKWEllbzQ4NWpYR055X3E2YzdYUndYZDR6clpIMDVNeGc5MjR3"
  ],
  "posts": [
-  {
-   "fp": "canada declared doubles emergency fast moving size state wildfire",
-   "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-   "source": "BBC World",
-   "at": "2026-08-09T12:56:15.973824+00:00"
-  },
-  {
-   "fp": "attack claim houthis refinery responsibility saudi yemen",
-   "title": "Yemen\u2019s Houthis claim responsibility for attack on Saudi oil refinery",
-   "source": "Guardian World",
-   "at": "2026-08-09T12:56:17.702731+00:00"
-  },
-  {
-   "fp": "81st anniversary atomic bomb deterrence increases marks mayor nagasaki nuclear only risk",
-   "title": "Nagasaki marks 81st atomic bomb anniversary as mayor says nuclear deterrence only increases risk",
-   "source": "Washington Examiner",
-   "at": "2026-08-09T13:45:40.040538+00:00"
-  },
-  {
-   "fp": "between civilians dozens injuring kill overnight russia strikes ukraine",
-   "title": "Overnight strikes between Russia and Ukraine kill 7 civilians, injuring dozens more",
-   "source": "New York Post",
-   "at": "2026-08-09T13:45:41.791115+00:00"
-  },
   {
    "fp": "christopher collapses comic highlander lambert pittsburgh star",
    "title": "\u2018Highlander\u2019 star Christopher Lambert, 69, collapses at Pittsburgh Comic-Con",
@@ -3201,13 +3177,33 @@
    "title": "Senate rankings: 8 GOP seats that could flip in November",
    "source": "The Hill",
    "at": "2026-08-13T13:09:28.741202+00:00"
+  },
+  {
+   "fp": "crash driver erupts flames griffith killed park",
+   "title": "Driver killed after car erupts in flames in crash in Griffith Park",
+   "source": "New York Post",
+   "at": "2026-08-13T14:04:43.576205+00:00"
+  },
+  {
+   "fp": "down house karoline leavitt live politics press questions replacement secretary steps white",
+   "title": "Questions over Karoline Leavitt\u2019s replacement as she steps down as White House press secretary \u2013 US politics live",
+   "source": "Guardian World",
+   "at": "2026-08-13T14:04:45.383742+00:00"
+  },
+  {
+   "fp": "activist attack controversial illegal immigrant jake long murder served suspect years",
+   "title": "Suspect in attack on controversial activist Jake Long is an illegal immigrant who served 15 years for murder",
+   "source": "New York Post",
+   "at": "2026-08-13T14:04:47.266284+00:00"
+  },
+  {
+   "fp": "dead dutch explosion injured leaves port rotterdam several",
+   "title": "Explosion at Dutch port of Rotterdam leaves 1 dead, several injured",
+   "source": "AP",
+   "at": "2026-08-13T14:04:49.110690+00:00"
   }
  ],
  "titles": [
-  "canada declared doubles emergency fast moving size state wildfire",
-  "attack claim houthis refinery responsibility saudi yemen",
-  "81st anniversary atomic bomb deterrence increases marks mayor nagasaki nuclear only risk",
-  "between civilians dozens injuring kill overnight russia strikes ukraine",
   "christopher collapses comic highlander lambert pittsburgh star",
   "attack line opinion search socialist",
   "astaire beach fred nuclear story strange went",
@@ -3603,6 +3599,10 @@
   "about democratic mixed party primary send signals voters want",
   "decades individual last millions plan require shots trump used vaccine",
   "demand disruptions higher outlook slips stocks supply weaker",
-  "flip november rankings seats senate"
+  "flip november rankings seats senate",
+  "crash driver erupts flames griffith killed park",
+  "down house karoline leavitt live politics press questions replacement secretary steps white",
+  "activist attack controversial illegal immigrant jake long murder served suspect years",
+  "dead dutch explosion injured leaves port rotterdam several"
  ]
 }
