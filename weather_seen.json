@@ -411,9 +411,9 @@
    "message_id": "1537557711833661572",
    "event": "Flash Flood Warning",
    "area": "San Bernardino, CA; Clark, NV",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-13T20:25:25+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-13T23:10:40+00:00"
   },
   {
    "id": "urn:oid:2.49.0.1.840.0.ea8109f0ebada550f7fd78e2629fb65f5d381967.001.1",
@@ -440,6 +440,15 @@
    "area": "Clark, NV; Lincoln, NV",
    "expired": false,
    "posted_at": "2026-08-13T22:19:35+00:00",
+   "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.e4553db424a31ad6390035d74e85b5bffe6c353f.001.1",
+   "message_id": "1537599282490908755",
+   "event": "Flash Flood Warning",
+   "area": "San Bernardino, CA; Clark, NV",
+   "expired": false,
+   "posted_at": "2026-08-13T23:10:38+00:00",
    "expired_at": null
   }
  ]
