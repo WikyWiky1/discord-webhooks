@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=5983451",
-  "https://nypost.com/?post_type=article&p=40188583",
-  "https://www.washingtonexaminer.com/?p=4673926",
-  "https://www.washingtonexaminer.com/?p=4673417",
-  "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
   "https://www.bbc.co.uk/news/articles/c330pxyvzzyo#0",
   "https://www.theguardian.com/world/2026/aug/05/kashmir-deadly-cloudbursts-devastate-mountain-communities-erratic-weather-climate-change",
   "https://nypost.com/?post_type=article&p=40193631",
@@ -799,39 +794,14 @@
   "https://nypost.com/?post_type=article&p=40320577",
   "https://www.washingtonexaminer.com/?p=4686322",
   "CBMinAFBVV95cUxQbzlib09ZOXJsVWdfY0lrdHRnWm1PSmExUEloYkRkd3lkNkRnTEFvQ3ZkS0c5MXV6VUVTa1BhcmJ5bEEwcldaSEljamlyczl2STlvcmgwZEhIUXh4ZTNTSGhpS1VqSnRuVkg4OTU3bi1sYWtsZ0hSa081ZHRCUGN1dGVJZlc0UEFNdGVpcldHSkRwNzU1c2pUMWJ4MU8",
-  "https://www.bbc.co.uk/news/articles/cqlxpq5q799o#1"
+  "https://www.bbc.co.uk/news/articles/cqlxpq5q799o#1",
+  "https://nypost.com/?post_type=article&p=40324120",
+  "https://nypost.com/?post_type=article&p=40325573",
+  "https://nypost.com/?post_type=article&p=40325333",
+  "CBMirgFBVV95cUxOd21YQ3loWjI1Wm1CLTROV1FEOUZ0dDBrN04yU1BzQ21Wb1FOcWlPejU2VENKUGNrUDAwcThOVVhOdHdMdmtWMTdmbE1rdmlZcHNsc0hXX1pTcU9MQW1RY2pDUTZWRklIbFJmNTFRdzI2dDg1VEc5YVZ6eTdMQUZjeWdSVllvZmdERENmOFFFR21vRXI3SGdybEJFZU9ib1paQllsZXhxSmNiLUs5emc",
+  "CBMioAFBVV95cUxNSmZfd2k1WlhiR2ZjYkNxczBycTA3cklsb3hGR1RXLXk4NDd1Q1ROQUpJT0dZSFo0SVF2MTJXVmc5a2xwRUttcF9WT0YzZ0E4U2g2dmhROXIzSjh2ZmxqODI5YjdXVXVIQlUxX1F1cl9GcVhjTy1UNkFsaEFfcVNNWDZnOXR1dllxaHVsX011NllUTWVOOV9ybENoZmh4aW4w"
  ],
  "posts": [
-  {
-   "fp": "asia confusion edge gulf higher stocks",
-   "title": "Asia stocks edge higher, oil up amid Gulf confusion",
-   "source": "Reuters",
-   "at": "2026-08-10T01:46:20.846133+00:00"
-  },
-  {
-   "fp": "farms implicated jalape outbreak products recalls salmonella taylor",
-   "title": "Taylor Farms Recalls Products With Jalape\u00f1os Implicated in Salmonella Outbreak",
-   "source": "WSJ",
-   "at": "2026-08-10T03:19:14.060855+00:00"
-  },
-  {
-   "fp": "dead golfer matt mcquillan",
-   "title": "Ex-PGA golfer Matt McQuillan dead at 45",
-   "source": "New York Post",
-   "at": "2026-08-10T03:19:15.803149+00:00"
-  },
-  {
-   "fp": "atomic city generation grounds idaho next nuclear proving reactors view",
-   "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
-   "source": "NPR News",
-   "at": "2026-08-10T04:58:31.396987+00:00"
-  },
-  {
-   "fp": "china dolphin dumped evacuated million people rainfall record shanghai typhoon",
-   "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
-   "source": "Guardian World",
-   "at": "2026-08-10T04:58:33.149234+00:00"
-  },
   {
    "fp": "apologizes gunman happen mother thai thought",
    "title": "'No one thought this would happen': Thai gunman's mother apologizes",
@@ -3201,14 +3171,39 @@
    "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
    "source": "BBC World",
    "at": "2026-08-13T17:15:11.461454+00:00"
+  },
+  {
+   "fp": "alcott chemmy collapsed dive flip former front goes lung olympic skier suffers wrong",
+   "title": "Former Olympic skier Chemmy Alcott suffers collapsed lung after front flip dive goes wrong",
+   "source": "New York Post",
+   "at": "2026-08-13T18:09:07.132186+00:00"
+  },
+  {
+   "fp": "alligator attack boyfriend brittany clark final girlfriend gives heartwarming update victim wish",
+   "title": "Alligator attack victim Brittany Clark\u2019s boyfriend gives heartwarming update on girlfriend\u2019s final wish",
+   "source": "New York Post",
+   "at": "2026-08-13T18:09:08.852515+00:00"
+  },
+  {
+   "fp": "atlanta delta emergency flight forced landing make odor plane reported smoky",
+   "title": "Delta flight forced to make emergency landing in Atlanta after \u2018smoky odor\u2019 reported on plane",
+   "source": "New York Post",
+   "at": "2026-08-13T18:09:10.580295+00:00"
+  },
+  {
+   "fp": "descends flee greek resort tourists village wildfire",
+   "title": "Tourists flee as Greek wildfire descends on resort village",
+   "source": "Reuters",
+   "at": "2026-08-13T18:09:12.274106+00:00"
+  },
+  {
+   "fp": "ammunition explosion injuries near plant reported rome strikes",
+   "title": "An explosion strikes an ammunition plant near Rome; no injuries reported",
+   "source": "AP",
+   "at": "2026-08-13T18:09:14.076374+00:00"
   }
  ],
  "titles": [
-  "asia confusion edge gulf higher stocks",
-  "farms implicated jalape outbreak products recalls salmonella taylor",
-  "dead golfer matt mcquillan",
-  "atomic city generation grounds idaho next nuclear proving reactors view",
-  "china dolphin dumped evacuated million people rainfall record shanghai typhoon",
   "apologizes gunman happen mother thai thought",
   "country fires government gunman inside office reels school shooting thai",
   "bangladeshi factory fire kills migrant saudi workers",
@@ -3603,6 +3598,11 @@
   "dark dead found graphic horrors house missing philly real show videos women",
   "calls casualties civilian hegseth jack reckoning reed strikes yemen",
   "explosion factory italian large munitions rips through",
-  "causes danube drop heat huge level nuclear only plant river romania shuts"
+  "causes danube drop heat huge level nuclear only plant river romania shuts",
+  "alcott chemmy collapsed dive flip former front goes lung olympic skier suffers wrong",
+  "alligator attack boyfriend brittany clark final girlfriend gives heartwarming update victim wish",
+  "atlanta delta emergency flight forced landing make odor plane reported smoky",
+  "descends flee greek resort tourists village wildfire",
+  "ammunition explosion injuries near plant reported rome strikes"
  ]
 }
