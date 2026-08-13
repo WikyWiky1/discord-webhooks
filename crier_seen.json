@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/aug/04/call-to-ban-disposable-barbecues-in-england-and-wales-over-wildfire-risk",
   "https://www.bbc.co.uk/news/articles/cn4n03xg981o#0",
   "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
   "https://www.theguardian.com/world/2026/aug/04/us-qatar-progress-iran-ceasefire-hormuz-strait",
@@ -799,7 +798,8 @@
   "CBMixgFBVV95cUxPdGhXbFM5QXFmajRHRDJaUnRpRHhRSjVoWlpKQWdPangwX2g4cTB4SzNsN2lpOTZxN1Q3ejZQWFpzekxwcTdGWVZoTWFuOGFWam1oVmNUX2RzVHU1MjEtQzh2ZHRoam9JVi1rT01kN2dQcnJUbzRLNHNqQkVXR0VERk1VdW5QX0JKWEw5dEJoM2E4bjhUUGZsckdnbHdoVXROMm5yTkRWZEVvaGxsR0xRQzFwVXNjLVBfMlNGMkZ5V1JQV2kwM2c",
   "CBMiYkFVX3lxTFA4d0lycEVRaU1EUXVtTG9FNjlickVWRUpuSEtYUTU1VF9pUW43UkJBQnMzcklJamVMTERCc3p1V3I3VlZPeVhlY3RQcnUzdGZNbUo4UXZPdmd3NnN5c0hocll3",
   "CBMimwFBVV95cUxQTThmQnFUX3lIallnOHExbTVZbmc1anVQLUREMjRRSU56Q0tEUHJHMlJFSG9Yc0VpazVwcDUwb0xndmZXWDZfQTlqSkR4cEhsRTBtSmVza09XejNzYWhsUW9vRl93VmI0dlctZlF3T3JwZzBrYmFiaHd2NzlCTk5oVklBaFN1dTUtZG9ER1lld0RNMjMyaXBtbmpxMA",
-  "CBMiowFBVV95cUxNQ2Z2aGVqeTlOMFVENTFOYk1KTzRnVDhMTmZJcmk5UnlIQmhRblBVWVZTb2h3NEJyMTlsSDR1aHRYYmc1QUdtUXBYbVBaN0Y2XzVKb19TTzBwTjNLd0RJellsc3Q1RnVCRzVnbWFJYmZBdTQwZmU5RXFNUFI4RFl4cTh3NDdpOVpwLUtWUDRRSFBZNGxGSDJTclVwNnpBQzk3YzdJ"
+  "CBMiowFBVV95cUxNQ2Z2aGVqeTlOMFVENTFOYk1KTzRnVDhMTmZJcmk5UnlIQmhRblBVWVZTb2h3NEJyMTlsSDR1aHRYYmc1QUdtUXBYbVBaN0Y2XzVKb19TTzBwTjNLd0RJellsc3Q1RnVCRzVnbWFJYmZBdTQwZmU5RXFNUFI4RFl4cTh3NDdpOVpwLUtWUDRRSFBZNGxGSDJTclVwNnpBQzk3YzdJ",
+  "https://nypost.com/?post_type=article&p=40318322"
  ],
  "posts": [
   {
@@ -3185,12 +3185,6 @@
    "at": "2026-08-13T09:06:08.308165+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-08-13T10:05:34.634260+00:00"
-  },
-  {
    "fp": "ballots cast economic election incumbent presidential reforms tests zambians",
    "title": "Zambians cast ballots in a presidential election that tests incumbent\u2019s economic reforms",
    "source": "AP",
@@ -3201,6 +3195,12 @@
    "title": "Election Takeaways: Democratic Drama and a Trump Slump",
    "source": "WSJ",
    "at": "2026-08-13T10:05:38.562423+00:00"
+  },
+  {
+   "fp": "brave brawling couple daughter dropping florida killed moments school stop tried",
+   "title": "Brave Florida dad killed moments after dropping his daughter off for first day of school as he tried to stop brawling couple",
+   "source": "New York Post",
+   "at": "2026-08-13T10:29:30.462500+00:00"
   }
  ],
  "titles": [
@@ -3601,8 +3601,8 @@
   "been binface count denounced election faces farage nigel special stunt",
   "canadian flee forced normal premier province signal wildfire",
   "down nuclear nuclearelectrica reactor romanian shutting sole starts working",
-  "edition journal print street wall",
   "ballots cast economic election incumbent presidential reforms tests zambians",
-  "democratic drama election slump takeaways trump"
+  "democratic drama election slump takeaways trump",
+  "brave brawling couple daughter dropping florida killed moments school stop tried"
  ]
 }
