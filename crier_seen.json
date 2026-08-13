@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
-  "https://www.theguardian.com/world/2026/aug/04/us-qatar-progress-iran-ceasefire-hormuz-strait",
-  "CBMipAFBVV95cUxOUW9xNGExM09EbEdnQ1lNMkZCOEM0TE1FeGxMbGJGZkExOW5YdkpGQlVUOWFuRTVhSF93cm5tcjd6QnZmVVNrMmdHY2dYUXpkRDhRNGhzU252THJCejdCZXcteThHRGptY05VOWtWYVJCRUFBZ3lvWnRXZ0J1cGRMSldmSnJwVzQxN045Y00yZnFhUlJkSzBoVWJqa0Z5ZFprY3daTg",
-  "CBMiwgFBVV95cUxNLWxZWjEzUHh2dXNYYUxyS2RjbUhHTXh1RHpVTjZwUUpScFlZbnFUVDkwUlR3bXJMU3otWDY4Q2cyTml6dXV2YVJIZkdiN0lnZUV0T19VN1QwRUY4ZmU5bjNhUHJfU2tWeEw4RVFoTUN4R2lGaW1WSXpzUWxaVmZWSF9kRGhLcE9GU1lxaHp4N0xnNFp0MG9lMkZEeTd4TTEyTTBySlEzYVJFM0RSdjFTRHJZbnFmdFBISndla004RHVTQQ",
-  "CBMisgFBVV95cUxQN21fRmNFOVNQVHhBc2tlQTBVVjNNMVlPbG5DXzFhX2hqeFZFZFNMWlZzN184V2ZhNzJXbWt5MXZhRGY1VzBFaEY0a20zYnlhc2NZTzlKTjlrczZBMFdPak82cXU3Zk52RnRiUFJFLWJTNEZwT0RiVVJXaDBueDZsd2xwNjdmOVYxS3V4SGUyWVNoYVJkN25VRVF1ZFJhWWl4RTRFVWVMTzRhZjJvcWZKVGV3",
-  "https://www.washingtonexaminer.com/?p=4674394",
   "https://nypost.com/?post_type=article&p=40184748",
   "https://www.washingtonexaminer.com/?p=4674195",
   "https://thehill.com/?p=6008642",
@@ -799,45 +793,15 @@
   "CBMimwFBVV95cUxQTThmQnFUX3lIallnOHExbTVZbmc1anVQLUREMjRRSU56Q0tEUHJHMlJFSG9Yc0VpazVwcDUwb0xndmZXWDZfQTlqSkR4cEhsRTBtSmVza09XejNzYWhsUW9vRl93VmI0dlctZlF3T3JwZzBrYmFiaHd2NzlCTk5oVklBaFN1dTUtZG9ER1lld0RNMjMyaXBtbmpxMA",
   "CBMiowFBVV95cUxNQ2Z2aGVqeTlOMFVENTFOYk1KTzRnVDhMTmZJcmk5UnlIQmhRblBVWVZTb2h3NEJyMTlsSDR1aHRYYmc1QUdtUXBYbVBaN0Y2XzVKb19TTzBwTjNLd0RJellsc3Q1RnVCRzVnbWFJYmZBdTQwZmU5RXFNUFI4RFl4cTh3NDdpOVpwLUtWUDRRSFBZNGxGSDJTclVwNnpBQzk3YzdJ",
   "https://nypost.com/?post_type=article&p=40318322",
-  "https://www.bbc.co.uk/weather/articles/ce85pj0e20po#0"
+  "https://www.bbc.co.uk/weather/articles/ce85pj0e20po#0",
+  "CBMiowFBVV95cUxPTHMzY0ljNHJlVEdIUEJETWVOYXdZWU90aHg1QmJRMzVwLXhCLVhwNkg2aFBhdE1CNVVzRF84UHl4ODI5NG5pY3pNS1A2UDFPUTdjODNiMEtObVJyX0JKUkVjV1VUTWRtOHdKazhhenlaVjNIcUI3VVRtbFdhS1psY21xLVc5RWpZdUVQM0JhWk1ENURVekdkWmx4QXBoRFMwdVg0",
+  "https://thehill.com/?p=6026762",
+  "https://nypost.com/?post_type=article&p=40318713",
+  "CBMiqwFBVV95cUxOMnRoQ3l3SzVhY1hlakM2UXdxZTJZdVFjaFE4QjdwRXAzeWdXVW1vbFhPdHhyQ2ZqSlJ6UDJOQzV4OHYzZ1F6SWlpdGNvdjNrbFdwVS05UHdKY0xvRXY2cGJhYXBTczNYWkh3VE1HVGhPa1k3TXJjOWFfaDg4aG5RR3I1VHpsS1A5UHBod3JEZzIyWThoLVhZVGNJSVJDMEF2cU4tZWk4RnZKcnc",
+  "https://news.sky.com/story/man-dies-after-suspected-gas-explosion-destroys-bungalow-in-buckinghamshire-13572561",
+  "CBMiygFBVV95cUxPeHYzNl9EN3FFQlFHQl93bWFiQ2VOQkh2bWFrVjVPend4OTVyQ01hVGwwY0IxSzVXa250MHV6X2FxUnI3SzBrV2plZkJaQ3ZTaTR3cGc3UUhERjBGd0JhY2NkaGVoSHplel9ma3piOTYzd1dHZE9tVVVnZV9Ca2JYTlE2aW95SW84YlFnZ0tJM0FIaGQzWjgydlN3czNGbG4xY0JoVkJKcVlXOXZrcWl6S2JQLTM5V0pEX2tXR2lwVTJQeTAySGlrYnFn"
  ],
  "posts": [
-  {
-   "fp": "cyclosporiasis full loss lowers outbreak outlook sweetgreen widens year",
-   "title": "Sweetgreen Lowers Full-Year Outlook Due to Cyclosporiasis Outbreak as Loss Widens",
-   "source": "WSJ",
-   "at": "2026-08-09T07:37:55.062117+00:00"
-  },
-  {
-   "fp": "down girls hanging jersey left malfunction recall ride shore stuck teen upside",
-   "title": "Teen girls recall Jersey Shore ride malfunction that left them stuck hanging upside down",
-   "source": "New York Post",
-   "at": "2026-08-09T08:20:37.212675+00:00"
-  },
-  {
-   "fp": "attack badger barbershop brushes favourite hair philip prince under using",
-   "title": "Prince Philip\u2019s favourite barbershop under attack for using badger-hair brushes",
-   "source": "Telegraph",
-   "at": "2026-08-09T09:20:44.276142+00:00"
-  },
-  {
-   "fp": "attack authorities belgorod drone killed russian three ukrainian",
-   "title": "Three killed in Ukrainian drone attack on Belgorod, Russian authorities say",
-   "source": "Reuters World",
-   "at": "2026-08-09T09:20:45.961881+00:00"
-  },
-  {
-   "fp": "arabia aramco attack claim east facility houthis middle news other saudi yemen",
-   "title": "Yemen\u2019s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-   "source": "AP",
-   "at": "2026-08-09T09:20:47.853360+00:00"
-  },
-  {
-   "fp": "attack damage odesa port russian sustains ukraine zelenskiy",
-   "title": "Ukraine's Odesa port sustains damage from Russian attack, Zelenskiy says",
-   "source": "Reuters World",
-   "at": "2026-08-09T10:07:36.138721+00:00"
-  },
   {
    "fp": "airspace bulgaria damage drone explodes",
    "title": "Bulgaria says drone explodes in its airspace, no damage",
@@ -3201,15 +3165,45 @@
    "title": "Temperatures to soar to 38C as amber extreme heat warning in effect",
    "source": "BBC Science",
    "at": "2026-08-13T11:52:53.116783+00:00"
+  },
+  {
+   "fp": "causes death explosion police port rotterdam",
+   "title": "Rotterdam port explosion causes one death, police say",
+   "source": "Reuters",
+   "at": "2026-08-13T12:29:00.067159+00:00"
+  },
+  {
+   "fp": "crash helicopter killed soldiers texas",
+   "title": "2 soldiers killed in Texas helicopter crash",
+   "source": "The Hill",
+   "at": "2026-08-13T12:29:01.962887+00:00"
+  },
+  {
+   "fp": "astonishing bride call daughter jailhouse jamie killed komoroski sympathy wedding words",
+   "title": "Jamie Komoroski\u2019s dad\u2019s astonishing words of sympathy in jailhouse call after daughter killed bride on her wedding day",
+   "source": "New York Post",
+   "at": "2026-08-13T12:29:03.704384+00:00"
+  },
+  {
+   "fp": "capacity expected france friday heatwave nuclear remove",
+   "title": "Heatwave expected to remove 15% of France's nuclear capacity on Friday",
+   "source": "Reuters",
+   "at": "2026-08-13T12:29:05.418796+00:00"
+  },
+  {
+   "fp": "bungalow destroyed dies explosion suspected",
+   "title": "Man dies after bungalow destroyed in suspected gas explosion",
+   "source": "Sky News",
+   "at": "2026-08-13T12:29:07.299966+00:00"
+  },
+  {
+   "fp": "anthony benefit chayanne colombia concert earthquake marc play relief venezuela",
+   "title": "Marc Anthony, Chayanne and more to play benefit concert for Venezuela and Colombia earthquake relief",
+   "source": "AP",
+   "at": "2026-08-13T12:29:09.007989+00:00"
   }
  ],
  "titles": [
-  "cyclosporiasis full loss lowers outbreak outlook sweetgreen widens year",
-  "down girls hanging jersey left malfunction recall ride shore stuck teen upside",
-  "attack badger barbershop brushes favourite hair philip prince under using",
-  "attack authorities belgorod drone killed russian three ukrainian",
-  "arabia aramco attack claim east facility houthis middle news other saudi yemen",
-  "attack damage odesa port russian sustains ukraine zelenskiy",
   "airspace bulgaria damage drone explodes",
   "assault continues democrats election simulate threats trump voting",
   "federal kevin opinion reserve status warsh",
@@ -3603,6 +3597,12 @@
   "ballots cast economic election incumbent presidential reforms tests zambians",
   "democratic drama election slump takeaways trump",
   "brave brawling couple daughter dropping florida killed moments school stop tried",
-  "amber effect extreme heat soar temperatures warning"
+  "amber effect extreme heat soar temperatures warning",
+  "causes death explosion police port rotterdam",
+  "crash helicopter killed soldiers texas",
+  "astonishing bride call daughter jailhouse jamie killed komoroski sympathy wedding words",
+  "capacity expected france friday heatwave nuclear remove",
+  "bungalow destroyed dies explosion suspected",
+  "anthony benefit chayanne colombia concert earthquake marc play relief venezuela"
  ]
 }
