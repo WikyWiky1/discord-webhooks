@@ -267,9 +267,9 @@
    "message_id": "1537168995189268491",
    "event": "Extreme Heat Warning",
    "area": "Pulaski; Phelps; Laclede; Texas; Dent; Greene; Webster; Wright; Christian; Douglas; Howell; Shannon; Barry; Stone; Taney; Ozark; Oregon",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-12T18:40:47+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-13T07:49:43+00:00"
   },
   {
    "id": "urn:oid:2.49.0.1.840.0.db6e123767e0df877a39a5af548c42bd406168a0.001.1",
@@ -368,6 +368,15 @@
    "area": "Russell; Lincoln; Barton; Ellsworth; Saline; Rice; McPherson; Marion; Chase; Reno; Harvey; Butler; Greenwood; Woodson; Allen; Kingman; Sedgwick; Harper; Sumner; Cowley; Elk; Wilson; Neosho; Chautauqua; Montgomery; Labette",
    "expired": false,
    "posted_at": "2026-08-13T04:31:24+00:00",
+   "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.20dc6582d85ca6e11c30d294d48a51dfd365501d.001.2",
+   "message_id": "1537367528463142954",
+   "event": "Extreme Heat Warning",
+   "area": "Pulaski; Phelps; Laclede; Texas; Dent; Greene; Webster; Wright; Christian; Douglas; Howell; Shannon; Barry; Stone; Taney; Ozark; Oregon",
+   "expired": false,
+   "posted_at": "2026-08-13T07:49:41+00:00",
    "expired_at": null
   }
  ]
