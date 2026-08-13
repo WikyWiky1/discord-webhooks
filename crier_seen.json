@@ -1,14 +1,5 @@
 {
  "ids": [
-  "CBMijwFBVV95cUxOVjZYdkY1UEVzOUFUX1lSTFJRM18yeGlPcnYzYk4zZTBZZEV6eVJ0Z25oWUN4UlRQR0lWUjBmTmxvQ2I2Qld6LTBsWmEyVElFaWU4QzhJbFBJeEI4WjMyZG02UlBUcThCNzhUeDhBZktFbG5SZWJOLXNYNVF6Y0NMQVlkdWEwcXFGSU10elJ2NA",
-  "CBMiuwFBVV95cUxOc2owYVhEekZ0SDNyam1UekExOU5pdGdoRTNhRjU3QkRCUEx2QWloMFdCbVZNbk1Cb1lha2daWGk2WEN1MU5FbHRCeE8wb2tycWdxNHV4dG5TV0gxMXZhWmpWVy1pYnJNLTNUTkkwUDgxUndMYmc5UEJZVG15b3BNM3NvbDNoRzRBLWg3UjJ6ZHZ5b2hpellGd3J0U2dIX3pkd2o3WGhJZWJNT005b0dELXJTZUpLTmx4cC1n",
-  "https://nypost.com/?post_type=article&p=40191259",
-  "CBMirgFBVV95cUxOR0p3ci13M2E4ZHdienF4dUc4Ni1rZDlJZUhrTVJMNlA1NmNaOTNqMUpXaG16cGlCekJCdlBReFgtQmR4ZlJMdThKSTZIcGZwR0pXS0QzcmV5eGE5MG0tRmFWNEt2cnpzaW82YU81akZRR3pXZHF6amg2c1RzUEZKWGNDRWNKdS1lOGRYNW9wdkpZVTltVW1IZkhtSkpqU21sY2pKMVNkMU9XY0ZVbVE",
-  "https://thehill.com/?p=6009490",
-  "https://nypost.com/?post_type=article&p=40195542",
-  "https://www.washingtonexaminer.com/?p=4673967",
-  "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
-  "https://nypost.com/?post_type=article&p=40187025",
   "CBMipwFBVV95cUxQZnZ4UlZMbnBJV21TQmJ1RUhMaDF4aDBodDVNdG9UWWdRLUxGOVR2enA1Q1NhNU5IVDdBbDZwWnBjaEg0cDQ5c1lYX0FlWUlzcFM5VGE0dE56V2FwaWYzUkJyM3VrUHdBTy1XZTBjQmFDcVZhRWtKYnVNOEt4MHQ2S1pzSDJNZnpVRUN3OXZVczFpYTdMTXZrZmE1Y1ZYRHozeTNKdU54TQ",
   "https://nypost.com/?post_type=article&p=40196523",
   "https://nypost.com/?post_type=article&p=40196717",
@@ -799,63 +790,18 @@
   "CBMi1AFBVV95cUxNX2FGWlpQTGlTaUtCLVZValVhUFJoNG9LZ0JRdmc0OFJROUdKZEhsQm1RT0tIbVF2WmU5cm0wRkVpT3g3azU1Vzg0V21FN2Jhd193TDh1ZHF0NmN2Z2tiZGZ6NElNUDdNTEF4alNjdGFiVmR4TGt0ZV9LOFhxZVZWcFF6RUl3WTIyZ1lsd091TFBjNTdSZ0xFY0xHRGpfaXQ3UWZhR1RNRGs1Z1RVeWdoRWIzVkZmTVlwSW5sVTg1QXluS1V2elpnRS1Md21Za0NqTng5aQ",
   "CBMiogFBVV95cUxPYUpfN3dUYnY0V1lqb3RNNEF0eUxudEt5Tkk3OGZibXVmZ0pHRTFJZnk4M1lNRWFTSDU2cjhtbTA1NTlJellfWnpHM0txb196eVdnVG5hS3REelZFcDNtNE1WRVRyRV9iQlZLZVVDMC1PbEdqWm5vZzJmOWp1MDVidF9fd01LN3hwWEJ4NzNMSWRNMWp1cHFDVDZxTEltUW1vaGc",
   "CBMipgFBVV95cUxQWFZfbjhGTXJLaGJDMXUzdVVqck5FWHZDbFpWcUgxMktnUVp6RmdwdTJNVERZTmRBekE1SUViT0FxN2Jma2QxQUZVMi1pSWt5S19NTWVXU0podFRjUGNrLV9CczZNcWswTTJxUlVBYTBqRVBQelRkclRsSmd2aGNpMVlMMUpkYXp0NGVGWGJKQTN1U3RXNWhURUluXzZuaElXT3B6ckNB",
-  "https://thehill.com/?p=6027785"
+  "https://thehill.com/?p=6027785",
+  "https://nypost.com/?post_type=article&p=40322893",
+  "https://nypost.com/?post_type=article&p=40325731",
+  "https://www.bbc.co.uk/news/articles/ce85p80nn2yo#1",
+  "https://nypost.com/?post_type=article&p=40323160",
+  "https://pagesix.com/?post_type=article&p=9108679",
+  "CBMiyAFBVV95cUxNdTlvYTRPQnZ2b3ZFaHNQeDc1ZWdlaXlmc1AwQTJ4bnFKQ2xHRmpaSGRRa2o0U1ZOR0w3RnhiNDFBMmlicjE1RFpIdXBhUmtqTmhpYzhBUDVjaG5sLVFyZGlpZllnSVpxWlJHRW5GRW5TTjh5YVluangyMGNsR0RJRDNWUmNLazluRUFuUVVIN0JKLTR0NkpvX2pOdkdyOFNEVHA2U2MwVnVoZjhwbTdDcEljd1VTLWllWlh3YUtVX1Z1Mlh5Q1JGZQ",
+  "https://www.foxnews.com/world/poland-arrests-russian-allegedly-hired-kill-ukrainian-american-inconvenient-putin-regime",
+  "https://www.washingtonexaminer.com/?p=4685613",
+  "https://www.theguardian.com/education/2026/aug/13/uk-universities-face-financial-crisis-amid-collapse-in-international-students"
  ],
  "posts": [
-  {
-   "fp": "bank candidate central damayanti destry governor indonesia nominates sole",
-   "title": "Indonesia nominates Destry Damayanti as sole candidate for central bank governor",
-   "source": "Reuters World",
-   "at": "2026-08-10T07:40:41.534638+00:00"
-  },
-  {
-   "fp": "binface britain count election parliament plan seat seeks wackiest",
-   "title": "Count Binface, the man in a can with a plan, seeks Parliament seat in Britain\u2019s wackiest election",
-   "source": "New York Post",
-   "at": "2026-08-10T07:40:43.314249+00:00"
-  },
-  {
-   "fp": "accidentally economist jobs justin live report segment swallowing wings wolfers",
-   "title": "Economist Justin Wolfers wings it after accidentally swallowing fly during live CNN segment on jobs report",
-   "source": "New York Post",
-   "at": "2026-08-10T07:40:45.040751+00:00"
-  },
-  {
-   "fp": "drive earnings european indexes markets rise",
-   "title": "European Indexes Rise as Earnings Drive Markets",
-   "source": "WSJ",
-   "at": "2026-08-10T07:40:46.852637+00:00"
-  },
-  {
-   "fp": "despite everything going keeps market stock",
-   "title": "Despite everything, the UK stock market keeps going up",
-   "source": "Telegraph",
-   "at": "2026-08-10T07:40:48.616716+00:00"
-  },
-  {
-   "fp": "city drone kills mayor nizhnekamsk russian strikes ukraine",
-   "title": "Ukraine kills 12 in drone strikes on Russian city of Nizhnekamsk, mayor says",
-   "source": "Reuters",
-   "at": "2026-08-10T08:06:01.600266+00:00"
-  },
-  {
-   "fp": "attack authorities city drone kills nizhnekamsk russian ukrainian",
-   "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-   "source": "New York Post",
-   "at": "2026-08-10T09:50:08.078752+00:00"
-  },
-  {
-   "fp": "attack drone europe facilities launches live refining russian ukraine",
-   "title": "Ukraine launches drone attack on Russian oil refining facilities \u2013 Europe live",
-   "source": "Guardian World",
-   "at": "2026-08-10T09:50:09.995017+00:00"
-  },
-  {
-   "fp": "drone killed least officials region russia strike tatarstan ukrainian",
-   "title": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say",
-   "source": "BBC World",
-   "at": "2026-08-10T09:50:11.731965+00:00"
-  },
   {
    "fp": "aren hottest russia sanctions startup touching",
    "title": "U.S. Sanctions Aren\u2019t Touching Russia\u2019s Hottest Startup",
@@ -3201,18 +3147,63 @@
    "title": "Here are 12 Senate, House incumbents who\u2019ve lost their primaries",
    "source": "The Hill",
    "at": "2026-08-13T19:02:06.672390+00:00"
+  },
+  {
+   "fp": "adverse consequences death health highest level recall risk serious upgraded",
+   "title": "Egg recall upgraded to FDA\u2019s highest risk level: \u2018Serious adverse health consequences or death\u2019",
+   "source": "New York Post",
+   "at": "2026-08-13T19:27:52.977472+00:00"
+  },
+  {
+   "fp": "about carried clinton football force hell nuclear reveals scares story trump",
+   "title": "Man who carried Clinton nuclear \u2018football\u2019 reveals what \u2018scares the hell out of me\u2019 about Trump\u2019s Air Force One story",
+   "source": "New York Post",
+   "at": "2026-08-13T19:27:54.908520+00:00"
+  },
+  {
+   "fp": "awarded crash damages family irish plane victim",
+   "title": "Family of Irish plane crash victim awarded $29m in damages",
+   "source": "BBC World",
+   "at": "2026-08-13T19:27:57.039356+00:00"
+  },
+  {
+   "fp": "critical earth emergency fire hospital medical member sobering update wind",
+   "title": "Sobering update on Earth, Wind & Fire member\u2019s \u2018critical\u2019 medical emergency \u2014 and what he said from hospital",
+   "source": "New York Post",
+   "at": "2026-08-13T19:27:58.872365+00:00"
+  },
+  {
+   "fp": "alum christy dead knowings report",
+   "title": "\u2018All That\u2019 alum Christy Knowings dead at 46: report",
+   "source": "New York Post",
+   "at": "2026-08-13T19:28:00.675995+00:00"
+  },
+  {
+   "fp": "colombia desperation earthquake effort grips hundreds missing rescue still",
+   "title": "Hundreds still missing in Colombia as desperation grips earthquake rescue effort",
+   "source": "Reuters",
+   "at": "2026-08-13T19:28:02.415520+00:00"
+  },
+  {
+   "fp": "allegedly american arrests hired inconvenient kill poland putin regime russian ukrainian",
+   "title": "Poland arrests Russian allegedly hired to kill Ukrainian-American who was 'inconvenient to the Putin regime'",
+   "source": "Fox News World",
+   "at": "2026-08-13T19:28:07.212960+00:00"
+  },
+  {
+   "fp": "accused clean company florida gouging hurricane moskowitz price race resurfaces toss",
+   "title": "Moskowitz\u2019s $445,000 job at hurricane clean-up company accused of price-gouging resurfaces in toss-up Florida race",
+   "source": "Washington Examiner",
+   "at": "2026-08-13T19:28:08.979886+00:00"
+  },
+  {
+   "fp": "collapse crisis face financial international students universities",
+   "title": "UK universities face \u2018financial crisis\u2019 amid collapse in international students",
+   "source": "Guardian World",
+   "at": "2026-08-13T19:28:10.760702+00:00"
   }
  ],
  "titles": [
-  "bank candidate central damayanti destry governor indonesia nominates sole",
-  "binface britain count election parliament plan seat seeks wackiest",
-  "accidentally economist jobs justin live report segment swallowing wings wolfers",
-  "drive earnings european indexes markets rise",
-  "despite everything going keeps market stock",
-  "city drone kills mayor nizhnekamsk russian strikes ukraine",
-  "attack authorities city drone kills nizhnekamsk russian ukrainian",
-  "attack drone europe facilities launches live refining russian ukraine",
-  "drone killed least officials region russia strike tatarstan ukrainian",
   "aren hottest russia sanctions startup touching",
   "china chuqin jiang journal researcher street wall",
   "2026 calendar contests left notable primary",
@@ -3603,6 +3594,15 @@
   "american automakers billions cost deal detroit exclusive fear north revamp trade",
   "claims healthy level remain rise unemployment",
   "demands mission national park pool reflecting saga service tested trump",
-  "here house incumbents lost primaries senate"
+  "here house incumbents lost primaries senate",
+  "adverse consequences death health highest level recall risk serious upgraded",
+  "about carried clinton football force hell nuclear reveals scares story trump",
+  "awarded crash damages family irish plane victim",
+  "critical earth emergency fire hospital medical member sobering update wind",
+  "alum christy dead knowings report",
+  "colombia desperation earthquake effort grips hundreds missing rescue still",
+  "allegedly american arrests hired inconvenient kill poland putin regime russian ukrainian",
+  "accused clean company florida gouging hurricane moskowitz price race resurfaces toss",
+  "collapse crisis face financial international students universities"
  ]
 }
