@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40181410",
-  "https://www.bbc.co.uk/news/articles/cn0n99npjejo#0",
   "https://www.washingtonexaminer.com/?p=4672394",
   "https://thehill.com/?p=6006377",
   "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o#1",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40316396",
   "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o#0",
   "CBMingFBVV95cUxOSWFfUkFHQXZYblAxTXVwdVZVZWR6WDQ1VUVFa2xFbk9HY0pnZVpheXhMNko1MVEza1FjNURlbWZlMnUxaFNWd1hSc0lWeFM3NC1qMG9SWU1oeTBZak9PUXlOQ2JWbTRKODRqSHJ3VWZfaExpQUNmdnBabUtTVmdMeEFabGJHTEFSMVoycTdvX0RIRllNQ0VjRXBfVTY1dw",
-  "https://www.washingtonexaminer.com/?p=4685782"
+  "https://www.washingtonexaminer.com/?p=4685782",
+  "https://nypost.com/?post_type=article&p=40317070",
+  "CBMiwwFBVV95cUxONTFWTFJwY1ZVako1SFlqamo5S0V5RHp5SGZ2SnJXbUZkSVczeXM2Z0psbDB1NHZBcXY1UjRWV2p5SUZzdGE2NVNzM3d0ZEUyZUE5aDNIZG4ycjVKSFBiSTdMb2JwUk1SNHhUTE51bXhZLXlwNXZnLVVOTEZKMUt1eTM2M0ZHM25OVlpQbzE4NWstamN0bHZxOTdwdVB3NTYyMTI3VHlaRVUzd1ozTjNTcXU0NkNIeGh6T1E2ZW5SZll0Z1E"
  ],
  "posts": [
-  {
-   "fp": "wildfires",
-   "title": "Wildfires",
-   "source": "AP",
-   "at": "2026-08-09T01:08:59.542696+00:00"
-  },
-  {
-   "fp": "burbank evacuation flames homes near orders prompts roar wildfire",
-   "title": "Flames roar near Burbank homes as wildfire prompts evacuation orders",
-   "source": "New York Post",
-   "at": "2026-08-09T01:09:01.318431+00:00"
-  },
   {
    "fp": "blocks crash firefighting helicopter reaching rescuers site utah wildfire",
    "title": "Utah wildfire blocks rescuers from reaching firefighting helicopter crash site",
@@ -3201,11 +3189,21 @@
    "title": "Ex-officer accused in New Orleans mass shooting plot released without charges",
    "source": "Washington Examiner",
    "at": "2026-08-13T04:46:49.780034+00:00"
+  },
+  {
+   "fp": "brothers discovery fatally home island long make shot tragic",
+   "title": "Two brothers fatally shot in Long Island home \u2014 kin make tragic discovery",
+   "source": "New York Post",
+   "at": "2026-08-13T04:50:08.398623+00:00"
+  },
+  {
+   "fp": "added august four global index indian msci rejig removed stocks three",
+   "title": "Four Indian stocks to be added, three removed from key global index in MSCI's August rejig",
+   "source": "Reuters",
+   "at": "2026-08-13T04:50:10.081203+00:00"
   }
  ],
  "titles": [
-  "wildfires",
-  "burbank evacuation flames homes near orders prompts roar wildfire",
   "blocks crash firefighting helicopter reaching rescuers site utah wildfire",
   "democratic displays goodwin michael michigan party race radical senate shift taken",
   "california chaos city cripple declares emergency hackers state system",
@@ -3603,6 +3601,8 @@
   "california hollywood issue paramount powerful unions urgent warning",
   "chief deadliest ebola ever outbreak track",
   "accused attack declines grand indict jury officer orleans plotting released",
-  "accused charges mass officer orleans plot released shooting without"
+  "accused charges mass officer orleans plot released shooting without",
+  "brothers discovery fatally home island long make shot tragic",
+  "added august four global index indian msci rejig removed stocks three"
  ]
 }
