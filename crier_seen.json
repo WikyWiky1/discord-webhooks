@@ -1,13 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40188520",
-  "https://www.washingtonexaminer.com/?p=4674742",
-  "CBMiwgFBVV95cUxPa1JSZThSQXJtM2VFb3RwSGp4dTY2ampYVVBlUk1LR3hGMTRiRHQtYjhRS1BHVnZ6TU12M1A5SVBTUkZfSm1feW1ROXpIUXdKR0kwUFNQNlN1UlpXTTB4cTM1QmN2V2dlUnp2dUw5N1RsbzdIdFV1MS1kR01IVWdHQVFLXzhtdFAyY3BxOWh2NVJVblVuV2F4aUY3Q2trYldNTjQxYnE1MjhQbFVWc0NJMHAtd1o1N1N3dERkcnhwWU96dw",
-  "https://nypost.com/?post_type=article&p=40190421",
-  "CBMi1wFBVV95cUxNTDlCQTFhUU1LUmo5dHVEZ1RhUjdsV050WVVzUGNzdUNPNHpTdVI3Yms4MXhUMXhYMWVyaERoZlNTMHNHelE1NTFGUUttaEt6RnFwQ3RFLVNtSzQ3aHVwSFhMVGc3X29QVVU5QTJBZEFjQ200dmU4TE50cHNuSFNLMXNpelJRTFg4UXp0bHlzUkE4T0F6MlFPUWlwaE1iSzI3bkJLSFYwejdIeWJtSGVhOUdlNHprX3pSWm1EYkxvd0NLWklxbzRsM1ZqMEdpY1JiOGVXNjdTMA",
-  "https://nypost.com/?post_type=article&p=40192693",
-  "https://www.theguardian.com/us-news/2026/aug/04/wesley-bell-missouri-democratic-primary-congress",
-  "https://thehill.com/?p=6009634",
   "https://thehill.com/?p=5983451",
   "https://nypost.com/?post_type=article&p=40188583",
   "https://www.washingtonexaminer.com/?p=4673926",
@@ -799,57 +791,17 @@
   "https://nypost.com/?post_type=article&p=40321685",
   "https://nypost.com/?post_type=article&p=40319886",
   "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-  "https://news.sky.com/story/dr-congos-fastest-growing-ebola-outbreak-reaches-sixth-province-13572638"
+  "https://news.sky.com/story/dr-congos-fastest-growing-ebola-outbreak-reaches-sixth-province-13572638",
+  "https://nypost.com/?post_type=article&p=40320026",
+  "https://nypost.com/?post_type=article&p=40321154",
+  "https://www.theguardian.com/uk-news/2026/aug/13/train-derailment-east-sussex-closes-several-routes-lewes",
+  "https://nypost.com/?post_type=article&p=40322777",
+  "https://nypost.com/?post_type=article&p=40320577",
+  "https://www.washingtonexaminer.com/?p=4686322",
+  "CBMinAFBVV95cUxQbzlib09ZOXJsVWdfY0lrdHRnWm1PSmExUEloYkRkd3lkNkRnTEFvQ3ZkS0c5MXV6VUVTa1BhcmJ5bEEwcldaSEljamlyczl2STlvcmgwZEhIUXh4ZTNTSGhpS1VqSnRuVkg4OTU3bi1sYWtsZ0hSa081ZHRCUGN1dGVJZlc0UEFNdGVpcldHSkRwNzU1c2pUMWJ4MU8",
+  "https://www.bbc.co.uk/news/articles/cqlxpq5q799o#1"
  ],
  "posts": [
-  {
-   "fp": "hill hold minnesota primary races week wisconsin",
-   "title": "This week on the Hill: Minnesota, Wisconsin to hold key primary races",
-   "source": "The Hill",
-   "at": "2026-08-09T21:31:37.156039+00:00"
-  },
-  {
-   "fp": "accident capitan climber deadly dies nevada record scaling sierra speed yosemite",
-   "title": "Yosemite speed climber who set record for scaling deadly El Capitan dies in Sierra Nevada accident",
-   "source": "New York Post",
-   "at": "2026-08-09T21:49:48.157845+00:00"
-  },
-  {
-   "fp": "airport airservices australia calls chaos live meeting minister news sydney transport urgent",
-   "title": "Australia news live: transport minister calls in Airservices Australia for urgent meeting after Sydney airport chaos",
-   "source": "Guardian World",
-   "at": "2026-08-09T21:49:49.886865+00:00"
-  },
-  {
-   "fp": "across burn canada evacuated residents western wildfires",
-   "title": "Wildfires burn across western US and Canada as residents are evacuated",
-   "source": "AP",
-   "at": "2026-08-09T21:49:51.598715+00:00"
-  },
-  {
-   "fp": "battle canada crews western wildfires",
-   "title": "Crews battle wildfires in western U.S. and Canada",
-   "source": "NPR News",
-   "at": "2026-08-09T22:22:01.494821+00:00"
-  },
-  {
-   "fp": "battle confront firefighters flames intense spain wildfire",
-   "title": "Spain firefighters confront intense flames in wildfire battle",
-   "source": "Reuters World",
-   "at": "2026-08-09T23:02:46.737578+00:00"
-  },
-  {
-   "fp": "actor dead dukes hazzard jones",
-   "title": "\u2018Dukes of Hazzard\u2019 actor Ben Jones dead at 84",
-   "source": "New York Post",
-   "at": "2026-08-10T01:10:52.202764+00:00"
-  },
-  {
-   "fp": "electronics metals nikkei rises stocks",
-   "title": "Nikkei Rises 1.2%, Led by Electronics, Metals Stocks",
-   "source": "WSJ",
-   "at": "2026-08-10T01:46:19.059320+00:00"
-  },
   {
    "fp": "asia confusion edge gulf higher stocks",
    "title": "Asia stocks edge higher, oil up amid Gulf confusion",
@@ -3201,17 +3153,57 @@
    "title": "Fastest-growing Ebola outbreak spreads to previously unaffected area",
    "source": "Sky News",
    "at": "2026-08-13T16:12:15.734280+00:00"
+  },
+  {
+   "fp": "cabins forest homeowners lake near notice rich rips sprawling tahoe through wildfire",
+   "title": "Rich homeowners put on notice as wildfire rips through forest near their sprawling Lake Tahoe cabins",
+   "source": "New York Post",
+   "at": "2026-08-13T17:14:59.282714+00:00"
+  },
+  {
+   "fp": "bomb defector hidden killed kyiv orders russian trash ukrainian woman",
+   "title": "Ukrainian defector killed by Russian woman with hidden trash bin bomb \u2014 on Kyiv\u2019s orders",
+   "source": "New York Post",
+   "at": "2026-08-13T17:15:00.933433+00:00"
+  },
+  {
+   "fp": "derails disruption east lewes major near rail services sussex train",
+   "title": "Major disruption to rail services in East Sussex as train derails near Lewes",
+   "source": "Guardian World",
+   "at": "2026-08-13T17:15:02.848682+00:00"
+  },
+  {
+   "fp": "dead emergency football high medical practice school star texas",
+   "title": "Texas high school football star dead at 17 after medical emergency at practice",
+   "source": "New York Post",
+   "at": "2026-08-13T17:15:04.493927+00:00"
+  },
+  {
+   "fp": "dark dead found graphic horrors house missing philly real show videos women",
+   "title": "\u2018Graphic\u2019 videos found at Philly house of horrors show 2 missing women dead: \u2018It\u2019s dark. It\u2019s real dark\u2019",
+   "source": "New York Post",
+   "at": "2026-08-13T17:15:06.181946+00:00"
+  },
+  {
+   "fp": "calls casualties civilian hegseth jack reckoning reed strikes yemen",
+   "title": "Jack Reed calls for Hegseth \u2018reckoning\u2019 over civilian casualties in Yemen strikes",
+   "source": "Washington Examiner",
+   "at": "2026-08-13T17:15:07.882812+00:00"
+  },
+  {
+   "fp": "explosion factory italian large munitions rips through",
+   "title": "Large explosion rips through Italian munitions factory",
+   "source": "Reuters",
+   "at": "2026-08-13T17:15:09.726704+00:00"
+  },
+  {
+   "fp": "causes danube drop heat huge level nuclear only plant river romania shuts",
+   "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+   "source": "BBC World",
+   "at": "2026-08-13T17:15:11.461454+00:00"
   }
  ],
  "titles": [
-  "hill hold minnesota primary races week wisconsin",
-  "accident capitan climber deadly dies nevada record scaling sierra speed yosemite",
-  "airport airservices australia calls chaos live meeting minister news sydney transport urgent",
-  "across burn canada evacuated residents western wildfires",
-  "battle canada crews western wildfires",
-  "battle confront firefighters flames intense spain wildfire",
-  "actor dead dukes hazzard jones",
-  "electronics metals nikkei rises stocks",
   "asia confusion edge gulf higher stocks",
   "farms implicated jalape outbreak products recalls salmonella taylor",
   "dead golfer matt mcquillan",
@@ -3603,6 +3595,14 @@
   "children cops florida grandma herself kills murder suicide turning",
   "blow devastating exit golf potentially rahm resigned",
   "ebola fast growing outbreak province sixth spreads",
-  "area ebola fastest growing outbreak previously spreads unaffected"
+  "area ebola fastest growing outbreak previously spreads unaffected",
+  "cabins forest homeowners lake near notice rich rips sprawling tahoe through wildfire",
+  "bomb defector hidden killed kyiv orders russian trash ukrainian woman",
+  "derails disruption east lewes major near rail services sussex train",
+  "dead emergency football high medical practice school star texas",
+  "dark dead found graphic horrors house missing philly real show videos women",
+  "calls casualties civilian hegseth jack reckoning reed strikes yemen",
+  "explosion factory italian large munitions rips through",
+  "causes danube drop heat huge level nuclear only plant river romania shuts"
  ]
 }
