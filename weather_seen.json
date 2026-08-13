@@ -402,8 +402,26 @@
    "message_id": "1537547775972081757",
    "event": "Severe Thunderstorm Warning",
    "area": "San Bernardino, CA; Clark, NV",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-13T19:45:56+00:00",
+   "expired_at": "2026-08-13T20:25:28+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.94a923d709567b787b05f4553745007477b85739.001.1",
+   "message_id": "1537557711833661572",
+   "event": "Flash Flood Warning",
+   "area": "San Bernardino, CA; Clark, NV",
+   "expired": false,
+   "posted_at": "2026-08-13T20:25:25+00:00",
+   "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.ea8109f0ebada550f7fd78e2629fb65f5d381967.001.1",
+   "message_id": "1537557719299526857",
+   "event": "Severe Thunderstorm Warning",
+   "area": "San Bernardino, CA; Clark, NV",
+   "expired": false,
+   "posted_at": "2026-08-13T20:25:26+00:00",
    "expired_at": null
   }
  ]
