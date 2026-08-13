@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6006377",
-  "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o#1",
-  "https://thehill.com/?p=6008275",
-  "https://thehill.com/?p=6008135",
-  "CBMiuAFBVV95cUxQa0pfazFKclUtSTdJQVlsVWIxUlEzT0huQi14MWsyeEI0TVo2SmpuSFpkMFllSS1qUDBmTVpfNkRvT0ZhMlZETmNoRFVETkcwQUJLX1JnU1pRdUxSR3oyc0ozTTZVWVo4UGRNX00wdDhPeEVhVm00QlpkVFRrNXFUUFo3WnA1M2ROOTJFWEtQMEk3VldMQlpZQkpxOHo5OHRpbkRpaE1JSkdQSVNIMGViRlhvYmJNZWZL",
-  "CBMiugFBVV95cUxORi1DRjNPSDg1UmFoYnJYQ0VWamF2QmdLVXNrdzk2c0FUS3RkQWU0WkhIUHdCNGlNckMyRlM5SEs4S2hQWlhLUFNGcjU3OXM4bTlxckRGRDRQZUZydldJMnJXVUprczJFU0dGbUVIeWVCdjMya0dVa0RBREJJSDNiUVRSYUg3NGEtbTk3VTljcTVfNTJoRmJEdWxXLXJJTjA5dnNVV3RyTTZOT0hoa3JRS29aV2syOExfcVE",
   "CBMirgFBVV95cUxORWlaZ3dTTm9IdGNxNVBNTFByZWU2ODRvWXgyTGRsTVJEazFoU1JNZHpEX1BMU1QyS1p3cjQ1TVk1MUU2UzI1Z19YbzNERlVzMEdEeWc5eVNtdkNMRnRXaUdoZkdrWmEyZnI4dDBJeHByaFJwcFRxN09lU0Ewb2R4TVBZZUVNSmV1UGZ0UzF2RlplNWpucExxRU5uTDIxRlJTT29jb0J5Y2w1eHBCSHc",
   "CBMiqgFBVV95cUxQcVBtQW1SWUtxVzJWZTV3VWFpUTF2azcwZWZrdGRmVHN0dE9jeHJlVHZfYWpKV2lQN0tIelhNdnN4a0UxRzRBb2lSa2xOR1J1eWE0VHIxMWdoRTVKSHg3anloa1gwU0pHQWd1Z3hfX3lGa1pjWk1xdzd4LWFNMXB6WDI5UGdvanpzNmVWbC15cG9KMHp2LUVhR2lIeVVINDQ3dGN0blVTZkVhZw",
   "CBMirAFBVV95cUxQaW9FeUtRVXBkaFZ6TVRocHA0Z2UzclVnMWJqT1Axb1pqVEdPbTFnRWc1N2R4SW42ckFUd3I0SENOOC1tWFl3VTliVjQ3ZG1XTDdfNVRFZGp3M1JLc3VmbkJBYUwyeUZrQzRXTEZzTENYMGtwR0xRbTlPdXNRcnZkM1F1aDlYNExTaDU5a0lqVW9LcGVnNUdjN0R3ZWY2a19OLXJ2b2tLM1pVWTlL",
@@ -799,45 +793,15 @@
   "https://www.washingtonexaminer.com/?p=4685782",
   "https://nypost.com/?post_type=article&p=40317070",
   "CBMiwwFBVV95cUxONTFWTFJwY1ZVako1SFlqamo5S0V5RHp5SGZ2SnJXbUZkSVczeXM2Z0psbDB1NHZBcXY1UjRWV2p5SUZzdGE2NVNzM3d0ZEUyZUE5aDNIZG4ycjVKSFBiSTdMb2JwUk1SNHhUTE51bXhZLXlwNXZnLVVOTEZKMUt1eTM2M0ZHM25OVlpQbzE4NWstamN0bHZxOTdwdVB3NTYyMTI3VHlaRVUzd1ozTjNTcXU0NkNIeGh6T1E2ZW5SZll0Z1E",
-  "CBMimAFBVV95cUxNU2pvUDdmRnUwNjc1T01RN2dGb2VlVm1IaFhZUUgtSmdIbkxaQTltTUR3X0ctNHJLTHNUeEh5YktRU20wV25RdVhtSEZOOWVSTGRTcmMxMjRieGpyQXktTWVVT3NOUTNSSG1zUENfSUFTbG0ybC1scnFxVTZ2M3k2eXFlQVhuWm50QVFOQ3RkMWRsaXBmQUxOZQ"
+  "CBMimAFBVV95cUxNU2pvUDdmRnUwNjc1T01RN2dGb2VlVm1IaFhZUUgtSmdIbkxaQTltTUR3X0ctNHJLTHNUeEh5YktRU20wV25RdVhtSEZOOWVSTGRTcmMxMjRieGpyQXktTWVVT3NOUTNSSG1zUENfSUFTbG0ybC1scnFxVTZ2M3k2eXFlQVhuWm50QVFOQ3RkMWRsaXBmQUxOZQ",
+  "CBMirgFBVV95cUxNTkVmV2d4NjVfVFNpSnlXVDFDcDliRHk4QVhKUjJOa3RIX1Y2U2QxeHN3M0p6NlI5QjBFOG1KVHZUa1NxLVRxbjdfb1FYWWJFOG5hTklCOXBLZjU5RkNEVFZMQXNoUjVfOXRuQ0FwTjFOdlUzZC1kdXNHNUNKSllYdGlyeWxIVDJiSXQ1aFVENU81ZEdrbm1EN2pDelZSZ0x4VDZleFJpUEpTZERvMVE",
+  "CBMihwFBVV95cUxOeXk1U0FnODBBem9kV1k4YndIWTBEcWRDRGZ3ZVNNSUFuRkloZDd5LU5oRm1fdDNZQXhwVHpqYU1DbFdjQjZmQlZxcW1kelZUYjZlWlZqUGJCS0dBR3FKM196TFd4azAyUUhoZUM1MUc4UUJ2bUdELWpBWWhVYkhZRFhxOEdKUTQ",
+  "CBMisgFBVV95cUxPeUVUY2pDMC1uZzZkWkZuanQxN0VxeW5ER09VSXdBQVRLWXRnQVRabmZvTGdMR0lRZE9zRWZIRlB4eHZLYW1kYkRFRTNWVWZpSzEzcnFaQUtYRlBYVXl1WXZObmQzZ1I1STlXUGhYV2tzWUx5S2xoVElhQTR0b3RjZkxSb0FaR1pkVW1TWmxTbTBLNHRaekltNENOdG1GQWRTaXJtd2htcUNEV1N4VkM0ZWN3",
+  "CBMioAFBVV95cUxOVndzZzUwOXlFNVVYMkxwUmtvTlgyajFjR2hIRjBSM2F2OXQ2NlN6N3k2ME9pcFZVTFA5aVNKRUpoVXNVY2xSQUxoZFdCREsyTldJR3M2R29CRzlkSy1TWmZvREVhZzI2eEpfS3UycGhGRkROanRJS2RWNFB4UXE3bUZEc0ZwNVV3WEtpQTBtNWpiLVlYVDV2QWZOa3NqYXZo",
+  "https://www.bbc.co.uk/news/articles/c74grmy2v7ko#0",
+  "CBMirAFBVV95cUxPOHJJVEZPSWl3bm1JQ2NRUTFSUWdKUS01QVJRUF90MTJCQWhtS3hhTEpTUW1SMEV6cXFySDJxOFRJN0UySHNabUN4cE40aTZqVk0wdVlqalNHc1Q1ck9Jd3lfdXd0dS14ME5walJWdlNidDJhREw3QzRESTFFRVhkaFVFeWtVdHp4SWtkM1hpS25oaGFkV1d0dXFENUZjWnZUenVXODBSeEhYLWdp"
  ],
  "posts": [
-  {
-   "fp": "democratic displays goodwin michael michigan party race radical senate shift taken",
-   "title": "Michael Goodwin: Michigan Senate race displays the radical \u2018shift\u2019 the Democratic Party has taken",
-   "source": "New York Post",
-   "at": "2026-08-09T01:42:57.535109+00:00"
-  },
-  {
-   "fp": "california chaos city cripple declares emergency hackers state system",
-   "title": "Chaos as California city declares state of emergency after hackers cripple 911 system",
-   "source": "New York Post",
-   "at": "2026-08-09T03:09:17.705657+00:00"
-  },
-  {
-   "fp": "access bromo closes expands indonesia mount wildfire",
-   "title": "Indonesia closes all access to Mount Bromo as wildfire expands",
-   "source": "Reuters World",
-   "at": "2026-08-09T03:09:19.472940+00:00"
-  },
-  {
-   "fp": "dies nine police rises school shooting thailand toll year",
-   "title": "Thailand school shooting toll rises to nine after 12-year-old dies, police say",
-   "source": "Guardian World",
-   "at": "2026-08-09T03:09:21.268516+00:00"
-  },
-  {
-   "fp": "boost companies concerns defense depleted pentagon production pushes stocks weapons",
-   "title": "Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks",
-   "source": "AP",
-   "at": "2026-08-09T04:17:49.378438+00:00"
-  },
-  {
-   "fp": "blockbuster bolster earnings record stocks",
-   "title": "Blockbuster Earnings Bolster Stocks\u2019 Record Run",
-   "source": "WSJ",
-   "at": "2026-08-09T04:17:51.080728+00:00"
-  },
   {
    "fp": "assistant bowl dead fred giants hoaglin super time winning",
    "title": "Fred Hoaglin \u2014 two-time Super Bowl-winning assistant with Giants \u2014 dead at 82",
@@ -3201,15 +3165,45 @@
    "title": "Advice, cookbooks and emergency pot noodles: Your best gifts for university students",
    "source": "Telegraph",
    "at": "2026-08-13T06:11:23.387376+00:00"
+  },
+  {
+   "fp": "earnings guidance higher increased maersk raises visibility",
+   "title": "Maersk Raises Guidance on Higher Earnings, Increased Visibility",
+   "source": "WSJ",
+   "at": "2026-08-13T07:26:20.847589+00:00"
+  },
+  {
+   "fp": "aisle discovery goldilocks paper",
+   "title": "A \u2018Goldilocks\u2019 Discovery in the Paper Aisle",
+   "source": "WSJ",
+   "at": "2026-08-13T07:26:22.626086+00:00"
+  },
+  {
+   "fp": "china election here interested might presidential voting zambia",
+   "title": "Zambia is voting in a presidential election. Here\u2019s why China and the US might be interested",
+   "source": "AP",
+   "at": "2026-08-13T07:26:24.347007+00:00"
+  },
+  {
+   "fp": "election extremists gatecrash jesus king polish russian want",
+   "title": "Pro-Russian \u2018extremists\u2019 who want Jesus to be king gatecrash Polish election",
+   "source": "Telegraph",
+   "at": "2026-08-13T07:26:26.064672+00:00"
+  },
+  {
+   "fp": "claim longer nobel peace prize putin tells ukraine victory winner",
+   "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+   "source": "BBC World",
+   "at": "2026-08-13T07:26:27.843055+00:00"
+  },
+  {
+   "fp": "been binface count denounced election faces farage nigel special stunt",
+   "title": "Nigel Farage faces off against Count Binface in special election that's been denounced as a stunt",
+   "source": "AP",
+   "at": "2026-08-13T07:26:29.597609+00:00"
   }
  ],
  "titles": [
-  "democratic displays goodwin michael michigan party race radical senate shift taken",
-  "california chaos city cripple declares emergency hackers state system",
-  "access bromo closes expands indonesia mount wildfire",
-  "dies nine police rises school shooting thailand toll year",
-  "boost companies concerns defense depleted pentagon production pushes stocks weapons",
-  "blockbuster bolster earnings record stocks",
   "assistant bowl dead fred giants hoaglin super time winning",
   "boat child coast dead dozen island liberty overturns pulled sources water woman",
   "boomers collapse dream million pound property",
@@ -3603,6 +3597,12 @@
   "accused charges mass officer orleans plot released shooting without",
   "brothers discovery fatally home island long make shot tragic",
   "added august four global index indian msci rejig removed stocks three",
-  "advice best cookbooks emergency gifts noodles students university"
+  "advice best cookbooks emergency gifts noodles students university",
+  "earnings guidance higher increased maersk raises visibility",
+  "aisle discovery goldilocks paper",
+  "china election here interested might presidential voting zambia",
+  "election extremists gatecrash jesus king polish russian want",
+  "claim longer nobel peace prize putin tells ukraine victory winner",
+  "been binface count denounced election faces farage nigel special stunt"
  ]
 }
