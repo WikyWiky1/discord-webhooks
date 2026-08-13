@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://news.sky.com/story/rescued-british-woman-becomes-14th-to-die-after-los-gallardos-wildfires-in-spain-13570025",
-  "https://thehill.com/?p=6009830",
   "https://nypost.com/?post_type=article&p=40168282",
   "https://www.bbc.co.uk/news/articles/c62q0xerzrno#0",
   "CBMiYkFVX3lxTE5zdmc2M1FiVENJNTZaLVA0SGZwUlV2RmpyMzZuaWZ2THZFT2Judm9UaU4ya3lPNmU1WVh0cG5sWktpblhvNWRiOGMyZXpQU2JUbXVjcjlGLWVNck9NSG1lN2d3",
@@ -799,21 +797,11 @@
   "CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ",
   "https://pagesix.com/?post_type=article&p=9109428",
   "CBMioAFBVV95cUxOTU5YWFRNaGYycHNJV19yTWhiSHpKQlR5ZnlDdF80Z1F1Y2hKLW44eHlmaWZmODZ1Z3FFeTFBSW56eVZJUTA2WTJwN3NQZjdKWnBJQUIycUJhZjZyZjVKU1NrY00wc3RCeVhELTMyblZzZlg4YnV3REtWM1pxOGFHeG1Da19jQzE2ZzhDcVpMUER4c09KM3lSX09falRkM05q",
-  "CBMijgFBVV95cUxQb3NFdF9tNVJidGNhMjlXVVRPN1RIM29BeEZFWjhYOVlxTUFmRFBiNENkdlNuNXo1WDVYTGhfM0lfNGxfTHBUcHJ5VUg4QTBmU0xxNWNnQXlqWFNMaTBNbllWTnc2TU04ZGs3ZTBiQ2kzQzNhZTdhRzVuRDdDLVdaUWFpY2hnNzFSM3I2blB3"
+  "CBMijgFBVV95cUxQb3NFdF9tNVJidGNhMjlXVVRPN1RIM29BeEZFWjhYOVlxTUFmRFBiNENkdlNuNXo1WDVYTGhfM0lfNGxfTHBUcHJ5VUg4QTBmU0xxNWNnQXlqWFNMaTBNbllWTnc2TU04ZGs3ZTBiQ2kzQzNhZTdhRzVuRDdDLVdaUWFpY2hnNzFSM3I2blB3",
+  "https://nypost.com/?post_type=article&p=40330342",
+  "https://nypost.com/?post_type=article&p=40327641"
  ],
  "posts": [
-  {
-   "fp": "allegedly confesses former kills official thai youtube",
-   "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-   "source": "BBC World",
-   "at": "2026-08-10T11:01:19.307306+00:00"
-  },
-  {
-   "fp": "australian down head mcmanus movement named sally steps trade union",
-   "title": "New head of Australian trade union movement named after Sally McManus steps down",
-   "source": "Guardian World",
-   "at": "2026-08-10T11:01:20.993094+00:00"
-  },
   {
    "fp": "ancient coast discovered roman shipwreck sicily",
    "title": "Ancient Roman shipwreck discovered off Sicily coast",
@@ -3201,11 +3189,21 @@
    "title": "White House border czar defends ICE electric shock gloves as tools to avoid deadly force",
    "source": "AP",
    "at": "2026-08-13T22:04:57.455484+00:00"
+  },
+  {
+   "fp": "benches clear head hitter kill near pitches reds somebody thrown white",
+   "title": "White Sox-Reds benches clear after pitches get thrown near hitter\u2019s head: \u2018You can kill somebody\u2019",
+   "source": "New York Post",
+   "at": "2026-08-13T23:04:39.908038+00:00"
+  },
+  {
+   "fp": "238k border california crossing deadly discovered fentanyl moped stuffed worth",
+   "title": "$238K worth of deadly fentanyl discovered stuffed in moped at California border crossing",
+   "source": "New York Post",
+   "at": "2026-08-13T23:04:41.608980+00:00"
   }
  ],
  "titles": [
-  "allegedly confesses former kills official thai youtube",
-  "australian down head mcmanus movement named sally steps trade union",
   "ancient coast discovered roman shipwreck sicily",
   "alleged arson attack farage home live murder police politics probe revived welcomes widdecombe",
   "attack city drone kills officials refinery reportedly russian ukrainian",
@@ -3603,6 +3601,8 @@
   "bets drop hike prices rate reduce rise stocks traders",
   "challenge dead duckworth star tyler",
   "around call colombia earthquake narrows rescuers rubble silence survival window",
-  "avoid border czar deadly defends electric force gloves house shock tools white"
+  "avoid border czar deadly defends electric force gloves house shock tools white",
+  "benches clear head hitter kill near pitches reds somebody thrown white",
+  "238k border california crossing deadly discovered fentanyl moped stuffed worth"
  ]
 }
