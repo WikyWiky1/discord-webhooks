@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40184748",
-  "https://www.washingtonexaminer.com/?p=4674195",
-  "https://thehill.com/?p=6008642",
-  "https://thehill.com/?p=6006945",
-  "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
   "https://www.washingtonexaminer.com/?p=4674593",
   "https://nypost.com/?post_type=article&p=40187862",
   "https://nypost.com/?post_type=article&p=40183048",
@@ -799,39 +794,14 @@
   "https://nypost.com/?post_type=article&p=40318713",
   "CBMiqwFBVV95cUxOMnRoQ3l3SzVhY1hlakM2UXdxZTJZdVFjaFE4QjdwRXAzeWdXVW1vbFhPdHhyQ2ZqSlJ6UDJOQzV4OHYzZ1F6SWlpdGNvdjNrbFdwVS05UHdKY0xvRXY2cGJhYXBTczNYWkh3VE1HVGhPa1k3TXJjOWFfaDg4aG5RR3I1VHpsS1A5UHBod3JEZzIyWThoLVhZVGNJSVJDMEF2cU4tZWk4RnZKcnc",
   "https://news.sky.com/story/man-dies-after-suspected-gas-explosion-destroys-bungalow-in-buckinghamshire-13572561",
-  "CBMiygFBVV95cUxPeHYzNl9EN3FFQlFHQl93bWFiQ2VOQkh2bWFrVjVPend4OTVyQ01hVGwwY0IxSzVXa250MHV6X2FxUnI3SzBrV2plZkJaQ3ZTaTR3cGc3UUhERjBGd0JhY2NkaGVoSHplel9ma3piOTYzd1dHZE9tVVVnZV9Ca2JYTlE2aW95SW84YlFnZ0tJM0FIaGQzWjgydlN3czNGbG4xY0JoVkJKcVlXOXZrcWl6S2JQLTM5V0pEX2tXR2lwVTJQeTAySGlrYnFn"
+  "CBMiygFBVV95cUxPeHYzNl9EN3FFQlFHQl93bWFiQ2VOQkh2bWFrVjVPend4OTVyQ01hVGwwY0IxSzVXa250MHV6X2FxUnI3SzBrV2plZkJaQ3ZTaTR3cGc3UUhERjBGd0JhY2NkaGVoSHplel9ma3piOTYzd1dHZE9tVVVnZV9Ca2JYTlE2aW95SW84YlFnZ0tJM0FIaGQzWjgydlN3czNGbG4xY0JoVkJKcVlXOXZrcWl6S2JQLTM5V0pEX2tXR2lwVTJQeTAySGlrYnFn",
+  "https://thehill.com/?p=6026753",
+  "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
+  "CBMikwFBVV95cUxNY2R1Y21OR1lSdTNjcVZSNUpUUzlJVEFPcHY3Wjg4QmMwQTZ5V2ZjQ3hnVlkwMXY0c052UXlrSFBSTXZVZXVtNnpnUTdNQVlIT3VYbXR3cDR6ZjRVeDJZb3RUV1FWZ1d1ZVNyQ2g4VFhSb09GRjBBMFBfdjlYcktuZWVlbzJRRkJVeDA3QXJKaEg2UXc",
+  "CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw",
+  "https://thehill.com/?p=6026446"
  ],
  "posts": [
-  {
-   "fp": "airspace bulgaria damage drone explodes",
-   "title": "Bulgaria says drone explodes in its airspace, no damage",
-   "source": "Reuters World",
-   "at": "2026-08-09T11:34:50.805121+00:00"
-  },
-  {
-   "fp": "assault continues democrats election simulate threats trump voting",
-   "title": "Top Democrats simulate election threats as Trump continues assault on voting",
-   "source": "Guardian World",
-   "at": "2026-08-09T12:49:07.359948+00:00"
-  },
-  {
-   "fp": "federal kevin opinion reserve status warsh",
-   "title": "Opinion | The Federal Reserve Status Quo vs. Kevin Warsh",
-   "source": "WSJ",
-   "at": "2026-08-09T12:49:09.100533+00:00"
-  },
-  {
-   "fp": "funds like make stocks strangers twin",
-   "title": "How a Few Hot Stocks Can Make \u2018Twin\u2019 Funds Act Like Strangers",
-   "source": "WSJ",
-   "at": "2026-08-09T12:49:10.861674+00:00"
-  },
-  {
-   "fp": "case challenge democratic fends hawaii house left primary",
-   "title": "Case fends off challenge from his left in Hawaii Democratic House primary",
-   "source": "The Hill",
-   "at": "2026-08-09T12:49:12.617445+00:00"
-  },
   {
    "fp": "canada declared doubles emergency fast moving size state wildfire",
    "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
@@ -3201,14 +3171,39 @@
    "title": "Marc Anthony, Chayanne and more to play benefit concert for Venezuela and Colombia earthquake relief",
    "source": "AP",
    "at": "2026-08-13T12:29:09.007989+00:00"
+  },
+  {
+   "fp": "following michigan polls primary questions rise upsets wisconsin",
+   "title": "Questions rise over primary polls following Michigan, Wisconsin upsets",
+   "source": "The Hill",
+   "at": "2026-08-13T13:09:21.667171+00:00"
+  },
+  {
+   "fp": "about democratic mixed party primary send signals voters want",
+   "title": "Primary voters send mixed signals about what they want from the Democratic Party",
+   "source": "NPR News",
+   "at": "2026-08-13T13:09:23.411313+00:00"
+  },
+  {
+   "fp": "decades individual last millions plan require shots trump used vaccine",
+   "title": "Trump\u2019s vaccine plan would require millions of individual shots last used decades ago",
+   "source": "AP",
+   "at": "2026-08-13T13:09:25.160673+00:00"
+  },
+  {
+   "fp": "demand disruptions higher outlook slips stocks supply weaker",
+   "title": "Oil slips on weaker demand outlook and higher US stocks amid supply disruptions",
+   "source": "Reuters",
+   "at": "2026-08-13T13:09:26.978500+00:00"
+  },
+  {
+   "fp": "flip november rankings seats senate",
+   "title": "Senate rankings: 8 GOP seats that could flip in November",
+   "source": "The Hill",
+   "at": "2026-08-13T13:09:28.741202+00:00"
   }
  ],
  "titles": [
-  "airspace bulgaria damage drone explodes",
-  "assault continues democrats election simulate threats trump voting",
-  "federal kevin opinion reserve status warsh",
-  "funds like make stocks strangers twin",
-  "case challenge democratic fends hawaii house left primary",
   "canada declared doubles emergency fast moving size state wildfire",
   "attack claim houthis refinery responsibility saudi yemen",
   "81st anniversary atomic bomb deterrence increases marks mayor nagasaki nuclear only risk",
@@ -3603,6 +3598,11 @@
   "astonishing bride call daughter jailhouse jamie killed komoroski sympathy wedding words",
   "capacity expected france friday heatwave nuclear remove",
   "bungalow destroyed dies explosion suspected",
-  "anthony benefit chayanne colombia concert earthquake marc play relief venezuela"
+  "anthony benefit chayanne colombia concert earthquake marc play relief venezuela",
+  "following michigan polls primary questions rise upsets wisconsin",
+  "about democratic mixed party primary send signals voters want",
+  "decades individual last millions plan require shots trump used vaccine",
+  "demand disruptions higher outlook slips stocks supply weaker",
+  "flip november rankings seats senate"
  ]
 }
