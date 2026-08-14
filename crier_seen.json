@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40196145",
   "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates",
   "https://nypost.com/?post_type=article&p=40202944",
   "https://www.washingtonexaminer.com/?p=4675925",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40335008",
   "CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ",
   "CBMipAFBVV95cUxQR1B1UnJpbTFQd2hJRTREM0lWTE1VaFNrS2kydjk1LU1DbFVnVGFuTDJydzJwWEFTdG15cEtueDB0M1o4bFJEXzg3ZkZydGgySFNqRWtMU1pPb250REo2bVlzbkVUbDVlMHVQeUs2VWNIV3hTUExIOUhOLTV3WDFBelloV3l5ZHVRYTlNbGZ4SDdRYTZvQmpRVVpMdXZCUnZJeEg2ag",
-  "https://www.bbc.co.uk/news/articles/c934wqpd74xo#2"
+  "https://www.bbc.co.uk/news/articles/c934wqpd74xo#2",
+  "https://www.bbc.co.uk/news/articles/cq561gpen8lo#0"
  ],
  "posts": [
-  {
-   "fp": "attack citizens consulate drone killed region russia seven tatarstan uzbek",
-   "title": "Seven Uzbek citizens killed in drone attack on Russia's Tatarstan region, consulate says",
-   "source": "Reuters World",
-   "at": "2026-08-10T14:52:04.980455+00:00"
-  },
   {
    "fp": "company diarrhea explosive farms fears guacamole linked outbreak recalls salmonella salsa taylor",
    "title": "Taylor Farms recalls salsa, guacamole over salmonella fears after company linked to \u2018explosive diarrhea\u2019 outbreak",
@@ -3201,10 +3195,15 @@
    "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
    "source": "BBC World",
    "at": "2026-08-14T04:47:49.054759+00:00"
+  },
+  {
+   "fp": "four japan kill people rains unprecedented",
+   "title": "'Unprecedented' rains in Japan kill four people",
+   "source": "BBC World",
+   "at": "2026-08-14T06:08:25.870218+00:00"
   }
  ],
  "titles": [
-  "attack citizens consulate drone killed region russia seven tatarstan uzbek",
   "company diarrhea explosive farms fears guacamole linked outbreak recalls salmonella salsa taylor",
   "buildings colombia earthquake ecuador evacuate homes people powerful prompting shakes",
   "congo declared ebola months outbreak started",
@@ -3603,6 +3602,7 @@
   "certain concerns drones national security slaps tariff trump",
   "asian fading gain hike rate stocks wagers weekly",
   "brown cook election expected following islands mark minister power prime return",
-  "enduring findings indian light mission mysteries solar throw"
+  "enduring findings indian light mission mysteries solar throw",
+  "four japan kill people rains unprecedented"
  ]
 }
