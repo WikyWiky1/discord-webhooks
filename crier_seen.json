@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F",
   "https://thehill.com/?p=6011847",
   "CBMisgFBVV95cUxQeUJ1NzFZNjZQZFFHWWcyajkxeEJtbjJGOWtmWm9uX1B5Z2ZFRHZ0b2Z0bnhqSjBsUm1fZTBPTTZoZjhCU3JYV3N5N2xqeUNJbWc2TE9jc0lkRjl0T0FUMFRtamhZQThUdFY1RDdJTklqYTl2ZXhRVnpTZnVzY3RZRUcwdDdKSTRBWlFubVgwUkE2eVdlY1NxRjhzWGJiQjNsZHZQa3dhMjZUYjRkQldDUml3",
   "https://www.washingtonexaminer.com/?p=4676367",
@@ -799,15 +798,10 @@
   "CBMiwwFBVV95cUxOM2FsZnREU0xSOS1nNm5NQk4zcWE4X2NxU2hEemlVeG9HWFRIb2tCUEVmV2hMZ3lUZE1heDJQNVM2bGx6eEJTNVUyb0poVUpqTERYYXg5OXFJUmVaejloUDJrVjlxdy01c3VBal9HTHI5WkRqRkFuMW5pZi1obFliNlZTQjFYMGhIZWN4Uk80NjhiSXZhNVp4WkpNbGtzcTBFMnNZWDRaUWZRQ0V6UWJpTHY5VXhQZlB4SHp5ckFQNUt2MWs",
   "CBMiogFBVV95cUxObG8wN1pnMkcxVXZza0UtSjBRRld5eDdYalNZWk0wQTh6OU1fU1ozakRMb1RkM01FWGJOaHZXMVJneEx2VWRJTUdxUVJ6UGdIYjNLWFRYU3B0UHIxdm16bEdMWDl6SlBrX3VlaWo1aTNoUTF6QkR0WUJpMVkxUlZhTklDRFQzeUN6VnpNY0R6YmhBeDg4dTYxemhTd3lnaU1zVFE",
   "CBMipgFBVV95cUxOS3RiWGpwZ2JGV19vTURBdE1ISkpGOVgtNk9rR2dLRXEzN2U4eGlkWEVQREs2UFQwUEN4UzJ5Zzd2ZXl6cTV5akV0aFJQSDNSdVVzZU1DRHFNSGR0SG9UOUY3ekw4MFhQdDJxODN1eURnNEpaTFhnTjVxRy1uWU9PaHRVVkpWVHpueTNiYkZzQ0hEZFM0TU5sMDc2TXVLbGU0R3FTSGNR",
-  "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates"
+  "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
+  "https://www.theguardian.com/us-news/2026/aug/14/first-thing-court-files-federal-agents-spying-anti-ice-protesters"
  ],
  "posts": [
-  {
-   "fp": "china component discovers drones naval sent signals",
-   "title": "U.K. Discovers Component in Its Naval Drones Sent Signals to China",
-   "source": "WSJ",
-   "at": "2026-08-10T15:59:17.372778+00:00"
-  },
   {
    "fp": "drift near prices records rise stocks",
    "title": "US stocks drift near their records as oil prices rise",
@@ -3201,10 +3195,15 @@
    "title": "19 people taken to hospital after West Midlands fire, as thousands evacuated in Croatia \u2013 Europe live",
    "source": "Guardian World",
    "at": "2026-08-14T11:11:25.900138+00:00"
+  },
+  {
+   "fp": "agents anti belam court federal files martin protesters show spied thing",
+   "title": "First Thing: Court files show how federal agents spied on anti-ICE protesters | Martin Belam",
+   "source": "Guardian World",
+   "at": "2026-08-14T11:49:18.148717+00:00"
   }
  ],
  "titles": [
-  "china component discovers drones naval sent signals",
   "drift near prices records rise stocks",
   "again congress learn legislate must republic save",
   "backed backing dangerous francesca hong primary republicans scott very walker warns wisconsin",
@@ -3603,6 +3602,7 @@
   "broker crypto exclusive license onto regulated steps street trader wall wintermute",
   "clacton election farage nigel wins",
   "boss derailment heatwaves insists railways safe train",
-  "croatia europe evacuated fire hospital live midlands people taken thousands west"
+  "croatia europe evacuated fire hospital live midlands people taken thousands west",
+  "agents anti belam court federal files martin protesters show spied thing"
  ]
 }
