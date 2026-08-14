@@ -1,11 +1,5 @@
 {
  "ids": [
-  "CBMijAFBVV95cUxQeE05SFI2LXZiUDhPdWtjXzdYRFdBNE9vUnBaRzZEeVVjRWVlWFlLci1FMEVMSWtSQTZwR2VPMThoNzg3ckYwdGpiQTJEaGJaRll4Ukdpcm14X3FJVDI1Z1ZyWEdiSnhBOXdxVUFXeU9Ba2V3MTlSRHh3dF9zaGZtVWpVbDl3bjRoRDVNNA",
-  "https://nypost.com/?post_type=article&p=40204605",
-  "https://thehill.com/?p=6012602",
-  "https://thehill.com/?p=6012597",
-  "https://nypost.com/?post_type=article&p=40208410",
-  "https://www.theguardian.com/australia-news/2026/aug/06/charleville-siege-death-man-woman-police-assault-queensland-ntwnfb",
   "https://www.foxnews.com/world/explosive-drone-forces-shutdown-major-german-airport-serving-nato-ukraine-flights",
   "CBMickFVX3lxTFBfRlRoUkRGRENTSlFuT0pkd05vUnlKSzRXZDhVcW1HOTZlU0pVby0tUXpzeThWZ08zWkJBSDhNSVYybnlMLTR3bldSZl9ubFp4SmlBT3IzZVFDRGJoQ3hMdHlLSzA0RmhYWEUwa290TVozQQ",
   "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=40332299",
   "https://nypost.com/?post_type=article&p=40337626",
   "https://pagesix.com/2026/08/14/hollywood/top-golden-globes-exec-ousted-amid-boardroom-coup/",
-  "CBMiqgFBVV95cUxPN1VScDFGOWdlZVNraEhRQTJzdGV4RmRIeUhyZHUzNURHNjVpOXJjTmlmS0xhUFRZQ2VqQkYwb2ZBcFhXRjZtRk5kbUdIRnYyVWxMZzdlX0ZQQVdqNGRkcjFpWVZUWEZiamZOUXcxM0s0bjNlbDBXR3dOSzUxejFFRWFkQUh0NlAyVG1xUmk5c0Njb2l0MDBwdjd1ZU1CRTRGZjNuUU5wWE9WZw"
+  "CBMiqgFBVV95cUxPN1VScDFGOWdlZVNraEhRQTJzdGV4RmRIeUhyZHUzNURHNjVpOXJjTmlmS0xhUFRZQ2VqQkYwb2ZBcFhXRjZtRk5kbUdIRnYyVWxMZzdlX0ZQQVdqNGRkcjFpWVZUWEZiamZOUXcxM0s0bjNlbDBXR3dOSzUxejFFRWFkQUh0NlAyVG1xUmk5c0Njb2l0MDBwdjd1ZU1CRTRGZjNuUU5wWE9WZw",
+  "https://nypost.com/?post_type=article&p=40338826",
+  "https://www.washingtonexaminer.com/?p=4686428",
+  "https://nypost.com/?post_type=article&p=40338387",
+  "CBMiygFBVV95cUxPdGhObVd4bVhZVVg5VVdsMnNHZzlZNEF0ckRfdHB4UEQ5QkRGZUo0ZGxESjZzSTBmQ2V6S2h0eEhhZmR2S05BbWtrT0oxXzlWVHJma1pKNzBJNFlyMzZ5azFlM2dqOEg0Szd6a3BpVkswUnBZUlNDQjNXdXRXV1pNQXJUR2VuTEhPeGtSY05qZXJrbUZWRGtxYWNZT3h2bjNLMzNzTU5vLVJmaVhJd1hiZ0xoSFJLODZDZHh6Q3A0WEV4M1E5ejEwWmF3",
+  "https://thehill.com/?p=6029894",
+  "https://nypost.com/?post_type=article&p=40337628"
  ],
  "posts": [
-  {
-   "fp": "attack blames calls camp chair concentration gaza inevitable israel largely open",
-   "title": "DSA co-chair blames Israel for \u2018largely inevitable\u2019 Oct. 7 attack, calls Gaza an \u2018open-air concentration camp\u2019",
-   "source": "New York Post",
-   "at": "2026-08-10T17:45:02.806447+00:00"
-  },
-  {
-   "fp": "blamed california chief collapse district earth financial fired goes school scorched",
-   "title": "Fired California school chief goes scorched earth after being blamed for district\u2019s financial collapse",
-   "source": "New York Post",
-   "at": "2026-08-10T18:45:52.725440+00:00"
-  },
-  {
-   "fp": "arrested former government killing lawmaker least office shooting thai",
-   "title": "Former Thai lawmaker arrested after shooting at a government office, killing at least 8",
-   "source": "New York Post",
-   "at": "2026-08-10T18:45:54.509463+00:00"
-  },
-  {
-   "fp": "administration challenge colombia deadly early earthquake hits presenting",
-   "title": "Deadly Earthquake Hits Colombia, Presenting Early Challenge to New Administration",
-   "source": "WSJ",
-   "at": "2026-08-10T18:45:56.297297+00:00"
-  },
-  {
-   "fp": "compensation iran killed must those trump wounded",
-   "title": "Trump says Iran must pay compensation for those it has killed and wounded",
-   "source": "Reuters",
-   "at": "2026-08-10T18:45:58.024369+00:00"
-  },
-  {
-   "fp": "capsizing charge feds harbor infant killed mother operator speedboat york",
-   "title": "Feds charge speedboat operator after mother and infant are killed in New York Harbor capsizing",
-   "source": "AP",
-   "at": "2026-08-10T18:45:59.780205+00:00"
-  },
   {
    "fp": "claiming covid fauci issues linked miscarriage newly privately publicly released risk show texts vaccine warned",
    "title": "Fauci privately warned of miscarriage risk linked to COVID vaccine while publicly claiming no issues, newly released texts show",
@@ -3201,15 +3165,45 @@
    "title": "Kids keep getting hurt and killed on e-bikes. Should parents be held responsible?",
    "source": "AP",
    "at": "2026-08-14T14:26:46.027401+00:00"
+  },
+  {
+   "fp": "breaking dead eight japan left pummels rain record stranded",
+   "title": "Eight dead, and over 10K left stranded as record-breaking rain pummels Japan",
+   "source": "New York Post",
+   "at": "2026-08-14T15:25:42.038168+00:00"
+  },
+  {
+   "fp": "dead guilt killed white",
+   "title": "White guilt is dead \u2014 and we killed it",
+   "source": "Washington Examiner",
+   "at": "2026-08-14T15:25:43.807199+00:00"
+  },
+  {
+   "fp": "baseball bertman coach dead duplicated legendary never skip",
+   "title": "Legendary LSU baseball coach Skip Bertman dead at 88: \u2018Never be duplicated\u2019",
+   "source": "New York Post",
+   "at": "2026-08-14T15:25:45.479607+00:00"
+  },
+  {
+   "fp": "across croatian europe evacuated greek hundreds resorts stretch wildfires",
+   "title": "Hundreds evacuated from Croatian and Greek resorts as wildfires stretch across Europe",
+   "source": "Reuters",
+   "at": "2026-08-14T15:25:47.175760+00:00"
+  },
+  {
+   "fp": "assigns cartons class eggs highest million nearly recall risk status",
+   "title": "FDA assigns highest-risk Class I status for recall of nearly 1.6 million cartons of eggs",
+   "source": "The Hill",
+   "at": "2026-08-14T15:25:48.785874+00:00"
+  },
+  {
+   "fp": "closes declares emergency hawaii islands lala state storm tropical",
+   "title": "Hawaii declares state of emergency as Tropical Storm Lala closes in on islands",
+   "source": "New York Post",
+   "at": "2026-08-14T15:25:50.468061+00:00"
   }
  ],
  "titles": [
-  "attack blames calls camp chair concentration gaza inevitable israel largely open",
-  "blamed california chief collapse district earth financial fired goes school scorched",
-  "arrested former government killing lawmaker least office shooting thai",
-  "administration challenge colombia deadly early earthquake hits presenting",
-  "compensation iran killed must those trump wounded",
-  "capsizing charge feds harbor infant killed mother operator speedboat york",
   "claiming covid fauci issues linked miscarriage newly privately publicly released risk show texts vaccine warned",
   "billion deal financing firms nvidia street strike targeting wall",
   "flexibility live order research sign trump updates vaccine",
@@ -3603,6 +3597,12 @@
   "antisemetic crash husband jewish killed past raises signs suspect warning woman",
   "declares emergency encampment eyesores homeless malibu streets",
   "award boardroom coup current exec globes golden hfpa ousted owner ruthless show sued week",
-  "bikes getting held hurt keep kids killed parents responsible should"
+  "bikes getting held hurt keep kids killed parents responsible should",
+  "breaking dead eight japan left pummels rain record stranded",
+  "dead guilt killed white",
+  "baseball bertman coach dead duplicated legendary never skip",
+  "across croatian europe evacuated greek hundreds resorts stretch wildfires",
+  "assigns cartons class eggs highest million nearly recall risk status",
+  "closes declares emergency hawaii islands lala state storm tropical"
  ]
 }
