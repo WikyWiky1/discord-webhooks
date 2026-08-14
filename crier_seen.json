@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMifkFVX3lxTFBFaGtxOHFMdFctcDd6TTgzZndpV0U1QUFGRV9nbFdxcVZDemlTTW80ZmZTOWxXT0N1ZUJYM3ByQ3Z1ZGF3d1E5S2FjRlp3dzBicVRtaGNBMUV5V1BEWUFfZ2lwaE9kck1xYlNYTENuTnFlMEFkcHlwRGpxYlY1UQ",
   "https://thehill.com/?p=6013175",
   "https://thehill.com/?p=6011355",
   "https://nypost.com/?post_type=article&p=40219385",
@@ -799,15 +798,10 @@
   "https://www.washingtonexaminer.com/?p=4688077",
   "CBMivAFBVV95cUxObVA1a0NLTjhHeURuaEhabm43aGxjVDhySUplSldiTnB0cXphQzFINlVBYlNWYlZxMHVYc3BxOWtEaVhuRUUyRFpGa1VRbkp0Q2pCTUNmTmtXSlBxNTF5YmNEMVBocUo1S0VZZmpTakVxVi1rYlJzUnVQdnpRQzY1aHFHWVU3V0pGa2F3RkJwdmJCZUoweWVkYUg1OTJVX0l5OW45X0ZiR2toOUdYbkpQNG02S0VIRDIxVGZJdg",
   "CBMinAFBVV95cUxQWnI3NC10dlVRTXVlQ1AxU095WTVmdGU5d3hSNm1BenBTWlFESC1qdHlFZlFPMnVEdFFwdy0xUFUzZHV4WlBDVkpGSGJLbnh2NUhYQjRTYzZOR3diWGprd3lHTEkxVXhiX0NoOW9BMHpGcEVKRDktbjZuS0p3ZG5SYWl0M0I2eEFlSkhnVS1hSGk4MjdWeWxVTjB0bV8",
-  "CBMioAFBVV95cUxNZS1vOGdEXzFqSE9VdHZkblc0dlV0Qi05YjRrZER5eGFhT21neW1iTWNWSHgtOExPem1zQnBDVmtrS3JoaWMwM1laQ1lPWDJleU9IbmtUVE1oaVJzcHM5b3F3N1FTdGk0aUVLZ3ZuVlQ2R0g0WmRTS3VDRE9Edk95Y1htNlNvMHZadUlORHVIcGMyVlVBcFRpbUxaamNFQW5H"
+  "CBMioAFBVV95cUxNZS1vOGdEXzFqSE9VdHZkblc0dlV0Qi05YjRrZER5eGFhT21neW1iTWNWSHgtOExPem1zQnBDVmtrS3JoaWMwM1laQ1lPWDJleU9IbmtUVE1oaVJzcHM5b3F3N1FTdGk0aUVLZ3ZuVlQ2R0g0WmRTS3VDRE9Edk95Y1htNlNvMHZadUlORHVIcGMyVlVBcFRpbUxaamNFQW5H",
+  "https://nypost.com/?post_type=article&p=40348650"
  ],
  "posts": [
-  {
-   "fp": "2027 deal launch signs spacex vietnam vinspace",
-   "title": "Vietnam's VinSpace signs SpaceX launch deal for 2027",
-   "source": "Reuters",
-   "at": "2026-08-11T07:06:45.030902+00:00"
-  },
   {
    "fp": "colombia death efforts expected press quake rescue rise toll",
    "title": "Colombia rescue efforts press on after quake, death toll expected to rise",
@@ -3201,10 +3195,15 @@
    "title": "Vote counting suspended then restarted under heightened security in Zambia election",
    "source": "AP",
    "at": "2026-08-14T21:24:24.503258+00:00"
+  },
+  {
+   "fp": "allegations arday cambridge campaign dead despite family jason misinformation plagiarism professor victim",
+   "title": "Family of dead ex-Cambridge professor Jason Arday says he was victim of \u2018misinformation\u2019 campaign despite plagiarism allegations",
+   "source": "New York Post",
+   "at": "2026-08-14T21:43:53.492408+00:00"
   }
  ],
  "titles": [
-  "2027 deal launch signs spacex vietnam vinspace",
   "colombia death efforts expected press quake rescue rise toll",
   "afterlife chandler crash david hendry killed mormon sharing video youtuber",
   "anyway backed family hochul horror illegal immigrant killed knows laws sanctuary teen",
@@ -3603,6 +3602,7 @@
   "ahead cory desantis endorse mills primary refuses tight",
   "buys cuts global management spacex stakes tech tiger",
   "accused campaign election fund loan massachusetts mayor pandemic taxes using",
-  "counting election heightened restarted security suspended then under vote zambia"
+  "counting election heightened restarted security suspended then under vote zambia",
+  "allegations arday cambridge campaign dead despite family jason misinformation plagiarism professor victim"
  ]
 }
