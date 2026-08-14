@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://pagesix.com/?post_type=article&p=9094844",
   "https://www.washingtonexaminer.com/?p=4676438",
   "CBMitwFBVV95cUxQUktRWGVETUc4dDd2NGdhbThFbzBSUTNyMmVmSHNMblhEWUJuWk1fOHRGWGI2a3p3NXVhM0wwWjQzME1Kel94aEJGTHI0RWY0V1F1NEh0dVhhRE5zSE41YWs3bDRUUnlvYVFlZ2Jfc3kwOFNNLUM0aFktT0RwZ0JCMmZ0OVlmZkdtMWRGSWpWMjJ2MTZITEFDNTgyR01OZk5YZi14dHNQZU1SLVc0b0FPbk00VjRuOTQ",
   "https://www.bbc.co.uk/news/articles/c1m18158my9o#0",
@@ -799,15 +798,10 @@
   "CBMiwAFBVV95cUxNVzZsUDJSYTV2QkNqVmRLUDVIb0l3MzJPdERTOFVrNmswRUw0QmhIWDFkYnYtOFhNc3JTZ0U1dm1pMmxQVUtYVGw3S21HTHRhVWRkdHd6UXExc0Y1QVVQeVVDdjYwRHRkNFRVV0tfQ0JTcXFSVFFTZUtnYnh2aS1hSnAwc0VRWXVaWmZXTG9PMEZiWVNuZmszeGw4TDl1TEY5bmZFUy1jaU9GS2VVLTNjOGNJeFNWZkotd3VJU1N1Vmk",
   "CBMikwFBVV95cUxNcTZkTW84ZVJ2ajdwMktZUjFCcWJ6NGM2ZnZkSmd6bmo2b2RGUWhEZE13UTN6eHV2Rzh2ZndURG93ZzNveFYtaDVxV1JYVmprWWh6SkN3NXFCMjdveVhCZW1iQTdCc21lUmlpV1YxMENUVHZHVjUweW5OVEd3OUk4NUx1STJHRnhONjg2bFVCSmpVdVU",
   "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
-  "CBMirgFBVV95cUxNUEtkMW85Ymsxd0pDX1ItdnpuckFtN3c2eVB5eHhLdkdIVHc1M1lXcVNCY1YybmMxWVNUbWxwRGE4MVdMVkJ6bVUyMDRlZUNLWWoteUhnOHZQaGUxb3VwM0tackFkaENzbUI1MHdoN1dkWjF3WWY5SHd4MEpsWjdkVUw5U0FlTFRDanhKa1VOZVh2WjA3ekw3UnV4T09OMTFSTmhjTmkyTXF2T09LMnc"
+  "CBMirgFBVV95cUxNUEtkMW85Ymsxd0pDX1ItdnpuckFtN3c2eVB5eHhLdkdIVHc1M1lXcVNCY1YybmMxWVNUbWxwRGE4MVdMVkJ6bVUyMDRlZUNLWWoteUhnOHZQaGUxb3VwM0tackFkaENzbUI1MHdoN1dkWjF3WWY5SHd4MEpsWjdkVUw5U0FlTFRDanhKa1VOZVh2WjA3ekw3UnV4T09OMTFSTmhjTmkyTXF2T09LMnc",
+  "https://nypost.com/?post_type=article&p=40347780"
  ],
  "posts": [
-  {
-   "fp": "deal highs hopes iran near peace steadies week",
-   "title": "Oil steadies near one-week highs as US-Iran peace deal hopes dim",
-   "source": "Reuters",
-   "at": "2026-08-11T04:19:48.797145+00:00"
-  },
   {
    "fp": "colombia earthquake kills missing powerful searches",
    "title": "Colombia searches for its missing after a powerful earthquake kills more than 100",
@@ -3201,10 +3195,15 @@
    "title": "California lawmakers kill grizzly bear reintroduction bill",
    "source": "AP",
    "at": "2026-08-14T20:47:26.246165+00:00"
+  },
+  {
+   "fp": "attack crime dems deploys drop line rate record report showing trump unveils violent",
+   "title": "Trump unveils FBI crime report showing violent crime drop at \u2018record\u2019 rate \u2014 deploys new attack line on Dems",
+   "source": "New York Post",
+   "at": "2026-08-14T21:18:30.034898+00:00"
   }
  ],
  "titles": [
-  "deal highs hopes iran near peace steadies week",
   "colombia earthquake kills missing powerful searches",
   "500bn deal financing firms links nvidia street wall",
   "back fizzle iran other pivots sanctions strategies trump",
@@ -3603,6 +3602,7 @@
   "attack cyber data finance french ministry stolen taxpayers",
   "attack caught diego guilty kicking lion pleads protected video",
   "arday cambridge claims dead found jason plagiarism resigning",
-  "bear bill california grizzly kill lawmakers reintroduction"
+  "bear bill california grizzly kill lawmakers reintroduction",
+  "attack crime dems deploys drop line rate record report showing trump unveils violent"
  ]
 }
