@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40201304",
-  "https://nypost.com/?post_type=article&p=40202116",
-  "https://nypost.com/?post_type=article&p=40203910",
   "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo#0",
   "https://thehill.com/?p=6011419",
   "CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F",
@@ -799,27 +796,12 @@
   "CBMivwFBVV95cUxOcXhaR1BaTkNVbC1FZDJuVlp6MDhWSE81U0NHYlB2SElhdUNYTU1oaXhaZ3hOMkdrNWo4VTFSMjlMWWZjMFJqc19KdzAxdXdWTnk2cDVha1VOYWxmRFRGZXFhQlRiMWJVb3FWVG5TMUt5N1JVdEptaldHZ3JZeFNLbU9UM2tXdUZMZi1wU1VyMXItRHI0NjNUODk5V0JNYWRLOVhpdUE0a1BkS1c0M3c4NzlwUHZvRmlkOVJ5dzNlMA",
   "CBMiswFBVV95cUxOeE1JdmNaby01LWIzcEQ4d18tcDh2SDNJcHpBYlBNcGowdk0ycHFhdGFibnFjTXl6R01PY2FHUkg5Z2RjcWdEaFZnWFRWRXJWMjBIS2w1NjFjU0Q0NEpDLXBCR0VUbUxYcUxENmx3X25KSnNMZlZtV00zZDZ3X1JEeHNHbnlxVTZ4OC1TQ200TDg4LTh5Wk1ocUt6QkhIRUlYOWIxaXJjWXdrZ2FNVTM2ZmU0cw",
   "CBMiqwFBVV95cUxOc1Y1Z1dwTi1ldndWcmphLVRBV0ZMSnhGRm5FTmpzVXpiQ01qajJEMU9xcHpNbEthV0NNS29DaVJQYWU2NVVic0VkUFJTcHdGYjJ0dG01Qjh2RlRIbkJPcjlZMWlZSVo1ZzNBSXpON0ZnamFXUEluVTV4b001Vnp6R3VlVGJlTGxhMm5fNXRMN3N6LWdHdXNEenh3MGJPUkQ2RE1LWTdLZ2h5NVU",
-  "https://www.bbc.co.uk/news/articles/c9v42m3430vo#2"
+  "https://www.bbc.co.uk/news/articles/c9v42m3430vo#2",
+  "https://www.theguardian.com/australia-news/2026/aug/14/pocock-and-crossbenchers-call-labors-ndis-overhaul-too-far-too-fast-in-scathing-senate-inquiry-report",
+  "CBMiwwFBVV95cUxOM2FsZnREU0xSOS1nNm5NQk4zcWE4X2NxU2hEemlVeG9HWFRIb2tCUEVmV2hMZ3lUZE1heDJQNVM2bGx6eEJTNVUyb0poVUpqTERYYXg5OXFJUmVaejloUDJrVjlxdy01c3VBal9HTHI5WkRqRkFuMW5pZi1obFliNlZTQjFYMGhIZWN4Uk80NjhiSXZhNVp4WkpNbGtzcTBFMnNZWDRaUWZRQ0V6UWJpTHY5VXhQZlB4SHp5ckFQNUt2MWs",
+  "CBMiogFBVV95cUxObG8wN1pnMkcxVXZza0UtSjBRRld5eDdYalNZWk0wQTh6OU1fU1ozakRMb1RkM01FWGJOaHZXMVJneEx2VWRJTUdxUVJ6UGdIYjNLWFRYU3B0UHIxdm16bEdMWDl6SlBrX3VlaWo1aTNoUTF6QkR0WUJpMVkxUlZhTklDRFQzeUN6VnpNY0R6YmhBeDg4dTYxemhTd3lnaU1zVFE"
  ],
  "posts": [
-  {
-   "fp": "crew emergency exit felt like lunatic midflight opening passengers plane restrain threatened",
-   "title": "Plane passengers restrain lunatic who threatened crew and \u2018felt like\u2019 opening emergency exit midflight",
-   "source": "New York Post",
-   "at": "2026-08-10T15:53:40.400132+00:00"
-  },
-  {
-   "fp": "colombia earthquake kills least magnitude massive strikes",
-   "title": "Massive 7.4-magnitude earthquake strikes Colombia, kills at least 20",
-   "source": "New York Post",
-   "at": "2026-08-10T15:53:42.194321+00:00"
-  },
-  {
-   "fp": "animals forest heathland rare ravages threatened wildfire",
-   "title": "Rare animals threatened as wildfire ravages New Forest heathland",
-   "source": "Guardian World",
-   "at": "2026-08-10T15:53:43.905406+00:00"
-  },
   {
    "fp": "deep drone inside kills least refinery russia strike ukraine",
    "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
@@ -3201,12 +3183,27 @@
    "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
    "source": "BBC World",
    "at": "2026-08-14T09:01:11.561894+00:00"
+  },
+  {
+   "fp": "call crossbenchers fast inquiry labor ndis overhaul pocock report scathing senate",
+   "title": "Pocock and crossbenchers call Labor\u2019s NDIS overhaul \u2018too far, too fast\u2019 in scathing Senate inquiry report",
+   "source": "Guardian World",
+   "at": "2026-08-14T10:00:50.795421+00:00"
+  },
+  {
+   "fp": "broker crypto exclusive license onto regulated steps street trader wall wintermute",
+   "title": "Exclusive | Crypto Trader Wintermute Steps Onto Regulated Wall Street With Broker License",
+   "source": "WSJ",
+   "at": "2026-08-14T10:00:52.530462+00:00"
+  },
+  {
+   "fp": "clacton election farage nigel wins",
+   "title": "Nigel Farage wins Clacton by-election",
+   "source": "Telegraph",
+   "at": "2026-08-14T10:00:54.229053+00:00"
   }
  ],
  "titles": [
-  "crew emergency exit felt like lunatic midflight opening passengers plane restrain threatened",
-  "colombia earthquake kills least magnitude massive strikes",
-  "animals forest heathland rare ravages threatened wildfire",
   "deep drone inside kills least refinery russia strike ukraine",
   "british columbia killed octogenarian wildfire",
   "china component discovers drones naval sent signals",
@@ -3603,6 +3600,9 @@
   "avoid binface count election farage nigel reform",
   "croatian descends injures least tourist town wildfire",
   "four japanese killed rainfall record",
-  "another caught colombia deadly disaster fled quakes teens venezuela"
+  "another caught colombia deadly disaster fled quakes teens venezuela",
+  "call crossbenchers fast inquiry labor ndis overhaul pocock report scathing senate",
+  "broker crypto exclusive license onto regulated steps street trader wall wintermute",
+  "clacton election farage nigel wins"
  ]
 }
