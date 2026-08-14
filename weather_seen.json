@@ -501,9 +501,9 @@
    "message_id": "1537915746040946699",
    "event": "Severe Thunderstorm Warning",
    "area": "Clark, NV; Lincoln, NV",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-14T20:08:07+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-14T20:45:59+00:00"
   },
   {
    "id": "urn:oid:2.49.0.1.840.0.88b597414846dd1b7d16239190f36540a1d571ee.001.1",
@@ -521,6 +521,24 @@
    "area": "Clark, NV",
    "expired": false,
    "posted_at": "2026-08-14T20:08:10+00:00",
+   "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.11a2f59097f8df93d8d748137c66315f8bce1615.001.1",
+   "message_id": "1537925263747190868",
+   "event": "Severe Thunderstorm Warning",
+   "area": "Mohave, AZ; Clark, NV",
+   "expired": false,
+   "posted_at": "2026-08-14T20:45:56+00:00",
+   "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.3a2d2ea1e49afcf07d47111c54195842e1f32e9c.001.1",
+   "message_id": "1537925271586476224",
+   "event": "Severe Thunderstorm Warning",
+   "area": "Clark, NV; Lincoln, NV",
+   "expired": false,
+   "posted_at": "2026-08-14T20:45:58+00:00",
    "expired_at": null
   }
  ]
