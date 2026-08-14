@@ -1,9 +1,5 @@
 {
  "ids": [
-  "CBMilAFBVV95cUxNS2V3Q19qdENxMV94UzZvVjUxTlNtYzlpTmp4MEpXOEw3VDhFazNDVE03TFBPdG12b25oeWw0M0xwTFlRTnNPYWd5UXg1RHFVdkl6ajRmZGZlc21EVkwzYVhSemUtU1pRSlIxeVk0VXY1VkpHemlaT21QUWpZNXZtOHRfWGlMWTFIRjdSVHpMSjZqWkU1",
-  "CBMid0FVX3lxTFBwSE1heVN0eHdFTlQ2WTEwS1pidVZVMU1hMmJHalpMQzd2X1NJMFl2UkdwOS1NNzRRREpnVHBSWmp5WWQwWXZRM05sVEZ5Rkd1c05hRUZ2d0dRQzBzNDFPMGwwaTQzZVJ3eDc2bnFEOTNNWmlnSEpr",
-  "https://www.washingtonexaminer.com/?p=4675659",
-  "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo#0",
   "https://nypost.com/?post_type=article&p=40196145",
   "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates",
   "https://nypost.com/?post_type=article&p=40202944",
@@ -799,33 +795,13 @@
   "https://nypost.com/?post_type=article&p=40334977",
   "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers",
   "CBMiiwFBVV95cUxQdk1KX250aDU4T3E3RHFZM0x0VlNjNk5CQlVZRnRKNXEyRW1GLWpSemNvSFZKWWphek9tTlE4dWlmTlBNU3FrTV9VajN0NWdHaDhQVkJ3bEhpa3hSVmtneklVd0l3cEstendDWllXcGVNeThfQ0ZuNlNkLWY1TERQNHd3emJTYkJkcnNR",
-  "https://nypost.com/?post_type=article&p=40331518"
+  "https://nypost.com/?post_type=article&p=40331518",
+  "https://nypost.com/?post_type=article&p=40335008",
+  "CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ",
+  "CBMipAFBVV95cUxQR1B1UnJpbTFQd2hJRTREM0lWTE1VaFNrS2kydjk1LU1DbFVnVGFuTDJydzJwWEFTdG15cEtueDB0M1o4bFJEXzg3ZkZydGgySFNqRWtMU1pPb250REo2bVlzbkVUbDVlMHVQeUs2VWNIV3hTUExIOUhOLTV3WDFBelloV3l5ZHVRYTlNbGZ4SDdRYTZvQmpRVVpMdXZCUnZJeEg2ag",
+  "https://www.bbc.co.uk/news/articles/c934wqpd74xo#2"
  ],
  "posts": [
-  {
-   "fp": "alleged armed colombia groups killed leader president rebel targets",
-   "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-   "source": "BBC World",
-   "at": "2026-08-10T13:47:15.847400+00:00"
-  },
-  {
-   "fp": "battles blaze bromo growing indonesia mount spreads wildfires",
-   "title": "Indonesia battles growing wildfires as Mount Bromo blaze spreads",
-   "source": "AP",
-   "at": "2026-08-10T13:47:17.728133+00:00"
-  },
-  {
-   "fp": "colombia earthquake ecuador magnitude neighboring strikes strong",
-   "title": "Strong 7.4 magnitude earthquake strikes Colombia and neighboring Ecuador",
-   "source": "Washington Examiner",
-   "at": "2026-08-10T14:52:01.557626+00:00"
-  },
-  {
-   "fp": "causing colombia damage earthquake latest magnitude news serious shakes",
-   "title": "7.4 magnitude earthquake shakes Colombia, causing serious damage \u2013 latest news",
-   "source": "Guardian World",
-   "at": "2026-08-10T14:52:03.251212+00:00"
-  },
   {
    "fp": "attack citizens consulate drone killed region russia seven tatarstan uzbek",
    "title": "Seven Uzbek citizens killed in drone attack on Russia's Tatarstan region, consulate says",
@@ -3201,13 +3177,33 @@
    "title": "Warriors 2026-27 schedule: Breaking down the biggest dates",
    "source": "New York Post",
    "at": "2026-08-14T04:44:11.531455+00:00"
+  },
+  {
+   "fp": "certain concerns drones national security slaps tariff trump",
+   "title": "Trump slaps 100% tariff on certain drones over national security concerns",
+   "source": "New York Post",
+   "at": "2026-08-14T04:47:43.967957+00:00"
+  },
+  {
+   "fp": "asian fading gain hike rate stocks wagers weekly",
+   "title": "Asian stocks set for weekly gain on fading US rate hike wagers",
+   "source": "Reuters",
+   "at": "2026-08-14T04:47:45.669348+00:00"
+  },
+  {
+   "fp": "brown cook election expected following islands mark minister power prime return",
+   "title": "Cook Islands Prime Minister Mark Brown expected to return to power following election",
+   "source": "AP",
+   "at": "2026-08-14T04:47:47.328484+00:00"
+  },
+  {
+   "fp": "enduring findings indian light mission mysteries solar throw",
+   "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+   "source": "BBC World",
+   "at": "2026-08-14T04:47:49.054759+00:00"
   }
  ],
  "titles": [
-  "alleged armed colombia groups killed leader president rebel targets",
-  "battles blaze bromo growing indonesia mount spreads wildfires",
-  "colombia earthquake ecuador magnitude neighboring strikes strong",
-  "causing colombia damage earthquake latest magnitude news serious shakes",
   "attack citizens consulate drone killed region russia seven tatarstan uzbek",
   "company diarrhea explosive farms fears guacamole linked outbreak recalls salmonella salsa taylor",
   "buildings colombia earthquake ecuador evacuate homes people powerful prompting shakes",
@@ -3603,6 +3599,10 @@
   "almost along dead grisly jersey scene sharks shore sudden wash",
   "animal indonesia orangutans rescued threaten traffickers wildfires",
   "causes disrupts flooding heavy kills near rain tokyo train travel",
-  "2026 biggest breaking dates down schedule warriors"
+  "2026 biggest breaking dates down schedule warriors",
+  "certain concerns drones national security slaps tariff trump",
+  "asian fading gain hike rate stocks wagers weekly",
+  "brown cook election expected following islands mark minister power prime return",
+  "enduring findings indian light mission mysteries solar throw"
  ]
 }
