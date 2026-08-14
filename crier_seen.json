@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6013175",
-  "https://thehill.com/?p=6011355",
   "https://nypost.com/?post_type=article&p=40219385",
   "https://nypost.com/?post_type=article&p=40219266",
   "https://nypost.com/?post_type=article&p=40219455",
@@ -799,21 +797,11 @@
   "CBMivAFBVV95cUxObVA1a0NLTjhHeURuaEhabm43aGxjVDhySUplSldiTnB0cXphQzFINlVBYlNWYlZxMHVYc3BxOWtEaVhuRUUyRFpGa1VRbkp0Q2pCTUNmTmtXSlBxNTF5YmNEMVBocUo1S0VZZmpTakVxVi1rYlJzUnVQdnpRQzY1aHFHWVU3V0pGa2F3RkJwdmJCZUoweWVkYUg1OTJVX0l5OW45X0ZiR2toOUdYbkpQNG02S0VIRDIxVGZJdg",
   "CBMinAFBVV95cUxQWnI3NC10dlVRTXVlQ1AxU095WTVmdGU5d3hSNm1BenBTWlFESC1qdHlFZlFPMnVEdFFwdy0xUFUzZHV4WlBDVkpGSGJLbnh2NUhYQjRTYzZOR3diWGprd3lHTEkxVXhiX0NoOW9BMHpGcEVKRDktbjZuS0p3ZG5SYWl0M0I2eEFlSkhnVS1hSGk4MjdWeWxVTjB0bV8",
   "CBMioAFBVV95cUxNZS1vOGdEXzFqSE9VdHZkblc0dlV0Qi05YjRrZER5eGFhT21neW1iTWNWSHgtOExPem1zQnBDVmtrS3JoaWMwM1laQ1lPWDJleU9IbmtUVE1oaVJzcHM5b3F3N1FTdGk0aUVLZ3ZuVlQ2R0g0WmRTS3VDRE9Edk95Y1htNlNvMHZadUlORHVIcGMyVlVBcFRpbUxaamNFQW5H",
-  "https://nypost.com/?post_type=article&p=40348650"
+  "https://nypost.com/?post_type=article&p=40348650",
+  "https://nypost.com/?post_type=article&p=40348919",
+  "CBMisAFBVV95cUxNT2tUV0pUa2lOMy0yZ1N5NzRhR0IzWmV5S1k2X1drUjRoNU13NWloWm5kbUFnLTBoYUQ1VG1oTEtxeHJ5Rm1uV2ZvLXgzUHU1N1dWeV84UXVPYVJKTDF0dkN0Z01IRlZNa2ZnOERLSEoyNXNwOEhJSjl6aWFBb2JpdEMxX2hHa3lKMXk3UnNkY3lOUGRXd3JFcE9FaVRBQ3EzYTBJYmhlUl9tdTZLamhVdg"
  ],
  "posts": [
-  {
-   "fp": "colombia death efforts expected press quake rescue rise toll",
-   "title": "Colombia rescue efforts press on after quake, death toll expected to rise",
-   "source": "Reuters",
-   "at": "2026-08-11T07:50:32.429274+00:00"
-  },
-  {
-   "fp": "afterlife chandler crash david hendry killed mormon sharing video youtuber",
-   "title": "Mormon YouTuber Chandler David Hendry, 27, killed in car crash after sharing afterlife video",
-   "source": "New York Post",
-   "at": "2026-08-11T09:54:15.326482+00:00"
-  },
   {
    "fp": "anyway backed family hochul horror illegal immigrant killed knows laws sanctuary teen",
    "title": "Family of NY teen killed by illegal immigrant knows the horror of \u2018sanctuary\u2019 laws \u2014 but Gov. Hochul backed one anyway",
@@ -3201,11 +3189,21 @@
    "title": "Family of dead ex-Cambridge professor Jason Arday says he was victim of \u2018misinformation\u2019 campaign despite plagiarism allegations",
    "source": "New York Post",
    "at": "2026-08-14T21:43:53.492408+00:00"
+  },
+  {
+   "fp": "cluster death dies disease east harlem last legionnaires ninth outbreak person side surpassing toll upper year",
+   "title": "Ninth person dies from Legionnaires\u2019 disease cluster in Upper East Side \u2013 surpassing last year\u2019s Harlem outbreak death toll",
+   "source": "New York Post",
+   "at": "2026-08-14T22:15:28.285291+00:00"
+  },
+  {
+   "fp": "black cambridge claims dead faced found plagiarism professor youngest",
+   "title": "Youngest Black professor at Cambridge who faced plagiarism claims is found dead",
+   "source": "AP",
+   "at": "2026-08-14T22:15:29.960625+00:00"
   }
  ],
  "titles": [
-  "colombia death efforts expected press quake rescue rise toll",
-  "afterlife chandler crash david hendry killed mormon sharing video youtuber",
   "anyway backed family hochul horror illegal immigrant killed knows laws sanctuary teen",
   "about alabama concerns confusion holds leading primary second tuesday turnout",
   "endorsement fight gubernatorial lindell mike minnesota pillow primary trump turns",
@@ -3603,6 +3601,8 @@
   "buys cuts global management spacex stakes tech tiger",
   "accused campaign election fund loan massachusetts mayor pandemic taxes using",
   "counting election heightened restarted security suspended then under vote zambia",
-  "allegations arday cambridge campaign dead despite family jason misinformation plagiarism professor victim"
+  "allegations arday cambridge campaign dead despite family jason misinformation plagiarism professor victim",
+  "cluster death dies disease east harlem last legionnaires ninth outbreak person side surpassing toll upper year",
+  "black cambridge claims dead faced found plagiarism professor youngest"
  ]
 }
