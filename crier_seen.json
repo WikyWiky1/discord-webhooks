@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMiswFBVV95cUxQTmw0WV9PeEJVU0pBczd6UzhWSjdUMlQ2aDhwUGxDbWdvc3hMakw5d3h3Q2wxMXNRakctZjRlTW8wNi1PNnU2eDY0anYxakZYSkZBSVN6SUhJOEF4aW1HSTVnUWREc3k2dFBvUEl0azM4TXFoV1I1S1pJRVlVUm1SakpIeVFqM0wxS2gtMDFvc3ktZ05QYjc3VXRtSHdsNk9hLWUwb3VxTzBFcVhBeUx3Zm82Zw",
-  "https://www.theguardian.com/us-news/2026/aug/05/florida-python-hunting-contest-winner-2026",
-  "CBMixAFBVV95cUxQMlk0UC1taXE5UTRrd1pxbElRS2xBMk05QmYyVTJvM0dEM2xGWU9kMC04X3JTbzBjNjdSaUtxa19zd3luTUQzcHdnbmhCQkRUY3RiQy1UWXkxR2VvUU92aUJGbmVraFE5emsyVkxlMXY4WXgxeG1PMnZTVFhBOUhINnA2Z1V4cHdNOVhGY0g0REpCMTVwVDJXVkZpZ2x2RWFTM0JBWDBZQ05kaGVKRHdSQUxKMGNuUS1WQkg2amZEalhaQzE5",
   "CBMigwFBVV95cUxNYVhudzl3bkNNTXhqeXFPa0docnlNMm0zRkgtLUQ3ZGhOY09ZRjBfeV9RMVFwOXJZdnRJMlN2TlYzNi0zWXpKMl9nSU1tTHotVTlfX0JhTU40NDJWanF0OXFuRU9TdnZ0SThRYmxCWG9HNTZwQkE0NjNCUHp2NE8zZEszcw",
   "https://thehill.com/?p=6012568",
   "https://thehill.com/?p=6012755",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40337628",
   "CBMipAFBVV95cUxNaHZRYUU0eWZPOG1WOUx5U1BpNXRlenFUWnhSdEJvbExTQXl6amlVS2w2YV9wY1JENXkyOG45VUVsaENIb1FUUms1RFBoN2djemxuLVBPMG1GVHlMWTY3aVJuT3BHUEVwVzQ1YnVsYndPUnRyRzhEYzBXbmdMX1NPSW5GUHlLNm0tZHJKYWs5TmllTElIV3l6ZDRrOG1IVE05OUc4QQ",
   "https://thehill.com/?p=6029452",
-  "https://news.sky.com/story/why-farage-may-face-a-second-by-election-despite-clacton-win-13572954"
+  "https://news.sky.com/story/why-farage-may-face-a-second-by-election-despite-clacton-win-13572954",
+  "https://thehill.com/?p=6029930",
+  "CBMipAFBVV95cUxOZElSWnU4T2dkdF8wdmI0RFhyVGpXUXlNb0FTdXg2dEtDYnBabEIzbW1uTFdwZjFkN0FuVW5LajJCTXF3NW81eGpLd2EtSnpfQ1JTdGM3ZWZZOHlYTEsySWFwZ2l5NTRnR05FZVZIN0F5dzI2Yk12Tnk2ZXhxd1ZuNUU0MUZpdDRSQjc2MUNTc2NjZXFsVzc1RnVWUWQtd0pNbUxpRA",
+  "https://thehill.com/?p=6029854"
  ],
  "posts": [
-  {
-   "fp": "addiction companies court face lawsuits media meta must other rules social tech thousands",
-   "title": "US court rules Meta, other tech companies must face thousands of lawsuits over social media addiction",
-   "source": "Reuters",
-   "at": "2026-08-10T18:56:47.999393+00:00"
-  },
-  {
-   "fp": "billion financing firms nvidia partner source street venture wall",
-   "title": "Nvidia, Wall Street firms partner on $500 billion AI financing venture, source says",
-   "source": "Reuters",
-   "at": "2026-08-10T18:56:49.756334+00:00"
-  },
-  {
-   "fp": "education primary",
-   "title": "Primary education",
-   "source": "Telegraph",
-   "at": "2026-08-10T18:56:51.498647+00:00"
-  },
   {
    "fp": "baby boat captain killed much slams survivor tragedy weight",
    "title": "Survivor of NYC boat tragedy that killed mom, baby slams captain: \u2018It was too much weight\u2019",
@@ -3201,12 +3183,27 @@
    "title": "Why Farage may face a second by-election despite Clacton win",
    "source": "Sky News",
    "at": "2026-08-14T15:51:32.230615+00:00"
+  },
+  {
+   "fp": "charges federal guilty mangione pleads shooting unitedhealthcare",
+   "title": "Mangione pleads guilty to federal charges in UnitedHealthcare CEO shooting",
+   "source": "The Hill",
+   "at": "2026-08-14T16:28:00.760076+00:00"
+  },
+  {
+   "fp": "11th century kings monastery moves remains spain surround wildfires",
+   "title": "Spain moves remains of 11th-century kings as wildfires surround monastery",
+   "source": "Telegraph",
+   "at": "2026-08-14T16:28:02.412731+00:00"
+  },
+  {
+   "fp": "chopper crash fort hood identified killed soldiers",
+   "title": "Soldiers killed in Fort Hood chopper crash identified",
+   "source": "The Hill",
+   "at": "2026-08-14T16:28:04.118130+00:00"
   }
  ],
  "titles": [
-  "addiction companies court face lawsuits media meta must other rules social tech thousands",
-  "billion financing firms nvidia partner source street venture wall",
-  "education primary",
   "baby boat captain killed much slams survivor tragedy weight",
   "colombia deadly destruction earthquake hits leaving magnitude photos widespread",
   "equip firefighters growing national priority threat wildfire",
@@ -3603,6 +3600,9 @@
   "closes declares emergency hawaii islands lala state storm tropical",
   "economy following holds latest near record street update wall weak",
   "backs court exemption minimis rescinding tariff trump",
-  "clacton despite election face farage second"
+  "clacton despite election face farage second",
+  "charges federal guilty mangione pleads shooting unitedhealthcare",
+  "11th century kings monastery moves remains spain surround wildfires",
+  "chopper crash fort hood identified killed soldiers"
  ]
 }
