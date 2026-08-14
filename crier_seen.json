@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo#0",
   "https://thehill.com/?p=6011419",
   "CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F",
   "https://thehill.com/?p=6011847",
@@ -799,15 +798,10 @@
   "https://www.bbc.co.uk/news/articles/c9v42m3430vo#2",
   "https://www.theguardian.com/australia-news/2026/aug/14/pocock-and-crossbenchers-call-labors-ndis-overhaul-too-far-too-fast-in-scathing-senate-inquiry-report",
   "CBMiwwFBVV95cUxOM2FsZnREU0xSOS1nNm5NQk4zcWE4X2NxU2hEemlVeG9HWFRIb2tCUEVmV2hMZ3lUZE1heDJQNVM2bGx6eEJTNVUyb0poVUpqTERYYXg5OXFJUmVaejloUDJrVjlxdy01c3VBal9HTHI5WkRqRkFuMW5pZi1obFliNlZTQjFYMGhIZWN4Uk80NjhiSXZhNVp4WkpNbGtzcTBFMnNZWDRaUWZRQ0V6UWJpTHY5VXhQZlB4SHp5ckFQNUt2MWs",
-  "CBMiogFBVV95cUxObG8wN1pnMkcxVXZza0UtSjBRRld5eDdYalNZWk0wQTh6OU1fU1ozakRMb1RkM01FWGJOaHZXMVJneEx2VWRJTUdxUVJ6UGdIYjNLWFRYU3B0UHIxdm16bEdMWDl6SlBrX3VlaWo1aTNoUTF6QkR0WUJpMVkxUlZhTklDRFQzeUN6VnpNY0R6YmhBeDg4dTYxemhTd3lnaU1zVFE"
+  "CBMiogFBVV95cUxObG8wN1pnMkcxVXZza0UtSjBRRld5eDdYalNZWk0wQTh6OU1fU1ozakRMb1RkM01FWGJOaHZXMVJneEx2VWRJTUdxUVJ6UGdIYjNLWFRYU3B0UHIxdm16bEdMWDl6SlBrX3VlaWo1aTNoUTF6QkR0WUJpMVkxUlZhTklDRFQzeUN6VnpNY0R6YmhBeDg4dTYxemhTd3lnaU1zVFE",
+  "CBMipgFBVV95cUxOS3RiWGpwZ2JGV19vTURBdE1ISkpGOVgtNk9rR2dLRXEzN2U4eGlkWEVQREs2UFQwUEN4UzJ5Zzd2ZXl6cTV5akV0aFJQSDNSdVVzZU1DRHFNSGR0SG9UOUY3ekw4MFhQdDJxODN1eURnNEpaTFhnTjVxRy1uWU9PaHRVVkpWVHpueTNiYkZzQ0hEZFM0TU5sMDc2TXVLbGU0R3FTSGNR"
  ],
  "posts": [
-  {
-   "fp": "deep drone inside kills least refinery russia strike ukraine",
-   "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
-   "source": "Guardian World",
-   "at": "2026-08-10T15:53:45.614536+00:00"
-  },
   {
    "fp": "british columbia killed octogenarian wildfire",
    "title": "Octogenarian is first killed in British Columbia wildfire",
@@ -3201,10 +3195,15 @@
    "title": "Nigel Farage wins Clacton by-election",
    "source": "Telegraph",
    "at": "2026-08-14T10:00:54.229053+00:00"
+  },
+  {
+   "fp": "boss derailment heatwaves insists railways safe train",
+   "title": "Railways safe during heatwaves, insists train boss after derailment",
+   "source": "Telegraph",
+   "at": "2026-08-14T10:18:36.253291+00:00"
   }
  ],
  "titles": [
-  "deep drone inside kills least refinery russia strike ukraine",
   "british columbia killed octogenarian wildfire",
   "china component discovers drones naval sent signals",
   "drift near prices records rise stocks",
@@ -3603,6 +3602,7 @@
   "another caught colombia deadly disaster fled quakes teens venezuela",
   "call crossbenchers fast inquiry labor ndis overhaul pocock report scathing senate",
   "broker crypto exclusive license onto regulated steps street trader wall wintermute",
-  "clacton election farage nigel wins"
+  "clacton election farage nigel wins",
+  "boss derailment heatwaves insists railways safe train"
  ]
 }
