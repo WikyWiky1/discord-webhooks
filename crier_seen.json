@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates",
-  "https://nypost.com/?post_type=article&p=40202944",
   "https://www.washingtonexaminer.com/?p=4675925",
   "https://www.theguardian.com/world/2026/aug/05/suspect-washington-state-wildfire",
   "https://nypost.com/?post_type=article&p=40202870",
@@ -799,21 +797,11 @@
   "CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ",
   "CBMipAFBVV95cUxQR1B1UnJpbTFQd2hJRTREM0lWTE1VaFNrS2kydjk1LU1DbFVnVGFuTDJydzJwWEFTdG15cEtueDB0M1o4bFJEXzg3ZkZydGgySFNqRWtMU1pPb250REo2bVlzbkVUbDVlMHVQeUs2VWNIV3hTUExIOUhOLTV3WDFBelloV3l5ZHVRYTlNbGZ4SDdRYTZvQmpRVVpMdXZCUnZJeEg2ag",
   "https://www.bbc.co.uk/news/articles/c934wqpd74xo#2",
-  "https://www.bbc.co.uk/news/articles/cq561gpen8lo#0"
+  "https://www.bbc.co.uk/news/articles/cq561gpen8lo#0",
+  "CBMiugFBVV95cUxNRGxQNEpxUFR3NkJFN1JaeWxBMU8zVFpqNmJnTmNjcXQ5aWZnLXotc3lmUEw1eVZHS2dNUWxhRWdCdEdlVzVqeWEzMDEzaTRJbTVybFoyV2tyMDhJcGo1X2pZcGtCOEhUblBvekJpVmJkR2lnN1hPaTJlQ2lPRjRYMTRoSFFSZjY3T1VGMXA5OF8yem9aMThuRkgwcjJHdWxUSTY0MVd4WFRybTF5M3E5dFBFSV9QbnU2cXc",
+  "CBMivwFBVV95cUxOcXhaR1BaTkNVbC1FZDJuVlp6MDhWSE81U0NHYlB2SElhdUNYTU1oaXhaZ3hOMkdrNWo4VTFSMjlMWWZjMFJqc19KdzAxdXdWTnk2cDVha1VOYWxmRFRGZXFhQlRiMWJVb3FWVG5TMUt5N1JVdEptaldHZ3JZeFNLbU9UM2tXdUZMZi1wU1VyMXItRHI0NjNUODk5V0JNYWRLOVhpdUE0a1BkS1c0M3c4NzlwUHZvRmlkOVJ5dzNlMA"
  ],
  "posts": [
-  {
-   "fp": "company diarrhea explosive farms fears guacamole linked outbreak recalls salmonella salsa taylor",
-   "title": "Taylor Farms recalls salsa, guacamole over salmonella fears after company linked to \u2018explosive diarrhea\u2019 outbreak",
-   "source": "New York Post",
-   "at": "2026-08-10T14:52:06.837772+00:00"
-  },
-  {
-   "fp": "buildings colombia earthquake ecuador evacuate homes people powerful prompting shakes",
-   "title": "Powerful earthquake shakes Colombia and Ecuador prompting people to evacuate homes and buildings",
-   "source": "AP",
-   "at": "2026-08-10T14:52:08.673318+00:00"
-  },
   {
    "fp": "congo declared ebola months outbreak started",
    "title": "WHO says Congo\u2019s Ebola outbreak started months before it was declared",
@@ -3201,11 +3189,21 @@
    "title": "'Unprecedented' rains in Japan kill four people",
    "source": "BBC World",
    "at": "2026-08-14T06:08:25.870218+00:00"
+  },
+  {
+   "fp": "back beats binface count election farage mocked nigel parliament seat widely",
+   "title": "Nigel Farage beats Count Binface to win back seat in Parliament in widely mocked election",
+   "source": "AP",
+   "at": "2026-08-14T07:23:48.104962+00:00"
+  },
+  {
+   "fp": "avoid binface count election farage nigel reform",
+   "title": "Reform UK's Nigel Farage to avoid election count against Count Binface",
+   "source": "Reuters",
+   "at": "2026-08-14T07:23:49.984207+00:00"
   }
  ],
  "titles": [
-  "company diarrhea explosive farms fears guacamole linked outbreak recalls salmonella salsa taylor",
-  "buildings colombia earthquake ecuador evacuate homes people powerful prompting shakes",
   "congo declared ebola months outbreak started",
   "crash dead three",
   "colombia dead earthquake least powerful strikes western",
@@ -3603,6 +3601,8 @@
   "asian fading gain hike rate stocks wagers weekly",
   "brown cook election expected following islands mark minister power prime return",
   "enduring findings indian light mission mysteries solar throw",
-  "four japan kill people rains unprecedented"
+  "four japan kill people rains unprecedented",
+  "back beats binface count election farage mocked nigel parliament seat widely",
+  "avoid binface count election farage nigel reform"
  ]
 }
