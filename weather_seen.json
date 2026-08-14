@@ -546,8 +546,26 @@
    "message_id": "1537931807549554779",
    "event": "Severe Thunderstorm Warning",
    "area": "Clark, NV",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-14T21:11:56+00:00",
+   "expired_at": "2026-08-14T21:43:32+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.23e1c5c4fbe349403acaf84563780cfcc99c8503.001.1",
+   "message_id": "1537939745215094865",
+   "event": "Severe Thunderstorm Warning",
+   "area": "Clark, NV",
+   "expired": false,
+   "posted_at": "2026-08-14T21:43:29+00:00",
+   "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.42584e53883f81116c1d67cd38e993948b46741f.001.1",
+   "message_id": "1537939753989841021",
+   "event": "Severe Thunderstorm Warning",
+   "area": "Mohave, AZ; Clark, NV",
+   "expired": false,
+   "posted_at": "2026-08-14T21:43:30+00:00",
    "expired_at": null
   }
  ]
