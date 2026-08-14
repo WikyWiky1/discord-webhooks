@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4675925",
   "https://www.theguardian.com/world/2026/aug/05/suspect-washington-state-wildfire",
   "https://nypost.com/?post_type=article&p=40202870",
   "https://nypost.com/?post_type=article&p=40201304",
@@ -799,15 +798,10 @@
   "https://www.bbc.co.uk/news/articles/c934wqpd74xo#2",
   "https://www.bbc.co.uk/news/articles/cq561gpen8lo#0",
   "CBMiugFBVV95cUxNRGxQNEpxUFR3NkJFN1JaeWxBMU8zVFpqNmJnTmNjcXQ5aWZnLXotc3lmUEw1eVZHS2dNUWxhRWdCdEdlVzVqeWEzMDEzaTRJbTVybFoyV2tyMDhJcGo1X2pZcGtCOEhUblBvekJpVmJkR2lnN1hPaTJlQ2lPRjRYMTRoSFFSZjY3T1VGMXA5OF8yem9aMThuRkgwcjJHdWxUSTY0MVd4WFRybTF5M3E5dFBFSV9QbnU2cXc",
-  "CBMivwFBVV95cUxOcXhaR1BaTkNVbC1FZDJuVlp6MDhWSE81U0NHYlB2SElhdUNYTU1oaXhaZ3hOMkdrNWo4VTFSMjlMWWZjMFJqc19KdzAxdXdWTnk2cDVha1VOYWxmRFRGZXFhQlRiMWJVb3FWVG5TMUt5N1JVdEptaldHZ3JZeFNLbU9UM2tXdUZMZi1wU1VyMXItRHI0NjNUODk5V0JNYWRLOVhpdUE0a1BkS1c0M3c4NzlwUHZvRmlkOVJ5dzNlMA"
+  "CBMivwFBVV95cUxOcXhaR1BaTkNVbC1FZDJuVlp6MDhWSE81U0NHYlB2SElhdUNYTU1oaXhaZ3hOMkdrNWo4VTFSMjlMWWZjMFJqc19KdzAxdXdWTnk2cDVha1VOYWxmRFRGZXFhQlRiMWJVb3FWVG5TMUt5N1JVdEptaldHZ3JZeFNLbU9UM2tXdUZMZi1wU1VyMXItRHI0NjNUODk5V0JNYWRLOVhpdUE0a1BkS1c0M3c4NzlwUHZvRmlkOVJ5dzNlMA",
+  "CBMiswFBVV95cUxOeE1JdmNaby01LWIzcEQ4d18tcDh2SDNJcHpBYlBNcGowdk0ycHFhdGFibnFjTXl6R01PY2FHUkg5Z2RjcWdEaFZnWFRWRXJWMjBIS2w1NjFjU0Q0NEpDLXBCR0VUbUxYcUxENmx3X25KSnNMZlZtV00zZDZ3X1JEeHNHbnlxVTZ4OC1TQ200TDg4LTh5Wk1ocUt6QkhIRUlYOWIxaXJjWXdrZ2FNVTM2ZmU0cw"
  ],
  "posts": [
-  {
-   "fp": "congo declared ebola months outbreak started",
-   "title": "WHO says Congo\u2019s Ebola outbreak started months before it was declared",
-   "source": "AP",
-   "at": "2026-08-10T14:52:10.548448+00:00"
-  },
   {
    "fp": "crash dead three",
    "title": "Three dead in car crash",
@@ -3201,10 +3195,15 @@
    "title": "Reform UK's Nigel Farage to avoid election count against Count Binface",
    "source": "Reuters",
    "at": "2026-08-14T07:23:49.984207+00:00"
+  },
+  {
+   "fp": "croatian descends injures least tourist town wildfire",
+   "title": "Wildfire descends on Croatian tourist town, injures at least 19",
+   "source": "Reuters",
+   "at": "2026-08-14T07:52:49.875398+00:00"
   }
  ],
  "titles": [
-  "congo declared ebola months outbreak started",
   "crash dead three",
   "colombia dead earthquake least powerful strikes western",
   "crew emergency exit felt like lunatic midflight opening passengers plane restrain threatened",
@@ -3603,6 +3602,7 @@
   "enduring findings indian light mission mysteries solar throw",
   "four japan kill people rains unprecedented",
   "back beats binface count election farage mocked nigel parliament seat widely",
-  "avoid binface count election farage nigel reform"
+  "avoid binface count election farage nigel reform",
+  "croatian descends injures least tourist town wildfire"
  ]
 }
