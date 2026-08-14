@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40168282",
-  "https://www.bbc.co.uk/news/articles/c62q0xerzrno#0",
-  "CBMiYkFVX3lxTE5zdmc2M1FiVENJNTZaLVA0SGZwUlV2RmpyMzZuaWZ2THZFT2Judm9UaU4ya3lPNmU1WVh0cG5sWktpblhvNWRiOGMyZXpQU2JUbXVjcjlGLWVNck9NSG1lN2d3",
   "CBMirgFBVV95cUxPZ3FLd2hiSjRfR2lzRkd1OWRqUEJYMmx3bE1ySTF1Y3ozNUJRX0o2bkt4UUNOR1l3Q2RnWWFsSExpN1lDeTZFeEZwRUptSVE4UkJEejJGQnNMR3p0WVhYZm5hZ0h3aG5uX2VsWWptcEVJZjdxVlBNRmpFXzU0dDlxWm1JOXVuYURBVWpZY0ZfYXd6MXdDbVNDalRWMDJjZDNkOWNRZ0JhNEtGWUVmNWc",
   "CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX",
   "https://www.washingtonexaminer.com/?p=4671653",
@@ -799,27 +796,12 @@
   "CBMioAFBVV95cUxOTU5YWFRNaGYycHNJV19yTWhiSHpKQlR5ZnlDdF80Z1F1Y2hKLW44eHlmaWZmODZ1Z3FFeTFBSW56eVZJUTA2WTJwN3NQZjdKWnBJQUIycUJhZjZyZjVKU1NrY00wc3RCeVhELTMyblZzZlg4YnV3REtWM1pxOGFHeG1Da19jQzE2ZzhDcVpMUER4c09KM3lSX09falRkM05q",
   "CBMijgFBVV95cUxQb3NFdF9tNVJidGNhMjlXVVRPN1RIM29BeEZFWjhYOVlxTUFmRFBiNENkdlNuNXo1WDVYTGhfM0lfNGxfTHBUcHJ5VUg4QTBmU0xxNWNnQXlqWFNMaTBNbllWTnc2TU04ZGs3ZTBiQ2kzQzNhZTdhRzVuRDdDLVdaUWFpY2hnNzFSM3I2blB3",
   "https://nypost.com/?post_type=article&p=40330342",
-  "https://nypost.com/?post_type=article&p=40327641"
+  "https://nypost.com/?post_type=article&p=40327641",
+  "https://thehill.com/?p=6028963",
+  "https://nypost.com/?post_type=article&p=40330551",
+  "CBMiqAFBVV95cUxNYWdBVHNzWHpsV1VQNFUyYWVsdTQtYldTcUFWV0xsVTVQbDlRREdRMHVMdl9vejZ1c05YT1psRS1HTE43OWpEZFJLQTZWbWdqdmNDNTJieWpQY25LWlVmcGpGaUpQbjN2TkI3UU4xS0FVRUE4bWNPV2NfSDBJQ1ZOZzFITXJreWtiWVVsWjduRnprM3k2NXhZOFBjczhYclhUY2FkRDFxbmo"
  ],
  "posts": [
-  {
-   "fp": "ancient coast discovered roman shipwreck sicily",
-   "title": "Ancient Roman shipwreck discovered off Sicily coast",
-   "source": "BBC World",
-   "at": "2026-08-10T11:52:19.277978+00:00"
-  },
-  {
-   "fp": "alleged arson attack farage home live murder police politics probe revived welcomes widdecombe",
-   "title": "Farage welcomes revived police probe into alleged arson attack at his home after Widdecombe murder \u2013 UK politics live",
-   "source": "Guardian World",
-   "at": "2026-08-10T12:00:59.427594+00:00"
-  },
-  {
-   "fp": "attack city drone kills officials refinery reportedly russian ukrainian",
-   "title": "Ukrainian drone attack on a Russian city kills 13, officials say, with a refinery reportedly hit",
-   "source": "AP",
-   "at": "2026-08-10T12:01:01.873175+00:00"
-  },
   {
    "fp": "agent billion broke congress containment just needs response",
    "title": "An AI agent just broke containment. Congress needs a $3 billion response",
@@ -3201,12 +3183,27 @@
    "title": "$238K worth of deadly fentanyl discovered stuffed in moped at California border crossing",
    "source": "New York Post",
    "at": "2026-08-13T23:04:41.608980+00:00"
+  },
+  {
+   "fp": "detainee dies emergency facility jersey medical third",
+   "title": "Third detainee dies after medical emergency at New Jersey ICE facility",
+   "source": "The Hill",
+   "at": "2026-08-14T00:00:50.411563+00:00"
+  },
+  {
+   "fp": "bullet killed market riddled still tupac",
+   "title": "Bullet-riddled BMW Tupac was killed in still on market for $1.75M",
+   "source": "New York Post",
+   "at": "2026-08-14T00:00:53.445126+00:00"
+  },
+  {
+   "fp": "daughter daycare kill minnesota police screwdriver used wife",
+   "title": "Man used a screwdriver to kill his wife and daughter at a Minnesota daycare, police say",
+   "source": "AP",
+   "at": "2026-08-14T00:00:55.264065+00:00"
   }
  ],
  "titles": [
-  "ancient coast discovered roman shipwreck sicily",
-  "alleged arson attack farage home live murder police politics probe revived welcomes widdecombe",
-  "attack city drone kills officials refinery reportedly russian ukrainian",
   "agent billion broke congress containment just needs response",
   "carolina decision expect graham lindsey notes primary replace south special",
   "futures hormuz inch markets monitor nasdaq situation",
@@ -3603,6 +3600,9 @@
   "around call colombia earthquake narrows rescuers rubble silence survival window",
   "avoid border czar deadly defends electric force gloves house shock tools white",
   "benches clear head hitter kill near pitches reds somebody thrown white",
-  "238k border california crossing deadly discovered fentanyl moped stuffed worth"
+  "238k border california crossing deadly discovered fentanyl moped stuffed worth",
+  "detainee dies emergency facility jersey medical third",
+  "bullet killed market riddled still tupac",
+  "daughter daycare kill minnesota police screwdriver used wife"
  ]
 }
