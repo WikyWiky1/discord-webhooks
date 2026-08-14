@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40202502",
-  "https://thehill.com/?p=6012228",
   "https://nypost.com/?post_type=article&p=40203066",
   "https://thehill.com/?p=6010135",
   "CBMinAFBVV95cUxQYWIyU0FSYVFwYVVfekdkUzZVOXIxbmpOYUk1Uk5YaTBoOEJIM3NRSkg2UjgyRlFiRTRGUWlqRGo1SnFfUEt3R2wzUzhlNlAzay1tamtXamNnekVLYm9WbnlXM0N6TkxLM0UwMHliLWtCUnEzeFVadkdBcHBWYkxRZ3laZkRWeEk5eWNNLUhQbXBveGYwMmR1MExOOU0",
@@ -799,15 +797,11 @@
   "https://thehill.com/?p=6029389",
   "CBMisAFBVV95cUxNOGlSVjd0am5adkxrNm1hX0c3RFVTN0JmZzBjVVluX3M1bjNUWndRRjlGV2IyT1dTbHdHYzh6MlNzOC0zNDFjejRiRzVOcmZCcE9PVEFHV2JxblZsM2xCa0JBcFl2T0FJRzVoUWVvR2FRd0hiOUZuWlZITHVxR0NONDljUm9YT2xMVVk1WjFJUWFzNVdPQmsyV1czWEdxRGRQQVJXWkZjQm1wRUZyZ3lZWQ",
   "CBMiYkFVX3lxTFBTcE5FdjB5QzY4OVZ1enNxT0M1S19UUkRsUDZ3cDZnX19BZkVtWnRveXdaMG5wY0lGS0hKS0RTVmJFZmUwRm5jQVBxT3VpWGhKdEhlYUgzRjNpVzA2UnpJeW1R",
-  "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum"
+  "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum",
+  "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+  "https://news.sky.com/story/potentially-deadly-bluetongue-detected-on-third-farm-in-scotland-13572948"
  ],
  "posts": [
-  {
-   "fp": "approach flames fled phones watched wildfires",
-   "title": "They Fled Wildfires and Watched the Flames Approach From Their Phones",
-   "source": "WSJ",
-   "at": "2026-08-10T17:44:52.190502+00:00"
-  },
   {
    "fp": "brings building camera collapses colombia death destruction earthquake",
    "title": "Colombia building collapses on camera as earthquake brings death, destruction",
@@ -3191,20 +3185,25 @@
    "at": "2026-08-14T13:04:59.819984+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-08-14T13:05:01.620784+00:00"
-  },
-  {
    "fp": "asylum election human iran lunatics panel potential rights running slams sway watchdog",
    "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
    "source": "Fox News World",
    "at": "2026-08-14T13:05:03.703916+00:00"
+  },
+  {
+   "fp": "almost arrested france starting summer suspicion wildfires",
+   "title": "Almost 500 arrested on suspicion of starting wildfires in France this summer",
+   "source": "Guardian World",
+   "at": "2026-08-14T13:13:45.171313+00:00"
+  },
+  {
+   "fp": "bluetongue deadly farm hits potentially scotland third",
+   "title": "Potentially deadly bluetongue hits third farm in Scotland",
+   "source": "Sky News",
+   "at": "2026-08-14T13:13:46.941365+00:00"
   }
  ],
  "titles": [
-  "approach flames fled phones watched wildfires",
   "brings building camera collapses colombia death destruction earthquake",
   "bacteria deadly eating flesh infections south surge vibrio vulnificus",
   "blackouts emergency face households millions threat",
@@ -3602,7 +3601,8 @@
   "autism cause debate doesn pretending stop vaccine",
   "ally beats binface count election farage nigel special trump",
   "alphabet billion decade fold grows spacex",
-  "edition journal print street wall",
-  "asylum election human iran lunatics panel potential rights running slams sway watchdog"
+  "asylum election human iran lunatics panel potential rights running slams sway watchdog",
+  "almost arrested france starting summer suspicion wildfires",
+  "bluetongue deadly farm hits potentially scotland third"
  ]
 }
