@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.foxnews.com/world/explosive-drone-forces-shutdown-major-german-airport-serving-nato-ukraine-flights",
-  "CBMickFVX3lxTFBfRlRoUkRGRENTSlFuT0pkd05vUnlKSzRXZDhVcW1HOTZlU0pVby0tUXpzeThWZ08zWkJBSDhNSVYybnlMLTR3bldSZl9ubFp4SmlBT3IzZVFDRGJoQ3hMdHlLSzA0RmhYWEUwa290TVozQQ",
-  "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
   "CBMiswFBVV95cUxQTmw0WV9PeEJVU0pBczd6UzhWSjdUMlQ2aDhwUGxDbWdvc3hMakw5d3h3Q2wxMXNRakctZjRlTW8wNi1PNnU2eDY0anYxakZYSkZBSVN6SUhJOEF4aW1HSTVnUWREc3k2dFBvUEl0azM4TXFoV1I1S1pJRVlVUm1SakpIeVFqM0wxS2gtMDFvc3ktZ05QYjc3VXRtSHdsNk9hLWUwb3VxTzBFcVhBeUx3Zm82Zw",
   "https://www.theguardian.com/us-news/2026/aug/05/florida-python-hunting-contest-winner-2026",
   "CBMixAFBVV95cUxQMlk0UC1taXE5UTRrd1pxbElRS2xBMk05QmYyVTJvM0dEM2xGWU9kMC04X3JTbzBjNjdSaUtxa19zd3luTUQzcHdnbmhCQkRUY3RiQy1UWXkxR2VvUU92aUJGbmVraFE5emsyVkxlMXY4WXgxeG1PMnZTVFhBOUhINnA2Z1V4cHdNOVhGY0g0REpCMTVwVDJXVkZpZ2x2RWFTM0JBWDBZQ05kaGVKRHdSQUxKMGNuUS1WQkg2amZEalhaQzE5",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40338387",
   "CBMiygFBVV95cUxPdGhObVd4bVhZVVg5VVdsMnNHZzlZNEF0ckRfdHB4UEQ5QkRGZUo0ZGxESjZzSTBmQ2V6S2h0eEhhZmR2S05BbWtrT0oxXzlWVHJma1pKNzBJNFlyMzZ5azFlM2dqOEg0Szd6a3BpVkswUnBZUlNDQjNXdXRXV1pNQXJUR2VuTEhPeGtSY05qZXJrbUZWRGtxYWNZT3h2bjNLMzNzTU5vLVJmaVhJd1hiZ0xoSFJLODZDZHh6Q3A0WEV4M1E5ejEwWmF3",
   "https://thehill.com/?p=6029894",
-  "https://nypost.com/?post_type=article&p=40337628"
+  "https://nypost.com/?post_type=article&p=40337628",
+  "CBMipAFBVV95cUxNaHZRYUU0eWZPOG1WOUx5U1BpNXRlenFUWnhSdEJvbExTQXl6amlVS2w2YV9wY1JENXkyOG45VUVsaENIb1FUUms1RFBoN2djemxuLVBPMG1GVHlMWTY3aVJuT3BHUEVwVzQ1YnVsYndPUnRyRzhEYzBXbmdMX1NPSW5GUHlLNm0tZHJKYWs5TmllTElIV3l6ZDRrOG1IVE05OUc4QQ",
+  "https://thehill.com/?p=6029452",
+  "https://news.sky.com/story/why-farage-may-face-a-second-by-election-despite-clacton-win-13572954"
  ],
  "posts": [
-  {
-   "fp": "claiming covid fauci issues linked miscarriage newly privately publicly released risk show texts vaccine warned",
-   "title": "Fauci privately warned of miscarriage risk linked to COVID vaccine while publicly claiming no issues, newly released texts show",
-   "source": "New York Post",
-   "at": "2026-08-10T18:56:42.591588+00:00"
-  },
-  {
-   "fp": "billion deal financing firms nvidia street strike targeting wall",
-   "title": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion",
-   "source": "WSJ",
-   "at": "2026-08-10T18:56:44.236071+00:00"
-  },
-  {
-   "fp": "flexibility live order research sign trump updates vaccine",
-   "title": "Live updates: Trump set to sign order on vaccine 'flexibility and research'",
-   "source": "The Hill",
-   "at": "2026-08-10T18:56:46.271597+00:00"
-  },
   {
    "fp": "addiction companies court face lawsuits media meta must other rules social tech thousands",
    "title": "US court rules Meta, other tech companies must face thousands of lawsuits over social media addiction",
@@ -3201,12 +3183,27 @@
    "title": "Hawaii declares state of emergency as Tropical Storm Lala closes in on islands",
    "source": "New York Post",
    "at": "2026-08-14T15:25:50.468061+00:00"
+  },
+  {
+   "fp": "economy following holds latest near record street update wall weak",
+   "title": "Wall Street holds near its record following the latest weak update on the US economy",
+   "source": "AP",
+   "at": "2026-08-14T15:51:28.842777+00:00"
+  },
+  {
+   "fp": "backs court exemption minimis rescinding tariff trump",
+   "title": "Court backs Trump on rescinding de minimis tariff exemption",
+   "source": "The Hill",
+   "at": "2026-08-14T15:51:30.519978+00:00"
+  },
+  {
+   "fp": "clacton despite election face farage second",
+   "title": "Why Farage may face a second by-election despite Clacton win",
+   "source": "Sky News",
+   "at": "2026-08-14T15:51:32.230615+00:00"
   }
  ],
  "titles": [
-  "claiming covid fauci issues linked miscarriage newly privately publicly released risk show texts vaccine warned",
-  "billion deal financing firms nvidia street strike targeting wall",
-  "flexibility live order research sign trump updates vaccine",
   "addiction companies court face lawsuits media meta must other rules social tech thousands",
   "billion financing firms nvidia partner source street venture wall",
   "education primary",
@@ -3603,6 +3600,9 @@
   "baseball bertman coach dead duplicated legendary never skip",
   "across croatian europe evacuated greek hundreds resorts stretch wildfires",
   "assigns cartons class eggs highest million nearly recall risk status",
-  "closes declares emergency hawaii islands lala state storm tropical"
+  "closes declares emergency hawaii islands lala state storm tropical",
+  "economy following holds latest near record street update wall weak",
+  "backs court exemption minimis rescinding tariff trump",
+  "clacton despite election face farage second"
  ]
 }
