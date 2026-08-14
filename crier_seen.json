@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/live/2026/aug/06/senators-anthony-fauci-contempt-of-congress-michiganu-democrats-republicans-trump-politics-latest-news-updates",
-  "https://nypost.com/?post_type=article&p=40215021",
-  "https://thehill.com/?p=6012939",
-  "CBMisAFBVV95cUxNd1R4TEFIQVkxS1I2SDdWVUZfalVNQXk2VnNDc1FHUnNYU0xRY3ExT0JiLUp6cDl2N2ZYLUl3UHFlbFUzY2F0MU9iVW9ZRTBTYTIxUWd1RXh0dnY4ZTJPT1Q3cTNFNi1ja2lTVnNsZmZPd09SMFFFMjBUNVJPZWxLVlR6OG9fYk1Cc3Byc3JUY3lTYlhqV2xjRl9RVkFDRnU4Vmx2WkV6R19fcjlHYVZWOQ",
   "https://nypost.com/?post_type=article&p=40214846",
   "https://www.washingtonexaminer.com/?p=4677239",
   "https://www.theguardian.com/us-news/2026/aug/06/wildfire-betting-prediction-markets",
@@ -799,33 +795,13 @@
   "CBMidkFVX3lxTE1ZUFpCTXFnRTNRLTJaeEdsS01oUXNyS3JYUkhQZGM5cDhYZHFhaElxMVVIWlNBTTYzcUNyeU92Qy1kQ3lZRDBILWdGVmY2Rm9OWFlMMjVfaUVBZm5RUGh2WldfZDdOVUtPaXA3Rm41blA1NzBaN3c",
   "https://www.theguardian.com/us-news/2026/aug/14/michael-boren-idaho-wildfire-ranch",
   "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
-  "CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ"
+  "CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ",
+  "CBMiwgFBVV95cUxNRDlheFE0eXlha2U3QTR5TUpFQU5iSFQ5d0NaVXZCdVNxbmI1cVE0emU1ZExfcl9nbDhmb1JFbS04NXQtMk9hVzFVNDZZVXV0cHJEVW5IWUNkbEhGWHhjMGVPRVNweFlmdkhpY1BaYmJDZmRRdzZxaUU0M19aNzBqeVlYY3lnZVlqWTc1WnBRXzRnNjZNdFh1TkR4U1NjWlZSUmF4aElNYngtNmhaSjVSZVIzX05rSzg2QTVhRjlaTVdyQQ",
+  "https://nypost.com/?post_type=article&p=40346681",
+  "https://news.sky.com/story/jason-arday-former-cambridge-university-professor-found-dead-after-resigning-following-plagiarism-row-13573124",
+  "CBMioAFBVV95cUxOSTJuQ0hCM1lDUUZWQTd2N3AxQmdWZFpDSWFLSzhpT0s1Y1pTakg3eGRBZ0FrVzA4a2ktaE9EcEpVS1pJaGdDczVWUDVsZFEzYVQ2Zm56MU81b2hIRERFSkpmcThBZEhId19aSm1oTHE2OFRndVhJTkM2OWZabGZ5U21MejhTTTd0Zzg0UVB6eTJEX0t2QVV2RzJwWWU4OWVk"
  ],
  "posts": [
-  {
-   "fp": "about executive know order trump vaccine",
-   "title": "What to know about Trump's vaccine executive order",
-   "source": "The Hill",
-   "at": "2026-08-11T01:42:58.544826+00:00"
-  },
-  {
-   "fp": "colombia earthquake killed largest least years",
-   "title": "At least 132 killed in Colombia's largest earthquake in years",
-   "source": "BBC World",
-   "at": "2026-08-11T02:29:36.533061+00:00"
-  },
-  {
-   "fp": "aboard assassination catering elude iranian plane plot report snuck truck trump",
-   "title": "Trump snuck aboard plane in catering truck to elude Iranian assassination plot: Report",
-   "source": "Washington Examiner",
-   "at": "2026-08-11T02:29:38.231825+00:00"
-  },
-  {
-   "fp": "demands derail hormuz iran reopening steep strait threaten",
-   "title": "Iran\u2019s steep demands for US over Strait of Hormuz threaten to derail reopening",
-   "source": "The Hill",
-   "at": "2026-08-11T02:29:39.991750+00:00"
-  },
   {
    "fp": "colombia killing least magnitude people quake rocks western",
    "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
@@ -3201,13 +3177,33 @@
    "title": "Associated Press News: Breaking News | Latest News Today",
    "source": "AP",
    "at": "2026-08-14T19:34:17.083436+00:00"
+  },
+  {
+   "fp": "foreign india nuclear opens proven sector technology",
+   "title": "India opens nuclear sector to proven foreign technology",
+   "source": "Reuters World",
+   "at": "2026-08-14T20:06:33.627985+00:00"
+  },
+  {
+   "fp": "alcohol boat charged crash fatal grandfather grandkids homicide impaired jersey killed shore",
+   "title": "Grandfather in fatal Jersey Shore boat crash that killed his two grandkids was \u2018impaired by alcohol,\u2019 charged with homicide",
+   "source": "New York Post",
+   "at": "2026-08-14T20:06:35.485522+00:00"
+  },
+  {
+   "fp": "arday cambridge dead following former found jason plagiarism professor",
+   "title": "Jason Arday, former Cambridge professor found dead following plagiarism row",
+   "source": "Sky News",
+   "at": "2026-08-14T20:06:37.322507+00:00"
+  },
+  {
+   "fp": "colombia deadly earthquake grapples nation rebuilding shattered",
+   "title": "Colombia grapples with rebuilding a shattered nation after a deadly earthquake",
+   "source": "AP",
+   "at": "2026-08-14T20:06:39.016212+00:00"
   }
  ],
  "titles": [
-  "about executive know order trump vaccine",
-  "colombia earthquake killed largest least years",
-  "aboard assassination catering elude iranian plane plot report snuck truck trump",
-  "demands derail hormuz iran reopening steep strait threaten",
   "colombia killing least magnitude people quake rocks western",
   "bold california economic hilton plan socialism spread steve stop unveils",
   "american association childhood criticizes executive medical order schedule trump vaccine",
@@ -3603,6 +3599,10 @@
   "arday dead found jason",
   "chief forest near pressed ranch reportedly service staff support wildfire",
   "approach burnham climate criticised drilling fears heighten north wildfires",
-  "associated breaking latest news press today"
+  "associated breaking latest news press today",
+  "foreign india nuclear opens proven sector technology",
+  "alcohol boat charged crash fatal grandfather grandkids homicide impaired jersey killed shore",
+  "arday cambridge dead following former found jason plagiarism professor",
+  "colombia deadly earthquake grapples nation rebuilding shattered"
  ]
 }
