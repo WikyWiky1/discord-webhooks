@@ -438,9 +438,9 @@
    "message_id": "1537586446146211894",
    "event": "Flash Flood Warning",
    "area": "Clark, NV; Lincoln, NV",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-13T22:19:35+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-14T02:40:09+00:00"
   },
   {
    "id": "urn:oid:2.49.0.1.840.0.e4553db424a31ad6390035d74e85b5bffe6c353f.001.1",
