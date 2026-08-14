@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/aug/05/suspect-washington-state-wildfire",
-  "https://nypost.com/?post_type=article&p=40202870",
   "https://nypost.com/?post_type=article&p=40201304",
   "https://nypost.com/?post_type=article&p=40202116",
   "https://nypost.com/?post_type=article&p=40203910",
@@ -799,21 +797,11 @@
   "https://www.bbc.co.uk/news/articles/cq561gpen8lo#0",
   "CBMiugFBVV95cUxNRGxQNEpxUFR3NkJFN1JaeWxBMU8zVFpqNmJnTmNjcXQ5aWZnLXotc3lmUEw1eVZHS2dNUWxhRWdCdEdlVzVqeWEzMDEzaTRJbTVybFoyV2tyMDhJcGo1X2pZcGtCOEhUblBvekJpVmJkR2lnN1hPaTJlQ2lPRjRYMTRoSFFSZjY3T1VGMXA5OF8yem9aMThuRkgwcjJHdWxUSTY0MVd4WFRybTF5M3E5dFBFSV9QbnU2cXc",
   "CBMivwFBVV95cUxOcXhaR1BaTkNVbC1FZDJuVlp6MDhWSE81U0NHYlB2SElhdUNYTU1oaXhaZ3hOMkdrNWo4VTFSMjlMWWZjMFJqc19KdzAxdXdWTnk2cDVha1VOYWxmRFRGZXFhQlRiMWJVb3FWVG5TMUt5N1JVdEptaldHZ3JZeFNLbU9UM2tXdUZMZi1wU1VyMXItRHI0NjNUODk5V0JNYWRLOVhpdUE0a1BkS1c0M3c4NzlwUHZvRmlkOVJ5dzNlMA",
-  "CBMiswFBVV95cUxOeE1JdmNaby01LWIzcEQ4d18tcDh2SDNJcHpBYlBNcGowdk0ycHFhdGFibnFjTXl6R01PY2FHUkg5Z2RjcWdEaFZnWFRWRXJWMjBIS2w1NjFjU0Q0NEpDLXBCR0VUbUxYcUxENmx3X25KSnNMZlZtV00zZDZ3X1JEeHNHbnlxVTZ4OC1TQ200TDg4LTh5Wk1ocUt6QkhIRUlYOWIxaXJjWXdrZ2FNVTM2ZmU0cw"
+  "CBMiswFBVV95cUxOeE1JdmNaby01LWIzcEQ4d18tcDh2SDNJcHpBYlBNcGowdk0ycHFhdGFibnFjTXl6R01PY2FHUkg5Z2RjcWdEaFZnWFRWRXJWMjBIS2w1NjFjU0Q0NEpDLXBCR0VUbUxYcUxENmx3X25KSnNMZlZtV00zZDZ3X1JEeHNHbnlxVTZ4OC1TQ200TDg4LTh5Wk1ocUt6QkhIRUlYOWIxaXJjWXdrZ2FNVTM2ZmU0cw",
+  "CBMiqwFBVV95cUxOc1Y1Z1dwTi1ldndWcmphLVRBV0ZMSnhGRm5FTmpzVXpiQ01qajJEMU9xcHpNbEthV0NNS29DaVJQYWU2NVVic0VkUFJTcHdGYjJ0dG01Qjh2RlRIbkJPcjlZMWlZSVo1ZzNBSXpON0ZnamFXUEluVTV4b001Vnp6R3VlVGJlTGxhMm5fNXRMN3N6LWdHdXNEenh3MGJPUkQ2RE1LWTdLZ2h5NVU",
+  "https://www.bbc.co.uk/news/articles/c9v42m3430vo#2"
  ],
  "posts": [
-  {
-   "fp": "crash dead three",
-   "title": "Three dead in car crash",
-   "source": "Sky News",
-   "at": "2026-08-10T14:52:12.283281+00:00"
-  },
-  {
-   "fp": "colombia dead earthquake least powerful strikes western",
-   "title": "At least 20 dead as powerful earthquake strikes western Colombia",
-   "source": "Guardian World",
-   "at": "2026-08-10T15:53:38.650529+00:00"
-  },
   {
    "fp": "crew emergency exit felt like lunatic midflight opening passengers plane restrain threatened",
    "title": "Plane passengers restrain lunatic who threatened crew and \u2018felt like\u2019 opening emergency exit midflight",
@@ -3201,11 +3189,21 @@
    "title": "Wildfire descends on Croatian tourist town, injures at least 19",
    "source": "Reuters",
    "at": "2026-08-14T07:52:49.875398+00:00"
+  },
+  {
+   "fp": "four japanese killed rainfall record",
+   "title": "Four killed in record Japanese rainfall",
+   "source": "Telegraph",
+   "at": "2026-08-14T09:01:09.693206+00:00"
+  },
+  {
+   "fp": "another caught colombia deadly disaster fled quakes teens venezuela",
+   "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
+   "source": "BBC World",
+   "at": "2026-08-14T09:01:11.561894+00:00"
   }
  ],
  "titles": [
-  "crash dead three",
-  "colombia dead earthquake least powerful strikes western",
   "crew emergency exit felt like lunatic midflight opening passengers plane restrain threatened",
   "colombia earthquake kills least magnitude massive strikes",
   "animals forest heathland rare ravages threatened wildfire",
@@ -3603,6 +3601,8 @@
   "four japan kill people rains unprecedented",
   "back beats binface count election farage mocked nigel parliament seat widely",
   "avoid binface count election farage nigel reform",
-  "croatian descends injures least tourist town wildfire"
+  "croatian descends injures least tourist town wildfire",
+  "four japanese killed rainfall record",
+  "another caught colombia deadly disaster fled quakes teens venezuela"
  ]
 }
