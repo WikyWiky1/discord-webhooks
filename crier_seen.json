@@ -1,10 +1,5 @@
 {
  "ids": [
-  "CBMigwFBVV95cUxNYVhudzl3bkNNTXhqeXFPa0docnlNMm0zRkgtLUQ3ZGhOY09ZRjBfeV9RMVFwOXJZdnRJMlN2TlYzNi0zWXpKMl9nSU1tTHotVTlfX0JhTU40NDJWanF0OXFuRU9TdnZ0SThRYmxCWG9HNTZwQkE0NjNCUHp2NE8zZEszcw",
-  "https://thehill.com/?p=6012568",
-  "https://thehill.com/?p=6012755",
-  "https://nypost.com/?post_type=article&p=40212331",
-  "https://thehill.com/?p=6012753",
   "https://www.foxnews.com/world/crowded-russian-beach-descends-chaos-alleged-ukrainian-drone-incident-kills-7-including-4-children",
   "CBMiogFBVV95cUxQSEVDRzljTDRYNUR5U2dwV3Y0d1NMbC1ObjJkMUVYZkhFelR5RFRuMEZXM2w4SXMtME9pYlE0ekwxN0U1ZFZqU2JyNkVVTXluaGEwVlcwTmZBWjRfN3duSDRDaF9lWFNvZEl4dXBkYzc2YnZVSjhPd2NCaXJPYk16dGhWdl92QnVwSHlBZkFlcjA5eUxRcmpfNzdHeGtWMEtQalE",
   "CBMiqAFBVV95cUxQbXVDUWUzWmlqS09tY3VqRWhJVE8wQUYzUUxHaVNhQWp5NUJIQWFIc19hNXR3TXZjM3dTaFdIeGJkWUtlT05RbDJJdmR3YmduNl9XY3phU0VPNVl3M2xFbXNUM1lUREJZQ0pOWkpJSmp5NkVOTUREdi1IREtPMzhYQlB2a1hVN2t1SDBWb0gwUFBONjZkMElmcTRmODE4YzY2cktyc2xfcWU",
@@ -799,39 +794,14 @@
   "https://news.sky.com/story/why-farage-may-face-a-second-by-election-despite-clacton-win-13572954",
   "https://thehill.com/?p=6029930",
   "CBMipAFBVV95cUxOZElSWnU4T2dkdF8wdmI0RFhyVGpXUXlNb0FTdXg2dEtDYnBabEIzbW1uTFdwZjFkN0FuVW5LajJCTXF3NW81eGpLd2EtSnpfQ1JTdGM3ZWZZOHlYTEsySWFwZ2l5NTRnR05FZVZIN0F5dzI2Yk12Tnk2ZXhxd1ZuNUU0MUZpdDRSQjc2MUNTc2NjZXFsVzc1RnVWUWQtd0pNbUxpRA",
-  "https://thehill.com/?p=6029854"
+  "https://thehill.com/?p=6029854",
+  "https://www.washingtonexaminer.com/?p=4683026",
+  "https://www.theguardian.com/us-news/live/2026/aug/14/luigi-mangione-court-plea-deal-ceo-killing-live",
+  "https://www.theguardian.com/uk-news/2026/aug/14/train-derails-near-essex-town-of-wickford",
+  "https://www.theguardian.com/environment/2026/aug/14/stourbridge-wildfires-climate-change",
+  "CBMiqAFBVV95cUxQUHJKakZQVFZXSVozZVdiZ0Q0NkNvQXJMUmE1VkV6YlVNSDRDMFJFVWE1bFByZ01SdXdPMEJ3RUVDNUpmNnZQdGZzYzZwLU9MNUVIckxSQzk1MVRzUkEyb2pPNWV0bW9CSkc1QnpSRm4xVlFMMmEzdFVpYnlpaWxWN0J3elFCYTFlQnJxdllXeGZzVGdPdFlIal9yODRzOGlvbzNneFBWQzY"
  ],
  "posts": [
-  {
-   "fp": "baby boat captain killed much slams survivor tragedy weight",
-   "title": "Survivor of NYC boat tragedy that killed mom, baby slams captain: \u2018It was too much weight\u2019",
-   "source": "New York Post",
-   "at": "2026-08-10T19:50:17.808385+00:00"
-  },
-  {
-   "fp": "colombia deadly destruction earthquake hits leaving magnitude photos widespread",
-   "title": "Deadly 7.4-magnitude earthquake hits Colombia, leaving widespread destruction, in photos",
-   "source": "AP",
-   "at": "2026-08-10T19:50:19.540749+00:00"
-  },
-  {
-   "fp": "equip firefighters growing national priority threat wildfire",
-   "title": "\u2018National priority\u2019 to equip UK firefighters amid growing wildfire threat",
-   "source": "Guardian World",
-   "at": "2026-08-10T19:50:21.169074+00:00"
-  },
-  {
-   "fp": "arrest behavior bride drunkenly exposes killed post ridiculous video wedding woman",
-   "title": "New video exposes ridiculous post-arrest behavior of NJ woman who drunkenly killed bride on her wedding day",
-   "source": "New York Post",
-   "at": "2026-08-10T20:34:15.676871+00:00"
-  },
-  {
-   "fp": "care clancy defense kids killed lawyer lindsay psychiatrist takes",
-   "title": "Defense lawyer takes aim at psychiatrist\u2019s care before Lindsay Clancy killed her 3 kids",
-   "source": "AP",
-   "at": "2026-08-10T20:34:17.437082+00:00"
-  },
   {
    "fp": "anti attack films hospital innocent rushed shocking videos workers",
    "title": "Anti-ICE mob films attack on innocent workers in shocking videos \u2013 two rushed to hospital",
@@ -3201,14 +3171,39 @@
    "title": "Soldiers killed in Fort Hood chopper crash identified",
    "source": "The Hill",
    "at": "2026-08-14T16:28:04.118130+00:00"
+  },
+  {
+   "fp": "assassinate desperate donald iran trump",
+   "title": "Why Iran is so desperate to assassinate Donald Trump",
+   "source": "Washington Examiner",
+   "at": "2026-08-14T17:33:43.993206+00:00"
+  },
+  {
+   "fp": "admits brian charges federal guilty healthcare live luigi mangione pleads shooting thompson",
+   "title": "Luigi Mangione admits shooting healthcare CEO Brian Thompson and pleads guilty on federal charges \u2013 live",
+   "source": "Guardian World",
+   "at": "2026-08-14T17:33:45.751318+00:00"
+  },
+  {
+   "fp": "acknowledges challenges derailment exceptional extreme heat hours national rail second train",
+   "title": "National Rail acknowledges \u2018exceptional challenges\u2019 of extreme heat after second train derailment in 24 hours",
+   "source": "Guardian World",
+   "at": "2026-08-14T17:33:47.554224+00:00"
+  },
+  {
+   "fp": "climate people stourbridge town wildfires",
+   "title": "\u2018It\u2019s due to climate\u2019: the people of Stourbridge on the town\u2019s wildfires",
+   "source": "Guardian World",
+   "at": "2026-08-14T17:33:49.394448+00:00"
+  },
+  {
+   "fp": "army crash fort helicopter hood identifies killed pilots",
+   "title": "Army identifies 2 Fort Hood helicopter pilots killed in crash",
+   "source": "AP",
+   "at": "2026-08-14T17:33:51.095134+00:00"
   }
  ],
  "titles": [
-  "baby boat captain killed much slams survivor tragedy weight",
-  "colombia deadly destruction earthquake hits leaving magnitude photos widespread",
-  "equip firefighters growing national priority threat wildfire",
-  "arrest behavior bride drunkenly exposes killed post ridiculous video wedding woman",
-  "care clancy defense kids killed lawyer lindsay psychiatrist takes",
   "anti attack films hospital innocent rushed shocking videos workers",
   "british canada columbia displace kill military puts standby thousands wildfires",
   "california colombia earthquake massive reveals struck terror trapped",
@@ -3603,6 +3598,11 @@
   "clacton despite election face farage second",
   "charges federal guilty mangione pleads shooting unitedhealthcare",
   "11th century kings monastery moves remains spain surround wildfires",
-  "chopper crash fort hood identified killed soldiers"
+  "chopper crash fort hood identified killed soldiers",
+  "assassinate desperate donald iran trump",
+  "admits brian charges federal guilty healthcare live luigi mangione pleads shooting thompson",
+  "acknowledges challenges derailment exceptional extreme heat hours national rail second train",
+  "climate people stourbridge town wildfires",
+  "army crash fort helicopter hood identifies killed pilots"
  ]
 }
