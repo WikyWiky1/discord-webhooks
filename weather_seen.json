@@ -684,6 +684,15 @@
    "expired": false,
    "posted_at": "2026-08-15T19:35:48+00:00",
    "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.fe2df843552e9cdd507dbf37a1c81581978dcc14.001.1",
+   "message_id": "1538274816744882279",
+   "event": "Severe Thunderstorm Warning",
+   "area": "San Bernardino, CA; Clark, NV",
+   "expired": false,
+   "posted_at": "2026-08-15T19:54:56+00:00",
+   "expired_at": null
   }
  ]
 }
