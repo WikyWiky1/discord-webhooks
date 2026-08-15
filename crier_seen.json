@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6015981",
   "https://www.washingtonexaminer.com/?p=4678328",
   "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
   "CBMitwFBVV95cUxPUks4b2Fka2UwQVNGMXhQdnpVN0Jya2xIMGh2WHJmUnJXblRRQndFbjFQRlNTU0dEUGp6ZWhKUEp1QW0tVTVHMTZRXzlENW9RSWN2QVlVWS04ZFZOSVljQkhiVHoya0JZSnVBQUlGUFJKZmliNWZBM0tSYTlEcG9nZDJZSzlMUVdZYjlTenM2OUs3MnJHdTdxZ01IejhNZ1hXTWQ1OTJaT0U2R2JRLVRXNXVZVjlXc0E",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/us-news/2026/aug/15/egg-recall-us-south-and-south-west-salmonella-outbreak",
   "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
   "https://nypost.com/?post_type=article&p=40356866",
-  "https://nypost.com/?post_type=article&p=40355103"
+  "https://nypost.com/?post_type=article&p=40355103",
+  "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#1"
  ],
  "posts": [
-  {
-   "fp": "attack council dumped four hopeful issues mayoral nithya president raman role scathing word",
-   "title": "LA council president issues scathing four-word attack on mayoral hopeful Nithya Raman after she was dumped from top role",
-   "source": "New York Post",
-   "at": "2026-08-11T17:14:15.736484+00:00"
-  },
   {
    "fp": "building chicago custodians dead elementary fired found inside school shots",
    "title": "Two custodians found dead in Chicago elementary school after \u2018shots fired inside building\u2019",
@@ -3201,10 +3195,15 @@
    "title": "New Iranian billboard depicts dead US soldier on shore of Strait of Hormuz",
    "source": "New York Post",
    "at": "2026-08-15T17:53:49.351381+00:00"
+  },
+  {
+   "fp": "battle belgian firefighters nature reserve tearing through wildfire",
+   "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+   "source": "BBC World",
+   "at": "2026-08-15T18:17:51.214667+00:00"
   }
  ],
  "titles": [
-  "attack council dumped four hopeful issues mayoral nithya president raman role scathing word",
   "building chicago custodians dead elementary fired found inside school shots",
   "aircraft assassination attempt breaking down involved iranian plan thwart trump",
   "accuse anti attack chaos dems devolves full muslim name panel sayed using",
@@ -3603,6 +3602,7 @@
   "massive outbreak recall salmonella south west",
   "alarm alarmed alert message people phones react severe wildfires",
   "called despite family hero maniac michigan police several shooting shot spree survivor times",
-  "billboard dead depicts hormuz iranian shore soldier strait"
+  "billboard dead depicts hormuz iranian shore soldier strait",
+  "battle belgian firefighters nature reserve tearing through wildfire"
  ]
 }
