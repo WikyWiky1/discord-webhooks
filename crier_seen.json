@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMivwFBVV95cUxOZVV0a3F4WUVuVi1vLTBHYzhxaHo0alduWmZDX3habThUSnFrb1RDUFo5bWkwdVVlUG03TkNCbkZKQzRDY2tMVmsycVRWTW9pejJrc1Y4RjQ3UGpzR2ozbl9tVzZ5T3d1OVh4c2p5WEM4cXRkMTg5bzcycnVhT3c1RzZmV2VXUFpJd0luV2FDYXBCdUh2TlZQNUpoTHg2T1U4MVlNbVZjbzdNVFpxdGYwTERDYnhxSm1KNHZlMGtYQQ",
-  "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
   "CBMirwFBVV95cUxQdjRPZGpHWm04NkhRSUg5ekVfUnd2TTY3RjU5bU9rV0Yyd29sd25BT0J5N0dwWW9aRzVxX2t6QURHTzZ1OF9tS28wMFFFVmhxZ3h2d2pzUUU5VkpDNDVOaHAwZFUtMHlBRVdXUXBBVTlraXQ4ZnQ0RlhhV2c1ZXB0Z0IzcXdtTUx2UkZKQ0FtdmE1Zm5fTkxucnh3aFd5X3ZrOHhoZ0VPanB4V0luQ21z",
   "CBMimgFBVV95cUxNLTJqbUlVLUYyTnE1VEkycHVkUTVReGJmR1liUG9DajNoa0E5MkFsaFpFWHBCbm5sRVJMcVVkYnh2NFA0ZVpxSFNnMG9mbkRDNWloWDU0c0RoRnpyQlB1cGlZNVdDM3NzaS1BU0pVSWFyMmE5VE5xX0FsMFg1TDRyUFR4ZzF5VEU2MWM3cE5iREswMDFEbkMyN2RB",
   "CBMimgFBVV95cUxQeU5NZnNvRFR5aUlGbzMtYWJWdy0tYVRVMG5BQkFjODE0akVXbmxsNk9XcnZBaEY2NXdrbmNFZDU3anlBQm12alB0VEl1dHdLV1ZBX3UtWjRpb0p6VTFlMVhzM29mOGRxTTZ2RHRkWFpyYS0zUlRxejdzdmNrR1A4YUhKOUtHMW1YVHdsTm4yZW9aZXpIbDNZV0JR",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40354464",
   "CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3",
   "https://www.theguardian.com/business/2026/aug/15/uk-ev-battery-gigafactory-aesc-jaguar-land-rover-nissan",
-  "https://pagesix.com/?post_type=article&p=9112252"
+  "https://pagesix.com/?post_type=article&p=9112252",
+  "https://nypost.com/?post_type=article&p=40306918",
+  "https://nypost.com/?post_type=article&p=40354525"
  ],
  "posts": [
-  {
-   "fp": "attack drone petrochemical plant russia shut siberia sibur sources western",
-   "title": "Russia's Sibur petrochemical plant in western Siberia shut after drone attack, sources say",
-   "source": "Reuters",
-   "at": "2026-08-11T15:17:19.877124+00:00"
-  },
-  {
-   "fp": "africa artisanal collapse illicit killed least mine miners south",
-   "title": "At least 14 artisanal miners killed in collapse at an illicit mine in South Africa",
-   "source": "AP",
-   "at": "2026-08-11T15:17:21.584382+00:00"
-  },
   {
    "fp": "california evacuation fire grows orders sees timber",
    "title": "California\u2019s Big Sur sees evacuation orders as Timber fire grows",
@@ -3201,11 +3189,21 @@
    "title": "\u2018X-Men\u2019 unveils Inde Navarrette, Adam Driver as part of star-studded cast at D23 Showcase",
    "source": "New York Post",
    "at": "2026-08-15T12:36:26.555333+00:00"
+  },
+  {
+   "fp": "accused boat days dead death designer found fraud harassed montauk owner reveal texts yacht",
+   "title": "NYC designer found dead on Montauk yacht \u2018harassed\u2019 and accused of fraud by boat owner days before death, texts reveal",
+   "source": "New York Post",
+   "at": "2026-08-15T13:12:47.165270+00:00"
+  },
+  {
+   "fp": "control domestic fight gunman killed maniac spins texas woman",
+   "title": "Texas woman killed by maniac gunman after domestic fight spins out of control",
+   "source": "New York Post",
+   "at": "2026-08-15T13:12:48.886800+00:00"
   }
  ],
  "titles": [
-  "attack drone petrochemical plant russia shut siberia sibur sources western",
-  "africa artisanal collapse illicit killed least mine miners south",
   "california evacuation fire grows orders sees timber",
   "africa collapse dump illegal kills mine miners police south",
   "attacks gulf killed ships sources three",
@@ -3603,6 +3601,8 @@
   "campus leaves lockdown mass puts several shooting state university virginia wounded",
   "attacked east hormuz israeli kills lebanon middle news other strike vessel",
   "battery biggest expansion gigafactory jaguar land rover shelves stall talks",
-  "adam cast driver inde navarrette part showcase star studded unveils"
+  "adam cast driver inde navarrette part showcase star studded unveils",
+  "accused boat days dead death designer found fraud harassed montauk owner reveal texts yacht",
+  "control domestic fight gunman killed maniac spins texas woman"
  ]
 }
