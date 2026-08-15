@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://pagesix.com/?post_type=article&p=9097632",
-  "https://pagesix.com/?post_type=article&p=9097099",
   "CBMinwFBVV95cUxOWTJWaTZJVmF2Zm1DNDdfSDY5RzZBcVpLRjhPWjZtSjFnZUhoU0Z0cTMza3J0MGxoNnZjVFMycjdLWUV0a1ZoQUFNTHNJd2k1RHZoUW81VTFWRlhwYUExSHlmX29ZQkxvdWlmcnhRT2E4cmlNcVFqYUtTLXJjbmZjMjJfcmk3U00tU2FENjcyXzFmbk4ydTVSS2t5ZGpNR0U",
   "https://news.sky.com/story/man-admits-hiding-fatal-arson-attack-suspect-body-in-bin-in-liverpool-13570722",
   "CBMirwFBVV95cUxOcmlwdEhBUnJqS3JfdVRZN3JnZ0RqS2RvZ09BUHRkMEdRTjVVMGttaGo2Sl94SWlnbnJXLWhhYlpsck0tSVN6TWdEQTBJYnFzSnhadWd1eDJVODhCNU1TYkh5VTBLVFhCRFFrM0RtR01EU1kzR3hPRlo1MGJhREM3Q1hnd3FybVB2LTdHTV9sc0ZnbC1pMmZXOTd2NW5HY3JuZFdjT2tjdEc2UHZVSUo4",
@@ -799,21 +797,11 @@
   "https://www.washingtonexaminer.com/?p=4685985",
   "https://thehill.com/?p=6028298",
   "CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ",
-  "CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA"
+  "CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA",
+  "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
+  "https://www.bbc.co.uk/news/articles/cgjee21eenvo#1"
  ],
  "posts": [
-  {
-   "fp": "bronin challenge connecticut faces house larson live primary race results",
-   "title": "Live results: Larson faces primary challenge from Bronin in Connecticut House race",
-   "source": "The Hill",
-   "at": "2026-08-11T21:46:39.060565+00:00"
-  },
-  {
-   "fp": "carolina crowded field graham live nominee replace results senate south vies",
-   "title": "Live results: Crowded field vies to replace Graham as GOP's Senate nominee in South Carolina",
-   "source": "The Hill",
-   "at": "2026-08-11T21:46:40.762455+00:00"
-  },
   {
    "fp": "latest move parents questions trump vaccine",
    "title": "5 questions parents may have after Trump's latest vaccine move",
@@ -3201,11 +3189,21 @@
    "title": "World News: Top & Breaking World News Today",
    "source": "AP",
    "at": "2026-08-15T21:37:16.727749+00:00"
+  },
+  {
+   "fp": "earthquake indonesia powerful rescuers search survivors",
+   "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+   "source": "BBC World",
+   "at": "2026-08-15T21:53:34.689297+00:00"
+  },
+  {
+   "fp": "attack australian beach bondi buyback launch state",
+   "title": "Australian state to launch gun buyback after Bondi Beach attack",
+   "source": "BBC World",
+   "at": "2026-08-15T21:53:36.381570+00:00"
   }
  ],
  "titles": [
-  "bronin challenge connecticut faces house larson live primary race results",
-  "carolina crowded field graham live nominee replace results senate south vies",
   "latest move parents questions trump vaccine",
   "down ends fades iran optimism peace street wall",
   "finds hundreds killed last pentagon strikes wounded year yemen",
@@ -3603,6 +3601,8 @@
   "2028 approves carolina gives primary schedule south spot",
   "2028 approval calendar carolina final gives primary south starting",
   "bodies colombia days fade hopes powerful quake recovered",
-  "breaking news today world"
+  "breaking news today world",
+  "earthquake indonesia powerful rescuers search survivors",
+  "attack australian beach bondi buyback launch state"
  ]
 }
