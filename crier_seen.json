@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiwAFBVV95cUxNZS10NkNDSzZNU0hhVHhjcVJ5RFN1YUVXVFl4Skt5bEd6cDE4RDE1NDNKc2E5OXVIV01SWEVDN28xQTBFLWp5MWc3aW44OVBuaXNOZVR0dk5nWF8wR1NKRkdEOXFOaGphdnVFZmlYQ0xGSW8wYnplMi1nSzZDVDdTV21obTBoREpmcjBXZ1N0S1FVVEw3TG01Q2FKRXlEckxyb3k1NFdobFBDUTUxRjRHcmZQSVNXRlFCODhScUJYMFU",
-  "https://www.theguardian.com/society/2026/aug/07/english-primary-schools-to-be-told-to-identify-children-at-risk-of-future-unemployment",
   "CBMimwFBVV95cUxOX2xvZUJwYnNoTkpuRXVMM056cXZBRzFadUIySTRTRFBENlBOa2plYkQ5M0pBZkFOVGdnMk1ieV9qT2hMYlotSk9LQng3UktZTy1nQmJ3b04zVFZPd1FWMkFvbW9TaW5SV29RcVRmVEV6LVFUTzlSd193RDJLN1B6Z2U3b2hvRldZNWU3YkgtM1FMMnp1WWdqTTB0WQ",
   "CBMirwFBVV95cUxPYkFLaGF5akhJdUZnTk9pcGVKdVNvUXBfZW5iZlhKMnZNS0NpR3BBWTdLSDZmcFg3WEczXzlBZFhPcThXZlhwRDlZVVYzbU80TEE4NWRrYmEtNEN5TVpWUk5jZ3ZzTVNMUFdBLUFHcFFJMVRHd1UtTHk1NTduNFNyTDRwbzRLaWdvSHkxbjdmRGdFdjIwUXpEd0V5NHJkVDdrMnRjYTdoSnNCUTNyUDJV",
   "CBMivwFBVV95cUxOZVV0a3F4WUVuVi1vLTBHYzhxaHo0alduWmZDX3habThUSnFrb1RDUFo5bWkwdVVlUG03TkNCbkZKQzRDY2tMVmsycVRWTW9pejJrc1Y4RjQ3UGpzR2ozbl9tVzZ5T3d1OVh4c2p5WEM4cXRkMTg5bzcycnVhT3c1RzZmV2VXUFpJd0luV2FDYXBCdUh2TlZQNUpoTHg2T1U4MVlNbVZjbzdNVFpxdGYwTERDYnhxSm1KNHZlMGtYQQ",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
   "CBMizwFBVV95cUxOLTdwSENKUmJCRWRGbXZmdGY5YU91MnVXRWlHR3BGNV9KOFhYaGZObjhkT1FCTXFub0xZckZrOGsydzIyWGJ2dzU3VWR1cGdfa3lJNHRERGhmVWhFbGpXbjctUkd6Y09BSUlrTmRlNnBsLXNRX08wQUR4c3lNMUZUUjRpYzdwU1NwLWlhbC1Kb3FvVUFrVXl4NjVoaS1oZzVGOTE1QUZ6OGs5WFN3ZkZlTGVHbXA0Zy1xNlhfQXNPR0JaRFVPV21pYkF3WVRFVlU",
   "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo#0",
-  "https://news.sky.com/story/israeli-airstrikes-in-lebanon-kill-nine-people-including-three-children-13573242"
+  "https://news.sky.com/story/israeli-airstrikes-in-lebanon-kill-nine-people-including-three-children-13573242",
+  "https://nypost.com/?post_type=article&p=40354464",
+  "CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3"
  ],
  "posts": [
-  {
-   "fp": "colombia earthquake films home massive reporter rocks ruins",
-   "title": "TV reporter films her home in ruins as massive earthquake rocks Colombia",
-   "source": "Telegraph",
-   "at": "2026-08-11T14:02:54.357755+00:00"
-  },
-  {
-   "fp": "mass permits shooting suspends thailand",
-   "title": "Thailand suspends new gun permits after mass shooting",
-   "source": "BBC World",
-   "at": "2026-08-11T15:17:14.775144+00:00"
-  },
   {
    "fp": "across another attack beverly hills hollywood internet koreatown vandals west wipe",
    "title": "Vandals wipe out internet across Beverly Hills, West Hollywood and Koreatown in another attack",
@@ -3201,11 +3189,21 @@
    "title": "Israeli airstrikes in Lebanon kill nine people including three children",
    "source": "Sky News",
    "at": "2026-08-15T11:35:31.277692+00:00"
+  },
+  {
+   "fp": "campus leaves lockdown mass puts several shooting state university virginia wounded",
+   "title": "Mass shooting at Virginia State University leaves several wounded, puts campus on lockdown",
+   "source": "New York Post",
+   "at": "2026-08-15T12:22:25.637804+00:00"
+  },
+  {
+   "fp": "attacked east hormuz israeli kills lebanon middle news other strike vessel",
+   "title": "Vessel is attacked in Hormuz, Israeli strike kills 9 in Lebanon, and other news from the Middle East",
+   "source": "AP",
+   "at": "2026-08-15T12:22:27.357134+00:00"
   }
  ],
  "titles": [
-  "colombia earthquake films home massive reporter rocks ruins",
-  "mass permits shooting suspends thailand",
   "across another attack beverly hills hollywood internet koreatown vandals west wipe",
   "airlines american emergency engine flames landing makes mayday plane shoot",
   "attack drone petrochemical plant russia shut siberia sibur sources western",
@@ -3603,6 +3601,8 @@
   "israeli june kill lebanon nine since south strikes toll worst",
   "capital filing holdings initiates sells semi shows softbank stake taiwan",
   "country israeli killed lebanon seven southern strike",
-  "airstrikes children including israeli kill lebanon nine people three"
+  "airstrikes children including israeli kill lebanon nine people three",
+  "campus leaves lockdown mass puts several shooting state university virginia wounded",
+  "attacked east hormuz israeli kills lebanon middle news other strike vessel"
  ]
 }
