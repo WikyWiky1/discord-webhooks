@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMie0FVX3lxTFBnWUpWWUJPUlJ2Rmk0X092anZhTWVjYkF2U3k5MDUzN2M3dk1qdW5RalNxNjJCT0hWT3hSc0MtTTdOZ0RZSldSVFZzS0RyX2MxckdNVGFINmMyZEQxSUJjd1hzU1hZZ2hBdXI4SmpfYWtSNjBhdG10TENhWQ",
   "https://thehill.com/?p=6015291",
   "https://thehill.com/?p=6015981",
   "https://www.washingtonexaminer.com/?p=4678328",
@@ -799,15 +798,10 @@
   "CBMiqAFBVV95cUxNUVlJUzBhcmdocU1lR3phY3JlcHpNb3hhWGdKcmJtSHA5MUhzN1ZXc2JpZll6OV9wWkJLNGhzWXRyVlVsdkJmU0ZlZTlpMTRNbWliSVJJdXA3MUtmUWFiV0ZSTEROa1VpT3FTWG04T21TWUkydjNyNEx0SWZwVGROUzhUaWxQNWQ4YnczQmNhUTdhQzBvX2UtT0dOY0lDLS1vMk1TMlNGZ2I",
   "CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw",
   "https://www.theguardian.com/us-news/2026/aug/15/egg-recall-us-south-and-south-west-salmonella-outbreak",
-  "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires"
+  "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
+  "https://nypost.com/?post_type=article&p=40356866"
  ],
  "posts": [
-  {
-   "fp": "evacuations explodes luxury raging resort size wildfire",
-   "title": "Evacuations at luxury Big Sur resort as raging wildfire explodes in size",
-   "source": "New York Post",
-   "at": "2026-08-11T17:14:11.964438+00:00"
-  },
   {
    "fp": "blazing college dead fight fresno graduate house party shot woman",
    "title": "College graduate, 26, shot dead at Fresno house party after blazing fight with woman",
@@ -3201,10 +3195,15 @@
    "title": "Alarmed by the alarm: people react to \u2018severe alert\u2019 on phones with message on UK wildfires",
    "source": "Guardian World",
    "at": "2026-08-15T16:15:55.218914+00:00"
+  },
+  {
+   "fp": "called despite family hero maniac michigan police several shooting shot spree survivor times",
+   "title": "Hero survivor, 13, of Michigan maniac\u2019s shooting spree called 911 despite being shot several times: police, family",
+   "source": "New York Post",
+   "at": "2026-08-15T17:36:53.805637+00:00"
   }
  ],
  "titles": [
-  "evacuations explodes luxury raging resort size wildfire",
   "blazing college dead fight fresno graduate house party shot woman",
   "attack council dumped four hopeful issues mayoral nithya president raman role scathing word",
   "building chicago custodians dead elementary fired found inside school shots",
@@ -3603,6 +3602,7 @@
   "aircraft begin belgium evacuations fights record sends wildfire",
   "israeli kills lebanon news reports seven south state strike",
   "massive outbreak recall salmonella south west",
-  "alarm alarmed alert message people phones react severe wildfires"
+  "alarm alarmed alert message people phones react severe wildfires",
+  "called despite family hero maniac michigan police several shooting shot spree survivor times"
  ]
 }
