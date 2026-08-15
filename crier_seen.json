@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4678673",
   "https://thehill.com/?p=5972642",
   "https://www.bbc.co.uk/news/articles/cdrvn686dljo#1",
   "https://nypost.com/?post_type=article&p=40228537",
@@ -799,15 +798,10 @@
   "CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw",
   "https://news.sky.com/story/indonesia-powerful-77-magnitude-earthquake-damage-13573197",
   "https://nypost.com/?post_type=article&p=40352866",
-  "CBMimwFBVV95cUxPaDUxT0h1MF9qdjNxUFBqZkJRX0xldzhyeU9UUlJyLVAzcWZxeEZkM0o1YlZSS2tsa2p6SU5QWll0SkE0LTJXajZ3QURrTGJUTTVTSmRHY05OMkxRVTQwZkp0cFFWUGxhYWNOcDV4dVM1c2U1VENOQS1vVG1qSnBmVzh6TWxpVjBmOWJqQXVIb2VwX2JjMnhXR29QVQ"
+  "CBMimwFBVV95cUxPaDUxT0h1MF9qdjNxUFBqZkJRX0xldzhyeU9UUlJyLVAzcWZxeEZkM0o1YlZSS2tsa2p6SU5QWll0SkE0LTJXajZ3QURrTGJUTTVTSmRHY05OMkxRVTQwZkp0cFFWUGxhYWNOcDV4dVM1c2U1VENOQS1vVG1qSnBmVzh6TWxpVjBmOWJqQXVIb2VwX2JjMnhXR29QVQ",
+  "https://nypost.com/?post_type=article&p=40353044"
  ],
  "posts": [
-  {
-   "fp": "aerial attacks getting help kill korea moscow north russian ukraine warns zelenskyy",
-   "title": "Russian aerial attacks kill 9 in Ukraine as Zelenskyy warns Moscow is getting more North Korea help",
-   "source": "AP",
-   "at": "2026-08-11T12:27:30.918217+00:00"
-  },
   {
    "fp": "bank benchmark interest leaves mexico rate unchanged",
    "title": "Bank of Mexico Leaves Benchmark Interest Rate Unchanged",
@@ -3201,10 +3195,15 @@
    "title": "Dr. Anthony Fauci declines request to appear before a second Senate panel after GOP contempt vote",
    "source": "AP",
    "at": "2026-08-15T03:38:17.963279+00:00"
+  },
+  {
+   "fp": "antisemitic attack congregant guard headbutts lunatic nypd punches security spits synagogue",
+   "title": "Lunatic punches NYC synagogue congregant, headbutts and spits at security guard in antisemitic attack: NYPD",
+   "source": "New York Post",
+   "at": "2026-08-15T04:07:01.790463+00:00"
   }
  ],
  "titles": [
-  "aerial attacks getting help kill korea moscow north russian ukraine warns zelenskyy",
   "bank benchmark interest leaves mexico rate unchanged",
   "blake dave dodgers mission pitcher roberts snell starting",
   "carolina graham inherit lindsey republicans senate should sister south vote",
@@ -3603,6 +3602,7 @@
   "buildings coast earthquake indonesia killing least magnitude strikes toppling",
   "earthquake indonesia magnitude powerful strikes",
   "ahead alaska democrat down harris kamala primary senate support turns",
-  "anthony appear contempt declines fauci panel request second senate vote"
+  "anthony appear contempt declines fauci panel request second senate vote",
+  "antisemitic attack congregant guard headbutts lunatic nypd punches security spits synagogue"
  ]
 }
