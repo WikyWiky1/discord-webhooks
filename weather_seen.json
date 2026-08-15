@@ -510,9 +510,9 @@
    "message_id": "1537915753293029417",
    "event": "Extreme Heat Warning",
    "area": "Ellsworth; Saline; Rice; McPherson; Marion; Chase; Reno; Harvey; Butler; Greenwood; Woodson; Allen; Kingman; Sedgwick; Harper; Sumner; Cowley; Elk; Wilson; Neosho; Chautauqua; Montgomery; Labette",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-14T20:08:08+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-15T07:01:39+00:00"
   },
   {
    "id": "urn:oid:2.49.0.1.840.0.8b937384d1d25134b1dce60c442a4c0c0e2be55a.001.1",
@@ -627,9 +627,9 @@
    "message_id": "1538045962138689607",
    "event": "Flood Warning",
    "area": "Mohave, AZ; Clark, NV",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-15T04:45:33+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-15T07:01:41+00:00"
   },
   {
    "id": "urn:oid:2.49.0.1.840.0.fd6ae91a5540dc0699755cadb3f2a2ee1e2de44c.001.1",
@@ -639,6 +639,24 @@
    "expired": true,
    "posted_at": "2026-08-15T05:12:22+00:00",
    "expired_at": "2026-08-15T05:44:32+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.018dd049861b94ebfb760c7509440a34882ddc8a.001.1",
+   "message_id": "1538080201047670795",
+   "event": "Flood Warning",
+   "area": "Mohave, AZ; Clark, NV",
+   "expired": false,
+   "posted_at": "2026-08-15T07:01:36+00:00",
+   "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.e2749988730d264c1662037a97d675fa055994f5.001.1",
+   "message_id": "1538080209151066124",
+   "event": "Extreme Heat Warning",
+   "area": "Ellsworth; Saline; Rice; McPherson; Marion; Chase; Reno; Harvey; Butler; Greenwood; Woodson; Allen; Kingman; Sedgwick; Harper; Sumner; Cowley; Elk; Wilson; Neosho; Chautauqua; Montgomery; Labette",
+   "expired": false,
+   "posted_at": "2026-08-15T07:01:38+00:00",
+   "expired_at": null
   }
  ]
 }
