@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo#1",
-  "https://nypost.com/?post_type=article&p=40222422",
   "https://www.washingtonexaminer.com/?p=4678622",
   "https://thehill.com/?p=6000724",
   "https://www.washingtonexaminer.com/?p=4678673",
@@ -799,21 +797,11 @@
   "CBMiiwFBVV95cUxNQjdWM3ZJQ3M4amVyYXhtdHlQSndrUkZuQzl3ZkFMLTBtN19QRVNvejB3NF9PQkl0TUdRSEFNendUZ1JIOEJrLXB3VS10STRNVHRhQXZqVTEyN1pMMG5GYV9BVVZ6eUFna1lpcFROcXVxTFhmXzBPUk9BNnRoLTRiaDJWX2xfdTY0ZGhR",
   "https://thehill.com/?p=6031052",
   "CBMiigFBVV95cUxNOHlKTU5mZV9URk9aR092d3pteDlhVUtkMzFnV2hpQVVNdWZvT2VjQzk2Sm5hQjNIOEhDaWVub3hwTnR1UjN0UDA1eU5SU3hySGoybENYZElaQ2ZMNjFlUE1EQmRUVVpzV3VuZkhWUXllMEs4MnhRUFhyMHoxTVoyaDBnMC1BTHYwQmc",
-  "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake"
+  "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+  "CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw",
+  "https://news.sky.com/story/indonesia-powerful-77-magnitude-earthquake-damage-13573197"
  ],
  "posts": [
-  {
-   "fp": "congo died ebola fastest growing outbreak people record",
-   "title": "Congo says 2,000 people have died in its Ebola outbreak, the fastest growing on record",
-   "source": "AP",
-   "at": "2026-08-11T11:38:49.383671+00:00"
-  },
-  {
-   "fp": "dogs reveals scientific should smile study",
-   "title": "We should smile at our dogs - a new scientific study reveals why",
-   "source": "BBC Science",
-   "at": "2026-08-11T11:48:53.893443+00:00"
-  },
   {
    "fp": "boyfriend deputy florida kidnapped killed murder shocking suicide",
    "title": "Mom of 2 kidnapped, killed by Florida deputy boyfriend in shocking murder-suicide",
@@ -3201,11 +3189,21 @@
    "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, triggering tsunami warning",
    "source": "Guardian World",
    "at": "2026-08-15T01:20:57.675049+00:00"
+  },
+  {
+   "fp": "buildings coast earthquake indonesia killing least magnitude strikes toppling",
+   "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, toppling buildings and killing at least 2",
+   "source": "AP",
+   "at": "2026-08-15T02:37:06.671080+00:00"
+  },
+  {
+   "fp": "earthquake indonesia magnitude powerful strikes",
+   "title": "Powerful 7.7-magnitude earthquake strikes Indonesia",
+   "source": "Sky News",
+   "at": "2026-08-15T02:37:08.454859+00:00"
   }
  ],
  "titles": [
-  "congo died ebola fastest growing outbreak people record",
-  "dogs reveals scientific should smile study",
   "boyfriend deputy florida kidnapped killed murder shocking suicide",
   "colombia earthquake kills least major reels thing",
   "aerial attacks getting help kill korea moscow north russian ukraine warns zelenskyy",
@@ -3603,6 +3601,8 @@
   "data down retail sales stocks",
   "appeal assassination attempt ballroom force refers threat",
   "dead including killings michigan series suspect",
-  "earthquake eastern indonesia magnitude strikes strong triggering tsunami warning"
+  "earthquake eastern indonesia magnitude strikes strong triggering tsunami warning",
+  "buildings coast earthquake indonesia killing least magnitude strikes toppling",
+  "earthquake indonesia magnitude powerful strikes"
  ]
 }
