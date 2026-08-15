@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4678328",
   "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
   "CBMitwFBVV95cUxPUks4b2Fka2UwQVNGMXhQdnpVN0Jya2xIMGh2WHJmUnJXblRRQndFbjFQRlNTU0dEUGp6ZWhKUEp1QW0tVTVHMTZRXzlENW9RSWN2QVlVWS04ZFZOSVljQkhiVHoya0JZSnVBQUlGUFJKZmliNWZBM0tSYTlEcG9nZDJZSzlMUVdZYjlTenM2OUs3MnJHdTdxZ01IejhNZ1hXTWQ1OTJaT0U2R2JRLVRXNXVZVjlXc0E",
   "https://nypost.com/?post_type=article&p=40233096",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
   "https://nypost.com/?post_type=article&p=40356866",
   "https://nypost.com/?post_type=article&p=40355103",
-  "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#1"
+  "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#1",
+  "https://www.washingtonexaminer.com/?p=4684886"
  ],
  "posts": [
-  {
-   "fp": "building chicago custodians dead elementary fired found inside school shots",
-   "title": "Two custodians found dead in Chicago elementary school after \u2018shots fired inside building\u2019",
-   "source": "New York Post",
-   "at": "2026-08-11T18:08:24.542461+00:00"
-  },
   {
    "fp": "aircraft assassination attempt breaking down involved iranian plan thwart trump",
    "title": "Breaking down the aircraft involved in Trump\u2019s plan to thwart Iranian assassination attempt",
@@ -3201,10 +3195,15 @@
    "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
    "source": "BBC World",
    "at": "2026-08-15T18:17:51.214667+00:00"
+  },
+  {
+   "fp": "beyond clearly eyes ossoff seat senate something",
+   "title": "Jon Ossoff clearly has his eyes on something beyond his Senate seat",
+   "source": "Washington Examiner",
+   "at": "2026-08-15T18:28:59.978285+00:00"
   }
  ],
  "titles": [
-  "building chicago custodians dead elementary fired found inside school shots",
   "aircraft assassination attempt breaking down involved iranian plan thwart trump",
   "accuse anti attack chaos dems devolves full muslim name panel sayed using",
   "attack escalation kills korea missile mocks north preparing reliance russia zelensky",
@@ -3603,6 +3602,7 @@
   "alarm alarmed alert message people phones react severe wildfires",
   "called despite family hero maniac michigan police several shooting shot spree survivor times",
   "billboard dead depicts hormuz iranian shore soldier strait",
-  "battle belgian firefighters nature reserve tearing through wildfire"
+  "battle belgian firefighters nature reserve tearing through wildfire",
+  "beyond clearly eyes ossoff seat senate something"
  ]
 }
