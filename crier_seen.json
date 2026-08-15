@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://news.sky.com/story/man-admits-hiding-fatal-arson-attack-suspect-body-in-bin-in-liverpool-13570722",
   "CBMirwFBVV95cUxOcmlwdEhBUnJqS3JfdVRZN3JnZ0RqS2RvZ09BUHRkMEdRTjVVMGttaGo2Sl94SWlnbnJXLWhhYlpsck0tSVN6TWdEQTBJYnFzSnhadWd1eDJVODhCNU1TYkh5VTBLVFhCRFFrM0RtR01EU1kzR3hPRlo1MGJhREM3Q1hnd3FybVB2LTdHTV9sc0ZnbC1pMmZXOTd2NW5HY3JuZFdjT2tjdEc2UHZVSUo4",
   "CBMivwFBVV95cUxQWURYWkFRQ0h3Sk4tWWFVUlQ2QXk5c09vaWVnSUZGWW1LVjVoT1pHejg2VHpUUUxaM185RENRc3czZjZ2VXpqTjYxRDQ0ejBHd1VMLUlONlpCYnp3UzZ4LVFnak8tdV9PTVkwcFI2TWNNZ1VCelFobU0wVDlDX2RDNmh1Yi1mWnNQd1dEN1NMaFp0LU9rbUJBamxWaE9IMUV6aFVvdG1Cb09mVTFwZ2Jsa0k1M01Qd1o3Rnh1YzhEOA",
   "CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw",
@@ -799,15 +798,10 @@
   "CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA",
   "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
   "https://www.bbc.co.uk/news/articles/cgjee21eenvo#1",
-  "CBMiuAFBVV95cUxNOHhlVGlwSlk2MHRKV1Nxc284MUd1b19BdEFBVVltSUxEX0p0dUtmUW9tTGpvNEhQWmFKdlZrYjkwd1pQU2RvaHl6RFRRQ0gzbXpLWFoxemRIUHpJeXhUYi1SU1pEVWZWVENlLVRiMHlPeV9YdzZwMjkyLVlxN1I1MmU3SWdreUQ0a3JrM3MyOFJWbjdPV29DbVlYb00xZEJleEppY092ZnFRNUJJb2p5bW1FcEI3Si1v"
+  "CBMiuAFBVV95cUxNOHhlVGlwSlk2MHRKV1Nxc284MUd1b19BdEFBVVltSUxEX0p0dUtmUW9tTGpvNEhQWmFKdlZrYjkwd1pQU2RvaHl6RFRRQ0gzbXpLWFoxemRIUHpJeXhUYi1SU1pEVWZWVENlLVRiMHlPeV9YdzZwMjkyLVlxN1I1MmU3SWdreUQ0a3JrM3MyOFJWbjdPV29DbVlYb00xZEJleEppY092ZnFRNUJJb2p5bW1FcEI3Si1v",
+  "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "down ends fades iran optimism peace street wall",
-   "title": "Wall Street ends down as US-Iran peace optimism fades",
-   "source": "Reuters",
-   "at": "2026-08-11T21:46:44.156544+00:00"
-  },
   {
    "fp": "finds hundreds killed last pentagon strikes wounded year yemen",
    "title": "U.S. Strikes on Yemen Last Year Killed and Wounded Hundreds, Pentagon Finds",
@@ -3201,10 +3195,15 @@
    "title": "Six dead in Indiana after storms and floods, emergency officials say\u200b\u200b",
    "source": "Reuters World",
    "at": "2026-08-15T22:40:23.242710+00:00"
+  },
+  {
+   "fp": "agreed attack australia bondi buyback hanson live major news opposes pauline terror wake",
+   "title": "Australia news live: Pauline Hanson opposes major gun buyback agreed in wake of Bondi terror attack",
+   "source": "Guardian World",
+   "at": "2026-08-15T23:13:07.670471+00:00"
   }
  ],
  "titles": [
-  "down ends fades iran optimism peace street wall",
   "finds hundreds killed last pentagon strikes wounded year yemen",
   "anguish brother building colombian earthquake rubble searched survivors",
   "capsizes dead ferry kariba lake least leaving missing people zimbabwe",
@@ -3603,6 +3602,7 @@
   "breaking news today world",
   "earthquake indonesia powerful rescuers search survivors",
   "attack australian beach bondi buyback launch state",
-  "dead emergency floods indiana officials storms"
+  "dead emergency floods indiana officials storms",
+  "agreed attack australia bondi buyback hanson live major news opposes pauline terror wake"
  ]
 }
