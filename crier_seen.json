@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40233762",
-  "https://www.washingtonexaminer.com/?p=4679079",
   "CBMimgFBVV95cUxPb2lDSDVIamFRRWdzU0tlSjVrOHAxN3EtNzItQmVZbmtaZ3VPaHNsVUs1TEl4OFNtaGxDanBQMERJVHh6SWJqN0w3VnhtR2RNZmxNWEsyWkF4dG5iQ3lvU0wyOUhJLWlOWV9wQVhGOUhQMlZDdG5fYU5lMkJWLXRrX1NmYlFaTURXa0xrdE1NamZ4dlBSTjFQYzh3",
   "https://www.washingtonexaminer.com/?p=4679112",
   "https://thehill.com/?p=6016393",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40356370",
   "https://nypost.com/?post_type=article&p=40343869",
   "CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n",
-  "CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc"
+  "CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc",
+  "CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE",
+  "https://nypost.com/?post_type=article&p=40354469"
  ],
  "posts": [
-  {
-   "fp": "fights government importers judge order refunds tariff trade",
-   "title": "Government fights trade judge\u2019s order for tariff refunds to all importers",
-   "source": "AP",
-   "at": "2026-08-11T19:01:47.943665+00:00"
-  },
-  {
-   "fp": "edge lower stocks",
-   "title": "U.S. Stocks Edge Lower",
-   "source": "WSJ",
-   "at": "2026-08-11T19:01:49.695724+00:00"
-  },
   {
    "fp": "drifts high keep near prices street swinging time wall",
    "title": "Wall Street drifts near its all-time high as oil prices keep swinging",
@@ -3201,11 +3189,21 @@
    "title": "Historic flooding prompts evacuations and water rescues in Indiana",
    "source": "AP",
    "at": "2026-08-15T19:16:53.257807+00:00"
+  },
+  {
+   "fp": "bears down hawaii heavy hurricane island lala rain strengthens winds",
+   "title": "Lala strengthens into a hurricane and bears down on Hawaii\u2019s Big Island with heavy rain, winds",
+   "source": "AP",
+   "at": "2026-08-15T19:38:06.254298+00:00"
+  },
+  {
+   "fp": "abuser battle chad child court deranged divorce gunman hickman killed locked michigan records show toxic",
+   "title": "Deranged Michigan gunman Chad Hickman who killed 5 was child abuser, locked in \u2018toxic\u2019 divorce battle, court records show",
+   "source": "New York Post",
+   "at": "2026-08-15T19:38:07.995419+00:00"
   }
  ],
  "titles": [
-  "fights government importers judge order refunds tariff trade",
-  "edge lower stocks",
   "drifts high keep near prices street swinging time wall",
   "colombia dead earthquake rescuers scramble survivors",
   "bacteria death eating flesh rises signs toll vibrio warning watch",
@@ -3603,6 +3601,8 @@
   "both building collapse colombia earthquake loses parents sisters survivor triplet",
   "abandoning bailing companies gavin newsom utility victims wildfire",
   "country israeli kill least lebanon south strikes",
-  "evacuations flooding historic indiana prompts rescues water"
+  "evacuations flooding historic indiana prompts rescues water",
+  "bears down hawaii heavy hurricane island lala rain strengthens winds",
+  "abuser battle chad child court deranged divorce gunman hickman killed locked michigan records show toxic"
  ]
 }
