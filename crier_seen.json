@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMirwFBVV95cUxQdjRPZGpHWm04NkhRSUg5ekVfUnd2TTY3RjU5bU9rV0Yyd29sd25BT0J5N0dwWW9aRzVxX2t6QURHTzZ1OF9tS28wMFFFVmhxZ3h2d2pzUUU5VkpDNDVOaHAwZFUtMHlBRVdXUXBBVTlraXQ4ZnQ0RlhhV2c1ZXB0Z0IzcXdtTUx2UkZKQ0FtdmE1Zm5fTkxucnh3aFd5X3ZrOHhoZ0VPanB4V0luQ21z",
   "CBMimgFBVV95cUxNLTJqbUlVLUYyTnE1VEkycHVkUTVReGJmR1liUG9DajNoa0E5MkFsaFpFWHBCbm5sRVJMcVVkYnh2NFA0ZVpxSFNnMG9mbkRDNWloWDU0c0RoRnpyQlB1cGlZNVdDM3NzaS1BU0pVSWFyMmE5VE5xX0FsMFg1TDRyUFR4ZzF5VEU2MWM3cE5iREswMDFEbkMyN2RB",
   "CBMimgFBVV95cUxQeU5NZnNvRFR5aUlGbzMtYWJWdy0tYVRVMG5BQkFjODE0akVXbmxsNk9XcnZBaEY2NXdrbmNFZDU3anlBQm12alB0VEl1dHdLV1ZBX3UtWjRpb0p6VTFlMVhzM29mOGRxTTZ2RHRkWFpyYS0zUlRxejdzdmNrR1A4YUhKOUtHMW1YVHdsTm4yZW9aZXpIbDNZV0JR",
   "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/business/2026/aug/15/uk-ev-battery-gigafactory-aesc-jaguar-land-rover-nissan",
   "https://pagesix.com/?post_type=article&p=9112252",
   "https://nypost.com/?post_type=article&p=40306918",
-  "https://nypost.com/?post_type=article&p=40354525"
+  "https://nypost.com/?post_type=article&p=40354525",
+  "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting"
  ],
  "posts": [
-  {
-   "fp": "california evacuation fire grows orders sees timber",
-   "title": "California\u2019s Big Sur sees evacuation orders as Timber fire grows",
-   "source": "Guardian World",
-   "at": "2026-08-11T15:17:23.338794+00:00"
-  },
   {
    "fp": "africa collapse dump illegal kills mine miners police south",
    "title": "South Africa mine dump collapse kills 14 illegal miners, police say",
@@ -3201,10 +3195,15 @@
    "title": "Texas woman killed by maniac gunman after domestic fight spins out of control",
    "source": "New York Post",
    "at": "2026-08-15T13:12:48.886800+00:00"
+  },
+  {
+   "fp": "injured multiple people shooting state university virginia",
+   "title": "Multiple people injured in shooting at Virginia State University",
+   "source": "Guardian World",
+   "at": "2026-08-15T13:45:17.577766+00:00"
   }
  ],
  "titles": [
-  "california evacuation fire grows orders sees timber",
   "africa collapse dump illegal kills mine miners police south",
   "attacks gulf killed ships sources three",
   "arrive canada fight flee mexican reinforcements western wildfire",
@@ -3603,6 +3602,7 @@
   "battery biggest expansion gigafactory jaguar land rover shelves stall talks",
   "adam cast driver inde navarrette part showcase star studded unveils",
   "accused boat days dead death designer found fraud harassed montauk owner reveal texts yacht",
-  "control domestic fight gunman killed maniac spins texas woman"
+  "control domestic fight gunman killed maniac spins texas woman",
+  "injured multiple people shooting state university virginia"
  ]
 }
