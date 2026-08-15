@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiqAFBVV95cUxOT05uSV9KT3VqLUIteGZ3aHpRRkF4QURLSGlFMDdtLUVqbVlyenVCbE9hQ0pQWmVFVnA1MFA5UU4zYXpaMTJPeFBkQy03Qk1fTnNMa25WX1R6N2VhYng3cmdpTHQyNkRiZTEwYjk5TThFdk9yRm9kaGtOMFU1ZnZsRktQdkdsRnFEQm5nM2NuSGkyQ3lDMEFlMjZ1LVZuc3RKUnpkMW5oeUM",
-  "https://nypost.com/?post_type=article&p=40231826",
   "https://nypost.com/?post_type=article&p=40231818",
   "https://nypost.com/?post_type=article&p=40231734",
   "CBMirgFBVV95cUxOQ3NQbFh2MjQzZ3BsUmkwMWdpV19TdHZRR19Pa1JSWkpqQlRERVdhSmstdm9fclRzdVlSUG9GVzJGcGlZdDNSM1NmdDZIYmRBOS1LSXZnb1NOLTNEekNxcU9JX1JsU2JScE1hMkNYb3QxNmVoWXdTMF9vcXFySEtHbmlFVXRqdVBXLXF5YUhycmY3aUdSV24yV0p2WHhjVUxRNnF0eHNFbTJrTFNBcUE",
@@ -799,21 +797,11 @@
   "CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ",
   "https://www.bbc.co.uk/news/articles/c9982znvyk4o#0",
   "CBMizwFBVV95cUxPdkZWVjh0dVhzeG43NWJfV0kwZnZQc3dXNGVyUXJLV05JVVYzN3ZJYk9RdEdFQ3lfci1fTU44aGQzTG50UjJPQmlNMzBJMTZNT3JjWDY0dkgxTXo4dWc4aExxRTktb0hFWUprNE80ZDhrWHFWeEtwcE5CMVJOVlkzM0wybmdRQ2NZZXBoR1dnS25GOF82ZjRnY0VTSG40cFM3OGFkUjZISFdnTHdBRDAzTExuMHBWT3VsMzlhcUYtcjdmd21wdGhTMTFoV3gwbVU",
-  "https://news.sky.com/story/five-people-and-suspected-gunman-killed-after-mass-shooting-in-michigan-13573222"
+  "https://news.sky.com/story/five-people-and-suspected-gunman-killed-after-mass-shooting-in-michigan-13573222",
+  "https://nypost.com/?post_type=article&p=40354212",
+  "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says"
  ],
  "posts": [
-  {
-   "fp": "caught cheating club college country crazy disgrace former fron golfer resigns scandal tape",
-   "title": "Former college golfer resigns fron country club in disgrace after crazy cheating scandal caught on tape",
-   "source": "New York Post",
-   "at": "2026-08-11T14:02:45.496892+00:00"
-  },
-  {
-   "fp": "beef bypassing high import inspections nearly pounds recall risk sold",
-   "title": "Nearly 30,000 pounds of raw beef sold in the US hit with high-risk recall after bypassing import inspections",
-   "source": "New York Post",
-   "at": "2026-08-11T14:02:47.258116+00:00"
-  },
   {
    "fp": "crime emergency normalizing streets troops",
    "title": "Crime in DC isn\u2019t an 'emergency,' but normalizing troops in US streets is",
@@ -3201,11 +3189,21 @@
    "title": "Five people and suspected gunman killed after mass shooting in Michigan",
    "source": "Sky News",
    "at": "2026-08-15T09:19:14.274490+00:00"
+  },
+  {
+   "fp": "daughter fired gunman houston indiscriminately injuring mother police shoot vehicles",
+   "title": "Houston police shoot gunman who indiscriminately fired on vehicles, injuring mother and daughter",
+   "source": "New York Post",
+   "at": "2026-08-15T11:12:57.786233+00:00"
+  },
+  {
+   "fp": "israeli june kill lebanon nine since south strikes toll worst",
+   "title": "Israeli strikes on south Lebanon kill nine in worst toll since June",
+   "source": "Guardian World",
+   "at": "2026-08-15T11:12:59.474120+00:00"
   }
  ],
  "titles": [
-  "caught cheating club college country crazy disgrace former fron golfer resigns scandal tape",
-  "beef bypassing high import inspections nearly pounds recall risk sold",
   "crime emergency normalizing streets troops",
   "blockade breaking exclusive fires iran ship",
   "banks drought emergency farmers give loans",
@@ -3603,6 +3601,8 @@
   "airstrike israeli kills lebanese lebanon media people southern state",
   "arday cambridge dead found jason paid professor tributes",
   "barges cooling danube ensure hungary levels near nuclear plant raise sink",
-  "five gunman killed mass michigan people shooting suspected"
+  "five gunman killed mass michigan people shooting suspected",
+  "daughter fired gunman houston indiscriminately injuring mother police shoot vehicles",
+  "israeli june kill lebanon nine since south strikes toll worst"
  ]
 }
