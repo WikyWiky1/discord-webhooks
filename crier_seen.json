@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMivwFBVV95cUxPcTc1RmRBNndlSmtfUjI1ZzcwaXpHSFdTRGFmbXpiNEN5blJzMHNSNHE3Um42TUprRW9sMHBFcFVDMHpVd2JhU1NrN1o1NU9vU3JDZU1WUEtPcnQtYkxFVGo2TjUzLXRJOWY5dHFLWndKYWtmYkJQV2g0U1RDN2l2TGhoZUZyTzJHTER0NERiNDRQVWdDRzlDUng2cWs2M3lyVEZ3M1N4WEE1WEU5SDJGYm5udk5iZEVFUWlSLWhSOA",
-  "CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv",
   "CBMikAFBVV95cUxPQ2Y1LXVndW1CYTZLREtONjNaUGhlamYtSU9GYWM1T3RsRF9fWVBSWnhOMGxVQ3Ywc0lmdzNrY05NMDN3cHc0bXhPS3Z2ejRZdVp2dzN2Q0wzYmNQUnlCakNZTHlaZ0xRU09zYnpGWVZFdmttTzNfeWZpRm5QdWExR2d5ZnRYcVdXdXZiWXRtUW0",
   "https://www.washingtonexaminer.com/?p=4679054",
   "https://nypost.com/?post_type=article&p=40236048",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40354469",
   "https://nypost.com/?post_type=article&p=40357338",
   "https://nypost.com/?post_type=article&p=40357240",
-  "CBMiigFBVV95cUxPc1BseTdlN0tNamJob25sYURUaVRsdjVnamVPM3RqZ2ZiMEhTQmcyZzZnNkE0cUZKckszb3E0cU53WEhrTXU5N3N4ZDRjSEVPS1NrTlU3RGlzWXRGNktVX1VIQ2RPQWRxS2pVQ1VibU1VZUJZdXJIcHQ5TmtSZ3hVdHQxLVZjV0ZMQUE"
+  "CBMiigFBVV95cUxPc1BseTdlN0tNamJob25sYURUaVRsdjVnamVPM3RqZ2ZiMEhTQmcyZzZnNkE0cUZKckszb3E0cU53WEhrTXU5N3N4ZDRjSEVPS1NrTlU3RGlzWXRGNktVX1VIQ2RPQWRxS2pVQ1VibU1VZUJZdXJIcHQ5TmtSZ3hVdHQxLVZjV0ZMQUE",
+  "CBMie0FVX3lxTE5tbV9QSlhoM2xYYzFkM0VxaHlJb1R4X0gzRXNXbmc4ZTBLMFZUVmxmQXp3YTJWMHkxLVdZbEhEVVJ5Tk5jR0s2dnpSUEdUU0I2M2JsNENWaVRjNmVPX2xSdE84ZlBHS01oTmRzMFU3bGk3Z25WQ0NMTzZWWQ",
+  "CBMiZkFVX3lxTFBLYm1OeEMtbElDWFFQSnZxOGJ0Q29ISkZsNGVVa0pJOHVmZlNIeElzU21yTWZRcVR4NGhnaUp6VmU1ZllVTlM4QzEzLVVIaER4NFNrXzNTNU1NbU9TWV9pUnVoUExBQQ"
  ],
  "posts": [
-  {
-   "fp": "1976 breaking britain heatwave outstrip record summer tipped",
-   "title": "Heatwave Britain tipped to outstrip record-breaking summer of 1976",
-   "source": "Telegraph",
-   "at": "2026-08-11T19:27:30.261070+00:00"
-  },
-  {
-   "fp": "bomb drone east kills libya officer strikes town western",
-   "title": "Drone strikes hit Libya\u2019s key western oil town and a car bomb kills an officer in the east",
-   "source": "AP",
-   "at": "2026-08-11T19:27:32.923962+00:00"
-  },
   {
    "fp": "battling california crash dies helicopter massive pilot utah wildfire",
    "title": "California pilot dies in helicopter crash battling massive Utah wildfire",
@@ -3201,11 +3189,21 @@
    "title": "Teen boy among 6 dead including suspect in Michigan shootings; girl survived",
    "source": "AP",
    "at": "2026-08-15T19:52:24.779888+00:00"
+  },
+  {
+   "fp": "deployed firefighters gurkhas help tackle welsh wildfires",
+   "title": "Gurkhas deployed to help firefighters tackle Welsh wildfires",
+   "source": "Telegraph",
+   "at": "2026-08-15T20:40:54.292837+00:00"
+  },
+  {
+   "fp": "dozens eastern indonesia killed magnitude quake",
+   "title": "Dozens killed in eastern Indonesia after magnitude 7.7 quake",
+   "source": "Reuters World",
+   "at": "2026-08-15T20:40:56.076664+00:00"
   }
  ],
  "titles": [
-  "1976 breaking britain heatwave outstrip record summer tipped",
-  "bomb drone east kills libya officer strikes town western",
   "battling california crash dies helicopter massive pilot utah wildfire",
   "attack cuts democrats doctor house iowa medicaid race tight",
   "attack deadly houthis iran kill reportedly since start",
@@ -3603,6 +3601,8 @@
   "abuser battle chad child court deranged divorce gunman hickman killed locked michigan records show toxic",
   "bizarre carts chased fighter freedom golf memorial people shooting vandal videos wwii",
   "faces hawaii hurricane island lala potential strengthens years",
-  "dead girl including michigan shootings survived suspect teen"
+  "dead girl including michigan shootings survived suspect teen",
+  "deployed firefighters gurkhas help tackle welsh wildfires",
+  "dozens eastern indonesia killed magnitude quake"
  ]
 }
