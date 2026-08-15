@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cdrvn686dljo#1",
   "https://nypost.com/?post_type=article&p=40228537",
   "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-attack",
   "https://www.theguardian.com/australia-news/2026/aug/07/man-dead-suspected-dog-attack-eschol-park-sydney-suburb-ntwnfb",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40352866",
   "CBMimwFBVV95cUxPaDUxT0h1MF9qdjNxUFBqZkJRX0xldzhyeU9UUlJyLVAzcWZxeEZkM0o1YlZSS2tsa2p6SU5QWll0SkE0LTJXajZ3QURrTGJUTTVTSmRHY05OMkxRVTQwZkp0cFFWUGxhYWNOcDV4dVM1c2U1VENOQS1vVG1qSnBmVzh6TWxpVjBmOWJqQXVIb2VwX2JjMnhXR29QVQ",
   "https://nypost.com/?post_type=article&p=40353044",
-  "CBMilwFBVV95cUxQZVZsbXNuUVQyemZidW4xOE9ONjJhZXRycXpCV2ZQMThyRlBncmstS0duZ0QwNUFpTVZVT0hnUWgzMU9MQ1lLM09DYm5lSTFQWl9oREdMdGpBWW5RZjFFekV4ZzBzM3pIQXU4YkVfWEtUOUl1Z3BURkZsckYyWUpvN1c2LUtfNHVnVjdBZlVyOUV5WEN4eHFr"
+  "CBMilwFBVV95cUxQZVZsbXNuUVQyemZidW4xOE9ONjJhZXRycXpCV2ZQMThyRlBncmstS0duZ0QwNUFpTVZVT0hnUWgzMU9MQ1lLM09DYm5lSTFQWl9oREdMdGpBWW5RZjFFekV4ZzBzM3pIQXU4YkVfWEtUOUl1Z3BURkZsckYyWUpvN1c2LUtfNHVnVjdBZlVyOUV5WEN4eHFr",
+  "CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ"
  ],
  "posts": [
-  {
-   "fp": "blake dave dodgers mission pitcher roberts snell starting",
-   "title": "Dodgers starting pitcher Blake Snell \u2018on a mission,\u2019 per Dave Roberts",
-   "source": "New York Post",
-   "at": "2026-08-11T13:04:00.801128+00:00"
-  },
   {
    "fp": "carolina graham inherit lindsey republicans senate should sister south vote",
    "title": "South Carolina Republicans vote if Lindsey Graham's sister should inherit Senate bid",
@@ -3201,10 +3195,15 @@
    "title": "Radio and podcasts of the week: What if Cherie Blair had won the election, and Tony lost?",
    "source": "Telegraph",
    "at": "2026-08-15T06:37:12.940466+00:00"
+  },
+  {
+   "fp": "airstrike israeli kills lebanese lebanon media people southern state",
+   "title": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
+   "source": "AP",
+   "at": "2026-08-15T07:45:54.681096+00:00"
   }
  ],
  "titles": [
-  "blake dave dodgers mission pitcher roberts snell starting",
   "carolina graham inherit lindsey republicans senate should sister south vote",
   "change connecticut democrats faces fight generational john larson primary weigh",
   "abuses attacks election intensified investigators military myanmar",
@@ -3603,6 +3602,7 @@
   "ahead alaska democrat down harris kamala primary senate support turns",
   "anthony appear contempt declines fauci panel request second senate vote",
   "antisemitic attack congregant guard headbutts lunatic nypd punches security spits synagogue",
-  "blair cherie election lost podcasts radio tony week"
+  "blair cherie election lost podcasts radio tony week",
+  "airstrike israeli kills lebanese lebanon media people southern state"
  ]
 }
