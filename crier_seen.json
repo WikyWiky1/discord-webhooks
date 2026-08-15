@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4677439",
-  "https://pagesix.com/?post_type=article&p=9096917",
   "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
   "CBMirAFBVV95cUxOLW53bUxYeW15OS1Hc2tXTjEwWWZEVGw2ajRxMk9PcnBFZE5mTHNITWJlc2ZmSGhNNFNFRjRRNE5SWG5uTmI1bldVOUlfanB6Z05iX090NzVRcUFDUzFJNDFUUFREMnZEQ0Z2ekFqUXcxUFFtcVc0Qi1CYy05RjNJQjV6VFNCX0RGckxyMVZJV2x3S1pUZ19YY1VCLUs4eFU5b1lTM1NuY2MxX0dz",
   "CBMie0FVX3lxTFBnWUpWWUJPUlJ2Rmk0X092anZhTWVjYkF2U3k5MDUzN2M3dk1qdW5RalNxNjJCT0hWT3hSc0MtTTdOZ0RZSldSVFZzS0RyX2MxckdNVGFINmMyZEQxSUJjd1hzU1hZZ2hBdXI4SmpfYWtSNjBhdG10TENhWQ",
@@ -799,21 +797,11 @@
   "https://www.foxnews.com/world/spain-stocks-african-enclave-ceuta-boosted-security-morocco-monitors-calls-second-border-rush",
   "CBMirwFBVV95cUxPMlI1d0hxVTg4V1JyMlZJeFVXZXBIbDNSZHNLM1JJMmhsSUl2bFIzb0pjMGJ5MzdqOXZwdmVwYzZBN3NpLVNwWEF0N2tWWmFxUnB0MW83SmZ0WmNzV2xaT1hBZ3FCekoyZ0NhX083MEYybFpzYWlpVmNfbDctWnFVVDlsNlF3djg1RlNxaU9VOVhIai1EYzRuUE1PMDd4dVNtWVdDLXNCUDl2Q2RtdXVn",
   "CBMiXEFVX3lxTE9KRF9RQjVxQ1l5SU5BWXBxMDJFaDBLR1pxcUpXWG9zZkl6Tnl5Q0hSeWRQSlVzdnZrQ3VUNUJLRkdKSUozTFVYR1Z4ekphQ25rVDZEaXE4MjJYUTU2",
-  "https://nypost.com/?post_type=article&p=40343887"
+  "https://nypost.com/?post_type=article&p=40343887",
+  "CBMiqAFBVV95cUxNUVlJUzBhcmdocU1lR3phY3JlcHpNb3hhWGdKcmJtSHA5MUhzN1ZXc2JpZll6OV9wWkJLNGhzWXRyVlVsdkJmU0ZlZTlpMTRNbWliSVJJdXA3MUtmUWFiV0ZSTEROa1VpT3FTWG04T21TWUkydjNyNEx0SWZwVGROUzhUaWxQNWQ4YnczQmNhUTdhQzBvX2UtT0dOY0lDLS1vMk1TMlNGZ2I",
+  "CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw"
  ],
  "posts": [
-  {
-   "fp": "boob breasts dead forever person ruined",
-   "title": "I got a boob job from a dead person\u2019s fat \u2014 and it ruined my breasts forever",
-   "source": "New York Post",
-   "at": "2026-08-11T16:12:53.514207+00:00"
-  },
-  {
-   "fp": "breaking capitan climber dies fall nevada record sierra",
-   "title": "Record-breaking El Capitan climber dies in Sierra Nevada fall",
-   "source": "Guardian World",
-   "at": "2026-08-11T16:12:55.436268+00:00"
-  },
   {
    "fp": "attack backed developments houthis iranian kill mideast other vessel",
    "title": "Iranian-backed Houthis kill 4 in attack on vessel, and other developments in the Mideast",
@@ -3201,11 +3189,21 @@
    "title": "Heartwarming moment girl, 6, donates her piggy bank for Colombian earthquake victims: video",
    "source": "New York Post",
    "at": "2026-08-15T15:36:59.410569+00:00"
+  },
+  {
+   "fp": "aircraft begin belgium evacuations fights record sends wildfire",
+   "title": "EU sends aircraft, evacuations begin as Belgium fights record wildfire",
+   "source": "Reuters",
+   "at": "2026-08-15T15:53:17.135567+00:00"
+  },
+  {
+   "fp": "israeli kills lebanon news reports seven south state strike",
+   "title": "Israeli strike kills seven in south Lebanon, state news reports\u200b",
+   "source": "Reuters",
+   "at": "2026-08-15T15:53:18.863085+00:00"
   }
  ],
  "titles": [
-  "boob breasts dead forever person ruined",
-  "breaking capitan climber dies fall nevada record sierra",
   "attack backed developments houthis iranian kill mideast other vessel",
   "acres across border california converge evacuations massive nevada underway wildfires",
   "evacuations explodes luxury raging resort size wildfire",
@@ -3603,6 +3601,8 @@
   "african boosted border calls ceuta enclave monitors morocco rush second security spain stocks",
   "carry democratic november primary soared states turnout",
   "edition journal print street wall",
-  "bank colombian donates earthquake girl heartwarming moment piggy victims video"
+  "bank colombian donates earthquake girl heartwarming moment piggy victims video",
+  "aircraft begin belgium evacuations fights record sends wildfire",
+  "israeli kills lebanon news reports seven south state strike"
  ]
 }
