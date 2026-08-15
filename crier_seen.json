@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
-  "CBMitwFBVV95cUxPUks4b2Fka2UwQVNGMXhQdnpVN0Jya2xIMGh2WHJmUnJXblRRQndFbjFQRlNTU0dEUGp6ZWhKUEp1QW0tVTVHMTZRXzlENW9RSWN2QVlVWS04ZFZOSVljQkhiVHoya0JZSnVBQUlGUFJKZmliNWZBM0tSYTlEcG9nZDJZSzlMUVdZYjlTenM2OUs3MnJHdTdxZ01IejhNZ1hXTWQ1OTJaT0U2R2JRLVRXNXVZVjlXc0E",
   "https://nypost.com/?post_type=article&p=40233096",
   "https://www.theguardian.com/business/2026/aug/07/flight-travel-costs-iran-war",
   "https://www.theguardian.com/us-news/2026/aug/07/kristen-galvan-houston-family",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40356866",
   "https://nypost.com/?post_type=article&p=40355103",
   "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#1",
-  "https://www.washingtonexaminer.com/?p=4684886"
+  "https://www.washingtonexaminer.com/?p=4684886",
+  "https://nypost.com/?post_type=article&p=40356313",
+  "CBMingFBVV95cUxOVDRMQ0R2aXhiVXowdW1fejdjaU9CUlhOZ0tLMVZ5QTl5eERvc1VrZjdveGhOZ3FkdWVwb29xSTVBYTJjV19HVTloVEFtb0pYNWI2LWE3MDV3Y0tEcWROaUdYTGF5MG5DR3FIMndBaTZtV1hOTXcxY3NfM2ptRTlmRkR2YmpOYjZCS21JUXA5UEU3V3QzUG0tcmRBdUNmdw"
  ],
  "posts": [
-  {
-   "fp": "aircraft assassination attempt breaking down involved iranian plan thwart trump",
-   "title": "Breaking down the aircraft involved in Trump\u2019s plan to thwart Iranian assassination attempt",
-   "source": "Washington Examiner",
-   "at": "2026-08-11T18:08:29.780163+00:00"
-  },
-  {
-   "fp": "accuse anti attack chaos dems devolves full muslim name panel sayed using",
-   "title": "CNN panel devolves into chaos as Dems accuse GOP of \u2018anti-Muslim\u2019 attack on El-Sayed by using his full name",
-   "source": "New York Post",
-   "at": "2026-08-11T18:08:31.682604+00:00"
-  },
   {
    "fp": "attack escalation kills korea missile mocks north preparing reliance russia zelensky",
    "title": "Zelensky mocks Russia for reliance on North Korea after missile attack kills 10: \u2018Preparing for escalation\u2019",
@@ -3201,11 +3189,21 @@
    "title": "Jon Ossoff clearly has his eyes on something beyond his Senate seat",
    "source": "Washington Examiner",
    "at": "2026-08-15T18:28:59.978285+00:00"
+  },
+  {
+   "fp": "autistic bodycam cops disturbing final footage killed knife moments shows socal wielding",
+   "title": "Disturbing bodycam footage shows final moments of knife-wielding autistic man killed by SoCal cops",
+   "source": "New York Post",
+   "at": "2026-08-15T18:50:38.675611+00:00"
+  },
+  {
+   "fp": "attack charges crime filed hate manhattan synagogue",
+   "title": "Hate crime charges filed in Manhattan synagogue attack",
+   "source": "AP",
+   "at": "2026-08-15T18:50:40.561969+00:00"
   }
  ],
  "titles": [
-  "aircraft assassination attempt breaking down involved iranian plan thwart trump",
-  "accuse anti attack chaos dems devolves full muslim name panel sayed using",
   "attack escalation kills korea missile mocks north preparing reliance russia zelensky",
   "alligator attack florida paddleboarder rescues woman",
   "administration colombia earthquake million missing provides relief trump",
@@ -3603,6 +3601,8 @@
   "called despite family hero maniac michigan police several shooting shot spree survivor times",
   "billboard dead depicts hormuz iranian shore soldier strait",
   "battle belgian firefighters nature reserve tearing through wildfire",
-  "beyond clearly eyes ossoff seat senate something"
+  "beyond clearly eyes ossoff seat senate something",
+  "autistic bodycam cops disturbing final footage killed knife moments shows socal wielding",
+  "attack charges crime filed hate manhattan synagogue"
  ]
 }
