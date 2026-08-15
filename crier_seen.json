@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6015595",
   "CBMirgFBVV95cUxQZndfVnpaMXNHREVrcEFXcjVaUzlTRGpSdUNEMzFObVJwUll5SXJQdUE1cUszMW5ZeDJ6dmV5SEdHbFk5Sy1yZjVETzN3VDdPZzhnejJ3VUwzVTRpdEJjT1BoU3c1M243QWJHMWZBcE5XeGprNEZUTzF1V2IwT0psN1lWMGY2N1dTUXMxTHA0b3U2TGxjeThCX2xybC1mVFZTeGZnNVEwZUI1VEVSaXc",
   "https://nypost.com/?post_type=article&p=40232834",
   "https://nypost.com/?post_type=article&p=40232841",
@@ -799,15 +798,10 @@
   "CBMijgFBVV95cUxQUDFrWDQxX0YtODMwd0tGYzkwOVRfZ1htU2VTcVdac2tFUm9oSEpmV1REb3RGMmZaVXJqUHlMRGoteWw5Q3dWXzVLYmxyWlhXa0lHSklrUk5YWFh1N0FvaDdHYjhqMmpHT3FNaVVEcV9lR2tUNm1ueWtRYXFUczNDRGlBUzR6N2xSLVlTREVn",
   "CBMixwFBVV95cUxNZDhuLU1pS1kxTnhFbndFY2w2aHZ0UzVCRkpwT3d3Q1FocGJ2cUZqZGFUaEE3MkFNVEZ4bXd3M0RmM3ZNanV6ZVo4TUl5azlkclRhTGZKZVlEdTgybXhSYlo5MXRqUFNzU0pJTnBFOS0yWmpheEZMb01wUzhiM0s5bUx4WUVtczhJN3djRDVLbWozWkYyYnpXNWZQd1RzZmUxSThGUU9BTDU5WFB6QXhhcFUwTXlhY0FMQUN4eWV6ZUw4RzEyc2ZV",
   "CBMiwwFBVV95cUxNUmpCZS14cUVweVF4akoxQjNyUi1wMnlxbXVXdVB1Q2dycWlvXzdpWHl3bnNGYmlHd0s3b0p4aWdaTVNycmh0ZENHUjNtQURFanFBejRoajBkaE5ZYUpSUS1RbnBvX3lBQTVidjd2T2hzM0ROYTU4X3BOMUhmZVhrR3ByNVNJYldWUlphTmdpVVRJVEd0NFdKcUxPQ3dGdnFvN3pSNnd2d1BLOHlVTTRVdTFDV082eTJ5UFJycTIwa21WX0U",
-  "https://nypost.com/?post_type=article&p=40348912"
+  "https://nypost.com/?post_type=article&p=40348912",
+  "https://news.sky.com/story/man-arrested-on-suspicion-of-murder-after-boy-17-found-dead-by-police-responding-to-burglary-reports-13573331"
  ],
  "posts": [
-  {
-   "fp": "anti bans election embarrassment fearing only opposition party russia",
-   "title": "Fearing anti-war election embarrassment, Russia bans only opposition party",
-   "source": "Washington Examiner",
-   "at": "2026-08-11T16:00:23.581751+00:00"
-  },
   {
    "fp": "500b infrastructure major nvidia partners players raise street wall",
    "title": "Nvidia partners with major Wall Street players to raise $500B for AI infrastructure",
@@ -3201,10 +3195,15 @@
    "title": "Dad\u2019s heartbreaking final moments with son as 12-year-old charged in fatal Fresno shooting: \u2018It was too late already\u201d",
    "source": "New York Post",
    "at": "2026-08-15T14:41:23.774453+00:00"
+  },
+  {
+   "fp": "arrested burglary dead found murder police reports responding suspicion",
+   "title": "Man arrested on suspicion of murder after boy, 17, found dead by police responding to burglary reports",
+   "source": "Sky News",
+   "at": "2026-08-15T15:13:22.037403+00:00"
   }
  ],
  "titles": [
-  "anti bans election embarrassment fearing only opposition party russia",
   "500b infrastructure major nvidia partners players raise street wall",
   "appears catering following force military moving nato secretly show summit truck trump turkey video",
   "administration crippling groups human rights sanctions trump",
@@ -3603,6 +3602,7 @@
   "fatal here know nearly shakur shooting trial tupac years",
   "buildings colombia differed efforts quake rescue tale venezuela",
   "indonesia magnitude north quake sumatra threat tsunami",
-  "already charged fatal final fresno heartbreaking late moments shooting year"
+  "already charged fatal final fresno heartbreaking late moments shooting year",
+  "arrested burglary dead found murder police reports responding suspicion"
  ]
 }
