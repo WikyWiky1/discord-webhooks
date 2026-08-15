@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40231818",
   "https://nypost.com/?post_type=article&p=40231734",
   "CBMirgFBVV95cUxOQ3NQbFh2MjQzZ3BsUmkwMWdpV19TdHZRR19Pa1JSWkpqQlRERVdhSmstdm9fclRzdVlSUG9GVzJGcGlZdDNSM1NmdDZIYmRBOS1LSXZnb1NOLTNEekNxcU9JX1JsU2JScE1hMkNYb3QxNmVoWXdTMF9vcXFySEtHbmlFVXRqdVBXLXF5YUhycmY3aUdSV24yV0p2WHhjVUxRNnF0eHNFbTJrTFNBcUE",
   "CBMiwAFBVV95cUxNZS10NkNDSzZNU0hhVHhjcVJ5RFN1YUVXVFl4Skt5bEd6cDE4RDE1NDNKc2E5OXVIV01SWEVDN28xQTBFLWp5MWc3aW44OVBuaXNOZVR0dk5nWF8wR1NKRkdEOXFOaGphdnVFZmlYQ0xGSW8wYnplMi1nSzZDVDdTV21obTBoREpmcjBXZ1N0S1FVVEw3TG01Q2FKRXlEckxyb3k1NFdobFBDUTUxRjRHcmZQSVNXRlFCODhScUJYMFU",
@@ -799,15 +798,10 @@
   "CBMizwFBVV95cUxPdkZWVjh0dVhzeG43NWJfV0kwZnZQc3dXNGVyUXJLV05JVVYzN3ZJYk9RdEdFQ3lfci1fTU44aGQzTG50UjJPQmlNMzBJMTZNT3JjWDY0dkgxTXo4dWc4aExxRTktb0hFWUprNE80ZDhrWHFWeEtwcE5CMVJOVlkzM0wybmdRQ2NZZXBoR1dnS25GOF82ZjRnY0VTSG40cFM3OGFkUjZISFdnTHdBRDAzTExuMHBWT3VsMzlhcUYtcjdmd21wdGhTMTFoV3gwbVU",
   "https://news.sky.com/story/five-people-and-suspected-gunman-killed-after-mass-shooting-in-michigan-13573222",
   "https://nypost.com/?post_type=article&p=40354212",
-  "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says"
+  "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+  "CBMizwFBVV95cUxOLTdwSENKUmJCRWRGbXZmdGY5YU91MnVXRWlHR3BGNV9KOFhYaGZObjhkT1FCTXFub0xZckZrOGsydzIyWGJ2dzU3VWR1cGdfa3lJNHRERGhmVWhFbGpXbjctUkd6Y09BSUlrTmRlNnBsLXNRX08wQUR4c3lNMUZUUjRpYzdwU1NwLWlhbC1Kb3FvVUFrVXl4NjVoaS1oZzVGOTE1QUZ6OGs5WFN3ZkZlTGVHbXA0Zy1xNlhfQXNPR0JaRFVPV21pYkF3WVRFVlU"
  ],
  "posts": [
-  {
-   "fp": "crime emergency normalizing streets troops",
-   "title": "Crime in DC isn\u2019t an 'emergency,' but normalizing troops in US streets is",
-   "source": "The Hill",
-   "at": "2026-08-11T14:02:48.996911+00:00"
-  },
   {
    "fp": "blockade breaking exclusive fires iran ship",
    "title": "Exclusive | U.S. Fires on Ship Breaking Its Blockade of Iran",
@@ -3201,10 +3195,15 @@
    "title": "Israeli strikes on south Lebanon kill nine in worst toll since June",
    "source": "Guardian World",
    "at": "2026-08-15T11:12:59.474120+00:00"
+  },
+  {
+   "fp": "capital filing holdings initiates sells semi shows softbank stake taiwan",
+   "title": "SEC filing shows Softbank initiates stake in Capital One; sells 71.5% of its Taiwan Semi holdings",
+   "source": "Reuters World",
+   "at": "2026-08-15T11:25:11.186819+00:00"
   }
  ],
  "titles": [
-  "crime emergency normalizing streets troops",
   "blockade breaking exclusive fires iran ship",
   "banks drought emergency farmers give loans",
   "colombia earthquake films home massive reporter rocks ruins",
@@ -3603,6 +3602,7 @@
   "barges cooling danube ensure hungary levels near nuclear plant raise sink",
   "five gunman killed mass michigan people shooting suspected",
   "daughter fired gunman houston indiscriminately injuring mother police shoot vehicles",
-  "israeli june kill lebanon nine since south strikes toll worst"
+  "israeli june kill lebanon nine since south strikes toll worst",
+  "capital filing holdings initiates sells semi shows softbank stake taiwan"
  ]
 }
