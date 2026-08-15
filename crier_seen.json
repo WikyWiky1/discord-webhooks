@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/06/hard-rock-hotel-collapse-settlement",
-  "CBMimwFBVV95cUxNbTlsOEZXSzZGSk5ET1J0RGlTZzVJYm1jOVZ2MUJHa2kxc2xDRmZ5SjJyQl9HQTF4eERuVWYxX3h3Yy1NVEdIRnptZEFENVV2Z1AwX0NPNEJPVzR1RTQ3LTQ1UktKMEFXSm1LUGxLcm1ZdlctNm9KeFplZ0E2NGUtQktpVlg2MjIxNWJqU2YxcXh2d05XdmMzbHVxYw",
-  "CBMirwFBVV95cUxQWVNQTUxpLURMZkNFelpVd0Qtb1lqalJNUkU3YTA1TGxrX3d5bHh1NGR3Y29JUWpFaDlvamRYUHNVdFJUMlMta1JJbVY0Wkx6eVdfQU5LeXd0MGhoc0RzS3Vudlk0dTZTV0ZITnUxUHNYYVhOSG9zNEpCMVpMVDNLMU1BVGtWTm5HNmdLY3N1MnJsLTk3MWRHazFwaUp3TS1KZzEzUjJIeUVVT0l6UG1r",
   "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo#1",
   "https://nypost.com/?post_type=article&p=40222422",
   "https://www.washingtonexaminer.com/?p=4678622",
@@ -799,27 +796,12 @@
   "https://www.washingtonexaminer.com/?p=4688435",
   "https://thehill.com/?p=6030992",
   "https://thehill.com/?p=6030840",
-  "CBMiiwFBVV95cUxNQjdWM3ZJQ3M4amVyYXhtdHlQSndrUkZuQzl3ZkFMLTBtN19QRVNvejB3NF9PQkl0TUdRSEFNendUZ1JIOEJrLXB3VS10STRNVHRhQXZqVTEyN1pMMG5GYV9BVVZ6eUFna1lpcFROcXVxTFhmXzBPUk9BNnRoLTRiaDJWX2xfdTY0ZGhR"
+  "CBMiiwFBVV95cUxNQjdWM3ZJQ3M4amVyYXhtdHlQSndrUkZuQzl3ZkFMLTBtN19QRVNvejB3NF9PQkl0TUdRSEFNendUZ1JIOEJrLXB3VS10STRNVHRhQXZqVTEyN1pMMG5GYV9BVVZ6eUFna1lpcFROcXVxTFhmXzBPUk9BNnRoLTRiaDJWX2xfdTY0ZGhR",
+  "https://thehill.com/?p=6031052",
+  "CBMiigFBVV95cUxNOHlKTU5mZV9URk9aR092d3pteDlhVUtkMzFnV2hpQVVNdWZvT2VjQzk2Sm5hQjNIOEhDaWVub3hwTnR1UjN0UDA1eU5SU3hySGoybENYZElaQ2ZMNjFlUE1EQmRUVVpzV3VuZkhWUXllMEs4MnhRUFhyMHoxTVoyaDBnMC1BTHYwQmc",
+  "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake"
  ],
  "posts": [
-  {
-   "fp": "danube down fall levels nuclear reactor romania shut thursday",
-   "title": "Romania could shut down nuclear reactor on Thursday as Danube levels fall",
-   "source": "Reuters",
-   "at": "2026-08-11T10:43:51.592249+00:00"
-  },
-  {
-   "fp": "became colombia deadly guard hits life national part quake year",
-   "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
-   "source": "NPR News",
-   "at": "2026-08-11T11:38:45.968264+00:00"
-  },
-  {
-   "fp": "firearm licences purchase school shooting suspends thai",
-   "title": "Thai PM suspends firearm purchase licences after school shooting",
-   "source": "Reuters",
-   "at": "2026-08-11T11:38:47.676437+00:00"
-  },
   {
    "fp": "congo died ebola fastest growing outbreak people record",
    "title": "Congo says 2,000 people have died in its Ebola outbreak, the fastest growing on record",
@@ -3201,12 +3183,27 @@
    "title": "U.S. Stocks Down After Retail Sales Data",
    "source": "WSJ",
    "at": "2026-08-15T01:12:08.260586+00:00"
+  },
+  {
+   "fp": "appeal assassination attempt ballroom force refers threat",
+   "title": "DOJ refers to Air Force One threat as 'assassination attempt' in ballroom appeal",
+   "source": "The Hill",
+   "at": "2026-08-15T01:20:54.379719+00:00"
+  },
+  {
+   "fp": "dead including killings michigan series suspect",
+   "title": "6 dead, including suspect, in series of killings in Michigan",
+   "source": "AP",
+   "at": "2026-08-15T01:20:56.048641+00:00"
+  },
+  {
+   "fp": "earthquake eastern indonesia magnitude strikes strong triggering tsunami warning",
+   "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, triggering tsunami warning",
+   "source": "Guardian World",
+   "at": "2026-08-15T01:20:57.675049+00:00"
   }
  ],
  "titles": [
-  "danube down fall levels nuclear reactor romania shut thursday",
-  "became colombia deadly guard hits life national part quake year",
-  "firearm licences purchase school shooting suspends thai",
   "congo died ebola fastest growing outbreak people record",
   "dogs reveals scientific should smile study",
   "boyfriend deputy florida kidnapped killed murder shocking suicide",
@@ -3603,6 +3600,9 @@
   "ahead alaska crucial endorsement harris kamala mary peltola race rejects senate",
   "concerns investigation launches roblox safety senate",
   "game investigates issues kids online roblox safety senate",
-  "data down retail sales stocks"
+  "data down retail sales stocks",
+  "appeal assassination attempt ballroom force refers threat",
+  "dead including killings michigan series suspect",
+  "earthquake eastern indonesia magnitude strikes strong triggering tsunami warning"
  ]
 }
