@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40236048",
-  "https://nypost.com/?post_type=article&p=40235723",
-  "https://nypost.com/?post_type=article&p=40236414",
-  "https://nypost.com/?post_type=article&p=40235084",
   "CBMikAFBVV95cUxQQ3NXekxmcVFkTEJhNS1CR1oySVJsU01ja0lSODRoNHdBMjQ0UE1OSTdpeDZYdXZsVTNVNzA0X1M2Wno3dEpubEJXY1pwRl9vVWV0QkdZa1ZzUnRDSDVjaS1LenRxalExSkd5NkFHT3hFLTNqc3dLQUVjSW1WOENsWThRNEp0TEg2VFVXb1dEcm8",
   "https://news.sky.com/story/developers-found-guilty-after-man-53-crushed-by-falling-window-13570729",
   "https://pagesix.com/?post_type=article&p=9097632",
@@ -799,33 +795,13 @@
   "CBMie0FVX3lxTE5tbV9QSlhoM2xYYzFkM0VxaHlJb1R4X0gzRXNXbmc4ZTBLMFZUVmxmQXp3YTJWMHkxLVdZbEhEVVJ5Tk5jR0s2dnpSUEdUU0I2M2JsNENWaVRjNmVPX2xSdE84ZlBHS01oTmRzMFU3bGk3Z25WQ0NMTzZWWQ",
   "CBMiZkFVX3lxTFBLYm1OeEMtbElDWFFQSnZxOGJ0Q29ISkZsNGVVa0pJOHVmZlNIeElzU21yTWZRcVR4NGhnaUp6VmU1ZllVTlM4QzEzLVVIaER4NFNrXzNTNU1NbU9TWV9pUnVoUExBQQ",
   "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#0",
-  "CBMirAFBVV95cUxPaW93bDdsNThrYUhfZVNheDBBQS1hNW50eE1KU0YxS1dub3JRQ3dWWXVfUVBNN0Z2c29WMl9VUG12N25zcU4zQ2FtOTNYT3RVa2EzX083dmw0Z1RRLU5yZ1pfX0Y1cG93WUFnelVKUGl0SWFLNkpkd3dHRFdZYmVkOU5mRWtfYV9jank4Z01adjYyeEs0Wmd6dzZ4OWRjZWhrYW5OelpuVE1seFg3"
+  "CBMirAFBVV95cUxPaW93bDdsNThrYUhfZVNheDBBQS1hNW50eE1KU0YxS1dub3JRQ3dWWXVfUVBNN0Z2c29WMl9VUG12N25zcU4zQ2FtOTNYT3RVa2EzX083dmw0Z1RRLU5yZ1pfX0Y1cG93WUFnelVKUGl0SWFLNkpkd3dHRFdZYmVkOU5mRWtfYV9jank4Z01adjYyeEs0Wmd6dzZ4OWRjZWhrYW5OelpuVE1seFg3",
+  "https://thehill.com/?p=6030558",
+  "CBMiogFBVV95cUxPV1JWRWdEcUZlRUJMQXBHbHRvSUdBdFNUTTZYc0lwYkhEWHlkWTQxTVdZemoxaDBsUXN4bUtYYzJvbnRTWGlObl85ZjlEekw0c3pTaGR5ODR1dF95eGo2NTR5ZXZNLWhtM0Nxc3pJWGFfMDhnTU5YTWhWX0pBWHB1TnFXbVY3TFVxYV8xZWZxN2h2RTIzSDhxNmtNWG5xTHVvemc",
+  "https://www.washingtonexaminer.com/?p=4685985",
+  "https://thehill.com/?p=6028298"
  ],
  "posts": [
-  {
-   "fp": "attack deadly houthis iran kill reportedly since start",
-   "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
-   "source": "BBC World",
-   "at": "2026-08-11T20:20:56.663010+00:00"
-  },
-  {
-   "fp": "blockade breaking disable fired helicopter iran missiles ship",
-   "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-   "source": "BBC World",
-   "at": "2026-08-11T21:26:21.975309+00:00"
-  },
-  {
-   "fp": "around critical donations drummer earth emergency fire medical members rally wind",
-   "title": "Earth, Wind & Fire members rally around drummer with donations after \u2018critical\u2019 SF medical emergency",
-   "source": "New York Post",
-   "at": "2026-08-11T21:26:23.705910+00:00"
-  },
-  {
-   "fp": "blare illinois indiana knocking pounds power severe sirens tornado weather",
-   "title": "Severe weather pounds Illinois and Indiana, knocking out power as tornado sirens blare",
-   "source": "AP",
-   "at": "2026-08-11T21:26:25.444441+00:00"
-  },
   {
    "fp": "democrats gubernatorial intense page plan primary tour turn unity wisconsin",
    "title": "Wisconsin Democrats plan unity tour to turn page on intense gubernatorial primary",
@@ -3201,13 +3177,33 @@
    "title": "26 more bodies are recovered in Zimbabwe\u2019s ferry disaster, bringing death toll to 72",
    "source": "AP",
    "at": "2026-08-15T21:13:49.528441+00:00"
+  },
+  {
+   "fp": "alaska challenge face race republicans senate unexpected",
+   "title": "Republicans face unexpected challenge in Alaska Senate race",
+   "source": "The Hill",
+   "at": "2026-08-15T21:20:24.414612+00:00"
+  },
+  {
+   "fp": "50bn cuts plan reform unveils welfare year",
+   "title": "Reform unveils plan for \u00a350bn a year in welfare cuts",
+   "source": "Telegraph",
+   "at": "2026-08-15T21:20:26.118823+00:00"
+  },
+  {
+   "fp": "2028 approves carolina gives primary schedule south spot",
+   "title": "DNC approves 2028 primary schedule, gives South Carolina the first spot",
+   "source": "Washington Examiner",
+   "at": "2026-08-15T21:20:27.826042+00:00"
+  },
+  {
+   "fp": "2028 approval calendar carolina final gives primary south starting",
+   "title": "DNC gives final approval of 2028 primary calendar starting in South Carolina",
+   "source": "The Hill",
+   "at": "2026-08-15T21:20:29.533447+00:00"
   }
  ],
  "titles": [
-  "attack deadly houthis iran kill reportedly since start",
-  "blockade breaking disable fired helicopter iran missiles ship",
-  "around critical donations drummer earth emergency fire medical members rally wind",
-  "blare illinois indiana knocking pounds power severe sirens tornado weather",
   "democrats gubernatorial intense page plan primary tour turn unity wisconsin",
   "bros cartridges discovers dozens game grail holy mario nintendo owner rare store superfan ultra vintage wisconsin",
   "bronin challenge connecticut faces house larson live primary race results",
@@ -3603,6 +3599,10 @@
   "deployed firefighters gurkhas help tackle welsh wildfires",
   "dozens eastern indonesia killed magnitude quake",
   "braces direct hawaii hurricane potential years",
-  "bodies bringing death disaster ferry recovered toll zimbabwe"
+  "bodies bringing death disaster ferry recovered toll zimbabwe",
+  "alaska challenge face race republicans senate unexpected",
+  "50bn cuts plan reform unveils welfare year",
+  "2028 approves carolina gives primary schedule south spot",
+  "2028 approval calendar carolina final gives primary south starting"
  ]
 }
