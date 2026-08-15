@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/australia-news/2026/aug/07/man-dead-suspected-dog-attack-eschol-park-sydney-suburb-ntwnfb",
   "CBMiqAFBVV95cUxOT05uSV9KT3VqLUIteGZ3aHpRRkF4QURLSGlFMDdtLUVqbVlyenVCbE9hQ0pQWmVFVnA1MFA5UU4zYXpaMTJPeFBkQy03Qk1fTnNMa25WX1R6N2VhYng3cmdpTHQyNkRiZTEwYjk5TThFdk9yRm9kaGtOMFU1ZnZsRktQdkdsRnFEQm5nM2NuSGkyQ3lDMEFlMjZ1LVZuc3RKUnpkMW5oeUM",
   "https://nypost.com/?post_type=article&p=40231826",
   "https://nypost.com/?post_type=article&p=40231818",
@@ -799,15 +798,10 @@
   "CBMilwFBVV95cUxQZVZsbXNuUVQyemZidW4xOE9ONjJhZXRycXpCV2ZQMThyRlBncmstS0duZ0QwNUFpTVZVT0hnUWgzMU9MQ1lLM09DYm5lSTFQWl9oREdMdGpBWW5RZjFFekV4ZzBzM3pIQXU4YkVfWEtUOUl1Z3BURkZsckYyWUpvN1c2LUtfNHVnVjdBZlVyOUV5WEN4eHFr",
   "CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ",
   "https://www.bbc.co.uk/news/articles/c9982znvyk4o#0",
-  "CBMizwFBVV95cUxPdkZWVjh0dVhzeG43NWJfV0kwZnZQc3dXNGVyUXJLV05JVVYzN3ZJYk9RdEdFQ3lfci1fTU44aGQzTG50UjJPQmlNMzBJMTZNT3JjWDY0dkgxTXo4dWc4aExxRTktb0hFWUprNE80ZDhrWHFWeEtwcE5CMVJOVlkzM0wybmdRQ2NZZXBoR1dnS25GOF82ZjRnY0VTSG40cFM3OGFkUjZISFdnTHdBRDAzTExuMHBWT3VsMzlhcUYtcjdmd21wdGhTMTFoV3gwbVU"
+  "CBMizwFBVV95cUxPdkZWVjh0dVhzeG43NWJfV0kwZnZQc3dXNGVyUXJLV05JVVYzN3ZJYk9RdEdFQ3lfci1fTU44aGQzTG50UjJPQmlNMzBJMTZNT3JjWDY0dkgxTXo4dWc4aExxRTktb0hFWUprNE80ZDhrWHFWeEtwcE5CMVJOVlkzM0wybmdRQ2NZZXBoR1dnS25GOF82ZjRnY0VTSG40cFM3OGFkUjZISFdnTHdBRDAzTExuMHBWT3VsMzlhcUYtcjdmd21wdGhTMTFoV3gwbVU",
+  "https://news.sky.com/story/five-people-and-suspected-gunman-killed-after-mass-shooting-in-michigan-13573222"
  ],
  "posts": [
-  {
-   "fp": "abuses attacks election intensified investigators military myanmar",
-   "title": "Myanmar military intensified air attacks and abuses before election, UN investigators say",
-   "source": "Reuters World",
-   "at": "2026-08-11T13:04:06.337864+00:00"
-  },
   {
    "fp": "caught cheating club college country crazy disgrace former fron golfer resigns scandal tape",
    "title": "Former college golfer resigns fron country club in disgrace after crazy cheating scandal caught on tape",
@@ -3201,10 +3195,15 @@
    "title": "Hungary to sink two barges near nuclear plant to raise Danube levels to ensure cooling\u200b\u200b",
    "source": "Reuters",
    "at": "2026-08-15T08:48:40.447348+00:00"
+  },
+  {
+   "fp": "five gunman killed mass michigan people shooting suspected",
+   "title": "Five people and suspected gunman killed after mass shooting in Michigan",
+   "source": "Sky News",
+   "at": "2026-08-15T09:19:14.274490+00:00"
   }
  ],
  "titles": [
-  "abuses attacks election intensified investigators military myanmar",
   "caught cheating club college country crazy disgrace former fron golfer resigns scandal tape",
   "beef bypassing high import inspections nearly pounds recall risk sold",
   "crime emergency normalizing streets troops",
@@ -3603,6 +3602,7 @@
   "blair cherie election lost podcasts radio tony week",
   "airstrike israeli kills lebanese lebanon media people southern state",
   "arday cambridge dead found jason paid professor tributes",
-  "barges cooling danube ensure hungary levels near nuclear plant raise sink"
+  "barges cooling danube ensure hungary levels near nuclear plant raise sink",
+  "five gunman killed mass michigan people shooting suspected"
  ]
 }
