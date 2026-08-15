@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4678622",
-  "https://thehill.com/?p=6000724",
   "https://www.washingtonexaminer.com/?p=4678673",
   "https://thehill.com/?p=5972642",
   "https://www.bbc.co.uk/news/articles/cdrvn686dljo#1",
@@ -799,21 +797,11 @@
   "CBMiigFBVV95cUxNOHlKTU5mZV9URk9aR092d3pteDlhVUtkMzFnV2hpQVVNdWZvT2VjQzk2Sm5hQjNIOEhDaWVub3hwTnR1UjN0UDA1eU5SU3hySGoybENYZElaQ2ZMNjFlUE1EQmRUVVpzV3VuZkhWUXllMEs4MnhRUFhyMHoxTVoyaDBnMC1BTHYwQmc",
   "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
   "CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw",
-  "https://news.sky.com/story/indonesia-powerful-77-magnitude-earthquake-damage-13573197"
+  "https://news.sky.com/story/indonesia-powerful-77-magnitude-earthquake-damage-13573197",
+  "https://nypost.com/?post_type=article&p=40352866",
+  "CBMimwFBVV95cUxPaDUxT0h1MF9qdjNxUFBqZkJRX0xldzhyeU9UUlJyLVAzcWZxeEZkM0o1YlZSS2tsa2p6SU5QWll0SkE0LTJXajZ3QURrTGJUTTVTSmRHY05OMkxRVTQwZkp0cFFWUGxhYWNOcDV4dVM1c2U1VENOQS1vVG1qSnBmVzh6TWxpVjBmOWJqQXVIb2VwX2JjMnhXR29QVQ"
  ],
  "posts": [
-  {
-   "fp": "boyfriend deputy florida kidnapped killed murder shocking suicide",
-   "title": "Mom of 2 kidnapped, killed by Florida deputy boyfriend in shocking murder-suicide",
-   "source": "New York Post",
-   "at": "2026-08-11T12:27:27.522234+00:00"
-  },
-  {
-   "fp": "colombia earthquake kills least major reels thing",
-   "title": "Colombia reels after major earthquake kills at least 130 | First Thing",
-   "source": "Guardian World",
-   "at": "2026-08-11T12:27:29.262236+00:00"
-  },
   {
    "fp": "aerial attacks getting help kill korea moscow north russian ukraine warns zelenskyy",
    "title": "Russian aerial attacks kill 9 in Ukraine as Zelenskyy warns Moscow is getting more North Korea help",
@@ -3201,11 +3189,21 @@
    "title": "Powerful 7.7-magnitude earthquake strikes Indonesia",
    "source": "Sky News",
    "at": "2026-08-15T02:37:08.454859+00:00"
+  },
+  {
+   "fp": "ahead alaska democrat down harris kamala primary senate support turns",
+   "title": "Alaska Democrat turns down support from Kamala Harris ahead of Senate primary",
+   "source": "New York Post",
+   "at": "2026-08-15T03:38:16.216243+00:00"
+  },
+  {
+   "fp": "anthony appear contempt declines fauci panel request second senate vote",
+   "title": "Dr. Anthony Fauci declines request to appear before a second Senate panel after GOP contempt vote",
+   "source": "AP",
+   "at": "2026-08-15T03:38:17.963279+00:00"
   }
  ],
  "titles": [
-  "boyfriend deputy florida kidnapped killed murder shocking suicide",
-  "colombia earthquake kills least major reels thing",
   "aerial attacks getting help kill korea moscow north russian ukraine warns zelenskyy",
   "bank benchmark interest leaves mexico rate unchanged",
   "blake dave dodgers mission pitcher roberts snell starting",
@@ -3603,6 +3601,8 @@
   "dead including killings michigan series suspect",
   "earthquake eastern indonesia magnitude strikes strong triggering tsunami warning",
   "buildings coast earthquake indonesia killing least magnitude strikes toppling",
-  "earthquake indonesia magnitude powerful strikes"
+  "earthquake indonesia magnitude powerful strikes",
+  "ahead alaska democrat down harris kamala primary senate support turns",
+  "anthony appear contempt declines fauci panel request second senate vote"
  ]
 }
