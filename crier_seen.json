@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6015291",
   "https://thehill.com/?p=6015981",
   "https://www.washingtonexaminer.com/?p=4678328",
   "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
@@ -799,15 +798,10 @@
   "CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw",
   "https://www.theguardian.com/us-news/2026/aug/15/egg-recall-us-south-and-south-west-salmonella-outbreak",
   "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
-  "https://nypost.com/?post_type=article&p=40356866"
+  "https://nypost.com/?post_type=article&p=40356866",
+  "https://nypost.com/?post_type=article&p=40355103"
  ],
  "posts": [
-  {
-   "fp": "blazing college dead fight fresno graduate house party shot woman",
-   "title": "College graduate, 26, shot dead at Fresno house party after blazing fight with woman",
-   "source": "New York Post",
-   "at": "2026-08-11T17:14:13.599140+00:00"
-  },
   {
    "fp": "attack council dumped four hopeful issues mayoral nithya president raman role scathing word",
    "title": "LA council president issues scathing four-word attack on mayoral hopeful Nithya Raman after she was dumped from top role",
@@ -3201,10 +3195,15 @@
    "title": "Hero survivor, 13, of Michigan maniac\u2019s shooting spree called 911 despite being shot several times: police, family",
    "source": "New York Post",
    "at": "2026-08-15T17:36:53.805637+00:00"
+  },
+  {
+   "fp": "billboard dead depicts hormuz iranian shore soldier strait",
+   "title": "New Iranian billboard depicts dead US soldier on shore of Strait of Hormuz",
+   "source": "New York Post",
+   "at": "2026-08-15T17:53:49.351381+00:00"
   }
  ],
  "titles": [
-  "blazing college dead fight fresno graduate house party shot woman",
   "attack council dumped four hopeful issues mayoral nithya president raman role scathing word",
   "building chicago custodians dead elementary fired found inside school shots",
   "aircraft assassination attempt breaking down involved iranian plan thwart trump",
@@ -3603,6 +3602,7 @@
   "israeli kills lebanon news reports seven south state strike",
   "massive outbreak recall salmonella south west",
   "alarm alarmed alert message people phones react severe wildfires",
-  "called despite family hero maniac michigan police several shooting shot spree survivor times"
+  "called despite family hero maniac michigan police several shooting shot spree survivor times",
+  "billboard dead depicts hormuz iranian shore soldier strait"
  ]
 }
