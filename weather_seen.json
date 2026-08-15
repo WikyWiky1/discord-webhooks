@@ -636,9 +636,9 @@
    "message_id": "1538052714565603329",
    "event": "Flash Flood Warning",
    "area": "Mohave, AZ; Clark, NV",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-15T05:12:22+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-15T05:44:32+00:00"
   }
  ]
 }
