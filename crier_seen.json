@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
-  "CBMirAFBVV95cUxOLW53bUxYeW15OS1Hc2tXTjEwWWZEVGw2ajRxMk9PcnBFZE5mTHNITWJlc2ZmSGhNNFNFRjRRNE5SWG5uTmI1bldVOUlfanB6Z05iX090NzVRcUFDUzFJNDFUUFREMnZEQ0Z2ekFqUXcxUFFtcVc0Qi1CYy05RjNJQjV6VFNCX0RGckxyMVZJV2x3S1pUZ19YY1VCLUs4eFU5b1lTM1NuY2MxX0dz",
   "CBMie0FVX3lxTFBnWUpWWUJPUlJ2Rmk0X092anZhTWVjYkF2U3k5MDUzN2M3dk1qdW5RalNxNjJCT0hWT3hSc0MtTTdOZ0RZSldSVFZzS0RyX2MxckdNVGFINmMyZEQxSUJjd1hzU1hZZ2hBdXI4SmpfYWtSNjBhdG10TENhWQ",
   "https://thehill.com/?p=6015291",
   "https://thehill.com/?p=6015981",
@@ -799,21 +797,11 @@
   "CBMiXEFVX3lxTE9KRF9RQjVxQ1l5SU5BWXBxMDJFaDBLR1pxcUpXWG9zZkl6Tnl5Q0hSeWRQSlVzdnZrQ3VUNUJLRkdKSUozTFVYR1Z4ekphQ25rVDZEaXE4MjJYUTU2",
   "https://nypost.com/?post_type=article&p=40343887",
   "CBMiqAFBVV95cUxNUVlJUzBhcmdocU1lR3phY3JlcHpNb3hhWGdKcmJtSHA5MUhzN1ZXc2JpZll6OV9wWkJLNGhzWXRyVlVsdkJmU0ZlZTlpMTRNbWliSVJJdXA3MUtmUWFiV0ZSTEROa1VpT3FTWG04T21TWUkydjNyNEx0SWZwVGROUzhUaWxQNWQ4YnczQmNhUTdhQzBvX2UtT0dOY0lDLS1vMk1TMlNGZ2I",
-  "CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw"
+  "CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw",
+  "https://www.theguardian.com/us-news/2026/aug/15/egg-recall-us-south-and-south-west-salmonella-outbreak",
+  "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires"
  ],
  "posts": [
-  {
-   "fp": "attack backed developments houthis iranian kill mideast other vessel",
-   "title": "Iranian-backed Houthis kill 4 in attack on vessel, and other developments in the Mideast",
-   "source": "AP",
-   "at": "2026-08-11T16:12:57.278980+00:00"
-  },
-  {
-   "fp": "acres across border california converge evacuations massive nevada underway wildfires",
-   "title": "Two massive wildfires converge to rip across 44,000 acres on California-Nevada border as evacuations underway",
-   "source": "New York Post",
-   "at": "2026-08-11T17:14:09.954921+00:00"
-  },
   {
    "fp": "evacuations explodes luxury raging resort size wildfire",
    "title": "Evacuations at luxury Big Sur resort as raging wildfire explodes in size",
@@ -3201,11 +3189,21 @@
    "title": "Israeli strike kills seven in south Lebanon, state news reports\u200b",
    "source": "Reuters",
    "at": "2026-08-15T15:53:18.863085+00:00"
+  },
+  {
+   "fp": "massive outbreak recall salmonella south west",
+   "title": "Massive egg recall in US south and south-west due to salmonella outbreak",
+   "source": "Guardian World",
+   "at": "2026-08-15T16:15:53.464981+00:00"
+  },
+  {
+   "fp": "alarm alarmed alert message people phones react severe wildfires",
+   "title": "Alarmed by the alarm: people react to \u2018severe alert\u2019 on phones with message on UK wildfires",
+   "source": "Guardian World",
+   "at": "2026-08-15T16:15:55.218914+00:00"
   }
  ],
  "titles": [
-  "attack backed developments houthis iranian kill mideast other vessel",
-  "acres across border california converge evacuations massive nevada underway wildfires",
   "evacuations explodes luxury raging resort size wildfire",
   "blazing college dead fight fresno graduate house party shot woman",
   "attack council dumped four hopeful issues mayoral nithya president raman role scathing word",
@@ -3603,6 +3601,8 @@
   "edition journal print street wall",
   "bank colombian donates earthquake girl heartwarming moment piggy victims video",
   "aircraft begin belgium evacuations fights record sends wildfire",
-  "israeli kills lebanon news reports seven south state strike"
+  "israeli kills lebanon news reports seven south state strike",
+  "massive outbreak recall salmonella south west",
+  "alarm alarmed alert message people phones react severe wildfires"
  ]
 }
