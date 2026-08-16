@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40149312",
-  "https://nypost.com/?post_type=article&p=40253831",
-  "CBMirwFBVV95cUxOM0E3NWhTMHdFczZGRndJTDREOWFZSWZjVUtmQnVid1VCWHZQcWpObTlmbnFCWTdnTjNDZXgzZXN4dW82QzZQVzM4aE9SOFJoUXFuYWd4cmpTQk1DMHQzeHpCWlprT0VmTGhUN2x3ekZoZDBDWDNWT3Q0a19VSEIzM3BVUFNtYXZIeVl1M1pPdGN6dUl1eW54WVQ4Sm5OOWhXX1Y1OFR4azFWWmpqZ2Rz",
   "https://nypost.com/?post_type=article&p=40254415",
   "https://nypost.com/?post_type=article&p=40254072",
   "https://www.washingtonexaminer.com/?p=4680277",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6032232",
   "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
   "https://thehill.com/?p=6032102",
-  "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash"
+  "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
+  "https://nypost.com/?post_type=article&p=40368523",
+  "CBMiZ0FVX3lxTE44LTM4c2FvemlqVWlMbkJxTzE4aWZTcXlLSnBGLWtqME5ydGh6clBaSUtiUzlCY1VDTzRkYkVMUktOY0hNd3RQZnQtUjRmU2o0eUduakg1LVViZGZneDZNYkR5XzdnLVU",
+  "https://news.sky.com/story/ebola-outbreak-in-dr-congo-now-deadliest-in-countrys-history-13573874"
  ],
  "posts": [
-  {
-   "fp": "defends endorsement hong khanna loss primary surprise wisconsin",
-   "title": "Khanna defends Hong endorsement after surprise loss in Wisconsin primary",
-   "source": "The Hill",
-   "at": "2026-08-12T21:44:18.145830+00:00"
-  },
-  {
-   "fp": "backed hasan hong loss piker primary sounds thanksgiving",
-   "title": "Hasan Piker sounds off after DSA-backed Hong\u2019s primary loss: \u2018F*** Thanksgiving\u2019",
-   "source": "Washington Examiner",
-   "at": "2026-08-12T21:44:19.851296+00:00"
-  },
-  {
-   "fp": "bessent counter evasion lack press rubio russia sanctions senators",
-   "title": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia",
-   "source": "Reuters World",
-   "at": "2026-08-12T21:44:21.601999+00:00"
-  },
   {
    "fp": "billion deficit grow july negative outlays receipts stay tariff tops",
    "title": "US July deficit tops $432 billion as outlays grow, tariff receipts stay negative",
@@ -3201,12 +3183,27 @@
    "title": "Five teenagers killed and four other people injured in Ireland car crash",
    "source": "Guardian World",
    "at": "2026-08-16T22:13:18.192776+00:00"
+  },
+  {
+   "fp": "actor battle blaze burns dawn dead devastated down firefighters home moment",
+   "title": "Moment \u2018Dawn of the Dead\u2019 actor\u2019s home burns down as firefighters battle blaze: \u2018Devastated\u2019",
+   "source": "New York Post",
+   "at": "2026-08-16T22:38:31.924739+00:00"
+  },
+  {
+   "fp": "engulfs greek island killed least salamina wildfire",
+   "title": "At least two killed as wildfire engulfs Greek island of Salamina",
+   "source": "Reuters World",
+   "at": "2026-08-16T22:38:33.648592+00:00"
+  },
+  {
+   "fp": "congo country deadliest ebola history outbreak",
+   "title": "Ebola outbreak in DR Congo now deadliest in country's history",
+   "source": "Sky News",
+   "at": "2026-08-16T22:38:35.365749+00:00"
   }
  ],
  "titles": [
-  "defends endorsement hong khanna loss primary surprise wisconsin",
-  "backed hasan hong loss piker primary sounds thanksgiving",
-  "bessent counter evasion lack press rubio russia sanctions senators",
   "billion deficit grow july negative outlays receipts stay tariff tops",
   "allegation faces indicted lying nick parents reiner slayings wait",
   "child dying killed minnesota police suicide wife",
@@ -3603,6 +3600,9 @@
   "cassidy claims crazy down going numbers order poll president stupid trump vaccine",
   "about claims crazy denounces republican safety senator stupid trump vaccine",
   "about cassidy changing evident lied pretty schedule vaccine",
-  "crash five four injured ireland killed other people teenagers"
+  "crash five four injured ireland killed other people teenagers",
+  "actor battle blaze burns dawn dead devastated down firefighters home moment",
+  "engulfs greek island killed least salamina wildfire",
+  "congo country deadliest ebola history outbreak"
  ]
 }
