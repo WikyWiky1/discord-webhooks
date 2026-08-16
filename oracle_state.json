@@ -4,7 +4,12 @@
       "discord_id": "1536018937760845844",
       "start": "2026-08-15T21:30:00+00:00",
       "name": "UFC 330: Makhachev vs. Machado Garry"
+    },
+    "600060493": {
+      "discord_id": "1538552709723066411",
+      "start": "2026-08-22T21:00:00+00:00",
+      "name": "UFC Fight Night: Hernandez vs. Rodrigues"
     }
   },
-  "last_run": "2026-08-15T14:18:14+00:00"
+  "last_run": "2026-08-16T14:19:11+00:00"
 }
