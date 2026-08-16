@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMi3wFBVV95cUxNOFk2Y1FTV2RvdVA5UHZWbmNPR1BUalp2YlptN0tqS3NYZkRlV1FkNm9FSWpicnIwS0t6bW5qWEtvRTFNdHRFZFpwZ1ZBRGFjWHJBNWZrUFdIUEt0cFlnaXRMMTFTRE81Ql9ISWd4TVlxTHBqaFNyYTYxT091XzR1ajY3eGxybmpreVhVTVJiQTJyRnRhZUhCcUNyQUtUVmZZOWZiMG9FNU1zc2ZaYzd1WmtHek9ZU1l2RVQtTXlGQXBqMUdkRU9tNm95M291bXF3LWY1bjFCOWhzdGdBUGNj",
   "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
   "https://thehill.com/?p=6017982",
   "https://nypost.com/?post_type=article&p=40248604",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6030687",
   "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
   "https://www.theguardian.com/world/2026/aug/16/polish-tourist-bus-crash-northern-hungary-catholic-pilgrims",
-  "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire"
+  "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
+  "CBMiZkFVX3lxTFBjOUF2VEN5WFprVmxCUXc2RWxFM3NiOTZtVHRhV0NLdjBfMGl2ZVEyb0owWGd4VHY5SnVmMHVfTktpTnJnclpycHJ2bXVEZFVkRjlMWnJGdHNwNDYwaEhuQ05OSGNvUQ"
  ],
  "posts": [
-  {
-   "fp": "abolished election face georgie group including microparty purcell struggle tickets victorian voting",
-   "title": "Victorian microparty MPs including Georgie Purcell to face re-election struggle after group voting tickets abolished",
-   "source": "Guardian World",
-   "at": "2026-08-12T07:24:10.418834+00:00"
-  },
   {
    "fp": "another election leadership luxon months survives vote zealand",
    "title": "Luxon survives another leadership vote months before New Zealand\u2019s election",
@@ -3201,10 +3195,15 @@
    "title": "\u2018Massive\u2019 Ukrainian drone attack on Russia kills at least six, says Moscow",
    "source": "Guardian World",
    "at": "2026-08-16T11:36:30.935944+00:00"
+  },
+  {
+   "fp": "crash deadly hungary polish removed wreckage",
+   "title": "Polish bus wreckage removed after deadly Hungary crash",
+   "source": "Reuters World",
+   "at": "2026-08-16T11:52:55.800880+00:00"
   }
  ],
  "titles": [
-  "abolished election face georgie group including microparty purcell struggle tickets victorian voting",
   "another election leadership luxon months survives vote zealand",
   "bali burning dead dozens evacuate ferry indonesian least left near rescuers",
   "attack drone grain halts industry novorossiysk operations russia source terminal ukrainian",
@@ -3603,6 +3602,7 @@
   "back court docket emergency roars supreme",
   "crops cyclists danube destroyed devastated drought riverbed rock starvation",
   "carrying crashes dead hungary leaving pilgrims polish",
-  "attack drone kills least massive moscow russia ukrainian"
+  "attack drone kills least massive moscow russia ukrainian",
+  "crash deadly hungary polish removed wreckage"
  ]
 }
