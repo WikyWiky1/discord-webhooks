@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#1",
   "https://nypost.com/?post_type=article&p=40253501",
   "CBMihAFBVV95cUxNSjh6QlBTczc0SVVjakZ5VkowSEtxRTN0VUQwYWxaaldPcE5SZVU4UDdGNzVXN3VhcVI4SEx0UUNCTTctRHQ3bUVoMXBIVlVibFMwVDYwV1doZWdzSzl2dkVpeUJLVmhnS3IyYllPbGZkQkdPT0lyQk52VlZxNENKSF9HNzk",
   "CBMijgFBVV95cUxPeWIzT1dzUEI1bndudWxMT1RZYmFzaGR3ZlYtOV9oWDV0dlNjcEdGZnE5bXVJcmpQcUpNMlFwbVBjR2hKVXp5SzJZX2ZodVNYQ2lMS3kyMXNvR1VqdzR5blRFaHk3dGl6YUpQaUxsMzJrN25nVGlzZG9PZXRVSHZqM0dKVjRlY3MyTmF1UjhR",
@@ -799,15 +798,10 @@
   "https://www.bbc.co.uk/news/articles/c0l5583903yo#0",
   "https://nypost.com/?post_type=article&p=40366251",
   "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths",
-  "CBMirAFBVV95cUxOeHp6X2JJbW1iWGZ6RHVsUWZ1MGRIeHczMjJNSy1mMWdXYThLb0t4WTlmek1zcWxUZHVmVE9IY0FWS3Zja3ltS1VRMkZKMDRyWVJFdkVMZ2R2cDhEdXJOak5UdG1SMVRILWhCWl93YkNyM0NQekYwem5wSTJDSTdCbXlLT2paRHdLMDZScVN0UWQ1SzlzY3JXZGctcTFyeGVDbTktdlJkTGJ6aEZv"
+  "CBMirAFBVV95cUxOeHp6X2JJbW1iWGZ6RHVsUWZ1MGRIeHczMjJNSy1mMWdXYThLb0t4WTlmek1zcWxUZHVmVE9IY0FWS3Zja3ltS1VRMkZKMDRyWVJFdkVMZ2R2cDhEdXJOak5UdG1SMVRILWhCWl93YkNyM0NQekYwem5wSTJDSTdCbXlLT2paRHdLMDZScVN0UWQ1SzlzY3JXZGctcTFyeGVDbTktdlJkTGJ6aEZv",
+  "CBMikwFBVV95cUxQTFNQTndtR3NlQmdYOUtfUF9EMTJPWmVkNzg0Mzd3RU1iRWxKSzhwNVoxYUFvdlFBY0JLdUdWczUxbDlubVhwMGY4NnpEbVVUWHA0dGV4a0ZDb0JwN2xtS0NYQ2dFS1plek5DU0w0ZGtSY3BQOVN5N0JfZnZFUXkzY3hVWEhhaGVIY0VWWjlhN09rWm8"
  ],
  "posts": [
-  {
-   "fp": "backs carolina chair graham nrsc scott seat senate south",
-   "title": "Tim Scott, NRSC chair, backs Graham for South Carolina Senate seat",
-   "source": "The Hill",
-   "at": "2026-08-12T19:01:44.996717+00:00"
-  },
   {
    "fp": "double levy life murderer rapist sentenced simon tariff whole",
    "title": "Double murderer and rapist Simon Levy sentenced to whole-life tariff",
@@ -3201,10 +3195,15 @@
    "title": "Police looking for additional people who fired guns in Virginia university shooting that wounded 5",
    "source": "AP",
    "at": "2026-08-16T19:37:01.467775+00:00"
+  },
+  {
+   "fp": "iranians kill offered troops",
+   "title": "Iranians offered $30k to kill US troops",
+   "source": "Telegraph",
+   "at": "2026-08-16T19:50:55.001977+00:00"
   }
  ],
  "titles": [
-  "backs carolina chair graham nrsc scott seat senate south",
   "double levy life murderer rapist sentenced simon tariff whole",
   "decade experts goal split take trump vaccine",
   "california colombia deadly dire earthquake forecast issues predictor tremor warned",
@@ -3603,6 +3602,7 @@
   "campus closet found hiding shooting suspect teen virginia",
   "california caused common disease dozens incurable item killed kitchen surviving",
   "days dead flooding indiana least people record storms",
-  "additional fired guns looking people police shooting university virginia wounded"
+  "additional fired guns looking people police shooting university virginia wounded",
+  "iranians kill offered troops"
  ]
 }
