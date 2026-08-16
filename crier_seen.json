@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40242004",
-  "https://nypost.com/?post_type=article&p=40240282",
   "CBMirAFBVV95cUxOWWFoTE9KRHJmOHpyeTlGcGJPVzQ1MXFMaFd3MWlHMzBERzdWMWROekpIcHhOcDJSdTlrdUx6Q3NXT1RfTWRsaW1kVS1RaDFPSUpENW5mQlhBQkNaN1FRZjJ6YS1QUmpjQ1JQWnJPR1ZqZDJnWlNhXy1sZVBKUFFVNmttS1p2ZVhtNDZsaEd3MEt0c3RYZG5VWFNfQ2phZnk1QlNFUFpqOEZjSlJZ",
   "https://www.theguardian.com/us-news/2026/aug/07/yolanda-olejniczak-marodi-wife-husband-murder",
   "https://nypost.com/?post_type=article&p=40242309",
@@ -799,21 +797,11 @@
   "CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk",
   "CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw",
   "CBMiogFBVV95cUxNNGMzYVlleE9RcTFadDNuX2dKNWpRZkd2MU1rbDFGZy1WTHpUN3BEVzlqSGJQRmRPUHpRZGcxU0tWSGRHbDFhMGJvZzVnLWhXMTdoQ1FqTEVObXVyV2taekp0VEhIUlNuR29CaUMxZGd0YlAwQmM1cjBFZnZTNlVIX3BORjBUZ1pTenlJRjN4cl83amtwaUlkUkhjZnZheDJEOUE",
-  "https://nypost.com/?post_type=article&p=40362308"
+  "https://nypost.com/?post_type=article&p=40362308",
+  "https://news.sky.com/story/hurricane-lala-hits-hawaii-with-89000-losing-power-13573607",
+  "https://nypost.com/?post_type=article&p=40362387"
  ],
  "posts": [
-  {
-   "fp": "governor nomination secures tiffany wisconsin",
-   "title": "Tom Tiffany secures GOP nomination for Wisconsin governor",
-   "source": "Washington Examiner",
-   "at": "2026-08-12T01:54:59.118238+00:00"
-  },
-  {
-   "fp": "connecticut former hartford house larson mayor ousts primary",
-   "title": "Former Hartford mayor ousts Larson in Connecticut House primary",
-   "source": "The Hill",
-   "at": "2026-08-12T01:55:01.011949+00:00"
-  },
   {
    "fp": "carolina darline face graham norman primary ralph republican runoff south",
    "title": "Darline Graham to face Ralph Norman in South Carolina Republican primary runoff",
@@ -3201,11 +3189,21 @@
    "title": "Virginia State University mass shooting suspect caught after police manhunt for perp in campus bloodbath",
    "source": "New York Post",
    "at": "2026-08-16T03:15:12.310073+00:00"
+  },
+  {
+   "fp": "hawaii hits hurricane lala losing power",
+   "title": "Hurricane Lala hits Hawaii - with 89,000 losing power",
+   "source": "Sky News",
+   "at": "2026-08-16T04:01:10.453958+00:00"
+  },
+  {
+   "fp": "colombia days dead earthquake found groom hits hotel rubble wedding",
+   "title": "Groom-to-be found dead in hotel rubble after Colombia earthquake hits 2 days before his wedding",
+   "source": "New York Post",
+   "at": "2026-08-16T04:01:12.190129+00:00"
   }
  ],
  "titles": [
-  "governor nomination secures tiffany wisconsin",
-  "connecticut former hartford house larson mayor ousts primary",
   "carolina darline face graham norman primary ralph republican runoff south",
   "alabama carl congress house jerry moore primary return seat track",
   "brown cook crises defined diplomatic election islands mark speaks year",
@@ -3603,6 +3601,8 @@
   "attack fires injures kyiv missile officials russian sparks ukraine",
   "indonesia kills landslides quake rescuers rubble through",
   "ceasefire deadliest israel june kills lebanon since strikes",
-  "bloodbath campus caught manhunt mass perp police shooting state suspect university virginia"
+  "bloodbath campus caught manhunt mass perp police shooting state suspect university virginia",
+  "hawaii hits hurricane lala losing power",
+  "colombia days dead earthquake found groom hits hotel rubble wedding"
  ]
 }
