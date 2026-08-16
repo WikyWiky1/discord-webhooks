@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6017982",
-  "https://nypost.com/?post_type=article&p=40248604",
-  "https://nypost.com/?post_type=article&p=40244652",
   "https://nypost.com/?post_type=article&p=40247933",
   "https://www.theguardian.com/us-news/2026/aug/07/utah-wildfire-helicopter-crash",
   "https://thehill.com/?p=6018225",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/world/2026/aug/16/polish-tourist-bus-crash-northern-hungary-catholic-pilgrims",
   "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
   "CBMiZkFVX3lxTFBjOUF2VEN5WFprVmxCUXc2RWxFM3NiOTZtVHRhV0NLdjBfMGl2ZVEyb0owWGd4VHY5SnVmMHVfTktpTnJnclpycHJ2bXVEZFVkRjlMWnJGdHNwNDYwaEhuQ05OSGNvUQ",
-  "https://nypost.com/?post_type=article&p=40363886"
+  "https://nypost.com/?post_type=article&p=40363886",
+  "https://thehill.com/?p=6031829",
+  "https://www.washingtonexaminer.com/?p=4682229",
+  "https://thehill.com/?p=6030816"
  ],
  "posts": [
-  {
-   "fp": "bali burning dead dozens evacuate ferry indonesian least left near rescuers",
-   "title": "Indonesian rescuers evacuate dozens from a burning ferry that left at least 1 dead near Bali",
-   "source": "AP",
-   "at": "2026-08-12T08:10:53.485937+00:00"
-  },
-  {
-   "fp": "attack drone grain halts industry novorossiysk operations russia source terminal ukrainian",
-   "title": "Russia's Novorossiysk grain terminal halts operations after Ukrainian drone attack, industry source says",
-   "source": "Reuters",
-   "at": "2026-08-12T08:10:55.178824+00:00"
-  },
-  {
-   "fp": "army deployment east excitement fatal feehan fianc middle mother recall slain tyler",
-   "title": "Slain Army 1st Lt. Tyler Feehan\u2019s mother and fianc\u00e9e recall his excitement before fatal Middle East deployment",
-   "source": "New York Post",
-   "at": "2026-08-12T09:33:05.065333+00:00"
-  },
   {
    "fp": "cobra convenes emergency extreme government heat heatwave issues live meeting office warning",
    "title": "UK heatwave live: Met Office issues extreme heat warning as government convenes emergency Cobra meeting",
@@ -3201,12 +3183,27 @@
    "title": "At least one killed, four wounded in Hartford shooting",
    "source": "New York Post",
    "at": "2026-08-16T12:25:01.166311+00:00"
+  },
+  {
+   "fp": "bill daylight permanent possible pushes saving senate soon time trump vote",
+   "title": "Trump pushes Senate to vote on permanent daylight saving time bill 'as soon as possible'",
+   "source": "The Hill",
+   "at": "2026-08-16T12:37:27.309653+00:00"
+  },
+  {
+   "fp": "about back control question real school science vaccine",
+   "title": "The real back-to-school vaccine question isn\u2019t about science \u2014 it\u2019s about control",
+   "source": "Washington Examiner",
+   "at": "2026-08-16T12:37:29.115601+00:00"
+  },
+  {
+   "fp": "fight florida last marks primary stand",
+   "title": "Florida primary fight marks DSA's last stand",
+   "source": "The Hill",
+   "at": "2026-08-16T12:37:30.836434+00:00"
   }
  ],
  "titles": [
-  "bali burning dead dozens evacuate ferry indonesian least left near rescuers",
-  "attack drone grain halts industry novorossiysk operations russia source terminal ukrainian",
-  "army deployment east excitement fatal feehan fianc middle mother recall slain tyler",
   "cobra convenes emergency extreme government heat heatwave issues live meeting office warning",
   "apparent calling children kansas kills life murder offender suicide taking wife",
   "concerns health mill nuclear power push ramps tribal uranium",
@@ -3603,6 +3600,9 @@
   "carrying crashes dead hungary leaving pilgrims polish",
   "attack drone kills least massive moscow russia ukrainian",
   "crash deadly hungary polish removed wreckage",
-  "four hartford killed least shooting wounded"
+  "four hartford killed least shooting wounded",
+  "bill daylight permanent possible pushes saving senate soon time trump vote",
+  "about back control question real school science vaccine",
+  "fight florida last marks primary stand"
  ]
 }
