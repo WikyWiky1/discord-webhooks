@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6017347",
   "CBMiqAFBVV95cUxPZXFjOGlGSWlVVFQtNW5CeDhLSGdXV3QyaFRVR0g4RkJGNFA2aktsd185WGRUN3FaZlRxMWxLcm40T3J5dUtiQ21jT3NsNFZWTW95X2Y2ejFLaW83d2tidFVXUTNzVDFzVWVwaWZXcm9XX0U3T3NWZThBUHR5VlpCOHJESWtQTnZ3TjJpVXJYYTRFa0NzVjlWZHZ6SlZsVlZMQklPaHExbms",
   "https://www.washingtonexaminer.com/?p=4679983",
   "https://nypost.com/?post_type=article&p=40252595",
@@ -799,15 +798,10 @@
   "CBMikwFBVV95cUxQTFNQTndtR3NlQmdYOUtfUF9EMTJPWmVkNzg0Mzd3RU1iRWxKSzhwNVoxYUFvdlFBY0JLdUdWczUxbDlubVhwMGY4NnpEbVVUWHA0dGV4a0ZDb0JwN2xtS0NYQ2dFS1plek5DU0w0ZGtSY3BQOVN5N0JfZnZFUXkzY3hVWEhhaGVIY0VWWjlhN09rWm8",
   "https://nypost.com/?post_type=article&p=40366016",
   "https://nypost.com/?post_type=article&p=40366411",
-  "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths"
+  "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
+  "CBMikwFBVV95cUxOU015Y3pjUWRIci0wcE4zOVMtXzdFSWpiZkZFNGFqRVpCMHlkUGF5NjZfV2V2ejRZUVJvVDFZR0Fld0VienFaTVB2cG05ZzNQNnZ3bkFpYzdYczZmZEx2WTNzb0QxaWE4ZzJibE5DcjN5YUU3SFNxZzNKVTk0aEJ2UlRRSDB6R1haZ25IMFktQzNKYnc"
  ],
  "posts": [
-  {
-   "fp": "died family kids killed mother murder protecting suicide",
-   "title": "Mother of 5 killed by ex in murder-suicide \u2018died protecting her kids,\u2019 family says",
-   "source": "New York Post",
-   "at": "2026-08-12T19:28:43.608682+00:00"
-  },
   {
    "fp": "anti back comes dead fund georgia life race senate trump weaponization",
    "title": "Trump\u2019s dead \u2018anti-weaponization fund\u2019 comes back to life in Georgia Senate race",
@@ -3201,10 +3195,15 @@
    "title": "Multiple people dead as flooding continues in Indiana",
    "source": "NPR News",
    "at": "2026-08-16T20:57:03.845201+00:00"
+  },
+  {
+   "fp": "alert behave emergency heatwave need people sensibly",
+   "title": "Do people need an emergency alert to behave sensibly in a heatwave?",
+   "source": "Telegraph",
+   "at": "2026-08-16T21:17:34.247742+00:00"
   }
  ],
  "titles": [
-  "died family kids killed mother murder protecting suicide",
   "anti back comes dead fund georgia life race senate trump weaponization",
   "alliances banks climate collapses flee gooder push report street wall zero",
   "emergency energy expansion export fast massive plaquemines terminal track trump",
@@ -3603,6 +3602,7 @@
   "iranians kill offered troops",
   "across california faces gavin insurance newsom plan rates revolt spike warning wildfire",
   "campus closet cowering found hours mass mayhem shooting state suspect university virginia",
-  "continues dead flooding indiana multiple people"
+  "continues dead flooding indiana multiple people",
+  "alert behave emergency heatwave need people sensibly"
  ]
 }
