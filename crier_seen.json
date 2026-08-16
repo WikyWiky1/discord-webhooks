@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiugFBVV95cUxPS1pzc3VGczBLMk1abjZhQXdKWUNMbXoxUlhkWmFyc2ZCUjg2SFVtNnltdzIwcEtDMDg0SDg4bWRzU2RNN25SMGN6TzNTdVVtdmVzdjVtcnRIZi00dFFUQ20xZHdUdDhCdkQxRGh2ZE1XTk1LSmdCazBCYWZ4SGNGRjdrdU85NDhlUWRRVDg4QU1YZXNEVXQyaHFqdk1EMnN4V3h6TXMxRUJRQWo0a3RwQ0x0R1k0RjlZOUE",
   "https://thehill.com/?p=6018352",
   "https://nypost.com/?post_type=article&p=40250967",
   "CBMiwwFBVV95cUxPWFAzQWhyMHFMN1ZpMm9wNll2WXhINmJQMDhVMTFkcUxnRTh4QmZnUjEyT3hpTmFnYldiZ29UX29YMUJHZXJuMkhoTHNfTnpWWFUwcnJMaTVCRjVFSFZEYmt4QWNTYkVqeUw5WUt4QllhUWpBTXBrN29ZZFdzRElROHEyX0p2TmNneFpuS0tSMVRLNndubHJyS0ZtZlcxRk00UXUyckN2UUpDQUI4bnZzVExmMXBSLWJxbWRqSWcwdEZZMUU",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40364676",
   "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0",
   "CBMingFBVV95cUxNdTlOejNLNjhzSFJEaWhObDR6ME9YV0p0Q3FEeHh4eEdieUNhRHNWZjVDUmZlWENZMUZEbExmUjZEbXVLSThQYVl6WVRpYWhwU3RTakRyREZUeVJOcHY0anRzYTNoMlJBaWdqWm5qMGdxSE9vUE9MY2Fmb3NtdnRFUTNnSlYySHpKODJUaU1fLUw1WmdyakVQWl9EM0N2UQ",
-  "https://nypost.com/?post_type=article&p=40365203"
+  "https://nypost.com/?post_type=article&p=40365203",
+  "https://nypost.com/?post_type=article&p=40326328"
  ],
  "posts": [
-  {
-   "fp": "attack dark exports grows houthi saudi threat",
-   "title": "Saudi Red Sea oil exports go dark as Houthi attack threat grows",
-   "source": "Reuters",
-   "at": "2026-08-12T15:16:45.781492+00:00"
-  },
   {
    "fp": "earnings highs power retrenches stocks strong supply tractor",
    "title": "Tractor Supply Retrenches; Strong Earnings Power Stocks to New Highs",
@@ -3201,10 +3195,15 @@
    "title": "Homeless man demands $10M for \u2018emotional distress\u2019 after being shot while breaking into business",
    "source": "New York Post",
    "at": "2026-08-16T17:13:35.304016+00:00"
+  },
+  {
+   "fp": "dead great john named surgery tommy yankees",
+   "title": "Tommy John, Yankees great who had surgery named after him, dead at 83",
+   "source": "New York Post",
+   "at": "2026-08-16T17:35:38.975401+00:00"
   }
  ],
  "titles": [
-  "attack dark exports grows houthi saudi threat",
   "earnings highs power retrenches stocks strong supply tractor",
   "advances carolina darline endorses graham nordone runoff scott south",
   "cameras cost google here latest much phones pixel slimmer unveils",
@@ -3603,6 +3602,7 @@
   "deadly floods football indiana jumped latest midwest raging river star victim",
   "break dead evacuation fires greek island under",
   "alarm emergency friday last point",
-  "breaking business demands distress emotional homeless shot"
+  "breaking business demands distress emotional homeless shot",
+  "dead great john named surgery tommy yankees"
  ]
 }
