@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6018324",
-  "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
-  "https://nypost.com/?post_type=article&p=40245413",
-  "https://thehill.com/?p=6017926",
   "https://nypost.com/?post_type=article&p=40228596",
   "https://nypost.com/?post_type=article&p=40250324",
   "CBMisAFBVV95cUxOZDRVbmJYT1dkcjVDVFcxSUd1N3NQX05HcXVpR0lRRWo4RDVCTGpLTG5aVDRnSk5Yc3NoRi1VaENibDRldWRWZGo2WlFtdXBGZUdNV2RHVl9XWTEzTDIzWEwxNktuNEtUc09uY1FROTNyTWJ4LUo2VFhkcG50UlVaSkpYNTNTMFBQTFlld1I3TENoM3l3Y2RCekJJUnppdHhNMHB5SnpSb1ZmMF91QmdJOA",
@@ -799,33 +795,13 @@
   "CBMioAFBVV95cUxPLVppSU51U1dPcElsem5CbVUzZmk1bTFYNExaYmczbXNTMVZ5elo5OG5pU3duektQb3E4WXFrRHBVZ0xoaVVUaDYyRE5tWjV5YjNEWGdnMlRKdDI5M1JKTXJteWZiM25BM05ZSVlUY3N3Ym5pTnZ3dUstOXVIRVJVeldBQzI1akxyNlZ5Z0thZkN4ZlhSVEhhaWcxa0RKRWVR",
   "CBMiZ0FVX3lxTE94NHhDNXVMZV9tbURhM09ORVh5ZHBQcHczMFdkaGF3VUJQRGFyZXctVVhIU3d0WkNhMThQU3dSMUhnLXBMSGF3elZRLTRTcjZjZ2YyYVUwQkxsWW40Tk1jLUpQdXBMNms",
   "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
-  "https://www.theguardian.com/us-news/2026/aug/16/michigan-shooting-girl-survives"
+  "https://www.theguardian.com/us-news/2026/aug/16/michigan-shooting-girl-survives",
+  "CBMimwFBVV95cUxNbWZ5enlDeFFXNXR6Y0lXSDhIZzdGWk1FSHdTUmk0RXVETzFTcWY2MDE1bVdLY2x1OE9EMkVPa3dsaE83bjdBMUtmSnN5U0lTTWdfVkJoVEJHNXZZbHF0eU91SkoyaXJxLTNUY2I1VjlaWkFLQzZnaVdSRWFLOEk5TTFsMUJFanVocm55ZHE0VHpzU2JBUUVqbVJnaw",
+  "https://thehill.com/?p=6031727",
+  "https://www.washingtonexaminer.com/?p=4688938",
+  "https://nypost.com/?post_type=article&p=40364556"
  ],
  "posts": [
-  {
-   "fp": "african armyworm discovery farmers fungus halting hope march offers",
-   "title": "Halting the march of the armyworm: fungus discovery offers hope to African farmers",
-   "source": "Guardian World",
-   "at": "2026-08-12T11:52:09.918195+00:00"
-  },
-  {
-   "fp": "banned calls damage grouse inglorious peatland prevent season twelfth wildfires",
-   "title": "Inglorious Twelfth? Calls for grouse season to be banned to prevent wildfires and peatland damage",
-   "source": "Guardian World",
-   "at": "2026-08-12T12:28:10.886998+00:00"
-  },
-  {
-   "fp": "ceasefire discussing extension iran iranian official senior",
-   "title": "Iran, US not discussing ceasefire extension, senior Iranian official says",
-   "source": "Reuters",
-   "at": "2026-08-12T12:28:12.900962+00:00"
-  },
-  {
-   "fp": "alive colombia hours pulled quake rubble woman",
-   "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-   "source": "BBC World",
-   "at": "2026-08-12T12:28:14.722483+00:00"
-  },
   {
    "fp": "also attack democrats gives hands line maha order trump vaccine voters",
    "title": "Trump\u2019s vaccine order hands some MAHA voters a win. It also gives Democrats an attack line",
@@ -3201,13 +3177,33 @@
    "title": "\u2018She is a hero\u2019: 13-year-old survivor of Michigan shooting spree called police",
    "source": "Guardian World",
    "at": "2026-08-16T14:15:46.539064+00:00"
+  },
+  {
+   "fp": "arrests ceuta evacuations hurricane indonesia lala podcast",
+   "title": "PODCAST: Indonesia evacuations, Hurricane Lala and Ceuta arrests",
+   "source": "Reuters World",
+   "at": "2026-08-16T14:42:16.217793+00:00"
+  },
+  {
+   "fp": "anti blanche dead fund live reaffirms todd updates weaponization",
+   "title": "Live updates: Todd Blanche reaffirms 'anti-weaponization' fund is 'dead'",
+   "source": "The Hill",
+   "at": "2026-08-16T14:42:17.958818+00:00"
+  },
+  {
+   "fp": "arrested critically five injured left shooting state suspect university virginia",
+   "title": "Suspect arrested in Virginia State University shooting that left five injured, one critically",
+   "source": "Washington Examiner",
+   "at": "2026-08-16T14:42:19.722255+00:00"
+  },
+  {
+   "fp": "away flooding hawaii hits homes kills lala storm sweeps tropical",
+   "title": "Tropical storm Lala kills 1, sweeps away homes as flooding hits Hawaii",
+   "source": "New York Post",
+   "at": "2026-08-16T14:42:21.461240+00:00"
   }
  ],
  "titles": [
-  "african armyworm discovery farmers fungus halting hope march offers",
-  "banned calls damage grouse inglorious peatland prevent season twelfth wildfires",
-  "ceasefire discussing extension iran iranian official senior",
-  "alive colombia hours pulled quake rubble woman",
   "also attack democrats gives hands line maha order trump vaccine voters",
   "carolina connecticut minnesota night primary south takeaways wisconsin",
   "california child deport feds inside killers mission molesters rapists stealth",
@@ -3603,6 +3599,10 @@
   "collision dead head irish motorway several",
   "attack book fire kyiv market russian sets",
   "hawaii heavy hurricane island lala lash rain region skirts wind",
-  "called hero michigan police shooting spree survivor year"
+  "called hero michigan police shooting spree survivor year",
+  "arrests ceuta evacuations hurricane indonesia lala podcast",
+  "anti blanche dead fund live reaffirms todd updates weaponization",
+  "arrested critically five injured left shooting state suspect university virginia",
+  "away flooding hawaii hits homes kills lala storm sweeps tropical"
  ]
 }
