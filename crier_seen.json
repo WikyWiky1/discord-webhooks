@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
-  "https://nypost.com/?post_type=article&p=40250023",
   "https://thehill.com/?p=6018009",
   "https://thehill.com/?p=6018324",
   "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
@@ -799,21 +797,11 @@
   "CBMinwFBVV95cUxNdGNUWXY3LUFsbk1JNXU5Nlp1ZVFoQTNtaVZsSmV6WVlidFM3T0VJSW1oMnE1WkstMkYzWVk1UTZPNUtzc2hkbHIycHdrX1dWSEZnazFSZFROckxNaW1EbzhwNjJ1MFI5Z1duYXBLWDRDN3BkRXQ4aEFfc3RWOXB6RVFHNlRxNXh4NzdMQ3Zfd1hIYjV6MWRXSmpHYVppamc",
   "CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ",
   "https://nypost.com/?post_type=article&p=40363945",
-  "CBMioAFBVV95cUxPLVppSU51U1dPcElsem5CbVUzZmk1bTFYNExaYmczbXNTMVZ5elo5OG5pU3duektQb3E4WXFrRHBVZ0xoaVVUaDYyRE5tWjV5YjNEWGdnMlRKdDI5M1JKTXJteWZiM25BM05ZSVlUY3N3Ym5pTnZ3dUstOXVIRVJVeldBQzI1akxyNlZ5Z0thZkN4ZlhSVEhhaWcxa0RKRWVR"
+  "CBMioAFBVV95cUxPLVppSU51U1dPcElsem5CbVUzZmk1bTFYNExaYmczbXNTMVZ5elo5OG5pU3duektQb3E4WXFrRHBVZ0xoaVVUaDYyRE5tWjV5YjNEWGdnMlRKdDI5M1JKTXJteWZiM25BM05ZSVlUY3N3Ym5pTnZ3dUstOXVIRVJVeldBQzI1akxyNlZ5Z0thZkN4ZlhSVEhhaWcxa0RKRWVR",
+  "CBMiZ0FVX3lxTE94NHhDNXVMZV9tbURhM09ORVh5ZHBQcHczMFdkaGF3VUJQRGFyZXctVVhIU3d0WkNhMThQU3dSMUhnLXBMSGF3elZRLTRTcjZjZ2YyYVUwQkxsWW40Tk1jLUpQdXBMNms",
+  "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
  ],
  "posts": [
-  {
-   "fp": "crowley david francesca gubernatorial hating holiday hong loses moderate primary wisconsin",
-   "title": "Holiday-hating Francesca Hong loses to moderate David Crowley in Wisconsin gubernatorial primary",
-   "source": "New York Post",
-   "at": "2026-08-12T10:04:46.159557+00:00"
-  },
-  {
-   "fp": "assassination flight indicates iran secret severity switch threat trump",
-   "title": "Trump\u2019s secret flight switch indicates severity of assassination threat by Iran",
-   "source": "Guardian World",
-   "at": "2026-08-12T10:39:30.907047+00:00"
-  },
   {
    "fp": "adaptation climate defra drought just staff wildfires working",
    "title": "Just 20 of 6,600 Defra staff working on climate adaptation amid drought and wildfires",
@@ -3201,11 +3189,21 @@
    "title": "Several dead in Irish motorway head-on collision",
    "source": "Telegraph",
    "at": "2026-08-16T13:16:08.157111+00:00"
+  },
+  {
+   "fp": "attack book fire kyiv market russian sets",
+   "title": "Russian attack on Kyiv sets book market on fire",
+   "source": "Reuters World",
+   "at": "2026-08-16T13:46:31.012980+00:00"
+  },
+  {
+   "fp": "hawaii heavy hurricane island lala lash rain region skirts wind",
+   "title": "Hurricane Lala skirts Hawaii\u2019s Big Island as heavy wind and rain lash region",
+   "source": "Guardian World",
+   "at": "2026-08-16T13:46:32.767737+00:00"
   }
  ],
  "titles": [
-  "crowley david francesca gubernatorial hating holiday hong loses moderate primary wisconsin",
-  "assassination flight indicates iran secret severity switch threat trump",
   "adaptation climate defra drought just staff wildfires working",
   "african armyworm discovery farmers fungus halting hope march offers",
   "banned calls damage grouse inglorious peatland prevent season twelfth wildfires",
@@ -3603,6 +3601,8 @@
   "alert emergency haigh louise signed wildfires",
   "battle belgian evacuate firefighters forced hundreds massive wildfire",
   "assailant attack back continue punches sing synagogue unhinged victim",
-  "collision dead head irish motorway several"
+  "collision dead head irish motorway several",
+  "attack book fire kyiv market russian sets",
+  "hawaii heavy hurricane island lala lash rain region skirts wind"
  ]
 }
