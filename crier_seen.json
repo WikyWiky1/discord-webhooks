@@ -1,9 +1,5 @@
 {
  "ids": [
-  "CBMiqAFBVV95cUxPZXFjOGlGSWlVVFQtNW5CeDhLSGdXV3QyaFRVR0g4RkJGNFA2aktsd185WGRUN3FaZlRxMWxLcm40T3J5dUtiQ21jT3NsNFZWTW95X2Y2ejFLaW83d2tidFVXUTNzVDFzVWVwaWZXcm9XX0U3T3NWZThBUHR5VlpCOHJESWtQTnZ3TjJpVXJYYTRFa0NzVjlWZHZ6SlZsVlZMQklPaHExbms",
-  "https://www.washingtonexaminer.com/?p=4679983",
-  "https://nypost.com/?post_type=article&p=40252595",
-  "https://nypost.com/?post_type=article&p=40220244",
   "https://www.washingtonexaminer.com/?p=4680260",
   "https://nypost.com/?post_type=article&p=40149312",
   "https://nypost.com/?post_type=article&p=40253831",
@@ -799,33 +795,13 @@
   "https://nypost.com/?post_type=article&p=40366016",
   "https://nypost.com/?post_type=article&p=40366411",
   "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
-  "CBMikwFBVV95cUxOU015Y3pjUWRIci0wcE4zOVMtXzdFSWpiZkZFNGFqRVpCMHlkUGF5NjZfV2V2ejRZUVJvVDFZR0Fld0VienFaTVB2cG05ZzNQNnZ3bkFpYzdYczZmZEx2WTNzb0QxaWE4ZzJibE5DcjN5YUU3SFNxZzNKVTk0aEJ2UlRRSDB6R1haZ25IMFktQzNKYnc"
+  "CBMikwFBVV95cUxOU015Y3pjUWRIci0wcE4zOVMtXzdFSWpiZkZFNGFqRVpCMHlkUGF5NjZfV2V2ejRZUVJvVDFZR0Fld0VienFaTVB2cG05ZzNQNnZ3bkFpYzdYczZmZEx2WTNzb0QxaWE4ZzJibE5DcjN5YUU3SFNxZzNKVTk0aEJ2UlRRSDB6R1haZ25IMFktQzNKYnc",
+  "https://nypost.com/?post_type=article&p=40364310",
+  "https://thehill.com/?p=6032232",
+  "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
+  "https://thehill.com/?p=6032102"
  ],
  "posts": [
-  {
-   "fp": "anti back comes dead fund georgia life race senate trump weaponization",
-   "title": "Trump\u2019s dead \u2018anti-weaponization fund\u2019 comes back to life in Georgia Senate race",
-   "source": "Washington Examiner",
-   "at": "2026-08-12T19:28:45.443908+00:00"
-  },
-  {
-   "fp": "alliances banks climate collapses flee gooder push report street wall zero",
-   "title": "Wall Street\u2019s \u2018net zero\u2019 climate push collapses as US banks flee do-gooder alliances: report",
-   "source": "New York Post",
-   "at": "2026-08-12T20:19:41.567541+00:00"
-  },
-  {
-   "fp": "emergency energy expansion export fast massive plaquemines terminal track trump",
-   "title": "Trump\u2019s \u2018energy emergency\u2019 could fast-track massive expansion of Plaquemines LNG export terminal",
-   "source": "AP",
-   "at": "2026-08-12T20:19:43.238084+00:00"
-  },
-  {
-   "fp": "affair arrested attack home incestuous shocked whose woman",
-   "title": "Mom whose incestuous affair with son shocked US arrested for attack on old woman\u2019s home",
-   "source": "New York Post",
-   "at": "2026-08-12T21:07:30.610178+00:00"
-  },
   {
    "fp": "indicted michele murders nick parents reiner",
    "title": "Nick Reiner indicted for murders of parents Rob and Michele Reiner",
@@ -3201,13 +3177,33 @@
    "title": "Do people need an emergency alert to behave sensibly in a heatwave?",
    "source": "Telegraph",
    "at": "2026-08-16T21:17:34.247742+00:00"
+  },
+  {
+   "fp": "america betting congress dems gingrich iran like north outlast politically take trump trying vietnam",
+   "title": "Iran betting it can outlast Trump if Dems take Congress, Gingrich says: \u2018Trying to win in America politically\u2019 like North Vietnam",
+   "source": "New York Post",
+   "at": "2026-08-16T21:19:21.140977+00:00"
+  },
+  {
+   "fp": "cassidy claims crazy down going numbers order poll president stupid trump vaccine",
+   "title": "Cassidy on Trump's vaccine order, 'crazy, stupid' claims: 'This is why the president's poll numbers are going down'",
+   "source": "The Hill",
+   "at": "2026-08-16T21:19:22.786752+00:00"
+  },
+  {
+   "fp": "about claims crazy denounces republican safety senator stupid trump vaccine",
+   "title": "Republican senator denounces Trump\u2019s \u2018crazy, stupid\u2019 claims about MMR vaccine safety",
+   "source": "Guardian World",
+   "at": "2026-08-16T21:19:26.554722+00:00"
+  },
+  {
+   "fp": "about cassidy changing evident lied pretty schedule vaccine",
+   "title": "Cassidy: 'Pretty evident' RFK Jr. lied about changing vaccine schedule",
+   "source": "The Hill",
+   "at": "2026-08-16T21:19:28.300232+00:00"
   }
  ],
  "titles": [
-  "anti back comes dead fund georgia life race senate trump weaponization",
-  "alliances banks climate collapses flee gooder push report street wall zero",
-  "emergency energy expansion export fast massive plaquemines terminal track trump",
-  "affair arrested attack home incestuous shocked whose woman",
   "indicted michele murders nick parents reiner",
   "defends endorsement hong khanna loss primary surprise wisconsin",
   "backed hasan hong loss piker primary sounds thanksgiving",
@@ -3603,6 +3599,10 @@
   "across california faces gavin insurance newsom plan rates revolt spike warning wildfire",
   "campus closet cowering found hours mass mayhem shooting state suspect university virginia",
   "continues dead flooding indiana multiple people",
-  "alert behave emergency heatwave need people sensibly"
+  "alert behave emergency heatwave need people sensibly",
+  "america betting congress dems gingrich iran like north outlast politically take trump trying vietnam",
+  "cassidy claims crazy down going numbers order poll president stupid trump vaccine",
+  "about claims crazy denounces republican safety senator stupid trump vaccine",
+  "about cassidy changing evident lied pretty schedule vaccine"
  ]
 }
