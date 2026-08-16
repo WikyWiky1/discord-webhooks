@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4679369",
-  "https://www.theguardian.com/us-news/2026/aug/07/sierra-nevada-foothills-fire-death",
-  "CBMihwFBVV95cUxNYWNfNkRadTdIZll4QXl1cXNlQzBjS2tOdlpkQl9kX0FHd2RzMmhJZFMtQUlmc2lDRS13OTJFRXhUSmdYUkwxYTcxeTBSM3lNVFctRTVOeG8xQTA2YWxJU29tS09mQ3o1RnAtaURsMkhyYy1NTE5oQ1lLdGt6SE1ENGJFeXJDQ00",
   "https://nypost.com/?post_type=article&p=40242004",
   "https://nypost.com/?post_type=article&p=40240282",
   "CBMirAFBVV95cUxOWWFoTE9KRHJmOHpyeTlGcGJPVzQ1MXFMaFd3MWlHMzBERzdWMWROekpIcHhOcDJSdTlrdUx6Q3NXT1RfTWRsaW1kVS1RaDFPSUpENW5mQlhBQkNaN1FRZjJ6YS1QUmpjQ1JQWnJPR1ZqZDJnWlNhXy1sZVBKUFFVNmttS1p2ZVhtNDZsaEd3MEt0c3RYZG5VWFNfQ2phZnk1QlNFUFpqOEZjSlJZ",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40360239",
   "https://thehill.com/?p=6031629",
   "https://nypost.com/?post_type=article&p=40362216",
-  "CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk"
+  "CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk",
+  "CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw",
+  "CBMiogFBVV95cUxNNGMzYVlleE9RcTFadDNuX2dKNWpRZkd2MU1rbDFGZy1WTHpUN3BEVzlqSGJQRmRPUHpRZGcxU0tWSGRHbDFhMGJvZzVnLWhXMTdoQ1FqTEVObXVyV2taekp0VEhIUlNuR29CaUMxZGd0YlAwQmM1cjBFZnZTNlVIX3BORjBUZ1pTenlJRjN4cl83amtwaUlkUkhjZnZheDJEOUE",
+  "https://nypost.com/?post_type=article&p=40362308"
  ],
  "posts": [
-  {
-   "fp": "declaring elections emergency happened national security stranger things trump",
-   "title": "Trump on declaring national security emergency for elections: 'Stranger things have happened'",
-   "source": "The Hill",
-   "at": "2026-08-12T00:39:10.840823+00:00"
-  },
-  {
-   "fp": "banana deadly escaped floods indian raft year",
-   "title": "How a 97-year-old escaped deadly Indian floods on a banana raft",
-   "source": "BBC World",
-   "at": "2026-08-12T00:39:12.581067+00:00"
-  },
-  {
-   "fp": "democratic gubernatorial klobuchar minnesota nomination wins",
-   "title": "Amy Klobuchar wins Democratic gubernatorial nomination in Minnesota",
-   "source": "Washington Examiner",
-   "at": "2026-08-12T01:54:57.387765+00:00"
-  },
   {
    "fp": "governor nomination secures tiffany wisconsin",
    "title": "Tom Tiffany secures GOP nomination for Wisconsin governor",
@@ -3201,12 +3183,27 @@
    "title": "Russian missile attack on Kyiv sparks fires, injures one, Ukraine officials say",
    "source": "Reuters",
    "at": "2026-08-16T02:18:16.709483+00:00"
+  },
+  {
+   "fp": "indonesia kills landslides quake rescuers rubble through",
+   "title": "Rescuers dig through rubble and landslides after Indonesia quake kills 47",
+   "source": "AP",
+   "at": "2026-08-16T03:15:08.921792+00:00"
+  },
+  {
+   "fp": "ceasefire deadliest israel june kills lebanon since strikes",
+   "title": "Israel kills 11 in deadliest strikes on Lebanon since June ceasefire",
+   "source": "Telegraph",
+   "at": "2026-08-16T03:15:10.654543+00:00"
+  },
+  {
+   "fp": "bloodbath campus caught manhunt mass perp police shooting state suspect university virginia",
+   "title": "Virginia State University mass shooting suspect caught after police manhunt for perp in campus bloodbath",
+   "source": "New York Post",
+   "at": "2026-08-16T03:15:12.310073+00:00"
   }
  ],
  "titles": [
-  "declaring elections emergency happened national security stranger things trump",
-  "banana deadly escaped floods indian raft year",
-  "democratic gubernatorial klobuchar minnesota nomination wins",
   "governor nomination secures tiffany wisconsin",
   "connecticut former hartford house larson mayor ousts primary",
   "carolina darline face graham norman primary ralph republican runoff south",
@@ -3603,6 +3600,9 @@
   "california launch mission secret spacex",
   "battles concerns conditions democrats lincoln november preview primary races raise shows stage sunday tight",
   "bound cancels chaos flights hawaii hurricane travel",
-  "attack fires injures kyiv missile officials russian sparks ukraine"
+  "attack fires injures kyiv missile officials russian sparks ukraine",
+  "indonesia kills landslides quake rescuers rubble through",
+  "ceasefire deadliest israel june kills lebanon since strikes",
+  "bloodbath campus caught manhunt mass perp police shooting state suspect university virginia"
  ]
 }
