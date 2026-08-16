@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMihAFBVV95cUxNSjh6QlBTczc0SVVjakZ5VkowSEtxRTN0VUQwYWxaaldPcE5SZVU4UDdGNzVXN3VhcVI4SEx0UUNCTTctRHQ3bUVoMXBIVlVibFMwVDYwV1doZWdzSzl2dkVpeUJLVmhnS3IyYllPbGZkQkdPT0lyQk52VlZxNENKSF9HNzk",
   "CBMijgFBVV95cUxPeWIzT1dzUEI1bndudWxMT1RZYmFzaGR3ZlYtOV9oWDV0dlNjcEdGZnE5bXVJcmpQcUpNMlFwbVBjR2hKVXp5SzJZX2ZodVNYQ2lMS3kyMXNvR1VqdzR5blRFaHk3dGl6YUpQaUxsMzJrN25nVGlzZG9PZXRVSHZqM0dKVjRlY3MyTmF1UjhR",
   "https://thehill.com/?p=6017347",
   "CBMiqAFBVV95cUxPZXFjOGlGSWlVVFQtNW5CeDhLSGdXV3QyaFRVR0g4RkJGNFA2aktsd185WGRUN3FaZlRxMWxLcm40T3J5dUtiQ21jT3NsNFZWTW95X2Y2ejFLaW83d2tidFVXUTNzVDFzVWVwaWZXcm9XX0U3T3NWZThBUHR5VlpCOHJESWtQTnZ3TjJpVXJYYTRFa0NzVjlWZHZ6SlZsVlZMQklPaHExbms",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths",
   "CBMirAFBVV95cUxOeHp6X2JJbW1iWGZ6RHVsUWZ1MGRIeHczMjJNSy1mMWdXYThLb0t4WTlmek1zcWxUZHVmVE9IY0FWS3Zja3ltS1VRMkZKMDRyWVJFdkVMZ2R2cDhEdXJOak5UdG1SMVRILWhCWl93YkNyM0NQekYwem5wSTJDSTdCbXlLT2paRHdLMDZScVN0UWQ1SzlzY3JXZGctcTFyeGVDbTktdlJkTGJ6aEZv",
   "CBMikwFBVV95cUxQTFNQTndtR3NlQmdYOUtfUF9EMTJPWmVkNzg0Mzd3RU1iRWxKSzhwNVoxYUFvdlFBY0JLdUdWczUxbDlubVhwMGY4NnpEbVVUWHA0dGV4a0ZDb0JwN2xtS0NYQ2dFS1plek5DU0w0ZGtSY3BQOVN5N0JfZnZFUXkzY3hVWEhhaGVIY0VWWjlhN09rWm8",
-  "https://nypost.com/?post_type=article&p=40366016"
+  "https://nypost.com/?post_type=article&p=40366016",
+  "https://nypost.com/?post_type=article&p=40366411"
  ],
  "posts": [
-  {
-   "fp": "decade experts goal split take trump vaccine",
-   "title": "Trump\u2019s goal to split MMR vaccine could take a decade, experts say",
-   "source": "Reuters",
-   "at": "2026-08-12T19:01:48.865285+00:00"
-  },
   {
    "fp": "california colombia deadly dire earthquake forecast issues predictor tremor warned",
    "title": "Earthquake predictor who warned of deadly Colombia tremor issues dire California forecast",
@@ -3201,10 +3195,15 @@
    "title": "Gavin Newsom wildfire plan faces revolt over warning it will spike insurance rates across California",
    "source": "New York Post",
    "at": "2026-08-16T20:13:45.341491+00:00"
+  },
+  {
+   "fp": "campus closet cowering found hours mass mayhem shooting state suspect university virginia",
+   "title": "Virginia State University mass-shooting suspect found cowering in campus closet over 14 hours after mayhem",
+   "source": "New York Post",
+   "at": "2026-08-16T20:39:59.964499+00:00"
   }
  ],
  "titles": [
-  "decade experts goal split take trump vaccine",
   "california colombia deadly dire earthquake forecast issues predictor tremor warned",
   "died family kids killed mother murder protecting suicide",
   "anti back comes dead fund georgia life race senate trump weaponization",
@@ -3603,6 +3602,7 @@
   "days dead flooding indiana least people record storms",
   "additional fired guns looking people police shooting university virginia wounded",
   "iranians kill offered troops",
-  "across california faces gavin insurance newsom plan rates revolt spike warning wildfire"
+  "across california faces gavin insurance newsom plan rates revolt spike warning wildfire",
+  "campus closet cowering found hours mass mayhem shooting state suspect university virginia"
  ]
 }
