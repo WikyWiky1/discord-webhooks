@@ -672,9 +672,9 @@
    "message_id": "1538208280717955103",
    "event": "Extreme Heat Warning",
    "area": "Marion; Chase; Reno; Harvey; Butler; Greenwood; Woodson; Allen; Kingman; Sedgwick; Harper; Sumner; Cowley; Elk; Wilson; Neosho; Chautauqua; Montgomery; Labette",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-15T15:30:32+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-16T01:13:51+00:00"
   },
   {
    "id": "urn:oid:2.49.0.1.840.0.5e848e2d1eca95a15e4a6b4be9256ff1d67a769f.001.1",
@@ -708,8 +708,17 @@
    "message_id": "1538321615841009715",
    "event": "Flash Flood Warning",
    "area": "San Bernardino, CA; Clark, NV",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-15T23:00:53+00:00",
+   "expired_at": "2026-08-16T01:13:52+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.df6a9dbc349eee87fe05a47132a5e36672ad7ed0.001.1",
+   "message_id": "1538355066921029654",
+   "event": "Flash Flood Warning",
+   "area": "San Bernardino, CA; Clark, NV",
+   "expired": false,
+   "posted_at": "2026-08-16T01:13:49+00:00",
    "expired_at": null
   }
  ]
