@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4679681",
   "https://www.theguardian.com/us-news/2026/aug/07/idaho-police-shooting-in-n-out-burger-video",
   "https://www.bbc.co.uk/news/articles/cdewx6rew04o#0",
   "https://nypost.com/?post_type=article&p=40243682",
@@ -799,15 +798,10 @@
   "https://www.bbc.co.uk/news/articles/ckg4424zd7go#0",
   "CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU",
   "https://www.bbc.co.uk/news/articles/c1411pgje8xo#0",
-  "CBMijwFBVV95cUxQSUxBb3EyOW41YVFzUVIwei1TMV9SMmUzbHV1OXFLSE9hSlhCS1MzdjdSS0tJanE2bE5zMHdicFJSb2pMU21HMW00UjZxaVh1X0JEWFlkOEhKalhvY2ZwQXFMemVkZWxrZGVzUlZ4OFpfVzRva0kwbE9RQUd6QU9qV0FEdFlEM3RrdEdWMWFFYw"
+  "CBMijwFBVV95cUxQSUxBb3EyOW41YVFzUVIwei1TMV9SMmUzbHV1OXFLSE9hSlhCS1MzdjdSS0tJanE2bE5zMHdicFJSb2pMU21HMW00UjZxaVh1X0JEWFlkOEhKalhvY2ZwQXFMemVkZWxrZGVzUlZ4OFpfVzRva0kwbE9RQUd6QU9qV0FEdFlEM3RrdEdWMWFFYw",
+  "https://news.sky.com/story/twelve-killed-as-tourist-bus-crashes-in-hungary-13573631"
  ],
  "posts": [
-  {
-   "fp": "battle between candidates centrist democratic flanagan latest leftists minnesota peggy primary senate walz wins",
-   "title": "Walz Lt. Gov. Peggy Flanagan wins Minnesota Democratic Senate primary in latest battle between leftists and centrist candidates",
-   "source": "New York Post",
-   "at": "2026-08-12T04:47:06.406497+00:00"
-  },
   {
    "fp": "beijing brings china dolphin evacuations mass rain torrential typhoon",
    "title": "Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China",
@@ -3201,10 +3195,15 @@
    "title": "Two women killed in floods in Spain",
    "source": "Reuters World",
    "at": "2026-08-16T08:20:23.900093+00:00"
+  },
+  {
+   "fp": "crashes hungary killed tourist twelve",
+   "title": "Twelve killed as tourist bus crashes in Hungary",
+   "source": "Sky News",
+   "at": "2026-08-16T08:59:39.419256+00:00"
   }
  ],
  "titles": [
-  "battle between candidates centrist democratic flanagan latest leftists minnesota peggy primary senate walz wins",
   "beijing brings china dolphin evacuations mass rain torrential typhoon",
   "deliberately firefighters israel lebanon southern starting wildfires",
   "cobra emergency extreme heat meeting prompts",
@@ -3603,6 +3602,7 @@
   "hungarian killed motorway polish twelve veers",
   "breaking europe european news today",
   "across aerial attacks fresh killed launches russia three ukraine",
-  "floods killed spain women"
+  "floods killed spain women",
+  "crashes hungary killed tourist twelve"
  ]
 }
