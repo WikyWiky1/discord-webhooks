@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMirAFBVV95cUxOWWFoTE9KRHJmOHpyeTlGcGJPVzQ1MXFMaFd3MWlHMzBERzdWMWROekpIcHhOcDJSdTlrdUx6Q3NXT1RfTWRsaW1kVS1RaDFPSUpENW5mQlhBQkNaN1FRZjJ6YS1QUmpjQ1JQWnJPR1ZqZDJnWlNhXy1sZVBKUFFVNmttS1p2ZVhtNDZsaEd3MEt0c3RYZG5VWFNfQ2phZnk1QlNFUFpqOEZjSlJZ",
-  "https://www.theguardian.com/us-news/2026/aug/07/yolanda-olejniczak-marodi-wife-husband-murder",
   "https://nypost.com/?post_type=article&p=40242309",
   "CBMioAFBVV95cUxOa1V3Uko0NTQwakR6dFZlNlZ5cVhzd1o4UXNscmR3aGpDMXpSR0hMN3RnTGlZaW1wcFVWM25kVms2eHFJcDZWckx0MjZZMEI1VEY2dXFmSExLYzZnQ0tCNV9VSEJTbkdHMk1oOERQYkk5LVRDNWRrVi1mSEdFX3JlZTUxZGFVNWhvQzlfd3dRN0twaFo3ejNsR3hoS3pKcHJJ",
   "https://nypost.com/?post_type=article&p=40238177",
@@ -799,21 +797,11 @@
   "CBMiogFBVV95cUxNNGMzYVlleE9RcTFadDNuX2dKNWpRZkd2MU1rbDFGZy1WTHpUN3BEVzlqSGJQRmRPUHpRZGcxU0tWSGRHbDFhMGJvZzVnLWhXMTdoQ1FqTEVObXVyV2taekp0VEhIUlNuR29CaUMxZGd0YlAwQmM1cjBFZnZTNlVIX3BORjBUZ1pTenlJRjN4cl83amtwaUlkUkhjZnZheDJEOUE",
   "https://nypost.com/?post_type=article&p=40362308",
   "https://news.sky.com/story/hurricane-lala-hits-hawaii-with-89000-losing-power-13573607",
-  "https://nypost.com/?post_type=article&p=40362387"
+  "https://nypost.com/?post_type=article&p=40362387",
+  "https://nypost.com/?post_type=article&p=40362369",
+  "https://nypost.com/?post_type=article&p=40362862"
  ],
  "posts": [
-  {
-   "fp": "carolina darline face graham norman primary ralph republican runoff south",
-   "title": "Darline Graham to face Ralph Norman in South Carolina Republican primary runoff",
-   "source": "Guardian World",
-   "at": "2026-08-12T01:55:02.918530+00:00"
-  },
-  {
-   "fp": "alabama carl congress house jerry moore primary return seat track",
-   "title": "Jerry Carl on track to return to Congress after Alabama House primary win for Moore seat",
-   "source": "The Hill",
-   "at": "2026-08-12T01:55:04.662987+00:00"
-  },
   {
    "fp": "brown cook crises defined diplomatic election islands mark speaks year",
    "title": "Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year",
@@ -3201,11 +3189,21 @@
    "title": "Groom-to-be found dead in hotel rubble after Colombia earthquake hits 2 days before his wedding",
    "source": "New York Post",
    "at": "2026-08-16T04:01:12.190129+00:00"
+  },
+  {
+   "fp": "concert four including kentucky kids killed outdoor wounded",
+   "title": "One killed and four wounded, including 2 kids, at outdoor concert in Kentucky",
+   "source": "New York Post",
+   "at": "2026-08-16T04:51:30.691101+00:00"
+  },
+  {
+   "fp": "conditions hawaii hurricane lala leaves life power thousands threatening without",
+   "title": "Hurricane Lala leaves thousands without power in Hawaii amid \u2018life-threatening\u2019 conditions",
+   "source": "New York Post",
+   "at": "2026-08-16T04:51:32.501121+00:00"
   }
  ],
  "titles": [
-  "carolina darline face graham norman primary ralph republican runoff south",
-  "alabama carl congress house jerry moore primary return seat track",
   "brown cook crises defined diplomatic election islands mark speaks year",
   "240m agency feds goes homeless nuclear threaten",
   "2025 civilians killed pentagon strikes three yemen",
@@ -3603,6 +3601,8 @@
   "ceasefire deadliest israel june kills lebanon since strikes",
   "bloodbath campus caught manhunt mass perp police shooting state suspect university virginia",
   "hawaii hits hurricane lala losing power",
-  "colombia days dead earthquake found groom hits hotel rubble wedding"
+  "colombia days dead earthquake found groom hits hotel rubble wedding",
+  "concert four including kentucky kids killed outdoor wounded",
+  "conditions hawaii hurricane lala leaves life power thousands threatening without"
  ]
 }
