@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40250967",
-  "CBMiwwFBVV95cUxPWFAzQWhyMHFMN1ZpMm9wNll2WXhINmJQMDhVMTFkcUxnRTh4QmZnUjEyT3hpTmFnYldiZ29UX29YMUJHZXJuMkhoTHNfTnpWWFUwcnJMaTVCRjVFSFZEYmt4QWNTYkVqeUw5WUt4QllhUWpBTXBrN29ZZFdzRElROHEyX0p2TmNneFpuS0tSMVRLNndubHJyS0ZtZlcxRk00UXUyckN2UUpDQUI4bnZzVExmMXBSLWJxbWRqSWcwdEZZMUU",
-  "CBMitAFBVV95cUxNUWE4cGY1cW52LTJNUUZsVWhmSFVMY3hHY2lhZjNfV29BX21GelZUZDRxbEpIbnMyNkFzZVdkOUs4aDRjdXQ0REZQdzR2SElEU1hiNmdYVVBJdzNSX3B1eWEtMXpXbnNNaWNvVzlHNDAtY09JbnpmMm5IYUo0bHZ6MHZ6dUxSWmZ5dVFRRnkyZmhFOTdMVEpTNFlvSktQVG9zZzdFSDlmLXR1RWNwVVBHNG9EbGE",
-  "https://nypost.com/?post_type=article&p=40240781",
-  "https://nypost.com/?post_type=article&p=40251273",
   "https://thehill.com/?p=6018567",
   "https://thehill.com/?p=6018546",
   "https://nypost.com/?post_type=article&p=40250585",
@@ -799,39 +794,14 @@
   "CBMingFBVV95cUxNdTlOejNLNjhzSFJEaWhObDR6ME9YV0p0Q3FEeHh4eEdieUNhRHNWZjVDUmZlWENZMUZEbExmUjZEbXVLSThQYVl6WVRpYWhwU3RTakRyREZUeVJOcHY0anRzYTNoMlJBaWdqWm5qMGdxSE9vUE9MY2Fmb3NtdnRFUTNnSlYySHpKODJUaU1fLUw1WmdyakVQWl9EM0N2UQ",
   "https://nypost.com/?post_type=article&p=40365203",
   "https://nypost.com/?post_type=article&p=40326328",
-  "CBMiwAFBVV95cUxPbFpSQ0ZDcEtraDZ3WHhuZkNRU1RJSUpuQ0pTOVdLc0E0Sm5pVldVUkVXR0RfOUJtZHRONjVFbDVTLVp0akRxRG50a2poNzRaZWEtSmRfTmd1cTdoSkg3MXdScV9ESGJibndkNmlEUkVDeG0zMUp0aW9XVUctdEJfZjVCNjgtNmx1aVl4V1F3R2c5UGpWcDBZUF9Kd0hvY3Nxb0lHNEQ2OWxuV0dwdC1Ea0E3VUdld3hhR0paQXJlTEQ"
+  "CBMiwAFBVV95cUxPbFpSQ0ZDcEtraDZ3WHhuZkNRU1RJSUpuQ0pTOVdLc0E0Sm5pVldVUkVXR0RfOUJtZHRONjVFbDVTLVp0akRxRG50a2poNzRaZWEtSmRfTmd1cTdoSkg3MXdScV9ESGJibndkNmlEUkVDeG0zMUp0aW9XVUctdEJfZjVCNjgtNmx1aVl4V1F3R2c5UGpWcDBZUF9Kd0hvY3Nxb0lHNEQ2OWxuV0dwdC1Ea0E3VUdld3hhR0paQXJlTEQ",
+  "CBMipwFBVV95cUxOOVozRlpuTURmbFhZTEprd083bUZ6X1d4aFpNSUZFNVlxc1RnQ3J5dHpfaTZvbEhldGZtQWQ5RkxHbWpianVFZGJJUjRPOWpiOW4ta1lodHdhY0FEUThZbm9LRWp6WllKb3BTQ2FodVRLN05FLXVxeWwzSWpsRFFib2RnY0xrVXhVNlBCeVF3MzNfMy1yZ3ZEYkx6RkQyeHFlWG1URXlhMA",
+  "https://thehill.com/?p=6032064",
+  "CBMiygFBVV95cUxOYlZVNEJsLXNacV9BYVpVZTA5LUhkMVJkdEYyOGdxQ0pDZDU0QlFPMkZzNXJKQVgyd3IzbXN0Y1pHSmUyanN4bW9PVElicVJHZlhfVDkxMFdfVUdHZEV4cDZZVW01emNlTHdEVm1TdTJ6QnBzNVRma1JLRDJ3eDd2Y1hwLURrSFMzZXBZNXpwM0NqVkNNUnoyVGNFSWJvR0t2ZnowTko3dHpacXMzem5BS0hCdU4zaHNwcEhvZ2lKb0NScFQ4WTFONXl3",
+  "https://thehill.com/?p=6031939",
+  "CBMi3gFBVV95cUxNbTZXR2VSTVljb1pUXzNweXYwY0dzR3dDZG4yY2xfdkpaWFMxVnVNa1ZkbVZHVmFhUWVPM3VTLTEzUGZOeHROVE1LN0FPNE5PUk5md0FUajY0al9CU1VrU01OUERXaERCamYyNzU2VE1OVW5HeWpzNTFraDExa2I2ekJ6NWRQMENtcEk3X0F0WW03VDJKUGtfZDh0VUtyakpUM2FsU0Y2MTlaQnN4M1lxZ2RNa3JGQTUxWElCTGk1cjFDNnZDSDJncGt4SjBNcHdSb0w3WERRZVItVnMwTGc"
  ],
  "posts": [
-  {
-   "fp": "advances carolina darline endorses graham nordone runoff scott south",
-   "title": "Tim Scott endorses Darline Graham Nordone as she advances to South Carolina runoff",
-   "source": "Washington Examiner",
-   "at": "2026-08-12T15:58:30.768847+00:00"
-  },
-  {
-   "fp": "cameras cost google here latest much phones pixel slimmer unveils",
-   "title": "Google unveils latest Pixel phones with slimmer cameras, more AI: Here\u2019s how much they cost",
-   "source": "New York Post",
-   "at": "2026-08-12T15:58:32.587440+00:00"
-  },
-  {
-   "fp": "deal interim iran peace progress reviving",
-   "title": "Iran says no progress on reviving interim peace deal with US",
-   "source": "Reuters",
-   "at": "2026-08-12T15:58:34.368442+00:00"
-  },
-  {
-   "fp": "back companies profits records report rise stocks strong towards",
-   "title": "US stocks rise back towards records as AI companies report strong profits",
-   "source": "AP",
-   "at": "2026-08-12T15:58:36.147691+00:00"
-  },
-  {
-   "fp": "gains global hold line stocks",
-   "title": "Global stocks hold gains after in-line US CPI",
-   "source": "Reuters",
-   "at": "2026-08-12T15:58:37.891915+00:00"
-  },
   {
    "fp": "attack citizens developments houthi killed mideast other pakistan ship",
    "title": "Pakistan says 3 citizens killed in Houthi attack on ship, and other developments in the Mideast",
@@ -3201,14 +3171,39 @@
    "title": "Historic Floods Hit Indiana, Where Death Toll Rises to at Least Six",
    "source": "WSJ",
    "at": "2026-08-16T17:51:41.347222+00:00"
+  },
+  {
+   "fp": "brazilian considers judge reports sanctions",
+   "title": "US considers new sanctions on Brazilian judge, FT reports",
+   "source": "Reuters World",
+   "at": "2026-08-16T18:28:23.852398+00:00"
+  },
+  {
+   "fp": "cassidy costs increase insurance order predicts trump vaccine",
+   "title": "Cassidy predicts Trump's vaccine order will increase insurance costs",
+   "source": "The Hill",
+   "at": "2026-08-16T18:28:25.617197+00:00"
+  },
+  {
+   "fp": "china component discovers drones morning naval report risk sent signals",
+   "title": "The Morning Risk Report: U.K. Discovers Component in Its Naval Drones Sent Signals to China",
+   "source": "WSJ",
+   "at": "2026-08-16T18:28:27.334084+00:00"
+  },
+  {
+   "fp": "candidates caucus commie congress elected make republican york",
+   "title": "New York Republican says DSA candidates will make up 'commie caucus' if elected to Congress",
+   "source": "The Hill",
+   "at": "2026-08-16T18:28:29.196932+00:00"
+  },
+  {
+   "fp": "antofagasta chile cuts earnings guidance heavy higher posts production rain",
+   "title": "Antofagasta Posts Higher Earnings But Cuts Production Guidance After Heavy Rain in Chile",
+   "source": "WSJ",
+   "at": "2026-08-16T18:28:30.899573+00:00"
   }
  ],
  "titles": [
-  "advances carolina darline endorses graham nordone runoff scott south",
-  "cameras cost google here latest much phones pixel slimmer unveils",
-  "deal interim iran peace progress reviving",
-  "back companies profits records report rise stocks strong towards",
-  "gains global hold line stocks",
   "attack citizens developments houthi killed mideast other pakistan ship",
   "dead flash floods midwest tornadoes year",
   "child daycare dead front horrific including kids minnesota murder suicide suspected young",
@@ -3603,6 +3598,11 @@
   "alarm emergency friday last point",
   "breaking business demands distress emotional homeless shot",
   "dead great john named surgery tommy yankees",
-  "death floods historic indiana least rises toll where"
+  "death floods historic indiana least rises toll where",
+  "brazilian considers judge reports sanctions",
+  "cassidy costs increase insurance order predicts trump vaccine",
+  "china component discovers drones morning naval report risk sent signals",
+  "candidates caucus commie congress elected make republican york",
+  "antofagasta chile cuts earnings guidance heavy higher posts production rain"
  ]
 }
