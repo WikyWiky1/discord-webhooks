@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4680260",
   "https://nypost.com/?post_type=article&p=40149312",
   "https://nypost.com/?post_type=article&p=40253831",
   "CBMirwFBVV95cUxOM0E3NWhTMHdFczZGRndJTDREOWFZSWZjVUtmQnVid1VCWHZQcWpObTlmbnFCWTdnTjNDZXgzZXN4dW82QzZQVzM4aE9SOFJoUXFuYWd4cmpTQk1DMHQzeHpCWlprT0VmTGhUN2x3ekZoZDBDWDNWT3Q0a19VSEIzM3BVUFNtYXZIeVl1M1pPdGN6dUl1eW54WVQ4Sm5OOWhXX1Y1OFR4azFWWmpqZ2Rz",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40364310",
   "https://thehill.com/?p=6032232",
   "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
-  "https://thehill.com/?p=6032102"
+  "https://thehill.com/?p=6032102",
+  "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash"
  ],
  "posts": [
-  {
-   "fp": "indicted michele murders nick parents reiner",
-   "title": "Nick Reiner indicted for murders of parents Rob and Michele Reiner",
-   "source": "Guardian World",
-   "at": "2026-08-12T21:07:32.254174+00:00"
-  },
   {
    "fp": "defends endorsement hong khanna loss primary surprise wisconsin",
    "title": "Khanna defends Hong endorsement after surprise loss in Wisconsin primary",
@@ -3201,10 +3195,15 @@
    "title": "Cassidy: 'Pretty evident' RFK Jr. lied about changing vaccine schedule",
    "source": "The Hill",
    "at": "2026-08-16T21:19:28.300232+00:00"
+  },
+  {
+   "fp": "crash five four injured ireland killed other people teenagers",
+   "title": "Five teenagers killed and four other people injured in Ireland car crash",
+   "source": "Guardian World",
+   "at": "2026-08-16T22:13:18.192776+00:00"
   }
  ],
  "titles": [
-  "indicted michele murders nick parents reiner",
   "defends endorsement hong khanna loss primary surprise wisconsin",
   "backed hasan hong loss piker primary sounds thanksgiving",
   "bessent counter evasion lack press rubio russia sanctions senators",
@@ -3603,6 +3602,7 @@
   "america betting congress dems gingrich iran like north outlast politically take trump trying vietnam",
   "cassidy claims crazy down going numbers order poll president stupid trump vaccine",
   "about claims crazy denounces republican safety senator stupid trump vaccine",
-  "about cassidy changing evident lied pretty schedule vaccine"
+  "about cassidy changing evident lied pretty schedule vaccine",
+  "crash five four injured ireland killed other people teenagers"
  ]
 }
