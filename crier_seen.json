@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4679239",
-  "https://thehill.com/?p=6012606",
   "https://www.washingtonexaminer.com/?p=4679369",
   "https://www.theguardian.com/us-news/2026/aug/07/sierra-nevada-foothills-fire-death",
   "CBMihwFBVV95cUxNYWNfNkRadTdIZll4QXl1cXNlQzBjS2tOdlpkQl9kX0FHd2RzMmhJZFMtQUlmc2lDRS13OTJFRXhUSmdYUkwxYTcxeTBSM3lNVFctRTVOeG8xQTA2YWxJU29tS09mQ3o1RnAtaURsMkhyYy1NTE5oQ1lLdGt6SE1ENGJFeXJDQ00",
@@ -799,21 +797,11 @@
   "CBMiXkFVX3lxTE1aNGU4ZWluTjJrT3NxcUY4UWNVY0pWcXB4Wm5UUHZqUWlkRzZvdWc2Mm1HbXpmbjRWX3d4dkFaYU5ESHE3UC1YQk9pZkNNc3ZyTkF4YmdsYzlSSWFWc3c",
   "https://nypost.com/?post_type=article&p=40361091",
   "https://nypost.com/?post_type=article&p=40360239",
-  "https://thehill.com/?p=6031629"
+  "https://thehill.com/?p=6031629",
+  "https://nypost.com/?post_type=article&p=40362216",
+  "CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk"
  ],
  "posts": [
-  {
-   "fp": "airstrikes civilians congress killed military pentagon resulted tells yemen",
-   "title": "Pentagon tells Congress US military airstrikes in Yemen resulted in 153 civilians killed",
-   "source": "The Hill",
-   "at": "2026-08-12T00:39:07.361965+00:00"
-  },
-  {
-   "fp": "clancy intrusive kids killed lindsay persistent revealed suicide thoughts weeks worst",
-   "title": "Lindsay Clancy\u2019s \u2018worst day\u2019 revealed weeks before she killed her 3 kids: \u2018Persistent and intrusive thoughts of suicide\u2019",
-   "source": "New York Post",
-   "at": "2026-08-12T00:39:09.098893+00:00"
-  },
   {
    "fp": "declaring elections emergency happened national security stranger things trump",
    "title": "Trump on declaring national security emergency for elections: 'Stranger things have happened'",
@@ -3201,11 +3189,21 @@
    "title": "Sunday shows preview: Key primary races set stage for tight November battles, Democrats raise concerns over USS Lincoln conditions",
    "source": "The Hill",
    "at": "2026-08-16T01:16:50.979056+00:00"
+  },
+  {
+   "fp": "bound cancels chaos flights hawaii hurricane travel",
+   "title": "Travel chaos at LAX as hurricane cancels Hawaii-bound flights",
+   "source": "New York Post",
+   "at": "2026-08-16T02:18:14.973746+00:00"
+  },
+  {
+   "fp": "attack fires injures kyiv missile officials russian sparks ukraine",
+   "title": "Russian missile attack on Kyiv sparks fires, injures one, Ukraine officials say",
+   "source": "Reuters",
+   "at": "2026-08-16T02:18:16.709483+00:00"
   }
  ],
  "titles": [
-  "airstrikes civilians congress killed military pentagon resulted tells yemen",
-  "clancy intrusive kids killed lindsay persistent revealed suicide thoughts weeks worst",
   "declaring elections emergency happened national security stranger things trump",
   "banana deadly escaped floods indian raft year",
   "democratic gubernatorial klobuchar minnesota nomination wins",
@@ -3603,6 +3601,8 @@
   "black contributor journal michael street wall",
   "avatar disneyland dropping land look massive unveils",
   "california launch mission secret spacex",
-  "battles concerns conditions democrats lincoln november preview primary races raise shows stage sunday tight"
+  "battles concerns conditions democrats lincoln november preview primary races raise shows stage sunday tight",
+  "bound cancels chaos flights hawaii hurricane travel",
+  "attack fires injures kyiv missile officials russian sparks ukraine"
  ]
 }
