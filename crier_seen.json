@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4679494",
   "CBMiYkFVX3lxTE1vUFpsa2NUeEp3dEFXUldXX2k5TUtiWlQwaEdUQXR1SWtnMlVqcy0zUzVFTVJpWkhub0NZY2NOdkhnVVFsaDl1SGtCMTFSOWVHc2FLUnFLWjUxVXZrU0ZwV1FR",
   "https://thehill.com/?p=6017663",
   "https://thehill.com/?p=6017600",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40362908",
   "CBMiswFBVV95cUxNWHBvM3gyYklmc2UxTkozSUxrUWhDUzVhdzNLRmwtVTk1VUFCTU5qLVZiZ2RqbzlkWjU3c1VOOWdISHc3cjVkV0oxTVNkYUE4UEVvdG1OSzV5VTVXTFJFaWZlWmN1U2pFSU02elcxeWlISl9lWER4RExQVUhseFNCYjFXNENjUEgyem9fZUtEQmpwM19lbHVxSGV1MDJmeTNEbExJODRRNndZTXhRcEVxaXpZMA",
   "CBMimAFBVV95cUxNZnc4dGFfV0hySjFiVzlBX3lneTF3ZlN3MFNBS1FObnNvVEtITFVFVFc2RXpuM2MxeXF5MG1FVjBzRkFCNnFhWnBlWkhnZVM0U1NhdTNNZUtrUTZfOVY1OWdaUGdoYk9Lc0FKb1ljQnVOZjRxNFRPN0xaXzRCRGg4YXRMaFJETUN4a0lyWllRRUE3TEV2R3d0aw",
-  "CBMingFBVV95cUxNZ2puckZxdHQ1aDQ2YmsxMXpuTHd6M0ZkMVhzOFNjXzJ3aTEzeHN6OEMyMkRCWTU2Y21MUUR2YlFjUlJmSG1Eb0JiOF9sVkdxY1dLMTBUY2xiUnNQdXlCRkFSeFNsdUJ0REd4NGxINnRZMDhyZWoxMzRMWlNTSWExd0xGT1pLWWJUcDQ5WEJPYVlBdDQ2aE0wazZRMzlrdw"
+  "CBMingFBVV95cUxNZ2puckZxdHQ1aDQ2YmsxMXpuTHd6M0ZkMVhzOFNjXzJ3aTEzeHN6OEMyMkRCWTU2Y21MUUR2YlFjUlJmSG1Eb0JiOF9sVkdxY1dLMTBUY2xiUnNQdXlCRkFSeFNsdUJ0REd4NGxINnRZMDhyZWoxMzRMWlNTSWExd0xGT1pLWWJUcDQ5WEJPYVlBdDQ2aE0wazZRMzlrdw",
+  "https://www.bbc.co.uk/news/articles/ckg4424zd7go#0"
  ],
  "posts": [
-  {
-   "fp": "backed bests challenger cooke democratic house nomination rebecca seat wisconsin",
-   "title": "Rebecca Cooke bests DSA-backed challenger for Democratic nomination in Wisconsin House seat",
-   "source": "Washington Examiner",
-   "at": "2026-08-12T04:46:59.254892+00:00"
-  },
   {
    "fp": "aims francesca governor hong primary progressive ride wave wisconsin",
    "title": "Francesca Hong aims to ride progressive wave in Wisconsin primary for governor",
@@ -3201,10 +3195,15 @@
    "title": "Twelve killed and at least 10 injured in Polish bus crash in Hungary",
    "source": "Reuters World",
    "at": "2026-08-16T06:39:12.043121+00:00"
+  },
+  {
+   "fp": "hungarian killed motorway polish twelve veers",
+   "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+   "source": "BBC World",
+   "at": "2026-08-16T07:17:31.435811+00:00"
   }
  ],
  "titles": [
-  "backed bests challenger cooke democratic house nomination rebecca seat wisconsin",
   "aims francesca governor hong primary progressive ride wave wisconsin",
   "because nato planes possible summit switched threat trump",
   "angie craig defeats extending flanagan minnesota peggy primary progressive senate streak winning",
@@ -3603,6 +3602,7 @@
   "amendment appearance covid fauci fifth invoking probe refuses senate times",
   "blowout michigan pollsters predicted primary wrong",
   "ahead depot earnings home meeting minutes released report street wall walmart week",
-  "crash hungary injured killed least polish twelve"
+  "crash hungary injured killed least polish twelve",
+  "hungarian killed motorway polish twelve veers"
  ]
 }
