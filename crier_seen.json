@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40242309",
   "CBMioAFBVV95cUxOa1V3Uko0NTQwakR6dFZlNlZ5cVhzd1o4UXNscmR3aGpDMXpSR0hMN3RnTGlZaW1wcFVWM25kVms2eHFJcDZWckx0MjZZMEI1VEY2dXFmSExLYzZnQ0tCNV9VSEJTbkdHMk1oOERQYkk5LVRDNWRrVi1mSEdFX3JlZTUxZGFVNWhvQzlfd3dRN0twaFo3ejNsR3hoS3pKcHJJ",
   "https://nypost.com/?post_type=article&p=40238177",
   "https://nypost.com/?post_type=article&p=40241658",
@@ -799,15 +798,10 @@
   "https://news.sky.com/story/hurricane-lala-hits-hawaii-with-89000-losing-power-13573607",
   "https://nypost.com/?post_type=article&p=40362387",
   "https://nypost.com/?post_type=article&p=40362369",
-  "https://nypost.com/?post_type=article&p=40362862"
+  "https://nypost.com/?post_type=article&p=40362862",
+  "CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL"
  ],
  "posts": [
-  {
-   "fp": "brown cook crises defined diplomatic election islands mark speaks year",
-   "title": "Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year",
-   "source": "Guardian World",
-   "at": "2026-08-12T01:55:06.418006+00:00"
-  },
   {
    "fp": "240m agency feds goes homeless nuclear threaten",
    "title": "RFK Jr goes nuclear over LA\u2019s homeless agency as feds threaten to cut off $240M",
@@ -3201,10 +3195,15 @@
    "title": "Hurricane Lala leaves thousands without power in Hawaii amid \u2018life-threatening\u2019 conditions",
    "source": "New York Post",
    "at": "2026-08-16T04:51:32.501121+00:00"
+  },
+  {
+   "fp": "cuts evacuate indonesia kills quake roads thousands",
+   "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+   "source": "Reuters",
+   "at": "2026-08-16T05:21:25.550350+00:00"
   }
  ],
  "titles": [
-  "brown cook crises defined diplomatic election islands mark speaks year",
   "240m agency feds goes homeless nuclear threaten",
   "2025 civilians killed pentagon strikes three yemen",
   "ahmed assault bondi charges cleared hero shooting",
@@ -3603,6 +3602,7 @@
   "hawaii hits hurricane lala losing power",
   "colombia days dead earthquake found groom hits hotel rubble wedding",
   "concert four including kentucky kids killed outdoor wounded",
-  "conditions hawaii hurricane lala leaves life power thousands threatening without"
+  "conditions hawaii hurricane lala leaves life power thousands threatening without",
+  "cuts evacuate indonesia kills quake roads thousands"
  ]
 }
