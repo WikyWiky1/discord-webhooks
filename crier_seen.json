@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6017663",
-  "https://thehill.com/?p=6017600",
   "https://www.washingtonexaminer.com/?p=4679681",
   "https://www.theguardian.com/us-news/2026/aug/07/idaho-police-shooting-in-n-out-burger-video",
   "https://www.bbc.co.uk/news/articles/cdewx6rew04o#0",
@@ -799,21 +797,11 @@
   "CBMimAFBVV95cUxNZnc4dGFfV0hySjFiVzlBX3lneTF3ZlN3MFNBS1FObnNvVEtITFVFVFc2RXpuM2MxeXF5MG1FVjBzRkFCNnFhWnBlWkhnZVM0U1NhdTNNZUtrUTZfOVY1OWdaUGdoYk9Lc0FKb1ljQnVOZjRxNFRPN0xaXzRCRGg4YXRMaFJETUN4a0lyWllRRUE3TEV2R3d0aw",
   "CBMingFBVV95cUxNZ2puckZxdHQ1aDQ2YmsxMXpuTHd6M0ZkMVhzOFNjXzJ3aTEzeHN6OEMyMkRCWTU2Y21MUUR2YlFjUlJmSG1Eb0JiOF9sVkdxY1dLMTBUY2xiUnNQdXlCRkFSeFNsdUJ0REd4NGxINnRZMDhyZWoxMzRMWlNTSWExd0xGT1pLWWJUcDQ5WEJPYVlBdDQ2aE0wazZRMzlrdw",
   "https://www.bbc.co.uk/news/articles/ckg4424zd7go#0",
-  "CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU"
+  "CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU",
+  "https://www.bbc.co.uk/news/articles/c1411pgje8xo#0",
+  "CBMijwFBVV95cUxQSUxBb3EyOW41YVFzUVIwei1TMV9SMmUzbHV1OXFLSE9hSlhCS1MzdjdSS0tJanE2bE5zMHdicFJSb2pMU21HMW00UjZxaVh1X0JEWFlkOEhKalhvY2ZwQXFMemVkZWxrZGVzUlZ4OFpfVzRva0kwbE9RQUd6QU9qV0FEdFlEM3RrdEdWMWFFYw"
  ],
  "posts": [
-  {
-   "fp": "because nato planes possible summit switched threat trump",
-   "title": "Trump says he switched planes after Nato summit because of possible threat",
-   "source": "BBC World",
-   "at": "2026-08-12T04:47:02.942067+00:00"
-  },
-  {
-   "fp": "angie craig defeats extending flanagan minnesota peggy primary progressive senate streak winning",
-   "title": "Peggy Flanagan defeats Angie Craig in Minnesota Senate primary, extending progressive winning streak",
-   "source": "Washington Examiner",
-   "at": "2026-08-12T04:47:04.675537+00:00"
-  },
   {
    "fp": "battle between candidates centrist democratic flanagan latest leftists minnesota peggy primary senate walz wins",
    "title": "Walz Lt. Gov. Peggy Flanagan wins Minnesota Democratic Senate primary in latest battle between leftists and centrist candidates",
@@ -3201,11 +3189,21 @@
    "title": "Europe News | Breaking European News Today",
    "source": "AP",
    "at": "2026-08-16T07:48:24.844214+00:00"
+  },
+  {
+   "fp": "across aerial attacks fresh killed launches russia three ukraine",
+   "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+   "source": "BBC World",
+   "at": "2026-08-16T08:20:22.080547+00:00"
+  },
+  {
+   "fp": "floods killed spain women",
+   "title": "Two women killed in floods in Spain",
+   "source": "Reuters World",
+   "at": "2026-08-16T08:20:23.900093+00:00"
   }
  ],
  "titles": [
-  "because nato planes possible summit switched threat trump",
-  "angie craig defeats extending flanagan minnesota peggy primary progressive senate streak winning",
   "battle between candidates centrist democratic flanagan latest leftists minnesota peggy primary senate walz wins",
   "beijing brings china dolphin evacuations mass rain torrential typhoon",
   "deliberately firefighters israel lebanon southern starting wildfires",
@@ -3603,6 +3601,8 @@
   "ahead depot earnings home meeting minutes released report street wall walmart week",
   "crash hungary injured killed least polish twelve",
   "hungarian killed motorway polish twelve veers",
-  "breaking europe european news today"
+  "breaking europe european news today",
+  "across aerial attacks fresh killed launches russia three ukraine",
+  "floods killed spain women"
  ]
 }
