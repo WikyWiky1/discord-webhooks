@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6018009",
   "https://thehill.com/?p=6018324",
   "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
   "https://nypost.com/?post_type=article&p=40245413",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40363945",
   "CBMioAFBVV95cUxPLVppSU51U1dPcElsem5CbVUzZmk1bTFYNExaYmczbXNTMVZ5elo5OG5pU3duektQb3E4WXFrRHBVZ0xoaVVUaDYyRE5tWjV5YjNEWGdnMlRKdDI5M1JKTXJteWZiM25BM05ZSVlUY3N3Ym5pTnZ3dUstOXVIRVJVeldBQzI1akxyNlZ5Z0thZkN4ZlhSVEhhaWcxa0RKRWVR",
   "CBMiZ0FVX3lxTE94NHhDNXVMZV9tbURhM09ORVh5ZHBQcHczMFdkaGF3VUJQRGFyZXctVVhIU3d0WkNhMThQU3dSMUhnLXBMSGF3elZRLTRTcjZjZ2YyYVUwQkxsWW40Tk1jLUpQdXBMNms",
-  "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
+  "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
+  "https://www.theguardian.com/us-news/2026/aug/16/michigan-shooting-girl-survives"
  ],
  "posts": [
-  {
-   "fp": "adaptation climate defra drought just staff wildfires working",
-   "title": "Just 20 of 6,600 Defra staff working on climate adaptation amid drought and wildfires",
-   "source": "Guardian World",
-   "at": "2026-08-12T10:39:32.759719+00:00"
-  },
   {
    "fp": "african armyworm discovery farmers fungus halting hope march offers",
    "title": "Halting the march of the armyworm: fungus discovery offers hope to African farmers",
@@ -3201,10 +3195,15 @@
    "title": "Hurricane Lala skirts Hawaii\u2019s Big Island as heavy wind and rain lash region",
    "source": "Guardian World",
    "at": "2026-08-16T13:46:32.767737+00:00"
+  },
+  {
+   "fp": "called hero michigan police shooting spree survivor year",
+   "title": "\u2018She is a hero\u2019: 13-year-old survivor of Michigan shooting spree called police",
+   "source": "Guardian World",
+   "at": "2026-08-16T14:15:46.539064+00:00"
   }
  ],
  "titles": [
-  "adaptation climate defra drought just staff wildfires working",
   "african armyworm discovery farmers fungus halting hope march offers",
   "banned calls damage grouse inglorious peatland prevent season twelfth wildfires",
   "ceasefire discussing extension iran iranian official senior",
@@ -3603,6 +3602,7 @@
   "assailant attack back continue punches sing synagogue unhinged victim",
   "collision dead head irish motorway several",
   "attack book fire kyiv market russian sets",
-  "hawaii heavy hurricane island lala lash rain region skirts wind"
+  "hawaii heavy hurricane island lala lash rain region skirts wind",
+  "called hero michigan police shooting spree survivor year"
  ]
 }
