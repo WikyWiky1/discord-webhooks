@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/07/idaho-police-shooting-in-n-out-burger-video",
-  "https://www.bbc.co.uk/news/articles/cdewx6rew04o#0",
   "https://nypost.com/?post_type=article&p=40243682",
   "https://nypost.com/?post_type=article&p=40246825",
   "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
@@ -799,21 +797,11 @@
   "CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU",
   "https://www.bbc.co.uk/news/articles/c1411pgje8xo#0",
   "CBMijwFBVV95cUxQSUxBb3EyOW41YVFzUVIwei1TMV9SMmUzbHV1OXFLSE9hSlhCS1MzdjdSS0tJanE2bE5zMHdicFJSb2pMU21HMW00UjZxaVh1X0JEWFlkOEhKalhvY2ZwQXFMemVkZWxrZGVzUlZ4OFpfVzRva0kwbE9RQUd6QU9qV0FEdFlEM3RrdEdWMWFFYw",
-  "https://news.sky.com/story/twelve-killed-as-tourist-bus-crashes-in-hungary-13573631"
+  "https://news.sky.com/story/twelve-killed-as-tourist-bus-crashes-in-hungary-13573631",
+  "CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw",
+  "CBMilwFBVV95cUxONTIxNFpid1R2dnoxVVVoblpFcGtqeGV1UDJWdkZwMXlLM0hqVUxaYW8yRkFuNWpleGlBY2s0OG1FckRwajM0NHZJSWljNTJIUGxEdUdVOFRpUzVwWGgtLUI5WDlFU1NVVVhTTWpuRlRCYi1qLUZ0U2pZTHZrck1sS3FCVXNLRzNlZl8zM21YNlV6RVY2dThR"
  ],
  "posts": [
-  {
-   "fp": "beijing brings china dolphin evacuations mass rain torrential typhoon",
-   "title": "Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China",
-   "source": "Guardian World",
-   "at": "2026-08-12T05:04:47.246988+00:00"
-  },
-  {
-   "fp": "deliberately firefighters israel lebanon southern starting wildfires",
-   "title": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
-   "source": "Guardian World",
-   "at": "2026-08-12T05:04:49.018296+00:00"
-  },
   {
    "fp": "cobra emergency extreme heat meeting prompts",
    "title": "UK extreme heat prompts Cobra emergency meeting",
@@ -3201,11 +3189,21 @@
    "title": "Twelve killed as tourist bus crashes in Hungary",
    "source": "Sky News",
    "at": "2026-08-16T08:59:39.419256+00:00"
+  },
+  {
+   "fp": "belgium biggest germany heads record towards wildfire",
+   "title": "Belgium's biggest wildfire on record heads towards Germany",
+   "source": "Reuters",
+   "at": "2026-08-16T09:31:43.911472+00:00"
+  },
+  {
+   "fp": "crash hungary injures kills least others people",
+   "title": "A bus crash in Hungary kills 12 people, injures at least 10 others",
+   "source": "AP",
+   "at": "2026-08-16T09:31:45.831110+00:00"
   }
  ],
  "titles": [
-  "beijing brings china dolphin evacuations mass rain torrential typhoon",
-  "deliberately firefighters israel lebanon southern starting wildfires",
   "cobra emergency extreme heat meeting prompts",
   "clock colombia earthquake government race rescuers response strains",
   "2030 future korea landing moon projects south targets technology unveils",
@@ -3603,6 +3601,8 @@
   "breaking europe european news today",
   "across aerial attacks fresh killed launches russia three ukraine",
   "floods killed spain women",
-  "crashes hungary killed tourist twelve"
+  "crashes hungary killed tourist twelve",
+  "belgium biggest germany heads record towards wildfire",
+  "crash hungary injures kills least others people"
  ]
 }
