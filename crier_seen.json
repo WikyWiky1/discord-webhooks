@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://pagesix.com/?post_type=article&p=9097920",
-  "CBMizAFBVV95cUxQeUg1Y1BqdGNyMk45Z19zcUlaNXlrQWc5MDRMc1cydHgzSjhBeERvNDc5TXZ4NVBSOVFyd1gybkM5Um11Z1lGcXdxQ1pZUFptLVdtd0ZZWXhsa1lfem13aUNkVnIyNDlSckhSSk12b1VNMkc2U0VoVlJzQzlXVlp1T0VVRi1LUVVQQ3lYWVNTMjVaWVE0SU5EeENDRUVVVXNQWjlVZkx6eXZpZ2JjemhoTW8zdlhkdmNnd0ZabTEweWNibkFpcFBmUGh1Y2k",
   "CBMiugFBVV95cUxPS1pzc3VGczBLMk1abjZhQXdKWUNMbXoxUlhkWmFyc2ZCUjg2SFVtNnltdzIwcEtDMDg0SDg4bWRzU2RNN25SMGN6TzNTdVVtdmVzdjVtcnRIZi00dFFUQ20xZHdUdDhCdkQxRGh2ZE1XTk1LSmdCazBCYWZ4SGNGRjdrdU85NDhlUWRRVDg4QU1YZXNEVXQyaHFqdk1EMnN4V3h6TXMxRUJRQWo0a3RwQ0x0R1k0RjlZOUE",
   "https://thehill.com/?p=6018352",
   "https://nypost.com/?post_type=article&p=40250967",
@@ -799,21 +797,11 @@
   "CBMiZ0FVX3lxTFBVUWx1bzNHdzFqSjVHcmNlMktWZ0ZMRDBIMGJ0UHk2M3NEbmMwS0duSjlYN0cwSVJ4ZWlaQ0daSjBBVnlrSUdUSEZpVFdCOGFWWFcwTjhNTU0wRzRwUFczclYyTmtkcnM",
   "CBMi3wFBVV95cUxPZmpwU2lMZ2d4bGZyOThObUJsaTV0NUtuM2RLQnJCSjVlczZGT1hTNkw1bHF1UlZfRzdrUFdwMVRycjlBV3Jkb1czcDdIQXY0ZWs0OEpHdVJyc2pZYXV3akVCcFk0QmJaX19YLXR2MktNcnllc2t3cXJVZmU2dVBnZXBhZi14TjBIQzZSYVRkTG9IVzAwcXhNR19iYW00ald1aHM2MkxRVGZnMnJFc1VmVUN6RWc1b2lSTlY3OGtveTlYdGY2WHlRNDljTS1ZT2t3dWZnODRfWlZ6LWRXTGxJ",
   "https://nypost.com/?post_type=article&p=40364676",
-  "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0"
+  "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0",
+  "CBMingFBVV95cUxNdTlOejNLNjhzSFJEaWhObDR6ME9YV0p0Q3FEeHh4eEdieUNhRHNWZjVDUmZlWENZMUZEbExmUjZEbXVLSThQYVl6WVRpYWhwU3RTakRyREZUeVJOcHY0anRzYTNoMlJBaWdqWm5qMGdxSE9vUE9MY2Fmb3NtdnRFUTNnSlYySHpKODJUaU1fLUw1WmdyakVQWl9EM0N2UQ",
+  "https://nypost.com/?post_type=article&p=40365203"
  ],
  "posts": [
-  {
-   "fp": "general must postmaster resign steiner",
-   "title": "Postmaster General Steiner must resign",
-   "source": "The Hill",
-   "at": "2026-08-12T15:16:42.237209+00:00"
-  },
-  {
-   "fp": "children father four himself kansas kills mother shooting",
-   "title": "Kansas father kills his four children and their mother before shooting himself",
-   "source": "Guardian World",
-   "at": "2026-08-12T15:16:44.026976+00:00"
-  },
   {
    "fp": "attack dark exports grows houthi saudi threat",
    "title": "Saudi Red Sea oil exports go dark as Houthi attack threat grows",
@@ -3201,11 +3189,21 @@
    "title": "Two dead and evacuation under way as fires break out on Greek island",
    "source": "BBC World",
    "at": "2026-08-16T16:44:21.396092+00:00"
+  },
+  {
+   "fp": "alarm emergency friday last point",
+   "title": "What was the point of last Friday\u2019s emergency alarm?",
+   "source": "Telegraph",
+   "at": "2026-08-16T17:13:33.581936+00:00"
+  },
+  {
+   "fp": "breaking business demands distress emotional homeless shot",
+   "title": "Homeless man demands $10M for \u2018emotional distress\u2019 after being shot while breaking into business",
+   "source": "New York Post",
+   "at": "2026-08-16T17:13:35.304016+00:00"
   }
  ],
  "titles": [
-  "general must postmaster resign steiner",
-  "children father four himself kansas kills mother shooting",
   "attack dark exports grows houthi saudi threat",
   "earnings highs power retrenches stocks strong supply tractor",
   "advances carolina darline endorses graham nordone runoff scott south",
@@ -3603,6 +3601,8 @@
   "deadly declared emergency evacuated indonesia quake thousands",
   "colombia comb effort expands nearly quake rubble search teams week",
   "deadly floods football indiana jumped latest midwest raging river star victim",
-  "break dead evacuation fires greek island under"
+  "break dead evacuation fires greek island under",
+  "alarm emergency friday last point",
+  "breaking business demands distress emotional homeless shot"
  ]
 }
