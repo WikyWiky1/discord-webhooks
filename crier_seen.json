@@ -1,9 +1,5 @@
 {
  "ids": [
-  "CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw",
-  "https://www.theguardian.com/us-news/2026/aug/07/russia-sanctions-senate-passed-petroleum",
-  "https://thehill.com/?p=6017458",
-  "CBMinwFBVV95cUxPdXBNZGVOM3ZTM2FhTlNXZTV5ZkZDUS1McXVyek9VSEFRNmNITDJDYTM3bjlNMkw5bHR5MC11d1hsRTNVTVFqQjQtQnY5OTNyVUpfMnB6c2F2WU1JbmxCWThwNmN5eWdLcTV1b0J3VXVuWDJERC1FdTdmTGhsOW52RlVNZ3pQN3VFQWFlbVQ4ZDRLX0FxOWxpLV9iZ2lPZUE",
   "https://www.washingtonexaminer.com/?p=4679239",
   "https://thehill.com/?p=6012606",
   "https://www.washingtonexaminer.com/?p=4679369",
@@ -799,33 +795,13 @@
   "CBMiuAFBVV95cUxNOHhlVGlwSlk2MHRKV1Nxc284MUd1b19BdEFBVVltSUxEX0p0dUtmUW9tTGpvNEhQWmFKdlZrYjkwd1pQU2RvaHl6RFRRQ0gzbXpLWFoxemRIUHpJeXhUYi1SU1pEVWZWVENlLVRiMHlPeV9YdzZwMjkyLVlxN1I1MmU3SWdreUQ0a3JrM3MyOFJWbjdPV29DbVlYb00xZEJleEppY092ZnFRNUJJb2p5bW1FcEI3Si1v",
   "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb",
   "CBMiZ0FVX3lxTE9QOUNhN1l4WWd0ZXAyVWM3ektrMk9uT0lwUkQyVzNIU3lYbWY0U0FlMHlGb3RxcWlpcmM4eHlrRll1TTBqNFdfaHJWYlROd0ppRlpkQnhtUkZ6YmZBZ0luVXVBbmc4dmc",
-  "CBMiekFVX3lxTE9rZDRrZDdhOUNSTEdDZHY0WEg4bGdUUG1sc2JuWkJsMGEzSjhGeGJuaEc1ZEEzdDdwYllsc0x4MjZFa2NFY0h2d1FzaGpSVG4yVldZSFFEYmxuREU4Rmh0dTZSUlZNVFhFekN5aWNDdHJfTk5kSWh3WlVR"
+  "CBMiekFVX3lxTE9rZDRrZDdhOUNSTEdDZHY0WEg4bGdUUG1sc2JuWkJsMGEzSjhGeGJuaEc1ZEEzdDdwYllsc0x4MjZFa2NFY0h2d1FzaGpSVG4yVldZSFFEYmxuREU4Rmh0dTZSUlZNVFhFekN5aWNDdHJfTk5kSWh3WlVR",
+  "CBMiXkFVX3lxTE1aNGU4ZWluTjJrT3NxcUY4UWNVY0pWcXB4Wm5UUHZqUWlkRzZvdWc2Mm1HbXpmbjRWX3d4dkFaYU5ESHE3UC1YQk9pZkNNc3ZyTkF4YmdsYzlSSWFWc3c",
+  "https://nypost.com/?post_type=article&p=40361091",
+  "https://nypost.com/?post_type=article&p=40360239",
+  "https://thehill.com/?p=6031629"
  ],
  "posts": [
-  {
-   "fp": "capsizes dead ferry kariba lake least leaving missing people zimbabwe",
-   "title": "A ferry capsizes on Zimbabwe's Lake Kariba, leaving at least 15 people dead and 27 missing",
-   "source": "AP",
-   "at": "2026-08-11T22:22:05.303231+00:00"
-  },
-  {
-   "fp": "2025 agency blast federal final issues killed pennsylvania plant report safety steel",
-   "title": "Federal safety agency issues final report into 2025 blast that killed 2 at Pennsylvania steel plant",
-   "source": "AP",
-   "at": "2026-08-11T22:22:07.076293+00:00"
-  },
-  {
-   "fp": "houthis killed lethal shipping strike",
-   "title": "Six killed in Houthis\u2019 first lethal strike on Red Sea shipping",
-   "source": "Washington Examiner",
-   "at": "2026-08-11T23:21:12.964526+00:00"
-  },
-  {
-   "fp": "alum dead jill rhony zarin",
-   "title": "\u2018RHONY\u2019 alum Jill Zarin\u2019s mom dead at 91",
-   "source": "New York Post",
-   "at": "2026-08-12T00:39:05.659113+00:00"
-  },
   {
    "fp": "airstrikes civilians congress killed military pentagon resulted tells yemen",
    "title": "Pentagon tells Congress US military airstrikes in Yemen resulted in 153 civilians killed",
@@ -3201,13 +3177,33 @@
    "title": "Hurricane Lala nears Hawaii's Big Island\u200b, governor warns",
    "source": "Reuters World",
    "at": "2026-08-16T00:53:02.594994+00:00"
+  },
+  {
+   "fp": "black contributor journal michael street wall",
+   "title": "Michael Ian Black \u2014 Contributor at The Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-08-16T01:16:45.622890+00:00"
+  },
+  {
+   "fp": "avatar disneyland dropping land look massive unveils",
+   "title": "Disneyland unveils jaw-dropping first look at massive new Avatar land",
+   "source": "New York Post",
+   "at": "2026-08-16T01:16:47.381521+00:00"
+  },
+  {
+   "fp": "california launch mission secret spacex",
+   "title": "Top-secret SpaceX mission to launch from California",
+   "source": "New York Post",
+   "at": "2026-08-16T01:16:49.242678+00:00"
+  },
+  {
+   "fp": "battles concerns conditions democrats lincoln november preview primary races raise shows stage sunday tight",
+   "title": "Sunday shows preview: Key primary races set stage for tight November battles, Democrats raise concerns over USS Lincoln conditions",
+   "source": "The Hill",
+   "at": "2026-08-16T01:16:50.979056+00:00"
   }
  ],
  "titles": [
-  "capsizes dead ferry kariba lake least leaving missing people zimbabwe",
-  "2025 agency blast federal final issues killed pennsylvania plant report safety steel",
-  "houthis killed lethal shipping strike",
-  "alum dead jill rhony zarin",
   "airstrikes civilians congress killed military pentagon resulted tells yemen",
   "clancy intrusive kids killed lindsay persistent revealed suicide thoughts weeks worst",
   "declaring elections emergency happened national security stranger things trump",
@@ -3603,6 +3599,10 @@
   "dead emergency floods indiana officials storms",
   "agreed attack australia bondi buyback hanson live major news opposes pauline terror wake",
   "above croatia raging seen wildfires",
-  "governor hawaii hurricane island lala nears warns"
+  "governor hawaii hurricane island lala nears warns",
+  "black contributor journal michael street wall",
+  "avatar disneyland dropping land look massive unveils",
+  "california launch mission secret spacex",
+  "battles concerns conditions democrats lincoln november preview primary races raise shows stage sunday tight"
  ]
 }
