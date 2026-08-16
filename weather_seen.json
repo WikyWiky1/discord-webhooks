@@ -717,9 +717,9 @@
    "message_id": "1538355066921029654",
    "event": "Flash Flood Warning",
    "area": "San Bernardino, CA; Clark, NV",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-16T01:13:49+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-16T02:35:47+00:00"
   }
  ]
 }
