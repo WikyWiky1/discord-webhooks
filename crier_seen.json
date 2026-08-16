@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40243682",
   "https://nypost.com/?post_type=article&p=40246825",
   "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
   "CBMiuwFBVV95cUxOWl9pVjdTTDRja3M3UVFTY3lQNTZkWThLaHlBRjdrWFZhZEpsd2Y1OU9nX0MyVkliUlhiOHRTYS1jaXhJYlYzVGhoWU1YcENwZUhRUU83bnZNV2JFaWgtQjVKMy1qaEFkUmZzSk5VRVdBdUc2UUhfR2NBTkNVOFM2XzQ0cHQwbkd1eDZDMDFqX1ZWbUM3YmtSRHE0WFFURnc0a1VrWWNNWWNqX2ktSkdqQ3VHVDNyeEJfZUww",
@@ -799,15 +798,10 @@
   "CBMijwFBVV95cUxQSUxBb3EyOW41YVFzUVIwei1TMV9SMmUzbHV1OXFLSE9hSlhCS1MzdjdSS0tJanE2bE5zMHdicFJSb2pMU21HMW00UjZxaVh1X0JEWFlkOEhKalhvY2ZwQXFMemVkZWxrZGVzUlZ4OFpfVzRva0kwbE9RQUd6QU9qV0FEdFlEM3RrdEdWMWFFYw",
   "https://news.sky.com/story/twelve-killed-as-tourist-bus-crashes-in-hungary-13573631",
   "CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw",
-  "CBMilwFBVV95cUxONTIxNFpid1R2dnoxVVVoblpFcGtqeGV1UDJWdkZwMXlLM0hqVUxaYW8yRkFuNWpleGlBY2s0OG1FckRwajM0NHZJSWljNTJIUGxEdUdVOFRpUzVwWGgtLUI5WDlFU1NVVVhTTWpuRlRCYi1qLUZ0U2pZTHZrck1sS3FCVXNLRzNlZl8zM21YNlV6RVY2dThR"
+  "CBMilwFBVV95cUxONTIxNFpid1R2dnoxVVVoblpFcGtqeGV1UDJWdkZwMXlLM0hqVUxaYW8yRkFuNWpleGlBY2s0OG1FckRwajM0NHZJSWljNTJIUGxEdUdVOFRpUzVwWGgtLUI5WDlFU1NVVVhTTWpuRlRCYi1qLUZ0U2pZTHZrck1sS3FCVXNLRzNlZl8zM21YNlV6RVY2dThR",
+  "CBMipwFBVV95cUxPSi1aUGZ4NllIQV8ycFgzaDdHYWFUdlpYbHA0cTJ1M1lCT0RSVzlVQS1RalFMSkJwUlp1OTUtLUJyWk5DaU9FQmVIVHF6Q2RPdkhYX1M1Z3YwUlNYeHp6X0JNRVhiNHJhbFRRNlgxZFR5RmxrS3hKLTVESFZJbjFmSWgzam1YUkhRbWNuTmlsbUZuOGYzUDNPU3pDT3lQUm9wSEhNcmRJOA"
  ],
  "posts": [
-  {
-   "fp": "cobra emergency extreme heat meeting prompts",
-   "title": "UK extreme heat prompts Cobra emergency meeting",
-   "source": "Guardian World",
-   "at": "2026-08-12T06:44:28.807322+00:00"
-  },
   {
    "fp": "clock colombia earthquake government race rescuers response strains",
    "title": "Earthquake response strains Colombia's new government and rescuers as they race against the clock",
@@ -3201,10 +3195,15 @@
    "title": "A bus crash in Hungary kills 12 people, injures at least 10 others",
    "source": "AP",
    "at": "2026-08-16T09:31:45.831110+00:00"
+  },
+  {
+   "fp": "attack centre kyiv launches putin revenge space strikes vladimir",
+   "title": "Vladimir Putin launches revenge strikes on Kyiv after space centre attack",
+   "source": "Telegraph",
+   "at": "2026-08-16T10:15:57.664399+00:00"
   }
  ],
  "titles": [
-  "cobra emergency extreme heat meeting prompts",
   "clock colombia earthquake government race rescuers response strains",
   "2030 future korea landing moon projects south targets technology unveils",
   "democratic francesca hong left locked nomination race tight wing wisconsin",
@@ -3603,6 +3602,7 @@
   "floods killed spain women",
   "crashes hungary killed tourist twelve",
   "belgium biggest germany heads record towards wildfire",
-  "crash hungary injures kills least others people"
+  "crash hungary injures kills least others people",
+  "attack centre kyiv launches putin revenge space strikes vladimir"
  ]
 }
