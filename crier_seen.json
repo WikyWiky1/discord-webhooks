@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6017968",
-  "https://thehill.com/?p=6018937",
   "https://nypost.com/?post_type=article&p=40262948",
   "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
   "CBMikAFBVV95cUxPMjJ5UUtGSnBqYXN1Zjh2aG5TM3RlaVMwbWNHeWk4ZDBwcW5XVVdzY3RjSWsyYzljWmhGYmlGXzZ3Xy1vRDFtRUM0RnIwTzRkQTVmNzBBSjBTYzJQeGE5emhKODdhT2t2aUFqZ0lKcDFCSlVkWnM5bGpUTWlpeGtqbkQ1UlBteEZhUmxXYVFhV1o",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40375032",
   "CBMimwFBVV95cUxQWGc3MnBDTEtvelFnQnQzZEpnbGgyNEhua2ctX25vZE5EOGc4U1hqTm8yZWdPVFVpOGpMQnAyZVBkTERVX2RIUTFjVEdnRHhFenJ5TkU3Z21GMlhSa1U4cGU1NkFQUXlrSDFDc1RHY1NDVTNTX2NZM2ttWURYQTItZFhiQ184ZjRNWTQzbWRTbUdCWjRObmtnQVVtMA",
   "https://nypost.com/?post_type=article&p=40375964",
-  "CBMirwFBVV95cUxQVm03MXRiSG1pRXZGcVlFQXQ2YThoakF0MEJLS1BCZEhIcXdRbDBsdGpyQ1R4d3RuSnRvREFtaHZIZFVwbUFGZmIzM25rM0thYWRUOEY3cTd6aUxPam9NMFNwZVA0UUNTZ24xdGFCVlQyVjQ5eU5vcjB2WmVoS1ZLd2Mxcjh2M2F1QTJMcHNCazJNOUNuV3dqTF9SZ20xSEF3RzBLQkNha0QxY0VmX2Rz"
+  "CBMirwFBVV95cUxQVm03MXRiSG1pRXZGcVlFQXQ2YThoakF0MEJLS1BCZEhIcXdRbDBsdGpyQ1R4d3RuSnRvREFtaHZIZFVwbUFGZmIzM25rM0thYWRUOEY3cTd6aUxPam9NMFNwZVA0UUNTZ24xdGFCVlQyVjQ5eU5vcjB2WmVoS1ZLd2Mxcjh2M2F1QTJMcHNCazJNOUNuV3dqTF9SZ20xSEF3RzBLQkNha0QxY0VmX2Rz",
+  "CBMilAFBVV95cUxPOHVWNHRxaGxadHNiNDB2cUdGN1lNVkFVM0tyZDg0YWZKZThQcjVmMkZOSW03VngyNklSSG43TmpHSDJxel9SZDkzWEdPSGlDaGk4MkVNdEg5ZHZ3UG5IbWZWbUN3ZGtHYW1yUk03ZzFZX255NDd3WHdmSFVYNF9MbUhUczAtNjVTTUVsYlFWbG9zYVRj",
+  "CBMivgFBVV95cUxOS3IyZlQ0ZG5RZTZrZVQzWU9kUDZTdi1zdmRSa0d2REZrVkRqUm5DRnY5cy1fZUxYZ1lhZy1HQUNBQ0VRR0JYNXZWQmRkeFpVMHlhOFJvbEtZRnhlV2sxSTVBUzVOSzhWY1FPN0JRX0JUWTcxWEY3d0g4N1l6VUM0VGtGSU10azh3cUZaOE1HVkpERG5SeEJmUEFTY2NscDg1UlAwOEFwZHVob0lxZEg4MW9ETXVlem1oSXlaNEhn"
  ],
  "posts": [
-  {
-   "fp": "derails east sussex train",
-   "title": "Train derails in East Sussex",
-   "source": "Telegraph",
-   "at": "2026-08-13T16:12:07.323238+00:00"
-  },
-  {
-   "fp": "accused alleged coup french mali pardon plotting presidential",
-   "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-   "source": "BBC World",
-   "at": "2026-08-13T16:12:08.956999+00:00"
-  },
   {
    "fp": "children cops florida grandma herself kills murder suicide turning",
    "title": "Mom kills grandma and her 2 children before turning gun on herself in Florida murder-suicide: cops",
@@ -3201,11 +3189,21 @@
    "title": "Trump \u2018weighing nuclear attack on Iran\u2019 as peace deal expires",
    "source": "Telegraph",
    "at": "2026-08-17T17:19:58.605394+00:00"
+  },
+  {
+   "fp": "crash greek helicopter island kills popular sifnos tourist",
+   "title": "Helicopter crash on popular Greek tourist island of Sifnos kills 3",
+   "source": "AP",
+   "at": "2026-08-17T17:49:06.725791+00:00"
+  },
+  {
+   "fp": "deadly department fentanyl justice permitted review streets tactic watchdog",
+   "title": "Justice Department watchdog to review DEA tactic that permitted deadly fentanyl to hit streets",
+   "source": "AP",
+   "at": "2026-08-17T17:49:08.431870+00:00"
   }
  ],
  "titles": [
-  "derails east sussex train",
-  "accused alleged coup french mali pardon plotting presidential",
   "children cops florida grandma herself kills murder suicide turning",
   "blow devastating exit golf potentially rahm resigned",
   "ebola fast growing outbreak province sixth spreads",
@@ -3603,6 +3601,8 @@
   "awaiting devastating earthquake indonesia killed least people thousands",
   "automobile chinese down geely head pioneer steps",
   "belgian blazes break decades devastating france germany greece moves recover take toward wildfire",
-  "attack deal expires iran nuclear peace trump weighing"
+  "attack deal expires iran nuclear peace trump weighing",
+  "crash greek helicopter island kills popular sifnos tourist",
+  "deadly department fentanyl justice permitted review streets tactic watchdog"
  ]
 }
