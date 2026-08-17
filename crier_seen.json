@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4680277",
-  "https://nypost.com/?post_type=article&p=40242070",
   "https://nypost.com/?post_type=article&p=40240860",
   "CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB",
   "https://www.washingtonexaminer.com/?p=4680256",
@@ -799,21 +797,11 @@
   "CBMiZ0FVX3lxTE44LTM4c2FvemlqVWlMbkJxTzE4aWZTcXlLSnBGLWtqME5ydGh6clBaSUtiUzlCY1VDTzRkYkVMUktOY0hNd3RQZnQtUjRmU2o0eUduakg1LVViZGZneDZNYkR5XzdnLVU",
   "https://news.sky.com/story/ebola-outbreak-in-dr-congo-now-deadliest-in-countrys-history-13573874",
   "https://nypost.com/?post_type=article&p=40370089",
-  "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1"
+  "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1",
+  "https://nypost.com/?post_type=article&p=40369054",
+  "CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag"
  ],
  "posts": [
-  {
-   "fp": "child dying killed minnesota police suicide wife",
-   "title": "Minnesota man killed his wife and child before dying by suicide, police say",
-   "source": "Guardian World",
-   "at": "2026-08-12T23:03:55.401062+00:00"
-  },
-  {
-   "fp": "crash dead evacuations helicopter military sparked texas wildfire",
-   "title": "2 dead in Texas military helicopter crash that sparked wildfire and evacuations",
-   "source": "New York Post",
-   "at": "2026-08-12T23:03:57.106280+00:00"
-  },
   {
    "fp": "brains close grail holy inside nuclear ocean physicists power race waves wild",
    "title": "Inside the wild race to power AI with rat brains and ocean waves \u2014 as physicists close in on nuclear holy grail",
@@ -3201,11 +3189,21 @@
    "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
    "source": "BBC World",
    "at": "2026-08-17T00:51:17.529528+00:00"
+  },
+  {
+   "fp": "2028 every gavin loses newsom primary state",
+   "title": "How Gavin Newsom loses every primary state in 2028",
+   "source": "New York Post",
+   "at": "2026-08-17T01:14:16.772916+00:00"
+  },
+  {
+   "fp": "autumn chief foreign package plans reaching russia sanctions",
+   "title": "EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says",
+   "source": "Reuters World",
+   "at": "2026-08-17T01:14:18.554446+00:00"
   }
  ],
  "titles": [
-  "child dying killed minnesota police suicide wife",
-  "crash dead evacuations helicopter military sparked texas wildfire",
   "brains close grail holy inside nuclear ocean physicists power race waves wild",
   "army crashes helicopter killing people sparking texas wildfire",
   "accelerates congo ebola families mourn outbreak photos",
@@ -3603,6 +3601,8 @@
   "engulfs greek island killed least salamina wildfire",
   "congo country deadliest ebola history outbreak",
   "breaks diego evacuations fast fire forcing moving",
-  "about away hawaii homes hurricane lala lashes swept"
+  "about away hawaii homes hurricane lala lashes swept",
+  "2028 every gavin loses newsom primary state",
+  "autumn chief foreign package plans reaching russia sanctions"
  ]
 }
