@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiZ0FVX3lxTE1FUmQwR0pyYk8tZjVhTjBKN2M0YkFfRDlVNjI4ZGVjcGtNNzVMTk5Sa0pjakNtaGNJSUt0N3AzaGVxX0xIWXZ6SFNKa28wSlJ0UF9Xc3dZN0hsSkpXUF9wSmNFSnJQdjQ",
-  "CBMiywFBVV95cUxOWG9raTBHTG1vQW4zcmlxaGctSVFqLS05NjNxUGo5SjJHaE0zVUhGdlJfdnhYNzlYWnRqRmFMekpPOHFGdWVBRXZaUWxZRDNuRDBVYktYc1NlYmd4T1l5cUxKaWFKT3lVRGFFV1NSZjZtdHF3Wk5jbzRCNDR4bFRLRlpYUnEyZ1JIU1NyYW5sTkxpYnc2TjRYZW15X2ZLX2N3djFMOVRqcktWN1I4Y1oxUExwNHJPRGplSlhNaUM5cWZ5dzdNTV9JUkV0bw",
   "CBMirwFBVV95cUxPa053YkgxUFdweDFoVzg2VV9QRFNnRk03Z3VVUVdlSHM3S3ZxZ09oUHhvSkdRY2lyNE1GZ3dIb2U2LXdQNkEyMXFUU2pjNVdLM0tPOXdhaExPb1BOS3pET0thMDJWLVlZcmlteTZTbmFwT2ZWbDg0ZlZ5ZFdxV0oxUE1nLVdGTGFhYUhDenU1QjJoU2FmYXJZaThhRzdUT3I3RDVMYmgwQWdFZmxMOWxJ",
   "https://www.theguardian.com/australia-news/2026/aug/10/teenagers-charged-murder-bahrs-scrub-logan-queensland-party-ntwnfb",
   "https://www.theguardian.com/world/2026/aug/10/british-national-shot-dead-in-kashmir-by-pakistani-security-forces",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40378071",
   "https://nypost.com/?post_type=article&p=40379952",
   "https://nypost.com/?post_type=article&p=40377713",
-  "https://thehill.com/?p=6033660"
+  "https://thehill.com/?p=6033660",
+  "https://nypost.com/?post_type=article&p=40379904",
+  "CBMikwFBVV95cUxOa3BGSUdZbXJJa2YwYTI3cWhGQ0dyZ3paTi1KcTBmUnRLM3B3MVIyVlh3blJRbmE3YklYN2FIU3ZzN1Z6VGRqcTdpU2UzRlkwNlRBT0xGVXFvUG5oSDRvVmFuQW1DZnEtUzE4S3YtRVk2VG9EaVk5WjdyaV93bFUzV1ZRb1hwV1B1eE9PNlNiYk9TNFk"
  ],
  "posts": [
-  {
-   "fp": "alcott chemmy collapsed dive flip former front goes lung olympic skier suffers wrong",
-   "title": "Former Olympic skier Chemmy Alcott suffers collapsed lung after front flip dive goes wrong",
-   "source": "New York Post",
-   "at": "2026-08-13T18:09:07.132186+00:00"
-  },
-  {
-   "fp": "alligator attack boyfriend brittany clark final girlfriend gives heartwarming update victim wish",
-   "title": "Alligator attack victim Brittany Clark\u2019s boyfriend gives heartwarming update on girlfriend\u2019s final wish",
-   "source": "New York Post",
-   "at": "2026-08-13T18:09:08.852515+00:00"
-  },
   {
    "fp": "atlanta delta emergency flight forced landing make odor plane reported smoky",
    "title": "Delta flight forced to make emergency landing in Atlanta after \u2018smoky odor\u2019 reported on plane",
@@ -3201,11 +3189,21 @@
    "title": "Trump: Released missionary hostage coming home to US",
    "source": "The Hill",
    "at": "2026-08-17T19:43:50.973598+00:00"
+  },
+  {
+   "fp": "alleged dealer diego evacuations fire poker smoking sparked unmasked",
+   "title": "Cig-smoking poker dealer unmasked as alleged fire bug who sparked evacuations in San Diego",
+   "source": "New York Post",
+   "at": "2026-08-17T20:17:50.356036+00:00"
+  },
+  {
+   "fp": "alert backfire ministers officials warned wildfire",
+   "title": "Officials warned ministers that wildfire alert would backfire",
+   "source": "Telegraph",
+   "at": "2026-08-17T20:17:52.262330+00:00"
   }
  ],
  "titles": [
-  "alcott chemmy collapsed dive flip former front goes lung olympic skier suffers wrong",
-  "alligator attack boyfriend brittany clark final girlfriend gives heartwarming update victim wish",
   "atlanta delta emergency flight forced landing make odor plane reported smoky",
   "descends flee greek resort tourists village wildfire",
   "ammunition explosion injuries near plant reported rome strikes",
@@ -3603,6 +3601,8 @@
   "allegedly calling dead estranged murdered panic texas wife",
   "breastfeeding california contamination deadly fears granola moms recalled sold",
   "analysis california cities exposed risks spot takes wildfire",
-  "coming home hostage missionary released trump"
+  "coming home hostage missionary released trump",
+  "alleged dealer diego evacuations fire poker smoking sparked unmasked",
+  "alert backfire ministers officials warned wildfire"
  ]
 }
