@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40254511",
   "https://nypost.com/?post_type=article&p=40254759",
   "CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw",
   "CBMipAFBVV95cUxPeWR4UU03c2Q4b0ZHWlNtcHRWSlgydk1xZjdMeXNqX0o2dF9sUXpjSzhEdk9vVE56TW1TTjhzQ2FrMzZvWkFiMGF2WGdFZms0ZmtJaXJNZzBKWDJQZ2QxYWcwdl9qZFRWa0lHNG5VdUJVM0RPa2hEWVRzd1o0R3FXSDZMUDg2andYSW5Ca3dnYU9UeE1PZ2l5eVhDSmdNMWh6bEdQZA",
@@ -799,15 +798,10 @@
   "CBMivgFBVV95cUxOSW93eXhxZXduMkYwWlFmNnFhOWt3d05mc1BuRWR4WjZOci1lME5GZXFRVzNjcGR4eUdPQVdYcVMxS3Y0YVVnTTdETVhFSXpuNzY2VVRSamJZZXo3NDJWN05UTmZkRzhWNnNCdWZWSlp3YXZmaGs1TzFOdXpkTEV1RFlCOUxZUF9DT2dMbkIxT1lwelhWTVVrWnp6eEVNaklRb0tyWVpYaXUyazk0X2M5Ml81djdoN0lGWkhDSlJ3",
   "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
   "https://www.bbc.co.uk/news/articles/cvgww971nn2o#0",
-  "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#0"
+  "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#0",
+  "CBMipAFBVV95cUxQYUtDRTJCNnlSX2pnMnJMaFo3SVY2TXUwVkVWSGUtSkI3Z1h2VjRibjFfOEliVlJ5eTRvYkJobmx4TS1zNTBiSm4xeWljbUJ0ZXE2N0pzalB3cm1PSFJucWlnRDBHTDhobzMtV1htcWZodGVFTzZlcjVWZGVzcWhMRnl2WkRvclJOcVM0UGw4NER2UmZXcjg3UFlMOTBUeVpDcWhkWA"
  ],
  "posts": [
-  {
-   "fp": "apache attack central crashes dead helicopter texas",
-   "title": "Two dead after Apache attack helicopter crashes in central Texas",
-   "source": "Washington Examiner",
-   "at": "2026-08-13T00:00:33.165463+00:00"
-  },
   {
    "fp": "breaking california down hilton plan steve sweeping",
    "title": "Breaking down Steve Hilton\u2019s sweeping new plan for California",
@@ -3201,10 +3195,15 @@
    "title": "Ukrainian strikes kill six in Russia, acting governor says",
    "source": "BBC World",
    "at": "2026-08-17T05:38:50.818378+00:00"
+  },
+  {
+   "fp": "beaten bruised caught election israel pawns political",
+   "title": "The beaten and bruised \u2018political pawns\u2019 caught up in Israel\u2019s election",
+   "source": "Telegraph",
+   "at": "2026-08-17T06:54:32.017296+00:00"
   }
  ],
  "titles": [
-  "apache attack central crashes dead helicopter texas",
   "breaking california down hilton plan steve sweeping",
   "area estate explosion francisco fueled sells sign wealth",
   "apache base crash dead military",
@@ -3603,6 +3602,7 @@
   "dead incident india like stampede temple",
   "appears australia contain hallucinations hears media report senate social supporting teen",
   "kills korea landslide lashes rain record south",
-  "acting governor kill russia strikes ukrainian"
+  "acting governor kill russia strikes ukrainian",
+  "beaten bruised caught election israel pawns political"
  ]
 }
