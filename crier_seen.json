@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMinwFBVV95cUxPMmpIU01RS2s2UlpsWVRZcF9naUlDVXFadXI5RGdNTlF2U1FteUJWMEtLWXFILTg2U2s5bjRPOUFEMkpGVFpkZ0stZ1UxYnU4RjBkWVBiS1NaVF9YdEc0U1l0a1dPc0FPeHJYckpGS09HTFRWN0w2cjdSVlNPLURiTW1sTk5Zd3JzbWNtV1kyVGpvU2xIXzlUc216UElzZG8",
-  "https://www.washingtonexaminer.com/?p=4680435",
   "https://nypost.com/?post_type=article&p=40259506",
   "CBMirgFBVV95cUxOb2hvX1JZYmNKUXQ2RWVObVJJN3VWdFpLWXM1cUs0TkZNUHB6Wlc5eTFGcm83cjB1d2VVSmpFOTZxR3lCZTBvZnBaTGRJc0VOQ1NjVGpYUVRlazlsRkk1ZFZXMjlCWjhIeUdHT3kxdHpYQXdNTE05X2VyczFTR2lXa1BVRmtuOXJMUVVVTlpRVURkQTVQM1k2c3dhNUFVc2NBNVFqN3BnZndnVXptakE",
   "https://thehill.com/?p=6019094",
@@ -799,21 +797,11 @@
   "CBMiYkFVX3lxTE1mcDBFcENaSWFJS1QyeVM1dTBVeE92MktJVm1JWDgwdlJjbXJfc05PU3F4MXVPcU5aZU1URXNjYkF2aUlPV0Zld3NtSkN2MWFEMzNwSWktay1ocnA1VUFBaDBn",
   "CBMigAFBVV95cUxOUEJ1VXRwNEh5OVhWN0dOSWxVd0NjX0JSWVZrRWJnX3QzWk04NzZqNFVvZE9XeU9CTW5KbWNjZkpITGlzMHNvZHJtN1dNc3ctRGk4RS1wRmp1N3o4bnlqWnA1R1ZhVUV6OG15U0ltdjJtWTNJZHZwZUJKWDQxOE9tNQ",
   "https://www.washingtonexaminer.com/?p=4689539",
-  "CBMirAFBVV95cUxPempEdk1tOWtabFYwTXVaOW5Tdm01cDRJNTZ0MUpvZC0tT1ZWTTJNSEVNSDQydGVjak13eXh2cHZIcnVpUmx6Nm01ZjRsS285TFE1MXJ2RlZ1aWh1ZnN4TlYzSThoZzJJUURSWmdNMS04VkFQVlpDVUxqU3Q5TnRpTHFpeWdObmNqSlAwTWhaRExlbWptSnlBWmhlWmdGeUdzWlM3NE96Tk8talpL"
+  "CBMirAFBVV95cUxPempEdk1tOWtabFYwTXVaOW5Tdm01cDRJNTZ0MUpvZC0tT1ZWTTJNSEVNSDQydGVjak13eXh2cHZIcnVpUmx6Nm01ZjRsS285TFE1MXJ2RlZ1aWh1ZnN4TlYzSThoZzJJUURSWmdNMS04VkFQVlpDVUxqU3Q5TnRpTHFpeWdObmNqSlAwTWhaRExlbWptSnlBWmhlWmdGeUdzWlM3NE96Tk8talpL",
+  "https://pagesix.com/?post_type=article&p=9114866",
+  "https://www.theguardian.com/us-news/2026/aug/17/louisiana-killing-wife-passenger-seat"
  ],
  "posts": [
-  {
-   "fp": "admits attack bomb boost businessman friend italian organising security",
-   "title": "Italian businessman admits organising bomb attack \u2018to boost friend\u2019s security\u2019",
-   "source": "Guardian World",
-   "at": "2026-08-13T15:17:34.329153+00:00"
-  },
-  {
-   "fp": "abraham answers attempted democrats hegseth lincoln press reports senate suicides",
-   "title": "USS Abraham Lincoln: Senate Democrats press Hegseth for answers on reports of attempted suicides",
-   "source": "The Hill",
-   "at": "2026-08-13T15:58:46.903475+00:00"
-  },
   {
    "fp": "cooper democrat lead point poll rival senate shows",
    "title": "Poll shows Democrat Cooper with 11-point lead over GOP Senate rival",
@@ -3201,11 +3189,21 @@
    "title": "American tourist killed by lightning strike on erupting Etna",
    "source": "Telegraph",
    "at": "2026-08-17T15:44:22.411884+00:00"
+  },
+  {
+   "fp": "actress apartment complex dead found hayden luxury moments neighbor panettiere recalls shocking",
+   "title": "Hayden Panettiere\u2019s neighbor recalls \u2018shocking\u2019 moments after actress found dead in luxury apartment complex",
+   "source": "New York Post",
+   "at": "2026-08-17T16:18:42.554953+00:00"
+  },
+  {
+   "fp": "across allegedly arrest body drove killed louisiana states wife",
+   "title": "Louisiana man allegedly killed his wife and drove her body across states before arrest",
+   "source": "Guardian World",
+   "at": "2026-08-17T16:18:44.286103+00:00"
   }
  ],
  "titles": [
-  "admits attack bomb boost businessman friend italian organising security",
-  "abraham answers attempted democrats hegseth lincoln press reports senate suicides",
   "cooper democrat lead point poll rival senate shows",
   "budget closed criticized defense democrats door hegseth locking talks",
   "ackman including investments mastercard netflix overhaul portfolio unveils visa",
@@ -3603,6 +3601,8 @@
   "cries election extends fraud lead opposition president zambia",
   "decision expect notes primary state wyoming",
   "aide attack closeness democratic house line ossoff rips trump white",
-  "american erupting etna killed lightning strike tourist"
+  "american erupting etna killed lightning strike tourist",
+  "actress apartment complex dead found hayden luxury moments neighbor panettiere recalls shocking",
+  "across allegedly arrest body drove killed louisiana states wife"
  ]
 }
