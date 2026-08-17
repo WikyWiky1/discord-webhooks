@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40257483",
-  "CBMiswFBVV95cUxOS0Q5N0tzekVmWnI5R18zRGhBUWxITXNyNkg4eU45Vkc4UlVZS29LR1NsYmY2MXJPcFRXbUdrNTZGV0RVZmh1SFlBWHc2YUN1T2NIWl9KZnl2bS13WExvZC1oblMzbGRqczN1MjhGYUZoNVd1YTRWYk90SmZ4VGxTM1ZNdlAwSUxtOUdEXzJrTklmWXQ2RGlhUUxWLW1lbkNtNExJTDE3RnVtOF9IdHhzZEJtQQ",
-  "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say",
-  "CBMisgFBVV95cUxNS05uS1RyLUd6dmFHSkt1bUxJUzA2RnVrZlhwZDFJQmVrQ19wRmd2RFNJRWQ5RGVoZDRGeXlIWi1laXQySGUxaERfQkszMGdOVElVdmFfRDYzNWdrU2ppQU1DS2VULWtsUnNMTTZXMVAzV1VTdnMzaG5VLW1kMUlScndvenRpaVhGQUxVSFdmb1VqR2thZm15LVZoMlBSYTc0THFQV3RRLXJXaXdhb0V0UFhR",
   "CBMilAFBVV95cUxPWHFiLWJhb1NhN1N4NlN3aTdNSU9vODFLZHBvR3BxNlU2bldZZzZPRmxHd3A2ck9tRld6V1NjdU9Nc0oybWZJQ0dXUVh3V3JvUzdSYmVSZzlFWlFVRDhwUnVBMmtiejNMTW9ESV9HNkEzNWFmaDBzaXhnNEUwLXROem1paEZjWGxyelY3LUZ6NFZqZF9Z",
   "https://nypost.com/?post_type=article&p=40257619",
   "https://nypost.com/?post_type=article&p=40257831",
@@ -799,33 +795,13 @@
   "CBMimwFBVV95cUxQZUFvLVN2ZzIzTThlcEh1eFdHblhkYTVBZ1RSMElQMnhiREpYM01EbkVBYmZsUHJ3dWJ2aUVOWVZXRklDTlRZNW9CVDdQMHNHWDhOMUM3bndiUmNNWGdKb1RuYzY3UGF5N1o5TUFTVmJjdzlEU0RUS2tRQjNhVmZIdUlQUnd4YmY5RXdNQmFJRE9fbnktRHF6YTAtWQ",
   "CBMiZ0FVX3lxTE9URFBFamVCLTFrNzFQLTltVVo2ZnZ3TTdBZDBpbU1LXzNSbTF5RHBxSXlwWEVLMnEzcHlOX1NRdEtnVnBGVjJ1Q1VUUnVvSXNYVWpGRVJPcEVTdG9RSUFWS28ycGxOdFE",
   "CBMiowFBVV95cUxPWUVTb1JsTmxxRTUxSENvaXg4bzNUVy1UT1ZPaTJuUko0UUV4TEZWX3NVZldOcWp4ODlHOVhoTzlUMlh5UW13bE5XR3FxVWRxZnp0ckg1ZUtYT1pWSlpLQlBpT0M2ak1nUXdLOXpnc3preWc4U3QtZjhjZy1XSW1jVDZWOTNIU2gwVk9nS1E3eFN6RGRacXhsTkZLZEViYlFKUi1j",
-  "https://www.bbc.co.uk/news/articles/crl7686r71yo#1"
+  "https://www.bbc.co.uk/news/articles/crl7686r71yo#1",
+  "CBMirgFBVV95cUxPdUQ0ajhhY1J0eGp5MGF2cEtPYVA2UDJvbDU0NmZFVUREeUJkUmgtMUFqOEF4by1lSUloQTd3YUJMYXZOWXlYRWVKZUpTTkozMGNkaWFVQ19tUC1kTWRMWXJCWkgzbXpEcW5xbHQxZkhLMGNnNElEM0paeTlYYkszeWZrdHNiZUdnRDI2RGtYcF9KVWV6bER6bzRqbFhCcUl1Nk91WEs4bGFSWHlWdlE",
+  "CBMivAFBVV95cUxPdUpiUHhKbEtobmthQ1VQV0VIX2tCUGxYMjFMRUFvR2FXNnRCVmJyX0c1NWdvR1NGanNUc2xoNUcyVUp2TkIxc2pmU1NyS245SEdTMWtIcTFyYVdtM1JRZ0xUT0ZocDdrNjB6OVJ6X2F1OWVCYWowLW5iS0NmMklVTy0xSWJvWW80ZWdIX2xqWlBVOGZfN1lnWHRUd1lUZENLSzlFVEE4UU9hcGJBYW9NQ1dJTmFGVWd4OFNnUg",
+  "CBMipgFBVV95cUxOdGtaNHpnb2NnR1Nya1dEanRLZGJ4UEgtQnp5RlYtZmpPUEo1XzRrVXpZQnIzQ29NRlFObWdyTmRlLW5GWWtjd3l0VFo3TWQ1dFBFQTlLanZ1cEZ0dW94a0o2ZF9tdl9adkR6S3hmWjhXakxGRGtVSXZqdjRPZVlxZDZNOW9GdmVNVHBGNUt3Y2IwMDlINm10SzdHTkMzX3NjUTRyV1N3",
+  "CBMiogFBVV95cUxONjJTM1VrQzhpQ0xWc09Sbkxza0JyRWJKa0ZYM3dSMi1YUS1OLTFLZ2RCY0dJbkVXa1BmR1E3VVBXUDdtSk5BXzBIVTYxeTlZdlY4VGVpVDMwN3M1ZmhBVVRLU1JrT09rcnU3aHB6TkoyR1RqSHZreTAwdDA1RE5CUGpxN1BiR3NjMW1LeFN0OUVEdVdULVdFSERjMm1HcXVOM2c"
  ],
  "posts": [
-  {
-   "fp": "accused charges mass officer orleans plot released shooting without",
-   "title": "Ex-officer accused in New Orleans mass shooting plot released without charges",
-   "source": "Washington Examiner",
-   "at": "2026-08-13T04:46:49.780034+00:00"
-  },
-  {
-   "fp": "brothers discovery fatally home island long make shot tragic",
-   "title": "Two brothers fatally shot in Long Island home \u2014 kin make tragic discovery",
-   "source": "New York Post",
-   "at": "2026-08-13T04:50:08.398623+00:00"
-  },
-  {
-   "fp": "added august four global index indian msci rejig removed stocks three",
-   "title": "Four Indian stocks to be added, three removed from key global index in MSCI's August rejig",
-   "source": "Reuters",
-   "at": "2026-08-13T04:50:10.081203+00:00"
-  },
-  {
-   "fp": "advice best cookbooks emergency gifts noodles students university",
-   "title": "Advice, cookbooks and emergency pot noodles: Your best gifts for university students",
-   "source": "Telegraph",
-   "at": "2026-08-13T06:11:23.387376+00:00"
-  },
   {
    "fp": "earnings guidance higher increased maersk raises visibility",
    "title": "Maersk Raises Guidance on Higher Earnings, Increased Visibility",
@@ -3201,13 +3177,33 @@
    "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
    "source": "BBC World",
    "at": "2026-08-17T09:02:46.469719+00:00"
+  },
+  {
+   "fp": "america bank game plays secret street wall word",
+   "title": "The Secret Word Game Bank of America\u2019s CEO Plays With Wall Street",
+   "source": "WSJ",
+   "at": "2026-08-17T09:40:34.848183+00:00"
+  },
+  {
+   "fp": "dollar fading falls federal prospect raising rates reserve sharply",
+   "title": "Dollar Falls Sharply on Fading Prospect of Federal Reserve Raising Rates",
+   "source": "WSJ",
+   "at": "2026-08-17T09:40:36.570177+00:00"
+  },
+  {
+   "fp": "earnings taxman week",
+   "title": "From this week on, all your earnings will go to the taxman",
+   "source": "Telegraph",
+   "at": "2026-08-17T09:40:38.412481+00:00"
+  },
+  {
+   "fp": "chart crash market ready stock",
+   "title": "This chart says the stock market is ready to crash",
+   "source": "Telegraph",
+   "at": "2026-08-17T09:40:40.107593+00:00"
   }
  ],
  "titles": [
-  "accused charges mass officer orleans plot released shooting without",
-  "brothers discovery fatally home island long make shot tragic",
-  "added august four global index indian msci rejig removed stocks three",
-  "advice best cookbooks emergency gifts noodles students university",
   "earnings guidance higher increased maersk raises visibility",
   "aisle discovery goldilocks paper",
   "china election here interested might presidential voting zambia",
@@ -3603,6 +3599,10 @@
   "eastern fire hotel india injure kill several stampede temple",
   "colombia earthquake faith grief mourns victims",
   "ceasefire expire futures higher iran mostly",
-  "deadly earthquake fears indonesia reels shortages starvation"
+  "deadly earthquake fears indonesia reels shortages starvation",
+  "america bank game plays secret street wall word",
+  "dollar fading falls federal prospect raising rates reserve sharply",
+  "earnings taxman week",
+  "chart crash market ready stock"
  ]
 }
