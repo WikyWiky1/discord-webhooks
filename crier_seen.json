@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40259579",
-  "CBMiswFBVV95cUxOVHZ4ZTczbFBkMldxZ1AxeXpPbUZlcFlRMFdIekNfcDVjUVp5VTUtaHIwVWMxLTdfdEg0cmoxVFQwX2w5cVdTekxUbXBQSm1ib0EwRW5yWUNFS1lpUDZJaDQ2cGh3bFFTdWdfeHRBOVFySWpiWVhhelFBQjNkODZrRy1rUGxHbWNwTkpnSTAtMFJpYnJVTFc5NGxtcVQ2TFpxWDB2TEdWNnpKMVNOanp5dTlOdw",
   "CBMinwFBVV95cUxPMmpIU01RS2s2UlpsWVRZcF9naUlDVXFadXI5RGdNTlF2U1FteUJWMEtLWXFILTg2U2s5bjRPOUFEMkpGVFpkZ0stZ1UxYnU4RjBkWVBiS1NaVF9YdEc0U1l0a1dPc0FPeHJYckpGS09HTFRWN0w2cjdSVlNPLURiTW1sTk5Zd3JzbWNtV1kyVGpvU2xIXzlUc216UElzZG8",
   "https://www.washingtonexaminer.com/?p=4680435",
   "https://nypost.com/?post_type=article&p=40259506",
@@ -799,15 +797,11 @@
   "https://www.washingtonexaminer.com/?p=4689441",
   "CBMirgFBVV95cUxOMjFEVGpDV1hiYThFa3hHbGpTWnNFUV9iZVQ1ZzQ3NU5leFhuVUgtUDduclRjY0NfUFVxUTFiWkZPVTNKVGtlTnhiMWFfSXdGZGdzUlpiZGhkRUNnVTZqY2RETGxuM2tNUENubEJNaGc5TnpjdXhwLUw2dlVKU2lONFFxdVkxVFg3RXBrMmpfT0xsMElpWnhhMGZDeDZVQ2hpSFJoMGxEWTJJTnl5WUE",
   "CBMiYkFVX3lxTE1mcDBFcENaSWFJS1QyeVM1dTBVeE92MktJVm1JWDgwdlJjbXJfc05PU3F4MXVPcU5aZU1URXNjYkF2aUlPV0Zld3NtSkN2MWFEMzNwSWktay1ocnA1VUFBaDBn",
-  "CBMigAFBVV95cUxOUEJ1VXRwNEh5OVhWN0dOSWxVd0NjX0JSWVZrRWJnX3QzWk04NzZqNFVvZE9XeU9CTW5KbWNjZkpITGlzMHNvZHJtN1dNc3ctRGk4RS1wRmp1N3o4bnlqWnA1R1ZhVUV6OG15U0ltdjJtWTNJZHZwZUJKWDQxOE9tNQ"
+  "CBMigAFBVV95cUxOUEJ1VXRwNEh5OVhWN0dOSWxVd0NjX0JSWVZrRWJnX3QzWk04NzZqNFVvZE9XeU9CTW5KbWNjZkpITGlzMHNvZHJtN1dNc3ctRGk4RS1wRmp1N3o4bnlqWnA1R1ZhVUV6OG15U0ltdjJtWTNJZHZwZUJKWDQxOE9tNQ",
+  "https://www.washingtonexaminer.com/?p=4689539",
+  "CBMirAFBVV95cUxPempEdk1tOWtabFYwTXVaOW5Tdm01cDRJNTZ0MUpvZC0tT1ZWTTJNSEVNSDQydGVjak13eXh2cHZIcnVpUmx6Nm01ZjRsS285TFE1MXJ2RlZ1aWh1ZnN4TlYzSThoZzJJUURSWmdNMS04VkFQVlpDVUxqU3Q5TnRpTHFpeWdObmNqSlAwTWhaRExlbWptSnlBWmhlWmdGeUdzWlM3NE96Tk8talpL"
  ],
  "posts": [
-  {
-   "fp": "cost fueling gurdon house hugo impeachment push trump unpopularity",
-   "title": "Trump\u2019s unpopularity could cost GOP House, fueling impeachment push: Hugo Gurdon",
-   "source": "Washington Examiner",
-   "at": "2026-08-13T15:17:32.623572+00:00"
-  },
   {
    "fp": "admits attack bomb boost businessman friend italian organising security",
    "title": "Italian businessman admits organising bomb attack \u2018to boost friend\u2019s security\u2019",
@@ -3191,20 +3185,25 @@
    "at": "2026-08-17T15:24:32.880871+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-08-17T15:24:34.822652+00:00"
-  },
-  {
    "fp": "decision expect notes primary state wyoming",
    "title": "AP Decision Notes: What to expect in Wyoming\u2019s state primary",
    "source": "AP",
    "at": "2026-08-17T15:24:36.613499+00:00"
+  },
+  {
+   "fp": "aide attack closeness democratic house line ossoff rips trump white",
+   "title": "Ossoff rips Trump over closeness with White House aide in new Democratic attack line",
+   "source": "Washington Examiner",
+   "at": "2026-08-17T15:44:20.724121+00:00"
+  },
+  {
+   "fp": "american erupting etna killed lightning strike tourist",
+   "title": "American tourist killed by lightning strike on erupting Etna",
+   "source": "Telegraph",
+   "at": "2026-08-17T15:44:22.411884+00:00"
   }
  ],
  "titles": [
-  "cost fueling gurdon house hugo impeachment push trump unpopularity",
   "admits attack bomb boost businessman friend italian organising security",
   "abraham answers attempted democrats hegseth lincoln press reports senate suicides",
   "cooper democrat lead point poll rival senate shows",
@@ -3602,7 +3601,8 @@
   "budget designer hilfiger nearly sneakers tommy",
   "abortion anti backs carolina graham group nordone norman race senate south",
   "cries election extends fraud lead opposition president zambia",
-  "edition journal print street wall",
-  "decision expect notes primary state wyoming"
+  "decision expect notes primary state wyoming",
+  "aide attack closeness democratic house line ossoff rips trump white",
+  "american erupting etna killed lightning strike tourist"
  ]
 }
