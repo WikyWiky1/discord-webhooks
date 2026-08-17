@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40240860",
   "CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB",
   "https://www.washingtonexaminer.com/?p=4680256",
   "CBMiW0FVX3lxTFBIWlgyYnU0WDc1N0NpdVZib3ZaX19iakJKbEFSVmYyN2prSVlseWxSMzQ2MnZpS1dpQ05aS096S3VfSzZqeGpObjE1VHFzaE5oMnU3TkdDUWlTUU0",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40370089",
   "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1",
   "https://nypost.com/?post_type=article&p=40369054",
-  "CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag"
+  "CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag",
+  "https://pagesix.com/?post_type=article&p=9104059"
  ],
  "posts": [
-  {
-   "fp": "brains close grail holy inside nuclear ocean physicists power race waves wild",
-   "title": "Inside the wild race to power AI with rat brains and ocean waves \u2014 as physicists close in on nuclear holy grail",
-   "source": "New York Post",
-   "at": "2026-08-12T23:03:58.937094+00:00"
-  },
   {
    "fp": "army crashes helicopter killing people sparking texas wildfire",
    "title": "US army helicopter crashes in Texas, killing two people and sparking wildfire",
@@ -3201,10 +3195,15 @@
    "title": "EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says",
    "source": "Reuters World",
    "at": "2026-08-17T01:14:18.554446+00:00"
+  },
+  {
+   "fp": "breaking character down kill lanterns premiere shocking",
+   "title": "Did \u2018Lanterns\u2019 kill a key character? Breaking down the shocking premiere",
+   "source": "New York Post",
+   "at": "2026-08-17T02:15:51.326798+00:00"
   }
  ],
  "titles": [
-  "brains close grail holy inside nuclear ocean physicists power race waves wild",
   "army crashes helicopter killing people sparking texas wildfire",
   "accelerates congo ebola families mourn outbreak photos",
   "collapse dems establishment francesca hard hong hope infiltrate left offers radical still working",
@@ -3603,6 +3602,7 @@
   "breaks diego evacuations fast fire forcing moving",
   "about away hawaii homes hurricane lala lashes swept",
   "2028 every gavin loses newsom primary state",
-  "autumn chief foreign package plans reaching russia sanctions"
+  "autumn chief foreign package plans reaching russia sanctions",
+  "breaking character down kill lanterns premiere shocking"
  ]
 }
