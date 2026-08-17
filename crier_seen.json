@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
-  "https://nypost.com/?post_type=article&p=40261540",
   "https://thehill.com/?p=6017968",
   "https://thehill.com/?p=6018937",
   "https://nypost.com/?post_type=article&p=40262948",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/2026/aug/17/louisiana-killing-wife-passenger-seat",
   "https://www.washingtonexaminer.com/?p=4689710",
   "https://nypost.com/?post_type=article&p=40375032",
-  "CBMimwFBVV95cUxQWGc3MnBDTEtvelFnQnQzZEpnbGgyNEhua2ctX25vZE5EOGc4U1hqTm8yZWdPVFVpOGpMQnAyZVBkTERVX2RIUTFjVEdnRHhFenJ5TkU3Z21GMlhSa1U4cGU1NkFQUXlrSDFDc1RHY1NDVTNTX2NZM2ttWURYQTItZFhiQ184ZjRNWTQzbWRTbUdCWjRObmtnQVVtMA"
+  "CBMimwFBVV95cUxQWGc3MnBDTEtvelFnQnQzZEpnbGgyNEhua2ctX25vZE5EOGc4U1hqTm8yZWdPVFVpOGpMQnAyZVBkTERVX2RIUTFjVEdnRHhFenJ5TkU3Z21GMlhSa1U4cGU1NkFQUXlrSDFDc1RHY1NDVTNTX2NZM2ttWURYQTItZFhiQ184ZjRNWTQzbWRTbUdCWjRObmtnQVVtMA",
+  "https://nypost.com/?post_type=article&p=40375964",
+  "CBMirwFBVV95cUxQVm03MXRiSG1pRXZGcVlFQXQ2YThoakF0MEJLS1BCZEhIcXdRbDBsdGpyQ1R4d3RuSnRvREFtaHZIZFVwbUFGZmIzM25rM0thYWRUOEY3cTd6aUxPam9NMFNwZVA0UUNTZ24xdGFCVlQyVjQ5eU5vcjB2WmVoS1ZLd2Mxcjh2M2F1QTJMcHNCazJNOUNuV3dqTF9SZ20xSEF3RzBLQkNha0QxY0VmX2Rz"
  ],
  "posts": [
-  {
-   "fp": "budget drinks flight free longest miles tried world",
-   "title": "3,400 miles and no free drinks: I tried the world\u2019s longest budget flight",
-   "source": "Telegraph",
-   "at": "2026-08-13T15:58:54.141049+00:00"
-  },
-  {
-   "fp": "deepens demand derails hormuz recovery slump standoff supply",
-   "title": "Hormuz Standoff Derails Oil Supply Recovery and Deepens Demand Slump, IEA Says",
-   "source": "WSJ",
-   "at": "2026-08-13T16:12:05.700630+00:00"
-  },
   {
    "fp": "derails east sussex train",
    "title": "Train derails in East Sussex",
@@ -3201,11 +3189,21 @@
    "title": "Chinese Car Pioneer Steps Down as Head of Geely Automobile",
    "source": "WSJ",
    "at": "2026-08-17T16:49:59.651759+00:00"
+  },
+  {
+   "fp": "belgian blazes break decades devastating france germany greece moves recover take toward wildfire",
+   "title": "Devastating Belgian wildfire moves toward Germany as blazes break out in Greece, France: \u2018Will take decades to recover\u2019",
+   "source": "New York Post",
+   "at": "2026-08-17T17:19:56.828559+00:00"
+  },
+  {
+   "fp": "attack deal expires iran nuclear peace trump weighing",
+   "title": "Trump \u2018weighing nuclear attack on Iran\u2019 as peace deal expires",
+   "source": "Telegraph",
+   "at": "2026-08-17T17:19:58.605394+00:00"
   }
  ],
  "titles": [
-  "budget drinks flight free longest miles tried world",
-  "deepens demand derails hormuz recovery slump standoff supply",
   "derails east sussex train",
   "accused alleged coup french mali pardon plotting presidential",
   "children cops florida grandma herself kills murder suicide turning",
@@ -3603,6 +3601,8 @@
   "across allegedly arrest body drove killed louisiana states wife",
   "dead hayden heroes nashville panettiere star",
   "awaiting devastating earthquake indonesia killed least people thousands",
-  "automobile chinese down geely head pioneer steps"
+  "automobile chinese down geely head pioneer steps",
+  "belgian blazes break decades devastating france germany greece moves recover take toward wildfire",
+  "attack deal expires iran nuclear peace trump weighing"
  ]
 }
