@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40256397",
-  "CBMixAFBVV95cUxPN2JuU19wV2s5c2tya1ZQeWNnVG1ZckRpNE9fNjFBdm8xWTY2ZThJWEs5cHRoVkdVU0FRZDkxMkZKMDZEMEtWbFJVRVQ3Tlg3RVNtbGUzTVlfYWVBbldheHl2cFk2UE1ock1lRE1nRk5LSlNsWk10LTZVYlpleHFkQXljdG9rRXVWQ3IzbjlDeWlKR0x2cTFRVFZyUWJQRmx3akp6eGZyd1ZQazFkdlFVWFdqZWpuWUxvUWRpeDctYTJfdV9P",
-  "https://www.washingtonexaminer.com/?p=4680313",
-  "CBMiR0FVX3lxTE9XNkpfcFJnQjhBMTM1V1NKWWx5SDA2Q2xwMHRJOGRSS25rTGxOaTNFUmhybHdBVzJXOC15M2trTFBHWFQxNTVF",
   "https://nypost.com/?post_type=article&p=40256673",
   "https://www.theguardian.com/us-news/2026/aug/08/utah-helicopter-crash-wildfire",
   "https://nypost.com/?post_type=article&p=40256919",
@@ -799,33 +795,13 @@
   "CBMipAFBVV95cUxQYUtDRTJCNnlSX2pnMnJMaFo3SVY2TXUwVkVWSGUtSkI3Z1h2VjRibjFfOEliVlJ5eTRvYkJobmx4TS1zNTBiSm4xeWljbUJ0ZXE2N0pzalB3cm1PSFJucWlnRDBHTDhobzMtV1htcWZodGVFTzZlcjVWZGVzcWhMRnl2WkRvclJOcVM0UGw4NER2UmZXcjg3UFlMOTBUeVpDcWhkWA",
   "https://nypost.com/?post_type=article&p=40372008",
   "https://nypost.com/?post_type=article&p=40371387",
-  "CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw"
+  "CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw",
+  "CBMiZkFVX3lxTE1ibzF6X3RLZHhfOVFLSi1mcHdOUHB2cGltRjhHMExlU0h2UzhPR2Z0UFU0MFV1cnJ1RzRRd01UYWJjVF94OEh2VGlXLUNFblk0OE1BWVNEeWRkdWtBMV82cUc4Z0h1UQ",
+  "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
+  "https://www.foxnews.com/world/australia-sets-launch-sweeping-gun-buyback-bondi-beach-terror-attack-sensible-gun-reform",
+  "CBMimwFBVV95cUxQZUFvLVN2ZzIzTThlcEh1eFdHblhkYTVBZ1RSMElQMnhiREpYM01EbkVBYmZsUHJ3dWJ2aUVOWVZXRklDTlRZNW9CVDdQMHNHWDhOMUM3bndiUmNNWGdKb1RuYzY3UGF5N1o5TUFTVmJjdzlEU0RUS2tRQjNhVmZIdUlQUnd4YmY5RXdNQmFJRE9fbnktRHF6YTAtWQ"
  ],
  "posts": [
-  {
-   "fp": "earnings here refunds tariff turbocharging",
-   "title": "Tariff Refunds Are Here\u2014and Turbocharging Earnings",
-   "source": "WSJ",
-   "at": "2026-08-13T01:57:01.275436+00:00"
-  },
-  {
-   "fp": "comes order political risks trump vaccine",
-   "title": "Trump's vaccine order comes with political risks",
-   "source": "The Hill",
-   "at": "2026-08-13T01:57:04.883576+00:00"
-  },
-  {
-   "fp": "belts enjoy explosion grisham homers mariners needed offensive trent yankees",
-   "title": "Trent Grisham belts two homers as Yankees enjoy needed offensive explosion in win over Mariners",
-   "source": "New York Post",
-   "at": "2026-08-13T02:49:24.685049+00:00"
-  },
-  {
-   "fp": "clancy haunting kids killed lindsay messages nurse revealed weeks",
-   "title": "Lindsay Clancy\u2019s haunting messages to nurse revealed weeks before she killed her 3 kids",
-   "source": "New York Post",
-   "at": "2026-08-13T02:49:26.522402+00:00"
-  },
   {
    "fp": "california hollywood issue paramount powerful unions urgent warning",
    "title": "Powerful Hollywood unions issue urgent warning over California\u2019s war with Paramount",
@@ -3201,13 +3177,33 @@
    "title": "Thousands in Indonesia await aid after quake kills 54, overshadowing Independence Day",
    "source": "AP",
    "at": "2026-08-17T07:17:43.912138+00:00"
+  },
+  {
+   "fp": "bajo deadly despite earthquake flock indonesia labuan tourists",
+   "title": "Tourists flock to Indonesia's Labuan Bajo despite deadly earthquake",
+   "source": "Reuters World",
+   "at": "2026-08-17T08:03:13.387080+00:00"
+  },
+  {
+   "fp": "belgium blaze enormous europe france greece live rage tackles wildfires",
+   "title": "Wildfires rage in France and Greece as Belgium tackles enormous blaze \u2013 Europe live",
+   "source": "Guardian World",
+   "at": "2026-08-17T08:03:15.103457+00:00"
+  },
+  {
+   "fp": "attack australia beach bondi buyback launch reform sensible sets sweeping terror",
+   "title": "Australia sets launch for sweeping gun buyback after Bondi Beach terror attack: 'Sensible gun reform'",
+   "source": "Fox News World",
+   "at": "2026-08-17T08:03:16.766288+00:00"
+  },
+  {
+   "fp": "eastern fire hotel india injure kill several stampede temple",
+   "title": "A temple stampede and a hotel fire in eastern India kill 14 and injure several",
+   "source": "AP",
+   "at": "2026-08-17T08:03:18.503849+00:00"
   }
  ],
  "titles": [
-  "earnings here refunds tariff turbocharging",
-  "comes order political risks trump vaccine",
-  "belts enjoy explosion grisham homers mariners needed offensive trent yankees",
-  "clancy haunting kids killed lindsay messages nurse revealed weeks",
   "california hollywood issue paramount powerful unions urgent warning",
   "chief deadliest ebola ever outbreak track",
   "accused attack declines grand indict jury officer orleans plotting released",
@@ -3603,6 +3599,10 @@
   "beaten bruised caught election israel pawns political",
   "blames celebration dead grass hosted july mall national trump vandals where",
   "allegedly arrested body drove husband killed louisiana passenger propped seat several states through wife",
-  "await independence indonesia kills overshadowing quake thousands"
+  "await independence indonesia kills overshadowing quake thousands",
+  "bajo deadly despite earthquake flock indonesia labuan tourists",
+  "belgium blaze enormous europe france greece live rage tackles wildfires",
+  "attack australia beach bondi buyback launch reform sensible sets sweeping terror",
+  "eastern fire hotel india injure kill several stampede temple"
  ]
 }
