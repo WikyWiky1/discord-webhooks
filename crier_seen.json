@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMirwFBVV95cUxQNnp6R1Vxa1FGLVJPcFRXbWNRQmZyQkdiUXdOUUtlWUlkU2dxU0xCeTlxdUFUV3BsdmpaSkZJZVNTbkFTRTBlc21XeVhUV1NCVDlheGlsTk5yVHk3N2o2V205UFQ3d0ZSVi1xZ2JRZm42NnNDemhlX3BpQ0YzazloMDE2bGRsMjVPOEt0cjdYX3JrdkRjN29sM2w3OEtpSG5TRnBlazRUdHIwUFMyMHZv",
   "CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW",
   "CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n",
   "CBMixwFBVV95cUxOYkNMLVhYYm1zdG9veTFxQlIxY3IzNHpyOFZGMzAzWVZVWU9xU0xTUzdGMUplZmlzZTlPbEZCV3Fsb3pPa1J2MWhuU0Vhc0xoSDhsZXpLWUh6ektRLUItdUVUd2g4Q1lTSmtLZWlNd1p4ZnhhYUxlRFdCVjZlOUtQaU5qX1U4Ql9DRUtvNWZOVnRJMjNOOHJMSmFkQzNqTThMY2ZFamxQV0dqemsyRlhmaGFHZHgzLXd0b081dDZKRVRfTE9PeVhj",
@@ -799,15 +798,10 @@
   "CBMirgFBVV95cUxPY01EYlpCT1daLVhfNU5wbU91eExoWm9IN0l4akdJbVRBQlM5bTRFQmo0dUlNSEVhU05OcTNJVkIzZi1IcVgtUk1iM3luN3cwR2RCeDJqQThjTThtcTFHVjIxVURtNDBWejZnT0pDUGI5VzBJQzIzcjF0Tmw2cWNsS05PZ0RJTlFTeXE3bDM0R3lqc1FYTlF6SHh3elRJSTYxYlFlcGtaWThEWGIzY3c",
   "CBMioAFBVV95cUxPZXRXcVFWNFFnTWZfWk91SGtqejRUdzVDR3Q2enZ0VGtXNHpzNENnRHFBM0lOeE41UXhjVGR1T3VVM19ORjc2UnZNdWNmdTFUamRORWdzM29HMmFIcUJEZ1RyMzFvcVZiSVQ2ZlRNejhMSldYM0VCbkZ4ZkRJaXpKdWNDSGZySGhXZ1FLbTg1QnliMnh3ZkUzc21rYnc0QzVf",
   "https://www.theguardian.com/us-news/2026/aug/17/first-thing-trump-cuts-us-south-korea-military-drills-relationship-kim-jong-un",
-  "https://pagesix.com/?post_type=article&p=9114392"
+  "https://pagesix.com/?post_type=article&p=9114392",
+  "https://www.theguardian.com/us-news/2026/aug/17/alzheimers-research-grants-trump-administration"
  ],
  "posts": [
-  {
-   "fp": "brave brawling couple daughter dropping florida killed moments school stop tried",
-   "title": "Brave Florida dad killed moments after dropping his daughter off for first day of school as he tried to stop brawling couple",
-   "source": "New York Post",
-   "at": "2026-08-13T10:29:30.462500+00:00"
-  },
   {
    "fp": "amber effect extreme heat soar temperatures warning",
    "title": "Temperatures to soar to 38C as amber extreme heat warning in effect",
@@ -3201,10 +3195,15 @@
    "title": "Hayden Panettiere found dead by friend in South Carolina home after \u2018cardiac arrest\u2019: report",
    "source": "New York Post",
    "at": "2026-08-17T11:32:00.022215+00:00"
+  },
+  {
+   "fp": "administration alzheimer casualty latest research trump",
+   "title": "Alzheimer\u2019s research is latest casualty in Trump administration war against \u2018DEI\u2019",
+   "source": "Guardian World",
+   "at": "2026-08-17T12:28:58.695374+00:00"
   }
  ],
  "titles": [
-  "brave brawling couple daughter dropping florida killed moments school stop tried",
   "amber effect extreme heat soar temperatures warning",
   "causes death explosion police port rotterdam",
   "crash helicopter killed soldiers texas",
@@ -3603,6 +3602,7 @@
   "arcelormittal facility killed missile strike ukraine",
   "amines dead india indo leak plant",
   "citing cuts drills good jong korea military relationship south thing trump",
-  "arrest cardiac carolina dead found friend hayden home panettiere report south"
+  "arrest cardiac carolina dead found friend hayden home panettiere report south",
+  "administration alzheimer casualty latest research trump"
  ]
 }
