@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40257794",
   "CBMisgFBVV95cUxQc1NQSzJNZnFaUTN0bXBaYlZ3dDJJTGFadWM1MDRPYk5QaEkzNVhvVDBQNmhIN2FNRmRGNFpzVWs1XzBPR2FaV25LOC1zZkRZMXg5Wk1fSUtVUmpWM2RHU3BsQ05tem9XVjl4aEo0V21CZEhpTi1zWGFFejU1Z2VObEZxY3k2MWY2d3RsbFNmMHBqTlFJNlNOcnBOdVVKUG5GZ0UycFVSMGdMX0FtRFM0a2tn",
   "CBMiXkFVX3lxTE9HamRMTG5oYmhLZ2dGYVllMGs1eFNVQ2s5WGhFY2lJSUlDMmNQSmZVNXpoeWFvV2Ytd3B5Z0pLTU9pT3ZTVmVkV3V1ak10cTNPQ3BiQ1dEMnRiNWpMd3c",
   "https://nypost.com/?post_type=article&p=40258285",
@@ -799,15 +798,10 @@
   "CBMifEFVX3lxTE1jX2lvVlJXM0w2ZU9pZFNwcTRLMGRRemRaem9mUEZmWmhNUTY2X19PamdRSlVCX1BGM2RwUFE4ems1VDltQnhNdTFWM01hYld6ZmhFWEVJV0JzSW1Ca3JZZ3l5UUpFcjZLc2NMbjlWV25tQ3VRUHZOUXduRXQ",
   "CBMiwwFBVV95cUxQX1RqUHdlLUdxNkQweWdveHJybEs3OWpDaTFNRUhpWDFsSGd1V1hub0QzaTdNSlA3Sm1oX1I3NmEzNDdXRWx6UHZxUTJ0c0dmd1hUSzFfSnBraG5WVUQ5Y0RvLWlXUnY1Wi1OWnRQdFhISExZWWYyN2N0UUhJdWlMZzE3LUZXMTJrTFUtcmhIZkFmaU9YZGJONkN4NG9WSTByREhvVkpheWE1S2REbVBNcVNvNmNNQzhjVG9qcHRheG9NcnM",
   "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
-  "https://www.theguardian.com/business/2026/aug/17/massive-attack-paris-paloma-musicians-burnham-rosebank-north-sea-drilling"
+  "https://www.theguardian.com/business/2026/aug/17/massive-attack-paris-paloma-musicians-burnham-rosebank-north-sea-drilling",
+  "https://news.sky.com/story/double-murderer-simon-levy-denies-attack-on-prison-officer-13573944"
  ],
  "posts": [
-  {
-   "fp": "claim longer nobel peace prize putin tells ukraine victory winner",
-   "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-   "source": "BBC World",
-   "at": "2026-08-13T07:26:27.843055+00:00"
-  },
   {
    "fp": "been binface count denounced election faces farage nigel special stunt",
    "title": "Nigel Farage faces off against Count Binface in special election that's been denounced as a stunt",
@@ -3201,10 +3195,15 @@
    "title": "Massive Attack and Paris Paloma join musicians urging Burnham to reject new North Sea drilling",
    "source": "Guardian World",
    "at": "2026-08-17T09:59:25.012963+00:00"
+  },
+  {
+   "fp": "attack denies double levy murderer officer prison simon",
+   "title": "Double murderer Simon Levy denies attack on prison officer",
+   "source": "Sky News",
+   "at": "2026-08-17T10:36:13.272185+00:00"
   }
  ],
  "titles": [
-  "claim longer nobel peace prize putin tells ukraine victory winner",
   "been binface count denounced election faces farage nigel special stunt",
   "canadian flee forced normal premier province signal wildfire",
   "down nuclear nuclearelectrica reactor romanian shutting sole starts working",
@@ -3603,6 +3602,7 @@
   "heavy kills korea landslide media rains reports south",
   "attack drones government iraq kurdistan minister office prime regional",
   "fire pass protection rules states struggling wildfires worse",
-  "attack burnham drilling join massive musicians north paloma paris reject urging"
+  "attack burnham drilling join massive musicians north paloma paris reject urging",
+  "attack denies double levy murderer officer prison simon"
  ]
 }
