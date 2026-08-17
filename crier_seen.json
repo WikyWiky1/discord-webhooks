@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40254759",
-  "CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw",
-  "CBMipAFBVV95cUxPeWR4UU03c2Q4b0ZHWlNtcHRWSlgydk1xZjdMeXNqX0o2dF9sUXpjSzhEdk9vVE56TW1TTjhzQ2FrMzZvWkFiMGF2WGdFZms0ZmtJaXJNZzBKWDJQZ2QxYWcwdl9qZFRWa0lHNG5VdUJVM0RPa2hEWVRzd1o0R3FXSDZMUDg2andYSW5Ca3dnYU9UeE1PZ2l5eVhDSmdNMWh6bEdQZA",
   "https://nypost.com/?post_type=article&p=40256397",
   "CBMixAFBVV95cUxPN2JuU19wV2s5c2tya1ZQeWNnVG1ZckRpNE9fNjFBdm8xWTY2ZThJWEs5cHRoVkdVU0FRZDkxMkZKMDZEMEtWbFJVRVQ3Tlg3RVNtbGUzTVlfYWVBbldheHl2cFk2UE1ock1lRE1nRk5LSlNsWk10LTZVYlpleHFkQXljdG9rRXVWQ3IzbjlDeWlKR0x2cTFRVFZyUWJQRmx3akp6eGZyd1ZQazFkdlFVWFdqZWpuWUxvUWRpeDctYTJfdV9P",
   "https://www.washingtonexaminer.com/?p=4680313",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
   "https://www.bbc.co.uk/news/articles/cvgww971nn2o#0",
   "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#0",
-  "CBMipAFBVV95cUxQYUtDRTJCNnlSX2pnMnJMaFo3SVY2TXUwVkVWSGUtSkI3Z1h2VjRibjFfOEliVlJ5eTRvYkJobmx4TS1zNTBiSm4xeWljbUJ0ZXE2N0pzalB3cm1PSFJucWlnRDBHTDhobzMtV1htcWZodGVFTzZlcjVWZGVzcWhMRnl2WkRvclJOcVM0UGw4NER2UmZXcjg3UFlMOTBUeVpDcWhkWA"
+  "CBMipAFBVV95cUxQYUtDRTJCNnlSX2pnMnJMaFo3SVY2TXUwVkVWSGUtSkI3Z1h2VjRibjFfOEliVlJ5eTRvYkJobmx4TS1zNTBiSm4xeWljbUJ0ZXE2N0pzalB3cm1PSFJucWlnRDBHTDhobzMtV1htcWZodGVFTzZlcjVWZGVzcWhMRnl2WkRvclJOcVM0UGw4NER2UmZXcjg3UFlMOTBUeVpDcWhkWA",
+  "https://nypost.com/?post_type=article&p=40372008",
+  "https://nypost.com/?post_type=article&p=40371387",
+  "CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw"
  ],
  "posts": [
-  {
-   "fp": "breaking california down hilton plan steve sweeping",
-   "title": "Breaking down Steve Hilton\u2019s sweeping new plan for California",
-   "source": "New York Post",
-   "at": "2026-08-13T00:00:34.952904+00:00"
-  },
-  {
-   "fp": "area estate explosion francisco fueled sells sign wealth",
-   "title": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
-   "source": "Guardian World",
-   "at": "2026-08-13T00:00:36.664332+00:00"
-  },
-  {
-   "fp": "apache base crash dead military",
-   "title": "Two dead in Apache crash at US military base",
-   "source": "Telegraph",
-   "at": "2026-08-13T00:00:38.372965+00:00"
-  },
   {
    "fp": "earnings here refunds tariff turbocharging",
    "title": "Tariff Refunds Are Here\u2014and Turbocharging Earnings",
@@ -3201,12 +3183,27 @@
    "title": "The beaten and bruised \u2018political pawns\u2019 caught up in Israel\u2019s election",
    "source": "Telegraph",
    "at": "2026-08-17T06:54:32.017296+00:00"
+  },
+  {
+   "fp": "blames celebration dead grass hosted july mall national trump vandals where",
+   "title": "Trump blames vandals for dead grass on National Mall where he hosted 4th of July celebration",
+   "source": "New York Post",
+   "at": "2026-08-17T07:17:40.430806+00:00"
+  },
+  {
+   "fp": "allegedly arrested body drove husband killed louisiana passenger propped seat several states through wife",
+   "title": "Louisiana husband allegedly killed wife, propped her body in passenger seat and drove through several states before being arrested",
+   "source": "New York Post",
+   "at": "2026-08-17T07:17:42.163149+00:00"
+  },
+  {
+   "fp": "await independence indonesia kills overshadowing quake thousands",
+   "title": "Thousands in Indonesia await aid after quake kills 54, overshadowing Independence Day",
+   "source": "AP",
+   "at": "2026-08-17T07:17:43.912138+00:00"
   }
  ],
  "titles": [
-  "breaking california down hilton plan steve sweeping",
-  "area estate explosion francisco fueled sells sign wealth",
-  "apache base crash dead military",
   "earnings here refunds tariff turbocharging",
   "comes order political risks trump vaccine",
   "belts enjoy explosion grisham homers mariners needed offensive trent yankees",
@@ -3603,6 +3600,9 @@
   "appears australia contain hallucinations hears media report senate social supporting teen",
   "kills korea landslide lashes rain record south",
   "acting governor kill russia strikes ukrainian",
-  "beaten bruised caught election israel pawns political"
+  "beaten bruised caught election israel pawns political",
+  "blames celebration dead grass hosted july mall national trump vandals where",
+  "allegedly arrested body drove husband killed louisiana passenger propped seat several states through wife",
+  "await independence indonesia kills overshadowing quake thousands"
  ]
 }
