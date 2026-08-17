@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMirwFBVV95cUxPa053YkgxUFdweDFoVzg2VV9QRFNnRk03Z3VVUVdlSHM3S3ZxZ09oUHhvSkdRY2lyNE1GZ3dIb2U2LXdQNkEyMXFUU2pjNVdLM0tPOXdhaExPb1BOS3pET0thMDJWLVlZcmlteTZTbmFwT2ZWbDg0ZlZ5ZFdxV0oxUE1nLVdGTGFhYUhDenU1QjJoU2FmYXJZaThhRzdUT3I3RDVMYmgwQWdFZmxMOWxJ",
-  "https://www.theguardian.com/australia-news/2026/aug/10/teenagers-charged-murder-bahrs-scrub-logan-queensland-party-ntwnfb",
   "https://www.theguardian.com/world/2026/aug/10/british-national-shot-dead-in-kashmir-by-pakistani-security-forces",
   "CBMirgFBVV95cUxNU1QwcG1rS0tYLXJ3R0JXc0IzMDhhNm9XMW9SX3RiMW1abW9VZEQ4OHRGd2FzSWFsNVNCUXFUQkhUdEFTXzVJQWwwR1JUX2t0UWpnNkxmVlZmSTVSTU9PUS1qTk9mOERWclA0UzNGNVAxNm45RGdiNmd6bWZFX2lnbnVWUFR1SHB5WGZEOURwV09iYU9KdkpHTlBTeUtCR2MteWI5TWFTQmNJSnRSSUE",
   "CBMixwFBVV95cUxOWl9GTFpNOUVod1AtZnlhb3pkRmhSa2hINWFvNUNLUGltZ2ZNdXNWM09IcWRLY2I2OEtDY3BaOV9yam05UEZoN2prcmk2X0pmazltbng1T3J2M3VCZ1ZIUUp6anFkNi11MFVaWWpYM2hDOUNLcFQxMnFaX0VuR1pOS3czTTRSM3VfTnlSd2wzTFRNaGp0dDUwWUxjNVNlZHBOTGhzcWRPT2txb2lQU3VuOFJndlpHR0pqeXBrN3BaV1prNUFiTGJJ",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40377713",
   "https://thehill.com/?p=6033660",
   "https://nypost.com/?post_type=article&p=40379904",
-  "CBMikwFBVV95cUxOa3BGSUdZbXJJa2YwYTI3cWhGQ0dyZ3paTi1KcTBmUnRLM3B3MVIyVlh3blJRbmE3YklYN2FIU3ZzN1Z6VGRqcTdpU2UzRlkwNlRBT0xGVXFvUG5oSDRvVmFuQW1DZnEtUzE4S3YtRVk2VG9EaVk5WjdyaV93bFUzV1ZRb1hwV1B1eE9PNlNiYk9TNFk"
+  "CBMikwFBVV95cUxOa3BGSUdZbXJJa2YwYTI3cWhGQ0dyZ3paTi1KcTBmUnRLM3B3MVIyVlh3blJRbmE3YklYN2FIU3ZzN1Z6VGRqcTdpU2UzRlkwNlRBT0xGVXFvUG5oSDRvVmFuQW1DZnEtUzE4S3YtRVk2VG9EaVk5WjdyaV93bFUzV1ZRb1hwV1B1eE9PNlNiYk9TNFk",
+  "https://nypost.com/?post_type=article&p=40378393",
+  "https://nypost.com/?post_type=article&p=40377473"
  ],
  "posts": [
-  {
-   "fp": "atlanta delta emergency flight forced landing make odor plane reported smoky",
-   "title": "Delta flight forced to make emergency landing in Atlanta after \u2018smoky odor\u2019 reported on plane",
-   "source": "New York Post",
-   "at": "2026-08-13T18:09:10.580295+00:00"
-  },
-  {
-   "fp": "descends flee greek resort tourists village wildfire",
-   "title": "Tourists flee as Greek wildfire descends on resort village",
-   "source": "Reuters",
-   "at": "2026-08-13T18:09:12.274106+00:00"
-  },
   {
    "fp": "ammunition explosion injuries near plant reported rome strikes",
    "title": "An explosion strikes an ammunition plant near Rome; no injuries reported",
@@ -3201,11 +3189,21 @@
    "title": "Officials warned ministers that wildfire alert would backfire",
    "source": "Telegraph",
    "at": "2026-08-17T20:17:52.262330+00:00"
+  },
+  {
+   "fp": "california enrollment grips plunges school shutdown spree statewide",
+   "title": "School shutdown spree grips California as enrollment plunges statewide",
+   "source": "New York Post",
+   "at": "2026-08-17T20:47:27.421453+00:00"
+  },
+  {
+   "fp": "california crash fiery girl injured kills leaves others",
+   "title": "Fiery California crash kills girl, 8, leaves 5 others injured",
+   "source": "New York Post",
+   "at": "2026-08-17T20:47:29.293830+00:00"
   }
  ],
  "titles": [
-  "atlanta delta emergency flight forced landing make odor plane reported smoky",
-  "descends flee greek resort tourists village wildfire",
   "ammunition explosion injuries near plant reported rome strikes",
   "break majority make november senate states",
   "another enough global iran months stocks weather",
@@ -3603,6 +3601,8 @@
   "analysis california cities exposed risks spot takes wildfire",
   "coming home hostage missionary released trump",
   "alleged dealer diego evacuations fire poker smoking sparked unmasked",
-  "alert backfire ministers officials warned wildfire"
+  "alert backfire ministers officials warned wildfire",
+  "california enrollment grips plunges school shutdown spree statewide",
+  "california crash fiery girl injured kills leaves others"
  ]
 }
