@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB",
-  "https://www.washingtonexaminer.com/?p=4680256",
   "CBMiW0FVX3lxTFBIWlgyYnU0WDc1N0NpdVZib3ZaX19iakJKbEFSVmYyN2prSVlseWxSMzQ2MnZpS1dpQ05aS096S3VfSzZqeGpObjE1VHFzaE5oMnU3TkdDUWlTUU0",
   "https://nypost.com/?post_type=article&p=40252830",
   "CBMisgFBVV95cUxQRWFHcGZLTElaS2tjME10OWxDWE9aM3ZHeXpMVzJIUVhLeVMzY0Y1LWxZODh1SmRrdDJvRHVHR09TOEV3STlXNVc1YnRtbFdSYWdpR0E5alVOMDB5QWdBdmw1U3VzZkVQYU5oalA4cU9NNk5CZ0EtZ3dlRDV4R0xkRWNGR1MzTDVVVTd3UWpTcW50QkdjZkFhY0hVbGRmZWtVSmZycjAzcTBHRmdMYTYyT2pB",
@@ -799,21 +797,11 @@
   "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1",
   "https://nypost.com/?post_type=article&p=40369054",
   "CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag",
-  "https://pagesix.com/?post_type=article&p=9104059"
+  "https://pagesix.com/?post_type=article&p=9104059",
+  "https://nypost.com/?post_type=article&p=40371115",
+  "CBMivgFBVV95cUxOSW93eXhxZXduMkYwWlFmNnFhOWt3d05mc1BuRWR4WjZOci1lME5GZXFRVzNjcGR4eUdPQVdYcVMxS3Y0YVVnTTdETVhFSXpuNzY2VVRSamJZZXo3NDJWN05UTmZkRzhWNnNCdWZWSlp3YXZmaGs1TzFOdXpkTEV1RFlCOUxZUF9DT2dMbkIxT1lwelhWTVVrWnp6eEVNaklRb0tyWVpYaXUyazk0X2M5Ml81djdoN0lGWkhDSlJ3"
  ],
  "posts": [
-  {
-   "fp": "army crashes helicopter killing people sparking texas wildfire",
-   "title": "US army helicopter crashes in Texas, killing two people and sparking wildfire",
-   "source": "Guardian World",
-   "at": "2026-08-12T23:04:00.697645+00:00"
-  },
-  {
-   "fp": "accelerates congo ebola families mourn outbreak photos",
-   "title": "Congo families mourn as Ebola outbreak accelerates, in photos",
-   "source": "AP",
-   "at": "2026-08-12T23:04:02.425325+00:00"
-  },
   {
    "fp": "collapse dems establishment francesca hard hong hope infiltrate left offers radical still working",
    "title": "Francesca Hong\u2019s collapse offers hope for establishment Dems \u2014 but the radical left is still working hard to infiltrate",
@@ -3201,11 +3189,21 @@
    "title": "Did \u2018Lanterns\u2019 kill a key character? Breaking down the shocking premiere",
    "source": "New York Post",
    "at": "2026-08-17T02:15:51.326798+00:00"
+  },
+  {
+   "fp": "actress dead hayden panettiere report",
+   "title": "Actress Hayden Panettiere dead at 36: report",
+   "source": "New York Post",
+   "at": "2026-08-17T03:14:27.737200+00:00"
+  },
+  {
+   "fp": "dead incident india like stampede temple",
+   "title": "Six dead in 'stampede-like' incident at India temple, ANI says",
+   "source": "Reuters World",
+   "at": "2026-08-17T03:14:29.442030+00:00"
   }
  ],
  "titles": [
-  "army crashes helicopter killing people sparking texas wildfire",
-  "accelerates congo ebola families mourn outbreak photos",
   "collapse dems establishment francesca hard hong hope infiltrate left offers radical still working",
   "custody georgia high police school shooting student suspect wounded young",
   "argument drink employee haul kills police tennessee worker",
@@ -3603,6 +3601,8 @@
   "about away hawaii homes hurricane lala lashes swept",
   "2028 every gavin loses newsom primary state",
   "autumn chief foreign package plans reaching russia sanctions",
-  "breaking character down kill lanterns premiere shocking"
+  "breaking character down kill lanterns premiere shocking",
+  "actress dead hayden panettiere report",
+  "dead incident india like stampede temple"
  ]
 }
