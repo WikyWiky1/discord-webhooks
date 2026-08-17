@@ -735,9 +735,9 @@
    "message_id": "1538613606395150458",
    "event": "Extreme Heat Warning",
    "area": "Bourbon; Crawford; Cherokee; Benton; Morgan; Miller; Maries; Vernon; St. Clair; Hickory; Camden; Pulaski; Phelps; Barton; Cedar; Polk; Dallas; Laclede; Texas; Dent; Jasper; Dade; Greene; Webster; Wright; Newton; Lawrence; Christian; Douglas; Howell; Shannon; McDonald; Barry; Stone; Taney; Ozark; Oregon",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-16T18:21:10+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-17T01:09:20+00:00"
   }
  ]
 }
