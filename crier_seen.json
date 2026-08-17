@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/aug/10/british-national-shot-dead-in-kashmir-by-pakistani-security-forces",
-  "CBMirgFBVV95cUxNU1QwcG1rS0tYLXJ3R0JXc0IzMDhhNm9XMW9SX3RiMW1abW9VZEQ4OHRGd2FzSWFsNVNCUXFUQkhUdEFTXzVJQWwwR1JUX2t0UWpnNkxmVlZmSTVSTU9PUS1qTk9mOERWclA0UzNGNVAxNm45RGdiNmd6bWZFX2lnbnVWUFR1SHB5WGZEOURwV09iYU9KdkpHTlBTeUtCR2MteWI5TWFTQmNJSnRSSUE",
-  "CBMixwFBVV95cUxOWl9GTFpNOUVod1AtZnlhb3pkRmhSa2hINWFvNUNLUGltZ2ZNdXNWM09IcWRLY2I2OEtDY3BaOV9yam05UEZoN2prcmk2X0pmazltbng1T3J2M3VCZ1ZIUUp6anFkNi11MFVaWWpYM2hDOUNLcFQxMnFaX0VuR1pOS3czTTRSM3VfTnlSd2wzTFRNaGp0dDUwWUxjNVNlZHBOTGhzcWRPT2txb2lQU3VuOFJndlpHR0pqeXBrN3BaV1prNUFiTGJJ",
   "https://nypost.com/?post_type=article&p=40265985",
   "https://nypost.com/?post_type=article&p=40265643",
   "CBMiiwFBVV95cUxNeWplZUljbnc5UmNrV3ZlYmNVRW50SVFncXdIVG5MLWlYckhhbVVMVEpjOHFWTlNva0tlM19oX2tLNGpkVWQ2V001Rm1UeHg4R09GOGUtb1hVTTY1NW5ndUJpazdhNzZLa0lmQnNjYk9EbnRuTmFROHBGYmpmNmt2NlhaLUV0eXkxNmRz",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40379904",
   "CBMikwFBVV95cUxOa3BGSUdZbXJJa2YwYTI3cWhGQ0dyZ3paTi1KcTBmUnRLM3B3MVIyVlh3blJRbmE3YklYN2FIU3ZzN1Z6VGRqcTdpU2UzRlkwNlRBT0xGVXFvUG5oSDRvVmFuQW1DZnEtUzE4S3YtRVk2VG9EaVk5WjdyaV93bFUzV1ZRb1hwV1B1eE9PNlNiYk9TNFk",
   "https://nypost.com/?post_type=article&p=40378393",
-  "https://nypost.com/?post_type=article&p=40377473"
+  "https://nypost.com/?post_type=article&p=40377473",
+  "CBMiyAFBVV95cUxQblNYRFVuUkNLVkR1TllUNHJTX215TERYSnZ0ckZaQzM1Q2VrMEQxc0ktT0otM2FfeGtUT0hhWXhEV1diRVh2aF8zak4tSDhDd2xxaWtCZXdSNHJ4cVV5M0tNQWNneV9KZWloekxob2pfOG4yMTZzWGlVZHZiRVZmeDd3X1NaM2hhQ0RXc3BwY0ozakMtUjlBX3VQTWNtbzBYYkVqaXBMSEc1OUdvNzBHekZwazk0RGR5eFNlUDVaR1BnOWVHUFdBNw",
+  "https://nypost.com/?post_type=article&p=40378720",
+  "https://nypost.com/?post_type=article&p=40378055"
  ],
  "posts": [
-  {
-   "fp": "ammunition explosion injuries near plant reported rome strikes",
-   "title": "An explosion strikes an ammunition plant near Rome; no injuries reported",
-   "source": "AP",
-   "at": "2026-08-13T18:09:14.076374+00:00"
-  },
-  {
-   "fp": "break majority make november senate states",
-   "title": "These states will make or break a Senate majority in November",
-   "source": "Washington Examiner",
-   "at": "2026-08-13T19:01:57.274766+00:00"
-  },
-  {
-   "fp": "another enough global iran months stocks weather",
-   "title": "Are global oil stocks big enough to weather another six months of US-Iran war?",
-   "source": "Reuters",
-   "at": "2026-08-13T19:01:59.131801+00:00"
-  },
   {
    "fp": "american automakers billions cost deal detroit exclusive fear north revamp trade",
    "title": "EXCLUSIVE: Detroit automakers fear North American trade deal revamp could cost them billions",
@@ -3201,12 +3183,27 @@
    "title": "Fiery California crash kills girl, 8, leaves 5 others injured",
    "source": "New York Post",
    "at": "2026-08-17T20:47:29.293830+00:00"
+  },
+  {
+   "fp": "children family illness killed massachusetts mental mother struggled",
+   "title": "Family says Massachusetts mother who killed children struggled with mental illness",
+   "source": "Reuters",
+   "at": "2026-08-17T21:18:43.627084+00:00"
+  },
+  {
+   "fp": "attack blasts downplaying rampage synagogue times witness york",
+   "title": "NYC synagogue attack witness blasts New York Times as downplaying rampage",
+   "source": "New York Post",
+   "at": "2026-08-17T21:18:45.327037+00:00"
+  },
+  {
+   "fp": "diego hotspot kicking outrage seal shutdown sparked teen tourism video",
+   "title": "San Diego tourism hotspot could be shutdown after teen kicking seal video sparked outrage",
+   "source": "New York Post",
+   "at": "2026-08-17T21:18:46.975018+00:00"
   }
  ],
  "titles": [
-  "ammunition explosion injuries near plant reported rome strikes",
-  "break majority make november senate states",
-  "another enough global iran months stocks weather",
   "american automakers billions cost deal detroit exclusive fear north revamp trade",
   "claims healthy level remain rise unemployment",
   "demands mission national park pool reflecting saga service tested trump",
@@ -3603,6 +3600,9 @@
   "alleged dealer diego evacuations fire poker smoking sparked unmasked",
   "alert backfire ministers officials warned wildfire",
   "california enrollment grips plunges school shutdown spree statewide",
-  "california crash fiery girl injured kills leaves others"
+  "california crash fiery girl injured kills leaves others",
+  "children family illness killed massachusetts mental mother struggled",
+  "attack blasts downplaying rampage synagogue times witness york",
+  "diego hotspot kicking outrage seal shutdown sparked teen tourism video"
  ]
 }
