@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40259506",
-  "CBMirgFBVV95cUxOb2hvX1JZYmNKUXQ2RWVObVJJN3VWdFpLWXM1cUs0TkZNUHB6Wlc5eTFGcm83cjB1d2VVSmpFOTZxR3lCZTBvZnBaTGRJc0VOQ1NjVGpYUVRlazlsRkk1ZFZXMjlCWjhIeUdHT3kxdHpYQXdNTE05X2VyczFTR2lXa1BVRmtuOXJMUVVVTlpRVURkQTVQM1k2c3dhNUFVc2NBNVFqN3BnZndnVXptakE",
-  "https://thehill.com/?p=6019094",
   "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
   "https://nypost.com/?post_type=article&p=40261540",
   "https://thehill.com/?p=6017968",
@@ -799,27 +796,12 @@
   "https://www.washingtonexaminer.com/?p=4689539",
   "CBMirAFBVV95cUxPempEdk1tOWtabFYwTXVaOW5Tdm01cDRJNTZ0MUpvZC0tT1ZWTTJNSEVNSDQydGVjak13eXh2cHZIcnVpUmx6Nm01ZjRsS285TFE1MXJ2RlZ1aWh1ZnN4TlYzSThoZzJJUURSWmdNMS04VkFQVlpDVUxqU3Q5TnRpTHFpeWdObmNqSlAwTWhaRExlbWptSnlBWmhlWmdGeUdzWlM3NE96Tk8talpL",
   "https://pagesix.com/?post_type=article&p=9114866",
-  "https://www.theguardian.com/us-news/2026/aug/17/louisiana-killing-wife-passenger-seat"
+  "https://www.theguardian.com/us-news/2026/aug/17/louisiana-killing-wife-passenger-seat",
+  "https://www.washingtonexaminer.com/?p=4689710",
+  "https://nypost.com/?post_type=article&p=40375032",
+  "CBMimwFBVV95cUxQWGc3MnBDTEtvelFnQnQzZEpnbGgyNEhua2ctX25vZE5EOGc4U1hqTm8yZWdPVFVpOGpMQnAyZVBkTERVX2RIUTFjVEdnRHhFenJ5TkU3Z21GMlhSa1U4cGU1NkFQUXlrSDFDc1RHY1NDVTNTX2NZM2ttWURYQTItZFhiQ184ZjRNWTQzbWRTbUdCWjRObmtnQVVtMA"
  ],
  "posts": [
-  {
-   "fp": "cooper democrat lead point poll rival senate shows",
-   "title": "Poll shows Democrat Cooper with 11-point lead over GOP Senate rival",
-   "source": "The Hill",
-   "at": "2026-08-13T15:58:48.719076+00:00"
-  },
-  {
-   "fp": "budget closed criticized defense democrats door hegseth locking talks",
-   "title": "Hegseth criticized for locking Democrats out of closed-door defense budget talks",
-   "source": "Guardian World",
-   "at": "2026-08-13T15:58:50.544852+00:00"
-  },
-  {
-   "fp": "ackman including investments mastercard netflix overhaul portfolio unveils visa",
-   "title": "Ackman unveils six new investments including Netflix, Visa, Mastercard in portfolio overhaul",
-   "source": "Reuters",
-   "at": "2026-08-13T15:58:52.362316+00:00"
-  },
   {
    "fp": "budget drinks flight free longest miles tried world",
    "title": "3,400 miles and no free drinks: I tried the world\u2019s longest budget flight",
@@ -3201,12 +3183,27 @@
    "title": "Louisiana man allegedly killed his wife and drove her body across states before arrest",
    "source": "Guardian World",
    "at": "2026-08-17T16:18:44.286103+00:00"
+  },
+  {
+   "fp": "dead hayden heroes nashville panettiere star",
+   "title": "Hayden Panettiere, Heroes and Nashville star, dead at 36",
+   "source": "Washington Examiner",
+   "at": "2026-08-17T16:49:56.053774+00:00"
+  },
+  {
+   "fp": "awaiting devastating earthquake indonesia killed least people thousands",
+   "title": "Thousands in Indonesia awaiting aid after devastating earthquake killed at least 68 people",
+   "source": "New York Post",
+   "at": "2026-08-17T16:49:57.884553+00:00"
+  },
+  {
+   "fp": "automobile chinese down geely head pioneer steps",
+   "title": "Chinese Car Pioneer Steps Down as Head of Geely Automobile",
+   "source": "WSJ",
+   "at": "2026-08-17T16:49:59.651759+00:00"
   }
  ],
  "titles": [
-  "cooper democrat lead point poll rival senate shows",
-  "budget closed criticized defense democrats door hegseth locking talks",
-  "ackman including investments mastercard netflix overhaul portfolio unveils visa",
   "budget drinks flight free longest miles tried world",
   "deepens demand derails hormuz recovery slump standoff supply",
   "derails east sussex train",
@@ -3603,6 +3600,9 @@
   "aide attack closeness democratic house line ossoff rips trump white",
   "american erupting etna killed lightning strike tourist",
   "actress apartment complex dead found hayden luxury moments neighbor panettiere recalls shocking",
-  "across allegedly arrest body drove killed louisiana states wife"
+  "across allegedly arrest body drove killed louisiana states wife",
+  "dead hayden heroes nashville panettiere star",
+  "awaiting devastating earthquake indonesia killed least people thousands",
+  "automobile chinese down geely head pioneer steps"
  ]
 }
