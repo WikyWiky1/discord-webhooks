@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40256673",
-  "https://www.theguardian.com/us-news/2026/aug/08/utah-helicopter-crash-wildfire",
-  "https://nypost.com/?post_type=article&p=40256919",
   "https://nypost.com/?post_type=article&p=40257483",
   "CBMiswFBVV95cUxOS0Q5N0tzekVmWnI5R18zRGhBUWxITXNyNkg4eU45Vkc4UlVZS29LR1NsYmY2MXJPcFRXbUdrNTZGV0RVZmh1SFlBWHc2YUN1T2NIWl9KZnl2bS13WExvZC1oblMzbGRqczN1MjhGYUZoNVd1YTRWYk90SmZ4VGxTM1ZNdlAwSUxtOUdEXzJrTklmWXQ2RGlhUUxWLW1lbkNtNExJTDE3RnVtOF9IdHhzZEJtQQ",
   "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say",
@@ -799,27 +796,12 @@
   "CBMiZkFVX3lxTE1ibzF6X3RLZHhfOVFLSi1mcHdOUHB2cGltRjhHMExlU0h2UzhPR2Z0UFU0MFV1cnJ1RzRRd01UYWJjVF94OEh2VGlXLUNFblk0OE1BWVNEeWRkdWtBMV82cUc4Z0h1UQ",
   "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
   "https://www.foxnews.com/world/australia-sets-launch-sweeping-gun-buyback-bondi-beach-terror-attack-sensible-gun-reform",
-  "CBMimwFBVV95cUxQZUFvLVN2ZzIzTThlcEh1eFdHblhkYTVBZ1RSMElQMnhiREpYM01EbkVBYmZsUHJ3dWJ2aUVOWVZXRklDTlRZNW9CVDdQMHNHWDhOMUM3bndiUmNNWGdKb1RuYzY3UGF5N1o5TUFTVmJjdzlEU0RUS2tRQjNhVmZIdUlQUnd4YmY5RXdNQmFJRE9fbnktRHF6YTAtWQ"
+  "CBMimwFBVV95cUxQZUFvLVN2ZzIzTThlcEh1eFdHblhkYTVBZ1RSMElQMnhiREpYM01EbkVBYmZsUHJ3dWJ2aUVOWVZXRklDTlRZNW9CVDdQMHNHWDhOMUM3bndiUmNNWGdKb1RuYzY3UGF5N1o5TUFTVmJjdzlEU0RUS2tRQjNhVmZIdUlQUnd4YmY5RXdNQmFJRE9fbnktRHF6YTAtWQ",
+  "CBMiZ0FVX3lxTE9URFBFamVCLTFrNzFQLTltVVo2ZnZ3TTdBZDBpbU1LXzNSbTF5RHBxSXlwWEVLMnEzcHlOX1NRdEtnVnBGVjJ1Q1VUUnVvSXNYVWpGRVJPcEVTdG9RSUFWS28ycGxOdFE",
+  "CBMiowFBVV95cUxPWUVTb1JsTmxxRTUxSENvaXg4bzNUVy1UT1ZPaTJuUko0UUV4TEZWX3NVZldOcWp4ODlHOVhoTzlUMlh5UW13bE5XR3FxVWRxZnp0ckg1ZUtYT1pWSlpLQlBpT0M2ak1nUXdLOXpnc3preWc4U3QtZjhjZy1XSW1jVDZWOTNIU2gwVk9nS1E3eFN6RGRacXhsTkZLZEViYlFKUi1j",
+  "https://www.bbc.co.uk/news/articles/crl7686r71yo#1"
  ],
  "posts": [
-  {
-   "fp": "california hollywood issue paramount powerful unions urgent warning",
-   "title": "Powerful Hollywood unions issue urgent warning over California\u2019s war with Paramount",
-   "source": "New York Post",
-   "at": "2026-08-13T02:49:28.310803+00:00"
-  },
-  {
-   "fp": "chief deadliest ebola ever outbreak track",
-   "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-   "source": "BBC World",
-   "at": "2026-08-13T02:49:30.056711+00:00"
-  },
-  {
-   "fp": "accused attack declines grand indict jury officer orleans plotting released",
-   "title": "Ex-officer accused of plotting New Orleans attack is released after grand jury declines to indict",
-   "source": "AP",
-   "at": "2026-08-13T02:49:31.852777+00:00"
-  },
   {
    "fp": "accused charges mass officer orleans plot released shooting without",
    "title": "Ex-officer accused in New Orleans mass shooting plot released without charges",
@@ -3201,12 +3183,27 @@
    "title": "A temple stampede and a hotel fire in eastern India kill 14 and injure several",
    "source": "AP",
    "at": "2026-08-17T08:03:18.503849+00:00"
+  },
+  {
+   "fp": "colombia earthquake faith grief mourns victims",
+   "title": "Faith and grief mix as Colombia mourns earthquake victims",
+   "source": "Reuters World",
+   "at": "2026-08-17T09:02:42.932486+00:00"
+  },
+  {
+   "fp": "ceasefire expire futures higher iran mostly",
+   "title": "U.S. Futures Mostly Higher as Iran Ceasefire Set to Expire",
+   "source": "WSJ",
+   "at": "2026-08-17T09:02:44.669772+00:00"
+  },
+  {
+   "fp": "deadly earthquake fears indonesia reels shortages starvation",
+   "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+   "source": "BBC World",
+   "at": "2026-08-17T09:02:46.469719+00:00"
   }
  ],
  "titles": [
-  "california hollywood issue paramount powerful unions urgent warning",
-  "chief deadliest ebola ever outbreak track",
-  "accused attack declines grand indict jury officer orleans plotting released",
   "accused charges mass officer orleans plot released shooting without",
   "brothers discovery fatally home island long make shot tragic",
   "added august four global index indian msci rejig removed stocks three",
@@ -3603,6 +3600,9 @@
   "bajo deadly despite earthquake flock indonesia labuan tourists",
   "belgium blaze enormous europe france greece live rage tackles wildfires",
   "attack australia beach bondi buyback launch reform sensible sets sweeping terror",
-  "eastern fire hotel india injure kill several stampede temple"
+  "eastern fire hotel india injure kill several stampede temple",
+  "colombia earthquake faith grief mourns victims",
+  "ceasefire expire futures higher iran mostly",
+  "deadly earthquake fears indonesia reels shortages starvation"
  ]
 }
