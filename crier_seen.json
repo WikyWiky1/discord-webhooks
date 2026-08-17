@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40264931",
-  "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
-  "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
   "CBMiZ0FVX3lxTE1FUmQwR0pyYk8tZjVhTjBKN2M0YkFfRDlVNjI4ZGVjcGtNNzVMTk5Sa0pjakNtaGNJSUt0N3AzaGVxX0xIWXZ6SFNKa28wSlJ0UF9Xc3dZN0hsSkpXUF9wSmNFSnJQdjQ",
   "CBMiywFBVV95cUxOWG9raTBHTG1vQW4zcmlxaGctSVFqLS05NjNxUGo5SjJHaE0zVUhGdlJfdnhYNzlYWnRqRmFMekpPOHFGdWVBRXZaUWxZRDNuRDBVYktYc1NlYmd4T1l5cUxKaWFKT3lVRGFFV1NSZjZtdHF3Wk5jbzRCNDR4bFRLRlpYUnEyZ1JIU1NyYW5sTkxpYnc2TjRYZW15X2ZLX2N3djFMOVRqcktWN1I4Y1oxUExwNHJPRGplSlhNaUM5cWZ5dzdNTV9JUkV0bw",
   "CBMirwFBVV95cUxPa053YkgxUFdweDFoVzg2VV9QRFNnRk03Z3VVUVdlSHM3S3ZxZ09oUHhvSkdRY2lyNE1GZ3dIb2U2LXdQNkEyMXFUU2pjNVdLM0tPOXdhaExPb1BOS3pET0thMDJWLVlZcmlteTZTbmFwT2ZWbDg0ZlZ5ZFdxV0oxUE1nLVdGTGFhYUhDenU1QjJoU2FmYXJZaThhRzdUT3I3RDVMYmgwQWdFZmxMOWxJ",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6033325",
   "CBMidkFVX3lxTE4xZGFhVWhqckVFSHRKTW5fbjU2R1FTSlpGenlJNWJpX2tFV2x3ZWVtWmZPOEZLc2g4Zk1hQjZQblplQnJ2M212bFJkWXl1N1B5ay1BQ1dteHdpdWxuWGFnS3p6VWxIcXVSbHVIbGhjTWR2dkxXSWc",
   "CBMivgFBVV95cUxQSXFOQklWSmxLTG1DQkQxZC1oc2ZVRHhrLWR3U3dzY0lrenQweEV0QTJVeTR2T19FLXhhcDExSFNrcS1tUXNFZXZuSnZld3NYRXBqM0NMZDBSaHd0b2pxdG5pQ1llaVdlc1BkelJneDhuOWVQZTR0VF8xam5ZV0tKQ3dULU9rU3JtVnA2eWtTZUZlSUtYVlhvVzl0VHVkNmprbW9qdlRuWktlbE5Ha0NXTXVHNldxeFNJcXRBTkxn",
-  "https://nypost.com/?post_type=article&p=40378071"
+  "https://nypost.com/?post_type=article&p=40378071",
+  "https://nypost.com/?post_type=article&p=40379952",
+  "https://nypost.com/?post_type=article&p=40377713",
+  "https://thehill.com/?p=6033660"
  ],
  "posts": [
-  {
-   "fp": "calls casualties civilian hegseth jack reckoning reed strikes yemen",
-   "title": "Jack Reed calls for Hegseth \u2018reckoning\u2019 over civilian casualties in Yemen strikes",
-   "source": "Washington Examiner",
-   "at": "2026-08-13T17:15:07.882812+00:00"
-  },
-  {
-   "fp": "explosion factory italian large munitions rips through",
-   "title": "Large explosion rips through Italian munitions factory",
-   "source": "Reuters",
-   "at": "2026-08-13T17:15:09.726704+00:00"
-  },
-  {
-   "fp": "causes danube drop heat huge level nuclear only plant river romania shuts",
-   "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-   "source": "BBC World",
-   "at": "2026-08-13T17:15:11.461454+00:00"
-  },
   {
    "fp": "alcott chemmy collapsed dive flip former front goes lung olympic skier suffers wrong",
    "title": "Former Olympic skier Chemmy Alcott suffers collapsed lung after front flip dive goes wrong",
@@ -3201,12 +3183,27 @@
    "title": "Texas man allegedly murdered estranged wife before calling his mom in a panic: \u2018She\u2019s dead\u2019",
    "source": "New York Post",
    "at": "2026-08-17T19:10:11.581766+00:00"
+  },
+  {
+   "fp": "breastfeeding california contamination deadly fears granola moms recalled sold",
+   "title": "Granola for breastfeeding moms sold in California recalled over deadly contamination fears",
+   "source": "New York Post",
+   "at": "2026-08-17T19:43:47.357221+00:00"
+  },
+  {
+   "fp": "analysis california cities exposed risks spot takes wildfire",
+   "title": "California cities most exposed to wildfire risks in new analysis \u2014 LA takes the top spot",
+   "source": "New York Post",
+   "at": "2026-08-17T19:43:49.177309+00:00"
+  },
+  {
+   "fp": "coming home hostage missionary released trump",
+   "title": "Trump: Released missionary hostage coming home to US",
+   "source": "The Hill",
+   "at": "2026-08-17T19:43:50.973598+00:00"
   }
  ],
  "titles": [
-  "calls casualties civilian hegseth jack reckoning reed strikes yemen",
-  "explosion factory italian large munitions rips through",
-  "causes danube drop heat huge level nuclear only plant river romania shuts",
   "alcott chemmy collapsed dive flip former front goes lung olympic skier suffers wrong",
   "alligator attack boyfriend brittany clark final girlfriend gives heartwarming update victim wish",
   "atlanta delta emergency flight forced landing make odor plane reported smoky",
@@ -3603,6 +3600,9 @@
   "already approved ballroom blanche congress house project white",
   "about charged know murder shakur shooting trial tupac",
   "aids belgium biggest blazes europe fight rain through wildfire",
-  "allegedly calling dead estranged murdered panic texas wife"
+  "allegedly calling dead estranged murdered panic texas wife",
+  "breastfeeding california contamination deadly fears granola moms recalled sold",
+  "analysis california cities exposed risks spot takes wildfire",
+  "coming home hostage missionary released trump"
  ]
 }
