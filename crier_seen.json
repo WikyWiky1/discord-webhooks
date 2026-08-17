@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40254415",
-  "https://nypost.com/?post_type=article&p=40254072",
   "https://www.washingtonexaminer.com/?p=4680277",
   "https://nypost.com/?post_type=article&p=40242070",
   "https://nypost.com/?post_type=article&p=40240860",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
   "https://nypost.com/?post_type=article&p=40368523",
   "CBMiZ0FVX3lxTE44LTM4c2FvemlqVWlMbkJxTzE4aWZTcXlLSnBGLWtqME5ydGh6clBaSUtiUzlCY1VDTzRkYkVMUktOY0hNd3RQZnQtUjRmU2o0eUduakg1LVViZGZneDZNYkR5XzdnLVU",
-  "https://news.sky.com/story/ebola-outbreak-in-dr-congo-now-deadliest-in-countrys-history-13573874"
+  "https://news.sky.com/story/ebola-outbreak-in-dr-congo-now-deadliest-in-countrys-history-13573874",
+  "https://nypost.com/?post_type=article&p=40370089",
+  "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1"
  ],
  "posts": [
-  {
-   "fp": "billion deficit grow july negative outlays receipts stay tariff tops",
-   "title": "US July deficit tops $432 billion as outlays grow, tariff receipts stay negative",
-   "source": "Reuters",
-   "at": "2026-08-12T21:44:23.406920+00:00"
-  },
-  {
-   "fp": "allegation faces indicted lying nick parents reiner slayings wait",
-   "title": "Nick Reiner indicted in parents\u2019 slayings, faces new \u2018lying in wait\u2019 allegation",
-   "source": "The Hill",
-   "at": "2026-08-12T22:04:44.605956+00:00"
-  },
   {
    "fp": "child dying killed minnesota police suicide wife",
    "title": "Minnesota man killed his wife and child before dying by suicide, police say",
@@ -3201,11 +3189,21 @@
    "title": "Ebola outbreak in DR Congo now deadliest in country's history",
    "source": "Sky News",
    "at": "2026-08-16T22:38:35.365749+00:00"
+  },
+  {
+   "fp": "breaks diego evacuations fast fire forcing moving",
+   "title": "Fast-moving fire breaks out in San Diego, forcing evacuations",
+   "source": "New York Post",
+   "at": "2026-08-17T00:51:15.819081+00:00"
+  },
+  {
+   "fp": "about away hawaii homes hurricane lala lashes swept",
+   "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+   "source": "BBC World",
+   "at": "2026-08-17T00:51:17.529528+00:00"
   }
  ],
  "titles": [
-  "billion deficit grow july negative outlays receipts stay tariff tops",
-  "allegation faces indicted lying nick parents reiner slayings wait",
   "child dying killed minnesota police suicide wife",
   "crash dead evacuations helicopter military sparked texas wildfire",
   "brains close grail holy inside nuclear ocean physicists power race waves wild",
@@ -3603,6 +3601,8 @@
   "crash five four injured ireland killed other people teenagers",
   "actor battle blaze burns dawn dead devastated down firefighters home moment",
   "engulfs greek island killed least salamina wildfire",
-  "congo country deadliest ebola history outbreak"
+  "congo country deadliest ebola history outbreak",
+  "breaks diego evacuations fast fire forcing moving",
+  "about away hawaii homes hurricane lala lashes swept"
  ]
 }
