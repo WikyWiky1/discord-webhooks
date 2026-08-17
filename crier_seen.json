@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMimAFBVV95cUxObEJ3UVU2VTBEaDBBQ3JxOGZiVGc4SjhUaG9BUkdNUjlXcmJiNWtoNVFPc1ZEUkxIZENjMzVvVkg5UFMyTnF2eEI4MW1ESV9YenR4V2RieVAwMEFZbS1jdmtkZHBUM0lYeGdpZkx2VUd0MGFaTjVsZG10TU12dXpLVndJazZxNEx4WWhUNHhqckFBaUpSWFpyUA",
-  "CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw",
-  "CBMiwAFBVV95cUxOcnozSHhXbFZBdy04TDRTVjVRYzJIUVZiVlpSTUJjbkVfYTB6UXdYNUt1ZkgzbGt3UG1WdjVNSUJwNWpCZVBtV1lVeWxWNXAyYzNkb0Y3VWxCTjZLUWkwejBBNDRzY2o1TExEanRBNDNDc1hVa1M0aG94V1V4T3JlVDZGSXhsUkR6MmZsTGppc0VMMUs2SVRrM0dCaEVPX2U5N3A4TGVuZmxLQjNoSUd0WTBUSDhzTFN2bjA1X2U2UXg",
   "https://nypost.com/?post_type=article&p=40264931",
   "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
   "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40376445",
   "https://thehill.com/?p=6030750",
   "CBMinAFBVV95cUxOTUR0RjdfMVp0QlRfby1EcmdQSzZvZ2hzT0xJZVdKUjF2QlRhS2p1WGU0dC1xalpqSVp0dV9HYURDTF9yNnVHLTRwZktnZlZXVjNsaWRwTGpIYWdkYUNjV2FaREZmbEpJeUcwZU4zaUVhQm4zQ3VrcDNrWjFxdHQwRXk4SzZwUU9yLWFpMUhrSlJTTFZvNUxOREc4OXY",
-  "https://thehill.com/?p=6033325"
+  "https://thehill.com/?p=6033325",
+  "CBMidkFVX3lxTE4xZGFhVWhqckVFSHRKTW5fbjU2R1FTSlpGenlJNWJpX2tFV2x3ZWVtWmZPOEZLc2g4Zk1hQjZQblplQnJ2M212bFJkWXl1N1B5ay1BQ1dteHdpdWxuWGFnS3p6VWxIcXVSbHVIbGhjTWR2dkxXSWc",
+  "CBMivgFBVV95cUxQSXFOQklWSmxLTG1DQkQxZC1oc2ZVRHhrLWR3U3dzY0lrenQweEV0QTJVeTR2T19FLXhhcDExSFNrcS1tUXNFZXZuSnZld3NYRXBqM0NMZDBSaHd0b2pxdG5pQ1llaVdlc1BkelJneDhuOWVQZTR0VF8xam5ZV0tKQ3dULU9rU3JtVnA2eWtTZUZlSUtYVlhvVzl0VHVkNmprbW9qdlRuWktlbE5Ha0NXTXVHNldxeFNJcXRBTkxn",
+  "https://nypost.com/?post_type=article&p=40378071"
  ],
  "posts": [
-  {
-   "fp": "derails disruption east lewes major near rail services sussex train",
-   "title": "Major disruption to rail services in East Sussex as train derails near Lewes",
-   "source": "Guardian World",
-   "at": "2026-08-13T17:15:02.848682+00:00"
-  },
-  {
-   "fp": "dead emergency football high medical practice school star texas",
-   "title": "Texas high school football star dead at 17 after medical emergency at practice",
-   "source": "New York Post",
-   "at": "2026-08-13T17:15:04.493927+00:00"
-  },
-  {
-   "fp": "dark dead found graphic horrors house missing philly real show videos women",
-   "title": "\u2018Graphic\u2019 videos found at Philly house of horrors show 2 missing women dead: \u2018It\u2019s dark. It\u2019s real dark\u2019",
-   "source": "New York Post",
-   "at": "2026-08-13T17:15:06.181946+00:00"
-  },
   {
    "fp": "calls casualties civilian hegseth jack reckoning reed strikes yemen",
    "title": "Jack Reed calls for Hegseth \u2018reckoning\u2019 over civilian casualties in Yemen strikes",
@@ -3201,12 +3183,27 @@
    "title": "Blanche: Congress has already approved White House ballroom project",
    "source": "The Hill",
    "at": "2026-08-17T18:38:23.919417+00:00"
+  },
+  {
+   "fp": "about charged know murder shakur shooting trial tupac",
+   "title": "Tupac Shakur\u2019s Murder Trial: What to Know About the Man Charged in the Shooting",
+   "source": "WSJ",
+   "at": "2026-08-17T19:10:08.072423+00:00"
+  },
+  {
+   "fp": "aids belgium biggest blazes europe fight rain through wildfire",
+   "title": "Rain aids fight against Belgium's biggest wildfire, as blazes rip through Europe",
+   "source": "Reuters",
+   "at": "2026-08-17T19:10:09.790661+00:00"
+  },
+  {
+   "fp": "allegedly calling dead estranged murdered panic texas wife",
+   "title": "Texas man allegedly murdered estranged wife before calling his mom in a panic: \u2018She\u2019s dead\u2019",
+   "source": "New York Post",
+   "at": "2026-08-17T19:10:11.581766+00:00"
   }
  ],
  "titles": [
-  "derails disruption east lewes major near rail services sussex train",
-  "dead emergency football high medical practice school star texas",
-  "dark dead found graphic horrors house missing philly real show videos women",
   "calls casualties civilian hegseth jack reckoning reed strikes yemen",
   "explosion factory italian large munitions rips through",
   "causes danube drop heat huge level nuclear only plant river romania shuts",
@@ -3603,6 +3600,9 @@
   "andrew beloved buffett damaged hurricane jimmy miami might reopen stadium venue",
   "drugmakers order split trump uninterested vaccine",
   "consumer falls ftse sixth stocks weigh",
-  "already approved ballroom blanche congress house project white"
+  "already approved ballroom blanche congress house project white",
+  "about charged know murder shakur shooting trial tupac",
+  "aids belgium biggest blazes europe fight rain through wildfire",
+  "allegedly calling dead estranged murdered panic texas wife"
  ]
 }
