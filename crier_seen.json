@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40265985",
-  "https://nypost.com/?post_type=article&p=40265643",
-  "CBMiiwFBVV95cUxNeWplZUljbnc5UmNrV3ZlYmNVRW50SVFncXdIVG5MLWlYckhhbVVMVEpjOHFWTlNva0tlM19oX2tLNGpkVWQ2V001Rm1UeHg4R09GOGUtb1hVTTY1NW5ndUJpazdhNzZLa0lmQnNjYk9EbnRuTmFROHBGYmpmNmt2NlhaLUV0eXkxNmRz",
   "CBMipwFBVV95cUxNN3BPcUNqNXFzNXgza1JEODlIbVRlRE9VM1d0Y1gyeEl5c1FaTl9qTW1oR3NVczNnRGc4U1M4OVIwQW9BR1lDc2FjSkEweUlUQXZVQUJhWVBEajdBMy1EZHM4eUFUSjVMT1cxaklmclk5YnVjcUJNcVdjOWNEQXVfMTlMeTdIYmxIVUlLZkw1NHd5cEtfc1NtUmVLei1SdGxuOGQzSno0RQ",
   "CBMiwgFBVV95cUxOWWEzU2g0WHZKaTFWSUtaNmZ2cHY1dWlHM1MwYmxLQzZuODlIQnZXUnduMTZXZl9GcnhWbGJGaDBBZWhaUVRjdWhkZWJ2bFNWLXZJRlU1RkFuVGdBRkZBdGJLR1JoY19QT3ZnUFJ0U0FJUmh4enlCZjVfdVRELTBmVEMwSm4xVkVsZlFZWnlNVXZiNzFHalpVZnJFZVhTMUx6UXktTjh0MzRhb3YzXzFZU3U4a1hRNGp6NlBsanZoN1hjdw",
   "https://nypost.com/?post_type=article&p=40266254",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40377473",
   "CBMiyAFBVV95cUxQblNYRFVuUkNLVkR1TllUNHJTX215TERYSnZ0ckZaQzM1Q2VrMEQxc0ktT0otM2FfeGtUT0hhWXhEV1diRVh2aF8zak4tSDhDd2xxaWtCZXdSNHJ4cVV5M0tNQWNneV9KZWloekxob2pfOG4yMTZzWGlVZHZiRVZmeDd3X1NaM2hhQ0RXc3BwY0ozakMtUjlBX3VQTWNtbzBYYkVqaXBMSEc1OUdvNzBHekZwazk0RGR5eFNlUDVaR1BnOWVHUFdBNw",
   "https://nypost.com/?post_type=article&p=40378720",
-  "https://nypost.com/?post_type=article&p=40378055"
+  "https://nypost.com/?post_type=article&p=40378055",
+  "https://thehill.com/?p=6033790",
+  "https://www.theguardian.com/us-news/2026/aug/17/election-denier-tina-peters-shasta-county",
+  "https://thehill.com/?p=6034048"
  ],
  "posts": [
-  {
-   "fp": "american automakers billions cost deal detroit exclusive fear north revamp trade",
-   "title": "EXCLUSIVE: Detroit automakers fear North American trade deal revamp could cost them billions",
-   "source": "Reuters",
-   "at": "2026-08-13T19:02:00.967107+00:00"
-  },
-  {
-   "fp": "claims healthy level remain rise unemployment",
-   "title": "US unemployment claims rise but remain at healthy level",
-   "source": "AP",
-   "at": "2026-08-13T19:02:02.918187+00:00"
-  },
-  {
-   "fp": "demands mission national park pool reflecting saga service tested trump",
-   "title": "In the Reflecting Pool saga, the National Park Service's mission is tested by Trump's demands",
-   "source": "AP",
-   "at": "2026-08-13T19:02:04.668813+00:00"
-  },
   {
    "fp": "here house incumbents lost primaries senate",
    "title": "Here are 12 Senate, House incumbents who\u2019ve lost their primaries",
@@ -3201,12 +3183,27 @@
    "title": "San Diego tourism hotspot could be shutdown after teen kicking seal video sparked outrage",
    "source": "New York Post",
    "at": "2026-08-17T21:18:46.975018+00:00"
+  },
+  {
+   "fp": "below coverage ideal kindergarten outbreaks prevent rate still vaccine",
+   "title": "Kindergarten MMR vaccine coverage still below ideal rate to prevent outbreaks: CDC",
+   "source": "The Hill",
+   "at": "2026-08-17T21:25:33.904777+00:00"
+  },
+  {
+   "fp": "california conservative consultant county denier election elections hired peters tina",
+   "title": "Election denier Tina Peters to be hired as elections consultant in conservative California county",
+   "source": "Guardian World",
+   "at": "2026-08-17T21:25:35.657163+00:00"
+  },
+  {
+   "fp": "combat congress doctrine donroe panamerican progressives trump",
+   "title": "Progressives to combat Trump\u2019s \u2018Donroe Doctrine\u2019 at PanAmerican Congress",
+   "source": "The Hill",
+   "at": "2026-08-17T21:25:37.382624+00:00"
   }
  ],
  "titles": [
-  "american automakers billions cost deal detroit exclusive fear north revamp trade",
-  "claims healthy level remain rise unemployment",
-  "demands mission national park pool reflecting saga service tested trump",
   "here house incumbents lost primaries senate",
   "adverse consequences death health highest level recall risk serious upgraded",
   "about carried clinton football force hell nuclear reveals scares story trump",
@@ -3603,6 +3600,9 @@
   "california crash fiery girl injured kills leaves others",
   "children family illness killed massachusetts mental mother struggled",
   "attack blasts downplaying rampage synagogue times witness york",
-  "diego hotspot kicking outrage seal shutdown sparked teen tourism video"
+  "diego hotspot kicking outrage seal shutdown sparked teen tourism video",
+  "below coverage ideal kindergarten outbreaks prevent rate still vaccine",
+  "california conservative consultant county denier election elections hired peters tina",
+  "combat congress doctrine donroe panamerican progressives trump"
  ]
 }
