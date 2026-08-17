@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMisgFBVV95cUxQRWFHcGZLTElaS2tjME10OWxDWE9aM3ZHeXpMVzJIUVhLeVMzY0Y1LWxZODh1SmRrdDJvRHVHR09TOEV3STlXNVc1YnRtbFdSYWdpR0E5alVOMDB5QWdBdmw1U3VzZkVQYU5oalA4cU9NNk5CZ0EtZ3dlRDV4R0xkRWNGR1MzTDVVVTd3UWpTcW50QkdjZkFhY0hVbGRmZWtVSmZycjAzcTBHRmdMYTYyT2pB",
   "https://nypost.com/?post_type=article&p=40254511",
   "https://nypost.com/?post_type=article&p=40254759",
   "CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40371115",
   "CBMivgFBVV95cUxOSW93eXhxZXduMkYwWlFmNnFhOWt3d05mc1BuRWR4WjZOci1lME5GZXFRVzNjcGR4eUdPQVdYcVMxS3Y0YVVnTTdETVhFSXpuNzY2VVRSamJZZXo3NDJWN05UTmZkRzhWNnNCdWZWSlp3YXZmaGs1TzFOdXpkTEV1RFlCOUxZUF9DT2dMbkIxT1lwelhWTVVrWnp6eEVNaklRb0tyWVpYaXUyazk0X2M5Ml81djdoN0lGWkhDSlJ3",
   "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
-  "https://www.bbc.co.uk/news/articles/cvgww971nn2o#0"
+  "https://www.bbc.co.uk/news/articles/cvgww971nn2o#0",
+  "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#0"
  ],
  "posts": [
-  {
-   "fp": "argument drink employee haul kills police tennessee worker",
-   "title": "Tennessee U-Haul employee kills co-worker during argument over a drink: police",
-   "source": "New York Post",
-   "at": "2026-08-13T00:00:31.423952+00:00"
-  },
   {
    "fp": "apache attack central crashes dead helicopter texas",
    "title": "Two dead after Apache attack helicopter crashes in central Texas",
@@ -3201,10 +3195,15 @@
    "title": "Landslide in South Korea kills one as record rain lashes south",
    "source": "BBC World",
    "at": "2026-08-17T04:59:49.533046+00:00"
+  },
+  {
+   "fp": "acting governor kill russia strikes ukrainian",
+   "title": "Ukrainian strikes kill six in Russia, acting governor says",
+   "source": "BBC World",
+   "at": "2026-08-17T05:38:50.818378+00:00"
   }
  ],
  "titles": [
-  "argument drink employee haul kills police tennessee worker",
   "apache attack central crashes dead helicopter texas",
   "breaking california down hilton plan steve sweeping",
   "area estate explosion francisco fueled sells sign wealth",
@@ -3603,6 +3602,7 @@
   "actress dead hayden panettiere report",
   "dead incident india like stampede temple",
   "appears australia contain hallucinations hears media report senate social supporting teen",
-  "kills korea landslide lashes rain record south"
+  "kills korea landslide lashes rain record south",
+  "acting governor kill russia strikes ukrainian"
  ]
 }
