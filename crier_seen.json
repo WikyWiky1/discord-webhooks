@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40268557",
-  "https://nypost.com/?post_type=article&p=40269198",
   "https://nypost.com/?post_type=article&p=40267263",
   "CBMiiwFBVV95cUxNR3FodWVEWUU3b21vVXBLRkZpdEp5QTNpWmJvWGJ4djNhZ1lEdExXeXdhWExBUG1Ud2JtVkJvNzAxclMzMktaakpkaGNsMDRNOFJZMV9nRG5KWmRpY3lVXzJVQ0ZYc0NPLTJmelZ6c0ZMUFhfRTNLMmRNcDU4VEJKUUgxWUFWZkd0ZTlR",
   "CBMiuwFBVV95cUxQaUhMZEhSUHlDeTNnSy1ULU9POGxpNFhwbG1UQml2MExiQUowVVJTMm9lYzZLR1NRRnBXUnZha1o2X05pVjRzMGxRSDFtazRNYzBrQ20zb3FUM3I1N1ByUmdrWUdpLUw3OHkwVmlSQzMxYnFQdzJDcEhKSlhjbWFCWGxzUkZ4aXhaUEtXLUxsZ05HODJya0VUTHFoNkQtOU9hbkZfN2FDdzRwaU5ybUVLMUVpbE9kSWo5REo0",
@@ -799,21 +797,11 @@
   "CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE",
   "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo#0",
   "CBMimAFBVV95cUxOeFJfUXd5RlpGU3pTb2Z1S3IycWtPZ2ZpNl83bDYyeVdfU3ZTQ2ZlenVwQk9vQWpibmw1YUJFak9yWnAtZjhCRnd4NE13NDgtVktOOWU3NmUxNzF5Y09xZDVmZzA5ZVNXWTJKUC1xNDVXRGQ2R3UzVkh1SDBCcnYwY2x1UFVNNjFtUmlzYWVxS1ItZ2o0TUpPUQ",
-  "CBMimAFBVV95cUxOQTljaDVkWTQ1SEl5NHQ3aml4RFNQWGtqQU1aeXl0U0RveTBadTlOaUZERVZYc3R3bDFaU2NDaGxaQ2VqUlVXNEZZRTNBREFfazNzLXdQZDcxMTJoa25rcE55QmNLU2pOa0hPbzdBbU1jNHpkUlpWQVZrd0RaaTd0eUE2RzYwaWNTNVdqNXlXNk40S2VDNjdQTg"
+  "CBMimAFBVV95cUxOQTljaDVkWTQ1SEl5NHQ3aml4RFNQWGtqQU1aeXl0U0RveTBadTlOaUZERVZYc3R3bDFaU2NDaGxaQ2VqUlVXNEZZRTNBREFfazNzLXdQZDcxMTJoa25rcE55QmNLU2pOa0hPbzdBbU1jNHpkUlpWQVZrd0RaaTd0eUE2RzYwaWNTNVdqNXlXNk40S2VDNjdQTg",
+  "https://nypost.com/?post_type=article&p=40388700",
+  "CBMinAFBVV95cUxPbjNWb04xVkIyOFFfWDJ5Q2ttMGpjbFJpb1ByRklwWTJoM3ByWmRaMm5EUFk2YVBnWnQwSmFfNXRsSWlzRUx1U2UxcEVDYWR6bTFLRmNnSDVYTUxsSmR3Q1NLZHVfc05JbGNvMHUzNzdUeUZ5NXVIRU9YYU9Wc0V0a09sa29ZbEw3clFhQUZPQUl4bWJIM0loSjV3ZEs"
  ],
  "posts": [
-  {
-   "fp": "bluetongue deadly farm hits potentially scotland third",
-   "title": "Potentially deadly bluetongue hits third farm in Scotland",
-   "source": "Sky News",
-   "at": "2026-08-14T13:13:46.941365+00:00"
-  },
-  {
-   "fp": "derails essex hours less second train",
-   "title": "Second train derails in less than 24 hours in Essex",
-   "source": "Telegraph",
-   "at": "2026-08-14T14:26:38.913749+00:00"
-  },
   {
    "fp": "antisemetic crash husband jewish killed past raises signs suspect warning woman",
    "title": "Husband of Jewish NYC woman killed in crash raises warning signs of suspect\u2019s antisemetic past",
@@ -3201,11 +3189,21 @@
    "title": "Zambia President Hakainde Hichilema is declared the winner of a troubled election",
    "source": "AP",
    "at": "2026-08-18T15:31:18.846359+00:00"
+  },
+  {
+   "fp": "album crashes deadly drake finds kendrick lamar linked releases study swift taylor",
+   "title": "Taylor Swift, Drake and Kendrick Lamar album releases linked to more deadly car crashes, study finds",
+   "source": "New York Post",
+   "at": "2026-08-18T16:00:41.332296+00:00"
+  },
+  {
+   "fp": "base casualties israeli northwest reported strikes syria",
+   "title": "Israeli strikes hit an air base in northwest Syria, but no casualties are reported",
+   "source": "AP",
+   "at": "2026-08-18T16:00:43.087917+00:00"
   }
  ],
  "titles": [
-  "bluetongue deadly farm hits potentially scotland third",
-  "derails essex hours less second train",
   "antisemetic crash husband jewish killed past raises signs suspect warning woman",
   "declares emergency encampment eyesores homeless malibu streets",
   "award boardroom coup current exec globes golden hfpa ousted owner ruthless show sued week",
@@ -3603,6 +3601,8 @@
   "chatgpt guardrails openai risks safety stronger tackle teens unveils",
   "amazon brazil discovery hails lula near president river",
   "banned driving paul range rover scholes speeding",
-  "declared election hakainde hichilema president troubled winner zambia"
+  "declared election hakainde hichilema president troubled winner zambia",
+  "album crashes deadly drake finds kendrick lamar linked releases study swift taylor",
+  "base casualties israeli northwest reported strikes syria"
  ]
 }
