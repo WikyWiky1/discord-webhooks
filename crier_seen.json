@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/business/2026/aug/10/great-britain-emergency-power-cuts-grid-neso-blackouts",
-  "https://www.bbc.co.uk/news/articles/cqx7lje8l79o#0",
-  "https://www.theguardian.com/australia-news/2026/aug/10/new-head-australian-trade-union-movement-melissa-donnelly-sally-mcmanus-steps-down",
-  "https://www.bbc.co.uk/news/articles/cvgx1kpz17go#1",
   "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
   "CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk",
   "https://www.washingtonexaminer.com/?p=4679545",
@@ -799,33 +795,13 @@
   "https://thehill.com/?p=6034201",
   "https://thehill.com/?p=6034188",
   "https://www.bbc.co.uk/news/articles/cp3r0kz775ko#0",
-  "https://nypost.com/?post_type=article&p=40385670"
+  "https://nypost.com/?post_type=article&p=40385670",
+  "CBMizwFBVV95cUxObG5kajhPXzU2TjVKb09obHlMNDEwRTRyVUhjTVNIRlRHMDc3OVg1VXZsM3hLMGZEQm9hWDhvQXVHMWJ1ZDBZNmlhanVoanhLYXNsb1hJOHpwV05yS2MySTlseFpOR0xVVF8zeFF3Y3p5TlJmZ2xqbHZhY2pweFlDNU4xWDhMNDNHaFhtNV9DY2RDaGlsOXc2MzhwZTJORVY5R0VqSHNTTmZQVXVxdEF1ZDdXZTB1SDVGSXNRMy1HbjZpelN2RnZHaDRzUnBtZ0E",
+  "CBMipgFBVV95cUxOQk85aFc5OVpMc3pHdWFaS2xjYzQyUmJhRVdQd2ZVc1dIZGY2Szd3b0V0bEdUOG02RnZ4VDV1cnllejNQM203bmkxcG5sS3BYSHlMVXg3ZGNNUldOWVgyOHBHTDlQOFJlS2VGWmlLQmJib0VXM2czT3BQTDAwc05JQnZ1RjFEdG5ORWE2TXBhYVc5MXNOSUs0YU52UUF1eDBaS1Zhc0JB",
+  "https://www.theguardian.com/us-news/2026/aug/17/white-house-personal-attack-cnn-reporter-trump",
+  "CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA"
  ],
  "posts": [
-  {
-   "fp": "alien appeals court enemies lawsuit moot rules",
-   "title": "Appeals court rules key Alien Enemies Act lawsuit moot",
-   "source": "The Hill",
-   "at": "2026-08-13T21:44:16.577154+00:00"
-  },
-  {
-   "fp": "cassidy director order right schwartz thing vaccine",
-   "title": "Cassidy: New CDC Director Schwartz 'will do the right thing' on vaccine order",
-   "source": "The Hill",
-   "at": "2026-08-13T21:44:18.313836+00:00"
-  },
-  {
-   "fp": "bets drop hike prices rate reduce rise stocks traders",
-   "title": "Stocks rise as traders reduce rate hike bets, oil prices drop",
-   "source": "Reuters",
-   "at": "2026-08-13T21:44:19.950279+00:00"
-  },
-  {
-   "fp": "challenge dead duckworth star tyler",
-   "title": "\u2018The Challenge\u2019 star Tyler Duckworth dead at 44",
-   "source": "New York Post",
-   "at": "2026-08-13T22:04:51.750243+00:00"
-  },
   {
    "fp": "around call colombia earthquake narrows rescuers rubble silence survival window",
    "title": "Rescuers call for silence around earthquake rubble as window for survival narrows in Colombia",
@@ -3201,13 +3177,33 @@
    "title": "Ravens Super Bowl winner O.J. Brigance dead at 56 after ALS battle",
    "source": "New York Post",
    "at": "2026-08-18T02:11:26.077990+00:00"
+  },
+  {
+   "fp": "high killed officials philippines school shooting southern",
+   "title": "Two killed in high school shooting in southern Philippines, officials say",
+   "source": "Reuters",
+   "at": "2026-08-18T03:10:15.424018+00:00"
+  },
+  {
+   "fp": "colombian damaged earthquake help makes rebuild schools shakira surprise visit",
+   "title": "Shakira makes surprise visit to earthquake-damaged Colombian schools and says she will help rebuild",
+   "source": "AP",
+   "at": "2026-08-18T03:10:17.696620+00:00"
+  },
+  {
+   "fp": "attack house launches personal question reporter trump white",
+   "title": "White House launches personal attack on CNN reporter over question to Trump",
+   "source": "Guardian World",
+   "at": "2026-08-18T03:10:19.466378+00:00"
+  },
+  {
+   "fp": "bond ceasefire climb expires iran prices rise yields",
+   "title": "Oil prices climb, bond yields rise as US-Iran ceasefire expires",
+   "source": "Reuters",
+   "at": "2026-08-18T03:10:21.230132+00:00"
   }
  ],
  "titles": [
-  "alien appeals court enemies lawsuit moot rules",
-  "cassidy director order right schwartz thing vaccine",
-  "bets drop hike prices rate reduce rise stocks traders",
-  "challenge dead duckworth star tyler",
   "around call colombia earthquake narrows rescuers rubble silence survival window",
   "avoid border czar deadly defends electric force gloves house shock tools white",
   "benches clear head hitter kill near pitches reds somebody thrown white",
@@ -3603,6 +3599,10 @@
   "election florida mail primary report trump voted",
   "exemptions high kindergarten time vaccine",
   "broke hell loose murder night rapper shooting trial tupac witness",
-  "battle bowl brigance dead ravens super winner"
+  "battle bowl brigance dead ravens super winner",
+  "high killed officials philippines school shooting southern",
+  "colombian damaged earthquake help makes rebuild schools shakira surprise visit",
+  "attack house launches personal question reporter trump white",
+  "bond ceasefire climb expires iran prices rise yields"
  ]
 }
