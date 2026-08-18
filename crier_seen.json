@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40270591",
-  "https://nypost.com/?post_type=article&p=40270595",
   "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
   "https://www.bbc.co.uk/news/articles/cx2lwv032j9o#0",
   "https://nypost.com/?post_type=article&p=40269673",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
   "https://www.washingtonexaminer.com/?p=4690604",
   "https://www.theguardian.com/australia-news/2026/aug/18/controversial-ndis-bill-undergoes-substantial-amendments-as-labor-and-coalition-strike-deal",
-  "https://thehill.com/?p=6033539"
+  "https://thehill.com/?p=6033539",
+  "CBMiogFBVV95cUxNNUZ3Zk00T1BxUUpTRWhoc3BKS2RJVDhwSHNhX3FjOEJlUEY3M1RlUXd3aEE1NkM0ODdmeXFFeVc2MXliMEJSSm4wblhNVEpDUDhRenN3c2JfekFtWllIUWF4WDAtNEpYSnRoYTRNazFUSWNMUHBkM1pJRFdHbWpZQ0Z6aU9hWEhENUhmREdxem43ODFBeWpMZ3EyRDZHWWJhaVE",
+  "CBMiugFBVV95cUxNSXRwVXVsUFg3UG1sQ2Q2VTNuanNPcENxQ0poV3RKOWV1d3NFMXVRUW4ybERhTWJINU9ydDZNLVp1SWloT0Job0Q3X2NKN1YzS1RRWnBGeGNYX0pHMjcwT29nSFpPbHhqRGFFOEl0VW54aGdQVlhmS1NnLU0wMUZZSnplbVRuZ0ROQmtOMkZha0ZVREM2ODQzTWh1eUdDU050MDVuU1VtSEFhVjE0d0ZaSGdoOERZd2xoUUE"
  ],
  "posts": [
-  {
-   "fp": "brave colombia daughter died earthquake killed save trying",
-   "title": "Brave NJ mom died trying to save daughter in Colombia earthquake that\u2019s killed 281",
-   "source": "New York Post",
-   "at": "2026-08-14T11:59:06.661888+00:00"
-  },
-  {
-   "fp": "benjamin describes islamic netanyahu nuclear republic weapon",
-   "title": "Benjamin Netanyahu describes UK as \u2018first Islamic republic to get a nuclear weapon\u2019",
-   "source": "Guardian World",
-   "at": "2026-08-14T11:59:09.619041+00:00"
-  },
   {
    "fp": "battle continent countries european grips heat multiple record wildfires",
    "title": "European countries battle multiple wildfires as record heat grips the continent",
@@ -3201,11 +3189,21 @@
    "title": "Trump put to the test with Mills in Florida primary fight",
    "source": "The Hill",
    "at": "2026-08-18T12:44:00.936832+00:00"
+  },
+  {
+   "fp": "killed prison release romanian second victim",
+   "title": "Romanian killed second victim after release from prison",
+   "source": "Telegraph",
+   "at": "2026-08-18T13:26:24.139106+00:00"
+  },
+  {
+   "fp": "attack kills missile northeast response russian ukraine vows zelenskiy",
+   "title": "Russian missile attack kills 10 in northeast Ukraine, Zelenskiy vows response",
+   "source": "Reuters",
+   "at": "2026-08-18T13:26:25.968016+00:00"
   }
  ],
  "titles": [
-  "brave colombia daughter died earthquake killed save trying",
-  "benjamin describes islamic netanyahu nuclear republic weapon",
   "battle continent countries european grips heat multiple record wildfires",
   "crashes front grandfather great jeep killed national park rock roof through wife",
   "across hospital midlands nineteen rage west wildfires",
@@ -3603,6 +3601,8 @@
   "alaska awaits florida live politics primary redistricting scrambles sullivan",
   "election socialism trump",
   "amendments bill coalition controversial deal labor ndis passes senate strike substantial",
-  "fight florida mills primary test trump"
+  "fight florida mills primary test trump",
+  "killed prison release romanian second victim",
+  "attack kills missile northeast response russian ukraine vows zelenskiy"
  ]
 }
