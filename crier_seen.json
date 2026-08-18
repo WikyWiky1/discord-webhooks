@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE",
-  "https://news.sky.com/story/woman-23-found-dead-in-islington-as-six-people-arrested-on-suspicion-of-murder-13571653",
   "https://www.washingtonexaminer.com/?p=4679255",
   "https://www.washingtonexaminer.com/?p=4679523",
   "https://thehill.com/?p=6019810",
@@ -799,15 +797,11 @@
   "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
   "CBMicEFVX3lxTE0xVHhQcGwtYjZ1dUhUdlp2Z09RejRMa2N5ZEkyY0FzNkhTREp4cGlLZDhPWnZaRFhRVk5ZVGZPYWhxMzYteWZHQXhNOUVtTF9qQ216MXJ5NFB4djF1RzJ4VElzYl8yV1BGTEdOb2x0Qzc",
   "CBMirAFBVV95cUxOTTFETUJQZkVvNDNDajRVdEhmQktncnJKN0Rqa2o3U3ZZSDhzSTRKVV84YkwtOEx3Q0pDRHQ0cHEtYmhOcDQwTkVTOXdHWkpIVWZxenE5cDZOaFFxOXdwczcyU0JXR1A0cmhfWGx5cms4NU10bUV4a2l2ckZ0dmVMdVRyMjIzX3puVjlxRnJNZTZJWnJpb1h2R1ZUaTlhRW9OMWg4WVlOZTNVNnVl",
-  "CBMiqwFBVV95cUxQVlVZQTF6elRfTlRLdnpXYTdPVGVJclZ3eFRXY01jV21qTG8yd0x6OUduQldJVHlTNUFwRkRQTzlPYjNPQXJuVWRhYmU5NWVidWpsZ2txTWRJVkxfOFZsSXBzSk5fQkVwQXBzdVBHSl85U24zMVhzSVRNWjhpZFM2cjJIeGdoNnVHclVjTkd1bkxxY05kdXg4RFBQdmdHd1ZxRVQzNHNHdXFvUnc"
+  "CBMiqwFBVV95cUxQVlVZQTF6elRfTlRLdnpXYTdPVGVJclZ3eFRXY01jV21qTG8yd0x6OUduQldJVHlTNUFwRkRQTzlPYjNPQXJuVWRhYmU5NWVidWpsZ2txTWRJVkxfOFZsSXBzSk5fQkVwQXBzdVBHSl85U24zMVhzSVRNWjhpZFM2cjJIeGdoNnVHclVjTkd1bkxxY05kdXg4RFBQdmdHd1ZxRVQzNHNHdXFvUnc",
+  "CBMihAFBVV95cUxQekxhTi1CYmxld3ZjZEZPcFVXNXlSeFdsSVgwWFBOVl9td1N5b3dmQndGck5TMTFOdm0xcm14TnBJREdYUk9TQkp2QU9wUDdnNVRnWXRPTUo2aFZ4NFRvd0RtNFY2STZNcUhwMm5QVTJqb3N4akY2SlRCUkVYNG9MTFNrSkg",
+  "CBMiugFBVV95cUxOZGNURlpmQVN3RWlucjBBbS1xdlZ5bzBubGk0ZXY3aURNcG9KM0VzbkQyN1ludXNYaHNENW1OOVNIbnU5VmV3SVh3WnA2SnRJVzFkSEZXb3RVbmZtVnE2dlJhUHlwTXFuNklxUXI2dEZJM0FDWHI4OUhyb1dBMVVzdEh5NmVjbmlVSkZ1RWRxeFFER1FZMnZyd0RwbjlPSzhCMHVsWWpuU2FFZzY2QUJXTlFic045U1h0ckE"
  ],
  "posts": [
-  {
-   "fp": "audit ballroom call democrats house project senate white",
-   "title": "Senate Democrats call for GAO audit of White House ballroom project",
-   "source": "The Hill",
-   "at": "2026-08-14T01:55:00.537352+00:00"
-  },
   {
    "fp": "assassination citizen foiled plot poland russian warsaw",
    "title": "Poland says it foiled Russian assassination plot against US citizen in Warsaw",
@@ -3185,12 +3179,6 @@
    "at": "2026-08-18T06:41:33.740369+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-08-18T06:41:35.499471+00:00"
-  },
-  {
    "fp": "adopted congress florida governor grip holds primaries state testing trump",
    "title": "Florida holds primaries for governor and Congress, testing Trump\u2019s grip on adopted state",
    "source": "AP",
@@ -3201,10 +3189,21 @@
    "title": "2 Dan Sullivans face off in Alaska's US Senate primary, which also features a former congresswoman",
    "source": "AP",
    "at": "2026-08-18T06:41:38.986933+00:00"
+  },
+  {
+   "fp": "call emergency hayden overdose panettiere suffered suggests suspected",
+   "title": "Hayden Panettiere suffered \u2018suspected overdose\u2019, emergency call suggests",
+   "source": "Telegraph",
+   "at": "2026-08-18T07:22:46.977175+00:00"
+  },
+  {
+   "fp": "children deadly displaced earthquake eastern fear grips indonesia leaves thousands",
+   "title": "Fear grips children after deadly earthquake in eastern Indonesia leaves thousands displaced",
+   "source": "AP",
+   "at": "2026-08-18T07:22:48.764240+00:00"
   }
  ],
  "titles": [
-  "audit ballroom call democrats house project senate white",
   "assassination citizen foiled plot poland russian warsaw",
   "build emergency infrastructure looming make should water",
   "breaking contention continue down mets reasons watching",
@@ -3601,8 +3600,9 @@
   "casualty crew hormuz projectile reported strait struck ukmto unknown vessel",
   "alps collapse destabilizes looming permafrost rock swiss thawing threatens village",
   "australia bill butler coalition confident deal live ndis pass politics senate tonight",
-  "edition journal print street wall",
   "adopted congress florida governor grip holds primaries state testing trump",
-  "alaska also congresswoman face features former primary senate sullivans"
+  "alaska also congresswoman face features former primary senate sullivans",
+  "call emergency hayden overdose panettiere suffered suggests suspected",
+  "children deadly displaced earthquake eastern fear grips indonesia leaves thousands"
  ]
 }
