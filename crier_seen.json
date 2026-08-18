@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiuwFBVV95cUxQaUhMZEhSUHlDeTNnSy1ULU9POGxpNFhwbG1UQml2MExiQUowVVJTMm9lYzZLR1NRRnBXUnZha1o2X05pVjRzMGxRSDFtazRNYzBrQ20zb3FUM3I1N1ByUmdrWUdpLUw3OHkwVmlSQzMxYnFQdzJDcEhKSlhjbWFCWGxzUkZ4aXhaUEtXLUxsZ05HODJya0VUTHFoNkQtOU9hbkZfN2FDdzRwaU5ybUVLMUVpbE9kSWo5REo0",
-  "CBMiogFBVV95cUxObDNMNHA1MDJhWmlpcENXc3dNdUJWSGw0Q19BU0l5WUtoeWJiU1ZJREt0bFdCV3JKN3FuUEt3bUxIV0ZwY0JGQTZqNGdnT0E2dkNwOVZ1X3M0UXowbmJUMDVOYXphZXJaaV9UcXd3MU1lYWZjZzR5WS05T204ci1mWjlHMFJmOWQyVjRPektlX2FobUpPekNCR0VXT1FuTHk5bUE",
   "https://nypost.com/?post_type=article&p=40273194",
   "CBMitgFBVV95cUxPSkFmbVVoX2c3Q2N5RElCSTdSUzR5OERxUDJjaUNmTFhORUl3WXFhcWotWDVNZnVCcTFiV2x0THdEbXhHNWVxMVNIQnlJdFllTzRFcFJ1ZDFGOG9LbDhxTWhYRURxbHhFOTdFdGpHcnNBRjhNdFVsRWNKVTZZM0MxcDR2UV9YeXNrbWp3enp4SzJMaGJUQ0hld0YzSlNqQ1hnLXRYcnVWSWZRMVZMV1o5UW1iUU5EUQ",
   "https://thehill.com/?p=6019407",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40388700",
   "CBMinAFBVV95cUxPbjNWb04xVkIyOFFfWDJ5Q2ttMGpjbFJpb1ByRklwWTJoM3ByWmRaMm5EUFk2YVBnWnQwSmFfNXRsSWlzRUx1U2UxcEVDYWR6bTFLRmNnSDVYTUxsSmR3Q1NLZHVfc05JbGNvMHUzNzdUeUZ5NXVIRU9YYU9Wc0V0a09sa29ZbEw3clFhQUZPQUl4bWJIM0loSjV3ZEs",
   "https://nypost.com/?post_type=article&p=40390297",
-  "https://nypost.com/?post_type=article&p=40390258"
+  "https://nypost.com/?post_type=article&p=40390258",
+  "CBMirAFBVV95cUxPY2lhN2VjR09udzB3bU1URTd4eG85UnJtdU1yYzhxUTNVODNqbk5TeTJmbzZ1TU92TUlMOWFvSTBIbDJuMkZpUlFxZ1pNV2hGWTY3RjBLaC1URU1yX1Y3T0gwS01MU1BSWEpIelZPOHpWcGZPQXBjQmFjekxVMlJNZFpaYVdOT1NVcmJyR1JRZnFyT183aUNLRFFrZG9OVlExS3VZaFN4YTNNMHpB",
+  "CBMilAFBVV95cUxOajYtNUl2Zy0xcC12dUdtMWpxdFkzQ0J5cS1fZWxSNTUyTlo2XzJ3MjM2V3ByeWtBSU00S0hGVm9CckZ2UTBITzhzMWtCZ0FCTHBObHpURHJlOXNZSTJxbjVlaW01alplRDQ1QUJiYVlnbVF2YUNrUjdmWnBPcmt1Q0Y3azlQbWZXZTJPZUY3SGM0NnJR"
  ],
  "posts": [
-  {
-   "fp": "award boardroom coup current exec globes golden hfpa ousted owner ruthless show sued week",
-   "title": "Top Golden Globes exec ousted in ruthless boardroom \u2018coup\u2019 a week after HFPA sued award show\u2019s current owner",
-   "source": "New York Post",
-   "at": "2026-08-14T14:26:44.324586+00:00"
-  },
-  {
-   "fp": "bikes getting held hurt keep kids killed parents responsible should",
-   "title": "Kids keep getting hurt and killed on e-bikes. Should parents be held responsible?",
-   "source": "AP",
-   "at": "2026-08-14T14:26:46.027401+00:00"
-  },
   {
    "fp": "breaking dead eight japan left pummels rain record stranded",
    "title": "Eight dead, and over 10K left stranded as record-breaking rain pummels Japan",
@@ -3201,11 +3189,21 @@
    "title": "Shakira makes surprise visit to Colombia after deadly earthquake, commits to rebuilding schools",
    "source": "New York Post",
    "at": "2026-08-18T16:50:12.784543+00:00"
+  },
+  {
+   "fp": "attack fears killed least nigeria plateau reprisal",
+   "title": "At least 25 killed in attack on Nigeria's Plateau amid reprisal fears",
+   "source": "Reuters",
+   "at": "2026-08-18T17:20:01.119408+00:00"
+  },
+  {
+   "fp": "dead london stabbing triple west",
+   "title": "One dead after triple stabbing in west London",
+   "source": "Telegraph",
+   "at": "2026-08-18T17:20:02.826001+00:00"
   }
  ],
  "titles": [
-  "award boardroom coup current exec globes golden hfpa ousted owner ruthless show sued week",
-  "bikes getting held hurt keep kids killed parents responsible should",
   "breaking dead eight japan left pummels rain record stranded",
   "dead guilt killed white",
   "baseball bertman coach dead duplicated legendary never skip",
@@ -3603,6 +3601,8 @@
   "album crashes deadly drake finds kendrick lamar linked releases study swift taylor",
   "base casualties israeli northwest reported strikes syria",
   "assault attack girl horrific school sexual survives teen walk",
-  "colombia commits deadly earthquake makes rebuilding schools shakira surprise visit"
+  "colombia commits deadly earthquake makes rebuilding schools shakira surprise visit",
+  "attack fears killed least nigeria plateau reprisal",
+  "dead london stabbing triple west"
  ]
 }
