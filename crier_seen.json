@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4682205",
   "https://thehill.com/?p=6021575",
   "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
   "https://nypost.com/?post_type=article&p=40281006",
@@ -799,15 +798,10 @@
   "https://www.washingtonexaminer.com/?p=4691647",
   "CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw",
   "CBMirwFBVV95cUxOSW9SaVY3S0l5MlVtblF3cjNfeXhOa25jMHVuXy1WMWM5S2o1M0RsSk54RF9HMEc5SGx3akFfYUFNT2FkTzJQTmlHLW5Ebml1M2ZUY0JObEtaZ0FHSWJGbzdubVQ5MExzb3E3bnNTUjdkWkJ5bE9QektrYmdHZVREWkV5bE5KTUNJWlZ4aTFUdlBVRWhvdXktZm5qdk1PZU1HeV9TeVE1NzFiVU54aExB",
-  "CBMiqAFBVV95cUxPMS03dTBuajNoRFdJZ2ZkbHdmbjRha0lJREVtUjdxVnNRR0xvOVVGUkp0ek1MMVUwOXFVeXRtNWRMSmdMZEQ4VmRJSndHQ2FrOTdlb2ZDNTNubTNEN2g5Y05QaENmdEVPSThPV2taNXdlUXBwSnFyVmZRTnA5a0FkR3VWdnJPcThORTY3bm5ORVNld2k2b2JsVXVLTTVNQ0hSbmlaR2xZM0w"
+  "CBMiqAFBVV95cUxPMS03dTBuajNoRFdJZ2ZkbHdmbjRha0lJREVtUjdxVnNRR0xvOVVGUkp0ek1MMVUwOXFVeXRtNWRMSmdMZEQ4VmRJSndHQ2FrOTdlb2ZDNTNubTNEN2g5Y05QaENmdEVPSThPV2taNXdlUXBwSnFyVmZRTnA5a0FkR3VWdnJPcThORTY3bm5ORVNld2k2b2JsVXVLTTVNQ0hSbmlaR2xZM0w",
+  "https://nypost.com/?post_type=article&p=40397664"
  ],
  "posts": [
-  {
-   "fp": "britain burn heat homes intense levels record wildfires",
-   "title": "Wildfires in Britain hit record levels after homes burn in intense heat",
-   "source": "Reuters",
-   "at": "2026-08-14T19:34:09.756845+00:00"
-  },
   {
    "fp": "arday dead found jason",
    "title": "Jason Arday found dead",
@@ -3201,10 +3195,15 @@
    "title": "Gold mine collapses in Central African Republic, killing at least 30 miners",
    "source": "AP",
    "at": "2026-08-18T21:41:27.500510+00:00"
+  },
+  {
+   "fp": "49ers breaking fred record ribs sets straight teammate warner",
+   "title": "49ers\u2019 Fred Warner sets record straight after breaking teammate\u2019s ribs",
+   "source": "New York Post",
+   "at": "2026-08-18T22:14:46.323062+00:00"
   }
  ],
  "titles": [
-  "britain burn heat homes intense levels record wildfires",
   "arday dead found jason",
   "chief forest near pressed ranch reportedly service staff support wildfire",
   "approach burnham climate criticised drilling fears heighten north wildfires",
@@ -3603,6 +3602,7 @@
   "court leaders offenses pretend rubio sanctions sham stop trying",
   "bond climb lows pulls selloff street tech wall week yields",
   "carolina darline endorsement graham interview norman questions ralph runoff south trump",
-  "african central collapses gold killing least mine miners republic"
+  "african central collapses gold killing least mine miners republic",
+  "49ers breaking fred record ribs sets straight teammate warner"
  ]
 }
