@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMisgFBVV95cUxOWXMwbFhiWVNTUHpsQUlLcHhEUkhSVTZMRnRVblMySC1fMVJDa0VKZW0zWmE1MlRnRFdGaXZfRTBQZkgzLXN2TzBFV2h4TVFldUZDbi1JUkI4RzB2VF9KU0JRVHdoZXc1NGtqT2FBUjR3MWp0VmstSFgxSE5ERXFmY0lTTFNNblh1OEJFaHlVb01xNE9lYjJEcXlNVnFwQzZ2TGI2MnlIS3RTamRnZzRVOUZR",
   "CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ",
   "CBMi0gFBVV95cUxOTVV5UnQ5MDEtWHg2dW9rS2ZQUnBVMjBpWUpWaExpTmxyeVRFcjFwUlhPNXQ0WEd3ejk1NVV4TEFpMkRNNmZ0M2szNlY4cUtpQktFTjBQY1J4Rk1UZzVSQ3pldzdIQ3BzY1E5YmNRUVRMQnhoazJfU1ptU19IamtRbVFnZnRRNkJwR1BlekljbkpaZVRJdnZTeEQwVnpUTDBBS1dIWGZNNWpIM09UbDFCel9nYnN4RkoxU1liTU4zRUI5NDZfQmdfZjNPOXJQbmU1Vmc",
   "CBMiZ0FVX3lxTE5LVmpHckN0TEFtcFNBVld6WHJHZUdZTUkzQWJ1dkZjdjU5aUc2YUhENE9pem9lWU92bnk1ZjJYOFlXcFU4QUdHd1UyWFhGR2h1TkpsZ1lWcmxLWTh2U0RLN1Jkd2hYQzQ",
@@ -799,15 +798,10 @@
   "CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA",
   "https://nypost.com/?post_type=article&p=40386624",
   "https://www.washingtonexaminer.com/?p=4690692",
-  "https://www.theguardian.com/us-news/2026/aug/17/trump-mail-vote-florida-republican-primary"
+  "https://www.theguardian.com/us-news/2026/aug/17/trump-mail-vote-florida-republican-primary",
+  "CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ"
  ],
  "posts": [
-  {
-   "fp": "238k border california crossing deadly discovered fentanyl moped stuffed worth",
-   "title": "$238K worth of deadly fentanyl discovered stuffed in moped at California border crossing",
-   "source": "New York Post",
-   "at": "2026-08-13T23:04:41.608980+00:00"
-  },
   {
    "fp": "detainee dies emergency facility jersey medical third",
    "title": "Third detainee dies after medical emergency at New Jersey ICE facility",
@@ -3201,10 +3195,15 @@
    "title": "Trump reportedly casts mail-in ballot in Florida Republican primary",
    "source": "Guardian World",
    "at": "2026-08-18T03:43:41.732804+00:00"
+  },
+  {
+   "fp": "classmate death himself killed mayor philippines school shot southern student then",
+   "title": "Student shot a classmate to death then killed himself at school in southern Philippines, mayor says",
+   "source": "AP",
+   "at": "2026-08-18T03:59:35.245928+00:00"
   }
  ],
  "titles": [
-  "238k border california crossing deadly discovered fentanyl moped stuffed worth",
   "detainee dies emergency facility jersey medical third",
   "bullet killed market riddled still tupac",
   "daughter daycare kill minnesota police screwdriver used wife",
@@ -3603,6 +3602,7 @@
   "bond ceasefire climb expires iran prices rise yields",
   "area black candidate congressional majority opponent primary running slams socialist white",
   "election florida mail report second time trump votes year",
-  "ballot casts florida mail primary reportedly republican trump"
+  "ballot casts florida mail primary reportedly republican trump",
+  "classmate death himself killed mayor philippines school shot southern student then"
  ]
 }
