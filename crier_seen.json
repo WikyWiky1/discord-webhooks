@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
-  "https://nypost.com/?post_type=article&p=40281006",
   "https://thehill.com/?p=6021625",
   "CBMilgFBVV95cUxPaWEwRVJMUWthdlFuSTV5N2ZqaDA2TXViaUlic1NJSlgtbXNKYzY5Qnh2d0QtMGRGYTg1QU5uUFNaY2xXOEpPenR1TEZrWGJIT2NxTFFtUE9yZFlUdUlKNFNfRUJ0MV9wT3NjdkhXYWVKN1NTeUh5c1JlTzNiMUM0ZzNyZXBmX0dkdkxWTHktRG9HeWpQMEE",
   "CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw",
@@ -799,21 +797,11 @@
   "CBMirwFBVV95cUxOSW9SaVY3S0l5MlVtblF3cjNfeXhOa25jMHVuXy1WMWM5S2o1M0RsSk54RF9HMEc5SGx3akFfYUFNT2FkTzJQTmlHLW5Ebml1M2ZUY0JObEtaZ0FHSWJGbzdubVQ5MExzb3E3bnNTUjdkWkJ5bE9QektrYmdHZVREWkV5bE5KTUNJWlZ4aTFUdlBVRWhvdXktZm5qdk1PZU1HeV9TeVE1NzFiVU54aExB",
   "CBMiqAFBVV95cUxPMS03dTBuajNoRFdJZ2ZkbHdmbjRha0lJREVtUjdxVnNRR0xvOVVGUkp0ek1MMVUwOXFVeXRtNWRMSmdMZEQ4VmRJSndHQ2FrOTdlb2ZDNTNubTNEN2g5Y05QaENmdEVPSThPV2taNXdlUXBwSnFyVmZRTnA5a0FkR3VWdnJPcThORTY3bm5ORVNld2k2b2JsVXVLTTVNQ0hSbmlaR2xZM0w",
   "https://nypost.com/?post_type=article&p=40397664",
-  "https://nypost.com/?post_type=article&p=40388307"
+  "https://nypost.com/?post_type=article&p=40388307",
+  "https://nypost.com/?post_type=article&p=40398366",
+  "https://nypost.com/?post_type=article&p=40401594"
  ],
  "posts": [
-  {
-   "fp": "chief forest near pressed ranch reportedly service staff support wildfire",
-   "title": "US forest service chief reportedly pressed staff for more support for wildfire near his ranch",
-   "source": "Guardian World",
-   "at": "2026-08-14T19:34:13.535487+00:00"
-  },
-  {
-   "fp": "approach burnham climate criticised drilling fears heighten north wildfires",
-   "title": "Burnham criticised for EV and North Sea drilling approach as wildfires heighten climate fears",
-   "source": "Guardian World",
-   "at": "2026-08-14T19:34:15.381313+00:00"
-  },
   {
    "fp": "associated breaking latest news press today",
    "title": "Associated Press News: Breaking News | Latest News Today",
@@ -3201,11 +3189,21 @@
    "title": "Rep. Debbie Wasserman Schultz wins Florida House primary over indicted Dem Sheila Cherfilis-McCormick",
    "source": "New York Post",
    "at": "2026-08-18T23:39:27.287755+00:00"
+  },
+  {
+   "fp": "bayern collapses diagnosis match munich reveals scary second star straight",
+   "title": "Bayern Munich star collapses in second straight match as he reveals scary diagnosis",
+   "source": "New York Post",
+   "at": "2026-08-18T23:56:29.158582+00:00"
+  },
+  {
+   "fp": "cops courthouse near report respond shooting trial tupac",
+   "title": "Cops respond to report of shooting near Tupac trial courthouse",
+   "source": "New York Post",
+   "at": "2026-08-18T23:56:30.839084+00:00"
   }
  ],
  "titles": [
-  "chief forest near pressed ranch reportedly service staff support wildfire",
-  "approach burnham climate criticised drilling fears heighten north wildfires",
   "associated breaking latest news press today",
   "foreign india nuclear opens proven sector technology",
   "alcohol boat charged crash fatal grandfather grandkids homicide impaired jersey killed shore",
@@ -3603,6 +3601,8 @@
   "carolina darline endorsement graham interview norman questions ralph runoff south trump",
   "african central collapses gold killing least mine miners republic",
   "49ers breaking fred record ribs sets straight teammate warner",
-  "cherfilis debbie florida house indicted mccormick primary schultz sheila wasserman wins"
+  "cherfilis debbie florida house indicted mccormick primary schultz sheila wasserman wins",
+  "bayern collapses diagnosis match munich reveals scary second star straight",
+  "cops courthouse near report respond shooting trial tupac"
  ]
 }
