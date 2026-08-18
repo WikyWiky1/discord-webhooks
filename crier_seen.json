@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6021575",
   "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
   "https://nypost.com/?post_type=article&p=40281006",
   "https://thehill.com/?p=6021625",
@@ -799,15 +798,10 @@
   "CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw",
   "CBMirwFBVV95cUxOSW9SaVY3S0l5MlVtblF3cjNfeXhOa25jMHVuXy1WMWM5S2o1M0RsSk54RF9HMEc5SGx3akFfYUFNT2FkTzJQTmlHLW5Ebml1M2ZUY0JObEtaZ0FHSWJGbzdubVQ5MExzb3E3bnNTUjdkWkJ5bE9QektrYmdHZVREWkV5bE5KTUNJWlZ4aTFUdlBVRWhvdXktZm5qdk1PZU1HeV9TeVE1NzFiVU54aExB",
   "CBMiqAFBVV95cUxPMS03dTBuajNoRFdJZ2ZkbHdmbjRha0lJREVtUjdxVnNRR0xvOVVGUkp0ek1MMVUwOXFVeXRtNWRMSmdMZEQ4VmRJSndHQ2FrOTdlb2ZDNTNubTNEN2g5Y05QaENmdEVPSThPV2taNXdlUXBwSnFyVmZRTnA5a0FkR3VWdnJPcThORTY3bm5ORVNld2k2b2JsVXVLTTVNQ0hSbmlaR2xZM0w",
-  "https://nypost.com/?post_type=article&p=40397664"
+  "https://nypost.com/?post_type=article&p=40397664",
+  "https://nypost.com/?post_type=article&p=40388307"
  ],
  "posts": [
-  {
-   "fp": "arday dead found jason",
-   "title": "Jason Arday found dead",
-   "source": "Telegraph",
-   "at": "2026-08-14T19:34:11.555549+00:00"
-  },
   {
    "fp": "chief forest near pressed ranch reportedly service staff support wildfire",
    "title": "US forest service chief reportedly pressed staff for more support for wildfire near his ranch",
@@ -3201,10 +3195,15 @@
    "title": "49ers\u2019 Fred Warner sets record straight after breaking teammate\u2019s ribs",
    "source": "New York Post",
    "at": "2026-08-18T22:14:46.323062+00:00"
+  },
+  {
+   "fp": "cherfilis debbie florida house indicted mccormick primary schultz sheila wasserman wins",
+   "title": "Rep. Debbie Wasserman Schultz wins Florida House primary over indicted Dem Sheila Cherfilis-McCormick",
+   "source": "New York Post",
+   "at": "2026-08-18T23:39:27.287755+00:00"
   }
  ],
  "titles": [
-  "arday dead found jason",
   "chief forest near pressed ranch reportedly service staff support wildfire",
   "approach burnham climate criticised drilling fears heighten north wildfires",
   "associated breaking latest news press today",
@@ -3603,6 +3602,7 @@
   "bond climb lows pulls selloff street tech wall week yields",
   "carolina darline endorsement graham interview norman questions ralph runoff south trump",
   "african central collapses gold killing least mine miners republic",
-  "49ers breaking fred record ribs sets straight teammate warner"
+  "49ers breaking fred record ribs sets straight teammate warner",
+  "cherfilis debbie florida house indicted mccormick primary schultz sheila wasserman wins"
  ]
 }
