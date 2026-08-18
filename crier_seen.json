@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMisAFBVV95cUxOWHJhQURYWHdTZVU1bDVoYXFvRTVSaXNBc1BORDc5TktmYU8wcDNBbUxmbGljR0FUQ3YzYzBfVUVWemZKNGdTVWtXTkRXNmFjZzdUY2R5cF9QY2tFeWlFa3Z2ZVRtNG80aVlrcXBHel9lZ2h4bTFJaF9hTnlDUWFlMVVUWWZPT3o0Y21fQ1ZfOEpkR0IzNks1VEFqSkt4TnR1RXF6bHJ4SE4tUXF6bzRBVA",
   "CBMipgFBVV95cUxQZDA2ck5yWEh6OEN5WFl1WnAyUG1ESzMzRUtpZTRHb2l2UGw5VUxpNVh4VzNnOWF5bW91TWNZV2dkRTUwUGFTWF9Kb3NRMTYxYWtCbHZGclFKZ1oxX0lBaXFRWmFXTGcwZmw1WW96dDJiQm90VlVVcXpYbGhzRW4tdUJsX0d1V0xPMGhrRXB6emtzMFcxMDhTZllZNVFkYVR0aV93UTBB",
   "CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw",
   "https://www.washingtonexaminer.com/?p=4680574",
@@ -799,15 +798,10 @@
   "CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA",
   "https://www.washingtonexaminer.com/?p=4689994",
   "https://www.washingtonexaminer.com/?p=4690228",
-  "https://www.theguardian.com/us-news/ng-interactive/2026/aug/18/trump-federal-data-deleted-altered"
+  "https://www.theguardian.com/us-news/ng-interactive/2026/aug/18/trump-federal-data-deleted-altered",
+  "https://nypost.com/?post_type=article&p=40387982"
  ],
  "posts": [
-  {
-   "fp": "four japanese killed rainfall record",
-   "title": "Four killed in record Japanese rainfall",
-   "source": "Telegraph",
-   "at": "2026-08-14T09:01:09.693206+00:00"
-  },
   {
    "fp": "another caught colombia deadly disaster fled quakes teens venezuela",
    "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
@@ -3201,10 +3195,15 @@
    "title": "Trump 2.0 has deleted or altered nearly 400 US datasets, endangering public health, education and more",
    "source": "Guardian World",
    "at": "2026-08-18T11:30:19.758019+00:00"
+  },
+  {
+   "fp": "almost drones fires kharkiv kill missiles moscow russian ukraine",
+   "title": "Ukraine fires almost 800 drones at Moscow while Russian missiles kill 10 in Kharkiv",
+   "source": "New York Post",
+   "at": "2026-08-18T11:45:01.910723+00:00"
   }
  ],
  "titles": [
-  "four japanese killed rainfall record",
   "another caught colombia deadly disaster fled quakes teens venezuela",
   "call crossbenchers fast inquiry labor ndis overhaul pocock report scathing senate",
   "broker crypto exclusive license onto regulated steps street trader wall wintermute",
@@ -3603,6 +3602,7 @@
   "aims blitz drone kill missiles moscow russian ukraine ukrainian village",
   "american back brought dead declared life manufacturing trump usmca washington",
   "defend hormuz korea nuclear pull should south trump umbrella",
-  "altered datasets deleted education endangering health nearly public trump"
+  "altered datasets deleted education endangering health nearly public trump",
+  "almost drones fires kharkiv kill missiles moscow russian ukraine"
  ]
 }
