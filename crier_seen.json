@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4679255",
-  "https://www.washingtonexaminer.com/?p=4679523",
   "https://thehill.com/?p=6019810",
   "CBMiqwFBVV95cUxNbTVmdTJrZGhIN3BDTWJGYnJlZVJjMmdNZkdacW84NGdEbEthY0FpN3FJcTFVMW1TWlZkNFBSS0JxYmlxaUxMUzMzenpKdDNKT1FQSTBtdEhFc1RVemY0YkZOdmlzYXhMcndOc0QxU0hsaWZxRVdCVDAtRHA4d1hXTFB0MWoxNGNrV05kNXdhR2tPVjJaWmZtOHNUTFpoN0doYnJraEZDMlRteW8",
   "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
@@ -799,21 +797,11 @@
   "CBMirAFBVV95cUxOTTFETUJQZkVvNDNDajRVdEhmQktncnJKN0Rqa2o3U3ZZSDhzSTRKVV84YkwtOEx3Q0pDRHQ0cHEtYmhOcDQwTkVTOXdHWkpIVWZxenE5cDZOaFFxOXdwczcyU0JXR1A0cmhfWGx5cms4NU10bUV4a2l2ckZ0dmVMdVRyMjIzX3puVjlxRnJNZTZJWnJpb1h2R1ZUaTlhRW9OMWg4WVlOZTNVNnVl",
   "CBMiqwFBVV95cUxQVlVZQTF6elRfTlRLdnpXYTdPVGVJclZ3eFRXY01jV21qTG8yd0x6OUduQldJVHlTNUFwRkRQTzlPYjNPQXJuVWRhYmU5NWVidWpsZ2txTWRJVkxfOFZsSXBzSk5fQkVwQXBzdVBHSl85U24zMVhzSVRNWjhpZFM2cjJIeGdoNnVHclVjTkd1bkxxY05kdXg4RFBQdmdHd1ZxRVQzNHNHdXFvUnc",
   "CBMihAFBVV95cUxQekxhTi1CYmxld3ZjZEZPcFVXNXlSeFdsSVgwWFBOVl9td1N5b3dmQndGck5TMTFOdm0xcm14TnBJREdYUk9TQkp2QU9wUDdnNVRnWXRPTUo2aFZ4NFRvd0RtNFY2STZNcUhwMm5QVTJqb3N4akY2SlRCUkVYNG9MTFNrSkg",
-  "CBMiugFBVV95cUxOZGNURlpmQVN3RWlucjBBbS1xdlZ5bzBubGk0ZXY3aURNcG9KM0VzbkQyN1ludXNYaHNENW1OOVNIbnU5VmV3SVh3WnA2SnRJVzFkSEZXb3RVbmZtVnE2dlJhUHlwTXFuNklxUXI2dEZJM0FDWHI4OUhyb1dBMVVzdEh5NmVjbmlVSkZ1RWRxeFFER1FZMnZyd0RwbjlPSzhCMHVsWWpuU2FFZzY2QUJXTlFic045U1h0ckE"
+  "CBMiugFBVV95cUxOZGNURlpmQVN3RWlucjBBbS1xdlZ5bzBubGk0ZXY3aURNcG9KM0VzbkQyN1ludXNYaHNENW1OOVNIbnU5VmV3SVh3WnA2SnRJVzFkSEZXb3RVbmZtVnE2dlJhUHlwTXFuNklxUXI2dEZJM0FDWHI4OUhyb1dBMVVzdEh5NmVjbmlVSkZ1RWRxeFFER1FZMnZyd0RwbjlPSzhCMHVsWWpuU2FFZzY2QUJXTlFic045U1h0ckE",
+  "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
+  "CBMioAFBVV95cUxQWlpOWER2b2tNcFBLUmQ0SlI3UEJEeWxlYWpRN3ZDeFhqMldZSXk2MjJBMVJ0eUMzME5wOFVQRmJHSDRuTWlIMVEyZlVqenNIMFktMzdRX0p3Qk5PWHNsWV82SzlDMXpYWEpyQ3Q1ME1oLVpVdFdUaDhRN0JjRzlHczlTY3ZxSEJPcWNIWEdIelZXWHFWZlA2dGRwcnhFTjhQ"
  ],
  "posts": [
-  {
-   "fp": "assassination citizen foiled plot poland russian warsaw",
-   "title": "Poland says it foiled Russian assassination plot against US citizen in Warsaw",
-   "source": "Washington Examiner",
-   "at": "2026-08-14T02:48:21.094257+00:00"
-  },
-  {
-   "fp": "build emergency infrastructure looming make should water",
-   "title": "The looming emergency that should make us build more water infrastructure",
-   "source": "New York Post",
-   "at": "2026-08-14T02:48:22.859721+00:00"
-  },
   {
    "fp": "breaking contention continue down mets reasons watching",
    "title": "Breaking down the reasons to continue watching out-of-contention Mets",
@@ -3201,11 +3189,21 @@
    "title": "Fear grips children after deadly earthquake in eastern Indonesia leaves thousands displaced",
    "source": "AP",
    "at": "2026-08-18T07:22:48.764240+00:00"
+  },
+  {
+   "fp": "attack europe killed live overnight respond russian ukraine zelenskyy",
+   "title": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack \u2013 Europe live",
+   "source": "Guardian World",
+   "at": "2026-08-18T08:55:17.095749+00:00"
+  },
+  {
+   "fp": "down scientist steps",
+   "title": "Top UK scientist steps down from WHO",
+   "source": "Telegraph",
+   "at": "2026-08-18T08:55:18.940167+00:00"
   }
  ],
  "titles": [
-  "assassination citizen foiled plot poland russian warsaw",
-  "build emergency infrastructure looming make should water",
   "breaking contention continue down mets reasons watching",
   "danube drops drought last nuclear reactor record river romania shuts",
   "carriages derails england injured overturn passenger people southern train",
@@ -3603,6 +3601,8 @@
   "adopted congress florida governor grip holds primaries state testing trump",
   "alaska also congresswoman face features former primary senate sullivans",
   "call emergency hayden overdose panettiere suffered suggests suspected",
-  "children deadly displaced earthquake eastern fear grips indonesia leaves thousands"
+  "children deadly displaced earthquake eastern fear grips indonesia leaves thousands",
+  "attack europe killed live overnight respond russian ukraine zelenskyy",
+  "down scientist steps"
  ]
 }
