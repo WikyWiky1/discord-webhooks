@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40267955",
-  "https://www.theguardian.com/world/2026/aug/10/rare-animals-threatened-as-wildfire-ravages-new-forest-heathland",
   "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
   "CBMisAFBVV95cUxOWHJhQURYWHdTZVU1bDVoYXFvRTVSaXNBc1BORDc5TktmYU8wcDNBbUxmbGljR0FUQ3YzYzBfVUVWemZKNGdTVWtXTkRXNmFjZzdUY2R5cF9QY2tFeWlFa3Z2ZVRtNG80aVlrcXBHel9lZ2h4bTFJaF9hTnlDUWFlMVVUWWZPT3o0Y21fQ1ZfOEpkR0IzNks1VEFqSkt4TnR1RXF6bHJ4SE4tUXF6bzRBVA",
   "CBMipgFBVV95cUxQZDA2ck5yWEh6OEN5WFl1WnAyUG1ESzMzRUtpZTRHb2l2UGw5VUxpNVh4VzNnOWF5bW91TWNZV2dkRTUwUGFTWF9Kb3NRMTYxYWtCbHZGclFKZ1oxX0lBaXFRWmFXTGcwZmw1WW96dDJiQm90VlVVcXpYbGhzRW4tdUJsX0d1V0xPMGhrRXB6emtzMFcxMDhTZllZNVFkYVR0aV93UTBB",
@@ -799,21 +797,11 @@
   "CBMimgFBVV95cUxPYndMdTlQRlV6T1hocWM5aTRGLUczajVLMW9ub3o3SFF2UGVRRVkxZFZyNGFWaC1WdnhMZm5mQlR2TXhyZkdieTlmeVk4NHpNaGNwVnM3VkF0RzVDZ2U0NUNLYVVZVGNVcVJfRWVSc09CYTVwWFRhbURLM3dHU2NSVzk0QXlrVTNpQkIzNGwwVHJpUVFnZGVuamZR",
   "https://news.sky.com/story/one-dead-and-hundreds-ill-after-uk-salmonella-outbreak-13574292",
   "https://www.washingtonexaminer.com/?p=4690789",
-  "CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA"
+  "CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA",
+  "https://www.washingtonexaminer.com/?p=4689994",
+  "https://www.washingtonexaminer.com/?p=4690228"
  ],
  "posts": [
-  {
-   "fp": "back beats binface count election farage mocked nigel parliament seat widely",
-   "title": "Nigel Farage beats Count Binface to win back seat in Parliament in widely mocked election",
-   "source": "AP",
-   "at": "2026-08-14T07:23:48.104962+00:00"
-  },
-  {
-   "fp": "avoid binface count election farage nigel reform",
-   "title": "Reform UK's Nigel Farage to avoid election count against Count Binface",
-   "source": "Reuters",
-   "at": "2026-08-14T07:23:49.984207+00:00"
-  },
   {
    "fp": "croatian descends injures least tourist town wildfire",
    "title": "Wildfire descends on Croatian tourist town, injures at least 19",
@@ -3201,11 +3189,21 @@
    "title": "Ukraine aims a drone blitz at Moscow while Russian missiles kill 10 in a Ukrainian village",
    "source": "AP",
    "at": "2026-08-18T10:48:23.135128+00:00"
+  },
+  {
+   "fp": "american back brought dead declared life manufacturing trump usmca washington",
+   "title": "Washington declared American manufacturing dead. Trump\u2019s USMCA brought it back to life",
+   "source": "Washington Examiner",
+   "at": "2026-08-18T11:18:33.849709+00:00"
+  },
+  {
+   "fp": "defend hormuz korea nuclear pull should south trump umbrella",
+   "title": "If South Korea won\u2019t defend Hormuz, Trump should pull the nuclear umbrella",
+   "source": "Washington Examiner",
+   "at": "2026-08-18T11:18:35.712035+00:00"
   }
  ],
  "titles": [
-  "back beats binface count election farage mocked nigel parliament seat widely",
-  "avoid binface count election farage nigel reform",
   "croatian descends injures least tourist town wildfire",
   "four japanese killed rainfall record",
   "another caught colombia deadly disaster fled quakes teens venezuela",
@@ -3603,6 +3601,8 @@
   "dead eggs imported linked outbreak salmonella",
   "dead hundreds outbreak salmonella",
   "killed missile promises respond russian strike ukraine zelensky",
-  "aims blitz drone kill missiles moscow russian ukraine ukrainian village"
+  "aims blitz drone kill missiles moscow russian ukraine ukrainian village",
+  "american back brought dead declared life manufacturing trump usmca washington",
+  "defend hormuz korea nuclear pull should south trump umbrella"
  ]
 }
