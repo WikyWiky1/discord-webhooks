@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMilAFBVV95cUxQUkRTYnFESnJsdVFfSTBOWlBFNnVRWkdSTEs1SmVjNndjdXNlZ1FZMGFvVDZaR3Z2RzZiblRlS3RqZ1NtYTluM29Uek9FSEVwYlZFamlHaFRVTlZqSzMyaXRzYnpBZWczWHIwcG44UmZEc0NYbHVjN25Wbi12c1IzZnUwMkk5NEUyb2Q1aVpKQ2JDblZQ",
-  "https://pagesix.com/?post_type=article&p=9100519",
   "https://www.theguardian.com/business/2026/aug/10/great-britain-emergency-power-cuts-grid-neso-blackouts",
   "https://www.bbc.co.uk/news/articles/cqx7lje8l79o#0",
   "https://www.theguardian.com/australia-news/2026/aug/10/new-head-australian-trade-union-movement-melissa-donnelly-sally-mcmanus-steps-down",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
   "CBMipgFBVV95cUxQU3BhNEdxTFpDOGtvRmx2RU5kNWtFR1oxYXhsOEFWWm1NdG9IMkRaeEJvUmE5WUN0UjMxbXdwSXFmcXNKTjNGbkNfY1hrdjJtZnl0QVZXNk5jeVNFRV9qSklqTUhBVFpyTnFkdVBMeEZGRkJmWFFCWC1Ca3EtN2xGMzYtd3loMXdrTGhDSXpjV1ZzcGRnZUJfdEZueHdmSmFZR1BkcXV3",
   "https://thehill.com/?p=6034201",
-  "https://thehill.com/?p=6034188"
+  "https://thehill.com/?p=6034188",
+  "https://www.bbc.co.uk/news/articles/cp3r0kz775ko#0",
+  "https://nypost.com/?post_type=article&p=40385670"
  ],
  "posts": [
-  {
-   "fp": "alaska blame colombia conspiracy earthquake fact falsely focus program research theories",
-   "title": "FACT FOCUS: Conspiracy theories falsely blame Colombia earthquake on Alaska research program",
-   "source": "AP",
-   "at": "2026-08-13T21:05:19.646682+00:00"
-  },
-  {
-   "fp": "boom building exotic money nvidia pipeline street wall",
-   "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom",
-   "source": "WSJ",
-   "at": "2026-08-13T21:44:14.885562+00:00"
-  },
   {
    "fp": "alien appeals court enemies lawsuit moot rules",
    "title": "Appeals court rules key Alien Enemies Act lawsuit moot",
@@ -3201,11 +3189,21 @@
    "title": "Kindergarten vaccine exemptions hit all time high",
    "source": "The Hill",
    "at": "2026-08-18T01:11:51.782494+00:00"
+  },
+  {
+   "fp": "broke hell loose murder night rapper shooting trial tupac witness",
+   "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+   "source": "BBC World",
+   "at": "2026-08-18T02:11:24.335545+00:00"
+  },
+  {
+   "fp": "battle bowl brigance dead ravens super winner",
+   "title": "Ravens Super Bowl winner O.J. Brigance dead at 56 after ALS battle",
+   "source": "New York Post",
+   "at": "2026-08-18T02:11:26.077990+00:00"
   }
  ],
  "titles": [
-  "alaska blame colombia conspiracy earthquake fact falsely focus program research theories",
-  "boom building exotic money nvidia pipeline street wall",
   "alien appeals court enemies lawsuit moot rules",
   "cassidy director order right schwartz thing vaccine",
   "bets drop hike prices rate reduce rise stocks traders",
@@ -3603,6 +3601,8 @@
   "battles capital flooding kill korea major philippine rains south torrential",
   "deadline deal expiring here iran peace stand things where",
   "election florida mail primary report trump voted",
-  "exemptions high kindergarten time vaccine"
+  "exemptions high kindergarten time vaccine",
+  "broke hell loose murder night rapper shooting trial tupac witness",
+  "battle bowl brigance dead ravens super winner"
  ]
 }
