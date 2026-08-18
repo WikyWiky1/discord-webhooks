@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6021244",
-  "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles",
-  "CBMinwFBVV95cUxQZUEzSDdKQmM1cmFtSUpxRGRqTVdWelRGT2NHVUNDZV9JaExndU1UNXdocmxpMXVRRVNUYmtLSlhpdXlTLU9xZEphcEo1eUM2a09Zbk9LYlZwQmltM1l2MkVzWFU3Y3J2WDdJdGx0YmROcjM3MTJRUzJndi1QZ2ppdDRuUmJCTHFOMFJTQl9JOTdvVlgxb3B5WWVseUhOWm8",
-  "https://nypost.com/?post_type=article&p=40275655",
   "https://www.theguardian.com/us-news/2026/aug/10/man-charged-new-york-harbor-boat-capsizing",
   "CBMipgFBVV95cUxPaXltbWpibFBieFlGQi1PQXlTWktFYXdFSENITmhTenpTVFhpSkhhMG1CMUJKTXo4VUdDX29YdVpmRHViaHowb3k0WjE1ajdjM0JldlRVN0ZVZVlMYU5HaXFlVWlqcmQ5Uk9JbWxsUkhVVUlFSzlMUFNnSnJyNnBhQkR1WVV6UjJFenJPaVNSVVh0YUpwUkduWTFXSkhEMW9IeVhJMFpB",
   "https://www.washingtonexaminer.com/?p=4682025",
@@ -799,33 +795,13 @@
   "https://thehill.com/?p=6036131",
   "https://pagesix.com/?post_type=article&p=9118652",
   "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
-  "CBMijwFBVV95cUxQQUt5VVdqZlhXUEdrUTlGVnpOUnoyOFNfS3FobU5fRFZpb2JFQmQwNTg2bm1TczVXYUlBQm9WNGNnVGxKWEpQcUdwNzk2anpWNW1VaWo4VktiVUVNRjVRYURmZ0U0RV9HY0FpdnFqYnRqNjItdDR3RktId3F4d3ZPZk80SjB3QkcxaTVKS2tJbw"
+  "CBMijwFBVV95cUxQQUt5VVdqZlhXUEdrUTlGVnpOUnoyOFNfS3FobU5fRFZpb2JFQmQwNTg2bm1TczVXYUlBQm9WNGNnVGxKWEpQcUdwNzk2anpWNW1VaWo4VktiVUVNRjVRYURmZ0U0RV9HY0FpdnFqYnRqNjItdDR3RktId3F4d3ZPZk80SjB3QkcxaTVKS2tJbw",
+  "https://nypost.com/?post_type=article&p=40395889",
+  "https://www.theguardian.com/us-news/2026/aug/18/riley-english-sentenced-scott-bessent",
+  "CBMixgFBVV95cUxNWUljaVdkdjZZMngxR1FnWEVjQ25STWQxNDRtVVNGV0dUdFkzN0tVWUh6UmtPTlZVZU14eTBuWW13Um9WUzZ1QzlBS0tHcFhhakc3aUZOVnc5QlJ2aFpqSF9fejNPd3ZUMFpMN2Q0RVhSVFM3ZHVJWHlka05acUpTY3lQdFFSSDZHbzJzLWxTOXdOdk9QbUI5Rm4yd1ZGUzJ1UTNwbjRhRXpNTkxnZG9LbzVTRGdfbEd0VGw3M1FGRzdoRW1CY3c",
+  "CBMiuAFBVV95cUxOSnE2X0JVR2Y1YXRwWFNvVDFTQXQtU1J3aUZvSUMza2pEeklzSGpHVE5Tb2daWEJUYWlZUnM5LWotZHcxZVByU3dJX0VmZkNwUUxndnFPeGpaSU51b28tZmFRRlNYaGk3M05HbGoxM1Jfd2twMm9IRUlwU3ZuUUVfdnI3Z2RUazg2VWJ1OUpDZ1k3Nk5pb1lMRVRuUHNjYUk0SGFRQmN6cGdPNDduaVRUZnBYTFdIV1ZX"
  ],
  "posts": [
-  {
-   "fp": "army crash fort helicopter hood identifies killed pilots",
-   "title": "Army identifies 2 Fort Hood helicopter pilots killed in crash",
-   "source": "AP",
-   "at": "2026-08-14T17:33:51.095134+00:00"
-  },
-  {
-   "fp": "aircraft crash killed light north people wales",
-   "title": "Two people killed in light aircraft crash in north Wales",
-   "source": "Telegraph",
-   "at": "2026-08-14T18:28:58.701135+00:00"
-  },
-  {
-   "fp": "amendment backward gets kill right second story times york",
-   "title": "The New York Times\u2019s \u2018right to kill\u2019 story gets the Second Amendment backward",
-   "source": "Washington Examiner",
-   "at": "2026-08-14T18:29:00.473433+00:00"
-  },
-  {
-   "fp": "administration drone imports tariffs trump unveils",
-   "title": "Trump administration unveils tariffs on drone imports",
-   "source": "The Hill",
-   "at": "2026-08-14T18:53:28.469399+00:00"
-  },
   {
    "fp": "commitments deliver pressure raises tariff trade",
    "title": "US raises pressure on EU to 'deliver' on non-tariff trade commitments",
@@ -3201,13 +3177,33 @@
    "title": "Opinion | If El-Sayed and Sanders Kill Private Health Plans",
    "source": "WSJ",
    "at": "2026-08-18T19:42:26.149268+00:00"
+  },
+  {
+   "fp": "building explosion flames industrial killed left ohio scorched workers",
+   "title": "2 workers killed in explosion that left Ohio industrial building scorched in flames",
+   "source": "New York Post",
+   "at": "2026-08-18T20:15:09.749598+00:00"
+  },
+  {
+   "fp": "kill plot prison secretary sentenced treasury woman years",
+   "title": "US woman sentenced to six years in prison over plot to kill treasury secretary",
+   "source": "Guardian World",
+   "at": "2026-08-18T20:15:11.491932+00:00"
+  },
+  {
+   "fp": "gaza israel kills kushner medics meeting netanyahu",
+   "title": "Israel kills six in Gaza on day after Kushner meeting with Netanyahu, medics say",
+   "source": "Reuters",
+   "at": "2026-08-18T20:15:13.742659+00:00"
+  },
+  {
+   "fp": "adviser analyst argentina attack bolivia detained milei",
+   "title": "Adviser to Bolivia's Paz, Argentina's Milei detained over attack on analyst",
+   "source": "Reuters World",
+   "at": "2026-08-18T20:15:15.621667+00:00"
   }
  ],
  "titles": [
-  "army crash fort helicopter hood identifies killed pilots",
-  "aircraft crash killed light north people wales",
-  "amendment backward gets kill right second story times york",
-  "administration drone imports tariffs trump unveils",
   "commitments deliver pressure raises tariff trade",
   "data east investors lower middle pull stocks street tech tensions wall weigh",
   "carpetbagger cast characters florida house meet primary running seat",
@@ -3603,6 +3599,10 @@
   "assassination attempt bessent convicted gets individual prison years",
   "beard bowl cancellation dead drummer frank hollywood weeks",
   "aftermath describes former latest murder officer security shakur shooting trial tupac updates witnessing",
-  "health kill opinion plans private sanders sayed"
+  "health kill opinion plans private sanders sayed",
+  "building explosion flames industrial killed left ohio scorched workers",
+  "kill plot prison secretary sentenced treasury woman years",
+  "gaza israel kills kushner medics meeting netanyahu",
+  "adviser analyst argentina attack bolivia detained milei"
  ]
 }
