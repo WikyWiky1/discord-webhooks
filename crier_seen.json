@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40267263",
-  "CBMiiwFBVV95cUxNR3FodWVEWUU3b21vVXBLRkZpdEp5QTNpWmJvWGJ4djNhZ1lEdExXeXdhWExBUG1Ud2JtVkJvNzAxclMzMktaakpkaGNsMDRNOFJZMV9nRG5KWmRpY3lVXzJVQ0ZYc0NPLTJmelZ6c0ZMUFhfRTNLMmRNcDU4VEJKUUgxWUFWZkd0ZTlR",
   "CBMiuwFBVV95cUxQaUhMZEhSUHlDeTNnSy1ULU9POGxpNFhwbG1UQml2MExiQUowVVJTMm9lYzZLR1NRRnBXUnZha1o2X05pVjRzMGxRSDFtazRNYzBrQ20zb3FUM3I1N1ByUmdrWUdpLUw3OHkwVmlSQzMxYnFQdzJDcEhKSlhjbWFCWGxzUkZ4aXhaUEtXLUxsZ05HODJya0VUTHFoNkQtOU9hbkZfN2FDdzRwaU5ybUVLMUVpbE9kSWo5REo0",
   "CBMiogFBVV95cUxObDNMNHA1MDJhWmlpcENXc3dNdUJWSGw0Q19BU0l5WUtoeWJiU1ZJREt0bFdCV3JKN3FuUEt3bUxIV0ZwY0JGQTZqNGdnT0E2dkNwOVZ1X3M0UXowbmJUMDVOYXphZXJaaV9UcXd3MU1lYWZjZzR5WS05T204ci1mWjlHMFJmOWQyVjRPektlX2FobUpPekNCR0VXT1FuTHk5bUE",
   "https://nypost.com/?post_type=article&p=40273194",
@@ -799,21 +797,11 @@
   "CBMimAFBVV95cUxOeFJfUXd5RlpGU3pTb2Z1S3IycWtPZ2ZpNl83bDYyeVdfU3ZTQ2ZlenVwQk9vQWpibmw1YUJFak9yWnAtZjhCRnd4NE13NDgtVktOOWU3NmUxNzF5Y09xZDVmZzA5ZVNXWTJKUC1xNDVXRGQ2R3UzVkh1SDBCcnYwY2x1UFVNNjFtUmlzYWVxS1ItZ2o0TUpPUQ",
   "CBMimAFBVV95cUxOQTljaDVkWTQ1SEl5NHQ3aml4RFNQWGtqQU1aeXl0U0RveTBadTlOaUZERVZYc3R3bDFaU2NDaGxaQ2VqUlVXNEZZRTNBREFfazNzLXdQZDcxMTJoa25rcE55QmNLU2pOa0hPbzdBbU1jNHpkUlpWQVZrd0RaaTd0eUE2RzYwaWNTNVdqNXlXNk40S2VDNjdQTg",
   "https://nypost.com/?post_type=article&p=40388700",
-  "CBMinAFBVV95cUxPbjNWb04xVkIyOFFfWDJ5Q2ttMGpjbFJpb1ByRklwWTJoM3ByWmRaMm5EUFk2YVBnWnQwSmFfNXRsSWlzRUx1U2UxcEVDYWR6bTFLRmNnSDVYTUxsSmR3Q1NLZHVfc05JbGNvMHUzNzdUeUZ5NXVIRU9YYU9Wc0V0a09sa29ZbEw3clFhQUZPQUl4bWJIM0loSjV3ZEs"
+  "CBMinAFBVV95cUxPbjNWb04xVkIyOFFfWDJ5Q2ttMGpjbFJpb1ByRklwWTJoM3ByWmRaMm5EUFk2YVBnWnQwSmFfNXRsSWlzRUx1U2UxcEVDYWR6bTFLRmNnSDVYTUxsSmR3Q1NLZHVfc05JbGNvMHUzNzdUeUZ5NXVIRU9YYU9Wc0V0a09sa29ZbEw3clFhQUZPQUl4bWJIM0loSjV3ZEs",
+  "https://nypost.com/?post_type=article&p=40390297",
+  "https://nypost.com/?post_type=article&p=40390258"
  ],
  "posts": [
-  {
-   "fp": "antisemetic crash husband jewish killed past raises signs suspect warning woman",
-   "title": "Husband of Jewish NYC woman killed in crash raises warning signs of suspect\u2019s antisemetic past",
-   "source": "New York Post",
-   "at": "2026-08-14T14:26:40.667401+00:00"
-  },
-  {
-   "fp": "declares emergency encampment eyesores homeless malibu streets",
-   "title": "Malibu declares emergency to rid streets of homeless encampment eyesores",
-   "source": "New York Post",
-   "at": "2026-08-14T14:26:42.550916+00:00"
-  },
   {
    "fp": "award boardroom coup current exec globes golden hfpa ousted owner ruthless show sued week",
    "title": "Top Golden Globes exec ousted in ruthless boardroom \u2018coup\u2019 a week after HFPA sued award show\u2019s current owner",
@@ -3201,11 +3189,21 @@
    "title": "Israeli strikes hit an air base in northwest Syria, but no casualties are reported",
    "source": "AP",
    "at": "2026-08-18T16:00:43.087917+00:00"
+  },
+  {
+   "fp": "assault attack girl horrific school sexual survives teen walk",
+   "title": "Teen girl survives horrific sexual assault attack on walk to school",
+   "source": "New York Post",
+   "at": "2026-08-18T16:50:10.969988+00:00"
+  },
+  {
+   "fp": "colombia commits deadly earthquake makes rebuilding schools shakira surprise visit",
+   "title": "Shakira makes surprise visit to Colombia after deadly earthquake, commits to rebuilding schools",
+   "source": "New York Post",
+   "at": "2026-08-18T16:50:12.784543+00:00"
   }
  ],
  "titles": [
-  "antisemetic crash husband jewish killed past raises signs suspect warning woman",
-  "declares emergency encampment eyesores homeless malibu streets",
   "award boardroom coup current exec globes golden hfpa ousted owner ruthless show sued week",
   "bikes getting held hurt keep kids killed parents responsible should",
   "breaking dead eight japan left pummels rain record stranded",
@@ -3603,6 +3601,8 @@
   "banned driving paul range rover scholes speeding",
   "declared election hakainde hichilema president troubled winner zambia",
   "album crashes deadly drake finds kendrick lamar linked releases study swift taylor",
-  "base casualties israeli northwest reported strikes syria"
+  "base casualties israeli northwest reported strikes syria",
+  "assault attack girl horrific school sexual survives teen walk",
+  "colombia commits deadly earthquake makes rebuilding schools shakira surprise visit"
  ]
 }
