@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c20e360lx0vo#0",
   "https://www.washingtonexaminer.com/?p=4682205",
   "https://thehill.com/?p=6021575",
   "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6020775",
   "https://www.washingtonexaminer.com/?p=4691647",
   "CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw",
-  "CBMirwFBVV95cUxOSW9SaVY3S0l5MlVtblF3cjNfeXhOa25jMHVuXy1WMWM5S2o1M0RsSk54RF9HMEc5SGx3akFfYUFNT2FkTzJQTmlHLW5Ebml1M2ZUY0JObEtaZ0FHSWJGbzdubVQ5MExzb3E3bnNTUjdkWkJ5bE9QektrYmdHZVREWkV5bE5KTUNJWlZ4aTFUdlBVRWhvdXktZm5qdk1PZU1HeV9TeVE1NzFiVU54aExB"
+  "CBMirwFBVV95cUxOSW9SaVY3S0l5MlVtblF3cjNfeXhOa25jMHVuXy1WMWM5S2o1M0RsSk54RF9HMEc5SGx3akFfYUFNT2FkTzJQTmlHLW5Ebml1M2ZUY0JObEtaZ0FHSWJGbzdubVQ5MExzb3E3bnNTUjdkWkJ5bE9QektrYmdHZVREWkV5bE5KTUNJWlZ4aTFUdlBVRWhvdXktZm5qdk1PZU1HeV9TeVE1NzFiVU54aExB",
+  "CBMiqAFBVV95cUxPMS03dTBuajNoRFdJZ2ZkbHdmbjRha0lJREVtUjdxVnNRR0xvOVVGUkp0ek1MMVUwOXFVeXRtNWRMSmdMZEQ4VmRJSndHQ2FrOTdlb2ZDNTNubTNEN2g5Y05QaENmdEVPSThPV2taNXdlUXBwSnFyVmZRTnA5a0FkR3VWdnJPcThORTY3bm5ORVNld2k2b2JsVXVLTTVNQ0hSbmlaR2xZM0w"
  ],
  "posts": [
-  {
-   "fp": "alert emergency england phones risk sent wales warning wildfire",
-   "title": "Emergency alert warning of wildfire risk sent to phones in England and Wales",
-   "source": "Guardian World",
-   "at": "2026-08-14T19:34:07.883422+00:00"
-  },
   {
    "fp": "britain burn heat homes intense levels record wildfires",
    "title": "Wildfires in Britain hit record levels after homes burn in intense heat",
@@ -3201,10 +3195,15 @@
    "title": "AP Interview: Ralph Norman questions Trump's endorsement of Darline Graham in South Carolina runoff",
    "source": "AP",
    "at": "2026-08-18T21:23:39.260042+00:00"
+  },
+  {
+   "fp": "african central collapses gold killing least mine miners republic",
+   "title": "Gold mine collapses in Central African Republic, killing at least 30 miners",
+   "source": "AP",
+   "at": "2026-08-18T21:41:27.500510+00:00"
   }
  ],
  "titles": [
-  "alert emergency england phones risk sent wales warning wildfire",
   "britain burn heat homes intense levels record wildfires",
   "arday dead found jason",
   "chief forest near pressed ranch reportedly service staff support wildfire",
@@ -3603,6 +3602,7 @@
   "candidates desantis florida jockey live primary results succeed",
   "court leaders offenses pretend rubio sanctions sham stop trying",
   "bond climb lows pulls selloff street tech wall week yields",
-  "carolina darline endorsement graham interview norman questions ralph runoff south trump"
+  "carolina darline endorsement graham interview norman questions ralph runoff south trump",
+  "african central collapses gold killing least mine miners republic"
  ]
 }
