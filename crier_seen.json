@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMipgFBVV95cUxQZDA2ck5yWEh6OEN5WFl1WnAyUG1ESzMzRUtpZTRHb2l2UGw5VUxpNVh4VzNnOWF5bW91TWNZV2dkRTUwUGFTWF9Kb3NRMTYxYWtCbHZGclFKZ1oxX0lBaXFRWmFXTGcwZmw1WW96dDJiQm90VlVVcXpYbGhzRW4tdUJsX0d1V0xPMGhrRXB6emtzMFcxMDhTZllZNVFkYVR0aV93UTBB",
-  "CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw",
-  "https://www.washingtonexaminer.com/?p=4680574",
   "https://nypost.com/?post_type=article&p=40267261",
   "https://www.theguardian.com/us-news/2026/aug/10/spacex-rocket-launch-site-louisiana-backlash",
   "CBMisgFBVV95cUxOc2NQUDJidllpdUZZMDVFQnZvWmdyQ3FMeFo1WHREeWVtSE1WT0JUSXF2b3FqSVlwejRkNlQ2X3VFcEVmdGk3NEZWTUpPNVo4N0lqSUR1LVBiYW5hbXNOUkRfcEZ3RTdJVTY2V2VIOHVFY0dWWEV6TzJiMXN6c3JUUnpoa1FsZ01jbk9wZHdvaTRTV2JyU01ZdFBKUENPWmd1bmRkVVFjaTNZa043MFhYWmdR",
@@ -799,27 +796,12 @@
   "https://www.washingtonexaminer.com/?p=4689994",
   "https://www.washingtonexaminer.com/?p=4690228",
   "https://www.theguardian.com/us-news/ng-interactive/2026/aug/18/trump-federal-data-deleted-altered",
-  "https://nypost.com/?post_type=article&p=40387982"
+  "https://nypost.com/?post_type=article&p=40387982",
+  "CBMimAFBVV95cUxOWFhPQW0tYno0V29tdHFUZTZac0hSX2JWbGlpLVd2d2JvaE9IejByT0x0XzVndGNZY0hVWHRUQXdpZ0I1cHRNV2wyQlpzbmFRSlpDSWplMTVSRzJzVFhaNWU3cWhSMjhsckdMYUl4OHgyRElrS1k0RXhkUFI2eE1qeW42czlNMmg5OUxhSGN3VjZFaklWWW04YQ",
+  "https://www.bbc.co.uk/news/articles/cjwx58n1153o#1",
+  "CBMi4wFBVV95cUxOWGFoT0VRSHp6MWZuVTZJRnlUSkNENVhiNW5zWDVYR1JxN3ZaaGx2SFhXUnNoUW8wdmtBNnpaNGNIcU90MTJaNWxqX2UwSlM0bVVYTW52cFdIN1BzMzdZYXdMMi1RekhKblVqbV9STFgwbHgtMXRIb3dSWjcwU3QxY25ZaS1DTDM1YUZ6c3gtclIzaGNiN2hyZDcyaVJ6Q3Z4TUZFTjlCMlYyQVhKZGFVZTIyNVdBamR6YTlXNXZvVUlkZ2QydU9yWnZxT2JyZUZMRU1TWTZDMmhSS3VBWFU1NEI2UQ"
  ],
  "posts": [
-  {
-   "fp": "another caught colombia deadly disaster fled quakes teens venezuela",
-   "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
-   "source": "BBC World",
-   "at": "2026-08-14T09:01:11.561894+00:00"
-  },
-  {
-   "fp": "call crossbenchers fast inquiry labor ndis overhaul pocock report scathing senate",
-   "title": "Pocock and crossbenchers call Labor\u2019s NDIS overhaul \u2018too far, too fast\u2019 in scathing Senate inquiry report",
-   "source": "Guardian World",
-   "at": "2026-08-14T10:00:50.795421+00:00"
-  },
-  {
-   "fp": "broker crypto exclusive license onto regulated steps street trader wall wintermute",
-   "title": "Exclusive | Crypto Trader Wintermute Steps Onto Regulated Wall Street With Broker License",
-   "source": "WSJ",
-   "at": "2026-08-14T10:00:52.530462+00:00"
-  },
   {
    "fp": "clacton election farage nigel wins",
    "title": "Nigel Farage wins Clacton by-election",
@@ -3201,12 +3183,27 @@
    "title": "Ukraine fires almost 800 drones at Moscow while Russian missiles kill 10 in Kharkiv",
    "source": "New York Post",
    "at": "2026-08-18T11:45:01.910723+00:00"
+  },
+  {
+   "fp": "aerospace chairman internal resigns review",
+   "title": "XTI Aerospace Chairman, CEO Resigns Amid Internal Review",
+   "source": "WSJ",
+   "at": "2026-08-18T12:30:22.063888+00:00"
+  },
+  {
+   "fp": "deadliest death disaster ferry kariba making rises toll transport zimbabwe",
+   "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+   "source": "BBC World",
+   "at": "2026-08-18T12:30:23.884440+00:00"
+  },
+  {
+   "fp": "brought congo control ebola months outbreak still three under within",
+   "title": "WHO says Congo Ebola outbreak can still be brought under control within three months",
+   "source": "Reuters",
+   "at": "2026-08-18T12:30:25.740074+00:00"
   }
  ],
  "titles": [
-  "another caught colombia deadly disaster fled quakes teens venezuela",
-  "call crossbenchers fast inquiry labor ndis overhaul pocock report scathing senate",
-  "broker crypto exclusive license onto regulated steps street trader wall wintermute",
   "clacton election farage nigel wins",
   "boss derailment heatwaves insists railways safe train",
   "croatia europe evacuated fire hospital live midlands people taken thousands west",
@@ -3603,6 +3600,9 @@
   "american back brought dead declared life manufacturing trump usmca washington",
   "defend hormuz korea nuclear pull should south trump umbrella",
   "altered datasets deleted education endangering health nearly public trump",
-  "almost drones fires kharkiv kill missiles moscow russian ukraine"
+  "almost drones fires kharkiv kill missiles moscow russian ukraine",
+  "aerospace chairman internal resigns review",
+  "deadliest death disaster ferry kariba making rises toll transport zimbabwe",
+  "brought congo control ebola months outbreak still three under within"
  ]
 }
