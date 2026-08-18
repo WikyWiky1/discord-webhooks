@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40276490",
-  "CBMiwwFBVV95cUxPYVA3cEZHOHJhS2FUNV9aSEZ4c21hT0d4a1JycFN4VkF1Mk9VMy1xZnpIOUVlVjE1R1NWZU50M0xKVDdaVmNtV2R1bGtyRDRwR1NkWk1WWHNRVE9KNTBhcmN2cmplSW9kbG9tNGJxc1FsbFdSbHJTa2ZTX0U3elJlMTdsSS1ZTkhSRmhRTk9NY29kUDVZVl9QWV9pUnhZLWdKVGRjaXBSOGV4SlVyYjVBM0dBaXNGWkZ2XzUxTjFPdzQ4ejQ",
-  "CBMitwFBVV95cUxPZ1Zsc2lob0pqTjZQV2hSLVFPanZTOWpRSzA5Ylh2ak9zSmFHanRnQndTZ2EyMzVLTlNDbUE3dHA5RmVSUmJ3RUlBUXJXclgwY0IxaVBrS3BJbF83ZzYwa0pQNGR2THpVb0pEb2V3bzg3dm1KLXhNU3J6RFQ3dVFJZ0xCR2NtaFlPLVhkYmtPM2dGOVlCVkR4R1NyZ05hYWhTdGVtemRUU0ZuN2RFY3lXWnhsbzduTUE",
-  "https://thehill.com/?p=6021261",
   "https://thehill.com/?p=6021244",
   "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles",
   "CBMinwFBVV95cUxQZUEzSDdKQmM1cmFtSUpxRGRqTVdWelRGT2NHVUNDZV9JaExndU1UNXdocmxpMXVRRVNUYmtLSlhpdXlTLU9xZEphcEo1eUM2a09Zbk9LYlZwQmltM1l2MkVzWFU3Y3J2WDdJdGx0YmROcjM3MTJRUzJndi1QZ2ppdDRuUmJCTHFOMFJTQl9JOTdvVlgxb3B5WWVseUhOWm8",
@@ -799,33 +795,13 @@
   "CBMiigFBVV95cUxOWGRqel83RlFSMXE5MU9JRGl3R2M0NWFROUdWNUVubzlCSG1sTmtTcTFwb29SdDBxQ1dxQTBycHpyRV9LU0FET25rX3BKUXdhdnVWWmNWcm9ZZ3R6RlRCaEptcEZXTGN4bWxvcko0djFGa1g0eFB0Xzc2T2w5SkMwRkhMN25FV1VPNHc",
   "https://thehill.com/?p=6035465",
   "https://thehill.com/?p=6035849",
-  "https://www.bbc.co.uk/news/articles/cdx755dyy1yo#0"
+  "https://www.bbc.co.uk/news/articles/cdx755dyy1yo#0",
+  "https://thehill.com/?p=6036131",
+  "https://pagesix.com/?post_type=article&p=9118652",
+  "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
+  "CBMijwFBVV95cUxQQUt5VVdqZlhXUEdrUTlGVnpOUnoyOFNfS3FobU5fRFZpb2JFQmQwNTg2bm1TczVXYUlBQm9WNGNnVGxKWEpQcUdwNzk2anpWNW1VaWo4VktiVUVNRjVRYURmZ0U0RV9HY0FpdnFqYnRqNjItdDR3RktId3F4d3ZPZk80SjB3QkcxaTVKS2tJbw"
  ],
  "posts": [
-  {
-   "fp": "assassinate desperate donald iran trump",
-   "title": "Why Iran is so desperate to assassinate Donald Trump",
-   "source": "Washington Examiner",
-   "at": "2026-08-14T17:33:43.993206+00:00"
-  },
-  {
-   "fp": "admits brian charges federal guilty healthcare live luigi mangione pleads shooting thompson",
-   "title": "Luigi Mangione admits shooting healthcare CEO Brian Thompson and pleads guilty on federal charges \u2013 live",
-   "source": "Guardian World",
-   "at": "2026-08-14T17:33:45.751318+00:00"
-  },
-  {
-   "fp": "acknowledges challenges derailment exceptional extreme heat hours national rail second train",
-   "title": "National Rail acknowledges \u2018exceptional challenges\u2019 of extreme heat after second train derailment in 24 hours",
-   "source": "Guardian World",
-   "at": "2026-08-14T17:33:47.554224+00:00"
-  },
-  {
-   "fp": "climate people stourbridge town wildfires",
-   "title": "\u2018It\u2019s due to climate\u2019: the people of Stourbridge on the town\u2019s wildfires",
-   "source": "Guardian World",
-   "at": "2026-08-14T17:33:49.394448+00:00"
-  },
   {
    "fp": "army crash fort helicopter hood identifies killed pilots",
    "title": "Army identifies 2 Fort Hood helicopter pilots killed in crash",
@@ -3201,13 +3177,33 @@
    "title": "Earthquake rocks Spain's historic Granada, injuring three",
    "source": "BBC World",
    "at": "2026-08-18T19:09:29.366948+00:00"
+  },
+  {
+   "fp": "assassination attempt bessent convicted gets individual prison years",
+   "title": "Individual convicted in Bessent assassination attempt gets more than 6 years in prison",
+   "source": "The Hill",
+   "at": "2026-08-18T19:42:20.485566+00:00"
+  },
+  {
+   "fp": "beard bowl cancellation dead drummer frank hollywood weeks",
+   "title": "ZZ Top drummer Frank Beard dead at 77, weeks after Hollywood Bowl cancellation",
+   "source": "New York Post",
+   "at": "2026-08-18T19:42:22.294502+00:00"
+  },
+  {
+   "fp": "aftermath describes former latest murder officer security shakur shooting trial tupac updates witnessing",
+   "title": "Tupac Shakur murder trial: former security officer describes witnessing aftermath of shooting \u2013 latest updates",
+   "source": "Guardian World",
+   "at": "2026-08-18T19:42:24.391436+00:00"
+  },
+  {
+   "fp": "health kill opinion plans private sanders sayed",
+   "title": "Opinion | If El-Sayed and Sanders Kill Private Health Plans",
+   "source": "WSJ",
+   "at": "2026-08-18T19:42:26.149268+00:00"
   }
  ],
  "titles": [
-  "assassinate desperate donald iran trump",
-  "admits brian charges federal guilty healthcare live luigi mangione pleads shooting thompson",
-  "acknowledges challenges derailment exceptional extreme heat hours national rail second train",
-  "climate people stourbridge town wildfires",
   "army crash fort helicopter hood identifies killed pilots",
   "aircraft crash killed light north people wales",
   "amendment backward gets kill right second story times york",
@@ -3603,6 +3599,10 @@
   "congress funds left people programs work zombie",
   "attacks drummond fake fiery gubernatorial oklahoma republican runoff trump",
   "agent extradition force involved minnesota shooting sues texas",
-  "earthquake granada historic injuring rocks spain three"
+  "earthquake granada historic injuring rocks spain three",
+  "assassination attempt bessent convicted gets individual prison years",
+  "beard bowl cancellation dead drummer frank hollywood weeks",
+  "aftermath describes former latest murder officer security shakur shooting trial tupac updates witnessing",
+  "health kill opinion plans private sanders sayed"
  ]
 }
