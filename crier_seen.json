@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
   "https://www.bbc.co.uk/news/articles/cx2lwv032j9o#0",
   "https://nypost.com/?post_type=article&p=40269673",
   "CBMilgFBVV95cUxQaVltbXNubGJtSVJqU0REZENGWGhwWTkxSkNPeGhsYm8wZmJuekJQMDhaWEF6clFNXzZ6QWZFOHNqRXdHT0kyRXdXU05XZElVT19Pa0xuRjBVb1B3TUlrbURzT3lFaXRiSS1fam15NTAycUItZlZFVGloV01tNVhyLUpwQzRPSHZKRXZyRjJENXZCcXNQbHc",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/australia-news/2026/aug/18/controversial-ndis-bill-undergoes-substantial-amendments-as-labor-and-coalition-strike-deal",
   "https://thehill.com/?p=6033539",
   "CBMiogFBVV95cUxNNUZ3Zk00T1BxUUpTRWhoc3BKS2RJVDhwSHNhX3FjOEJlUEY3M1RlUXd3aEE1NkM0ODdmeXFFeVc2MXliMEJSSm4wblhNVEpDUDhRenN3c2JfekFtWllIUWF4WDAtNEpYSnRoYTRNazFUSWNMUHBkM1pJRFdHbWpZQ0Z6aU9hWEhENUhmREdxem43ODFBeWpMZ3EyRDZHWWJhaVE",
-  "CBMiugFBVV95cUxNSXRwVXVsUFg3UG1sQ2Q2VTNuanNPcENxQ0poV3RKOWV1d3NFMXVRUW4ybERhTWJINU9ydDZNLVp1SWloT0Job0Q3X2NKN1YzS1RRWnBGeGNYX0pHMjcwT29nSFpPbHhqRGFFOEl0VW54aGdQVlhmS1NnLU0wMUZZSnplbVRuZ0ROQmtOMkZha0ZVREM2ODQzTWh1eUdDU050MDVuU1VtSEFhVjE0d0ZaSGdoOERZd2xoUUE"
+  "CBMiugFBVV95cUxNSXRwVXVsUFg3UG1sQ2Q2VTNuanNPcENxQ0poV3RKOWV1d3NFMXVRUW4ybERhTWJINU9ydDZNLVp1SWloT0Job0Q3X2NKN1YzS1RRWnBGeGNYX0pHMjcwT29nSFpPbHhqRGFFOEl0VW54aGdQVlhmS1NnLU0wMUZZSnplbVRuZ0ROQmtOMkZha0ZVREM2ODQzTWh1eUdDU050MDVuU1VtSEFhVjE0d0ZaSGdoOERZd2xoUUE",
+  "https://nypost.com/?post_type=article&p=40388161"
  ],
  "posts": [
-  {
-   "fp": "battle continent countries european grips heat multiple record wildfires",
-   "title": "European countries battle multiple wildfires as record heat grips the continent",
-   "source": "AP",
-   "at": "2026-08-14T11:59:11.344089+00:00"
-  },
   {
    "fp": "crashes front grandfather great jeep killed national park rock roof through wife",
    "title": "Great-grandfather killed in front of wife after rock crashes through Jeep roof in national park",
@@ -3201,10 +3195,15 @@
    "title": "Russian missile attack kills 10 in northeast Ukraine, Zelenskiy vows response",
    "source": "Reuters",
    "at": "2026-08-18T13:26:25.968016+00:00"
+  },
+  {
+   "fp": "allegedly bolt breaking humanity limits outruns robot superman uncanny usain video",
+   "title": "\u2018Superman\u2019 robot allegedly outruns Usain Bolt in uncanny video: \u2018Breaking the limits of humanity\u2019",
+   "source": "New York Post",
+   "at": "2026-08-18T14:09:51.103168+00:00"
   }
  ],
  "titles": [
-  "battle continent countries european grips heat multiple record wildfires",
   "crashes front grandfather great jeep killed national park rock roof through wife",
   "across hospital midlands nineteen rage west wildfires",
   "black ceasefire dismisses idea russia",
@@ -3603,6 +3602,7 @@
   "amendments bill coalition controversial deal labor ndis passes senate strike substantial",
   "fight florida mills primary test trump",
   "killed prison release romanian second victim",
-  "attack kills missile northeast response russian ukraine vows zelenskiy"
+  "attack kills missile northeast response russian ukraine vows zelenskiy",
+  "allegedly bolt breaking humanity limits outruns robot superman uncanny usain video"
  ]
 }
