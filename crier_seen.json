@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180",
-  "CBMilwFBVV95cUxQT05yMERoZXIxSzBEaGNETmVsYktrZmRwWk1nVEE1azdkbDFjMWhra01lR2dtcWpWakpCOVY1RDAtTzBwa1lJWVdBTHA0TG1waUJzeDFpMWc1ZlU5YU0zZUZPc2NiTFlIcWJ6TXJHTmt3cC1WRTdObzBwdWt5OGpXUzBHbjVRajlNUUVVejVKYXNoeEZNd2hv",
-  "https://www.bbc.co.uk/news/articles/czxerlglgw5o#2",
   "CBMikwFBVV95cUxPUzNJZUtGM1RTbWZEeDl5LXJmdUl4c0tUNlZSVVBscURzYVh4MzBQcWxlUjZsdk1zUXhrRVlidURKck5Uc3I4RmotX1RfN1dCbDMyeEJORk02c2RYeXVvTlY1MDZYTjloZHFCZ3luTWN2cUFGOFZTZE8tRllvNWNEMjNCZGlER01RcjZjQTVKMU9SRmM",
   "CBMimgFBVV95cUxNeEM3QmhiZUJMRmVreUlnYnhzbm42LUpQT202SUlwY2kyQ1lYaXpHYWR5R3VfdW9EcWp6SEI3RlhPb3gzNldGWm44LXJPVy1kWExPX0g3RWxRQTNVNGRDZzBQdEhzc1JMTUNvV2pWempDVzJTMWJWNHYtUFNKY2JSVi1SYlFNTFViMkZGWS1uSmJ5aUdBQUl0V1l3",
   "https://www.washingtonexaminer.com/?p=4683476",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40409330",
   "https://nypost.com/?post_type=article&p=40414124",
   "CBMingFBVV95cUxOOUg2UXlJMzl5dDYzXzhFSUN1SU9Hc1NfRmxTVjlGUHY2VE5qc2YwSGZsM0RYcHEzNU43bXBjSHZqWWZ2QngxSjdzNXR1V3dzOFlCazU5aXdZT0s0N1BQWko0alRaYWF1RWV5WUh0ZXFndHB3V2x3V05oQmd2OE9Ea0ZiREUxQzA2ZlFxSUV2aDJYMktwMGtFaDdPM29qQQ",
-  "https://www.foxnews.com/world/5-americans-killed-helicopter-crash-kenya-including-telemundo-executive"
+  "https://www.foxnews.com/world/5-americans-killed-helicopter-crash-kenya-including-telemundo-executive",
+  "CBMiuAFBVV95cUxOQ1Zxdm1rckV4MGpjNEsycF9zT0lrcDR1OUtSMmttLUJ0WHNwaTFsMVQyRkVaaDRHMnZjNkhvVEY5RVE0XzhZTmhjRXBGd256UVZ5TTR3S2ZNaS1nWDVwVnFsUTc4eFVYTVdIUS1jZXVMckpnQXV6QXNPVTRGYmNsbXpPbTl3b0Jhc1ZtT1pkVXpac19TUWpXR1dXeVR6SGhoa2xkMkFpa0hLV2RBSmZZeFFxYnB1cTJI",
+  "https://nypost.com/?post_type=article&p=40415012",
+  "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash"
  ],
  "posts": [
-  {
-   "fp": "alaska challenge face race republicans senate unexpected",
-   "title": "Republicans face unexpected challenge in Alaska Senate race",
-   "source": "The Hill",
-   "at": "2026-08-15T21:20:24.414612+00:00"
-  },
-  {
-   "fp": "50bn cuts plan reform unveils welfare year",
-   "title": "Reform unveils plan for \u00a350bn a year in welfare cuts",
-   "source": "Telegraph",
-   "at": "2026-08-15T21:20:26.118823+00:00"
-  },
-  {
-   "fp": "2028 approves carolina gives primary schedule south spot",
-   "title": "DNC approves 2028 primary schedule, gives South Carolina the first spot",
-   "source": "Washington Examiner",
-   "at": "2026-08-15T21:20:27.826042+00:00"
-  },
   {
    "fp": "2028 approval calendar carolina final gives primary south starting",
    "title": "DNC gives final approval of 2028 primary calendar starting in South Carolina",
@@ -3201,12 +3183,27 @@
    "title": "5 Americans killed in helicopter crash in Kenya, including Telemundo executive",
    "source": "Fox News World",
    "at": "2026-08-19T20:19:37.588147+00:00"
+  },
+  {
+   "fp": "admits criminal gaza hind israel killed opens probe rajab troops year",
+   "title": "Israel admits its troops killed 5-year-old Hind Rajab in Gaza, opens criminal probe",
+   "source": "Reuters",
+   "at": "2026-08-19T20:48:55.142829+00:00"
+  },
+  {
+   "fp": "alameda bans collapse crypto ellison execs slap trading wang wrist",
+   "title": "Ex-FTX, Alameda execs Ellison, Wang get slap-on-the-wrist trading bans after crypto collapse",
+   "source": "New York Post",
+   "at": "2026-08-19T20:48:57.065764+00:00"
+  },
+  {
+   "fp": "americans crash five helicopter kenya killed safari seven",
+   "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+   "source": "Guardian World",
+   "at": "2026-08-19T20:48:58.740584+00:00"
   }
  ],
  "titles": [
-  "alaska challenge face race republicans senate unexpected",
-  "50bn cuts plan reform unveils welfare year",
-  "2028 approves carolina gives primary schedule south spot",
   "2028 approval calendar carolina final gives primary south starting",
   "bodies colombia days fade hopes powerful quake recovered",
   "breaking news today world",
@@ -3603,6 +3600,9 @@
   "calls emergency glitch hours nearly silenced system",
   "cancer college emergency face half move rare remove student surgery unable",
   "crashes helicopter journalist kenya killed northern part remote safari",
-  "americans crash executive helicopter including kenya killed telemundo"
+  "americans crash executive helicopter including kenya killed telemundo",
+  "admits criminal gaza hind israel killed opens probe rajab troops year",
+  "alameda bans collapse crypto ellison execs slap trading wang wrist",
+  "americans crash five helicopter kenya killed safari seven"
  ]
 }
