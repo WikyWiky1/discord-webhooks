@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40284382",
-  "https://www.theguardian.com/us-news/2026/aug/11/florida-alligator-rescue-paddleboarder",
   "https://www.foxnews.com/world/more-than-3000-missing-colombia-earthquake-trump-administration-provides-15-5-million-relief",
   "https://www.washingtonexaminer.com/?p=4682977",
   "https://thehill.com/?p=6022913",
@@ -799,21 +797,11 @@
   "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo#1",
   "https://www.theguardian.com/australia-news/2026/aug/20/roblox-esafety-commissioner-children-adults-ntwnfb",
   "CBMisAFBVV95cUxPRTk3NVU2azE5bE52RjBLSHlDdTdrQmM5QXUxSjZ6dVFrMTd5MUFoVUQ4c3ViYVBTbWhfSERUSl9CVEpXSmVzZ0puV1BmUkk0QXpCN3VKQy15dVVlOG9XVmFSeUdGLWktVUgxc0hudWFOTnJ2MXI3aFFqSi1yXzVxNk1GdmlPbzQ3NmNnVnpJNk5hb015VTdfdl9DS0Myejl5bWJqMGRBZm5ITURFc25iYw",
-  "https://www.washingtonexaminer.com/?p=4692626"
+  "https://www.washingtonexaminer.com/?p=4692626",
+  "https://www.washingtonexaminer.com/?p=4692605",
+  "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#0"
  ],
  "posts": [
-  {
-   "fp": "israeli kills lebanon news reports seven south state strike",
-   "title": "Israeli strike kills seven in south Lebanon, state news reports\u200b",
-   "source": "Reuters",
-   "at": "2026-08-15T15:53:18.863085+00:00"
-  },
-  {
-   "fp": "massive outbreak recall salmonella south west",
-   "title": "Massive egg recall in US south and south-west due to salmonella outbreak",
-   "source": "Guardian World",
-   "at": "2026-08-15T16:15:53.464981+00:00"
-  },
   {
    "fp": "alarm alarmed alert message people phones react severe wildfires",
    "title": "Alarmed by the alarm: people react to \u2018severe alert\u2019 on phones with message on UK wildfires",
@@ -3201,11 +3189,21 @@
    "title": "Moderna stock prices double on claimed mRNA cancer vaccine breakthrough",
    "source": "Washington Examiner",
    "at": "2026-08-19T15:30:51.220481+00:00"
+  },
+  {
+   "fp": "arab attack emirates iran latest suspends trade united",
+   "title": "United Arab Emirates suspends trade with Iran after latest attack",
+   "source": "Washington Examiner",
+   "at": "2026-08-19T16:00:34.238136+00:00"
+  },
+  {
+   "fp": "confirms criminal fired hind investigation israel killed opens rajab soldiers",
+   "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+   "source": "BBC World",
+   "at": "2026-08-19T16:00:35.968330+00:00"
   }
  ],
  "titles": [
-  "israeli kills lebanon news reports seven south state strike",
-  "massive outbreak recall salmonella south west",
   "alarm alarmed alert message people phones react severe wildfires",
   "called despite family hero maniac michigan police several shooting shot spree survivor times",
   "billboard dead depicts hormuz iranian shore soldier strait",
@@ -3603,6 +3601,8 @@
   "boost giant receives refunds retail target tariff",
   "adults children commits contact discovers esafety gaming overhaul platform privacy roblox",
   "cancer double moderna mrna shares success vaccine",
-  "breakthrough cancer claimed double moderna mrna prices stock vaccine"
+  "breakthrough cancer claimed double moderna mrna prices stock vaccine",
+  "arab attack emirates iran latest suspends trade united",
+  "confirms criminal fired hind investigation israel killed opens rajab soldiers"
  ]
 }
