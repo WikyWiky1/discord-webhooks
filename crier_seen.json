@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMitwFBVV95cUxNVzNENElkRmF2N0xQRTJpTl9qTVpLQm4xV18zbldhdkRlUDh1Y21iZlgyS2NSMjJZOXlQOERyUzJMVTI2YUhXbVhkU3RPa3o1WVRJbzJoOWFUQnd1eldBVDZlV1JxT1ExZ2tyWnhnZ1ZmcTducDNudHNCVFNOalRoRnFVeVFqTmpDbXF6MjV2QTdlazhYZU1WbG1HUTVqOFZLUVh4M2NxbkF1TkJwZ1hmZG44eTJIYTQ",
-  "CBMiqgFBVV95cUxPVTFBYUhnR1J1V2dhNDdXeV9PTXFQVG5kMTE0cGh0QVIycTN2Vm5NV1hHQWZCOGlteFBuY1MzTXhWOG1xSkVXLXdVek5TWGZqR3dmT0Y2NjBkanJ5MVZmbl9POTYyellOdnNpMUhQYW5YS1lnTWdhQ096WVlzTVRxNGkxakNtVjI0SkZEb2xiRUdPMG9aZno2M25NQ3c2VmEzd194LUN1aFZ3QQ",
   "CBMiwAFBVV95cUxQUjUzQUFrRWRhZ25VTFFGTXBKQmhmSEUzVndvRzZPdEVPY1FrQnRhTkFiTGtOQW0yYU42R1N5VjRfNXI4cUM5emNSVUxvNFJYYkFWcklRdzZRTjRPeGREV3FsU2diTXFIaEFsX1FPUUNWaV84amNqcl9vVEcxY040RmRIMExfNjdUZHN6Vm5BRkhSVFphN0tCdnJGb3pnUGt4SU8wV1A4cXRqaFRjTWhIaGxnM19ldjlMMWs3R1NJeXQ",
   "https://nypost.com/?post_type=article&p=40282304",
   "https://nypost.com/?post_type=article&p=40275631",
@@ -799,21 +797,11 @@
   "https://thehill.com/?p=6021111",
   "https://thehill.com/?p=6024512",
   "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
-  "https://www.washingtonexaminer.com/?p=4691058"
+  "https://www.washingtonexaminer.com/?p=4691058",
+  "https://nypost.com/?post_type=article&p=40402621",
+  "https://nypost.com/?post_type=article&p=40402867"
  ],
  "posts": [
-  {
-   "fp": "arday cambridge claims dead found jason plagiarism resigning",
-   "title": "Jason Arday found dead after resigning from Cambridge over plagiarism claims",
-   "source": "Guardian World",
-   "at": "2026-08-14T20:47:24.482624+00:00"
-  },
-  {
-   "fp": "bear bill california grizzly kill lawmakers reintroduction",
-   "title": "California lawmakers kill grizzly bear reintroduction bill",
-   "source": "AP",
-   "at": "2026-08-14T20:47:26.246165+00:00"
-  },
   {
    "fp": "attack crime dems deploys drop line rate record report showing trump unveils violent",
    "title": "Trump unveils FBI crime report showing violent crime drop at \u2018record\u2019 rate \u2014 deploys new attack line on Dems",
@@ -3201,11 +3189,21 @@
    "title": "Randy Fine defeats Dan Bilzerian in primary marked by antisemitism",
    "source": "Washington Examiner",
    "at": "2026-08-19T01:12:42.475230+00:00"
+  },
+  {
+   "fp": "california confront courtroom grieving killed meta outside parents",
+   "title": "Grieving parents confront Meta outside California courtroom: \u2018My son was killed\u2019",
+   "source": "New York Post",
+   "at": "2026-08-19T02:32:43.883690+00:00"
+  },
+  {
+   "fp": "congo deaths ebola fatal government history nation outbreak rapid",
+   "title": "Congo\u2019s rapid Ebola outbreak is now most fatal in nation\u2019s history with over 2,300 deaths, government says",
+   "source": "New York Post",
+   "at": "2026-08-19T02:32:45.526686+00:00"
   }
  ],
  "titles": [
-  "arday cambridge claims dead found jason plagiarism resigning",
-  "bear bill california grizzly kill lawmakers reintroduction",
   "attack crime dems deploys drop line rate record report showing trump unveils violent",
   "bike court free lanes ontario region rules toronto",
   "ahead cory desantis endorse mills primary refuses tight",
@@ -3603,6 +3601,8 @@
   "democratic florida gilbert house open primary seat wilson wins",
   "ally dunn florida house open primary scott seat wins",
   "angie clinches democratic florida nixon primary race senate socialist surprise",
-  "antisemitism bilzerian defeats fine marked primary randy"
+  "antisemitism bilzerian defeats fine marked primary randy",
+  "california confront courtroom grieving killed meta outside parents",
+  "congo deaths ebola fatal government history nation outbreak rapid"
  ]
 }
