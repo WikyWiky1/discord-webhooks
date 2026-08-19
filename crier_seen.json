@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.foxnews.com/world/more-than-3000-missing-colombia-earthquake-trump-administration-provides-15-5-million-relief",
   "https://www.washingtonexaminer.com/?p=4682977",
   "https://thehill.com/?p=6022913",
   "CBMilgFBVV95cUxOczVqMTVzakY3aDFBNERBZ2dPaHEzX2wxVUNrRG0yZjhQelN1eDAxV1ZHUHhwYmNiQkpVT1hMSGRaYm8wcDNqTU01RXc2TDBNaVJlYXByMFc2dDUtS2xyTWRMc1VlZVdvU3cya0d0NXcyMkd3Y1VUYjZyWUtRazhQS0pILXhQbk4wemd1aUg2WWEwdTczV0E",
@@ -799,15 +798,10 @@
   "CBMisAFBVV95cUxPRTk3NVU2azE5bE52RjBLSHlDdTdrQmM5QXUxSjZ6dVFrMTd5MUFoVUQ4c3ViYVBTbWhfSERUSl9CVEpXSmVzZ0puV1BmUkk0QXpCN3VKQy15dVVlOG9XVmFSeUdGLWktVUgxc0hudWFOTnJ2MXI3aFFqSi1yXzVxNk1GdmlPbzQ3NmNnVnpJNk5hb015VTdfdl9DS0Myejl5bWJqMGRBZm5ITURFc25iYw",
   "https://www.washingtonexaminer.com/?p=4692626",
   "https://www.washingtonexaminer.com/?p=4692605",
-  "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#0"
+  "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#0",
+  "https://nypost.com/?post_type=article&p=40408936"
  ],
  "posts": [
-  {
-   "fp": "alarm alarmed alert message people phones react severe wildfires",
-   "title": "Alarmed by the alarm: people react to \u2018severe alert\u2019 on phones with message on UK wildfires",
-   "source": "Guardian World",
-   "at": "2026-08-15T16:15:55.218914+00:00"
-  },
   {
    "fp": "called despite family hero maniac michigan police several shooting shot spree survivor times",
    "title": "Hero survivor, 13, of Michigan maniac\u2019s shooting spree called 911 despite being shot several times: police, family",
@@ -3201,10 +3195,15 @@
    "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
    "source": "BBC World",
    "at": "2026-08-19T16:00:35.968330+00:00"
+  },
+  {
+   "fp": "coach collapsing competition dies endurance fitness high hyrox intensity",
+   "title": "Fitness coach dies after collapsing during high-intensity endurance HYROX competition",
+   "source": "New York Post",
+   "at": "2026-08-19T16:48:30.150939+00:00"
   }
  ],
  "titles": [
-  "alarm alarmed alert message people phones react severe wildfires",
   "called despite family hero maniac michigan police several shooting shot spree survivor times",
   "billboard dead depicts hormuz iranian shore soldier strait",
   "battle belgian firefighters nature reserve tearing through wildfire",
@@ -3603,6 +3602,7 @@
   "cancer double moderna mrna shares success vaccine",
   "breakthrough cancer claimed double moderna mrna prices stock vaccine",
   "arab attack emirates iran latest suspends trade united",
-  "confirms criminal fired hind investigation israel killed opens rajab soldiers"
+  "confirms criminal fired hind investigation israel killed opens rajab soldiers",
+  "coach collapsing competition dies endurance fitness high hyrox intensity"
  ]
 }
