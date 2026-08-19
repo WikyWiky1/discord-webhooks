@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4682677",
   "https://thehill.com/?p=6014896",
   "https://www.theguardian.com/us-news/2026/aug/11/south-carolina-senate-primary-runoff-darline-graham",
   "https://thehill.com/?p=6006760",
@@ -799,15 +798,10 @@
   "https://www.washingtonexaminer.com/?p=4693319",
   "CBMijwFBVV95cUxORENrZXVLUC1CR0duTURjeUJQWUJUVVprWnU4dlJVNUJQY3lMN1YtdXBucGtlRUNhNHFsX1dtZmJSdDY5bWltSXh1UGprSjc1RGpCdGFxM0x0bHo0Uk5oZW9OVzB3UlJ0d2tvRFdPRnJ1WmFHWEI0SFg5SUlzUDVIOXNocTh3S196Nm1TMFh2RQ",
   "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
-  "CBMickFVX3lxTE5NWnJaUkRsLWtHUjNMcjVuWklJcWd5bDRXQk94dlFfTlZLSmdSNTRqNkY4cXpSc3Frdm0tSENyWmVYWmdRRGNIbEp0VWJ2aVFWRVdkMm1qNUl5Umw5RlN3ZmRyV21wZEh0WkhmRjI2dkQ3UQ"
+  "CBMickFVX3lxTE5NWnJaUkRsLWtHUjNMcjVuWklJcWd5bDRXQk94dlFfTlZLSmdSNTRqNkY4cXpSc3Frdm0tSENyWmVYWmdRRGNIbEp0VWJ2aVFWRVdkMm1qNUl5Umw5RlN3ZmRyV21wZEh0WkhmRjI2dkQ3UQ",
+  "https://thehill.com/?p=6039742/"
  ],
  "posts": [
-  {
-   "fp": "black contributor journal michael street wall",
-   "title": "Michael Ian Black \u2014 Contributor at The Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-08-16T01:16:45.622890+00:00"
-  },
   {
    "fp": "avatar disneyland dropping land look massive unveils",
    "title": "Disneyland unveils jaw-dropping first look at massive new Avatar land",
@@ -3201,10 +3195,15 @@
    "title": "Kenya Helicopter Crash Leaves 7 Dead, Including 5 Americans",
    "source": "WSJ",
    "at": "2026-08-19T21:44:41.277627+00:00"
+  },
+  {
+   "fp": "crash cycling dead involving leaves team tennessee university",
+   "title": "Crash involving Tennessee university's cycling team leaves 2 dead",
+   "source": "The Hill",
+   "at": "2026-08-19T22:17:06.906171+00:00"
   }
  ],
  "titles": [
-  "black contributor journal michael street wall",
   "avatar disneyland dropping land look massive unveils",
   "california launch mission secret spacex",
   "battles concerns conditions democrats lincoln november preview primary races raise shows stage sunday tight",
@@ -3603,6 +3602,7 @@
   "abdul latest michigan mike outperforms poll rogers sayed senate",
   "canada deal remain terms trade trump unclear",
   "australian clear condemns decision frankcom gaza insulting killed penny strikes wong worker zomi",
-  "americans crash dead helicopter including kenya leaves"
+  "americans crash dead helicopter including kenya leaves",
+  "crash cycling dead involving leaves team tennessee university"
  ]
 }
