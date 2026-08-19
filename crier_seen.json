@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4681976",
-  "https://nypost.com/?post_type=article&p=40284555",
-  "https://nypost.com/?post_type=article&p=40283763",
   "https://www.theguardian.com/us-news/2026/aug/11/human-rights-groups-trump-lawsuit-icc-sanctions",
   "CBMitgFBVV95cUxOU3dlWVJ6OFQ1cWYtQWRtdk5Mbk4waXkzWVhLNEFrNkZWbXpMc3NXazZSZ2xiUVZPN2NZbnpNNjRtOVp1TFJqX0hhV2xJNkNVRUhrQktLalJ0aGlURVR0Y1Z0NGhSUVh2eTNrSzF3c0VvSjNRZkUzamxzSlc5NnVpU2h3Q01SOGpJOTdzbVhoeXJHcnpUWGZ0QnZsaVhwdWtsWlpqaUxMcEQyTVBLTWJJYTFxTUZjZw",
   "CBMivAFBVV95cUxPUXM4c0FCQ01mNlZ0S2RJNVZWdnBiNHFSYjRnWFFEZ0VYR3U2WWw2bjFkdWwybkEwZDJjeTI1aE9rQ1ZRTUVrVWFuN1FaYXdBSUllVVZZeWlmUEVBd0FIbHM4TElBd3FKUnlpalJSR2NxaVBidjJ6VFN6dXNUZmlKQWhMREZvZnVheEk3VDRrTXNyOVhCT3pCQndxZEFkeXdrVUVVeTBpWkt3TGVLaTMzVFhnWW51UVp6Rnd3YQ",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6035935",
   "CBMimwFBVV95cUxNUDB0TnQtVUhnLUNZTnlhYXBMcTRxNmZUVVY3UkN6SzIwT2NyenVXMVdyLXBvN2w0Ry1EMV83Y1pKZ2R5ZTBjNmtRLUw1OWRRQnFhTGNtOFh3ZU4wd2lPcFgxOFl0N2Z2OGVWOW9xZG45WGh5YXFEVkdObkRuUmlqb1VHSjQtamdDQmZHVkM1bGljbjJoakhxWG9nWQ",
   "https://news.sky.com/story/track-irregularity-found-at-site-of-lewes-train-derailment-report-says-13574704",
-  "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o#1"
+  "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o#1",
+  "https://www.theguardian.com/environment/2026/aug/19/water-reuse-recycling-law-cambridgeshire",
+  "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
+  "https://www.theguardian.com/uk-news/2026/aug/19/lewes-derailment-network-rail-gtr-images-track-defect-before-incident"
  ],
  "posts": [
-  {
-   "fp": "battery biggest expansion gigafactory jaguar land rover shelves stall talks",
-   "title": "UK\u2019s biggest EV battery gigafactory shelves expansion as Jaguar Land Rover talks stall",
-   "source": "Guardian World",
-   "at": "2026-08-15T12:36:24.819898+00:00"
-  },
-  {
-   "fp": "adam cast driver inde navarrette part showcase star studded unveils",
-   "title": "\u2018X-Men\u2019 unveils Inde Navarrette, Adam Driver as part of star-studded cast at D23 Showcase",
-   "source": "New York Post",
-   "at": "2026-08-15T12:36:26.555333+00:00"
-  },
-  {
-   "fp": "accused boat days dead death designer found fraud harassed montauk owner reveal texts yacht",
-   "title": "NYC designer found dead on Montauk yacht \u2018harassed\u2019 and accused of fraud by boat owner days before death, texts reveal",
-   "source": "New York Post",
-   "at": "2026-08-15T13:12:47.165270+00:00"
-  },
   {
    "fp": "control domestic fight gunman killed maniac spins texas woman",
    "title": "Texas woman killed by maniac gunman after domestic fight spins out of control",
@@ -3201,12 +3183,27 @@
    "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
    "source": "BBC World",
    "at": "2026-08-19T13:27:51.235600+00:00"
+  },
+  {
+   "fp": "calls cannot change largest reuse switched system urgent water",
+   "title": "Calls for urgent law change as UK\u2019s largest water reuse system cannot be switched on",
+   "source": "Guardian World",
+   "at": "2026-08-19T14:09:34.385746+00:00"
+  },
+  {
+   "fp": "adviser allegedly american arrested girlfriend kill latin leaders plotting right",
+   "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
+   "source": "Guardian World",
+   "at": "2026-08-19T14:09:36.171881+00:00"
+  },
+  {
+   "fp": "defect derailment hottest images incident lewes show track",
+   "title": "Lewes derailment: images show track defect before incident on hottest day",
+   "source": "Guardian World",
+   "at": "2026-08-19T14:09:37.976200+00:00"
   }
  ],
  "titles": [
-  "battery biggest expansion gigafactory jaguar land rover shelves stall talks",
-  "adam cast driver inde navarrette part showcase star studded unveils",
-  "accused boat days dead death designer found fraud harassed montauk owner reveal texts yacht",
   "control domestic fight gunman killed maniac spins texas woman",
   "injured multiple people shooting state university virginia",
   "fatal here know nearly shakur shooting trial tupac years",
@@ -3603,6 +3600,9 @@
   "bill dead espn founder rasmussen",
   "enemies kill problem real using",
   "derailment found irregularity site track train",
-  "between brazil collision head kills lorry"
+  "between brazil collision head kills lorry",
+  "calls cannot change largest reuse switched system urgent water",
+  "adviser allegedly american arrested girlfriend kill latin leaders plotting right",
+  "defect derailment hottest images incident lewes show track"
  ]
 }
