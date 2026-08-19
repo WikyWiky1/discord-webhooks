@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister",
   "https://nypost.com/?post_type=article&p=40298468",
   "https://www.washingtonexaminer.com/?p=4683876",
   "https://www.theguardian.com/australia-news/2026/aug/12/bondi-shooting-hero-ahmed-al-ahmed-assault-charges-dropped-ntwnfb",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6039742/",
   "https://nypost.com/?post_type=article&p=40419821",
   "https://nypost.com/?post_type=article&p=40416622",
-  "https://nypost.com/?post_type=article&p=40416599"
+  "https://nypost.com/?post_type=article&p=40416599",
+  "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation"
  ],
  "posts": [
-  {
-   "fp": "bound cancels chaos flights hawaii hurricane travel",
-   "title": "Travel chaos at LAX as hurricane cancels Hawaii-bound flights",
-   "source": "New York Post",
-   "at": "2026-08-16T02:18:14.973746+00:00"
-  },
   {
    "fp": "attack fires injures kyiv missile officials russian sparks ukraine",
    "title": "Russian missile attack on Kyiv sparks fires, injures one, Ukraine officials say",
@@ -3201,10 +3195,15 @@
    "title": "Teen accused of butchering beloved artist in mall attack that shocked quiet California beach town enters stunning plea",
    "source": "New York Post",
    "at": "2026-08-19T23:16:29.639481+00:00"
+  },
+  {
+   "fp": "california home landscaping passes rules toughest wildfire",
+   "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
+   "source": "NPR News",
+   "at": "2026-08-19T23:40:48.273858+00:00"
   }
  ],
  "titles": [
-  "bound cancels chaos flights hawaii hurricane travel",
   "attack fires injures kyiv missile officials russian sparks ukraine",
   "indonesia kills landslides quake rescuers rubble through",
   "ceasefire deadliest israel june kills lebanon since strikes",
@@ -3603,6 +3602,7 @@
   "crash cycling dead involving leaves team tennessee university",
   "blueberry coli deadly fears highest hits hospitalized level recall risk sickened",
   "barely bullseyes individuals kirk lives practice prosecutors putting risk robinson shooting tyler",
-  "accused artist attack beach beloved butchering california enters mall plea quiet shocked stunning teen town"
+  "accused artist attack beach beloved butchering california enters mall plea quiet shocked stunning teen town",
+  "california home landscaping passes rules toughest wildfire"
  ]
 }
