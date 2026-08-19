@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/ce8kr3yrl6eo#0",
   "https://nypost.com/?post_type=article&p=40282517",
   "https://www.theguardian.com/us-news/2026/aug/11/first-thing-colombia-earthquake",
   "CBMiqgFBVV95cUxOeVotMUdKMG1abkZ1TVBVLXZnck0tRnFMenNzM3pYblBwR0cyd1A2M0FQMnhkWWhPM3RBcjRHcDU1MjdwdDkxRTMzN2ZISVF5VDJyRXhjM28wZkdsdmF3N0w0SGU5cVA4UVkyTUxsS3R1bkFXMGJiaExtb0MzY1IzX0Zkbm5ZaXdxWlYyX1N5TnpaT3BNVERHaVFERlZUNHRBOEota204WlV4UQ",
@@ -799,7 +798,8 @@
   "https://thehill.com/?p=6036787",
   "https://thehill.com/?p=6028751",
   "CBMiYkFVX3lxTE1UQm9PUlE4Z0JEVzNIeEZWU2Zpa1c2OWdFR2lvRGdSbkhmZGJpQzJodWt4MFo1QVJrSnRKMnYxaU9ZRTVncHhmTmdLZjFBY2JoNk8yZGtUbnUwaThIMGpsZDVB",
-  "CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ"
+  "CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ",
+  "CBMikAFBVV95cUxQUEhHcVlsS1lXVzlZRHdqcnNiU1JTTndxWk9MeTFHQlY0U0FjdTE5Nm9jNkJQZFdxRVBBa18tN3F0ZjNUejk2S3RrckFWYjMza2xiamVIWnJDMG05czRwU0tIME56ZWNJMzBadGFVN2UtZkxWS1JPTndCd0JFdFYwX3h0a0VsZms1amdGaV85SGM"
  ],
  "posts": [
   {
@@ -3191,16 +3191,16 @@
    "at": "2026-08-19T06:41:59.038698+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-08-19T06:42:00.705922+00:00"
-  },
-  {
    "fp": "bond selloff sink slows stocks",
    "title": "Bond selloff slows but stocks sink",
    "source": "Reuters",
    "at": "2026-08-19T06:42:02.379964+00:00"
+  },
+  {
+   "fp": "bayern collapse game issue midfielder musiala neurological reveals time",
+   "title": "Bayern midfielder Musiala reveals 'neurological' issue after collapse during game for 2nd time",
+   "source": "AP",
+   "at": "2026-08-19T08:55:52.860610+00:00"
   }
  ],
  "titles": [
@@ -3602,7 +3602,7 @@
   "advance alaska november peltola primary senate setting showdown sullivan",
   "democratic florida notches primary senate socialist surprise takeaways",
   "alaska matchup peltola race senate sullivan",
-  "edition journal print street wall",
-  "bond selloff sink slows stocks"
+  "bond selloff sink slows stocks",
+  "bayern collapse game issue midfielder musiala neurological reveals time"
  ]
 }
