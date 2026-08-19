@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMitAFBVV95cUxOa21vNEFuZXR5RVAyVTRTUkxrVGp4TTdzajhNQWJUdlNyVVdjZUtvcTRGSEZYSHRIYTBZTjFNamU0X25yVnNOVVQ5TUFkOU1zTTFuX3NWZlNCbzNxWGJKMXJRY2FvSDRpaUhVWS1xZW1Tb25mUER4SVNzNklwRGJ1dXlLWUloLS1HbkxmOFlRUFNPTWFMaGx3LWhxZmRJX1dDMXVZWlVyelItdGllN0dQUTBxQWc",
   "CBMi0AFBVV95cUxPTFJGa2lhX0pGLXR2TUpwbHctR0VzM1R3anFTYkh5VjdJUTRsZnhiLXFSRDN6UGkyaV9MT2VmemRRMGtVZ1lJZFpoYVdLMUF0TUJzM0lvcDVCaDg2bWM1ekJGalhTaHN6c3pVcnZkSEc3T2FRc3RlSGMyUVQ3djJKWWtpdG05UFVIOWljeV90QXF2dGxiMEZSLV8tdEtsNTkzcVV2MjZVbUExcF9FSmp6SlNKbDl4Q3N6aTdvTndJeklzZGFGVUFLWW9JMGNWYmZm",
   "https://nypost.com/?post_type=article&p=40282559",
   "https://nypost.com/?post_type=article&p=40283201",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/us-news/live/2026/aug/19/mary-peltola-dan-sullivan-alaska-primary-election-us-senate-florida-california-wyoming--donald-trump-us-politics-latest",
   "https://nypost.com/?post_type=article&p=40404843",
   "https://www.theguardian.com/technology/2026/aug/19/unitree-shares-surge-humanoid-robot-firm-chinese-stock-market-debut",
-  "CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw"
+  "CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw",
+  "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak"
  ],
  "posts": [
-  {
-   "fp": "buildings coast earthquake indonesia killing least magnitude strikes toppling",
-   "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, toppling buildings and killing at least 2",
-   "source": "AP",
-   "at": "2026-08-15T02:37:06.671080+00:00"
-  },
   {
    "fp": "earthquake indonesia magnitude powerful strikes",
    "title": "Powerful 7.7-magnitude earthquake strikes Indonesia",
@@ -3201,10 +3195,15 @@
    "title": "Japan criticises U.S. over 'unfortunate' sanctions on ICC",
    "source": "Reuters",
    "at": "2026-08-19T09:33:28.769909+00:00"
+  },
+  {
+   "fp": "cases congo ebola efforts outbreak outpaces reaches response",
+   "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
+   "source": "NPR News",
+   "at": "2026-08-19T10:01:45.771489+00:00"
   }
  ],
  "titles": [
-  "buildings coast earthquake indonesia killing least magnitude strikes toppling",
   "earthquake indonesia magnitude powerful strikes",
   "ahead alaska democrat down harris kamala primary senate support turns",
   "anthony appear contempt declines fauci panel request second senate vote",
@@ -3603,6 +3602,7 @@
   "alaska democrat lead live mary peltola politics primary republican senate sullivan",
   "backed cheney congress higher kicked office reddest republican seeks state trump",
   "chinese debut firm humanoid market robot shares stock surge unitree",
-  "criticises japan sanctions unfortunate"
+  "criticises japan sanctions unfortunate",
+  "cases congo ebola efforts outbreak outpaces reaches response"
  ]
 }
