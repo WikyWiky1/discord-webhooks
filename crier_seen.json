@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4682977",
   "https://thehill.com/?p=6022913",
   "CBMilgFBVV95cUxOczVqMTVzakY3aDFBNERBZ2dPaHEzX2wxVUNrRG0yZjhQelN1eDAxV1ZHUHhwYmNiQkpVT1hMSGRaYm8wcDNqTU01RXc2TDBNaVJlYXByMFc2dDUtS2xyTWRMc1VlZVdvU3cya0d0NXcyMkd3Y1VUYjZyWUtRazhQS0pILXhQbk4wemd1aUg2WWEwdTczV0E",
   "CBMiqwFBVV95cUxPTE52c1ozbzI4ekd5U2t3a1ZLRUwzLXA1ZThEMDhRUnpzbzh1ZjhlaTR6Y3ZISmI2OEI1SnJDYnh0TnlMak1RX0FfQU1KdDBFT0RDMW1HdWxscUpBSGNGMFh5VEFqVVV5X2swTGVCbFNNcm9HQjVQbjJhd28tVXFMaEF2ZXNrVUgyZkxFV01peVJ4OW05TFcyV3ZUaEFFYVJYQTd3b0pabU5aQXc",
@@ -799,15 +798,10 @@
   "https://www.washingtonexaminer.com/?p=4692626",
   "https://www.washingtonexaminer.com/?p=4692605",
   "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#0",
-  "https://nypost.com/?post_type=article&p=40408936"
+  "https://nypost.com/?post_type=article&p=40408936",
+  "https://nypost.com/?post_type=article&p=40411310"
  ],
  "posts": [
-  {
-   "fp": "called despite family hero maniac michigan police several shooting shot spree survivor times",
-   "title": "Hero survivor, 13, of Michigan maniac\u2019s shooting spree called 911 despite being shot several times: police, family",
-   "source": "New York Post",
-   "at": "2026-08-15T17:36:53.805637+00:00"
-  },
   {
    "fp": "billboard dead depicts hormuz iranian shore soldier strait",
    "title": "New Iranian billboard depicts dead US soldier on shore of Strait of Hormuz",
@@ -3201,10 +3195,15 @@
    "title": "Fitness coach dies after collapsing during high-intensity endurance HYROX competition",
    "source": "New York Post",
    "at": "2026-08-19T16:48:30.150939+00:00"
+  },
+  {
+   "fp": "agency americans crash fiery four helicopter kenya killed luxury tour trip",
+   "title": "Four Americans killed in fiery Kenya helicopter crash during trip with luxury tour agency",
+   "source": "New York Post",
+   "at": "2026-08-19T17:20:39.249183+00:00"
   }
  ],
  "titles": [
-  "called despite family hero maniac michigan police several shooting shot spree survivor times",
   "billboard dead depicts hormuz iranian shore soldier strait",
   "battle belgian firefighters nature reserve tearing through wildfire",
   "beyond clearly eyes ossoff seat senate something",
@@ -3603,6 +3602,7 @@
   "breakthrough cancer claimed double moderna mrna prices stock vaccine",
   "arab attack emirates iran latest suspends trade united",
   "confirms criminal fired hind investigation israel killed opens rajab soldiers",
-  "coach collapsing competition dies endurance fitness high hyrox intensity"
+  "coach collapsing competition dies endurance fitness high hyrox intensity",
+  "agency americans crash fiery four helicopter kenya killed luxury tour trip"
  ]
 }
