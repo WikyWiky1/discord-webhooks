@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMiwAFBVV95cUxQUjUzQUFrRWRhZ25VTFFGTXBKQmhmSEUzVndvRzZPdEVPY1FrQnRhTkFiTGtOQW0yYU42R1N5VjRfNXI4cUM5emNSVUxvNFJYYkFWcklRdzZRTjRPeGREV3FsU2diTXFIaEFsX1FPUUNWaV84amNqcl9vVEcxY040RmRIMExfNjdUZHN6Vm5BRkhSVFphN0tCdnJGb3pnUGt4SU8wV1A4cXRqaFRjTWhIaGxnM19ldjlMMWs3R1NJeXQ",
-  "https://nypost.com/?post_type=article&p=40282304",
-  "https://nypost.com/?post_type=article&p=40275631",
   "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
   "https://www.washingtonexaminer.com/?p=4681613",
   "https://www.washingtonexaminer.com/?p=4682095",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
   "https://www.washingtonexaminer.com/?p=4691058",
   "https://nypost.com/?post_type=article&p=40402621",
-  "https://nypost.com/?post_type=article&p=40402867"
+  "https://nypost.com/?post_type=article&p=40402867",
+  "https://www.bbc.co.uk/news/articles/cgjeped6ewxo#1",
+  "https://nypost.com/?post_type=article&p=40402045",
+  "https://www.theguardian.com/australia-news/2026/aug/19/first-nations-mp-yingiya-guyula-resigns-nt-parliament-slow-genocide-indigenous-people-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "attack crime dems deploys drop line rate record report showing trump unveils violent",
-   "title": "Trump unveils FBI crime report showing violent crime drop at \u2018record\u2019 rate \u2014 deploys new attack line on Dems",
-   "source": "New York Post",
-   "at": "2026-08-14T21:18:30.034898+00:00"
-  },
-  {
-   "fp": "bike court free lanes ontario region rules toronto",
-   "title": "Ontario free to axe Toronto bike lanes, region\u2019s top court rules",
-   "source": "Guardian World",
-   "at": "2026-08-14T21:24:17.560258+00:00"
-  },
-  {
-   "fp": "ahead cory desantis endorse mills primary refuses tight",
-   "title": "DeSantis refuses to endorse Cory Mills ahead of tight primary",
-   "source": "Washington Examiner",
-   "at": "2026-08-14T21:24:19.245675+00:00"
-  },
   {
    "fp": "buys cuts global management spacex stakes tech tiger",
    "title": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
@@ -3201,12 +3183,27 @@
    "title": "Congo\u2019s rapid Ebola outbreak is now most fatal in nation\u2019s history with over 2,300 deaths, government says",
    "source": "New York Post",
    "at": "2026-08-19T02:32:45.526686+00:00"
+  },
+  {
+   "fp": "1979 academic crisis detention hell hostage iranian link writes",
+   "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
+   "source": "BBC World",
+   "at": "2026-08-19T03:27:13.897785+00:00"
+  },
+  {
+   "fp": "collapses convicted deck feet harrowing home marshals offender plunge several shows video",
+   "title": "Harrowing video shows US Marshals plunge several feet when deck collapses at home of convicted sex offender",
+   "source": "New York Post",
+   "at": "2026-08-19T03:27:15.777581+00:00"
+  },
+  {
+   "fp": "accusing dehumanising destroying government indigenous laws nations oppressing parliament passing people resigns",
+   "title": "First Nations MP resigns from NT parliament, accusing government of passing laws which are \u2018dehumanising, oppressing and destroying\u2019 Indigenous people",
+   "source": "Guardian World",
+   "at": "2026-08-19T03:27:17.532154+00:00"
   }
  ],
  "titles": [
-  "attack crime dems deploys drop line rate record report showing trump unveils violent",
-  "bike court free lanes ontario region rules toronto",
-  "ahead cory desantis endorse mills primary refuses tight",
   "buys cuts global management spacex stakes tech tiger",
   "accused campaign election fund loan massachusetts mayor pandemic taxes using",
   "counting election heightened restarted security suspended then under vote zambia",
@@ -3603,6 +3600,9 @@
   "angie clinches democratic florida nixon primary race senate socialist surprise",
   "antisemitism bilzerian defeats fine marked primary randy",
   "california confront courtroom grieving killed meta outside parents",
-  "congo deaths ebola fatal government history nation outbreak rapid"
+  "congo deaths ebola fatal government history nation outbreak rapid",
+  "1979 academic crisis detention hell hostage iranian link writes",
+  "collapses convicted deck feet harrowing home marshals offender plunge several shows video",
+  "accusing dehumanising destroying government indigenous laws nations oppressing parliament passing people resigns"
  ]
 }
