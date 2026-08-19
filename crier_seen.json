@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40287709",
   "https://nypost.com/?post_type=article&p=40285330",
   "https://nypost.com/?post_type=article&p=40284842",
   "https://nypost.com/?post_type=article&p=40286071",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40406689",
   "https://www.washingtonexaminer.com/?p=4692557",
   "CBMiwgFBVV95cUxPZGRNY3lJNWgxdHVGYUY1RUN1MVBkNGVOekszQ19STnp2by04X01ES3E2bWNmSGkyVDZadmJlRmk1YjRFT1BCSTZjVGd6TDNKY3VvX2tzdDJnX2tQMmZnbmRsWWpZUzZreHpuNHhwTmNKOHo2TXJDX1hCeXRsU2ZER1RIRHlncTFjVDJtVXhtald4TV9kdVhvX09DeDZ3MTlYM2hJX09QWElpTXFOMllub1pfZmNaREFlVC11SllseVdRQQ",
-  "CBMivwFBVV95cUxONW5LS2JKMjFfeFNRckE1RmNFNWdJU1RSVlIyQ2d5SC1zaHJOUUpuODVhU1g2M3h1NzA3NnB3ckxUYWhKNTB4M2ZUS1VpX1dUUURDcGZialRsZjk3UkZtZjVRcEJNZ3lHV3dOY1N2cFhIYWJ3cHpaRHlkNkRIM0ZjOXI5TTgzRlEwZ1pBYnVQczFOUjcxbmpxenAzLVl5d2JzU1B2YTh6b2JVUVdwZHFMUDliRXRwaFFJakpaT3hwdw"
+  "CBMivwFBVV95cUxONW5LS2JKMjFfeFNRckE1RmNFNWdJU1RSVlIyQ2d5SC1zaHJOUUpuODVhU1g2M3h1NzA3NnB3ckxUYWhKNTB4M2ZUS1VpX1dUUURDcGZialRsZjk3UkZtZjVRcEJNZ3lHV3dOY1N2cFhIYWJ3cHpaRHlkNkRIM0ZjOXI5TTgzRlEwZ1pBYnVQczFOUjcxbmpxenAzLVl5d2JzU1B2YTh6b2JVUVdwZHFMUDliRXRwaFFJakpaT3hwdw",
+  "https://nypost.com/?post_type=article&p=40406422"
  ],
  "posts": [
-  {
-   "fp": "alaska candidate harris kamala rejects seat senate support unsolicited",
-   "title": "Alaska candidate for US Senate seat rejects Kamala Harris\u2019s unsolicited support",
-   "source": "Guardian World",
-   "at": "2026-08-15T15:19:27.469245+00:00"
-  },
   {
    "fp": "ahead alaska distances endorsement harris herself kamala peltola primary",
    "title": "Peltola distances herself from Kamala Harris endorsement ahead of Alaska primary",
@@ -3201,10 +3195,15 @@
    "title": "Tourist helicopter crashes in Kenya, police say seven killed",
    "source": "Reuters",
    "at": "2026-08-19T14:54:41.486102+00:00"
+  },
+  {
+   "fp": "animal killed looking planet snake star",
+   "title": "Animal Planet star killed in hit and run while looking at snake",
+   "source": "New York Post",
+   "at": "2026-08-19T15:23:33.332953+00:00"
   }
  ],
  "titles": [
-  "alaska candidate harris kamala rejects seat senate support unsolicited",
   "ahead alaska distances endorsement harris herself kamala peltola primary",
   "african boosted border calls ceuta enclave monitors morocco rush second security spain stocks",
   "carry democratic november primary soared states turnout",
@@ -3603,6 +3602,7 @@
   "birthday celebrate concert crash daughters killed mother teen",
   "arrest deadly falls great police stabbing woman year",
   "attack deadly drills hold response school schools shooting thai",
-  "crashes helicopter kenya killed police seven tourist"
+  "crashes helicopter kenya killed police seven tourist",
+  "animal killed looking planet snake star"
  ]
 }
