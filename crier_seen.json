@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.npr.org/2026/08/11/nx-s1-5928121/vaccine-schedule-trump-executive-order-parents-confusion",
   "CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180",
   "CBMilwFBVV95cUxQT05yMERoZXIxSzBEaGNETmVsYktrZmRwWk1nVEE1azdkbDFjMWhra01lR2dtcWpWakpCOVY1RDAtTzBwa1lJWVdBTHA0TG1waUJzeDFpMWc1ZlU5YU0zZUZPc2NiTFlIcWJ6TXJHTmt3cC1WRTdObzBwdWt5OGpXUzBHbjVRajlNUUVVejVKYXNoeEZNd2hv",
   "https://www.bbc.co.uk/news/articles/czxerlglgw5o#2",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6039351",
   "https://nypost.com/?post_type=article&p=40409330",
   "https://nypost.com/?post_type=article&p=40414124",
-  "CBMingFBVV95cUxOOUg2UXlJMzl5dDYzXzhFSUN1SU9Hc1NfRmxTVjlGUHY2VE5qc2YwSGZsM0RYcHEzNU43bXBjSHZqWWZ2QngxSjdzNXR1V3dzOFlCazU5aXdZT0s0N1BQWko0alRaYWF1RWV5WUh0ZXFndHB3V2x3V05oQmd2OE9Ea0ZiREUxQzA2ZlFxSUV2aDJYMktwMGtFaDdPM29qQQ"
+  "CBMingFBVV95cUxOOUg2UXlJMzl5dDYzXzhFSUN1SU9Hc1NfRmxTVjlGUHY2VE5qc2YwSGZsM0RYcHEzNU43bXBjSHZqWWZ2QngxSjdzNXR1V3dzOFlCazU5aXdZT0s0N1BQWko0alRaYWF1RWV5WUh0ZXFndHB3V2x3V05oQmd2OE9Ea0ZiREUxQzA2ZlFxSUV2aDJYMktwMGtFaDdPM29qQQ",
+  "https://www.foxnews.com/world/5-americans-killed-helicopter-crash-kenya-including-telemundo-executive"
  ],
  "posts": [
-  {
-   "fp": "bodies bringing death disaster ferry recovered toll zimbabwe",
-   "title": "26 more bodies are recovered in Zimbabwe\u2019s ferry disaster, bringing death toll to 72",
-   "source": "AP",
-   "at": "2026-08-15T21:13:49.528441+00:00"
-  },
   {
    "fp": "alaska challenge face race republicans senate unexpected",
    "title": "Republicans face unexpected challenge in Alaska Senate race",
@@ -3201,10 +3195,15 @@
    "title": "US journalist among 7 killed when helicopter on safari crashes in remote part of northern Kenya",
    "source": "AP",
    "at": "2026-08-19T19:42:01.939998+00:00"
+  },
+  {
+   "fp": "americans crash executive helicopter including kenya killed telemundo",
+   "title": "5 Americans killed in helicopter crash in Kenya, including Telemundo executive",
+   "source": "Fox News World",
+   "at": "2026-08-19T20:19:37.588147+00:00"
   }
  ],
  "titles": [
-  "bodies bringing death disaster ferry recovered toll zimbabwe",
   "alaska challenge face race republicans senate unexpected",
   "50bn cuts plan reform unveils welfare year",
   "2028 approves carolina gives primary schedule south spot",
@@ -3603,6 +3602,7 @@
   "korea north nuclear powerful trump very warns weapons",
   "calls emergency glitch hours nearly silenced system",
   "cancer college emergency face half move rare remove student surgery unable",
-  "crashes helicopter journalist kenya killed northern part remote safari"
+  "crashes helicopter journalist kenya killed northern part remote safari",
+  "americans crash executive helicopter including kenya killed telemundo"
  ]
 }
