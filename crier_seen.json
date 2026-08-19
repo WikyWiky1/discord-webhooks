@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6021318",
-  "CBMimgFBVV95cUxNbDhFeHNmTTdEYjl4RHZoSEVKRlV5X0dxVnBQWWgxX2NkUWlSaUJvWHFnbEt4bkNVV2lULVJPcnRvQUcxRWVWbmZreVNFa0FsWUdIUEloT29sWW9wb1BtU2Y4R2NEdnEtVFFidFoxOVJpTm43cERCYVoyVXZpTHlUX3Y5bEVBZTU1VVdKS1hVYkFpbnJlUG45QTBB",
-  "CBMiowFBVV95cUxQYnJPa1dxTk0yQzF0VDlMRndKbVRqZ1lrUjQ2TzhPUmFVelk5QlZRVzJRS0NJQllHUVRDcldkLVN3LTZfOXFZSEJ2UGFld0MySFlTOTlhRW5rU1JaeHlkWGFoZUZDSnBaSFhzZkMwRWlsS09VWXU0Mm1ETFY4UTY2VnN5c3JZcDBfdEJ1TDdsY2dZN25mSWQ1b3VONVJzUXgtMkk0",
   "CBMipAFBVV95cUxOYnpoOFdwUm5lS2dweGNJbUFOS3M0SDRhY2QzZ3E1Y3pZUVFkMTNLTWZjbFh6U3JBUG1OQi1jdmswaHlhLW1pMmY4UTEwb2FHWW41N2I2T2hRWGJlVGlRTnZSZW1UMC1fV0x3SEJYYno5bFVGcFp4UWdZR2dxNGFUa2hRcTBTTEtlUF80VFNzXzZZMU1ES1NFNThzYmF1ajktUlRscg",
   "https://www.bbc.co.uk/news/articles/cm2g550v0pvo#1",
   "https://nypost.com/?post_type=article&p=40283552",
@@ -799,21 +796,12 @@
   "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
   "https://nypost.com/?post_type=article&p=40405309",
   "https://www.theguardian.com/us-news/2026/aug/19/alaska-bear-attack-athlete",
-  "CBMivAFBVV95cUxOU1FBVXpKZjd1bEs1T0NZMVFaUGROeHR6b05nU0otbTAzMWlIOTd3eFljT1NhcDhZY3lrZUI4Q1loOUJTMElKUGR1NHNFZl80Tm1RdVJZdTd3WlZlSm1DX3JkT1l6TjU1UHhpdl9nTHFqRnhfSDZTRENqNHNMTUQxRGxjVmxQeXNVaEFsOW9ybzBCczhTZU1yNlgwZGx1bWdkRW9rbC1YZFdCdDlmcktWSmM2dGdXeXhhVC1yOQ"
+  "CBMivAFBVV95cUxOU1FBVXpKZjd1bEs1T0NZMVFaUGROeHR6b05nU0otbTAzMWlIOTd3eFljT1NhcDhZY3lrZUI4Q1loOUJTMElKUGR1NHNFZl80Tm1RdVJZdTd3WlZlSm1DX3JkT1l6TjU1UHhpdl9nTHFqRnhfSDZTRENqNHNMTUQxRGxjVmxQeXNVaEFsOW9ybzBCczhTZU1yNlgwZGx1bWdkRW9rbC1YZFdCdDlmcktWSmM2dGdXeXhhVC1yOQ",
+  "https://thehill.com/?p=6037443",
+  "CBMipgFBVV95cUxNaXhWZmNFNFZTbEhUZENTNGJlVUpPRkxkWHo2YXEzbXJKZGpVdzFNd1FQOTIxM2tIckduS2ZzNVpmcG5oUmJsVXR0cFV4RW1KZzFlVjlJQ2RFYktPU001aDRBNlZlMUtHNGdEdFBDQjEyZGp4S3JlaUNBWlJaWGRodGx0cG41MjJVbXJnTFZEeW1tbVA1ajI2bVNHV1hNU2FVODZZZnln",
+  "https://news.sky.com/story/manhunt-under-way-after-double-murder-in-glasgow-13574688"
  ],
  "posts": [
-  {
-   "fp": "antisemitic attack congregant guard headbutts lunatic nypd punches security spits synagogue",
-   "title": "Lunatic punches NYC synagogue congregant, headbutts and spits at security guard in antisemitic attack: NYPD",
-   "source": "New York Post",
-   "at": "2026-08-15T04:07:01.790463+00:00"
-  },
-  {
-   "fp": "blair cherie election lost podcasts radio tony week",
-   "title": "Radio and podcasts of the week: What if Cherie Blair had won the election, and Tony lost?",
-   "source": "Telegraph",
-   "at": "2026-08-15T06:37:12.940466+00:00"
-  },
   {
    "fp": "airstrike israeli kills lebanese lebanon media people southern state",
    "title": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
@@ -3201,11 +3189,21 @@
    "title": "Climate change is driving record heat in Europe's seas, scientists say",
    "source": "Reuters",
    "at": "2026-08-19T11:30:07.524356+00:00"
+  },
+  {
+   "fp": "attack flagrant latest rips sanctions senior staff",
+   "title": "ICC rips latest US sanctions on senior staff: 'Flagrant attack'",
+   "source": "The Hill",
+   "at": "2026-08-19T12:31:12.848803+00:00"
+  },
+  {
+   "fp": "double glasgow manhunt murder under",
+   "title": "Manhunt under way after \u2018double murder\u2019 in Glasgow",
+   "source": "Telegraph",
+   "at": "2026-08-19T12:31:14.595593+00:00"
   }
  ],
  "titles": [
-  "antisemitic attack congregant guard headbutts lunatic nypd punches security spits synagogue",
-  "blair cherie election lost podcasts radio tony week",
   "airstrike israeli kills lebanese lebanon media people southern state",
   "arday cambridge dead found jason paid professor tributes",
   "barges cooling danube ensure hungary levels near nuclear plant raise sink",
@@ -3603,6 +3601,8 @@
   "cases congo ebola efforts outbreak outpaces reaches response",
   "alongside altmayer crash dior executive favier head killed mathilde movie nicolas partner producer",
   "alaska animal athlete attack bear come fend life nightmare spray uses",
-  "change climate driving europe heat record scientists seas"
+  "change climate driving europe heat record scientists seas",
+  "attack flagrant latest rips sanctions senior staff",
+  "double glasgow manhunt murder under"
  ]
 }
