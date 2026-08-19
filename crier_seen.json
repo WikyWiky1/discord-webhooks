@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6006760",
   "https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister",
   "https://nypost.com/?post_type=article&p=40298468",
   "https://www.washingtonexaminer.com/?p=4683876",
@@ -799,15 +798,10 @@
   "CBMickFVX3lxTE5NWnJaUkRsLWtHUjNMcjVuWklJcWd5bDRXQk94dlFfTlZLSmdSNTRqNkY4cXpSc3Frdm0tSENyWmVYWmdRRGNIbEp0VWJ2aVFWRVdkMm1qNUl5Umw5RlN3ZmRyV21wZEh0WkhmRjI2dkQ3UQ",
   "https://thehill.com/?p=6039742/",
   "https://nypost.com/?post_type=article&p=40419821",
-  "https://nypost.com/?post_type=article&p=40416622"
+  "https://nypost.com/?post_type=article&p=40416622",
+  "https://nypost.com/?post_type=article&p=40416599"
  ],
  "posts": [
-  {
-   "fp": "battles concerns conditions democrats lincoln november preview primary races raise shows stage sunday tight",
-   "title": "Sunday shows preview: Key primary races set stage for tight November battles, Democrats raise concerns over USS Lincoln conditions",
-   "source": "The Hill",
-   "at": "2026-08-16T01:16:50.979056+00:00"
-  },
   {
    "fp": "bound cancels chaos flights hawaii hurricane travel",
    "title": "Travel chaos at LAX as hurricane cancels Hawaii-bound flights",
@@ -3201,10 +3195,15 @@
    "title": "Tyler Robinson barely hit bullseyes in practice, putting individuals lives at risk in Kirk shooting: prosecutors",
    "source": "New York Post",
    "at": "2026-08-19T22:45:04.075913+00:00"
+  },
+  {
+   "fp": "accused artist attack beach beloved butchering california enters mall plea quiet shocked stunning teen town",
+   "title": "Teen accused of butchering beloved artist in mall attack that shocked quiet California beach town enters stunning plea",
+   "source": "New York Post",
+   "at": "2026-08-19T23:16:29.639481+00:00"
   }
  ],
  "titles": [
-  "battles concerns conditions democrats lincoln november preview primary races raise shows stage sunday tight",
   "bound cancels chaos flights hawaii hurricane travel",
   "attack fires injures kyiv missile officials russian sparks ukraine",
   "indonesia kills landslides quake rescuers rubble through",
@@ -3603,6 +3602,7 @@
   "americans crash dead helicopter including kenya leaves",
   "crash cycling dead involving leaves team tennessee university",
   "blueberry coli deadly fears highest hits hospitalized level recall risk sickened",
-  "barely bullseyes individuals kirk lives practice prosecutors putting risk robinson shooting tyler"
+  "barely bullseyes individuals kirk lives practice prosecutors putting risk robinson shooting tyler",
+  "accused artist attack beach beloved butchering california enters mall plea quiet shocked stunning teen town"
  ]
 }
