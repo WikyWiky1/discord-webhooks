@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6022913",
-  "CBMilgFBVV95cUxOczVqMTVzakY3aDFBNERBZ2dPaHEzX2wxVUNrRG0yZjhQelN1eDAxV1ZHUHhwYmNiQkpVT1hMSGRaYm8wcDNqTU01RXc2TDBNaVJlYXByMFc2dDUtS2xyTWRMc1VlZVdvU3cya0d0NXcyMkd3Y1VUYjZyWUtRazhQS0pILXhQbk4wemd1aUg2WWEwdTczV0E",
-  "CBMiqwFBVV95cUxPTE52c1ozbzI4ekd5U2t3a1ZLRUwzLXA1ZThEMDhRUnpzbzh1ZjhlaTR6Y3ZISmI2OEI1SnJDYnh0TnlMak1RX0FfQU1KdDBFT0RDMW1HdWxscUpBSGNGMFh5VEFqVVV5X2swTGVCbFNNcm9HQjVQbjJhd28tVXFMaEF2ZXNrVUgyZkxFV01peVJ4OW05TFcyV3ZUaEFFYVJYQTd3b0pabU5aQXc",
-  "CBMimAFBVV95cUxNSlU0dHBxc0tERE5PYTUyUVRDNTJTRl9ISXJyYnlFOEtvWllWWUtnV3lEc3JpNTRvb1BpLVVNdnNOdmFQZFowZDVOSVZ2dXlERkV4UU9WbDNzUk1SVS0zRkhxUm5VNnhnakNQaWlwS01ITjZvcko2dUxzVUNJM0FnZ2Zta2NLMHNxajZUby1SSmtlZ2NSQnBtRg",
   "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o#0",
   "https://thehill.com/?p=6021343",
   "CBMikgFBVV95cUxPMDNxSFZuMk93QUFjWlFpdWhpaThLN1lDTHNtYXdfQ2VGSk01YWpfd1ZBR2I0bDJQdEZPTjB3TzFma3BiZGdrZmpSUmNjQVV3RVVybGI1anpSTTBzQWQ0bDNNcXVLQXVkZERDN2NJcktrNDFlZzN2cF9ON2d2LVVLVWJXanh4UlpVVFNpTUFSTkl1Zw",
@@ -799,33 +795,13 @@
   "https://www.washingtonexaminer.com/?p=4692605",
   "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#0",
   "https://nypost.com/?post_type=article&p=40408936",
-  "https://nypost.com/?post_type=article&p=40411310"
+  "https://nypost.com/?post_type=article&p=40411310",
+  "CBMiowFBVV95cUxOaGswZ2hQQnZMdWduRkdsblByc1VIM2dLdmpfWnpKNjY3MUZma2plX00tRTVqV3Z4cWxieHgwWFZuN2pEM1lpZ3RLUFRuR3Y0UWl3UnNjcmNBdlowZmdCcXI2NGhrLVJkMGVEOGczcXlzcGdDMThZMTZaRDJzR0szc3FMbjFBY3FwUU5DSkl1cGFkUXFqakd6NG4yWVV0ZWpzaWlZ",
+  "https://nypost.com/?post_type=article&p=40411782",
+  "https://nypost.com/?post_type=article&p=40407593",
+  "CBMixwFBVV95cUxOSHZsdEVCYk1ZeVc2SlBVRy1Qak55bGh3SW9teGRxY0RuSm15ZDQweUYwM0NQVlpHSmJDUnU5cTR1SE9mc1dTN1JwYjFyM1U1Y1ctUFRUNlI2SUIyc09sX0JDNW51Zy1oY1E3bU85TWFBUzgtbVllZ2ZlNnFlMnByZXJhTlN4Ry12S1Npb1NWTm1fZ003TWk3Q25MUWxGRC1zUm8tWGFSSG9xMzVQVEhFTS1PVC1JQnFtVDF4UG1ldG1LQlZZdzNB"
  ],
  "posts": [
-  {
-   "fp": "billboard dead depicts hormuz iranian shore soldier strait",
-   "title": "New Iranian billboard depicts dead US soldier on shore of Strait of Hormuz",
-   "source": "New York Post",
-   "at": "2026-08-15T17:53:49.351381+00:00"
-  },
-  {
-   "fp": "battle belgian firefighters nature reserve tearing through wildfire",
-   "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-   "source": "BBC World",
-   "at": "2026-08-15T18:17:51.214667+00:00"
-  },
-  {
-   "fp": "beyond clearly eyes ossoff seat senate something",
-   "title": "Jon Ossoff clearly has his eyes on something beyond his Senate seat",
-   "source": "Washington Examiner",
-   "at": "2026-08-15T18:28:59.978285+00:00"
-  },
-  {
-   "fp": "autistic bodycam cops disturbing final footage killed knife moments shows socal wielding",
-   "title": "Disturbing bodycam footage shows final moments of knife-wielding autistic man killed by SoCal cops",
-   "source": "New York Post",
-   "at": "2026-08-15T18:50:38.675611+00:00"
-  },
   {
    "fp": "attack charges crime filed hate manhattan synagogue",
    "title": "Hate crime charges filed in Manhattan synagogue attack",
@@ -3201,13 +3177,33 @@
    "title": "Four Americans killed in fiery Kenya helicopter crash during trip with luxury tour agency",
    "source": "New York Post",
    "at": "2026-08-19T17:20:39.249183+00:00"
+  },
+  {
+   "fp": "fire house injured investigation killed murder nine woman",
+   "title": "Murder investigation after woman killed and nine injured in house fire",
+   "source": "Telegraph",
+   "at": "2026-08-19T17:54:57.151984+00:00"
+  },
+  {
+   "fp": "better billed dead john kareem mccoy star wayne",
+   "title": "Wayne McCoy \u2014 St. John\u2019s star billed as \u2018better than Kareem\u2019 \u2014 dead at 64",
+   "source": "New York Post",
+   "at": "2026-08-19T17:54:58.943094+00:00"
+  },
+  {
+   "fp": "cases congo death ebola outbreak reaches rises toll",
+   "title": "Congo\u2019s Ebola outbreak reaches 5,000 cases as death toll rises",
+   "source": "New York Post",
+   "at": "2026-08-19T17:55:00.773200+00:00"
+  },
+  {
+   "fp": "african central collapse gold kills mine mining official republic",
+   "title": "Central African Republic gold mine collapse kills over 100, mining official says",
+   "source": "Reuters",
+   "at": "2026-08-19T17:55:02.599930+00:00"
   }
  ],
  "titles": [
-  "billboard dead depicts hormuz iranian shore soldier strait",
-  "battle belgian firefighters nature reserve tearing through wildfire",
-  "beyond clearly eyes ossoff seat senate something",
-  "autistic bodycam cops disturbing final footage killed knife moments shows socal wielding",
   "attack charges crime filed hate manhattan synagogue",
   "2022 apart beach cottages dollar florida historic homes hurricane multimillion rainbow rebuilt torn",
   "both building collapse colombia earthquake loses parents sisters survivor triplet",
@@ -3603,6 +3599,10 @@
   "arab attack emirates iran latest suspends trade united",
   "confirms criminal fired hind investigation israel killed opens rajab soldiers",
   "coach collapsing competition dies endurance fitness high hyrox intensity",
-  "agency americans crash fiery four helicopter kenya killed luxury tour trip"
+  "agency americans crash fiery four helicopter kenya killed luxury tour trip",
+  "fire house injured investigation killed murder nine woman",
+  "better billed dead john kareem mccoy star wayne",
+  "cases congo death ebola outbreak reaches rises toll",
+  "african central collapse gold kills mine mining official republic"
  ]
 }
