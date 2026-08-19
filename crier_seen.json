@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o#0",
   "https://thehill.com/?p=6021343",
   "CBMikgFBVV95cUxPMDNxSFZuMk93QUFjWlFpdWhpaThLN1lDTHNtYXdfQ2VGSk01YWpfd1ZBR2I0bDJQdEZPTjB3TzFma3BiZGdrZmpSUmNjQVV3RVVybGI1anpSTTBzQWQ0bDNNcXVLQXVkZERDN2NJcktrNDFlZzN2cF9ON2d2LVVLVWJXanh4UlpVVFNpTUFSTkl1Zw",
   "CBMingFBVV95cUxNU0ozalQtRWtyUl9RYWZINnRiZVBVVV9hNEh5RjVtQUFRSm5BazRfRFRDY0VHaVZpb202U3dpR2MzSkVldmdJWDNjM1dqSF9PaXdIN1NySmxmU3ZuZV9CX1oyV0F6QnB5cUljclFDTnpJbGVsenhBTnNlRmt1bGlDZjh1UEVSb3dRWVR3Z2x5Y3NmYXhhV3lXd2h3bkVKZw",
@@ -799,15 +798,10 @@
   "CBMiowFBVV95cUxOaGswZ2hQQnZMdWduRkdsblByc1VIM2dLdmpfWnpKNjY3MUZma2plX00tRTVqV3Z4cWxieHgwWFZuN2pEM1lpZ3RLUFRuR3Y0UWl3UnNjcmNBdlowZmdCcXI2NGhrLVJkMGVEOGczcXlzcGdDMThZMTZaRDJzR0szc3FMbjFBY3FwUU5DSkl1cGFkUXFqakd6NG4yWVV0ZWpzaWlZ",
   "https://nypost.com/?post_type=article&p=40411782",
   "https://nypost.com/?post_type=article&p=40407593",
-  "CBMixwFBVV95cUxOSHZsdEVCYk1ZeVc2SlBVRy1Qak55bGh3SW9teGRxY0RuSm15ZDQweUYwM0NQVlpHSmJDUnU5cTR1SE9mc1dTN1JwYjFyM1U1Y1ctUFRUNlI2SUIyc09sX0JDNW51Zy1oY1E3bU85TWFBUzgtbVllZ2ZlNnFlMnByZXJhTlN4Ry12S1Npb1NWTm1fZ003TWk3Q25MUWxGRC1zUm8tWGFSSG9xMzVQVEhFTS1PVC1JQnFtVDF4UG1ldG1LQlZZdzNB"
+  "CBMixwFBVV95cUxOSHZsdEVCYk1ZeVc2SlBVRy1Qak55bGh3SW9teGRxY0RuSm15ZDQweUYwM0NQVlpHSmJDUnU5cTR1SE9mc1dTN1JwYjFyM1U1Y1ctUFRUNlI2SUIyc09sX0JDNW51Zy1oY1E3bU85TWFBUzgtbVllZ2ZlNnFlMnByZXJhTlN4Ry12S1Npb1NWTm1fZ003TWk3Q25MUWxGRC1zUm8tWGFSSG9xMzVQVEhFTS1PVC1JQnFtVDF4UG1ldG1LQlZZdzNB",
+  "https://nypost.com/?post_type=article&p=40410174"
  ],
  "posts": [
-  {
-   "fp": "attack charges crime filed hate manhattan synagogue",
-   "title": "Hate crime charges filed in Manhattan synagogue attack",
-   "source": "AP",
-   "at": "2026-08-15T18:50:40.561969+00:00"
-  },
   {
    "fp": "2022 apart beach cottages dollar florida historic homes hurricane multimillion rainbow rebuilt torn",
    "title": "Florida\u2019s historic rainbow beach cottages torn apart by Hurricane Ian in 2022 now being rebuilt as multimillion-dollar homes",
@@ -3201,10 +3195,15 @@
    "title": "Central African Republic gold mine collapse kills over 100, mining official says",
    "source": "Reuters",
    "at": "2026-08-19T17:55:02.599930+00:00"
+  },
+  {
+   "fp": "bike cops cyclist fled hurled killed truck",
+   "title": "Cyclist killed in NYC after truck hurled her from bike, ran over her \u2014 and fled: cops",
+   "source": "New York Post",
+   "at": "2026-08-19T18:23:13.344015+00:00"
   }
  ],
  "titles": [
-  "attack charges crime filed hate manhattan synagogue",
   "2022 apart beach cottages dollar florida historic homes hurricane multimillion rainbow rebuilt torn",
   "both building collapse colombia earthquake loses parents sisters survivor triplet",
   "abandoning bailing companies gavin newsom utility victims wildfire",
@@ -3603,6 +3602,7 @@
   "fire house injured investigation killed murder nine woman",
   "better billed dead john kareem mccoy star wayne",
   "cases congo death ebola outbreak reaches rises toll",
-  "african central collapse gold kills mine mining official republic"
+  "african central collapse gold kills mine mining official republic",
+  "bike cops cyclist fled hurled killed truck"
  ]
 }
