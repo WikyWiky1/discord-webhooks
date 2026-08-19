@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/clye8332d63o#2",
-  "https://www.washingtonexaminer.com/?p=4682736",
   "https://www.washingtonexaminer.com/?p=4682677",
   "https://thehill.com/?p=6014896",
   "https://www.theguardian.com/us-news/2026/aug/11/south-carolina-senate-primary-runoff-darline-graham",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40416617",
   "https://thehill.com/?p=6039728",
   "https://www.washingtonexaminer.com/?p=4693319",
-  "CBMijwFBVV95cUxORENrZXVLUC1CR0duTURjeUJQWUJUVVprWnU4dlJVNUJQY3lMN1YtdXBucGtlRUNhNHFsX1dtZmJSdDY5bWltSXh1UGprSjc1RGpCdGFxM0x0bHo0Uk5oZW9OVzB3UlJ0d2tvRFdPRnJ1WmFHWEI0SFg5SUlzUDVIOXNocTh3S196Nm1TMFh2RQ"
+  "CBMijwFBVV95cUxORENrZXVLUC1CR0duTURjeUJQWUJUVVprWnU4dlJVNUJQY3lMN1YtdXBucGtlRUNhNHFsX1dtZmJSdDY5bWltSXh1UGprSjc1RGpCdGFxM0x0bHo0Uk5oZW9OVzB3UlJ0d2tvRFdPRnJ1WmFHWEI0SFg5SUlzUDVIOXNocTh3S196Nm1TMFh2RQ",
+  "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
+  "CBMickFVX3lxTE5NWnJaUkRsLWtHUjNMcjVuWklJcWd5bDRXQk94dlFfTlZLSmdSNTRqNkY4cXpSc3Frdm0tSENyWmVYWmdRRGNIbEp0VWJ2aVFWRVdkMm1qNUl5Umw5RlN3ZmRyV21wZEh0WkhmRjI2dkQ3UQ"
  ],
  "posts": [
-  {
-   "fp": "above croatia raging seen wildfires",
-   "title": "Croatia's raging wildfires seen from above",
-   "source": "Reuters World",
-   "at": "2026-08-15T23:35:57.507593+00:00"
-  },
-  {
-   "fp": "governor hawaii hurricane island lala nears warns",
-   "title": "Hurricane Lala nears Hawaii's Big Island\u200b, governor warns",
-   "source": "Reuters World",
-   "at": "2026-08-16T00:53:02.594994+00:00"
-  },
   {
    "fp": "black contributor journal michael street wall",
    "title": "Michael Ian Black \u2014 Contributor at The Wall Street Journal",
@@ -3201,11 +3189,21 @@
    "title": "Trump says US and Canada have a trade deal, but key terms remain unclear",
    "source": "AP",
    "at": "2026-08-19T21:24:36.558003+00:00"
+  },
+  {
+   "fp": "australian clear condemns decision frankcom gaza insulting killed penny strikes wong worker zomi",
+   "title": "Penny Wong condemns \u2018insulting\u2019 decision to clear IDF over Gaza strikes that killed Australian aid worker Zomi Frankcom",
+   "source": "Guardian World",
+   "at": "2026-08-19T21:44:39.409818+00:00"
+  },
+  {
+   "fp": "americans crash dead helicopter including kenya leaves",
+   "title": "Kenya Helicopter Crash Leaves 7 Dead, Including 5 Americans",
+   "source": "WSJ",
+   "at": "2026-08-19T21:44:41.277627+00:00"
   }
  ],
  "titles": [
-  "above croatia raging seen wildfires",
-  "governor hawaii hurricane island lala nears warns",
   "black contributor journal michael street wall",
   "avatar disneyland dropping land look massive unveils",
   "california launch mission secret spacex",
@@ -3603,6 +3601,8 @@
   "condolences defeating florida hasan jared member moskowitz piker primary savagely sends victory",
   "bond cuts down fears interest market plays pushes rate trump",
   "abdul latest michigan mike outperforms poll rogers sayed senate",
-  "canada deal remain terms trade trump unclear"
+  "canada deal remain terms trade trump unclear",
+  "australian clear condemns decision frankcom gaza insulting killed penny strikes wong worker zomi",
+  "americans crash dead helicopter including kenya leaves"
  ]
 }
