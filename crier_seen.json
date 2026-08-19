@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6014896",
-  "https://www.theguardian.com/us-news/2026/aug/11/south-carolina-senate-primary-runoff-darline-graham",
   "https://thehill.com/?p=6006760",
   "https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister",
   "https://nypost.com/?post_type=article&p=40298468",
@@ -799,21 +797,11 @@
   "CBMijwFBVV95cUxORENrZXVLUC1CR0duTURjeUJQWUJUVVprWnU4dlJVNUJQY3lMN1YtdXBucGtlRUNhNHFsX1dtZmJSdDY5bWltSXh1UGprSjc1RGpCdGFxM0x0bHo0Uk5oZW9OVzB3UlJ0d2tvRFdPRnJ1WmFHWEI0SFg5SUlzUDVIOXNocTh3S196Nm1TMFh2RQ",
   "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
   "CBMickFVX3lxTE5NWnJaUkRsLWtHUjNMcjVuWklJcWd5bDRXQk94dlFfTlZLSmdSNTRqNkY4cXpSc3Frdm0tSENyWmVYWmdRRGNIbEp0VWJ2aVFWRVdkMm1qNUl5Umw5RlN3ZmRyV21wZEh0WkhmRjI2dkQ3UQ",
-  "https://thehill.com/?p=6039742/"
+  "https://thehill.com/?p=6039742/",
+  "https://nypost.com/?post_type=article&p=40419821",
+  "https://nypost.com/?post_type=article&p=40416622"
  ],
  "posts": [
-  {
-   "fp": "avatar disneyland dropping land look massive unveils",
-   "title": "Disneyland unveils jaw-dropping first look at massive new Avatar land",
-   "source": "New York Post",
-   "at": "2026-08-16T01:16:47.381521+00:00"
-  },
-  {
-   "fp": "california launch mission secret spacex",
-   "title": "Top-secret SpaceX mission to launch from California",
-   "source": "New York Post",
-   "at": "2026-08-16T01:16:49.242678+00:00"
-  },
   {
    "fp": "battles concerns conditions democrats lincoln november preview primary races raise shows stage sunday tight",
    "title": "Sunday shows preview: Key primary races set stage for tight November battles, Democrats raise concerns over USS Lincoln conditions",
@@ -3201,11 +3189,21 @@
    "title": "Crash involving Tennessee university's cycling team leaves 2 dead",
    "source": "The Hill",
    "at": "2026-08-19T22:17:06.906171+00:00"
+  },
+  {
+   "fp": "blueberry coli deadly fears highest hits hospitalized level recall risk sickened",
+   "title": "Blueberry recall over deadly E. coli fears hits FDA\u2019s highest-risk level \u2014 with 12 sickened, 4 hospitalized",
+   "source": "New York Post",
+   "at": "2026-08-19T22:45:02.338817+00:00"
+  },
+  {
+   "fp": "barely bullseyes individuals kirk lives practice prosecutors putting risk robinson shooting tyler",
+   "title": "Tyler Robinson barely hit bullseyes in practice, putting individuals lives at risk in Kirk shooting: prosecutors",
+   "source": "New York Post",
+   "at": "2026-08-19T22:45:04.075913+00:00"
   }
  ],
  "titles": [
-  "avatar disneyland dropping land look massive unveils",
-  "california launch mission secret spacex",
   "battles concerns conditions democrats lincoln november preview primary races raise shows stage sunday tight",
   "bound cancels chaos flights hawaii hurricane travel",
   "attack fires injures kyiv missile officials russian sparks ukraine",
@@ -3603,6 +3601,8 @@
   "canada deal remain terms trade trump unclear",
   "australian clear condemns decision frankcom gaza insulting killed penny strikes wong worker zomi",
   "americans crash dead helicopter including kenya leaves",
-  "crash cycling dead involving leaves team tennessee university"
+  "crash cycling dead involving leaves team tennessee university",
+  "blueberry coli deadly fears highest hits hospitalized level recall risk sickened",
+  "barely bullseyes individuals kirk lives practice prosecutors putting risk robinson shooting tyler"
  ]
 }
