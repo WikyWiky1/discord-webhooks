@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMi0AFBVV95cUxPTFJGa2lhX0pGLXR2TUpwbHctR0VzM1R3anFTYkh5VjdJUTRsZnhiLXFSRDN6UGkyaV9MT2VmemRRMGtVZ1lJZFpoYVdLMUF0TUJzM0lvcDVCaDg2bWM1ekJGalhTaHN6c3pVcnZkSEc3T2FRc3RlSGMyUVQ3djJKWWtpdG05UFVIOWljeV90QXF2dGxiMEZSLV8tdEtsNTkzcVV2MjZVbUExcF9FSmp6SlNKbDl4Q3N6aTdvTndJeklzZGFGVUFLWW9JMGNWYmZm",
-  "https://nypost.com/?post_type=article&p=40282559",
   "https://nypost.com/?post_type=article&p=40283201",
   "https://thehill.com/?p=6021318",
   "CBMimgFBVV95cUxNbDhFeHNmTTdEYjl4RHZoSEVKRlV5X0dxVnBQWWgxX2NkUWlSaUJvWHFnbEt4bkNVV2lULVJPcnRvQUcxRWVWbmZreVNFa0FsWUdIUEloT29sWW9wb1BtU2Y4R2NEdnEtVFFidFoxOVJpTm43cERCYVoyVXZpTHlUX3Y5bEVBZTU1VVdKS1hVYkFpbnJlUG45QTBB",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40404843",
   "https://www.theguardian.com/technology/2026/aug/19/unitree-shares-surge-humanoid-robot-firm-chinese-stock-market-debut",
   "CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw",
-  "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak"
+  "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
+  "https://nypost.com/?post_type=article&p=40405309",
+  "https://www.theguardian.com/us-news/2026/aug/19/alaska-bear-attack-athlete"
  ],
  "posts": [
-  {
-   "fp": "earthquake indonesia magnitude powerful strikes",
-   "title": "Powerful 7.7-magnitude earthquake strikes Indonesia",
-   "source": "Sky News",
-   "at": "2026-08-15T02:37:08.454859+00:00"
-  },
-  {
-   "fp": "ahead alaska democrat down harris kamala primary senate support turns",
-   "title": "Alaska Democrat turns down support from Kamala Harris ahead of Senate primary",
-   "source": "New York Post",
-   "at": "2026-08-15T03:38:16.216243+00:00"
-  },
   {
    "fp": "anthony appear contempt declines fauci panel request second senate vote",
    "title": "Dr. Anthony Fauci declines request to appear before a second Senate panel after GOP contempt vote",
@@ -3201,11 +3189,21 @@
    "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
    "source": "NPR News",
    "at": "2026-08-19T10:01:45.771489+00:00"
+  },
+  {
+   "fp": "alongside altmayer crash dior executive favier head killed mathilde movie nicolas partner producer",
+   "title": "Dior executive Mathilde Favier killed alongside her movie producer partner Nicolas Altmayer in head-on car crash",
+   "source": "New York Post",
+   "at": "2026-08-19T10:47:39.682253+00:00"
+  },
+  {
+   "fp": "alaska animal athlete attack bear come fend life nightmare spray uses",
+   "title": "Alaska athlete uses bear spray to fend off animal attack: \u2018nightmare come to life\u2019",
+   "source": "Guardian World",
+   "at": "2026-08-19T10:47:41.567303+00:00"
   }
  ],
  "titles": [
-  "earthquake indonesia magnitude powerful strikes",
-  "ahead alaska democrat down harris kamala primary senate support turns",
   "anthony appear contempt declines fauci panel request second senate vote",
   "antisemitic attack congregant guard headbutts lunatic nypd punches security spits synagogue",
   "blair cherie election lost podcasts radio tony week",
@@ -3603,6 +3601,8 @@
   "backed cheney congress higher kicked office reddest republican seeks state trump",
   "chinese debut firm humanoid market robot shares stock surge unitree",
   "criticises japan sanctions unfortunate",
-  "cases congo ebola efforts outbreak outpaces reaches response"
+  "cases congo ebola efforts outbreak outpaces reaches response",
+  "alongside altmayer crash dior executive favier head killed mathilde movie nicolas partner producer",
+  "alaska animal athlete attack bear come fend life nightmare spray uses"
  ]
 }
