@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMihwFBVV95cUxOeXk1U0FnODBBem9kV1k4YndIWTBEcWRDRGZ3ZVNNSUFuRkloZDd5LU5oRm1fdDNZQXhwVHpqYU1DbFdjQjZmQlZxcW1kelZUYjZlWlZqUGJCS0dBR3FKM196TFd4azAyUUhoZUM1MUc4UUJ2bUdELWpBWWhVYkhZRFhxOEdKUTQ",
-  "CBMisgFBVV95cUxPeUVUY2pDMC1uZzZkWkZuanQxN0VxeW5ER09VSXdBQVRLWXRnQVRabmZvTGdMR0lRZE9zRWZIRlB4eHZLYW1kYkRFRTNWVWZpSzEzcnFaQUtYRlBYVXl1WXZObmQzZ1I1STlXUGhYV2tzWUx5S2xoVElhQTR0b3RjZkxSb0FaR1pkVW1TWmxTbTBLNHRaekltNENOdG1GQWRTaXJtd2htcUNEV1N4VkM0ZWN3",
-  "CBMioAFBVV95cUxOVndzZzUwOXlFNVVYMkxwUmtvTlgyajFjR2hIRjBSM2F2OXQ2NlN6N3k2ME9pcFZVTFA5aVNKRUpoVXNVY2xSQUxoZFdCREsyTldJR3M2R29CRzlkSy1TWmZvREVhZzI2eEpfS3UycGhGRkROanRJS2RWNFB4UXE3bUZEc0ZwNVV3WEtpQTBtNWpiLVlYVDV2QWZOa3NqYXZo",
   "https://www.bbc.co.uk/news/articles/c74grmy2v7ko#0",
   "CBMirAFBVV95cUxPOHJJVEZPSWl3bm1JQ2NRUTFSUWdKUS01QVJRUF90MTJCQWhtS3hhTEpTUW1SMEV6cXFySDJxOFRJN0UySHNabUN4cE40aTZqVk0wdVlqalNHc1Q1ck9Jd3lfdXd0dS14ME5walJWdlNidDJhREw3QzRESTFFRVhkaFVFeWtVdHp4SWtkM1hpS25oaGFkV1d0dXFENUZjWnZUenVXODBSeEhYLWdp",
   "CBMimAFBVV95cUxQUUtCYmtXZFVlZHF0Sl93Nkh1MDFadFJDNThMTGpMVERYZzhFVTJ0bjZTeWVvLXYxUEFsVVVfRlhUSG1xdEZCakdXOHB3UE1JMWVyYVFONVZxOTBqcUx1X09DNG9NLXUyc2cxZ3JPMEp1SGtvZXhRTVBqMzgyQVcwMTRQY3kyM2hienQzUGNMWFRqaVB6Um02dQ",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/us-news/2026/aug/20/alleged-money-smuggling-sanctions-hezbollah",
   "https://thehill.com/?p=6042267",
   "CBMiiAFBVV95cUxQZTc5cUFjWUlYVU1aSmJXVlk4eVF2SG0zUkxLNkZ3SXFNTkJTQWIwQnNWOFlWNVdqcDc1OTQyYmdsZW9KM3FIYlNDb1ptX0s2RGxOenExTDBUOFQ3Z0Z1dUd3NDNoai0zamJmLUlIMmNFRTY2V3V3VWs5eHdXOU9TU1pvRkRWdmdn",
-  "https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb"
+  "https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+  "CBMinwFBVV95cUxOUE1iMlIzTzVsV0VRUnM3T19tTjQyUGpWTTA1OVh3bThueldnR185U1V0RU80U2VxQWFyVmNxOWdkSEFCZER4WXlzNGhCVTBIR3J1TlNxcGVKSmZMWjlJbmNJWFo4bTZ5NGpTcm9SOTBKVWctNXRRNDMzWGNVWlBFNWF6dVVESXFreWQ5OERubHB2REJ3TjkyUXFDN0ZMd3M",
+  "https://nypost.com/?post_type=article&p=40437810",
+  "https://thehill.com/?p=6042577"
  ],
  "posts": [
-  {
-   "fp": "eastern fire hotel india injure kill several stampede temple",
-   "title": "A temple stampede and a hotel fire in eastern India kill 14 and injure several",
-   "source": "AP",
-   "at": "2026-08-17T08:03:18.503849+00:00"
-  },
-  {
-   "fp": "colombia earthquake faith grief mourns victims",
-   "title": "Faith and grief mix as Colombia mourns earthquake victims",
-   "source": "Reuters World",
-   "at": "2026-08-17T09:02:42.932486+00:00"
-  },
-  {
-   "fp": "ceasefire expire futures higher iran mostly",
-   "title": "U.S. Futures Mostly Higher as Iran Ceasefire Set to Expire",
-   "source": "WSJ",
-   "at": "2026-08-17T09:02:44.669772+00:00"
-  },
   {
    "fp": "deadly earthquake fears indonesia reels shortages starvation",
    "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
@@ -3201,12 +3183,27 @@
    "title": "Australia news live: Israel ambassador insists IDF strike that killed Zomi Frankcom a \u2018reasonable mistake\u2019; body of hiker Lily Hooper recovered from bush",
    "source": "Guardian World",
    "at": "2026-08-20T22:58:59.079545+00:00"
+  },
+  {
+   "fp": "backed collapse inside maga marketplace trump",
+   "title": "Inside the Collapse of a MAGA Marketplace Backed by Trump Jr.",
+   "source": "WSJ",
+   "at": "2026-08-20T23:28:07.307560+00:00"
+  },
+  {
+   "fp": "become brutally children clancy compelling killed lindsay three victim",
+   "title": "How has Lindsay Clancy become a more compelling victim than her three children who she brutally killed?",
+   "source": "New York Post",
+   "at": "2026-08-20T23:28:09.071565+00:00"
+  },
+  {
+   "fp": "athlete columnist resigns seattle spiked sports story times trans",
+   "title": "Seattle Times sports columnist resigns over spiked trans athlete story",
+   "source": "The Hill",
+   "at": "2026-08-20T23:28:10.792229+00:00"
   }
  ],
  "titles": [
-  "eastern fire hotel india injure kill several stampede temple",
-  "colombia earthquake faith grief mourns victims",
-  "ceasefire expire futures higher iran mostly",
   "deadly earthquake fears indonesia reels shortages starvation",
   "america bank game plays secret street wall word",
   "dollar fading falls federal prospect raising rates reserve sharply",
@@ -3603,6 +3600,9 @@
   "alleged cash hezbollah people places ring sanctions smuggling",
   "cftc chair congress crypto fails legislation move pass rules swiftly vows",
   "cyclone hawaii hurricane lala possible prepares recovering still weekend",
-  "ambassador australia body bush frankcom hiker hooper insists israel killed lily live mistake news reasonable recovered strike zomi"
+  "ambassador australia body bush frankcom hiker hooper insists israel killed lily live mistake news reasonable recovered strike zomi",
+  "backed collapse inside maga marketplace trump",
+  "become brutally children clancy compelling killed lindsay three victim",
+  "athlete columnist resigns seattle spiked sports story times trans"
  ]
 }
