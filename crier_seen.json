@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40313921",
-  "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
-  "CBMikgFBVV95cUxQQnFQSVNJb2w1Ujl3d3J0R2t0TWJLemJYN1RHbnRnSmZvdURCdXVxUWk0Mld4XzhTU0pjTVRzbTh2a2VVa2hGb1hUSGRIa1hHaGtoczBsMDdWY0l6QVh6MnpvLXVBSXV6ejFVQk5QdmRYc3g5RXpzaWUweEpDTXZrZTJpUkVGaDVRakFEeVlaVVJuUQ",
-  "CBMimwFBVV95cUxNR3JmbV9MUHhTRjdVWF9RNldwWFRoSmU1YVNNcS0ydXVaX0pzcHhqeUZjMnI5bVNUUHF5Q0l5Zl91YzNqbzRFUFBiLUk0SkczemlDSkh5VURGWWlYTXpYYzJHa09PM1Y0bWUtQXR4S1hPVGUzUUtiZzdoU3Z6RXpqTHp1MmY3MC00Y2p2ZGF3TWUyM3N5SDN0aEhySQ",
   "CBMiYkFVX3lxTFBKRzhKTFBfYi1IQjh5MlNwQXpYeGJHajVLb3VGelVfZkhKZTFJRWY4VjNPYjJZRUgyOVBaSVFrUVNvN0RQRHJtNnhUNmJ2RlBNaVNfSmlIV2NqODhZd3pxOFVB",
   "https://thehill.com/?p=6026323",
   "https://nypost.com/?post_type=article&p=40317085",
@@ -799,33 +795,13 @@
   "https://www.theguardian.com/education/2026/aug/20/governments-plan-young-people-continue-studying-gcse-maths-english-exams",
   "https://nypost.com/?post_type=article&p=40416157",
   "https://www.bbc.co.uk/news/articles/c87n90eg0p2o#0",
-  "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora"
+  "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
+  "https://www.washingtonexaminer.com/?p=4695009",
+  "https://nypost.com/?post_type=article&p=40432240",
+  "https://www.theguardian.com/us-news/2026/aug/20/woman-charged-attack-new-york-capitol",
+  "CBMilgFBVV95cUxPU0s3OExOX3RaT0QwSGZwQWhEdUZ4am95Y19SVzZDN1lUQ2cwU1dHVGdBNlM2dWt2a1pZcnBEeTVqaGduNWRDc3IxVGJZZ0hxVERYcVZMV2R1aGc2Wk1xVUI3dTFDS1pla210OERtaTFQSTU1Z3BJWGJ2MXJlLU5BOF9UNG1sWi1SUVpqT2k5ZWRaRzhHb3c"
  ],
  "posts": [
-  {
-   "fp": "about away hawaii homes hurricane lala lashes swept",
-   "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-   "source": "BBC World",
-   "at": "2026-08-17T00:51:17.529528+00:00"
-  },
-  {
-   "fp": "2028 every gavin loses newsom primary state",
-   "title": "How Gavin Newsom loses every primary state in 2028",
-   "source": "New York Post",
-   "at": "2026-08-17T01:14:16.772916+00:00"
-  },
-  {
-   "fp": "autumn chief foreign package plans reaching russia sanctions",
-   "title": "EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says",
-   "source": "Reuters World",
-   "at": "2026-08-17T01:14:18.554446+00:00"
-  },
-  {
-   "fp": "breaking character down kill lanterns premiere shocking",
-   "title": "Did \u2018Lanterns\u2019 kill a key character? Breaking down the shocking premiere",
-   "source": "New York Post",
-   "at": "2026-08-17T02:15:51.326798+00:00"
-  },
   {
    "fp": "actress dead hayden panettiere report",
    "title": "Actress Hayden Panettiere dead at 36: report",
@@ -3201,13 +3177,33 @@
    "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
    "source": "NPR News",
    "at": "2026-08-20T19:58:55.049839+00:00"
+  },
+  {
+   "fp": "alleged attack capitol foils isis plan state woman york",
+   "title": "FBI foils New York woman\u2019s alleged ISIS attack plan on state capitol",
+   "source": "Washington Examiner",
+   "at": "2026-08-20T20:31:21.132177+00:00"
+  },
+  {
+   "fp": "allegedly caused crash driver drunk family girl horrific killed mourns socal suspected",
+   "title": "Family mourns girl, 8, killed in horrific SoCal crash allegedly caused by suspected drunk driver",
+   "source": "New York Post",
+   "at": "2026-08-20T20:31:23.022697+00:00"
+  },
+  {
+   "fp": "attack building capitol charged inspired planning state woman york",
+   "title": "Woman charged with planning IS-inspired attack on New York state capitol building",
+   "source": "Guardian World",
+   "at": "2026-08-20T20:31:24.877880+00:00"
+  },
+  {
+   "fp": "andes damages earthquake immediate magnitude peru reported shaken southern",
+   "title": "A magnitude 6.7 earthquake has shaken Peru\u2019s southern Andes, no immediate damages reported",
+   "source": "AP",
+   "at": "2026-08-20T20:31:26.571941+00:00"
   }
  ],
  "titles": [
-  "about away hawaii homes hurricane lala lashes swept",
-  "2028 every gavin loses newsom primary state",
-  "autumn chief foreign package plans reaching russia sanctions",
-  "breaking character down kill lanterns premiere shocking",
   "actress dead hayden panettiere report",
   "dead incident india like stampede temple",
   "appears australia contain hallucinations hears media report senate social supporting teen",
@@ -3603,6 +3599,10 @@
   "attack demotivating english fail gcses leaders make maths plan pupils retake",
   "billionaire border california fight gets playground secret weapon wildfires worm",
   "collapse economy iran regime sanctions squash",
-  "cyclosporiasis health outbreak record response system tests weakened"
+  "cyclosporiasis health outbreak record response system tests weakened",
+  "alleged attack capitol foils isis plan state woman york",
+  "allegedly caused crash driver drunk family girl horrific killed mourns socal suspected",
+  "attack building capitol charged inspired planning state woman york",
+  "andes damages earthquake immediate magnitude peru reported shaken southern"
  ]
 }
