@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6022551",
   "CBMitAFBVV95cUxQc1ExQS1ISERIZUtIcGtkWkNTMFBiclA3Um53eW13akVUMkFkS1lJdVV2X1N2c1QxMlc2QzZRTjdPWHJKck1BQ25GQnhmNDFzMjk3WEozS2xVbmdnLTU4dUphZFR5SzN3cTdVdjVhdEQ1WkhlZjcwMVFOc0NRdXR6TTkyMi1ZODlMbnFYNE9WR3d2T0UwUzYwM0JsWU44STkySzF1MlE3Yk42NXdNN2lneXdSWjQ",
   "https://www.theguardian.com/us-news/2026/aug/12/midwest-storms-deaths-wind-power-outages-flooding",
   "CBMinAFBVV95cUxQTXktdGpnVUNHOU1aVWxVSW12cjhFc1ItNjB2cEFMbXp6MlItS3FEcVYycExzQU43MmVRMXFjNTVwaUxzYUtvV3lNYkc5SThOb253QVRtU1dJNi1pS2UzcEYtMmlqQzNTRS1TaU1Cekp4UEZjaWZBRWZpYmppMF91TUM0czZBdW9jQ3h6UjgwTm5XT2FTTHhIZl82Q3I",
@@ -799,15 +798,10 @@
   "https://www.bbc.co.uk/news/articles/clylkv4z59vo#1",
   "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o#1",
   "https://nypost.com/?post_type=article&p=40425106",
-  "CBMihgFBVV95cUxQc1I3NmFxRkZRbi0wa1lsMFotNzUtazZwWGNGbXRiQW01UUh2d0Q5S0JkM3Y0U1J6d3lkMGh3ZWoySWF4VlNRUnVmMWRoVWI1UTctaVJYVXNXTnItZVRLMXZldVdsVkItQTlwdWl1dlBtZjZoeHNTUHlxVFE2LXpaQ00xR0k4Zw"
+  "CBMihgFBVV95cUxQc1I3NmFxRkZRbi0wa1lsMFotNzUtazZwWGNGbXRiQW01UUh2d0Q5S0JkM3Y0U1J6d3lkMGh3ZWoySWF4VlNRUnVmMWRoVWI1UTctaVJYVXNXTnItZVRLMXZldVdsVkItQTlwdWl1dlBtZjZoeHNTUHlxVFE2LXpaQ00xR0k4Zw",
+  "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants"
  ],
  "posts": [
-  {
-   "fp": "arrests ceuta evacuations hurricane indonesia lala podcast",
-   "title": "PODCAST: Indonesia evacuations, Hurricane Lala and Ceuta arrests",
-   "source": "Reuters World",
-   "at": "2026-08-16T14:42:16.217793+00:00"
-  },
   {
    "fp": "anti blanche dead fund live reaffirms todd updates weaponization",
    "title": "Live updates: Todd Blanche reaffirms 'anti-weaponization' fund is 'dead'",
@@ -3201,10 +3195,15 @@
    "title": "Supercars torched in wedding \u2018firebomb attack\u2019",
    "source": "Telegraph",
    "at": "2026-08-20T11:19:53.767445+00:00"
+  },
+  {
+   "fp": "detention failed here immigrants problems report system",
+   "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+   "source": "NPR News",
+   "at": "2026-08-20T11:31:58.037064+00:00"
   }
  ],
  "titles": [
-  "arrests ceuta evacuations hurricane indonesia lala podcast",
   "anti blanche dead fund live reaffirms todd updates weaponization",
   "arrested critically five injured left shooting state suspect university virginia",
   "away flooding hawaii hits homes kills lala storm sweeps tropical",
@@ -3603,6 +3602,7 @@
   "americans chief crash ecuador five helicopter intelligence kenya killed",
   "killed minister opposition raid security zambian",
   "alive australian dead family found hiker hooper lily mistakenly search told",
-  "attack firebomb supercars torched wedding"
+  "attack firebomb supercars torched wedding",
+  "detention failed here immigrants problems report system"
  ]
 }
