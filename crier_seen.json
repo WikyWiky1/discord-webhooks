@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6023832",
-  "https://nypost.com/?post_type=article&p=40299207",
   "https://www.theguardian.com/australia-news/2026/aug/12/victorian-microparty-mps-including-georgie-purcell-to-face-re-election-struggle-after-group-voting-tickets-abolished",
   "CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw",
   "CBMilwFBVV95cUxOMWZZT1Z3Sjl0Y3Ixczg0aHdRVUk3aXVnRlBxN2JDZmdpY3pHSGQwSEJ2U0dZc20yNDBFU09qWm9FVXNackZ2M0xfTkwydjJrQmw2OFZGdWJaejN6YWZlVHZMSGhSc0hWMnlNbXZsa3BvdFRCMWZ5akRXc2dVS2c2aF85eGNDdFN2NHlsbk5wMC1OQXM3Z0ZR",
@@ -799,21 +797,11 @@
   "CBMirwFBVV95cUxPYXI1dy1TTTZyOHJaZjdCNmVNMlNodno5WEY5cWRrLTk3WW1CYUxreUFqc0M1ZlhXcU52ZmxWNTEyd2RnbFBHRkU1SkktRlF5NFRNcG5WZlM0QnBLVnljY1RYelIyMlM1MFF0LXN4Rm1XaGtOT1BtWG9LS0ZMendJbEhYUVN4OTBNYldCRWhRQ0oxbmlGUWhGSUs1UERZSHJZQ1MydGFlb0puaG1RV0hr",
   "CBMitwFBVV95cUxNT3c1M1k1cmhyTDQ5ejRXM1Juc2VvWkJkVzdUUGlDdWpzcGM4S0wtYWlkTXRpN1Yyc2xHcGswSkVNbm42S3IyTHktZEFBQlotdEhJVUIyQzhuaWNKajhMVXdUNUREaHBXYzJnRzZ5bkJYMl9YOXh4M2pCUFNNcW9PS3h4X1RRcG1IUHdxMWlRVTFIeHFzd2pFcmFSQkMya0l4eHZzSzBnZ3A0aTlHUlk2c0x2bTJ5Z2M",
   "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-  "https://www.bbc.co.uk/news/articles/c304e2dlv20o#1"
+  "https://www.bbc.co.uk/news/articles/c304e2dlv20o#1",
+  "https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park",
+  "CBMitAFBVV95cUxQemMxWERaSmxYcmRaYmJTbVl4cHZYWGZOQXBpejVVM1lqS1FnY2k3VER1Q0dPZU8wVlV4d0xwVnF6MVNIWkdfdE9ZdWJpT3lJLVVBd2ZfVWtvZ0oyaVU3ekJSTnB6LTllTmsybXk5YTlSVGc5aUNqNk1mMlJ2dGY4bzczcWs2WHVZX3hvMUZvcndfdm9mUFRNX1d4Ny1nWXA0R0VBbXhIOWFzaFhlTjlGUG5iTEM"
  ],
  "posts": [
-  {
-   "fp": "across aerial attacks fresh killed launches russia three ukraine",
-   "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
-   "source": "BBC World",
-   "at": "2026-08-16T08:20:22.080547+00:00"
-  },
-  {
-   "fp": "floods killed spain women",
-   "title": "Two women killed in floods in Spain",
-   "source": "Reuters World",
-   "at": "2026-08-16T08:20:23.900093+00:00"
-  },
   {
    "fp": "crashes hungary killed tourist twelve",
    "title": "Twelve killed as tourist bus crashes in Hungary",
@@ -3201,11 +3189,21 @@
    "title": "Missing teen hiker found dead in Australian bush after eight-day search",
    "source": "BBC World",
    "at": "2026-08-20T04:00:42.791206+00:00"
+  },
+  {
+   "fp": "dead disappearing found hiker hooper lily missing national park teen week",
+   "title": "Missing teen hiker Lily Hooper found dead after disappearing in NSW national park a week ago",
+   "source": "Guardian World",
+   "at": "2026-08-20T04:54:52.599883+00:00"
+  },
+  {
+   "fp": "collision helicopter killed pennsylvania pilot police violent",
+   "title": "Pilot killed in violent collision with Pennsylvania police helicopter",
+   "source": "AP",
+   "at": "2026-08-20T04:54:54.314853+00:00"
   }
  ],
  "titles": [
-  "across aerial attacks fresh killed launches russia three ukraine",
-  "floods killed spain women",
   "crashes hungary killed tourist twelve",
   "belgium biggest germany heads record towards wildfire",
   "crash hungary injures kills least others people",
@@ -3603,6 +3601,8 @@
   "african central collapse death mine republic rises toll",
   "arbitration billion dispute hutchison panama seeks treaty",
   "attack comes killing kyiv least missile russian under",
-  "australian bush dead eight found hiker missing search teen"
+  "australian bush dead eight found hiker missing search teen",
+  "dead disappearing found hiker hooper lily missing national park teen week",
+  "collision helicopter killed pennsylvania pilot police violent"
  ]
 }
