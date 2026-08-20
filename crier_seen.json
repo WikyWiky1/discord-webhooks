@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40284536",
   "https://www.theguardian.com/us-news/2026/aug/12/trump-catering-cart-iran-threat",
   "https://www.theguardian.com/environment/2026/aug/12/just-20-of-6600-defra-staff-working-on-climate-adaptation-amid-drought-and-wildfires",
   "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
@@ -799,15 +798,10 @@
   "CBMihgFBVV95cUxPaTZjaHk3cnQzaWtHVzRJei1yZzh3MWZhNVB4UWI1b1ljSE9ObTJhU1BHZUhnZU5DTkxZTFE3RlQwOE9CbEJGMU5PS3lrZV9qYk9EOHJuTGUyVE1pbVNtYlBPMFlWOHpDRUxvWWdrb0hHdHQ5bXhEaE0yOEZ2Y21acTdWbDVCQQ",
   "CBMiqwFBVV95cUxOTlp1UndkOXlXZ2JkdlFsSjVQbU90V0x0bHBmQWZkTlBsX0lBNU8za0t1OFlfUG0ySlJXbU44U2FOM05GTEJGNG1fR3BvTjFJOC04VUNGaXppNVRPVjgyTHNRTVpVVkgwOXJWd0k3Tmdxc0RpdXhieFNSWnZKOG15c2lpZURycU5vTzFlS25QM3MwRjYySlg0anNDenlVNlF2cDVFV0F3N3dBRXc",
   "CBMiuwFBVV95cUxOaWlKV0RUU0lqVEhJdVJ2NmJXeXNIQlFuMDQ2eGstbW4wWFEwcHdfdE1landiUHpHVTM1c0dWVkpMLWc4Q0ZVWXBUWFBIaFotM1pvczFvakhyS2d4a1dBNVFEZDZwRzBpSWZhb0tmdDBjVG5OcXh2MDJCZWxnOWZ4dm5QV3FBaXU1UzU2SXRlSEhYUFNPQThibmxjSjgtZS0xU29UUjBvUUpjbjM4bGRFbHEzMFlBR3hCM1FZ",
-  "https://www.bbc.co.uk/news/articles/c5yrnz24j22o#1"
+  "https://www.bbc.co.uk/news/articles/c5yrnz24j22o#1",
+  "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates"
  ],
  "posts": [
-  {
-   "fp": "about back control question real school science vaccine",
-   "title": "The real back-to-school vaccine question isn\u2019t about science \u2014 it\u2019s about control",
-   "source": "Washington Examiner",
-   "at": "2026-08-16T12:37:29.115601+00:00"
-  },
   {
    "fp": "fight florida last marks primary stand",
    "title": "Florida primary fight marks DSA's last stand",
@@ -3201,10 +3195,15 @@
    "title": "Four workers dead after being hit by train in Japan",
    "source": "BBC World",
    "at": "2026-08-20T07:36:48.833982+00:00"
+  },
+  {
+   "fp": "attack europe kyiv launches live massive region russia surrounding",
+   "title": "Russia launches \u2018massive attack\u2019 on Kyiv and surrounding region \u2013 Europe live",
+   "source": "Guardian World",
+   "at": "2026-08-20T08:09:17.721975+00:00"
   }
  ],
  "titles": [
-  "about back control question real school science vaccine",
   "fight florida last marks primary stand",
   "attack killed owner",
   "bombs iran nuclear option other plutonium weapons",
@@ -3603,6 +3602,7 @@
   "back bring dead fianc offered",
   "chief down executive overhaul safety steps travelodge",
   "external held loses nuclear plant power russian supply zaporizhzhia",
-  "dead four japan train workers"
+  "dead four japan train workers",
+  "attack europe kyiv launches live massive region russia surrounding"
  ]
 }
