@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40316396",
-  "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o#0",
-  "CBMingFBVV95cUxOSWFfUkFHQXZYblAxTXVwdVZVZWR6WDQ1VUVFa2xFbk9HY0pnZVpheXhMNko1MVEza1FjNURlbWZlMnUxaFNWd1hSc0lWeFM3NC1qMG9SWU1oeTBZak9PUXlOQ2JWbTRKODRqSHJ3VWZfaExpQUNmdnBabUtTVmdMeEFabGJHTEFSMVoycTdvX0RIRllNQ0VjRXBfVTY1dw",
-  "https://www.washingtonexaminer.com/?p=4685782",
-  "https://nypost.com/?post_type=article&p=40317070",
-  "CBMiwwFBVV95cUxONTFWTFJwY1ZVako1SFlqamo5S0V5RHp5SGZ2SnJXbUZkSVczeXM2Z0psbDB1NHZBcXY1UjRWV2p5SUZzdGE2NVNzM3d0ZEUyZUE5aDNIZG4ycjVKSFBiSTdMb2JwUk1SNHhUTE51bXhZLXlwNXZnLVVOTEZKMUt1eTM2M0ZHM25OVlpQbzE4NWstamN0bHZxOTdwdVB3NTYyMTI3VHlaRVUzd1ozTjNTcXU0NkNIeGh6T1E2ZW5SZll0Z1E",
   "CBMimAFBVV95cUxNU2pvUDdmRnUwNjc1T01RN2dGb2VlVm1IaFhZUUgtSmdIbkxaQTltTUR3X0ctNHJLTHNUeEh5YktRU20wV25RdVhtSEZOOWVSTGRTcmMxMjRieGpyQXktTWVVT3NOUTNSSG1zUENfSUFTbG0ybC1scnFxVTZ2M3k2eXFlQVhuWm50QVFOQ3RkMWRsaXBmQUxOZQ",
   "CBMirgFBVV95cUxNTkVmV2d4NjVfVFNpSnlXVDFDcDliRHk4QVhKUjJOa3RIX1Y2U2QxeHN3M0p6NlI5QjBFOG1KVHZUa1NxLVRxbjdfb1FYWWJFOG5hTklCOXBLZjU5RkNEVFZMQXNoUjVfOXRuQ0FwTjFOdlUzZC1kdXNHNUNKSllYdGlyeWxIVDJiSXQ1aFVENU81ZEdrbm1EN2pDelZSZ0x4VDZleFJpUEpTZERvMVE",
   "CBMihwFBVV95cUxOeXk1U0FnODBBem9kV1k4YndIWTBEcWRDRGZ3ZVNNSUFuRkloZDd5LU5oRm1fdDNZQXhwVHpqYU1DbFdjQjZmQlZxcW1kelZUYjZlWlZqUGJCS0dBR3FKM196TFd4azAyUUhoZUM1MUc4UUJ2bUdELWpBWWhVYkhZRFhxOEdKUTQ",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=40434218",
   "https://nypost.com/?post_type=article&p=40431987",
   "https://www.bbc.co.uk/news/articles/cj035jg256no#0",
-  "CBMi3gFBVV95cUxPRkVURC1FUE5PWDh1RVhyZE5vZTYwT2YyenB5aDlickNRVTBrUmhLQzJIRVhJZEZ2ajlVeW1aT1pSM1h2MHNEZHFyX3JENDBwUHBTOVpENU5Ud3MtcmtSMUlGc19pSVBKWXpHUk5SclR0WUFwb3VUYVhzbHBZeXRtS0pFMDRGdlk0TXU2S1pDdnRlYndPbDUwYTZWVTlqVUMyaFVLWXdqOVZIR19Zc2ZObWExejY0bTlGRno2SmxoZjNSSE1rOTFsVnJRU3owbkRZaVdxT3JWVkJFLTZQTlE"
+  "CBMi3gFBVV95cUxPRkVURC1FUE5PWDh1RVhyZE5vZTYwT2YyenB5aDlickNRVTBrUmhLQzJIRVhJZEZ2ajlVeW1aT1pSM1h2MHNEZHFyX3JENDBwUHBTOVpENU5Ud3MtcmtSMUlGc19pSVBKWXpHUk5SclR0WUFwb3VUYVhzbHBZeXRtS0pFMDRGdlk0TXU2S1pDdnRlYndPbDUwYTZWVTlqVUMyaFVLWXdqOVZIR19Zc2ZObWExejY0bTlGRno2SmxoZjNSSE1rOTFsVnJRU3owbkRZaVdxT3JWVkJFLTZQTlE",
+  "https://nypost.com/?post_type=article&p=40422246",
+  "CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE",
+  "https://nypost.com/?post_type=article&p=40432429",
+  "https://thehill.com/?p=6042284",
+  "https://www.theguardian.com/us-news/2026/aug/20/alleged-money-smuggling-sanctions-hezbollah",
+  "https://thehill.com/?p=6042267"
  ],
  "posts": [
-  {
-   "fp": "acting governor kill russia strikes ukrainian",
-   "title": "Ukrainian strikes kill six in Russia, acting governor says",
-   "source": "BBC World",
-   "at": "2026-08-17T05:38:50.818378+00:00"
-  },
-  {
-   "fp": "beaten bruised caught election israel pawns political",
-   "title": "The beaten and bruised \u2018political pawns\u2019 caught up in Israel\u2019s election",
-   "source": "Telegraph",
-   "at": "2026-08-17T06:54:32.017296+00:00"
-  },
-  {
-   "fp": "blames celebration dead grass hosted july mall national trump vandals where",
-   "title": "Trump blames vandals for dead grass on National Mall where he hosted 4th of July celebration",
-   "source": "New York Post",
-   "at": "2026-08-17T07:17:40.430806+00:00"
-  },
-  {
-   "fp": "allegedly arrested body drove husband killed louisiana passenger propped seat several states through wife",
-   "title": "Louisiana husband allegedly killed wife, propped her body in passenger seat and drove through several states before being arrested",
-   "source": "New York Post",
-   "at": "2026-08-17T07:17:42.163149+00:00"
-  },
-  {
-   "fp": "await independence indonesia kills overshadowing quake thousands",
-   "title": "Thousands in Indonesia await aid after quake kills 54, overshadowing Independence Day",
-   "source": "AP",
-   "at": "2026-08-17T07:17:43.912138+00:00"
-  },
-  {
-   "fp": "bajo deadly despite earthquake flock indonesia labuan tourists",
-   "title": "Tourists flock to Indonesia's Labuan Bajo despite deadly earthquake",
-   "source": "Reuters World",
-   "at": "2026-08-17T08:03:13.387080+00:00"
-  },
   {
    "fp": "belgium blaze enormous europe france greece live rage tackles wildfires",
    "title": "Wildfires rage in France and Greece as Belgium tackles enormous blaze \u2013 Europe live",
@@ -3201,15 +3165,45 @@
    "title": "Green giant: How Taylor Farms became a top salad supplier before US diarrhea outbreak",
    "source": "Reuters",
    "at": "2026-08-20T21:00:10.225923+00:00"
+  },
+  {
+   "fp": "call dallas election exodus expansion following mamdani morgan outside picks stanley stepping street wake wall",
+   "title": "Morgan Stanley picks Dallas for expansion outside NYC \u2014 stepping up Wall Street exodus following Mamdani election: \u2018Wake-up call\u2019",
+   "source": "New York Post",
+   "at": "2026-08-20T21:27:40.123172+00:00"
+  },
+  {
+   "fp": "bond disappoint results rise sinks street wall walmart yields",
+   "title": "Wall Street sinks as bond yields rise, Walmart results disappoint",
+   "source": "Reuters",
+   "at": "2026-08-20T21:27:41.951543+00:00"
+  },
+  {
+   "fp": "biden eyeing harry meeting meghan office oval plans political request revealed scale seat senate true",
+   "title": "True scale of Meghan and Harry\u2019s US political plans revealed \u2014 from request for Biden Oval Office meeting to eyeing Senate seat",
+   "source": "New York Post",
+   "at": "2026-08-20T21:27:43.752912+00:00"
+  },
+  {
+   "fp": "endorses florida nixon race sanders senate",
+   "title": "Sanders endorses Nixon in Florida Senate race",
+   "source": "The Hill",
+   "at": "2026-08-20T21:27:45.566559+00:00"
+  },
+  {
+   "fp": "alleged cash hezbollah people places ring sanctions smuggling",
+   "title": "US places sanctions on 10 people over alleged Hezbollah cash-smuggling ring",
+   "source": "Guardian World",
+   "at": "2026-08-20T21:27:47.518374+00:00"
+  },
+  {
+   "fp": "cftc chair congress crypto fails legislation move pass rules swiftly vows",
+   "title": "CFTC chair vows to 'move swiftly' on crypto rules if Congress fails to pass legislation",
+   "source": "The Hill",
+   "at": "2026-08-20T21:27:49.308480+00:00"
   }
  ],
  "titles": [
-  "acting governor kill russia strikes ukrainian",
-  "beaten bruised caught election israel pawns political",
-  "blames celebration dead grass hosted july mall national trump vandals where",
-  "allegedly arrested body drove husband killed louisiana passenger propped seat several states through wife",
-  "await independence indonesia kills overshadowing quake thousands",
-  "bajo deadly despite earthquake flock indonesia labuan tourists",
   "belgium blaze enormous europe france greece live rage tackles wildfires",
   "attack australia beach bondi buyback launch reform sensible sets sweeping terror",
   "eastern fire hotel india injure kill several stampede temple",
@@ -3603,6 +3597,12 @@
   "accident camp forgotten freak killed never summer",
   "charging chatgpt deadly defend expert explosion killed report suit used witness",
   "boat capsizes dead dozens nigeria north western",
-  "became diarrhea farms giant green outbreak salad supplier taylor"
+  "became diarrhea farms giant green outbreak salad supplier taylor",
+  "call dallas election exodus expansion following mamdani morgan outside picks stanley stepping street wake wall",
+  "bond disappoint results rise sinks street wall walmart yields",
+  "biden eyeing harry meeting meghan office oval plans political request revealed scale seat senate true",
+  "endorses florida nixon race sanders senate",
+  "alleged cash hezbollah people places ring sanctions smuggling",
+  "cftc chair congress crypto fails legislation move pass rules swiftly vows"
  ]
 }
