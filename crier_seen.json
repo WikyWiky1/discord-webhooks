@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c74grmy2v7ko#0",
-  "CBMirAFBVV95cUxPOHJJVEZPSWl3bm1JQ2NRUTFSUWdKUS01QVJRUF90MTJCQWhtS3hhTEpTUW1SMEV6cXFySDJxOFRJN0UySHNabUN4cE40aTZqVk0wdVlqalNHc1Q1ck9Jd3lfdXd0dS14ME5walJWdlNidDJhREw3QzRESTFFRVhkaFVFeWtVdHp4SWtkM1hpS25oaGFkV1d0dXFENUZjWnZUenVXODBSeEhYLWdp",
   "CBMimAFBVV95cUxQUUtCYmtXZFVlZHF0Sl93Nkh1MDFadFJDNThMTGpMVERYZzhFVTJ0bjZTeWVvLXYxUEFsVVVfRlhUSG1xdEZCakdXOHB3UE1JMWVyYVFONVZxOTBqcUx1X09DNG9NLXUyc2cxZ3JPMEp1SGtvZXhRTVBqMzgyQVcwMTRQY3kyM2hienQzUGNMWFRqaVB6Um02dQ",
   "CBMixgFBVV95cUxPdGhXbFM5QXFmajRHRDJaUnRpRHhRSjVoWlpKQWdPangwX2g4cTB4SzNsN2lpOTZxN1Q3ejZQWFpzekxwcTdGWVZoTWFuOGFWam1oVmNUX2RzVHU1MjEtQzh2ZHRoam9JVi1rT01kN2dQcnJUbzRLNHNqQkVXR0VERk1VdW5QX0JKWEw5dEJoM2E4bjhUUGZsckdnbHdoVXROMm5yTkRWZEVvaGxsR0xRQzFwVXNjLVBfMlNGMkZ5V1JQV2kwM2c",
   "CBMiYkFVX3lxTFA4d0lycEVRaU1EUXVtTG9FNjlickVWRUpuSEtYUTU1VF9pUW43UkJBQnMzcklJamVMTERCc3p1V3I3VlZPeVhlY3RQcnUzdGZNbUo4UXZPdmd3NnN5c0hocll3",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
   "CBMinwFBVV95cUxOUE1iMlIzTzVsV0VRUnM3T19tTjQyUGpWTTA1OVh3bThueldnR185U1V0RU80U2VxQWFyVmNxOWdkSEFCZER4WXlzNGhCVTBIR3J1TlNxcGVKSmZMWjlJbmNJWFo4bTZ5NGpTcm9SOTBKVWctNXRRNDMzWGNVWlBFNWF6dVVESXFreWQ5OERubHB2REJ3TjkyUXFDN0ZMd3M",
   "https://nypost.com/?post_type=article&p=40437810",
-  "https://thehill.com/?p=6042577"
+  "https://thehill.com/?p=6042577",
+  "https://nypost.com/?post_type=article&p=40438600",
+  "CBMinAFBVV95cUxNWVIzQU15UEdjSjhKRVRDcEtNc3FSUk1tb0RySW94TnVlNjdOREE3aGNDeUNtNlQwOFpaVHozc3dKbWItRlFLRHJ3X1h3dXpOWDd5Y2hBUmFYczVhMHZrQUNmWlBOVVlpTUFZd2pwRlh3Z2Z6LU9tZ3Z3YV9nQkdWbldfNFJMSlgyc0llbG1PcDJ0YzFqc3dSLVpFZVY"
  ],
  "posts": [
-  {
-   "fp": "deadly earthquake fears indonesia reels shortages starvation",
-   "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-   "source": "BBC World",
-   "at": "2026-08-17T09:02:46.469719+00:00"
-  },
-  {
-   "fp": "america bank game plays secret street wall word",
-   "title": "The Secret Word Game Bank of America\u2019s CEO Plays With Wall Street",
-   "source": "WSJ",
-   "at": "2026-08-17T09:40:34.848183+00:00"
-  },
   {
    "fp": "dollar fading falls federal prospect raising rates reserve sharply",
    "title": "Dollar Falls Sharply on Fading Prospect of Federal Reserve Raising Rates",
@@ -3201,11 +3189,21 @@
    "title": "Seattle Times sports columnist resigns over spiked trans athlete story",
    "source": "The Hill",
    "at": "2026-08-20T23:28:10.792229+00:00"
+  },
+  {
+   "fp": "column cunningham here killed quit read seattle sophie times year",
+   "title": "I quit my 11-year job after the Seattle Times killed my Sophie Cunningham column \u2014 read it here",
+   "source": "New York Post",
+   "at": "2026-08-20T23:54:53.197997+00:00"
+  },
+  {
+   "fp": "capitol charged explosives kill lawmakers plotting state woman york",
+   "title": "New York woman charged with plotting to set off explosives at state Capitol, kill lawmakers",
+   "source": "AP",
+   "at": "2026-08-20T23:54:55.033414+00:00"
   }
  ],
  "titles": [
-  "deadly earthquake fears indonesia reels shortages starvation",
-  "america bank game plays secret street wall word",
   "dollar fading falls federal prospect raising rates reserve sharply",
   "earnings taxman week",
   "chart crash market ready stock",
@@ -3603,6 +3601,8 @@
   "ambassador australia body bush frankcom hiker hooper insists israel killed lily live mistake news reasonable recovered strike zomi",
   "backed collapse inside maga marketplace trump",
   "become brutally children clancy compelling killed lindsay three victim",
-  "athlete columnist resigns seattle spiked sports story times trans"
+  "athlete columnist resigns seattle spiked sports story times trans",
+  "column cunningham here killed quit read seattle sophie times year",
+  "capitol charged explosives kill lawmakers plotting state woman york"
  ]
 }
