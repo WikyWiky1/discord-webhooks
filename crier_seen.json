@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4685588",
   "https://nypost.com/?post_type=article&p=40313921",
   "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
   "CBMikgFBVV95cUxQQnFQSVNJb2w1Ujl3d3J0R2t0TWJLemJYN1RHbnRnSmZvdURCdXVxUWk0Mld4XzhTU0pjTVRzbTh2a2VVa2hGb1hUSGRIa1hHaGtoczBsMDdWY0l6QVh6MnpvLXVBSXV6ejFVQk5QdmRYc3g5RXpzaWUweEpDTXZrZTJpUkVGaDVRakFEeVlaVVJuUQ",
@@ -799,15 +798,10 @@
   "CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ",
   "https://www.theguardian.com/education/2026/aug/20/governments-plan-young-people-continue-studying-gcse-maths-english-exams",
   "https://nypost.com/?post_type=article&p=40416157",
-  "https://www.bbc.co.uk/news/articles/c87n90eg0p2o#0"
+  "https://www.bbc.co.uk/news/articles/c87n90eg0p2o#0",
+  "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora"
  ],
  "posts": [
-  {
-   "fp": "breaks diego evacuations fast fire forcing moving",
-   "title": "Fast-moving fire breaks out in San Diego, forcing evacuations",
-   "source": "New York Post",
-   "at": "2026-08-17T00:51:15.819081+00:00"
-  },
   {
    "fp": "about away hawaii homes hurricane lala lashes swept",
    "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
@@ -3201,10 +3195,15 @@
    "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
    "source": "BBC World",
    "at": "2026-08-20T19:25:08.530141+00:00"
+  },
+  {
+   "fp": "cyclosporiasis health outbreak record response system tests weakened",
+   "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
+   "source": "NPR News",
+   "at": "2026-08-20T19:58:55.049839+00:00"
   }
  ],
  "titles": [
-  "breaks diego evacuations fast fire forcing moving",
   "about away hawaii homes hurricane lala lashes swept",
   "2028 every gavin loses newsom primary state",
   "autumn chief foreign package plans reaching russia sanctions",
@@ -3603,6 +3602,7 @@
   "bessent china cooperate ever impose iran sanctions toughest urges",
   "attack demotivating english fail gcses leaders make maths plan pupils retake",
   "billionaire border california fight gets playground secret weapon wildfires worm",
-  "collapse economy iran regime sanctions squash"
+  "collapse economy iran regime sanctions squash",
+  "cyclosporiasis health outbreak record response system tests weakened"
  ]
 }
