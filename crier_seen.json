@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40306201",
   "https://nypost.com/?post_type=article&p=40305960",
   "https://www.washingtonexaminer.com/?p=4684810",
   "https://nypost.com/?post_type=article&p=40304204",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6040929",
   "CBMiswFBVV95cUxPblZ4TkNlLXdkaVh0UUV2LVlVTkt5QW9KSjFuN1M4Z1k1Ti13SHFxZVdyMXpvV1h2czlUZURJV253eWtRdW0yWkhIVEdIUEE3b1BLTld6T2toUkRSYUx1VjFQb21sMmpvUjBGV3NPSjAyYjlBQjUxTVJqeVFJX25zdkppUHFfTUFjX3pJSG5RWnduT2Y4WlN6RkJfTUdpYjJrSnlTTVRreXhRdlVwU285Y05GMA",
   "CBMinAFBVV95cUxPM01PQ1N2MTVyMjZocWJCWVZIZWEwZEdrVUZSX3NSU1JpNlU1NmdLR3RSeHVOay1xSDdtOHZhMjk0REE0TU1ob1pLSEZSVHdCa1BSaUozbUpUMzN5WHZDTldFWG9WVlVnbGVUUUJNYnRnR3NZM1BIWUdxbDlQVHYwY1lfb0hEZkVGTUI1WFhYSHY3cVBlYzh1RDVCLW8",
-  "CBMihgFBVV95cUxPTGEtVXNQeFMwVHN1QzAzZjYxVjUtMm5kUm1pSGx3blhxdG0wSTRrbXZTTm9FbnZsbnZQS0VNOWFHejJ2WXBfWkhVc1VXMzRTUnpvcS1XZFNKNGJIamY2TTBWRDU0VGVrbktTaGV5OEV6cU5TLXg2UGtCMVlYSVRZQW5ybFVuZw"
+  "CBMihgFBVV95cUxPTGEtVXNQeFMwVHN1QzAzZjYxVjUtMm5kUm1pSGx3blhxdG0wSTRrbXZTTm9FbnZsbnZQS0VNOWFHejJ2WXBfWkhVc1VXMzRTUnpvcS1XZFNKNGJIamY2TTBWRDU0VGVrbktTaGV5OEV6cU5TLXg2UGtCMVlYSVRZQW5ybFVuZw",
+  "https://www.washingtonexaminer.com/?p=4692010"
  ],
  "posts": [
-  {
-   "fp": "105m carriage central family horse killed mishap park teen tragic",
-   "title": "Family of teen killed in tragic Central Park horse carriage mishap to sue NYC for $105M",
-   "source": "New York Post",
-   "at": "2026-08-16T18:49:38.660621+00:00"
-  },
   {
    "fp": "asks colombian earthquake help president recovery suspend tariffs trump",
    "title": "Colombian president asks Trump to suspend tariffs to help earthquake recovery",
@@ -3201,10 +3195,15 @@
    "title": "Congo to receive 70,000 doses of Ervebo Ebola vaccine which has been effective in past outbreaks",
    "source": "AP",
    "at": "2026-08-20T15:33:16.273693+00:00"
+  },
+  {
+   "fp": "america back beautiful city dead",
+   "title": "America\u2019s most beautiful big city is back from the dead",
+   "source": "Washington Examiner",
+   "at": "2026-08-20T15:34:39.482251+00:00"
   }
  ],
  "titles": [
-  "105m carriage central family horse killed mishap park teen tragic",
   "asks colombian earthquake help president recovery suspend tariffs trump",
   "campus closet found hiding shooting suspect teen virginia",
   "california caused common disease dozens incurable item killed kitchen surviving",
@@ -3603,6 +3602,7 @@
   "angie candidate florida nixon primary pulled senate upset",
   "disappointing earnings lower move retail stocks",
   "call discouraging earnings heard seldom target word",
-  "been congo doses ebola effective ervebo outbreaks past receive vaccine"
+  "been congo doses ebola effective ervebo outbreaks past receive vaccine",
+  "america back beautiful city dead"
  ]
 }
