@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40303089",
-  "https://www.theguardian.com/politics/live/2026/aug/12/andy-burnham-early-prisoner-release-cobra-meeting-heatwave-climate-crisis-labour-conservatives-reform-latest-news-updates",
-  "https://www.theguardian.com/society/2026/aug/12/andy-burnham-ban-disposable-barbecues-wildfires-uk",
-  "https://thehill.com/?p=6024688",
   "https://thehill.com/?p=6023961",
   "https://www.theguardian.com/us-news/2026/aug/12/kansas-familicide-winfield",
   "CBMisgFBVV95cUxPRGFZQ2Vnb3RrVVF5MGpzQzlrckRvMHM2bmtQRFFEdUdra2QxdEcwMEVTQk1GUDFBS25MS2Rmb05uZkd4Znp4aElvSEtFVzNXY1dtYUNHNmpWODhUSTFVRDc1a0VMR3NTVTlmNndDRlBnVWlfOFpZSXFRY01EUDh6WGJQb2xHY0daZGIwbzI3VWpfallqckphSVpIcHl0VkdqM3VyaUJUS1B4QVM5MXJZY0Rn",
@@ -799,33 +795,13 @@
   "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
   "https://news.sky.com/story/thug-pictured-sticking-his-tongue-out-jailed-for-brutal-strangle-attack-13574986",
   "https://thehill.com/?p=6040336/",
-  "CBMiiAFBVV95cUxPaTVtU1U1MkJzd1NXVXhHV01CeV8yTGtpYk8xQU94ZnlJQWRvWjNLX0picGZLLTJFd2RReDlLaDNDa3BWUmc3blRiYXZQaFUyTS0tUW5HcXBUMFVTSl9vZmFjVjdhZ0FQUm9LQkxXRXFaMnJZaTZoQXdha3ZUQUJtdTQ0RFlySk9H"
+  "CBMiiAFBVV95cUxPaTVtU1U1MkJzd1NXVXhHV01CeV8yTGtpYk8xQU94ZnlJQWRvWjNLX0picGZLLTJFd2RReDlLaDNDa3BWUmc3blRiYXZQaFUyTS0tUW5HcXBUMFVTSl9vZmFjVjdhZ0FQUm9LQkxXRXFaMnJZaTZoQXdha3ZUQUJtdTQ0RFlySk9H",
+  "https://nypost.com/?post_type=article&p=40423433",
+  "https://nypost.com/?post_type=article&p=40425416",
+  "https://www.washingtonexaminer.com/?p=4692298",
+  "https://nypost.com/?post_type=article&p=40425365"
  ],
  "posts": [
-  {
-   "fp": "injured kentucky killed park shooting",
-   "title": "1 killed, 4 injured in shooting at park in Kentucky",
-   "source": "AP",
-   "at": "2026-08-16T15:14:34.737989+00:00"
-  },
-  {
-   "fp": "advocates gaza gvir hostage israel killing nightly people speaking",
-   "title": "Israel's Ben Gvir advocates killing '30 to 40' people in Gaza nightly while speaking to ex-hostage",
-   "source": "AP",
-   "at": "2026-08-16T15:14:36.559642+00:00"
-  },
-  {
-   "fp": "anything australian catching experts fear filters health scepticism through trump vaccine",
-   "title": "Australian health experts fear US vaccine scepticism is catching on as \u2018anything Trump says filters through\u2019",
-   "source": "Guardian World",
-   "at": "2026-08-16T15:20:33.034150+00:00"
-  },
-  {
-   "fp": "belgian doubles nature reserve size tearing third through wildfire",
-   "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-   "source": "BBC World",
-   "at": "2026-08-16T15:38:42.866766+00:00"
-  },
   {
    "fp": "about attack attacker campaign claim hateful jews makes mamdani outrageous staffer synagogue where yelled",
    "title": "Ex-Mamdani campaign staffer makes outrageous claim about hateful NYC synagogue attack where attacker yelled \u2018f\u2013k the Jews\u2019",
@@ -3201,13 +3177,33 @@
    "title": "Vietnam police charge man with rape after American woman alleges attack",
    "source": "AP",
    "at": "2026-08-20T11:47:44.563002+00:00"
+  },
+  {
+   "fp": "bear black days dead escape found locked spending trying",
+   "title": "Black bear found dead after spending days trying to escape locked car",
+   "source": "New York Post",
+   "at": "2026-08-20T12:32:56.853811+00:00"
+  },
+  {
+   "fp": "100mph call crash cyclist driver just killed last made minutes phone wife",
+   "title": "NYC cyclist killed by 100mph hit-and-run driver made last phone call to wife just minutes before crash",
+   "source": "New York Post",
+   "at": "2026-08-20T12:32:58.630481+00:00"
+  },
+  {
+   "fp": "bosnia collapse must recognize republika srpska trump",
+   "title": "Let Bosnia collapse: Why Trump must recognize Republika Srpska",
+   "source": "Washington Examiner",
+   "at": "2026-08-20T12:33:00.288126+00:00"
+  },
+  {
+   "fp": "americans crash entrepreneur food forbes helicopter kenyan killed millionaire once under",
+   "title": "Millionaire food entrepreneur once on Forbes 30 Under 30 among 5 Americans killed in Kenyan helicopter crash",
+   "source": "New York Post",
+   "at": "2026-08-20T12:33:02.034875+00:00"
   }
  ],
  "titles": [
-  "injured kentucky killed park shooting",
-  "advocates gaza gvir hostage israel killing nightly people speaking",
-  "anything australian catching experts fear filters health scepticism through trump vaccine",
-  "belgian doubles nature reserve size tearing third through wildfire",
   "about attack attacker campaign claim hateful jews makes mamdani outrageous staffer synagogue where yelled",
   "belgium blaze called forest greek helicopters island kills people tackle wildfire",
   "anti blanche dead fund reiterates weaponization",
@@ -3603,6 +3599,10 @@
   "detention failed here immigrants problems report system",
   "attack brutal jailed pictured sticking strangle thug tongue woman",
   "collides dead helicopter pennsylvania pilot plane police state violently",
-  "alleges american attack charge police rape vietnam woman"
+  "alleges american attack charge police rape vietnam woman",
+  "bear black days dead escape found locked spending trying",
+  "100mph call crash cyclist driver just killed last made minutes phone wife",
+  "bosnia collapse must recognize republika srpska trump",
+  "americans crash entrepreneur food forbes helicopter kenyan killed millionaire once under"
  ]
 }
