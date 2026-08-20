@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/australia-news/2026/aug/12/victorian-microparty-mps-including-georgie-purcell-to-face-re-election-struggle-after-group-voting-tickets-abolished",
-  "CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw",
   "CBMilwFBVV95cUxOMWZZT1Z3Sjl0Y3Ixczg0aHdRVUk3aXVnRlBxN2JDZmdpY3pHSGQwSEJ2U0dZc20yNDBFU09qWm9FVXNackZ2M0xfTkwydjJrQmw2OFZGdWJaejN6YWZlVHZMSGhSc0hWMnlNbXZsa3BvdFRCMWZ5akRXc2dVS2c2aF85eGNDdFN2NHlsbk5wMC1OQXM3Z0ZR",
   "CBMitwFBVV95cUxONm1OVFhKdVF3WHJaSlZsaTAwVzI4WmV5eDFhZjctdUxxZ0twOVgxNXFsbVoyU3NfYmg2aWNMdklRTlRnWDJOYWoyOTlfUTBkOUo5Sjd1T3lqUUZUOVZQbDRmV0d6UDRRSUdHWGN0RmY5TEJXN29vU1NVbGJTUGYwNzQ0amNIMGR4N3hud3BFOG9OMmsxZmxJQ2lBNVdPU3FpRjYxUHROOE01d2ZVWVpwUnBVZ0s3LUk",
   "https://nypost.com/?post_type=article&p=40300516",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
   "https://www.bbc.co.uk/news/articles/c304e2dlv20o#1",
   "https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park",
-  "CBMitAFBVV95cUxQemMxWERaSmxYcmRaYmJTbVl4cHZYWGZOQXBpejVVM1lqS1FnY2k3VER1Q0dPZU8wVlV4d0xwVnF6MVNIWkdfdE9ZdWJpT3lJLVVBd2ZfVWtvZ0oyaVU3ekJSTnB6LTllTmsybXk5YTlSVGc5aUNqNk1mMlJ2dGY4bzczcWs2WHVZX3hvMUZvcndfdm9mUFRNX1d4Ny1nWXA0R0VBbXhIOWFzaFhlTjlGUG5iTEM"
+  "CBMitAFBVV95cUxQemMxWERaSmxYcmRaYmJTbVl4cHZYWGZOQXBpejVVM1lqS1FnY2k3VER1Q0dPZU8wVlV4d0xwVnF6MVNIWkdfdE9ZdWJpT3lJLVVBd2ZfVWtvZ0oyaVU3ekJSTnB6LTllTmsybXk5YTlSVGc5aUNqNk1mMlJ2dGY4bzczcWs2WHVZX3hvMUZvcndfdm9mUFRNX1d4Ny1nWXA0R0VBbXhIOWFzaFhlTjlGUG5iTEM",
+  "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo#0",
+  "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "crashes hungary killed tourist twelve",
-   "title": "Twelve killed as tourist bus crashes in Hungary",
-   "source": "Sky News",
-   "at": "2026-08-16T08:59:39.419256+00:00"
-  },
-  {
-   "fp": "belgium biggest germany heads record towards wildfire",
-   "title": "Belgium's biggest wildfire on record heads towards Germany",
-   "source": "Reuters",
-   "at": "2026-08-16T09:31:43.911472+00:00"
-  },
   {
    "fp": "crash hungary injures kills least others people",
    "title": "A bus crash in Hungary kills 12 people, injures at least 10 others",
@@ -3201,11 +3189,21 @@
    "title": "Pilot killed in violent collision with Pennsylvania police helicopter",
    "source": "AP",
    "at": "2026-08-20T04:54:54.314853+00:00"
+  },
+  {
+   "fp": "chinese collapsed evergrande founder giant life prison property sentenced",
+   "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+   "source": "BBC World",
+   "at": "2026-08-20T05:23:41.469526+00:00"
+  },
+  {
+   "fp": "australia birds dead decision difficult found frankcom israel live politics relationship south suspected time wong zomi",
+   "title": "Politics live: Wong says \u2018difficult time\u2019 in Australia-Israel relationship after Zomi Frankcom decision; over 1,000 birds found dead with suspected H5 flu in South Australia",
+   "source": "Guardian World",
+   "at": "2026-08-20T05:23:43.204956+00:00"
   }
  ],
  "titles": [
-  "crashes hungary killed tourist twelve",
-  "belgium biggest germany heads record towards wildfire",
   "crash hungary injures kills least others people",
   "attack centre kyiv launches putin revenge space strikes vladimir",
   "arson attack killed woman",
@@ -3603,6 +3601,8 @@
   "attack comes killing kyiv least missile russian under",
   "australian bush dead eight found hiker missing search teen",
   "dead disappearing found hiker hooper lily missing national park teen week",
-  "collision helicopter killed pennsylvania pilot police violent"
+  "collision helicopter killed pennsylvania pilot police violent",
+  "chinese collapsed evergrande founder giant life prison property sentenced",
+  "australia birds dead decision difficult found frankcom israel live politics relationship south suspected time wong zomi"
  ]
 }
