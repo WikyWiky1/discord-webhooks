@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiugFBVV95cUxPZDZ6SWFiSG8zZWkwdHY2cHg3dzZFaUFESUFMcDJIT3hfazk4bXRMel9UWWVDWXBOSGNneFl0UF90U3NycnpkVlFjR014RnVjVGdQNXBSQ3BfY1pEdDR1ODJPSnFQMEhpc3I3WEl5d3cwbm9pNTdZS2R3TWNzejk0WXAzdmVYVERRTE5VWUQzblJPRDA3TDJJSFM4VWttcEtZXzZMM1FNcXAwRUltZENkSlJrWjU5a2dFUWc",
   "https://nypost.com/?post_type=article&p=40300101",
   "https://nypost.com/?post_type=article&p=40293009",
   "https://thehill.com/?p=6023693",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40417427",
   "https://www.washingtonexaminer.com/?p=4694130",
   "https://www.washingtonexaminer.com/?p=4693611",
-  "CBMirwFBVV95cUxPMnZGZVYxR0ktenNic1hUeEpBVlB3bmZ1eGN2eGl0VFZELXU1ck5OSlVhR0g1N1pYZ2c3ZTV4alNUbUlCSlY1Q1Rmd0liZTdHLXpnRUt5UkViT1NDaXNBcFdfajVDMzJ2SGVsUi1IVHctT3JMZ2ltOENrZkdxOTdNdTJlU0gyNzJzTmxVVHphZVFtVnpCa1lDdGxoVExQNG03azRKcGR6NmFQMlMyMC1Z"
+  "CBMirwFBVV95cUxPMnZGZVYxR0ktenNic1hUeEpBVlB3bmZ1eGN2eGl0VFZELXU1ck5OSlVhR0g1N1pYZ2c3ZTV4alNUbUlCSlY1Q1Rmd0liZTdHLXpnRUt5UkViT1NDaXNBcFdfajVDMzJ2SGVsUi1IVHctT3JMZ2ltOENrZkdxOTdNdTJlU0gyNzJzTmxVVHphZVFtVnpCa1lDdGxoVExQNG03azRKcGR6NmFQMlMyMC1Z",
+  "https://www.theguardian.com/world/2026/aug/20/wildfires-europe-increase-climate-scenario-study"
  ],
  "posts": [
-  {
-   "fp": "assailant attack back continue punches sing synagogue unhinged victim",
-   "title": "NYC synagogue attack victim punches back at unhinged assailant: \u2018We will continue to sing\u2019",
-   "source": "New York Post",
-   "at": "2026-08-16T13:16:06.346125+00:00"
-  },
   {
    "fp": "collision dead head irish motorway several",
    "title": "Several dead in Irish motorway head-on collision",
@@ -3201,10 +3195,15 @@
    "title": "Taiwan Floats Record Defense Budget, Sending Message to U.S. and China",
    "source": "WSJ",
    "at": "2026-08-20T09:33:50.633831+00:00"
+  },
+  {
+   "fp": "action best case climate europe even finds increase scenario study wildfires without",
+   "title": "Without action wildfires in Europe will increase 39% even in best-case climate scenario, study finds",
+   "source": "Guardian World",
+   "at": "2026-08-20T10:03:39.184530+00:00"
   }
  ],
  "titles": [
-  "assailant attack back continue punches sing synagogue unhinged victim",
   "collision dead head irish motorway several",
   "attack book fire kyiv market russian sets",
   "hawaii heavy hurricane island lala lash rain region skirts wind",
@@ -3603,6 +3602,7 @@
   "2023 abortion christian claimed defended hopeful james once senate sermon talarico texas",
   "2024 arrested ballot casting chinese election fraud national voter",
   "2028 coming election movement presidential youth",
-  "budget china defense floats message record sending taiwan"
+  "budget china defense floats message record sending taiwan",
+  "action best case climate europe even finds increase scenario study wildfires without"
  ]
 }
