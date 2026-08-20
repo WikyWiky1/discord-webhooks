@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB",
   "CBMingFBVV95cUxQb0VrMUhmQ1hxS0xRZmdtS0RsYjdBaEY0RnhRdHVMT1htcUtPWHBIWG1XY0Y5QjZjM25RdzJCUnBUY3NIbWQyUkRqWUpoYnlXUDZiNjloM0VPWDFDQjBjRVVJWHNtOVgyRFJhcW1yd0h3RGcxZkptU3F5NjRiWTFnYjhVcWpPenR3Vk9PTjF1VE5leW9kQlpaSF9pbmRpZw",
   "CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ",
   "CBMirgFBVV95cUxQLWZuZFpUQ0JKbW5uc3dBdFd0WUxfSlpDR3FTUElnWXJ0YjE2WFc3SWFLM29sRi1hX2J5WU94WTBhS3RvWl9vMFFWbzd4bF81QnZ3X19Ic04yLXgzbzBlQVZuX0JrRzh3UUJ1V1pQdld1R1pHc1duSWlkWXNkb3BSOUhCRXJPMmhMSmJYYVdsbDlsaU42cnN6dkVCdzhITHdabEZJXy1UbmFsdE5ZNUE",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40412962",
   "CBMiqAFBVV95cUxOdEoyTlBhdlZxOEhhZFREWWpnNDdtV0RDODN4eFFTcmV5T1RfenE3eFRHYzd0VUlrclYwN0w3YUJnWGRzSWZITEx5a2xvQkdVYmVzcHJsSGxBV2JCN2pIOVlhb19pSXVJTWVHVVRFSnVmTXlZWkMwSUFhMWRQeDAzVXY1WUVoWDliVGhJNE9vN3dJV2FyZTZqYmJZc1h3TFE5WDItZFprR1Y",
   "CBMikgFBVV95cUxPSllpc2U5ZHVHa3JMXzBxakdoT3RUb3dieEpWWnNVdHhvdWZxbEh3eTAwRVpIUWpvQktKYnk3anpIM0I5LTZSMkpMTnEwa2pXa3BZcWRFRzBDTXdyZnEzSG9sc0lFeGotSVdRRGRSS25wTFp0WTd6em5lV2JqQU5ZU19oZDlKczd6emttN245dUNwZw",
-  "https://thehill.com/?p=6040081"
+  "https://thehill.com/?p=6040081",
+  "https://www.bbc.co.uk/news/articles/c3r055g23qdo#1"
  ],
  "posts": [
-  {
-   "fp": "colombia comb effort expands nearly quake rubble search teams week",
-   "title": "Search teams comb rubble in Colombia nearly a week after quake as aid effort expands",
-   "source": "Reuters",
-   "at": "2026-08-16T16:44:17.742528+00:00"
-  },
   {
    "fp": "deadly floods football indiana jumped latest midwest raging river star victim",
    "title": "Indiana football star who jumped into raging river ID\u2019d as latest victim of deadly Midwest floods",
@@ -3201,10 +3195,15 @@
    "title": "Young Democrats eye Congress with affordability at the top of their agenda",
    "source": "The Hill",
    "at": "2026-08-20T12:48:55.523610+00:00"
+  },
+  {
+   "fp": "1970 deadly fire german home jewish nazi retirement suspected",
+   "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+   "source": "BBC World",
+   "at": "2026-08-20T13:30:29.362687+00:00"
   }
  ],
  "titles": [
-  "colombia comb effort expands nearly quake rubble search teams week",
   "deadly floods football indiana jumped latest midwest raging river star victim",
   "break dead evacuation fires greek island under",
   "alarm emergency friday last point",
@@ -3603,6 +3602,7 @@
   "bill california cash clan covid crack down families fraudster inspires senate swindled",
   "company earnings gains juice quarter second stakes",
   "budget china film making millions terrible unbelievably",
-  "affordability agenda congress democrats young"
+  "affordability agenda congress democrats young",
+  "1970 deadly fire german home jewish nazi retirement suspected"
  ]
 }
