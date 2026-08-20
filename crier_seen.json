@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40313820",
   "https://www.washingtonexaminer.com/?p=4685588",
   "https://nypost.com/?post_type=article&p=40313921",
   "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6041660",
   "CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ",
   "https://www.theguardian.com/education/2026/aug/20/governments-plan-young-people-continue-studying-gcse-maths-english-exams",
-  "https://nypost.com/?post_type=article&p=40416157"
+  "https://nypost.com/?post_type=article&p=40416157",
+  "https://www.bbc.co.uk/news/articles/c87n90eg0p2o#0"
  ],
  "posts": [
-  {
-   "fp": "congo country deadliest ebola history outbreak",
-   "title": "Ebola outbreak in DR Congo now deadliest in country's history",
-   "source": "Sky News",
-   "at": "2026-08-16T22:38:35.365749+00:00"
-  },
   {
    "fp": "breaks diego evacuations fast fire forcing moving",
    "title": "Fast-moving fire breaks out in San Diego, forcing evacuations",
@@ -3201,10 +3195,15 @@
    "title": "Billionaire\u2019s playground on California border gets secret weapon in fight against wildfires: \u2018The worm\u2019",
    "source": "New York Post",
    "at": "2026-08-20T18:45:43.756703+00:00"
+  },
+  {
+   "fp": "collapse economy iran regime sanctions squash",
+   "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+   "source": "BBC World",
+   "at": "2026-08-20T19:25:08.530141+00:00"
   }
  ],
  "titles": [
-  "congo country deadliest ebola history outbreak",
   "breaks diego evacuations fast fire forcing moving",
   "about away hawaii homes hurricane lala lashes swept",
   "2028 every gavin loses newsom primary state",
@@ -3603,6 +3602,7 @@
   "cook iowa political races report senate shift texas toss",
   "bessent china cooperate ever impose iran sanctions toughest urges",
   "attack demotivating english fail gcses leaders make maths plan pupils retake",
-  "billionaire border california fight gets playground secret weapon wildfires worm"
+  "billionaire border california fight gets playground secret weapon wildfires worm",
+  "collapse economy iran regime sanctions squash"
  ]
 }
