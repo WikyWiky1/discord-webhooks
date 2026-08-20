@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMitAFBVV95cUxQc1ExQS1ISERIZUtIcGtkWkNTMFBiclA3Um53eW13akVUMkFkS1lJdVV2X1N2c1QxMlc2QzZRTjdPWHJKck1BQ25GQnhmNDFzMjk3WEozS2xVbmdnLTU4dUphZFR5SzN3cTdVdjVhdEQ1WkhlZjcwMVFOc0NRdXR6TTkyMi1ZODlMbnFYNE9WR3d2T0UwUzYwM0JsWU44STkySzF1MlE3Yk42NXdNN2lneXdSWjQ",
-  "https://www.theguardian.com/us-news/2026/aug/12/midwest-storms-deaths-wind-power-outages-flooding",
-  "CBMinAFBVV95cUxQTXktdGpnVUNHOU1aVWxVSW12cjhFc1ItNjB2cEFMbXp6MlItS3FEcVYycExzQU43MmVRMXFjNTVwaUxzYUtvV3lNYkc5SThOb253QVRtU1dJNi1pS2UzcEYtMmlqQzNTRS1TaU1Cekp4UEZjaWZBRWZpYmppMF91TUM0czZBdW9jQ3h6UjgwTm5XT2FTTHhIZl82Q3I",
   "https://nypost.com/?post_type=article&p=40303089",
   "https://www.theguardian.com/politics/live/2026/aug/12/andy-burnham-early-prisoner-release-cobra-meeting-heatwave-climate-crisis-labour-conservatives-reform-latest-news-updates",
   "https://www.theguardian.com/society/2026/aug/12/andy-burnham-ban-disposable-barbecues-wildfires-uk",
@@ -799,27 +796,12 @@
   "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o#1",
   "https://nypost.com/?post_type=article&p=40425106",
   "CBMihgFBVV95cUxQc1I3NmFxRkZRbi0wa1lsMFotNzUtazZwWGNGbXRiQW01UUh2d0Q5S0JkM3Y0U1J6d3lkMGh3ZWoySWF4VlNRUnVmMWRoVWI1UTctaVJYVXNXTnItZVRLMXZldVdsVkItQTlwdWl1dlBtZjZoeHNTUHlxVFE2LXpaQ00xR0k4Zw",
-  "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants"
+  "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+  "https://news.sky.com/story/thug-pictured-sticking-his-tongue-out-jailed-for-brutal-strangle-attack-13574986",
+  "https://thehill.com/?p=6040336/",
+  "CBMiiAFBVV95cUxPaTVtU1U1MkJzd1NXVXhHV01CeV8yTGtpYk8xQU94ZnlJQWRvWjNLX0picGZLLTJFd2RReDlLaDNDa3BWUmc3blRiYXZQaFUyTS0tUW5HcXBUMFVTSl9vZmFjVjdhZ0FQUm9LQkxXRXFaMnJZaTZoQXdha3ZUQUJtdTQ0RFlySk9H"
  ],
  "posts": [
-  {
-   "fp": "anti blanche dead fund live reaffirms todd updates weaponization",
-   "title": "Live updates: Todd Blanche reaffirms 'anti-weaponization' fund is 'dead'",
-   "source": "The Hill",
-   "at": "2026-08-16T14:42:17.958818+00:00"
-  },
-  {
-   "fp": "arrested critically five injured left shooting state suspect university virginia",
-   "title": "Suspect arrested in Virginia State University shooting that left five injured, one critically",
-   "source": "Washington Examiner",
-   "at": "2026-08-16T14:42:19.722255+00:00"
-  },
-  {
-   "fp": "away flooding hawaii hits homes kills lala storm sweeps tropical",
-   "title": "Tropical storm Lala kills 1, sweeps away homes as flooding hits Hawaii",
-   "source": "New York Post",
-   "at": "2026-08-16T14:42:21.461240+00:00"
-  },
   {
    "fp": "injured kentucky killed park shooting",
    "title": "1 killed, 4 injured in shooting at park in Kentucky",
@@ -3201,12 +3183,27 @@
    "title": "Here's how the system to report problems in ICE detention has failed immigrants",
    "source": "NPR News",
    "at": "2026-08-20T11:31:58.037064+00:00"
+  },
+  {
+   "fp": "attack brutal jailed pictured sticking strangle thug tongue woman",
+   "title": "Thug pictured sticking his tongue out jailed for brutal strangle attack on woman",
+   "source": "Sky News",
+   "at": "2026-08-20T11:47:41.191677+00:00"
+  },
+  {
+   "fp": "collides dead helicopter pennsylvania pilot plane police state violently",
+   "title": "Pennsylvania State Police helicopter violently collides with plane, pilot dead: FAA",
+   "source": "The Hill",
+   "at": "2026-08-20T11:47:42.902498+00:00"
+  },
+  {
+   "fp": "alleges american attack charge police rape vietnam woman",
+   "title": "Vietnam police charge man with rape after American woman alleges attack",
+   "source": "AP",
+   "at": "2026-08-20T11:47:44.563002+00:00"
   }
  ],
  "titles": [
-  "anti blanche dead fund live reaffirms todd updates weaponization",
-  "arrested critically five injured left shooting state suspect university virginia",
-  "away flooding hawaii hits homes kills lala storm sweeps tropical",
   "injured kentucky killed park shooting",
   "advocates gaza gvir hostage israel killing nightly people speaking",
   "anything australian catching experts fear filters health scepticism through trump vaccine",
@@ -3603,6 +3600,9 @@
   "killed minister opposition raid security zambian",
   "alive australian dead family found hiker hooper lily mistakenly search told",
   "attack firebomb supercars torched wedding",
-  "detention failed here immigrants problems report system"
+  "detention failed here immigrants problems report system",
+  "attack brutal jailed pictured sticking strangle thug tongue woman",
+  "collides dead helicopter pennsylvania pilot plane police state violently",
+  "alleges american attack charge police rape vietnam woman"
  ]
 }
