@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40300101",
-  "https://nypost.com/?post_type=article&p=40293009",
   "https://thehill.com/?p=6023693",
   "CBMiowFBVV95cUxQRFhQQ0ctUFg5dmpoZFktVWJpZkV3dWE2MFpGMnRERzlPZzltQUdNN2tlMG1kdnozWi1TTkczRG5RZmdXV2RDU1R4WEZwR3kwTXhKendjU1JjX3ROM2tiOEd1TjBFRVdMZ2hPOTNpZkpLbDhGOHBaUk93N3ZDQTNfblJJMXUtR3ExSTNsenBuZjBpM0ZtdlpfcV9WQ1RMN0MtZDcw",
   "https://thehill.com/?p=6022551",
@@ -799,21 +797,11 @@
   "https://www.washingtonexaminer.com/?p=4694130",
   "https://www.washingtonexaminer.com/?p=4693611",
   "CBMirwFBVV95cUxPMnZGZVYxR0ktenNic1hUeEpBVlB3bmZ1eGN2eGl0VFZELXU1ck5OSlVhR0g1N1pYZ2c3ZTV4alNUbUlCSlY1Q1Rmd0liZTdHLXpnRUt5UkViT1NDaXNBcFdfajVDMzJ2SGVsUi1IVHctT3JMZ2ltOENrZkdxOTdNdTJlU0gyNzJzTmxVVHphZVFtVnpCa1lDdGxoVExQNG03azRKcGR6NmFQMlMyMC1Z",
-  "https://www.theguardian.com/world/2026/aug/20/wildfires-europe-increase-climate-scenario-study"
+  "https://www.theguardian.com/world/2026/aug/20/wildfires-europe-increase-climate-scenario-study",
+  "https://www.bbc.co.uk/news/articles/clylkv4z59vo#1",
+  "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o#1"
  ],
  "posts": [
-  {
-   "fp": "collision dead head irish motorway several",
-   "title": "Several dead in Irish motorway head-on collision",
-   "source": "Telegraph",
-   "at": "2026-08-16T13:16:08.157111+00:00"
-  },
-  {
-   "fp": "attack book fire kyiv market russian sets",
-   "title": "Russian attack on Kyiv sets book market on fire",
-   "source": "Reuters World",
-   "at": "2026-08-16T13:46:31.012980+00:00"
-  },
   {
    "fp": "hawaii heavy hurricane island lala lash rain region skirts wind",
    "title": "Hurricane Lala skirts Hawaii\u2019s Big Island as heavy wind and rain lash region",
@@ -3201,11 +3189,21 @@
    "title": "Without action wildfires in Europe will increase 39% even in best-case climate scenario, study finds",
    "source": "Guardian World",
    "at": "2026-08-20T10:03:39.184530+00:00"
+  },
+  {
+   "fp": "americans chief crash ecuador five helicopter intelligence kenya killed",
+   "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+   "source": "BBC World",
+   "at": "2026-08-20T10:49:22.304386+00:00"
+  },
+  {
+   "fp": "killed minister opposition raid security zambian",
+   "title": "Ex-Zambian minister killed in security raid on opposition",
+   "source": "BBC World",
+   "at": "2026-08-20T10:49:24.384530+00:00"
   }
  ],
  "titles": [
-  "collision dead head irish motorway several",
-  "attack book fire kyiv market russian sets",
   "hawaii heavy hurricane island lala lash rain region skirts wind",
   "called hero michigan police shooting spree survivor year",
   "arrests ceuta evacuations hurricane indonesia lala podcast",
@@ -3603,6 +3601,8 @@
   "2024 arrested ballot casting chinese election fraud national voter",
   "2028 coming election movement presidential youth",
   "budget china defense floats message record sending taiwan",
-  "action best case climate europe even finds increase scenario study wildfires without"
+  "action best case climate europe even finds increase scenario study wildfires without",
+  "americans chief crash ecuador five helicopter intelligence kenya killed",
+  "killed minister opposition raid security zambian"
  ]
 }
