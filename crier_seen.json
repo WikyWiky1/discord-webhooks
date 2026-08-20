@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40309277",
-  "CBMipAFBVV95cUxOSEtJMFBwNF9iSDZLOXFpWjROVkFLb3ZvQnFGTC0yMXdwd2M1d1A1V0owa2F5ekpHaG10a1V3ZDAwVXhkYXZPTkJWS0NsX2R5Q0I5dTg0NjdLQUpOZ2VROEJZZjEwSVg3WHNZekJLd1VmYjc5RGdaOHV0WGR0dmhOZDJnR0thdUJ3ZVRXM3RXWkt4NTE2LW5QWExIeEFDc3JjaEQ2TQ",
   "https://nypost.com/?post_type=article&p=40313820",
   "https://www.washingtonexaminer.com/?p=4685588",
   "https://nypost.com/?post_type=article&p=40313921",
@@ -799,21 +797,11 @@
   "CBMinwFBVV95cUxPWmI3cGhoNXpSbmZVX3lucG5SMEZQZWQ5TGFWUkZmaGNQdE8wZktOdFMtRjVQZmhMam1xY1N5OERJV0ZhUVUtMnBwS3REb2p1WXE3aTN0SkM3LU1yNF9PX29fU3FSeDB4VEc4ZVgxUVh1ZWRaVENueHZYTS1wRzFiM25sRnFKU3VhazRLN0dITlN4NmZZeEYxSXRHX04tZm8",
   "CBMikAFBVV95cUxQTHF5V2hJdGEwOHpyRTJDbTl2SFVBMl9UZzhuS0R2QWRERkwydk82Q2tybHo3Vlh1VzdWc1J6TWdPejg1ck01NGprV0pQTjFsWW0wVzZKMk9EbzJTS1VtdUZUN1JmeEEyb18xamw3TmNHMmR3ZFpwSEgxcEozUThrN2V6eEc2dTlEYjBCbVJVYTM",
   "https://thehill.com/?p=6041660",
-  "CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ"
+  "CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ",
+  "https://www.theguardian.com/education/2026/aug/20/governments-plan-young-people-continue-studying-gcse-maths-english-exams",
+  "https://nypost.com/?post_type=article&p=40416157"
  ],
  "posts": [
-  {
-   "fp": "actor battle blaze burns dawn dead devastated down firefighters home moment",
-   "title": "Moment \u2018Dawn of the Dead\u2019 actor\u2019s home burns down as firefighters battle blaze: \u2018Devastated\u2019",
-   "source": "New York Post",
-   "at": "2026-08-16T22:38:31.924739+00:00"
-  },
-  {
-   "fp": "engulfs greek island killed least salamina wildfire",
-   "title": "At least two killed as wildfire engulfs Greek island of Salamina",
-   "source": "Reuters World",
-   "at": "2026-08-16T22:38:33.648592+00:00"
-  },
   {
    "fp": "congo country deadliest ebola history outbreak",
    "title": "Ebola outbreak in DR Congo now deadliest in country's history",
@@ -3201,11 +3189,21 @@
    "title": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate",
    "source": "Reuters",
    "at": "2026-08-20T18:38:20.047112+00:00"
+  },
+  {
+   "fp": "attack demotivating english fail gcses leaders make maths plan pupils retake",
+   "title": "Leaders attack \u2018demotivating\u2019 plan to make pupils who fail GCSEs retake maths and English",
+   "source": "Guardian World",
+   "at": "2026-08-20T18:45:42.073770+00:00"
+  },
+  {
+   "fp": "billionaire border california fight gets playground secret weapon wildfires worm",
+   "title": "Billionaire\u2019s playground on California border gets secret weapon in fight against wildfires: \u2018The worm\u2019",
+   "source": "New York Post",
+   "at": "2026-08-20T18:45:43.756703+00:00"
   }
  ],
  "titles": [
-  "actor battle blaze burns dawn dead devastated down firefighters home moment",
-  "engulfs greek island killed least salamina wildfire",
   "congo country deadliest ebola history outbreak",
   "breaks diego evacuations fast fire forcing moving",
   "about away hawaii homes hurricane lala lashes swept",
@@ -3603,6 +3601,8 @@
   "breach investigates potential sanctions tiktok",
   "alcohol canada cautious deal ottawa pushes quebec remains restore trade",
   "cook iowa political races report senate shift texas toss",
-  "bessent china cooperate ever impose iran sanctions toughest urges"
+  "bessent china cooperate ever impose iran sanctions toughest urges",
+  "attack demotivating english fail gcses leaders make maths plan pupils retake",
+  "billionaire border california fight gets playground secret weapon wildfires worm"
  ]
 }
