@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiygFBVV95cUxQWloxM0JBWi1KZHlmdHJEZzZFWnhNeXVnVHRZa0JCdFhfZW5wTF9jeEdrRk9XM2xaWWlMWnhtbS1EVGNpX3Bta2dGcHBHYlF3UVlhV3ZodE1SWjNIMzNrUWc0aXdKQURNdkFZZ3FQMzVEb2FHQ1loTldoREwzaWotLU4yVVJsQWVqQ2k2blctRW9UaXI2Zm9Dc2dIQTJXVkN6OTB5UlFGS2NuX1hLWmFuS2ViY1JHeXVwM242SzgxaFdKLW85VEZodkNn",
-  "CBMizAFBVV95cUxOcXdTX0JRRkR5TkpEQVhUM2xoRnVuMXBwNk1Scm5DRzlWTmtjN3RfX1hKdVg0WHBwMExfY29JNkJoWXVST0s3aDFOM090SmZSejNJZ291dkpDSFE3cjNRbzdEeTdIUi1UQllvV2U3WjVlTTlvLTc3Nml1YjZ1ekNtbl8ya1gtYU1walg1a19mVWhSdXNMTnk0U2RVN3J3Ym9EeXJ1UVJXNFZIaktJZmpLYXhoRzY0STZBX3FVb3IwVVptWEY4SWpXaGxrZGQ",
   "https://thehill.com/?p=6023832",
   "https://nypost.com/?post_type=article&p=40299207",
   "https://www.theguardian.com/australia-news/2026/aug/12/victorian-microparty-mps-including-georgie-purcell-to-face-re-election-struggle-after-group-voting-tickets-abolished",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40422776",
   "https://nypost.com/?post_type=article&p=40422654",
   "CBMirwFBVV95cUxPYXI1dy1TTTZyOHJaZjdCNmVNMlNodno5WEY5cWRrLTk3WW1CYUxreUFqc0M1ZlhXcU52ZmxWNTEyd2RnbFBHRkU1SkktRlF5NFRNcG5WZlM0QnBLVnljY1RYelIyMlM1MFF0LXN4Rm1XaGtOT1BtWG9LS0ZMendJbEhYUVN4OTBNYldCRWhRQ0oxbmlGUWhGSUs1UERZSHJZQ1MydGFlb0puaG1RV0hr",
-  "CBMitwFBVV95cUxNT3c1M1k1cmhyTDQ5ejRXM1Juc2VvWkJkVzdUUGlDdWpzcGM4S0wtYWlkTXRpN1Yyc2xHcGswSkVNbm42S3IyTHktZEFBQlotdEhJVUIyQzhuaWNKajhMVXdUNUREaHBXYzJnRzZ5bkJYMl9YOXh4M2pCUFNNcW9PS3h4X1RRcG1IUHdxMWlRVTFIeHFzd2pFcmFSQkMya0l4eHZzSzBnZ3A0aTlHUlk2c0x2bTJ5Z2M"
+  "CBMitwFBVV95cUxNT3c1M1k1cmhyTDQ5ejRXM1Juc2VvWkJkVzdUUGlDdWpzcGM4S0wtYWlkTXRpN1Yyc2xHcGswSkVNbm42S3IyTHktZEFBQlotdEhJVUIyQzhuaWNKajhMVXdUNUREaHBXYzJnRzZ5bkJYMl9YOXh4M2pCUFNNcW9PS3h4X1RRcG1IUHdxMWlRVTFIeHFzd2pFcmFSQkMya0l4eHZzSzBnZ3A0aTlHUlk2c0x2bTJ5Z2M",
+  "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+  "https://www.bbc.co.uk/news/articles/c304e2dlv20o#1"
  ],
  "posts": [
-  {
-   "fp": "hungarian killed motorway polish twelve veers",
-   "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-   "source": "BBC World",
-   "at": "2026-08-16T07:17:31.435811+00:00"
-  },
-  {
-   "fp": "breaking europe european news today",
-   "title": "Europe News | Breaking European News Today",
-   "source": "AP",
-   "at": "2026-08-16T07:48:24.844214+00:00"
-  },
   {
    "fp": "across aerial attacks fresh killed launches russia three ukraine",
    "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
@@ -3201,11 +3189,21 @@
    "title": "CK Hutchison seeks $1.5 billion from Panama in treaty dispute arbitration",
    "source": "Reuters",
    "at": "2026-08-20T03:45:52.421152+00:00"
+  },
+  {
+   "fp": "attack comes killing kyiv least missile russian under",
+   "title": "Kyiv comes under Russian missile attack, killing at least six",
+   "source": "Guardian World",
+   "at": "2026-08-20T04:00:41.090371+00:00"
+  },
+  {
+   "fp": "australian bush dead eight found hiker missing search teen",
+   "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+   "source": "BBC World",
+   "at": "2026-08-20T04:00:42.791206+00:00"
   }
  ],
  "titles": [
-  "hungarian killed motorway polish twelve veers",
-  "breaking europe european news today",
   "across aerial attacks fresh killed launches russia three ukraine",
   "floods killed spain women",
   "crashes hungary killed tourist twelve",
@@ -3603,6 +3601,8 @@
   "charged cheating claiming colorado depression herself husband killed murder postpartum wife",
   "aide attack backfires devine disgustingly harp miranda natalie ossoff sexist time trump",
   "african central collapse death mine republic rises toll",
-  "arbitration billion dispute hutchison panama seeks treaty"
+  "arbitration billion dispute hutchison panama seeks treaty",
+  "attack comes killing kyiv least missile russian under",
+  "australian bush dead eight found hiker missing search teen"
  ]
 }
