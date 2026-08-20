@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4681622",
-  "https://nypost.com/?post_type=article&p=40296542",
   "https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall",
   "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say",
   "https://www.theguardian.com/uk-news/2026/aug/12/uk-extreme-heat-prompts-cobra-emergency-meeting",
@@ -799,21 +797,11 @@
   "https://www.washingtonexaminer.com/?p=4693841",
   "CBMiiwFBVV95cUxQM2xDWjU3YVlQWTFzU1l3ZG1FdFJZT1ZNTEoxUnNFNGlHV2k5SVh2VzV6aHRrTTd1ZWI1TngwWHpKOE9XUnZwN3NpUnczUWtEVEZwQ2hRLWlfLU5kYVBqbkJTaFBRX2huOVM4ZXJPcV81VEppRzd4YUwxYi0tbGxIUXVtbi1XZnY0NXMw",
   "CBMifkFVX3lxTE1oS3pJTUUwY3I3M2s1TEQ5Vmt6c3picTY3VmFDbVlYWVN1RmZWR19kNFZmWGV5T0dyM09fdVpicVFwTVNtcllVV05rVmtSWG9ZMjNOem9CRlVyYkM0WUhRemQ4MnZabUVuQ01XbjBBd2laVExWTnY4bVZESDNxZw",
-  "CBMiqwFBVV95cUxNQUpEbUkyemhaZUh3OGhseHNXWHRGSzJKcmNwMlMwOXZpRTF6UEtrT3NGSkROZjN1QlEwMUtSNUNnUDNWcUVPLVVGZE4tVzVMaFVvMzJSZUl0a2JQMUhPMlJlQm1mRldCYko5Zzk2MjAwVmx5MlJ6S0V5NEV1WHpxbmJJMzJTMU8tYkxxUGl5ZHN2YVBEelZlUkl6cllUNExhRnhDN3E4V0RjZ3M"
+  "CBMiqwFBVV95cUxNQUpEbUkyemhaZUh3OGhseHNXWHRGSzJKcmNwMlMwOXZpRTF6UEtrT3NGSkROZjN1QlEwMUtSNUNnUDNWcUVPLVVGZE4tVzVMaFVvMzJSZUl0a2JQMUhPMlJlQm1mRldCYko5Zzk2MjAwVmx5MlJ6S0V5NEV1WHpxbmJJMzJTMU8tYkxxUGl5ZHN2YVBEelZlUkl6cllUNExhRnhDN3E4V0RjZ3M",
+  "CBMinwFBVV95cUxPTXllVUxNMHZXYzZJT3QtalVQaWZ0OFJnSHdxNEhTYTB4MjRONDdxUnJZd2M4YXd3ZDRVdHRGaWRXLTZVb0JNV0ZBclJGX1V6cGgxUGpWbXNmZlROYzhXYXV1QVN1VHlwODc0MmFreHA4c01oWkF2MWpuVGlHUktybEFtYkpxS1NSamhNR04yMElTaDBjeWlEOGRwYjkySmM",
+  "https://www.theguardian.com/world/2026/aug/20/indonesia-earthquake-flores-miracle-rescue-elderly-woman-found-alive-in-rubble"
  ],
  "posts": [
-  {
-   "fp": "cuts evacuate indonesia kills quake roads thousands",
-   "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
-   "source": "Reuters",
-   "at": "2026-08-16T05:21:25.550350+00:00"
-  },
-  {
-   "fp": "cincinnati clean collapsing comes condition distressed djokovic health novak open",
-   "title": "Distressed Novak Djokovic comes clean on health condition after collapsing at Cincinnati Open",
-   "source": "New York Post",
-   "at": "2026-08-16T05:57:49.763697+00:00"
-  },
   {
    "fp": "amendment appearance covid fauci fifth invoking probe refuses senate times",
    "title": "Fauci refuses Senate appearance after invoking Fifth Amendment more than 100 times in COVID probe",
@@ -3201,11 +3189,21 @@
    "title": "Democratic socialist Angie Nixon won Tuesday's primary in Florida. Can she win in November?",
    "source": "AP",
    "at": "2026-08-20T01:12:12.424977+00:00"
+  },
+  {
+   "fp": "apache army crash helicopter killed missions resumes texas training",
+   "title": "Army resumes Apache helicopter training missions after Texas crash that killed 2",
+   "source": "AP",
+   "at": "2026-08-20T02:12:51.437593+00:00"
+  },
+  {
+   "fp": "alive days indonesian like miracle pulled quake rubble three woman year",
+   "title": "\u2018Like a miracle\u2019: 84-year-old woman pulled alive from rubble three days after Indonesian quake",
+   "source": "Guardian World",
+   "at": "2026-08-20T02:12:53.278719+00:00"
   }
  ],
  "titles": [
-  "cuts evacuate indonesia kills quake roads thousands",
-  "cincinnati clean collapsing comes condition distressed djokovic health novak open",
   "amendment appearance covid fauci fifth invoking probe refuses senate times",
   "blowout michigan pollsters predicted primary wrong",
   "ahead depot earnings home meeting minutes released report street wall walmart week",
@@ -3603,6 +3601,8 @@
   "digit double funding governor lindell loss minnesota primary recount self",
   "cancer moderna soars stock success vaccine",
   "cancer moderna opinion road vaccine",
-  "angie democratic florida nixon november primary socialist tuesday"
+  "angie democratic florida nixon november primary socialist tuesday",
+  "apache army crash helicopter killed missions resumes texas training",
+  "alive days indonesian like miracle pulled quake rubble three woman year"
  ]
 }
