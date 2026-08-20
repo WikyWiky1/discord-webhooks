@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6023693",
-  "CBMiowFBVV95cUxQRFhQQ0ctUFg5dmpoZFktVWJpZkV3dWE2MFpGMnRERzlPZzltQUdNN2tlMG1kdnozWi1TTkczRG5RZmdXV2RDU1R4WEZwR3kwTXhKendjU1JjX3ROM2tiOEd1TjBFRVdMZ2hPOTNpZkpLbDhGOHBaUk93N3ZDQTNfblJJMXUtR3ExSTNsenBuZjBpM0ZtdlpfcV9WQ1RMN0MtZDcw",
   "https://thehill.com/?p=6022551",
   "CBMitAFBVV95cUxQc1ExQS1ISERIZUtIcGtkWkNTMFBiclA3Um53eW13akVUMkFkS1lJdVV2X1N2c1QxMlc2QzZRTjdPWHJKck1BQ25GQnhmNDFzMjk3WEozS2xVbmdnLTU4dUphZFR5SzN3cTdVdjVhdEQ1WkhlZjcwMVFOc0NRdXR6TTkyMi1ZODlMbnFYNE9WR3d2T0UwUzYwM0JsWU44STkySzF1MlE3Yk42NXdNN2lneXdSWjQ",
   "https://www.theguardian.com/us-news/2026/aug/12/midwest-storms-deaths-wind-power-outages-flooding",
@@ -799,21 +797,11 @@
   "CBMirwFBVV95cUxPMnZGZVYxR0ktenNic1hUeEpBVlB3bmZ1eGN2eGl0VFZELXU1ck5OSlVhR0g1N1pYZ2c3ZTV4alNUbUlCSlY1Q1Rmd0liZTdHLXpnRUt5UkViT1NDaXNBcFdfajVDMzJ2SGVsUi1IVHctT3JMZ2ltOENrZkdxOTdNdTJlU0gyNzJzTmxVVHphZVFtVnpCa1lDdGxoVExQNG03azRKcGR6NmFQMlMyMC1Z",
   "https://www.theguardian.com/world/2026/aug/20/wildfires-europe-increase-climate-scenario-study",
   "https://www.bbc.co.uk/news/articles/clylkv4z59vo#1",
-  "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o#1"
+  "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o#1",
+  "https://nypost.com/?post_type=article&p=40425106",
+  "CBMihgFBVV95cUxQc1I3NmFxRkZRbi0wa1lsMFotNzUtazZwWGNGbXRiQW01UUh2d0Q5S0JkM3Y0U1J6d3lkMGh3ZWoySWF4VlNRUnVmMWRoVWI1UTctaVJYVXNXTnItZVRLMXZldVdsVkItQTlwdWl1dlBtZjZoeHNTUHlxVFE2LXpaQ00xR0k4Zw"
  ],
  "posts": [
-  {
-   "fp": "hawaii heavy hurricane island lala lash rain region skirts wind",
-   "title": "Hurricane Lala skirts Hawaii\u2019s Big Island as heavy wind and rain lash region",
-   "source": "Guardian World",
-   "at": "2026-08-16T13:46:32.767737+00:00"
-  },
-  {
-   "fp": "called hero michigan police shooting spree survivor year",
-   "title": "\u2018She is a hero\u2019: 13-year-old survivor of Michigan shooting spree called police",
-   "source": "Guardian World",
-   "at": "2026-08-16T14:15:46.539064+00:00"
-  },
   {
    "fp": "arrests ceuta evacuations hurricane indonesia lala podcast",
    "title": "PODCAST: Indonesia evacuations, Hurricane Lala and Ceuta arrests",
@@ -3201,11 +3189,21 @@
    "title": "Ex-Zambian minister killed in security raid on opposition",
    "source": "BBC World",
    "at": "2026-08-20T10:49:24.384530+00:00"
+  },
+  {
+   "fp": "alive australian dead family found hiker hooper lily mistakenly search told",
+   "title": "Australian hiker Lily Hooper, 18, found dead after family mistakenly told she was alive during 8-day search",
+   "source": "New York Post",
+   "at": "2026-08-20T11:19:52.150332+00:00"
+  },
+  {
+   "fp": "attack firebomb supercars torched wedding",
+   "title": "Supercars torched in wedding \u2018firebomb attack\u2019",
+   "source": "Telegraph",
+   "at": "2026-08-20T11:19:53.767445+00:00"
   }
  ],
  "titles": [
-  "hawaii heavy hurricane island lala lash rain region skirts wind",
-  "called hero michigan police shooting spree survivor year",
   "arrests ceuta evacuations hurricane indonesia lala podcast",
   "anti blanche dead fund live reaffirms todd updates weaponization",
   "arrested critically five injured left shooting state suspect university virginia",
@@ -3603,6 +3601,8 @@
   "budget china defense floats message record sending taiwan",
   "action best case climate europe even finds increase scenario study wildfires without",
   "americans chief crash ecuador five helicopter intelligence kenya killed",
-  "killed minister opposition raid security zambian"
+  "killed minister opposition raid security zambian",
+  "alive australian dead family found hiker hooper lily mistakenly search told",
+  "attack firebomb supercars torched wedding"
  ]
 }
