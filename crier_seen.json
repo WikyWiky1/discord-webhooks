@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6026007",
-  "https://www.theguardian.com/us-news/2026/aug/12/minnesota-man-killed-family-suicide",
-  "https://nypost.com/?post_type=article&p=40312779",
-  "https://nypost.com/?post_type=article&p=40268732",
-  "https://www.theguardian.com/us-news/2026/aug/12/army-helicopter-crash-texas",
-  "CBMivAFBVV95cUxNQk1ueEtwX1haTWdWbGRyWHdpZEVlcG9ORUM4anpIMFh2el92ZTJEa2hGTFRSdGlodTlKN0phUnRBb3d1ZVNIbkVCZWptWVJWaFk5clA1Z0JrY1ZlbHBlYnVCeldVTXhqZkZISkFEaVVQanAwa1pqUUhNeHBVMzI0TDBfM1ltMnp0X0d4bjRZYzNSdkN0Yml4dlFsNnVlUHhOMEZtb20yM2lfZzhqN01KUXE5c3I5Tmd3UEszNw",
   "https://nypost.com/?post_type=article&p=40309277",
   "CBMipAFBVV95cUxOSEtJMFBwNF9iSDZLOXFpWjROVkFLb3ZvQnFGTC0yMXdwd2M1d1A1V0owa2F5ekpHaG10a1V3ZDAwVXhkYXZPTkJWS0NsX2R5Q0I5dTg0NjdLQUpOZ2VROEJZZjEwSVg3WHNZekJLd1VmYjc5RGdaOHV0WGR0dmhOZDJnR0thdUJ3ZVRXM3RXWkt4NTE2LW5QWExIeEFDc3JjaEQ2TQ",
   "https://nypost.com/?post_type=article&p=40313820",
@@ -799,45 +793,15 @@
   "CBMipgFBVV95cUxQVHplN3RPdGxPbTZjdkdpbXEwcUJHLW1jdGg1WTRyR0NlSndNQjQ0V0tmRlBzalZpRHMzVFNZNUxodkZrVGZkUXNaTkNLOFBoN2dEY05DSmVYbkhENFkyM2FzcXd0dU5qTHFyMG1JYWJ0VVRmWEhaTlBFN2VwcTM1TkRoaWo4STdsRzhiaEZ4SDdhb2thbUFNdVcwa3cyNVNpY0l5N3VB",
   "https://pagesix.com/?post_type=article&p=9123247",
   "CBMi2wFBVV95cUxQZnFYQnBMY3ZXWDZiU3RteTZDb3oxUW9wOWljV3ZIeHVFYjJTbFlfUGxaczNjVWZtWlptblZFalFzWnRHdl9ERGxyMWctNm5yUXJfZ2otMW1aN0pIVFhmVExVVE40djloajBsWFhZR1R0NXd0UmFEN2M0aUludW0wN0dPZW9xUWVaamY0ZUU0LXN5X3hFbk1CVC1teExsb2RscWRYUE5CWkdFVEQ1eXZFR09ZTktvcHEzaGNqN3ZGZm92NjYxa3ZsS01XUlB6SzVXVDRHV0puX3FOT0E",
-  "https://news.sky.com/story/at-least-50-people-dead-after-boat-carrying-farm-workers-capsizes-in-nigeria-13575129"
+  "https://news.sky.com/story/at-least-50-people-dead-after-boat-carrying-farm-workers-capsizes-in-nigeria-13575129",
+  "CBMinwFBVV95cUxNU0ZaR0FPdTIwcWpTRElWLTNTNTdqZEpYY3RPVnlQR21Cb2lZV056TkpGR0ctbUdzMnFwS0VydHdkdWZhSmhObElQY0dNcUN0SmpyRTBZX2U2U2dCUjF3NjRMNWI3TWtFWVJiWXNqbFFsWkNlRklBbzA3N3Iyb2gyUWUyUXl2U0VXeFVWeWd3WTlBTjZ1amJrQjlyX2xYR3c",
+  "https://thehill.com/?p=6041767",
+  "CBMinwFBVV95cUxPWmI3cGhoNXpSbmZVX3lucG5SMEZQZWQ5TGFWUkZmaGNQdE8wZktOdFMtRjVQZmhMam1xY1N5OERJV0ZhUVUtMnBwS3REb2p1WXE3aTN0SkM3LU1yNF9PX29fU3FSeDB4VEc4ZVgxUVh1ZWRaVENueHZYTS1wRzFiM25sRnFKU3VhazRLN0dITlN4NmZZeEYxSXRHX04tZm8",
+  "CBMikAFBVV95cUxQTHF5V2hJdGEwOHpyRTJDbTl2SFVBMl9UZzhuS0R2QWRERkwydk82Q2tybHo3Vlh1VzdWc1J6TWdPejg1ck01NGprV0pQTjFsWW0wVzZKMk9EbzJTS1VtdUZUN1JmeEEyb18xamw3TmNHMmR3ZFpwSEgxcEozUThrN2V6eEc2dTlEYjBCbVJVYTM",
+  "https://thehill.com/?p=6041660",
+  "CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ"
  ],
  "posts": [
-  {
-   "fp": "alert behave emergency heatwave need people sensibly",
-   "title": "Do people need an emergency alert to behave sensibly in a heatwave?",
-   "source": "Telegraph",
-   "at": "2026-08-16T21:17:34.247742+00:00"
-  },
-  {
-   "fp": "america betting congress dems gingrich iran like north outlast politically take trump trying vietnam",
-   "title": "Iran betting it can outlast Trump if Dems take Congress, Gingrich says: \u2018Trying to win in America politically\u2019 like North Vietnam",
-   "source": "New York Post",
-   "at": "2026-08-16T21:19:21.140977+00:00"
-  },
-  {
-   "fp": "cassidy claims crazy down going numbers order poll president stupid trump vaccine",
-   "title": "Cassidy on Trump's vaccine order, 'crazy, stupid' claims: 'This is why the president's poll numbers are going down'",
-   "source": "The Hill",
-   "at": "2026-08-16T21:19:22.786752+00:00"
-  },
-  {
-   "fp": "about claims crazy denounces republican safety senator stupid trump vaccine",
-   "title": "Republican senator denounces Trump\u2019s \u2018crazy, stupid\u2019 claims about MMR vaccine safety",
-   "source": "Guardian World",
-   "at": "2026-08-16T21:19:26.554722+00:00"
-  },
-  {
-   "fp": "about cassidy changing evident lied pretty schedule vaccine",
-   "title": "Cassidy: 'Pretty evident' RFK Jr. lied about changing vaccine schedule",
-   "source": "The Hill",
-   "at": "2026-08-16T21:19:28.300232+00:00"
-  },
-  {
-   "fp": "crash five four injured ireland killed other people teenagers",
-   "title": "Five teenagers killed and four other people injured in Ireland car crash",
-   "source": "Guardian World",
-   "at": "2026-08-16T22:13:18.192776+00:00"
-  },
   {
    "fp": "actor battle blaze burns dawn dead devastated down firefighters home moment",
    "title": "Moment \u2018Dawn of the Dead\u2019 actor\u2019s home burns down as firefighters battle blaze: \u2018Devastated\u2019",
@@ -3201,15 +3165,45 @@
    "title": "At least 50 people dead after boat carrying farm workers capsizes in Nigeria",
    "source": "Sky News",
    "at": "2026-08-20T17:59:35.588108+00:00"
+  },
+  {
+   "fp": "anew bond builds drags lower market pressure stock walmart",
+   "title": "Pressure builds anew in the bond market as Walmart drags the US stock market lower",
+   "source": "AP",
+   "at": "2026-08-20T18:38:10.577719+00:00"
+  },
+  {
+   "fp": "answers dems hegseth independence press senate stars stripes",
+   "title": "Senate Dems press Hegseth for answers on Stars and Stripes independence",
+   "source": "The Hill",
+   "at": "2026-08-20T18:38:12.340076+00:00"
+  },
+  {
+   "fp": "breach investigates potential sanctions tiktok",
+   "title": "TikTok investigates potential UK sanctions breach",
+   "source": "Telegraph",
+   "at": "2026-08-20T18:38:14.685228+00:00"
+  },
+  {
+   "fp": "alcohol canada cautious deal ottawa pushes quebec remains restore trade",
+   "title": "Quebec remains cautious on Canada-US trade deal as Ottawa pushes to restore US alcohol",
+   "source": "AP",
+   "at": "2026-08-20T18:38:16.397578+00:00"
+  },
+  {
+   "fp": "cook iowa political races report senate shift texas toss",
+   "title": "Texas, Iowa Senate races shift to toss-ups: Cook Political Report",
+   "source": "The Hill",
+   "at": "2026-08-20T18:38:18.170713+00:00"
+  },
+  {
+   "fp": "bessent china cooperate ever impose iran sanctions toughest urges",
+   "title": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate",
+   "source": "Reuters",
+   "at": "2026-08-20T18:38:20.047112+00:00"
   }
  ],
  "titles": [
-  "alert behave emergency heatwave need people sensibly",
-  "america betting congress dems gingrich iran like north outlast politically take trump trying vietnam",
-  "cassidy claims crazy down going numbers order poll president stupid trump vaccine",
-  "about claims crazy denounces republican safety senator stupid trump vaccine",
-  "about cassidy changing evident lied pretty schedule vaccine",
-  "crash five four injured ireland killed other people teenagers",
   "actor battle blaze burns dawn dead devastated down firefighters home moment",
   "engulfs greek island killed least salamina wildfire",
   "congo country deadliest ebola history outbreak",
@@ -3603,6 +3597,12 @@
   "fight help russia serbia turns wildfires",
   "brother grand indicted jury kids michele murder nick reiner testified",
   "congo contain ebola ervebo outbreak receive vaccines",
-  "boat capsizes carrying dead farm least nigeria people workers"
+  "boat capsizes carrying dead farm least nigeria people workers",
+  "anew bond builds drags lower market pressure stock walmart",
+  "answers dems hegseth independence press senate stars stripes",
+  "breach investigates potential sanctions tiktok",
+  "alcohol canada cautious deal ottawa pushes quebec remains restore trade",
+  "cook iowa political races report senate shift texas toss",
+  "bessent china cooperate ever impose iran sanctions toughest urges"
  ]
 }
