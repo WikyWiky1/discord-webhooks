@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40298468",
-  "https://www.washingtonexaminer.com/?p=4683876",
   "https://www.theguardian.com/australia-news/2026/aug/12/bondi-shooting-hero-ahmed-al-ahmed-assault-charges-dropped-ntwnfb",
   "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated",
   "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40419821",
   "https://nypost.com/?post_type=article&p=40416622",
   "https://nypost.com/?post_type=article&p=40416599",
-  "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation"
+  "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
+  "https://nypost.com/?post_type=article&p=40420269",
+  "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic"
  ],
  "posts": [
-  {
-   "fp": "attack fires injures kyiv missile officials russian sparks ukraine",
-   "title": "Russian missile attack on Kyiv sparks fires, injures one, Ukraine officials say",
-   "source": "Reuters",
-   "at": "2026-08-16T02:18:16.709483+00:00"
-  },
-  {
-   "fp": "indonesia kills landslides quake rescuers rubble through",
-   "title": "Rescuers dig through rubble and landslides after Indonesia quake kills 47",
-   "source": "AP",
-   "at": "2026-08-16T03:15:08.921792+00:00"
-  },
   {
    "fp": "ceasefire deadliest israel june kills lebanon since strikes",
    "title": "Israel kills 11 in deadliest strikes on Lebanon since June ceasefire",
@@ -3201,11 +3189,21 @@
    "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
    "source": "NPR News",
    "at": "2026-08-19T23:40:48.273858+00:00"
+  },
+  {
+   "fp": "ball crash devastated fire kills socal teens watches",
+   "title": "SoCal crash kills 2 teens as devastated dad watches \u2018ball of fire\u2019",
+   "source": "New York Post",
+   "at": "2026-08-20T00:50:03.280895+00:00"
+  },
+  {
+   "fp": "african central collapses dead goldmine republic",
+   "title": "More than 100 dead after goldmine collapses in Central African Republic",
+   "source": "Guardian World",
+   "at": "2026-08-20T00:50:05.072120+00:00"
   }
  ],
  "titles": [
-  "attack fires injures kyiv missile officials russian sparks ukraine",
-  "indonesia kills landslides quake rescuers rubble through",
   "ceasefire deadliest israel june kills lebanon since strikes",
   "bloodbath campus caught manhunt mass perp police shooting state suspect university virginia",
   "hawaii hits hurricane lala losing power",
@@ -3603,6 +3601,8 @@
   "blueberry coli deadly fears highest hits hospitalized level recall risk sickened",
   "barely bullseyes individuals kirk lives practice prosecutors putting risk robinson shooting tyler",
   "accused artist attack beach beloved butchering california enters mall plea quiet shocked stunning teen town",
-  "california home landscaping passes rules toughest wildfire"
+  "california home landscaping passes rules toughest wildfire",
+  "ball crash devastated fire kills socal teens watches",
+  "african central collapses dead goldmine republic"
  ]
 }
