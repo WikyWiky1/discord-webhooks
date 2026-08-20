@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/12/trump-catering-cart-iran-threat",
-  "https://www.theguardian.com/environment/2026/aug/12/just-20-of-6600-defra-staff-working-on-climate-adaptation-amid-drought-and-wildfires",
   "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
   "https://www.theguardian.com/uk-news/2026/aug/12/inglorious-twelfth-calls-grouse-season-banned-prevent-wildfires-peatland-damage",
   "CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf",
@@ -799,21 +797,11 @@
   "CBMiqwFBVV95cUxOTlp1UndkOXlXZ2JkdlFsSjVQbU90V0x0bHBmQWZkTlBsX0lBNU8za0t1OFlfUG0ySlJXbU44U2FOM05GTEJGNG1fR3BvTjFJOC04VUNGaXppNVRPVjgyTHNRTVpVVkgwOXJWd0k3Tmdxc0RpdXhieFNSWnZKOG15c2lpZURycU5vTzFlS25QM3MwRjYySlg0anNDenlVNlF2cDVFV0F3N3dBRXc",
   "CBMiuwFBVV95cUxOaWlKV0RUU0lqVEhJdVJ2NmJXeXNIQlFuMDQ2eGstbW4wWFEwcHdfdE1landiUHpHVTM1c0dWVkpMLWc4Q0ZVWXBUWFBIaFotM1pvczFvakhyS2d4a1dBNVFEZDZwRzBpSWZhb0tmdDBjVG5OcXh2MDJCZWxnOWZ4dm5QV3FBaXU1UzU2SXRlSEhYUFNPQThibmxjSjgtZS0xU29UUjBvUUpjbjM4bGRFbHEzMFlBR3hCM1FZ",
   "https://www.bbc.co.uk/news/articles/c5yrnz24j22o#1",
-  "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates"
+  "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+  "https://nypost.com/?post_type=article&p=40424654",
+  "CBMilAFBVV95cUxQcUFZV2NDbFd3SEVYby1oNDN6dzdINEk0RWVwOTF5OUdwSkJfU2d6MWhuTE1mU05lZ1NLSlVaVU1hNk9JOXhDdzBNVDV0VFZ0Tnc5SXBERWtwQ1VBc2w4S2RtdXIxdWNTeEU4VWNONG5oZ3prLUh3cFVaaGlPa0V3eXhUd04zY3pHc3Z6TVZWcHdRMFJo"
  ],
  "posts": [
-  {
-   "fp": "fight florida last marks primary stand",
-   "title": "Florida primary fight marks DSA's last stand",
-   "source": "The Hill",
-   "at": "2026-08-16T12:37:30.836434+00:00"
-  },
-  {
-   "fp": "attack killed owner",
-   "title": "Man killed in dog attack after row with owner",
-   "source": "Telegraph",
-   "at": "2026-08-16T13:15:57.469085+00:00"
-  },
   {
    "fp": "bombs iran nuclear option other plutonium weapons",
    "title": "Iran's other nuclear weapons option \u2014 plutonium bombs",
@@ -3201,11 +3189,21 @@
    "title": "Russia launches \u2018massive attack\u2019 on Kyiv and surrounding region \u2013 Europe live",
    "source": "Guardian World",
    "at": "2026-08-20T08:09:17.721975+00:00"
+  },
+  {
+   "fp": "across barrage capital kills least missile russian ukraine wounds",
+   "title": "Russian missile barrage across Ukraine\u2019s capital kills at least 12, wounds 33",
+   "source": "New York Post",
+   "at": "2026-08-20T08:57:41.213926+00:00"
+  },
+  {
+   "fp": "cruise kill kyiv missiles russian",
+   "title": "Russian cruise missiles kill 12 in Kyiv",
+   "source": "Telegraph",
+   "at": "2026-08-20T08:57:42.884099+00:00"
   }
  ],
  "titles": [
-  "fight florida last marks primary stand",
-  "attack killed owner",
   "bombs iran nuclear option other plutonium weapons",
   "accident boat death kariba lake police rises toll zimbabwe",
   "alert emergency haigh louise signed wildfires",
@@ -3603,6 +3601,8 @@
   "chief down executive overhaul safety steps travelodge",
   "external held loses nuclear plant power russian supply zaporizhzhia",
   "dead four japan train workers",
-  "attack europe kyiv launches live massive region russia surrounding"
+  "attack europe kyiv launches live massive region russia surrounding",
+  "across barrage capital kills least missile russian ukraine wounds",
+  "cruise kill kyiv missiles russian"
  ]
 }
