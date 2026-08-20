@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
-  "https://www.theguardian.com/uk-news/2026/aug/12/inglorious-twelfth-calls-grouse-season-banned-prevent-wildfires-peatland-damage",
-  "CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf",
-  "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno#0",
   "CBMiugFBVV95cUxPZDZ6SWFiSG8zZWkwdHY2cHg3dzZFaUFESUFMcDJIT3hfazk4bXRMel9UWWVDWXBOSGNneFl0UF90U3NycnpkVlFjR014RnVjVGdQNXBSQ3BfY1pEdDR1ODJPSnFQMEhpc3I3WEl5d3cwbm9pNTdZS2R3TWNzejk0WXAzdmVYVERRTE5VWUQzblJPRDA3TDJJSFM4VWttcEtZXzZMM1FNcXAwRUltZENkSlJrWjU5a2dFUWc",
   "https://nypost.com/?post_type=article&p=40300101",
   "https://nypost.com/?post_type=article&p=40293009",
@@ -799,33 +795,13 @@
   "https://www.bbc.co.uk/news/articles/c5yrnz24j22o#1",
   "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
   "https://nypost.com/?post_type=article&p=40424654",
-  "CBMilAFBVV95cUxQcUFZV2NDbFd3SEVYby1oNDN6dzdINEk0RWVwOTF5OUdwSkJfU2d6MWhuTE1mU05lZ1NLSlVaVU1hNk9JOXhDdzBNVDV0VFZ0Tnc5SXBERWtwQ1VBc2w4S2RtdXIxdWNTeEU4VWNONG5oZ3prLUh3cFVaaGlPa0V3eXhUd04zY3pHc3Z6TVZWcHdRMFJo"
+  "CBMilAFBVV95cUxQcUFZV2NDbFd3SEVYby1oNDN6dzdINEk0RWVwOTF5OUdwSkJfU2d6MWhuTE1mU05lZ1NLSlVaVU1hNk9JOXhDdzBNVDV0VFZ0Tnc5SXBERWtwQ1VBc2w4S2RtdXIxdWNTeEU4VWNONG5oZ3prLUh3cFVaaGlPa0V3eXhUd04zY3pHc3Z6TVZWcHdRMFJo",
+  "https://nypost.com/?post_type=article&p=40417427",
+  "https://www.washingtonexaminer.com/?p=4694130",
+  "https://www.washingtonexaminer.com/?p=4693611",
+  "CBMirwFBVV95cUxPMnZGZVYxR0ktenNic1hUeEpBVlB3bmZ1eGN2eGl0VFZELXU1ck5OSlVhR0g1N1pYZ2c3ZTV4alNUbUlCSlY1Q1Rmd0liZTdHLXpnRUt5UkViT1NDaXNBcFdfajVDMzJ2SGVsUi1IVHctT3JMZ2ltOENrZkdxOTdNdTJlU0gyNzJzTmxVVHphZVFtVnpCa1lDdGxoVExQNG03azRKcGR6NmFQMlMyMC1Z"
  ],
  "posts": [
-  {
-   "fp": "bombs iran nuclear option other plutonium weapons",
-   "title": "Iran's other nuclear weapons option \u2014 plutonium bombs",
-   "source": "The Hill",
-   "at": "2026-08-16T13:15:59.356270+00:00"
-  },
-  {
-   "fp": "accident boat death kariba lake police rises toll zimbabwe",
-   "title": "Zimbabwe police: death toll from Lake Kariba boat accident rises to 80",
-   "source": "Reuters World",
-   "at": "2026-08-16T13:16:01.098935+00:00"
-  },
-  {
-   "fp": "alert emergency haigh louise signed wildfires",
-   "title": "Louise Haigh signed off wildfires emergency alert",
-   "source": "Telegraph",
-   "at": "2026-08-16T13:16:02.836789+00:00"
-  },
-  {
-   "fp": "battle belgian evacuate firefighters forced hundreds massive wildfire",
-   "title": "Firefighters battle a massive Belgian wildfire that forced hundreds to evacuate",
-   "source": "AP",
-   "at": "2026-08-16T13:16:04.604286+00:00"
-  },
   {
    "fp": "assailant attack back continue punches sing synagogue unhinged victim",
    "title": "NYC synagogue attack victim punches back at unhinged assailant: \u2018We will continue to sing\u2019",
@@ -3201,13 +3177,33 @@
    "title": "Russian cruise missiles kill 12 in Kyiv",
    "source": "Telegraph",
    "at": "2026-08-20T08:57:42.884099+00:00"
+  },
+  {
+   "fp": "2023 abortion christian claimed defended hopeful james once senate sermon talarico texas",
+   "title": "Texas Senate hopeful James Talarico once claimed \u2018God is not a Christian,\u2019 defended abortion during 2023 sermon",
+   "source": "New York Post",
+   "at": "2026-08-20T09:33:45.575052+00:00"
+  },
+  {
+   "fp": "2024 arrested ballot casting chinese election fraud national voter",
+   "title": "Chinese national arrested for voter fraud after casting ballot in 2024 election",
+   "source": "Washington Examiner",
+   "at": "2026-08-20T09:33:47.222192+00:00"
+  },
+  {
+   "fp": "2028 coming election movement presidential youth",
+   "title": "A youth movement is coming for the 2028 presidential election",
+   "source": "Washington Examiner",
+   "at": "2026-08-20T09:33:48.989154+00:00"
+  },
+  {
+   "fp": "budget china defense floats message record sending taiwan",
+   "title": "Taiwan Floats Record Defense Budget, Sending Message to U.S. and China",
+   "source": "WSJ",
+   "at": "2026-08-20T09:33:50.633831+00:00"
   }
  ],
  "titles": [
-  "bombs iran nuclear option other plutonium weapons",
-  "accident boat death kariba lake police rises toll zimbabwe",
-  "alert emergency haigh louise signed wildfires",
-  "battle belgian evacuate firefighters forced hundreds massive wildfire",
   "assailant attack back continue punches sing synagogue unhinged victim",
   "collision dead head irish motorway several",
   "attack book fire kyiv market russian sets",
@@ -3603,6 +3599,10 @@
   "dead four japan train workers",
   "attack europe kyiv launches live massive region russia surrounding",
   "across barrage capital kills least missile russian ukraine wounds",
-  "cruise kill kyiv missiles russian"
+  "cruise kill kyiv missiles russian",
+  "2023 abortion christian claimed defended hopeful james once senate sermon talarico texas",
+  "2024 arrested ballot casting chinese election fraud national voter",
+  "2028 coming election movement presidential youth",
+  "budget china defense floats message record sending taiwan"
  ]
 }
