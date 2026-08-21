@@ -801,6 +801,15 @@
    "expired": false,
    "posted_at": "2026-08-21T11:10:36+00:00",
    "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.fb0f148fa353781babc87307db5abaaf6e2d9bf8.001.1",
+   "message_id": "1540465370081787976",
+   "event": "Severe Thunderstorm Warning",
+   "area": "Boone, IL; Winnebago, IL",
+   "expired": false,
+   "posted_at": "2026-08-21T20:59:24+00:00",
+   "expired_at": null
   }
  ]
 }
