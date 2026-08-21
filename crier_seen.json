@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40324120",
-  "https://nypost.com/?post_type=article&p=40325573",
-  "https://nypost.com/?post_type=article&p=40325333",
   "CBMirgFBVV95cUxOd21YQ3loWjI1Wm1CLTROV1FEOUZ0dDBrN04yU1BzQ21Wb1FOcWlPejU2VENKUGNrUDAwcThOVVhOdHdMdmtWMTdmbE1rdmlZcHNsc0hXX1pTcU9MQW1RY2pDUTZWRklIbFJmNTFRdzI2dDg1VEc5YVZ6eTdMQUZjeWdSVllvZmdERENmOFFFR21vRXI3SGdybEJFZU9ib1paQllsZXhxSmNiLUs5emc",
   "CBMioAFBVV95cUxNSmZfd2k1WlhiR2ZjYkNxczBycTA3cklsb3hGR1RXLXk4NDd1Q1ROQUpJT0dZSFo0SVF2MTJXVmc5a2xwRUttcF9WT0YzZ0E4U2g2dmhROXIzSjh2ZmxqODI5YjdXVXVIQlUxX1F1cl9GcVhjTy1UNkFsaEFfcVNNWDZnOXR1dllxaHVsX011NllUTWVOOV9ybENoZmh4aW4w",
   "https://www.washingtonexaminer.com/?p=4686534",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40444722",
   "https://nypost.com/?post_type=article&p=40444960",
   "https://nypost.com/?post_type=article&p=40446411",
-  "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb"
+  "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb",
+  "CBMinAFBVV95cUxPZ1VqMXNlMnp0alRkYnpKcDJPQ3RPbE5qOElKdFlySkFLQVFERk5SYWpUd0M2ejlDazNnbVI1b01yTGZkXzlKMExtaWM1VmtvLUp4TVdQd05kVVJfMmE2V2s5MGFFSEw2dTFJZWZCTG5CdXhkbWItaldsMi14Qk5ONk8yVGdwR3MzbE9jd3FRVmtJR3E1bXdvZXBQeFo",
+  "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo#0",
+  "https://thehill.com/?p=6043090"
  ],
  "posts": [
-  {
-   "fp": "consumer falls ftse sixth stocks weigh",
-   "title": "FTSE 100 falls for sixth day in a row as consumer stocks weigh",
-   "source": "Reuters World",
-   "at": "2026-08-17T18:38:22.165490+00:00"
-  },
-  {
-   "fp": "already approved ballroom blanche congress house project white",
-   "title": "Blanche: Congress has already approved White House ballroom project",
-   "source": "The Hill",
-   "at": "2026-08-17T18:38:23.919417+00:00"
-  },
-  {
-   "fp": "about charged know murder shakur shooting trial tupac",
-   "title": "Tupac Shakur\u2019s Murder Trial: What to Know About the Man Charged in the Shooting",
-   "source": "WSJ",
-   "at": "2026-08-17T19:10:08.072423+00:00"
-  },
   {
    "fp": "aids belgium biggest blazes europe fight rain through wildfire",
    "title": "Rain aids fight against Belgium's biggest wildfire, as blazes rip through Europe",
@@ -3201,12 +3183,27 @@
    "title": "NSW \u2018seeking urgent advice\u2019 on controversial court ruling that found anti-Israel vandalism was not antisemitic",
    "source": "Guardian World",
    "at": "2026-08-21T15:25:40.230284+00:00"
+  },
+  {
+   "fp": "bond ease market rise stocks swings",
+   "title": "US stocks rise as the bond market\u2019s big swings ease a bit",
+   "source": "AP",
+   "at": "2026-08-21T15:37:26.776497+00:00"
+  },
+  {
+   "fp": "congo ebola infections issued speed start trial vaccine warning",
+   "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+   "source": "BBC World",
+   "at": "2026-08-21T15:37:28.661918+00:00"
+  },
+  {
+   "fp": "iran labels sanctions unjust",
+   "title": "Iran labels new US sanctions 'unjust'",
+   "source": "The Hill",
+   "at": "2026-08-21T15:37:30.493484+00:00"
   }
  ],
  "titles": [
-  "consumer falls ftse sixth stocks weigh",
-  "already approved ballroom blanche congress house project white",
-  "about charged know murder shakur shooting trial tupac",
   "aids belgium biggest blazes europe fight rain through wildfire",
   "allegedly calling dead estranged murdered panic texas wife",
   "breastfeeding california contamination deadly fears granola moms recalled sold",
@@ -3603,6 +3600,9 @@
   "bond boyfriend domestic killed murder suicide violence",
   "conken dead florida football player university west",
   "california deadly explodes fire freeway killing least tour",
-  "advice anti antisemitic controversial court found israel ruling seeking urgent vandalism"
+  "advice anti antisemitic controversial court found israel ruling seeking urgent vandalism",
+  "bond ease market rise stocks swings",
+  "congo ebola infections issued speed start trial vaccine warning",
+  "iran labels sanctions unjust"
  ]
 }
