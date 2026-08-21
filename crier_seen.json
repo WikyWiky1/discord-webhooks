@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40322777",
-  "https://nypost.com/?post_type=article&p=40320577",
   "https://www.washingtonexaminer.com/?p=4686322",
   "CBMinAFBVV95cUxQbzlib09ZOXJsVWdfY0lrdHRnWm1PSmExUEloYkRkd3lkNkRnTEFvQ3ZkS0c5MXV6VUVTa1BhcmJ5bEEwcldaSEljamlyczl2STlvcmgwZEhIUXh4ZTNTSGhpS1VqSnRuVkg4OTU3bi1sYWtsZ0hSa081ZHRCUGN1dGVJZlc0UEFNdGVpcldHSkRwNzU1c2pUMWJ4MU8",
   "https://www.bbc.co.uk/news/articles/cqlxpq5q799o#1",
@@ -799,21 +797,11 @@
   "CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY",
   "https://nypost.com/?post_type=article&p=40444964",
   "https://nypost.com/?post_type=article&p=40444744",
-  "CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF"
+  "CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF",
+  "CBMingFBVV95cUxOdGtIZDBRdHpXTmhwLUE0d3FWb24tNTVoTk0zNWREcXZUVkhKSl9XWDhabjFjNHlHZFJVQ05wdEk3dm9nX1F6cFBzRGJ5Z0dYeWYzZjVsZm5SZjl6MEpGTDF4eWVqTzExSDZFZXFDeUpOMm94VnNzQTVkbVFfQnN5V1Nlb09aRGhvZkRkaUZFWEZBcFg0SDdRcmpNRlBYdw",
+  "https://nypost.com/?post_type=article&p=40444722"
  ],
  "posts": [
-  {
-   "fp": "deadly department fentanyl justice permitted review streets tactic watchdog",
-   "title": "Justice Department watchdog to review DEA tactic that permitted deadly fentanyl to hit streets",
-   "source": "AP",
-   "at": "2026-08-17T17:49:08.431870+00:00"
-  },
-  {
-   "fp": "carson dwts irwin overwhelming partner resigned robert wingwoman witney",
-   "title": "Why Witney Carson \u2018resigned\u2019 from being \u2018DWTS\u2019 partner Robert Irwin\u2019s wingwoman: \u2018So overwhelming\u2019",
-   "source": "New York Post",
-   "at": "2026-08-17T18:27:55.386503+00:00"
-  },
   {
    "fp": "across blazes continue europe french heckled response wildfire",
    "title": "French PM heckled over wildfire response as blazes continue across Europe",
@@ -3201,11 +3189,21 @@
    "title": "Several people injured in sword attack at Swedish high school",
    "source": "Reuters World",
    "at": "2026-08-21T14:10:21.968426+00:00"
+  },
+  {
+   "fp": "case failed harry initial invasion million must others prince privacy",
+   "title": "Prince Harry and 6 others must pay initial $13 million over failed invasion of privacy case",
+   "source": "AP",
+   "at": "2026-08-21T14:55:07.263289+00:00"
+  },
+  {
+   "fp": "bond boyfriend domestic killed murder suicide violence",
+   "title": "Mom of 3 killed by boyfriend in murder-suicide while he was out on bond for domestic violence",
+   "source": "New York Post",
+   "at": "2026-08-21T14:55:09.014925+00:00"
   }
  ],
  "titles": [
-  "deadly department fentanyl justice permitted review streets tactic watchdog",
-  "carson dwts irwin overwhelming partner resigned robert wingwoman witney",
   "across blazes continue europe french heckled response wildfire",
   "andrew beloved buffett damaged hurricane jimmy miami might reopen stadium venue",
   "drugmakers order split trump uninterested vaccine",
@@ -3603,6 +3601,8 @@
   "auto biggest campaign china door ever handle launches recall safety",
   "colorado dead final footage found going missing moments nashville shows trip work",
   "assistant attorney building dead federal found going missing",
-  "attack high injured people school several swedish sword"
+  "attack high injured people school several swedish sword",
+  "case failed harry initial invasion million must others prince privacy",
+  "bond boyfriend domestic killed murder suicide violence"
  ]
 }
