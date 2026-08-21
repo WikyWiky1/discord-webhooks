@@ -807,9 +807,9 @@
    "message_id": "1540465370081787976",
    "event": "Severe Thunderstorm Warning",
    "area": "Boone, IL; Winnebago, IL",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-21T20:59:24+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-21T21:34:19+00:00"
   }
  ]
 }
