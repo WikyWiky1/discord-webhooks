@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiiwFBVV95cUxQdk1KX250aDU4T3E3RHFZM0x0VlNjNk5CQlVZRnRKNXEyRW1GLWpSemNvSFZKWWphek9tTlE4dWlmTlBNU3FrTV9VajN0NWdHaDhQVkJ3bEhpa3hSVmtneklVd0l3cEstendDWllXcGVNeThfQ0ZuNlNkLWY1TERQNHd3emJTYkJkcnNR",
   "https://nypost.com/?post_type=article&p=40331518",
   "https://nypost.com/?post_type=article&p=40335008",
   "CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40454215",
   "https://www.theguardian.com/uk-news/2026/aug/21/girl-six-dies-three-days-after-being-pulled-from-sea-off-sussex-coast",
   "CBMiqgFBVV95cUxPalBGMXdHd2U2SzZaXzRGTE1oZkhJWmJRN2g4eDh5cnF0U21kemp4dHAzemRvSU5VcWM4WWhLT3RkWVducEcxLWktcTF0dHMyQWo3QmtIMkJabUloSUxNWVBreVA0MlR2eTQyM19FenU1RzA4MHlwcHJpZ05tQV9YaGczZHlPa2NYY3dhX0d1eUg0bUw5M1ZqM25qYlg4QURhQk5rMGRkc0FQdw",
-  "https://news.sky.com/story/sword-wielding-attacker-injures-several-people-at-swedish-school-13575399"
+  "https://news.sky.com/story/sword-wielding-attacker-injures-several-people-at-swedish-school-13575399",
+  "https://nypost.com/?post_type=article&p=40454235"
  ],
  "posts": [
-  {
-   "fp": "attack europe killed live overnight respond russian ukraine zelenskyy",
-   "title": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack \u2013 Europe live",
-   "source": "Guardian World",
-   "at": "2026-08-18T08:55:17.095749+00:00"
-  },
   {
    "fp": "down scientist steps",
    "title": "Top UK scientist steps down from WHO",
@@ -3201,10 +3195,15 @@
    "title": "One dead after sword attack at Swedish school",
    "source": "Telegraph",
    "at": "2026-08-21T23:16:37.982235+00:00"
+  },
+  {
+   "fp": "board california controversial demands energy resignation rule senator tire",
+   "title": "California senator demands resignation of energy board over controversial tire rule",
+   "source": "New York Post",
+   "at": "2026-08-21T23:41:54.685639+00:00"
   }
  ],
  "titles": [
-  "attack europe killed live overnight respond russian ukraine zelenskyy",
   "down scientist steps",
   "about asian boost earnings offset prices rising shares slip strong worries",
   "chip european stocks weaken",
@@ -3603,6 +3602,7 @@
   "days dead found grandpa hike lake loving nature socal three vanishing",
   "area disgusting evacuate firefighters forces infestation station",
   "days dies girl incident killed parents shoreham sister three",
-  "attack dead school swedish sword"
+  "attack dead school swedish sword",
+  "board california controversial demands energy resignation rule senator tire"
  ]
 }
