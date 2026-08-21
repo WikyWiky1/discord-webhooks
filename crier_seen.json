@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMi0AFBVV95cUxPZU9WMTB4MXdfdmM4Q0FKZURKUjVac0JERWZyTEZtOEZQa0FqNDBtY0JnQ1BMQnp1Q2JRZWY1Qko1V1B2OFBEdjkzTVdOSlFoWkZ4bnVocTE0aUlRbENkTldwbDVfcEhHUEhyYU9OZFVXdExuT0JnbU9qcnZGWnI1UWRNSzZFVlVSS0VYcDFxdHRwMHVFNUhyMGlnUEg2R3IyTUlhU3VTRnFyZ0F2TldyOTVFbmZpMDIweGlXOFNsaVRsenNrODdDUV9rdzNPbVJj",
-  "CBMimAFBVV95cUxOeXlSRFpLZUJ6SWw1TUd6bFJOWm9NVTJkUnNBZW5lMDE5SmJoSHR6elhBVXEzNllMTTdEdWJjSXYxd0EzU2Y3Q1ptSzNTOUZGTktWbUhEckc1NUc0NE52MzRvSlYzMWJYR1AtRkFmajNHZWpsNDlJcDdYYUFpNzR1eUR4SzE4aUxjTmg3cDZsdVdSTWlRcS1paA",
-  "CBMixAFBVV95cUxNelBkWGdEVTV0YTBWcGtPcExNTzc0bE43WVR5VC1nMm5URmh0MjgteWxEYXhRX0hzcVhKa3hVc2hYVXBoTi1kMjlTeF9ER1Q3LVZkci10eFBicXQ1R1NFR0M4d3g2MDRMNW10M1RoQ3RCN1M1bWxiRDB6RkJhbS1fb1ZhTGhaQll0V1U4bmNOdG9NZlJzbW5BVXR5UHJRdnRQT3I4c29CRXAwcDFfb3J4SzFyWFd3YXhGdTg0V3NQVFI5Rnc5",
   "CBMifkFVX3lxTFBscVF0eHMtSEtHb1paNXFOcWVVYUcwRl9jWGFLNzFFYml4RHFQS2Q3RXJTX2F6ekpyNkhWS1prS2R4T1hlTVB1NVZRMVRka1FDYUtCRDQxc1o2bHp5ZFgwNXpnRTlWM3J4YUFOWExTQzhLYWlRQ1duUHhkZ1kxUQ",
   "https://www.bbc.co.uk/news/articles/c2el29e3m3xo#1",
   "https://nypost.com/?post_type=article&p=40321685",
@@ -799,27 +796,12 @@
   "https://www.washingtonexaminer.com/?p=4694245",
   "https://news.sky.com/story/banned-driver-who-stole-maserati-and-killed-great-grandfather-in-crash-jailed-13575319",
   "CBMi3gFBVV95cUxPVFlxeFAyUWRzRllpVGluQjZlYlUwZjROV2w1TFphQmN4MjFISnNyZTBPaDlzYk15Y25XWUViOG1ZcU0yNHRTa2NydHlVWS1NSnVUTEJ3LTJOX2I2VmpfMDJ3ejhKR2tNV3g2MWR2OEZuVWdQbWIweko4dEc2cVAtUURQUlNad0tJNzdsQjZ0eUVuWEJ1MFdPMEtrWGlhYVZxNmVHemRmQ2xNYXdOTE1fNG91Q0htUUYyRTE1TElhVEpsdWtveXVIcVBQMTJCUnUwdlVWUVA4ZUtwNkVKNnc",
-  "https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo#1"
+  "https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo#1",
+  "https://news.sky.com/story/more-than-2500-dead-in-dr-congo-un-says-as-ebola-spreading-to-area-bigger-than-france-13575338",
+  "https://nypost.com/?post_type=article&p=40442219",
+  "https://news.sky.com/story/man-accused-of-failing-to-disclose-information-over-manchester-synagogue-attack-denies-charge-13575376"
  ],
  "posts": [
-  {
-   "fp": "cries election extends fraud lead opposition president zambia",
-   "title": "Zambia's president extends election lead, opposition cries fraud",
-   "source": "Reuters World",
-   "at": "2026-08-17T15:24:32.880871+00:00"
-  },
-  {
-   "fp": "decision expect notes primary state wyoming",
-   "title": "AP Decision Notes: What to expect in Wyoming\u2019s state primary",
-   "source": "AP",
-   "at": "2026-08-17T15:24:36.613499+00:00"
-  },
-  {
-   "fp": "aide attack closeness democratic house line ossoff rips trump white",
-   "title": "Ossoff rips Trump over closeness with White House aide in new Democratic attack line",
-   "source": "Washington Examiner",
-   "at": "2026-08-17T15:44:20.724121+00:00"
-  },
   {
    "fp": "american erupting etna killed lightning strike tourist",
    "title": "American tourist killed by lightning strike on erupting Etna",
@@ -3201,12 +3183,27 @@
    "title": "Experts battling extinctions after record heat",
    "source": "BBC Science",
    "at": "2026-08-21T11:31:23.412330+00:00"
+  },
+  {
+   "fp": "congo dead ebola outbreak",
+   "title": "More than 2,500 dead in DR Congo Ebola outbreak, UN says",
+   "source": "Sky News",
+   "at": "2026-08-21T12:32:01.490428+00:00"
+  },
+  {
+   "fp": "california emergency intervention move prices supply targeting",
+   "title": "California gas prices see EPA intervention in emergency move targeting supply",
+   "source": "New York Post",
+   "at": "2026-08-21T12:32:03.206718+00:00"
+  },
+  {
+   "fp": "attack charge denies manchester synagogue",
+   "title": "Man denies charge over Manchester synagogue attack",
+   "source": "Sky News",
+   "at": "2026-08-21T12:32:05.227546+00:00"
   }
  ],
  "titles": [
-  "cries election extends fraud lead opposition president zambia",
-  "decision expect notes primary state wyoming",
-  "aide attack closeness democratic house line ossoff rips trump white",
   "american erupting etna killed lightning strike tourist",
   "actress apartment complex dead found hayden luxury moments neighbor panettiere recalls shocking",
   "across allegedly arrest body drove killed louisiana states wife",
@@ -3603,6 +3600,9 @@
   "calculus changed jong just nuclear tokyo",
   "banned crash driver grandfather great jailed killed stole supercar",
   "congo coordinator death ebola exponentially outbreak spreading surpasses toll",
-  "battling experts extinctions heat record"
+  "battling experts extinctions heat record",
+  "congo dead ebola outbreak",
+  "california emergency intervention move prices supply targeting",
+  "attack charge denies manchester synagogue"
  ]
 }
