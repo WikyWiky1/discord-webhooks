@@ -1,10 +1,5 @@
 {
  "ids": [
-  "CBMifkFVX3lxTFBscVF0eHMtSEtHb1paNXFOcWVVYUcwRl9jWGFLNzFFYml4RHFQS2Q3RXJTX2F6ekpyNkhWS1prS2R4T1hlTVB1NVZRMVRka1FDYUtCRDQxc1o2bHp5ZFgwNXpnRTlWM3J4YUFOWExTQzhLYWlRQ1duUHhkZ1kxUQ",
-  "https://www.bbc.co.uk/news/articles/c2el29e3m3xo#1",
-  "https://nypost.com/?post_type=article&p=40321685",
-  "https://nypost.com/?post_type=article&p=40319886",
-  "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
   "https://news.sky.com/story/dr-congos-fastest-growing-ebola-outbreak-reaches-sixth-province-13572638",
   "https://nypost.com/?post_type=article&p=40320026",
   "https://nypost.com/?post_type=article&p=40321154",
@@ -799,39 +794,14 @@
   "https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo#1",
   "https://news.sky.com/story/more-than-2500-dead-in-dr-congo-un-says-as-ebola-spreading-to-area-bigger-than-france-13575338",
   "https://nypost.com/?post_type=article&p=40442219",
-  "https://news.sky.com/story/man-accused-of-failing-to-disclose-information-over-manchester-synagogue-attack-denies-charge-13575376"
+  "https://news.sky.com/story/man-accused-of-failing-to-disclose-information-over-manchester-synagogue-attack-denies-charge-13575376",
+  "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
+  "https://thehill.com/?p=6042216",
+  "CBMiogFBVV95cUxPVXNLek1kNWxud29qSFNDT1pMRjhPVW1lZWdvZTdNNzVsV3JUczR2d09zQXF4RWw1OG5iN3l0OVVzbnpFY1dBWkF4WjI5aWN5WmJCaHJJWVVlMFpLaXZIQVlxZnBzNGp5S2dPMjAxSFNLdER2NVIyX3JKdm5VU2NWNDBZeVRMMzh5UlExQlpBZFBEWUY4eGZaakVPOHlEMGtaU2c",
+  "https://thehill.com/?p=6043034",
+  "CBMiowFBVV95cUxNSW9EWUR5dzlYMmN3c1dtLXZ1WGpQR19kazVOcjBodEZ4UlRqUlYxRUo1eDJHRDY2YUdhdTEwYmY0anUtSEwxakYxOGNIWXIxdFVNOVJvSGtFczNwYWY1dkpOekczZVNEeTZOTnVkaFFkNjRJTEIzOVA5WlVmWEpRcDVTVmpRbmlQeDgwYUN4UThlOV9nWHlfYi1wRXN4OVVlbjRB"
  ],
  "posts": [
-  {
-   "fp": "american erupting etna killed lightning strike tourist",
-   "title": "American tourist killed by lightning strike on erupting Etna",
-   "source": "Telegraph",
-   "at": "2026-08-17T15:44:22.411884+00:00"
-  },
-  {
-   "fp": "actress apartment complex dead found hayden luxury moments neighbor panettiere recalls shocking",
-   "title": "Hayden Panettiere\u2019s neighbor recalls \u2018shocking\u2019 moments after actress found dead in luxury apartment complex",
-   "source": "New York Post",
-   "at": "2026-08-17T16:18:42.554953+00:00"
-  },
-  {
-   "fp": "across allegedly arrest body drove killed louisiana states wife",
-   "title": "Louisiana man allegedly killed his wife and drove her body across states before arrest",
-   "source": "Guardian World",
-   "at": "2026-08-17T16:18:44.286103+00:00"
-  },
-  {
-   "fp": "dead hayden heroes nashville panettiere star",
-   "title": "Hayden Panettiere, Heroes and Nashville star, dead at 36",
-   "source": "Washington Examiner",
-   "at": "2026-08-17T16:49:56.053774+00:00"
-  },
-  {
-   "fp": "awaiting devastating earthquake indonesia killed least people thousands",
-   "title": "Thousands in Indonesia awaiting aid after devastating earthquake killed at least 68 people",
-   "source": "New York Post",
-   "at": "2026-08-17T16:49:57.884553+00:00"
-  },
   {
    "fp": "automobile chinese down geely head pioneer steps",
    "title": "Chinese Car Pioneer Steps Down as Head of Geely Automobile",
@@ -3201,14 +3171,39 @@
    "title": "Man denies charge over Manchester synagogue attack",
    "source": "Sky News",
    "at": "2026-08-21T12:32:05.227546+00:00"
+  },
+  {
+   "fp": "aisha behind california democrats election live politics progressive rally special wahab",
+   "title": "Democrats rally behind progressive Aisha Wahab after win in California special election \u2013 US politics live",
+   "source": "Guardian World",
+   "at": "2026-08-21T12:45:46.653727+00:00"
+  },
+  {
+   "fp": "alaska chilly forecast politics senate whole",
+   "title": "Whole Hog Politics: A chilly forecast for the Senate GOP from Alaska",
+   "source": "The Hill",
+   "at": "2026-08-21T12:45:48.398562+00:00"
+  },
+  {
+   "fp": "disputed election following leader opposition police summon zambian",
+   "title": "Zambian police summon opposition leader following disputed election",
+   "source": "Reuters World",
+   "at": "2026-08-21T12:45:50.171288+00:00"
+  },
+  {
+   "fp": "democratic keeps momentum race rolling senate",
+   "title": "Democratic momentum keeps rolling in race for Senate",
+   "source": "The Hill",
+   "at": "2026-08-21T12:45:51.920766+00:00"
+  },
+  {
+   "fp": "bargains hiding market overlooked place stock",
+   "title": "Stock Market Bargains Are Hiding in This Overlooked Place",
+   "source": "WSJ",
+   "at": "2026-08-21T12:45:53.654260+00:00"
   }
  ],
  "titles": [
-  "american erupting etna killed lightning strike tourist",
-  "actress apartment complex dead found hayden luxury moments neighbor panettiere recalls shocking",
-  "across allegedly arrest body drove killed louisiana states wife",
-  "dead hayden heroes nashville panettiere star",
-  "awaiting devastating earthquake indonesia killed least people thousands",
   "automobile chinese down geely head pioneer steps",
   "belgian blazes break decades devastating france germany greece moves recover take toward wildfire",
   "attack deal expires iran nuclear peace trump weighing",
@@ -3603,6 +3598,11 @@
   "battling experts extinctions heat record",
   "congo dead ebola outbreak",
   "california emergency intervention move prices supply targeting",
-  "attack charge denies manchester synagogue"
+  "attack charge denies manchester synagogue",
+  "aisha behind california democrats election live politics progressive rally special wahab",
+  "alaska chilly forecast politics senate whole",
+  "disputed election following leader opposition police summon zambian",
+  "democratic keeps momentum race rolling senate",
+  "bargains hiding market overlooked place stock"
  ]
 }
