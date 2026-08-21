@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4686322",
-  "CBMinAFBVV95cUxQbzlib09ZOXJsVWdfY0lrdHRnWm1PSmExUEloYkRkd3lkNkRnTEFvQ3ZkS0c5MXV6VUVTa1BhcmJ5bEEwcldaSEljamlyczl2STlvcmgwZEhIUXh4ZTNTSGhpS1VqSnRuVkg4OTU3bi1sYWtsZ0hSa081ZHRCUGN1dGVJZlc0UEFNdGVpcldHSkRwNzU1c2pUMWJ4MU8",
-  "https://www.bbc.co.uk/news/articles/cqlxpq5q799o#1",
   "https://nypost.com/?post_type=article&p=40324120",
   "https://nypost.com/?post_type=article&p=40325573",
   "https://nypost.com/?post_type=article&p=40325333",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40444744",
   "CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF",
   "CBMingFBVV95cUxOdGtIZDBRdHpXTmhwLUE0d3FWb24tNTVoTk0zNWREcXZUVkhKSl9XWDhabjFjNHlHZFJVQ05wdEk3dm9nX1F6cFBzRGJ5Z0dYeWYzZjVsZm5SZjl6MEpGTDF4eWVqTzExSDZFZXFDeUpOMm94VnNzQTVkbVFfQnN5V1Nlb09aRGhvZkRkaUZFWEZBcFg0SDdRcmpNRlBYdw",
-  "https://nypost.com/?post_type=article&p=40444722"
+  "https://nypost.com/?post_type=article&p=40444722",
+  "https://nypost.com/?post_type=article&p=40444960",
+  "https://nypost.com/?post_type=article&p=40446411",
+  "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "across blazes continue europe french heckled response wildfire",
-   "title": "French PM heckled over wildfire response as blazes continue across Europe",
-   "source": "BBC World",
-   "at": "2026-08-17T18:27:57.078021+00:00"
-  },
-  {
-   "fp": "andrew beloved buffett damaged hurricane jimmy miami might reopen stadium venue",
-   "title": "Jimmy Buffett\u2019s beloved Miami stadium might reopen after Hurricane Andrew damaged venue",
-   "source": "New York Post",
-   "at": "2026-08-17T18:27:58.875289+00:00"
-  },
-  {
-   "fp": "drugmakers order split trump uninterested vaccine",
-   "title": "Drugmakers uninterested in Trump's order to split up MMR vaccine",
-   "source": "The Hill",
-   "at": "2026-08-17T18:38:20.311064+00:00"
-  },
   {
    "fp": "consumer falls ftse sixth stocks weigh",
    "title": "FTSE 100 falls for sixth day in a row as consumer stocks weigh",
@@ -3201,12 +3183,27 @@
    "title": "Mom of 3 killed by boyfriend in murder-suicide while he was out on bond for domestic violence",
    "source": "New York Post",
    "at": "2026-08-21T14:55:09.014925+00:00"
+  },
+  {
+   "fp": "conken dead florida football player university west",
+   "title": "University of West Florida football player Ben Conken dead at 20",
+   "source": "New York Post",
+   "at": "2026-08-21T15:25:36.704659+00:00"
+  },
+  {
+   "fp": "california deadly explodes fire freeway killing least tour",
+   "title": "Deadly tour bus fire explodes on California freeway, killing at least 1",
+   "source": "New York Post",
+   "at": "2026-08-21T15:25:38.540311+00:00"
+  },
+  {
+   "fp": "advice anti antisemitic controversial court found israel ruling seeking urgent vandalism",
+   "title": "NSW \u2018seeking urgent advice\u2019 on controversial court ruling that found anti-Israel vandalism was not antisemitic",
+   "source": "Guardian World",
+   "at": "2026-08-21T15:25:40.230284+00:00"
   }
  ],
  "titles": [
-  "across blazes continue europe french heckled response wildfire",
-  "andrew beloved buffett damaged hurricane jimmy miami might reopen stadium venue",
-  "drugmakers order split trump uninterested vaccine",
   "consumer falls ftse sixth stocks weigh",
   "already approved ballroom blanche congress house project white",
   "about charged know murder shakur shooting trial tupac",
@@ -3603,6 +3600,9 @@
   "assistant attorney building dead federal found going missing",
   "attack high injured people school several swedish sword",
   "case failed harry initial invasion million must others prince privacy",
-  "bond boyfriend domestic killed murder suicide violence"
+  "bond boyfriend domestic killed murder suicide violence",
+  "conken dead florida football player university west",
+  "california deadly explodes fire freeway killing least tour",
+  "advice anti antisemitic controversial court found israel ruling seeking urgent vandalism"
  ]
 }
