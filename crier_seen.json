@@ -1,11 +1,5 @@
 {
  "ids": [
-  "CBMimwFBVV95cUxQTThmQnFUX3lIallnOHExbTVZbmc1anVQLUREMjRRSU56Q0tEUHJHMlJFSG9Yc0VpazVwcDUwb0xndmZXWDZfQTlqSkR4cEhsRTBtSmVza09XejNzYWhsUW9vRl93VmI0dlctZlF3T3JwZzBrYmFiaHd2NzlCTk5oVklBaFN1dTUtZG9ER1lld0RNMjMyaXBtbmpxMA",
-  "CBMiowFBVV95cUxNQ2Z2aGVqeTlOMFVENTFOYk1KTzRnVDhMTmZJcmk5UnlIQmhRblBVWVZTb2h3NEJyMTlsSDR1aHRYYmc1QUdtUXBYbVBaN0Y2XzVKb19TTzBwTjNLd0RJellsc3Q1RnVCRzVnbWFJYmZBdTQwZmU5RXFNUFI4RFl4cTh3NDdpOVpwLUtWUDRRSFBZNGxGSDJTclVwNnpBQzk3YzdJ",
-  "https://nypost.com/?post_type=article&p=40318322",
-  "https://www.bbc.co.uk/weather/articles/ce85pj0e20po#0",
-  "CBMiowFBVV95cUxPTHMzY0ljNHJlVEdIUEJETWVOYXdZWU90aHg1QmJRMzVwLXhCLVhwNkg2aFBhdE1CNVVzRF84UHl4ODI5NG5pY3pNS1A2UDFPUTdjODNiMEtObVJyX0JKUkVjV1VUTWRtOHdKazhhenlaVjNIcUI3VVRtbFdhS1psY21xLVc5RWpZdUVQM0JhWk1ENURVekdkWmx4QXBoRFMwdVg0",
-  "https://thehill.com/?p=6026762",
   "https://nypost.com/?post_type=article&p=40318713",
   "CBMiqwFBVV95cUxOMnRoQ3l3SzVhY1hlakM2UXdxZTJZdVFjaFE4QjdwRXAzeWdXVW1vbFhPdHhyQ2ZqSlJ6UDJOQzV4OHYzZ1F6SWlpdGNvdjNrbFdwVS05UHdKY0xvRXY2cGJhYXBTczNYWkh3VE1HVGhPa1k3TXJjOWFfaDg4aG5RR3I1VHpsS1A5UHBod3JEZzIyWThoLVhZVGNJSVJDMEF2cU4tZWk4RnZKcnc",
   "https://news.sky.com/story/man-dies-after-suspected-gas-explosion-destroys-bungalow-in-buckinghamshire-13572561",
@@ -799,45 +793,15 @@
   "CBMinAFBVV95cUxNWVIzQU15UEdjSjhKRVRDcEtNc3FSUk1tb0RySW94TnVlNjdOREE3aGNDeUNtNlQwOFpaVHozc3dKbWItRlFLRHJ3X1h3dXpOWDd5Y2hBUmFYczVhMHZrQUNmWlBOVVlpTUFZd2pwRlh3Z2Z6LU9tZ3Z3YV9nQkdWbldfNFJMSlgyc0llbG1PcDJ0YzFqc3dSLVpFZVY",
   "https://nypost.com/?post_type=article&p=40434564",
   "https://nypost.com/?post_type=article&p=40440090",
-  "CBMimwFBVV95cUxQZWNXWVZhaGltWHN3dmJYYy1EcTgxeDNvSTJTYUlBTXJRTlM0NDJ0cGR4VjFfekwzT0ZDOG9IeFY5X1daOHJqRl9QSi1FU3ljUkktbmRlZkZ6MzBNajlkbXIzYmR4ZlZkdVRSSUt3TTIzeThZa0Q3b2ZqVkhHYWZFWDNScEplR2FydENxNGNfS1BILWF4V0VkNXlXMA"
+  "CBMimwFBVV95cUxQZWNXWVZhaGltWHN3dmJYYy1EcTgxeDNvSTJTYUlBTXJRTlM0NDJ0cGR4VjFfekwzT0ZDOG9IeFY5X1daOHJqRl9QSi1FU3ljUkktbmRlZkZ6MzBNajlkbXIzYmR4ZlZkdVRSSUt3TTIzeThZa0Q3b2ZqVkhHYWZFWDNScEplR2FydENxNGNfS1BILWF4V0VkNXlXMA",
+  "https://www.theguardian.com/us-news/2026/aug/20/california-special-election-results-eric-swalwell",
+  "https://www.washingtonexaminer.com/?p=4695482",
+  "https://thehill.com/?p=6042554",
+  "CBMipwFBVV95cUxOcV90dGRFNXlmUWhKTk1uZExFRzhzNGF5VGNqcXJkcXFNNS1BUFlxeEhsbk02X1hYcVZnSUNDbjVSblNpTVpZaWZmbUV2Q3NXLWY0TXJNUDVRa0xYTmRwY0MwZlJHdVVhWUhOM0JYbUxoQVBhcnRlbjhveHFnd1R5S0U2ZEx2dGFWQWF4S3JReHFsckJPcmdmMkxCV21aeUJkTWFBLXJjQQ",
+  "CBMiiAFBVV95cUxOUTBXOUxEdGNvYndTMlBGZHRFQk1wNU8tZk5DV29LdHNJMVlEcU5LcHNxTHJKTlMzWFJNZ0ZWelJ2Vl9GaXl4cklaVDcwd2dld2YyeDRicXVxQWhIcWpSTEY4emRvc3JEd3FrUmRnUU80UFdLdDNRN0IxYW5wVkV5NDBlc0VNanFV",
+  "CBMilAFBVV95cUxQTVp3TkxRTlg1ZnZiYzUxM0hZWDZYM056SlNRdDVjYl9fcHB5ZkdhNHVjcXVacWRyOVdxbFBGR2xvYXAtcHg5ZFQyUER5LWNhT2xWUjhucFc4R3FYZ3Z2YlZLMUUwTG5GczVWS05xY0Z1dzdzMk1RUmt6VWFzMHZqSnBILUlqVXROOWUzUUFtMEdmdm5h"
  ],
  "posts": [
-  {
-   "fp": "heavy kills korea landslide media rains reports south",
-   "title": "South Korea landslide kills one amid heavy rains, media reports say",
-   "source": "Reuters",
-   "at": "2026-08-17T09:59:19.790304+00:00"
-  },
-  {
-   "fp": "attack drones government iraq kurdistan minister office prime regional",
-   "title": "Drones attack the Kurdistan Regional Government prime minister's office in Iraq",
-   "source": "Reuters",
-   "at": "2026-08-17T09:59:21.484289+00:00"
-  },
-  {
-   "fp": "fire pass protection rules states struggling wildfires worse",
-   "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
-   "source": "NPR News",
-   "at": "2026-08-17T09:59:23.182115+00:00"
-  },
-  {
-   "fp": "attack burnham drilling join massive musicians north paloma paris reject urging",
-   "title": "Massive Attack and Paris Paloma join musicians urging Burnham to reject new North Sea drilling",
-   "source": "Guardian World",
-   "at": "2026-08-17T09:59:25.012963+00:00"
-  },
-  {
-   "fp": "attack denies double levy murderer officer prison simon",
-   "title": "Double murderer Simon Levy denies attack on prison officer",
-   "source": "Sky News",
-   "at": "2026-08-17T10:36:13.272185+00:00"
-  },
-  {
-   "fp": "birth emergency grateful indonesian mother quake",
-   "title": "Indonesian mother 'grateful' after emergency birth during 7.7 quake",
-   "source": "Reuters",
-   "at": "2026-08-17T11:00:07.785421+00:00"
-  },
   {
    "fp": "arcelormittal facility killed missile strike ukraine",
    "title": "ArcelorMittal Says Two Killed in Missile Strike on Ukraine Facility",
@@ -3201,15 +3165,45 @@
    "title": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
    "source": "AP",
    "at": "2026-08-21T00:53:42.469229+00:00"
+  },
+  {
+   "fp": "aisha california election eric fill progressive seat special swalwell wahab wins",
+   "title": "Progressive Aisha Wahab wins California special election to fill Eric Swalwell seat",
+   "source": "Guardian World",
+   "at": "2026-08-21T01:15:50.414081+00:00"
+  },
+  {
+   "fp": "aipac aisha california defiance election flood house money special wahab wins",
+   "title": "Aisha Wahab wins California House special election in defiance of AIPAC money flood",
+   "source": "Washington Examiner",
+   "at": "2026-08-21T01:15:52.254748+00:00"
+  },
+  {
+   "fp": "courts democrats michigan race rogers senate",
+   "title": "Rogers courts Democrats in Michigan Senate race",
+   "source": "The Hill",
+   "at": "2026-08-21T01:15:53.984467+00:00"
+  },
+  {
+   "fp": "canada close deal needed trade very work",
+   "title": "Canada says trade deal with US is 'very close,' more work needed",
+   "source": "Reuters",
+   "at": "2026-08-21T01:15:55.746921+00:00"
+  },
+  {
+   "fp": "cuba imposes including mining sanctions sector",
+   "title": "US imposes more sanctions on Cuba, including mining sector",
+   "source": "Reuters",
+   "at": "2026-08-21T01:15:57.427534+00:00"
+  },
+  {
+   "fp": "americans cuba detentions island ramps returning sanctions",
+   "title": "US ramps up Cuba sanctions and detentions of Americans returning from the island",
+   "source": "AP",
+   "at": "2026-08-21T01:15:59.108069+00:00"
   }
  ],
  "titles": [
-  "heavy kills korea landslide media rains reports south",
-  "attack drones government iraq kurdistan minister office prime regional",
-  "fire pass protection rules states struggling wildfires worse",
-  "attack burnham drilling join massive musicians north paloma paris reject urging",
-  "attack denies double levy murderer officer prison simon",
-  "birth emergency grateful indonesian mother quake",
   "arcelormittal facility killed missile strike ukraine",
   "amines dead india indo leak plant",
   "citing cuts drills good jong korea military relationship south thing trump",
@@ -3603,6 +3597,12 @@
   "capitol charged explosives kill lawmakers plotting state woman york",
   "cannot chaos civilians even florida imagine mass respond shooting simulated untrained",
   "dead henry kissinger nancy report secretary state wife",
-  "1996 drive fatal fired hear jurors keffe nephew shakur shooting shots tupac"
+  "1996 drive fatal fired hear jurors keffe nephew shakur shooting shots tupac",
+  "aisha california election eric fill progressive seat special swalwell wahab wins",
+  "aipac aisha california defiance election flood house money special wahab wins",
+  "courts democrats michigan race rogers senate",
+  "canada close deal needed trade very work",
+  "cuba imposes including mining sanctions sector",
+  "americans cuba detentions island ramps returning sanctions"
  ]
 }
