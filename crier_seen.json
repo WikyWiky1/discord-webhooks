@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40320026",
-  "https://nypost.com/?post_type=article&p=40321154",
-  "https://www.theguardian.com/uk-news/2026/aug/13/train-derailment-east-sussex-closes-several-routes-lewes",
   "https://nypost.com/?post_type=article&p=40322777",
   "https://nypost.com/?post_type=article&p=40320577",
   "https://www.washingtonexaminer.com/?p=4686322",
@@ -799,27 +796,12 @@
   "CBMiogFBVV95cUxPVXNLek1kNWxud29qSFNDT1pMRjhPVW1lZWdvZTdNNzVsV3JUczR2d09zQXF4RWw1OG5iN3l0OVVzbnpFY1dBWkF4WjI5aWN5WmJCaHJJWVVlMFpLaXZIQVlxZnBzNGp5S2dPMjAxSFNLdER2NVIyX3JKdm5VU2NWNDBZeVRMMzh5UlExQlpBZFBEWUY4eGZaakVPOHlEMGtaU2c",
   "https://thehill.com/?p=6043034",
   "CBMiowFBVV95cUxNSW9EWUR5dzlYMmN3c1dtLXZ1WGpQR19kazVOcjBodEZ4UlRqUlYxRUo1eDJHRDY2YUdhdTEwYmY0anUtSEwxakYxOGNIWXIxdFVNOVJvSGtFczNwYWY1dkpOekczZVNEeTZOTnVkaFFkNjRJTEIzOVA5WlVmWEpRcDVTVmpRbmlQeDgwYUN4UThlOV9nWHlfYi1wRXN4OVVlbjRB",
-  "CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY"
+  "CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY",
+  "https://nypost.com/?post_type=article&p=40444964",
+  "https://nypost.com/?post_type=article&p=40444744",
+  "CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF"
  ],
  "posts": [
-  {
-   "fp": "belgian blazes break decades devastating france germany greece moves recover take toward wildfire",
-   "title": "Devastating Belgian wildfire moves toward Germany as blazes break out in Greece, France: \u2018Will take decades to recover\u2019",
-   "source": "New York Post",
-   "at": "2026-08-17T17:19:56.828559+00:00"
-  },
-  {
-   "fp": "attack deal expires iran nuclear peace trump weighing",
-   "title": "Trump \u2018weighing nuclear attack on Iran\u2019 as peace deal expires",
-   "source": "Telegraph",
-   "at": "2026-08-17T17:19:58.605394+00:00"
-  },
-  {
-   "fp": "crash greek helicopter island kills popular sifnos tourist",
-   "title": "Helicopter crash on popular Greek tourist island of Sifnos kills 3",
-   "source": "AP",
-   "at": "2026-08-17T17:49:06.725791+00:00"
-  },
   {
    "fp": "deadly department fentanyl justice permitted review streets tactic watchdog",
    "title": "Justice Department watchdog to review DEA tactic that permitted deadly fentanyl to hit streets",
@@ -3201,12 +3183,27 @@
    "title": "China launches biggest ever auto recall campaign over door handle safety",
    "source": "Reuters",
    "at": "2026-08-21T13:29:10.255158+00:00"
+  },
+  {
+   "fp": "colorado dead final footage found going missing moments nashville shows trip work",
+   "title": "Colorado man found dead after going missing on work trip to Nashville\u2014 as footage shows his final moments",
+   "source": "New York Post",
+   "at": "2026-08-21T14:10:18.519963+00:00"
+  },
+  {
+   "fp": "assistant attorney building dead federal found going missing",
+   "title": "US Assistant Attorney found dead in federal building after going missing",
+   "source": "New York Post",
+   "at": "2026-08-21T14:10:20.198546+00:00"
+  },
+  {
+   "fp": "attack high injured people school several swedish sword",
+   "title": "Several people injured in sword attack at Swedish high school",
+   "source": "Reuters World",
+   "at": "2026-08-21T14:10:21.968426+00:00"
   }
  ],
  "titles": [
-  "belgian blazes break decades devastating france germany greece moves recover take toward wildfire",
-  "attack deal expires iran nuclear peace trump weighing",
-  "crash greek helicopter island kills popular sifnos tourist",
   "deadly department fentanyl justice permitted review streets tactic watchdog",
   "carson dwts irwin overwhelming partner resigned robert wingwoman witney",
   "across blazes continue europe french heckled response wildfire",
@@ -3603,6 +3600,9 @@
   "disputed election following leader opposition police summon zambian",
   "democratic keeps momentum race rolling senate",
   "bargains hiding market overlooked place stock",
-  "auto biggest campaign china door ever handle launches recall safety"
+  "auto biggest campaign china door ever handle launches recall safety",
+  "colorado dead final footage found going missing moments nashville shows trip work",
+  "assistant attorney building dead federal found going missing",
+  "attack high injured people school several swedish sword"
  ]
 }
