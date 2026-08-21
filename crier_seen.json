@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40319350",
   "https://www.washingtonexaminer.com/?p=4685953",
   "https://www.theguardian.com/world/2026/aug/13/italian-businessman-valter-lavitola-bomb-attack-journalist-friend-sigfrido-ranucci",
   "https://thehill.com/?p=6027665",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40443038",
   "CBMisAFBVV95cUxOZjB5YzBLWmxqeW5pVDlNME92OTVFV1VINk5ocUM4c3pLVXBzQUhWRnFhWjJOU19jTlNOVGltWW10ak1wOUZBQnpMTUFzWVpiZHVOZ0owN3NfN3kxU19kMFU5N3h6dEotOTQ4LVl5VGZVMW1mV0JNandXZENpVjBwa1J4RzdJdzN2bkkwNWtKQjlEN0YzNjVxbVZTX0syeXhKUm9FRFFpMzNod3NTajV4Uw",
   "https://www.washingtonexaminer.com/?p=4695040",
-  "https://www.bbc.co.uk/news/articles/cj9dmw8183wo#0"
+  "https://www.bbc.co.uk/news/articles/cj9dmw8183wo#0",
+  "https://nypost.com/?post_type=article&p=40330057"
  ],
  "posts": [
-  {
-   "fp": "attack inside mcdonald near sources square stabbed teenage times tourist unprovoked",
-   "title": "Teenage tourist stabbed in \u2018unprovoked\u2019 attack inside McDonald\u2019s near Times Square: sources",
-   "source": "New York Post",
-   "at": "2026-08-17T14:46:41.268376+00:00"
-  },
   {
    "fp": "deportation everything family finland halts invasion oppose risked russian ukraine",
    "title": "Finland halts deportation of Russian family who \u2018risked everything\u2019 to oppose Ukraine invasion",
@@ -3201,10 +3195,15 @@
    "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
    "source": "BBC World",
    "at": "2026-08-21T10:03:48.799136+00:00"
+  },
+  {
+   "fp": "didn kill know protect things yourself",
+   "title": "7 things you didn\u2019t know that could kill you in NYC \u2014 and how to protect yourself",
+   "source": "New York Post",
+   "at": "2026-08-21T10:49:40.692630+00:00"
   }
  ],
  "titles": [
-  "attack inside mcdonald near sources square stabbed teenage times tourist unprovoked",
   "deportation everything family finland halts invasion oppose risked russian ukraine",
   "attack beavers closed dangerous maryland park partially popular rabid teens",
   "candidates desantis endorsement florida gubernatorial primary struggle",
@@ -3603,6 +3602,7 @@
   "convicted executes fire japan killed osaka pachinko parlor setting",
   "attack compensation denied half terror victims",
   "alaska attack majority shield under",
-  "alaskan crash eight force killed military plane remote site"
+  "alaskan crash eight force killed military plane remote site",
+  "didn kill know protect things yourself"
  ]
 }
