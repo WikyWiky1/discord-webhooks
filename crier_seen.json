@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://news.sky.com/story/man-dies-after-suspected-gas-explosion-destroys-bungalow-in-buckinghamshire-13572561",
   "CBMiygFBVV95cUxPeHYzNl9EN3FFQlFHQl93bWFiQ2VOQkh2bWFrVjVPend4OTVyQ01hVGwwY0IxSzVXa250MHV6X2FxUnI3SzBrV2plZkJaQ3ZTaTR3cGc3UUhERjBGd0JhY2NkaGVoSHplel9ma3piOTYzd1dHZE9tVVVnZV9Ca2JYTlE2aW95SW84YlFnZ0tJM0FIaGQzWjgydlN3czNGbG4xY0JoVkJKcVlXOXZrcWl6S2JQLTM5V0pEX2tXR2lwVTJQeTAySGlrYnFn",
   "https://thehill.com/?p=6026753",
   "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
@@ -799,15 +798,10 @@
   "CBMiiAFBVV95cUxOUTBXOUxEdGNvYndTMlBGZHRFQk1wNU8tZk5DV29LdHNJMVlEcU5LcHNxTHJKTlMzWFJNZ0ZWelJ2Vl9GaXl4cklaVDcwd2dld2YyeDRicXVxQWhIcWpSTEY4emRvc3JEd3FrUmRnUU80UFdLdDNRN0IxYW5wVkV5NDBlc0VNanFV",
   "CBMilAFBVV95cUxQTVp3TkxRTlg1ZnZiYzUxM0hZWDZYM056SlNRdDVjYl9fcHB5ZkdhNHVjcXVacWRyOVdxbFBGR2xvYXAtcHg5ZFQyUER5LWNhT2xWUjhucFc4R3FYZ3Z2YlZLMUUwTG5GczVWS05xY0Z1dzdzMk1RUmt6VWFzMHZqSnBILUlqVXROOWUzUUFtMEdmdm5h",
   "CBMiowFBVV95cUxQQ01ZN3RnaUdmMXE3MjhPUTJuN1VaNVdBVkFZLU1wYm9nSlJQYW9LcXc3LXNSUUZKUHA2cGl1MjBac0l5ZEVoSEpXQjFGRmxrTjQ4blZUck1XbTFYSl94WUh6M1AtSHRPak42OTZ4VkpIR2VBTkRyTG10bTBCb0pONnNKYmUzckxFc0J1UGZ6dUpVV2p5cGpBZ0x1Q01oRXFsQ1pR",
-  "https://nypost.com/?post_type=article&p=40440087"
+  "https://nypost.com/?post_type=article&p=40440087",
+  "https://nypost.com/?post_type=article&p=40440494"
  ],
  "posts": [
-  {
-   "fp": "citing cuts drills good jong korea military relationship south thing trump",
-   "title": "Trump cuts US-South Korea military drills citing \u2018good relationship with Kim Jong-un\u2019 | First Thing",
-   "source": "Guardian World",
-   "at": "2026-08-17T11:31:21.644067+00:00"
-  },
   {
    "fp": "arrest cardiac carolina dead found friend hayden home panettiere report south",
    "title": "Hayden Panettiere found dead by friend in South Carolina home after \u2018cardiac arrest\u2019: report",
@@ -3201,10 +3195,15 @@
    "title": "Former Olympian Jenny Simpson reveals why she\u2019ll never run again one month after collapsing at race",
    "source": "New York Post",
    "at": "2026-08-21T02:20:23.094777+00:00"
+  },
+  {
+   "fp": "allegedly attack blow capitol caught celebrations house isis linked plotting square state times wanted white yorker",
+   "title": "ISIS-linked New Yorker caught plotting to blow up state Capitol allegedly wanted to attack the White House, Times Square NYE celebrations",
+   "source": "New York Post",
+   "at": "2026-08-21T03:32:16.653337+00:00"
   }
  ],
  "titles": [
-  "citing cuts drills good jong korea military relationship south thing trump",
   "arrest cardiac carolina dead found friend hayden home panettiere report south",
   "administration alzheimer casualty latest research trump",
   "boost futures nasdaq rise tech",
@@ -3603,6 +3602,7 @@
   "cuba imposes including mining sanctions sector",
   "americans cuba detentions island ramps returning sanctions",
   "about alabama basketball defamed incorrect jury player shooting story times york",
-  "again collapsing former jenny month never olympian race reveals simpson"
+  "again collapsing former jenny month never olympian race reveals simpson",
+  "allegedly attack blow capitol caught celebrations house isis linked plotting square state times wanted white yorker"
  ]
 }
