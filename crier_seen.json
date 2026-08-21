@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
   "CBMirwFBVV95cUxPTmk0ODNPeUJ5ZDI1WXd5UmlKNXJZalZRcGczWnRHb2xmUTU2X1ZfSWxZZXhITmw5bjlPYXhULUd1V0t3aHJFN3lHNlJtSkNYR0JqYnNWQzBQNHIzaUFYdmFEb0VOZXlqTk9LNjdjaGdUNkhELUpmbDdBYzJlN3lEWHdSdzZpTWxBMW13NEZHMHZHRVV0WG1PYS1SVUYweXRTY2FTQi1Gd0UxVmNUc3pN",
   "CBMihAFBVV95cUxPSVRLb0Vwak5DcjRhMWNzd1hBOTNoWE1pazFPU000b1dOVUQ5YmN1X0tEd3lCb3dwR1JrQVVmcWhTcncwaFh5czgxX0dvd0dTS0IzMlRLU3ZiVDZpMlZ1OHlxZndULURtdUwzOFZZOXRBcDJSUFVIakUzaDJ0bWIwZE9yYzM",
   "https://nypost.com/?post_type=article&p=40319727",
@@ -799,15 +798,10 @@
   "CBMijwFBVV95cUxPR2lLNnhWYlF0UWtrc0lGeEdZTTQxa1l6WEdmTnhib0tqbGsyYkxOZTVGcVppbGtUUUVqTndBcWxySExoM1ZYQmtZam5NOURVb2RHUXNJa0dqNExxMHBsRDU0SGhCQ3J1OXk1ZzhXRnB6eFE5ZWxkLVdsM1gtTzE2bVhrZnhta095YU05ZUFQTQ",
   "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
   "CBMipAFBVV95cUxPdDJaQjg5RDQ1MWozcDVVamNqS1ZEeDd1X3J1YzZ5YzNyWUgxa29fYVotWDN1SHN3Y3ZqVm44YlVtOVR6SzNXam5zVzNqM1hwUG8tbjRVQU5iVmpzSVd1UnJZMGVLcWE3a0h1OGFNM1k5MWg2WFZYRGhDLUNtZmg0T3F4V3dLN2JfdFZoSTBSVlRScy1tT2l0WE9KSlJ4TXZBNGtqSQ",
-  "CBMisAFBVV95cUxQWjl0V2dBU2FGMzlGUEUyV0N0dHZYc3BDekUyaGpHNUltWTQzTEJYM1pyTkRkQmRNdWhlbHdpbVVOZXFEU3paU2dORS1YdW8xWW5TQ1JZMDctX0NNcGIxMm1PdjJzYWxYWWF6RXk1d2poaFdRRmlSZ3lJalJRWDNkUkx3NTRPTnh4Nl9zY1JoaVozNi1STVprU2pnSms2dFBQVTlXQXJFS1FQTDNxRDh2ZQ"
+  "CBMisAFBVV95cUxQWjl0V2dBU2FGMzlGUEUyV0N0dHZYc3BDekUyaGpHNUltWTQzTEJYM1pyTkRkQmRNdWhlbHdpbVVOZXFEU3paU2dORS1YdW8xWW5TQ1JZMDctX0NNcGIxMm1PdjJzYWxYWWF6RXk1d2poaFdRRmlSZ3lJalJRWDNkUkx3NTRPTnh4Nl9zY1JoaVozNi1STVprU2pnSms2dFBQVTlXQXJFS1FQTDNxRDh2ZQ",
+  "https://nypost.com/?post_type=article&p=40443038"
  ],
  "posts": [
-  {
-   "fp": "drought emergency government irresponsible plans publishing",
-   "title": "UK government \u2018irresponsible\u2019 for not publishing emergency drought plans",
-   "source": "Guardian World",
-   "at": "2026-08-17T14:03:51.638590+00:00"
-  },
   {
    "fp": "becomes congo country dead ebola fast moving outbreak worst",
    "title": "Congo\u2019s fast-moving Ebola outbreak becomes the country\u2019s worst with over 2,300 dead",
@@ -3201,10 +3195,15 @@
    "title": "President Trump to stump for Sen. Darline Graham days ahead of South Carolina's GOP Senate runoff",
    "source": "AP",
    "at": "2026-08-21T06:45:23.958248+00:00"
+  },
+  {
+   "fp": "convicted executes fire japan killed osaka pachinko parlor setting",
+   "title": "Japan executes man convicted of setting fire that killed 5 at pachinko parlor in Osaka",
+   "source": "New York Post",
+   "at": "2026-08-21T08:44:57.418846+00:00"
   }
  ],
  "titles": [
-  "drought emergency government irresponsible plans publishing",
   "becomes congo country dead ebola fast moving outbreak worst",
   "approaches belgian blaze deadly despite germany greece probes rain wildfire",
   "await earthquake indonesia people photos powerful",
@@ -3603,6 +3602,7 @@
   "alaska charter crash kills military near plane radar remote site western",
   "budget deficit healey john prepares reports unexpected",
   "acquainted economic iran sanctions tehran trump warns well",
-  "ahead carolina darline days graham president runoff senate south stump trump"
+  "ahead carolina darline days graham president runoff senate south stump trump",
+  "convicted executes fire japan killed osaka pachinko parlor setting"
  ]
 }
