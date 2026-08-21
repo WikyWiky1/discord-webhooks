@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMihAFBVV95cUxPSVRLb0Vwak5DcjRhMWNzd1hBOTNoWE1pazFPU000b1dOVUQ5YmN1X0tEd3lCb3dwR1JrQVVmcWhTcncwaFh5czgxX0dvd0dTS0IzMlRLU3ZiVDZpMlZ1OHlxZndULURtdUwzOFZZOXRBcDJSUFVIakUzaDJ0bWIwZE9yYzM",
-  "https://nypost.com/?post_type=article&p=40319727",
   "https://nypost.com/?post_type=article&p=40319350",
   "https://www.washingtonexaminer.com/?p=4685953",
   "https://www.theguardian.com/world/2026/aug/13/italian-businessman-valter-lavitola-bomb-attack-journalist-friend-sigfrido-ranucci",
@@ -799,21 +797,11 @@
   "CBMipAFBVV95cUxPdDJaQjg5RDQ1MWozcDVVamNqS1ZEeDd1X3J1YzZ5YzNyWUgxa29fYVotWDN1SHN3Y3ZqVm44YlVtOVR6SzNXam5zVzNqM1hwUG8tbjRVQU5iVmpzSVd1UnJZMGVLcWE3a0h1OGFNM1k5MWg2WFZYRGhDLUNtZmg0T3F4V3dLN2JfdFZoSTBSVlRScy1tT2l0WE9KSlJ4TXZBNGtqSQ",
   "CBMisAFBVV95cUxQWjl0V2dBU2FGMzlGUEUyV0N0dHZYc3BDekUyaGpHNUltWTQzTEJYM1pyTkRkQmRNdWhlbHdpbVVOZXFEU3paU2dORS1YdW8xWW5TQ1JZMDctX0NNcGIxMm1PdjJzYWxYWWF6RXk1d2poaFdRRmlSZ3lJalJRWDNkUkx3NTRPTnh4Nl9zY1JoaVozNi1STVprU2pnSms2dFBQVTlXQXJFS1FQTDNxRDh2ZQ",
   "https://nypost.com/?post_type=article&p=40443038",
-  "CBMisAFBVV95cUxOZjB5YzBLWmxqeW5pVDlNME92OTVFV1VINk5ocUM4c3pLVXBzQUhWRnFhWjJOU19jTlNOVGltWW10ak1wOUZBQnpMTUFzWVpiZHVOZ0owN3NfN3kxU19kMFU5N3h6dEotOTQ4LVl5VGZVMW1mV0JNandXZENpVjBwa1J4RzdJdzN2bkkwNWtKQjlEN0YzNjVxbVZTX0syeXhKUm9FRFFpMzNod3NTajV4Uw"
+  "CBMisAFBVV95cUxOZjB5YzBLWmxqeW5pVDlNME92OTVFV1VINk5ocUM4c3pLVXBzQUhWRnFhWjJOU19jTlNOVGltWW10ak1wOUZBQnpMTUFzWVpiZHVOZ0owN3NfN3kxU19kMFU5N3h6dEotOTQ4LVl5VGZVMW1mV0JNandXZENpVjBwa1J4RzdJdzN2bkkwNWtKQjlEN0YzNjVxbVZTX0syeXhKUm9FRFFpMzNod3NTajV4Uw",
+  "https://www.washingtonexaminer.com/?p=4695040",
+  "https://www.bbc.co.uk/news/articles/cj9dmw8183wo#0"
  ],
  "posts": [
-  {
-   "fp": "approaches belgian blaze deadly despite germany greece probes rain wildfire",
-   "title": "Belgian wildfire approaches Germany despite rain as Greece probes deadly blaze",
-   "source": "AP",
-   "at": "2026-08-17T14:03:55.405870+00:00"
-  },
-  {
-   "fp": "await earthquake indonesia people photos powerful",
-   "title": "People await aid after powerful earthquake in Indonesia, in photos",
-   "source": "AP",
-   "at": "2026-08-17T14:03:57.186077+00:00"
-  },
   {
    "fp": "attack inside mcdonald near sources square stabbed teenage times tourist unprovoked",
    "title": "Teenage tourist stabbed in \u2018unprovoked\u2019 attack inside McDonald\u2019s near Times Square: sources",
@@ -3201,11 +3189,21 @@
    "title": "More than half of terror attack victims denied compensation",
    "source": "Telegraph",
    "at": "2026-08-21T09:28:41.879606+00:00"
+  },
+  {
+   "fp": "alaska attack majority shield under",
+   "title": "\u2018Shield from the Majority\u2019 is under attack in Alaska",
+   "source": "Washington Examiner",
+   "at": "2026-08-21T10:03:47.071526+00:00"
+  },
+  {
+   "fp": "alaskan crash eight force killed military plane remote site",
+   "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+   "source": "BBC World",
+   "at": "2026-08-21T10:03:48.799136+00:00"
   }
  ],
  "titles": [
-  "approaches belgian blaze deadly despite germany greece probes rain wildfire",
-  "await earthquake indonesia people photos powerful",
   "attack inside mcdonald near sources square stabbed teenage times tourist unprovoked",
   "deportation everything family finland halts invasion oppose risked russian ukraine",
   "attack beavers closed dangerous maryland park partially popular rabid teens",
@@ -3603,6 +3601,8 @@
   "acquainted economic iran sanctions tehran trump warns well",
   "ahead carolina darline days graham president runoff senate south stump trump",
   "convicted executes fire japan killed osaka pachinko parlor setting",
-  "attack compensation denied half terror victims"
+  "attack compensation denied half terror victims",
+  "alaska attack majority shield under",
+  "alaskan crash eight force killed military plane remote site"
  ]
 }
