@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/aug/14/romania-nuclear-plant-shut-down-cernavoda-danube-river-water-drought",
   "CBMirwFBVV95cUxNSlNrM2hySll1T0FvYnlydkYwRHJUUDUxSTVjalhsdzRDaUphaGE2N1dxNm81RjlfLVFhdWtDVlNpWC1peFNCSlFSTmxOUWMwd0YxRkRwZTNCQXA0V2ZBWnNVT0hocURTYlNQUEtqUEdTOVR2UFhtRzNkM0pkLXhTWjJoRVBoVU9nOG1WbHdFNkpqWWtFQ0xTT3F5VFJacC1sZ3M2SE9TbnltelI5bW9j",
   "https://nypost.com/?post_type=article&p=40333818",
   "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6042474/",
   "CBMie0FVX3lxTE04MkdmV21FT2x0T0dmSVg0eHBBZlJkakVuTENZYzVUTEV4SVBtLV81ODNEcEVGLWEzV0V1NW5qYjR6eE1JMEV6cW1OTmpyeFZrWmJWd0plZXJYZU1GbEZjVFl1eGEzNHhWeElUS0hldFZuN3Q2TnJGb3B2bw",
   "https://nypost.com/?post_type=article&p=40452857",
-  "https://nypost.com/?post_type=article&p=40453899"
+  "https://nypost.com/?post_type=article&p=40453899",
+  "CBMinwFBVV95cUxOS1FLd203TkJ5WHhIMmo1ZVJyZkRlZF9IQ0swaVBUek5vQzVITWM2LUpMcDJvQWtfdml3SHNMdFFWMjZ0bWh1REhlNDRpT0ZaTEt5TzNVeVJoVkplWjN4YUtFZDlmZERVRWdUYUFYdXNlQVA1WWFTV28xN0t3YmhRNDFVQ2hRb2pGODQyellLSFEyVFFfWDJ2QW1jeUdoY0U"
  ],
  "posts": [
-  {
-   "fp": "australia bill butler coalition confident deal live ndis pass politics senate tonight",
-   "title": "Australia politics live: Butler confident NDIS bill will pass Senate tonight after deal with Coalition",
-   "source": "Guardian World",
-   "at": "2026-08-18T06:41:33.740369+00:00"
-  },
   {
    "fp": "adopted congress florida governor grip holds primaries state testing trump",
    "title": "Florida holds primaries for governor and Congress, testing Trump\u2019s grip on adopted state",
@@ -3201,10 +3195,15 @@
    "title": "Boxing champion Zolani Tete shot dead at 28 in \u2018hail of bullets\u2019",
    "source": "New York Post",
    "at": "2026-08-21T22:16:14.132740+00:00"
+  },
+  {
+   "fp": "governor indicted mexican office returns",
+   "title": "Mexican Governor Indicted by U.S. Returns to Office",
+   "source": "WSJ",
+   "at": "2026-08-21T22:44:15.190483+00:00"
   }
  ],
  "titles": [
-  "australia bill butler coalition confident deal live ndis pass politics senate tonight",
   "adopted congress florida governor grip holds primaries state testing trump",
   "alaska also congresswoman face features former primary senate sullivans",
   "call emergency hayden overdose panettiere suffered suggests suspected",
@@ -3603,6 +3602,7 @@
   "here refunds tariff using walmart",
   "factory impeachment opinion rebuilding",
   "bike biking exec family google grieving killed lanes removing rips",
-  "boxing bullets champion dead hail shot tete zolani"
+  "boxing bullets champion dead hail shot tete zolani",
+  "governor indicted mexican office returns"
  ]
 }
