@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/13/pete-hegseth-democrats-budget",
   "CBMi0AFBVV95cUxPZU9WMTB4MXdfdmM4Q0FKZURKUjVac0JERWZyTEZtOEZQa0FqNDBtY0JnQ1BMQnp1Q2JRZWY1Qko1V1B2OFBEdjkzTVdOSlFoWkZ4bnVocTE0aUlRbENkTldwbDVfcEhHUEhyYU9OZFVXdExuT0JnbU9qcnZGWnI1UWRNSzZFVlVSS0VYcDFxdHRwMHVFNUhyMGlnUEg2R3IyTUlhU3VTRnFyZ0F2TldyOTVFbmZpMDIweGlXOFNsaVRsenNrODdDUV9rdzNPbVJj",
   "CBMimAFBVV95cUxOeXlSRFpLZUJ6SWw1TUd6bFJOWm9NVTJkUnNBZW5lMDE5SmJoSHR6elhBVXEzNllMTTdEdWJjSXYxd0EzU2Y3Q1ptSzNTOUZGTktWbUhEckc1NUc0NE52MzRvSlYzMWJYR1AtRkFmajNHZWpsNDlJcDdYYUFpNzR1eUR4SzE4aUxjTmg3cDZsdVdSTWlRcS1paA",
   "CBMixAFBVV95cUxNelBkWGdEVTV0YTBWcGtPcExNTzc0bE43WVR5VC1nMm5URmh0MjgteWxEYXhRX0hzcVhKa3hVc2hYVXBoTi1kMjlTeF9ER1Q3LVZkci10eFBicXQ1R1NFR0M4d3g2MDRMNW10M1RoQ3RCN1M1bWxiRDB6RkJhbS1fb1ZhTGhaQll0V1U4bmNOdG9NZlJzbW5BVXR5UHJRdnRQT3I4c29CRXAwcDFfb3J4SzFyWFd3YXhGdTg0V3NQVFI5Rnc5",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40443627",
   "https://www.washingtonexaminer.com/?p=4694245",
   "https://news.sky.com/story/banned-driver-who-stole-maserati-and-killed-great-grandfather-in-crash-jailed-13575319",
-  "CBMi3gFBVV95cUxPVFlxeFAyUWRzRllpVGluQjZlYlUwZjROV2w1TFphQmN4MjFISnNyZTBPaDlzYk15Y25XWUViOG1ZcU0yNHRTa2NydHlVWS1NSnVUTEJ3LTJOX2I2VmpfMDJ3ejhKR2tNV3g2MWR2OEZuVWdQbWIweko4dEc2cVAtUURQUlNad0tJNzdsQjZ0eUVuWEJ1MFdPMEtrWGlhYVZxNmVHemRmQ2xNYXdOTE1fNG91Q0htUUYyRTE1TElhVEpsdWtveXVIcVBQMTJCUnUwdlVWUVA4ZUtwNkVKNnc"
+  "CBMi3gFBVV95cUxPVFlxeFAyUWRzRllpVGluQjZlYlUwZjROV2w1TFphQmN4MjFISnNyZTBPaDlzYk15Y25XWUViOG1ZcU0yNHRTa2NydHlVWS1NSnVUTEJ3LTJOX2I2VmpfMDJ3ejhKR2tNV3g2MWR2OEZuVWdQbWIweko4dEc2cVAtUURQUlNad0tJNzdsQjZ0eUVuWEJ1MFdPMEtrWGlhYVZxNmVHemRmQ2xNYXdOTE1fNG91Q0htUUYyRTE1TElhVEpsdWtveXVIcVBQMTJCUnUwdlVWUVA4ZUtwNkVKNnc",
+  "https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo#1"
  ],
  "posts": [
-  {
-   "fp": "abortion anti backs carolina graham group nordone norman race senate south",
-   "title": "Anti-abortion group backs Norman over Graham Nordone in South Carolina Senate race",
-   "source": "Washington Examiner",
-   "at": "2026-08-17T15:24:31.127371+00:00"
-  },
   {
    "fp": "cries election extends fraud lead opposition president zambia",
    "title": "Zambia's president extends election lead, opposition cries fraud",
@@ -3201,10 +3195,15 @@
    "title": "Ebola outbreak in Congo spreading exponentially as death toll surpasses 2,500, UN coordinator says",
    "source": "Reuters",
    "at": "2026-08-21T11:18:50.624871+00:00"
+  },
+  {
+   "fp": "battling experts extinctions heat record",
+   "title": "Experts battling extinctions after record heat",
+   "source": "BBC Science",
+   "at": "2026-08-21T11:31:23.412330+00:00"
   }
  ],
  "titles": [
-  "abortion anti backs carolina graham group nordone norman race senate south",
   "cries election extends fraud lead opposition president zambia",
   "decision expect notes primary state wyoming",
   "aide attack closeness democratic house line ossoff rips trump white",
@@ -3603,6 +3602,7 @@
   "collide crash deadly helicopter horrifying midair moment plane video",
   "calculus changed jong just nuclear tokyo",
   "banned crash driver grandfather great jailed killed stole supercar",
-  "congo coordinator death ebola exponentially outbreak spreading surpasses toll"
+  "congo coordinator death ebola exponentially outbreak spreading surpasses toll",
+  "battling experts extinctions heat record"
  ]
 }
