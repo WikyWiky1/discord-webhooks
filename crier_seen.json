@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://news.sky.com/story/dr-congos-fastest-growing-ebola-outbreak-reaches-sixth-province-13572638",
   "https://nypost.com/?post_type=article&p=40320026",
   "https://nypost.com/?post_type=article&p=40321154",
   "https://www.theguardian.com/uk-news/2026/aug/13/train-derailment-east-sussex-closes-several-routes-lewes",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6042216",
   "CBMiogFBVV95cUxPVXNLek1kNWxud29qSFNDT1pMRjhPVW1lZWdvZTdNNzVsV3JUczR2d09zQXF4RWw1OG5iN3l0OVVzbnpFY1dBWkF4WjI5aWN5WmJCaHJJWVVlMFpLaXZIQVlxZnBzNGp5S2dPMjAxSFNLdER2NVIyX3JKdm5VU2NWNDBZeVRMMzh5UlExQlpBZFBEWUY4eGZaakVPOHlEMGtaU2c",
   "https://thehill.com/?p=6043034",
-  "CBMiowFBVV95cUxNSW9EWUR5dzlYMmN3c1dtLXZ1WGpQR19kazVOcjBodEZ4UlRqUlYxRUo1eDJHRDY2YUdhdTEwYmY0anUtSEwxakYxOGNIWXIxdFVNOVJvSGtFczNwYWY1dkpOekczZVNEeTZOTnVkaFFkNjRJTEIzOVA5WlVmWEpRcDVTVmpRbmlQeDgwYUN4UThlOV9nWHlfYi1wRXN4OVVlbjRB"
+  "CBMiowFBVV95cUxNSW9EWUR5dzlYMmN3c1dtLXZ1WGpQR19kazVOcjBodEZ4UlRqUlYxRUo1eDJHRDY2YUdhdTEwYmY0anUtSEwxakYxOGNIWXIxdFVNOVJvSGtFczNwYWY1dkpOekczZVNEeTZOTnVkaFFkNjRJTEIzOVA5WlVmWEpRcDVTVmpRbmlQeDgwYUN4UThlOV9nWHlfYi1wRXN4OVVlbjRB",
+  "CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY"
  ],
  "posts": [
-  {
-   "fp": "automobile chinese down geely head pioneer steps",
-   "title": "Chinese Car Pioneer Steps Down as Head of Geely Automobile",
-   "source": "WSJ",
-   "at": "2026-08-17T16:49:59.651759+00:00"
-  },
   {
    "fp": "belgian blazes break decades devastating france germany greece moves recover take toward wildfire",
    "title": "Devastating Belgian wildfire moves toward Germany as blazes break out in Greece, France: \u2018Will take decades to recover\u2019",
@@ -3201,10 +3195,15 @@
    "title": "Stock Market Bargains Are Hiding in This Overlooked Place",
    "source": "WSJ",
    "at": "2026-08-21T12:45:53.654260+00:00"
+  },
+  {
+   "fp": "auto biggest campaign china door ever handle launches recall safety",
+   "title": "China launches biggest ever auto recall campaign over door handle safety",
+   "source": "Reuters",
+   "at": "2026-08-21T13:29:10.255158+00:00"
   }
  ],
  "titles": [
-  "automobile chinese down geely head pioneer steps",
   "belgian blazes break decades devastating france germany greece moves recover take toward wildfire",
   "attack deal expires iran nuclear peace trump weighing",
   "crash greek helicopter island kills popular sifnos tourist",
@@ -3603,6 +3602,7 @@
   "alaska chilly forecast politics senate whole",
   "disputed election following leader opposition police summon zambian",
   "democratic keeps momentum race rolling senate",
-  "bargains hiding market overlooked place stock"
+  "bargains hiding market overlooked place stock",
+  "auto biggest campaign china door ever handle launches recall safety"
  ]
 }
