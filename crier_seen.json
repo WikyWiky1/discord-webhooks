@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMimgFBVV95cUxPNTZMdlRjak5Jd2xYMG8zdkZ2eUxmNlRfNTJhSEpaX2ViOWlfb1ZncTdZSUptcFFxN053cU0xeXZsYUFiU21iNElKR29HaVBGTmRVQXlXLTVSdU9kNFk1Z0dvZmVnMldKTHhmSHFXOGx3WEZGbGxqSW9MdUlNU21yeXl2UjlxTm9oVHNVSDFSQnZhbk5meGxveEtB",
-  "https://thehill.com/?p=6028941",
   "https://www.washingtonexaminer.com/?p=4687219",
   "https://nypost.com/?post_type=article&p=40326061",
   "https://nypost.com/?post_type=article&p=40333820",
@@ -799,21 +797,11 @@
   "CBMilAFBVV95cUxOd3hweHljMzg1cHpVZlZEd29Za2FydndmX1hmM3Z6b25TWUNhNFNtVnU2eGp3VWVoZnM3U2l0azRCOERTZExRR01WelhVWlZCNTYxS014QzhFZEpIMzBuTjVuNjlRU01uUjlfeUlxRU9xaGJUMklzalJicC04M3oxQllqc1JZbXo2ZkFPYms0d0J4bGZ3",
   "https://nypost.com/?post_type=article&p=40453244",
   "CBMirAFBVV95cUxQUXIwaFZFa0JvU1B3VzRqdW5aVDFoMnU4UF93bHlna21iOHZNUTl0N3hVam5JT00xMkhfV2t4T1pUU0dKUm1hd0gzMnpzbmhkNUNOWElYSlRxZkFSZW1ZNWJFV2ZGMlBETnlYUVhER2ZiOVJtV1RnOGRLYnIyQl9lR1dBR3paa2VHeFRlVm5TNU14bE9NVFlYeVdRbzNaYnRpd0FIdDRZU2JkU3NC",
-  "https://thehill.com/?p=6044230"
+  "https://thehill.com/?p=6044230",
+  "CBMiiwFBVV95cUxQQ05DVFJYS3lRaUh6WVMzT3VmRUpKR0JsRGJWaXgzMlFJQ1I4Qkx3alBOSzc4eGx2TjBLUGJOLW5KZzRTd0Nrb0JDaENhNGJZcHRnZE1MM0hpeFlsSFgxNlV5MEdmMzY2MlFIdjJnTjlaWnVMVTZFR0hSNDdrYU1jZHFvdkQyODFYeThN",
+  "https://thehill.com/?p=6042474/"
  ],
  "posts": [
-  {
-   "fp": "election florida mail report second time trump votes year",
-   "title": "Trump votes by mail in Florida election for second time this year: Report",
-   "source": "Washington Examiner",
-   "at": "2026-08-18T03:43:40.033868+00:00"
-  },
-  {
-   "fp": "ballot casts florida mail primary reportedly republican trump",
-   "title": "Trump reportedly casts mail-in ballot in Florida Republican primary",
-   "source": "Guardian World",
-   "at": "2026-08-18T03:43:41.732804+00:00"
-  },
   {
    "fp": "classmate death himself killed mayor philippines school shot southern student then",
    "title": "Student shot a classmate to death then killed himself at school in southern Philippines, mayor says",
@@ -3201,11 +3189,21 @@
    "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and Salmonella",
    "source": "The Hill",
    "at": "2026-08-21T21:16:36.392986+00:00"
+  },
+  {
+   "fp": "bitcoin nears rise stocks",
+   "title": "U.S. Stocks Rise as Bitcoin Nears $80,000",
+   "source": "WSJ",
+   "at": "2026-08-21T21:23:25.874609+00:00"
+  },
+  {
+   "fp": "here refunds tariff using walmart",
+   "title": "Here's how Walmart is using $2.9B in tariff refunds",
+   "source": "The Hill",
+   "at": "2026-08-21T21:23:27.647871+00:00"
   }
  ],
  "titles": [
-  "election florida mail report second time trump votes year",
-  "ballot casts florida mail primary reportedly republican trump",
   "classmate death himself killed mayor philippines school shot southern student then",
   "casualty crew hormuz projectile reported strait struck ukmto unknown vessel",
   "alps collapse destabilizes looming permafrost rock swiss thawing threatens village",
@@ -3603,6 +3601,8 @@
   "bank clash developments east kill middle other palestinian settlers teen west",
   "avalanche brutal center company deadly guide popular punishment tahoe",
   "border buried ceuta deadly migrants rush spain",
-  "alfalfa coli linked outbreak people salmonella sickened sprouts"
+  "alfalfa coli linked outbreak people salmonella sickened sprouts",
+  "bitcoin nears rise stocks",
+  "here refunds tariff using walmart"
  ]
 }
