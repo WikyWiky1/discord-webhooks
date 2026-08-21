@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiugFBVV95cUxOOTI1M1RiLVl4cXJYa3NVRVBKaVFwTnptQU1KX1BaLVFaUE1iVGJTajd0OHhuQXl5bmtIWnBZYWdCVnFkNV9XVk9yM21ncGdhaU5RWDI1YU1QSmlZWFduUGc4TVFZdVdaMjhRMG43M2R6YjZWcmZGaFg1NnUxRi1OTVB6R0UzS1RkV21XdGVFVDIyNXdzMk80bG9tampEbG1TUTFkdFJyTW40OVR6ZlRYVDlhVjZCazlxVHc",
   "CBMimgFBVV95cUxPNTZMdlRjak5Jd2xYMG8zdkZ2eUxmNlRfNTJhSEpaX2ViOWlfb1ZncTdZSUptcFFxN053cU0xeXZsYUFiU21iNElKR29HaVBGTmRVQXlXLTVSdU9kNFk1Z0dvZmVnMldKTHhmSHFXOGx3WEZGbGxqSW9MdUlNU21yeXl2UjlxTm9oVHNVSDFSQnZhbk5meGxveEtB",
   "https://thehill.com/?p=6028941",
   "https://www.washingtonexaminer.com/?p=4687219",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40450489",
   "CBMilAFBVV95cUxOd3hweHljMzg1cHpVZlZEd29Za2FydndmX1hmM3Z6b25TWUNhNFNtVnU2eGp3VWVoZnM3U2l0azRCOERTZExRR01WelhVWlZCNTYxS014QzhFZEpIMzBuTjVuNjlRU01uUjlfeUlxRU9xaGJUMklzalJicC04M3oxQllqc1JZbXo2ZkFPYms0d0J4bGZ3",
   "https://nypost.com/?post_type=article&p=40453244",
-  "CBMirAFBVV95cUxQUXIwaFZFa0JvU1B3VzRqdW5aVDFoMnU4UF93bHlna21iOHZNUTl0N3hVam5JT00xMkhfV2t4T1pUU0dKUm1hd0gzMnpzbmhkNUNOWElYSlRxZkFSZW1ZNWJFV2ZGMlBETnlYUVhER2ZiOVJtV1RnOGRLYnIyQl9lR1dBR3paa2VHeFRlVm5TNU14bE9NVFlYeVdRbzNaYnRpd0FIdDRZU2JkU3NC"
+  "CBMirAFBVV95cUxQUXIwaFZFa0JvU1B3VzRqdW5aVDFoMnU4UF93bHlna21iOHZNUTl0N3hVam5JT00xMkhfV2t4T1pUU0dKUm1hd0gzMnpzbmhkNUNOWElYSlRxZkFSZW1ZNWJFV2ZGMlBETnlYUVhER2ZiOVJtV1RnOGRLYnIyQl9lR1dBR3paa2VHeFRlVm5TNU14bE9NVFlYeVdRbzNaYnRpd0FIdDRZU2JkU3NC",
+  "https://thehill.com/?p=6044230"
  ],
  "posts": [
-  {
-   "fp": "area black candidate congressional majority opponent primary running slams socialist white",
-   "title": "Socialist congressional candidate slams white Dem primary opponent for running in a majority-black area",
-   "source": "New York Post",
-   "at": "2026-08-18T03:43:38.371191+00:00"
-  },
   {
    "fp": "election florida mail report second time trump votes year",
    "title": "Trump votes by mail in Florida election for second time this year: Report",
@@ -3201,10 +3195,15 @@
    "title": "First migrants buried in Spain's Ceuta after deadly border rush",
    "source": "Reuters",
    "at": "2026-08-21T19:52:24.543653+00:00"
+  },
+  {
+   "fp": "alfalfa coli linked outbreak people salmonella sickened sprouts",
+   "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and Salmonella",
+   "source": "The Hill",
+   "at": "2026-08-21T21:16:36.392986+00:00"
   }
  ],
  "titles": [
-  "area black candidate congressional majority opponent primary running slams socialist white",
   "election florida mail report second time trump votes year",
   "ballot casts florida mail primary reportedly republican trump",
   "classmate death himself killed mayor philippines school shot southern student then",
@@ -3603,6 +3602,7 @@
   "center drones killed people russian shopping strike ukraine",
   "bank clash developments east kill middle other palestinian settlers teen west",
   "avalanche brutal center company deadly guide popular punishment tahoe",
-  "border buried ceuta deadly migrants rush spain"
+  "border buried ceuta deadly migrants rush spain",
+  "alfalfa coli linked outbreak people salmonella sickened sprouts"
  ]
 }
