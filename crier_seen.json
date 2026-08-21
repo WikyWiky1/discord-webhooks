@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40326061",
-  "https://nypost.com/?post_type=article&p=40333820",
   "https://www.theguardian.com/world/2026/aug/14/romania-nuclear-plant-shut-down-cernavoda-danube-river-water-drought",
   "CBMirwFBVV95cUxNSlNrM2hySll1T0FvYnlydkYwRHJUUDUxSTVjalhsdzRDaUphaGE2N1dxNm81RjlfLVFhdWtDVlNpWC1peFNCSlFSTmxOUWMwd0YxRkRwZTNCQXA0V2ZBWnNVT0hocURTYlNQUEtqUEdTOVR2UFhtRzNkM0pkLXhTWjJoRVBoVU9nOG1WbHdFNkpqWWtFQ0xTT3F5VFJacC1sZ3M2SE9TbnltelI5bW9j",
   "https://nypost.com/?post_type=article&p=40333818",
@@ -799,21 +797,11 @@
   "https://thehill.com/?p=6044230",
   "CBMiiwFBVV95cUxQQ05DVFJYS3lRaUh6WVMzT3VmRUpKR0JsRGJWaXgzMlFJQ1I4Qkx3alBOSzc4eGx2TjBLUGJOLW5KZzRTd0Nrb0JDaENhNGJZcHRnZE1MM0hpeFlsSFgxNlV5MEdmMzY2MlFIdjJnTjlaWnVMVTZFR0hSNDdrYU1jZHFvdkQyODFYeThN",
   "https://thehill.com/?p=6042474/",
-  "CBMie0FVX3lxTE04MkdmV21FT2x0T0dmSVg0eHBBZlJkakVuTENZYzVUTEV4SVBtLV81ODNEcEVGLWEzV0V1NW5qYjR6eE1JMEV6cW1OTmpyeFZrWmJWd0plZXJYZU1GbEZjVFl1eGEzNHhWeElUS0hldFZuN3Q2TnJGb3B2bw"
+  "CBMie0FVX3lxTE04MkdmV21FT2x0T0dmSVg0eHBBZlJkakVuTENZYzVUTEV4SVBtLV81ODNEcEVGLWEzV0V1NW5qYjR6eE1JMEV6cW1OTmpyeFZrWmJWd0plZXJYZU1GbEZjVFl1eGEzNHhWeElUS0hldFZuN3Q2TnJGb3B2bw",
+  "https://nypost.com/?post_type=article&p=40452857",
+  "https://nypost.com/?post_type=article&p=40453899"
  ],
  "posts": [
-  {
-   "fp": "casualty crew hormuz projectile reported strait struck ukmto unknown vessel",
-   "title": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says",
-   "source": "Reuters",
-   "at": "2026-08-18T04:40:07.181811+00:00"
-  },
-  {
-   "fp": "alps collapse destabilizes looming permafrost rock swiss thawing threatens village",
-   "title": "A looming rock collapse threatens a Swiss village as thawing permafrost destabilizes the Alps",
-   "source": "AP",
-   "at": "2026-08-18T05:46:54.020369+00:00"
-  },
   {
    "fp": "australia bill butler coalition confident deal live ndis pass politics senate tonight",
    "title": "Australia politics live: Butler confident NDIS bill will pass Senate tonight after deal with Coalition",
@@ -3201,11 +3189,21 @@
    "title": "Opinion | Rebuilding the Impeachment Factory",
    "source": "WSJ",
    "at": "2026-08-21T21:42:31.128335+00:00"
+  },
+  {
+   "fp": "bike biking exec family google grieving killed lanes removing rips",
+   "title": "Google exec killed while biking as grieving family rips LA for removing bike lanes",
+   "source": "New York Post",
+   "at": "2026-08-21T22:16:12.415263+00:00"
+  },
+  {
+   "fp": "boxing bullets champion dead hail shot tete zolani",
+   "title": "Boxing champion Zolani Tete shot dead at 28 in \u2018hail of bullets\u2019",
+   "source": "New York Post",
+   "at": "2026-08-21T22:16:14.132740+00:00"
   }
  ],
  "titles": [
-  "casualty crew hormuz projectile reported strait struck ukmto unknown vessel",
-  "alps collapse destabilizes looming permafrost rock swiss thawing threatens village",
   "australia bill butler coalition confident deal live ndis pass politics senate tonight",
   "adopted congress florida governor grip holds primaries state testing trump",
   "alaska also congresswoman face features former primary senate sullivans",
@@ -3603,6 +3601,8 @@
   "alfalfa coli linked outbreak people salmonella sickened sprouts",
   "bitcoin nears rise stocks",
   "here refunds tariff using walmart",
-  "factory impeachment opinion rebuilding"
+  "factory impeachment opinion rebuilding",
+  "bike biking exec family google grieving killed lanes removing rips",
+  "boxing bullets champion dead hail shot tete zolani"
  ]
 }
