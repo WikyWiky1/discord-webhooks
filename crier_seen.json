@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4687219",
   "https://nypost.com/?post_type=article&p=40326061",
   "https://nypost.com/?post_type=article&p=40333820",
   "https://www.theguardian.com/world/2026/aug/14/romania-nuclear-plant-shut-down-cernavoda-danube-river-water-drought",
@@ -799,15 +798,10 @@
   "CBMirAFBVV95cUxQUXIwaFZFa0JvU1B3VzRqdW5aVDFoMnU4UF93bHlna21iOHZNUTl0N3hVam5JT00xMkhfV2t4T1pUU0dKUm1hd0gzMnpzbmhkNUNOWElYSlRxZkFSZW1ZNWJFV2ZGMlBETnlYUVhER2ZiOVJtV1RnOGRLYnIyQl9lR1dBR3paa2VHeFRlVm5TNU14bE9NVFlYeVdRbzNaYnRpd0FIdDRZU2JkU3NC",
   "https://thehill.com/?p=6044230",
   "CBMiiwFBVV95cUxQQ05DVFJYS3lRaUh6WVMzT3VmRUpKR0JsRGJWaXgzMlFJQ1I4Qkx3alBOSzc4eGx2TjBLUGJOLW5KZzRTd0Nrb0JDaENhNGJZcHRnZE1MM0hpeFlsSFgxNlV5MEdmMzY2MlFIdjJnTjlaWnVMVTZFR0hSNDdrYU1jZHFvdkQyODFYeThN",
-  "https://thehill.com/?p=6042474/"
+  "https://thehill.com/?p=6042474/",
+  "CBMie0FVX3lxTE04MkdmV21FT2x0T0dmSVg0eHBBZlJkakVuTENZYzVUTEV4SVBtLV81ODNEcEVGLWEzV0V1NW5qYjR6eE1JMEV6cW1OTmpyeFZrWmJWd0plZXJYZU1GbEZjVFl1eGEzNHhWeElUS0hldFZuN3Q2TnJGb3B2bw"
  ],
  "posts": [
-  {
-   "fp": "classmate death himself killed mayor philippines school shot southern student then",
-   "title": "Student shot a classmate to death then killed himself at school in southern Philippines, mayor says",
-   "source": "AP",
-   "at": "2026-08-18T03:59:35.245928+00:00"
-  },
   {
    "fp": "casualty crew hormuz projectile reported strait struck ukmto unknown vessel",
    "title": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says",
@@ -3201,10 +3195,15 @@
    "title": "Here's how Walmart is using $2.9B in tariff refunds",
    "source": "The Hill",
    "at": "2026-08-21T21:23:27.647871+00:00"
+  },
+  {
+   "fp": "factory impeachment opinion rebuilding",
+   "title": "Opinion | Rebuilding the Impeachment Factory",
+   "source": "WSJ",
+   "at": "2026-08-21T21:42:31.128335+00:00"
   }
  ],
  "titles": [
-  "classmate death himself killed mayor philippines school shot southern student then",
   "casualty crew hormuz projectile reported strait struck ukmto unknown vessel",
   "alps collapse destabilizes looming permafrost rock swiss thawing threatens village",
   "australia bill butler coalition confident deal live ndis pass politics senate tonight",
@@ -3603,6 +3602,7 @@
   "border buried ceuta deadly migrants rush spain",
   "alfalfa coli linked outbreak people salmonella sickened sprouts",
   "bitcoin nears rise stocks",
-  "here refunds tariff using walmart"
+  "here refunds tariff using walmart",
+  "factory impeachment opinion rebuilding"
  ]
 }
