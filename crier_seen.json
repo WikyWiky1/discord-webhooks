@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMipAFBVV95cUxOZElSWnU4T2dkdF8wdmI0RFhyVGpXUXlNb0FTdXg2dEtDYnBabEIzbW1uTFdwZjFkN0FuVW5LajJCTXF3NW81eGpLd2EtSnpfQ1JTdGM3ZWZZOHlYTEsySWFwZ2l5NTRnR05FZVZIN0F5dzI2Yk12Tnk2ZXhxd1ZuNUU0MUZpdDRSQjc2MUNTc2NjZXFsVzc1RnVWUWQtd0pNbUxpRA",
   "https://thehill.com/?p=6029854",
   "https://www.washingtonexaminer.com/?p=4683026",
   "https://www.theguardian.com/us-news/live/2026/aug/14/luigi-mangione-court-plea-deal-ceo-killing-live",
@@ -799,7 +798,8 @@
   "CBMiYkFVX3lxTE5SRFV2Mk1aZGI3Tk1LcGhOYjFFR1c0Sjd2eVgxV0FoaE50cWZHS2hJaUI5dndPa3NoYXFBNVp4dF9zNjY2SXdZOXNEMmJnalE0dEtGNVVHbWI0T2lKNzN6cVhn",
   "CBMisAFBVV95cUxQR0U0d2pNTTJyQUFlZGtrQ0dKZ3VLX211VFVSTXRSSkdYYnllSTFLeVNXZF9xY2NZLS10RWVZV0gtM2oweV94LXZqSHZxc0FnWUJscEtuZ0U5eTBubGFQMmJNNWJobFhWZGJTUm5lbVc4RUhWSGFIX1NJUU5lYzR6SHYzcnJQQnZmZHJEUDhIUjBCQjJoMW1vQktFdnZ0ZG85a1lTd0hLSEFRRnVsV3pZeg",
   "CBMitAFBVV95cUxPLVI2R0dRZU5ZdUh4QTlialFzOTBSRGlzVU1odWozcDhQaEpzNWZMVzFGa1hzcnRWTVRSSzFGNHZrS3Bma3dwLTdpYnU5cmdXdHBZU1VQOXA2QXhtbUNOMnc4NVJjSzFiU1p2OGpSU0NUcXdMV2F6d1g0azhtMHFtT21kUW82UldhUGhiZFRGX3QzaGUzeVliN3dpcnJUNXg0d1MwTVRBbGI3RkxaTEx6TkpyM1k",
-  "https://thehill.com/?p=6044914"
+  "https://thehill.com/?p=6044914",
+  "https://nypost.com/?post_type=article&p=40462148"
  ],
  "posts": [
   {
@@ -3179,12 +3179,6 @@
    "at": "2026-08-22T15:13:43.492913+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-08-22T15:20:07.555667+00:00"
-  },
-  {
    "fp": "about island spacex talked vehicle visitor",
    "title": "A SpaceX Vehicle Is This Island\u2019s Most Talked About Visitor",
    "source": "WSJ",
@@ -3201,6 +3195,12 @@
    "title": "Canada rejects US terms for trade deal as 50 percent tariffs take effect",
    "source": "The Hill",
    "at": "2026-08-22T15:20:13.250724+00:00"
+  },
+  {
+   "fp": "attacks killed school sweden sword year",
+   "title": "One killed after 18-year-old with sword attacks school in Sweden",
+   "source": "New York Post",
+   "at": "2026-08-22T15:37:04.525955+00:00"
   }
  ],
  "titles": [
@@ -3600,9 +3600,9 @@
   "bakersfield dead football game high school shot teen",
   "attack delivery down gunned police possible rage road",
   "actor dead five heartbeats hill michael sugar wright",
-  "edition journal print street wall",
   "about island spacex talked vehicle visitor",
   "backed congress democrats district harris here nebraska rare republican sent",
-  "canada deal effect percent rejects take tariffs terms trade"
+  "canada deal effect percent rejects take tariffs terms trade",
+  "attacks killed school sweden sword year"
  ]
 }
