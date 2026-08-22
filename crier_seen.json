@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
   "CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ",
   "CBMiwgFBVV95cUxNRDlheFE0eXlha2U3QTR5TUpFQU5iSFQ5d0NaVXZCdVNxbmI1cVE0emU1ZExfcl9nbDhmb1JFbS04NXQtMk9hVzFVNDZZVXV0cHJEVW5IWUNkbEhGWHhjMGVPRVNweFlmdkhpY1BaYmJDZmRRdzZxaUU0M19aNzBqeVlYY3lnZVlqWTc1WnBRXzRnNjZNdFh1TkR4U1NjWlZSUmF4aElNYngtNmhaSjVSZVIzX05rSzg2QTVhRjlaTVdyQQ",
   "https://nypost.com/?post_type=article&p=40346681",
@@ -799,15 +798,10 @@
   "CBMiigFBVV95cUxPbU1lTW5ZbUgyclJKQ3NSM0F0VVpydllLTnFSYnFxZ1FvYXF5TnF4LTJDWlBYWGFDTV9URlZ1OHozWE1OaUstMU5XU2R6aDlhVW5OVmtJTXUzN05vaU51MmZ3Wjd4RWZEcmNWNE05SG9XN3dvUkk3Vld1a1BEd2RlazFrV19KYXZQQmc",
   "https://nypost.com/?post_type=article&p=40465121",
   "CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO",
-  "https://thehill.com/?p=6045262"
+  "https://thehill.com/?p=6045262",
+  "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke"
  ],
  "posts": [
-  {
-   "fp": "beach discovery famous horror sand world",
-   "title": "Horror discovery on the sand at world-famous LA beach",
-   "source": "New York Post",
-   "at": "2026-08-18T21:23:30.401420+00:00"
-  },
   {
    "fp": "alaska ballroom court florida head keep live paused polls primary supreme updates urged voters",
    "title": "Live updates: Florida, Alaska voters head to primary polls; Supreme Court urged to keep ballroom paused",
@@ -3201,10 +3195,15 @@
    "title": "President Trump: White House ballroom construction 'under budget,' 'ahead of schedule'",
    "source": "The Hill",
    "at": "2026-08-22T21:21:10.714248+00:00"
+  },
+  {
+   "fp": "days hawaii hurricane just lala moke poised slam storm tropical",
+   "title": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
+   "source": "Guardian World",
+   "at": "2026-08-22T22:14:37.282515+00:00"
   }
  ],
  "titles": [
-  "beach discovery famous horror sand world",
   "alaska ballroom court florida head keep live paused polls primary supreme updates urged voters",
   "candidates desantis florida jockey live primary results succeed",
   "court leaders offenses pretend rubio sanctions sham stop trying",
@@ -3603,6 +3602,7 @@
   "alert earthquake eastern issued japan magnitude moderate shakes tsunami",
   "badly casualty catapult ever fractured giant ground medieval pinned skeleton year",
   "attack condemns damascus israel southern strikes syria",
-  "ahead ballroom budget construction house president schedule trump under white"
+  "ahead ballroom budget construction house president schedule trump under white",
+  "days hawaii hurricane just lala moke poised slam storm tropical"
  ]
 }
