@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR",
   "https://www.washingtonexaminer.com/?p=4687660",
   "https://thehill.com/?p=6030313",
   "CBMikwFBVV95cUxNVU5Hd3FfejVTWkF2cm5JbHY5R2xsWGowRlk0VHd2OHVyTEhacXZMUDJUSW5RSDNHRUptUG0wMENOdkRTMUhCczA3b3Bic2ZyaVdGci1makg5dFpDM0kxY3paNHJGLTFXSER1a052TTFPaWwzaDZpaU9SOFdlU240LVdnenNYbTQ2Z3VOMUVnNXotRVk",
@@ -799,15 +798,10 @@
   "CBMimAFBVV95cUxQOGtQcDVjdTV2eHcyVHkzX05sdi01dDJyeVdUMzR1WU5mem1Vb01oU09GWXlpNjhlYXZTWVFhSzJhVTQ0TG1QeXZ5dDR0bXFUc0dkeFRxLUUydXlTUjJEMlNKdWJ6b2JOT19mUkxsQlAweHBvRDhuaWNWOWlwekFXdF9TT0diTUl3SlFjUDlyMWprRkNxSUFGOA",
   "CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr",
   "https://news.sky.com/story/former-world-champion-boxer-zolani-tete-shot-dead-outside-his-home-13575726",
-  "CBMitAFBVV95cUxNUGlKOVc4ZDFhMlNOWE8wNXpPb1paZW5RRG5oZFd3VV9YaThScFlPYmRCZ2xfMU9sRFNpNUpsNk9Jb1BES19nOVJDdnJER241VzNyZWc0UGNSZWJEMEFnSW1vaDhacGEzQW1WYU9pU21mcTlWWHBOU3BiTm05cFNGY05QVFhwd1pGOEhLenNoSnliZUhEYnh3ZFpTNTMxYzZoeURya04zdy12c3NmQVUtTDcyRVE"
+  "CBMitAFBVV95cUxNUGlKOVc4ZDFhMlNOWE8wNXpPb1paZW5RRG5oZFd3VV9YaThScFlPYmRCZ2xfMU9sRFNpNUpsNk9Jb1BES19nOVJDdnJER241VzNyZWc0UGNSZWJEMEFnSW1vaDhacGEzQW1WYU9pU21mcTlWWHBOU3BiTm05cFNGY05QVFhwd1pGOEhLenNoSnliZUhEYnh3ZFpTNTMxYzZoeURya04zdy12c3NmQVUtTDcyRVE",
+  "https://nypost.com/?post_type=article&p=40463412"
  ],
  "posts": [
-  {
-   "fp": "earthquake granada historic injuring rocks spain three",
-   "title": "Earthquake rocks Spain's historic Granada, injuring three",
-   "source": "BBC World",
-   "at": "2026-08-18T19:09:29.366948+00:00"
-  },
   {
    "fp": "assassination attempt bessent convicted gets individual prison years",
    "title": "Individual convicted in Bessent assassination attempt gets more than 6 years in prison",
@@ -3201,10 +3195,15 @@
    "title": "EU sends helicopters, firefighters to Serbia to tackle wildfires",
    "source": "Reuters",
    "at": "2026-08-22T17:38:05.369749+00:00"
+  },
+  {
+   "fp": "california despicable fury kill memorial military soldier statue steal thieves",
+   "title": "Fury as despicable thieves steal soldier statue from California military memorial: \u2018I\u2019d kill them if I could\u2019",
+   "source": "New York Post",
+   "at": "2026-08-22T17:54:58.398760+00:00"
   }
  ],
  "titles": [
-  "earthquake granada historic injuring rocks spain three",
   "assassination attempt bessent convicted gets individual prison years",
   "beard bowl cancellation dead drummer frank hollywood weeks",
   "aftermath describes former latest murder officer security shakur shooting trial tupac updates witnessing",
@@ -3603,6 +3602,7 @@
   "casualties kryvyi parking recalls russian strike survivor",
   "impeached lose midterms trump",
   "africa boxing champion dead former home outside shot south tete world",
-  "firefighters helicopters sends serbia tackle wildfires"
+  "firefighters helicopters sends serbia tackle wildfires",
+  "california despicable fury kill memorial military soldier statue steal thieves"
  ]
 }
