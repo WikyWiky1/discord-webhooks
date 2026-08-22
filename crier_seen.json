@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMidkFVX3lxTE1ZUFpCTXFnRTNRLTJaeEdsS01oUXNyS3JYUkhQZGM5cDhYZHFhaElxMVVIWlNBTTYzcUNyeU92Qy1kQ3lZRDBILWdGVmY2Rm9OWFlMMjVfaUVBZm5RUGh2WldfZDdOVUtPaXA3Rm41blA1NzBaN3c",
   "https://www.theguardian.com/us-news/2026/aug/14/michael-boren-idaho-wildfire-ranch",
   "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
   "CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40466116",
   "https://nypost.com/?post_type=article&p=40465827",
   "CBMiigFBVV95cUxPbU1lTW5ZbUgyclJKQ3NSM0F0VVpydllLTnFSYnFxZ1FvYXF5TnF4LTJDWlBYWGFDTV9URlZ1OHozWE1OaUstMU5XU2R6aDlhVW5OVmtJTXUzN05vaU51MmZ3Wjd4RWZEcmNWNE05SG9XN3dvUkk3Vld1a1BEd2RlazFrV19KYXZQQmc",
-  "https://nypost.com/?post_type=article&p=40465121"
+  "https://nypost.com/?post_type=article&p=40465121",
+  "CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO"
  ],
  "posts": [
-  {
-   "fp": "dead difficulty family shoreham three water",
-   "title": "Three dead after family get into difficulty in water off Shoreham-by-Sea",
-   "source": "Guardian World",
-   "at": "2026-08-18T21:16:43.025548+00:00"
-  },
   {
    "fp": "biffle burglarizing charged crash driver georgia greg home nascar plane",
    "title": "Georgia man charged with burglarizing NASCAR driver Greg Biffle\u2019s home after plane crash",
@@ -3201,10 +3195,15 @@
    "title": "\u2018Pinned to the ground\u2019: Badly-fractured 700-year-old skeleton could be first ever casualty of giant medieval catapult",
    "source": "New York Post",
    "at": "2026-08-22T20:14:27.672640+00:00"
+  },
+  {
+   "fp": "attack condemns damascus israel southern strikes syria",
+   "title": "Israel strikes southern Syria; Damascus condemns attack",
+   "source": "Reuters",
+   "at": "2026-08-22T20:42:10.064955+00:00"
   }
  ],
  "titles": [
-  "dead difficulty family shoreham three water",
   "biffle burglarizing charged crash driver georgia greg home nascar plane",
   "beach discovery famous horror sand world",
   "alaska ballroom court florida head keep live paused polls primary supreme updates urged voters",
@@ -3603,6 +3602,7 @@
   "bradford dead hero hobbs janie money motown unsung wrote",
   "california coastal highway iconic paradise ravaged reopen wildfire",
   "alert earthquake eastern issued japan magnitude moderate shakes tsunami",
-  "badly casualty catapult ever fractured giant ground medieval pinned skeleton year"
+  "badly casualty catapult ever fractured giant ground medieval pinned skeleton year",
+  "attack condemns damascus israel southern strikes syria"
  ]
 }
