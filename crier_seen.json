@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6029854",
-  "https://www.washingtonexaminer.com/?p=4683026",
   "https://www.theguardian.com/us-news/live/2026/aug/14/luigi-mangione-court-plea-deal-ceo-killing-live",
   "https://www.theguardian.com/uk-news/2026/aug/14/train-derails-near-essex-town-of-wickford",
   "https://www.theguardian.com/environment/2026/aug/14/stourbridge-wildfires-climate-change",
@@ -799,21 +797,11 @@
   "CBMisAFBVV95cUxQR0U0d2pNTTJyQUFlZGtrQ0dKZ3VLX211VFVSTXRSSkdYYnllSTFLeVNXZF9xY2NZLS10RWVZV0gtM2oweV94LXZqSHZxc0FnWUJscEtuZ0U5eTBubGFQMmJNNWJobFhWZGJTUm5lbVc4RUhWSGFIX1NJUU5lYzR6SHYzcnJQQnZmZHJEUDhIUjBCQjJoMW1vQktFdnZ0ZG85a1lTd0hLSEFRRnVsV3pZeg",
   "CBMitAFBVV95cUxPLVI2R0dRZU5ZdUh4QTlialFzOTBSRGlzVU1odWozcDhQaEpzNWZMVzFGa1hzcnRWTVRSSzFGNHZrS3Bma3dwLTdpYnU5cmdXdHBZU1VQOXA2QXhtbUNOMnc4NVJjSzFiU1p2OGpSU0NUcXdMV2F6d1g0azhtMHFtT21kUW82UldhUGhiZFRGX3QzaGUzeVliN3dpcnJUNXg0d1MwTVRBbGI3RkxaTEx6TkpyM1k",
   "https://thehill.com/?p=6044914",
-  "https://nypost.com/?post_type=article&p=40462148"
+  "https://nypost.com/?post_type=article&p=40462148",
+  "CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs",
+  "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0"
  ],
  "posts": [
-  {
-   "fp": "almost attack back bulls cost face lives needed neighbor pregnant savage three together woman",
-   "title": "Pregnant woman needed \u2018face put back together\u2019 after savage attack by neighbor\u2019s pit bulls: \u2018Almost cost three lives\u2019",
-   "source": "New York Post",
-   "at": "2026-08-18T18:26:50.399285+00:00"
-  },
-  {
-   "fp": "breaking burnham devolution pledge",
-   "title": "Burnham is breaking his devolution pledge",
-   "source": "Telegraph",
-   "at": "2026-08-18T18:26:52.068808+00:00"
-  },
   {
    "fp": "assassin bessent inspired kill luigi mangione plot prison scott secretary sentenced transgender treasury wannabe",
    "title": "Transgender wannabe assassin sentenced to prison for Luigi Mangione-inspired plot to kill Treasury Secretary Scott Bessent",
@@ -3201,11 +3189,21 @@
    "title": "One killed after 18-year-old with sword attacks school in Sweden",
    "source": "New York Post",
    "at": "2026-08-22T15:37:04.525955+00:00"
+  },
+  {
+   "fp": "beginning canada collapse goods impose negotiations retaliatory sept tariffs trade",
+   "title": "Canada will impose retaliatory tariffs on US goods beginning Sept. 8 as trade negotiations collapse",
+   "source": "AP",
+   "at": "2026-08-22T15:53:46.907697+00:00"
+  },
+  {
+   "fp": "calls carney collapse fresh miscalculation talks tariffs trade trump",
+   "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+   "source": "BBC World",
+   "at": "2026-08-22T15:53:48.694810+00:00"
   }
  ],
  "titles": [
-  "almost attack back bulls cost face lives needed neighbor pregnant savage three together woman",
-  "breaking burnham devolution pledge",
   "assassin bessent inspired kill luigi mangione plot prison scott secretary sentenced transgender treasury wannabe",
   "court criminal international lawyer president sanctions senior",
   "announces figures sanctions",
@@ -3603,6 +3601,8 @@
   "about island spacex talked vehicle visitor",
   "backed congress democrats district harris here nebraska rare republican sent",
   "canada deal effect percent rejects take tariffs terms trade",
-  "attacks killed school sweden sword year"
+  "attacks killed school sweden sword year",
+  "beginning canada collapse goods impose negotiations retaliatory sept tariffs trade",
+  "calls carney collapse fresh miscalculation talks tariffs trade trump"
  ]
 }
