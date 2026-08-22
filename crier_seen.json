@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4687660",
   "https://thehill.com/?p=6030313",
   "CBMikwFBVV95cUxNVU5Hd3FfejVTWkF2cm5JbHY5R2xsWGowRlk0VHd2OHVyTEhacXZMUDJUSW5RSDNHRUptUG0wMENOdkRTMUhCczA3b3Bic2ZyaVdGci1makg5dFpDM0kxY3paNHJGLTFXSER1a052TTFPaWwzaDZpaU9SOFdlU240LVdnenNYbTQ2Z3VOMUVnNXotRVk",
   "https://nypost.com/?post_type=article&p=40345635",
@@ -799,15 +798,10 @@
   "CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr",
   "https://news.sky.com/story/former-world-champion-boxer-zolani-tete-shot-dead-outside-his-home-13575726",
   "CBMitAFBVV95cUxNUGlKOVc4ZDFhMlNOWE8wNXpPb1paZW5RRG5oZFd3VV9YaThScFlPYmRCZ2xfMU9sRFNpNUpsNk9Jb1BES19nOVJDdnJER241VzNyZWc0UGNSZWJEMEFnSW1vaDhacGEzQW1WYU9pU21mcTlWWHBOU3BiTm05cFNGY05QVFhwd1pGOEhLenNoSnliZUhEYnh3ZFpTNTMxYzZoeURya04zdy12c3NmQVUtTDcyRVE",
-  "https://nypost.com/?post_type=article&p=40463412"
+  "https://nypost.com/?post_type=article&p=40463412",
+  "https://nypost.com/?post_type=article&p=40463367"
  ],
  "posts": [
-  {
-   "fp": "assassination attempt bessent convicted gets individual prison years",
-   "title": "Individual convicted in Bessent assassination attempt gets more than 6 years in prison",
-   "source": "The Hill",
-   "at": "2026-08-18T19:42:20.485566+00:00"
-  },
   {
    "fp": "beard bowl cancellation dead drummer frank hollywood weeks",
    "title": "ZZ Top drummer Frank Beard dead at 77, weeks after Hollywood Bowl cancellation",
@@ -3201,10 +3195,15 @@
    "title": "Fury as despicable thieves steal soldier statue from California military memorial: \u2018I\u2019d kill them if I could\u2019",
    "source": "New York Post",
    "at": "2026-08-22T17:54:58.398760+00:00"
+  },
+  {
+   "fp": "coaches football leave program resign seven several shock utter wisconsin",
+   "title": "Wisconsin HS football program in \u2018utter shock\u2019 as seven coaches resign after several are put on leave",
+   "source": "New York Post",
+   "at": "2026-08-22T18:18:44.008407+00:00"
   }
  ],
  "titles": [
-  "assassination attempt bessent convicted gets individual prison years",
   "beard bowl cancellation dead drummer frank hollywood weeks",
   "aftermath describes former latest murder officer security shakur shooting trial tupac updates witnessing",
   "health kill opinion plans private sanders sayed",
@@ -3603,6 +3602,7 @@
   "impeached lose midterms trump",
   "africa boxing champion dead former home outside shot south tete world",
   "firefighters helicopters sends serbia tackle wildfires",
-  "california despicable fury kill memorial military soldier statue steal thieves"
+  "california despicable fury kill memorial military soldier statue steal thieves",
+  "coaches football leave program resign seven several shock utter wisconsin"
  ]
 }
