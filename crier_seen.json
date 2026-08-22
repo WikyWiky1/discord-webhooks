@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40336877",
   "https://www.theguardian.com/world/2026/aug/14/benjamin-netanyahu-describes-uk-first-islamic-republic-to-get-nuclear-weapon",
   "CBMimAFBVV95cUxORXVKWTN3bTNjNHZJeXIxbHF2c2NveGRiQnNUTmxNOGx3SkNKOGpfdzk0Rm90c2g5VmtWT3hMaUpBV2ZhRjlWVHVMa1p5Mmw5U2pXQm9MODBDYlpNZHdycjlTSmYzVzNsNmpBSG5RaDhtelhOMXRHUWhRdk84TFNQdmgxbTdRaVVOV1FhUFVGNWRBUmZkTUdCdA",
   "https://nypost.com/?post_type=article&p=40336495",
@@ -799,15 +798,10 @@
   "CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ",
   "CBMiogFBVV95cUxPaWoxWmxoZzJmT20yYWR3Yks0MGd4Z1U0S28yLXpxWDNiZjNNdTJ6cnVTWUlmY2JFREFWRThpTDJQazNRSzA1bHBzWmRkLVBGT0ZJbmhjTFFmVzdEZzA5MHktY2FSRk5DUk4yM1FBMUl3Q3pmRllIQnUyWFFfamZ3Z1Rwa1lVNWlzR2ljUWd2Q1dnY3BZZkdTNmxRVFZ3U2tHN0E",
   "CBMingFBVV95cUxOZ3F4SlU3MVZrdXIzQ1k0QVRIMjR6TEVFRDQ4X1ptX1ZmYUZ3NU1GX3RkQnpMbkI1Y1RJUHVEWHZ5cTluM2JyakVELXROZzJXUFVKbFRWd05ickVDM2tCX3dHd3ZQb1VqdGlZQ05VUF9KVGVGX1pBaWhHUll5U1ZfN3BncjhEVkh5NXhmbEZQLS1PY1VSNWpiUlp0TS1YUQ",
-  "CBMijAFBVV95cUxPY09ZWEw4OTEyeU5aWFFrTkQyYmc3X0RydENSclU5eUZZcmduVGE4ZnBITE1oWEVnYjZRVGd4MzJqckc5eGhRZ2RqRFMtQ0NMbjNjWjBZX2Ywc0k5UkNwakx5Smk0VWVwaklnMXR5ZnRRYjlBdXNhaDZna0hoMlk1d3ViUXM2Q3FYcFdhRw"
+  "CBMijAFBVV95cUxPY09ZWEw4OTEyeU5aWFFrTkQyYmc3X0RydENSclU5eUZZcmduVGE4ZnBITE1oWEVnYjZRVGd4MzJqckc5eGhRZ2RqRFMtQ0NMbjNjWjBZX2Ywc0k5UkNwakx5Smk0VWVwaklnMXR5ZnRRYjlBdXNhaDZna0hoMlk1d3ViUXM2Q3FYcFdhRw",
+  "CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ"
  ],
  "posts": [
-  {
-   "fp": "altered datasets deleted education endangering health nearly public trump",
-   "title": "Trump 2.0 has deleted or altered nearly 400 US datasets, endangering public health, education and more",
-   "source": "Guardian World",
-   "at": "2026-08-18T11:30:19.758019+00:00"
-  },
   {
    "fp": "almost drones fires kharkiv kill missiles moscow russian ukraine",
    "title": "Ukraine fires almost 800 drones at Moscow while Russian missiles kill 10 in Kharkiv",
@@ -3201,10 +3195,15 @@
    "title": "Former world champion boxer Zolani Tete killed in South Africa",
    "source": "AP",
    "at": "2026-08-22T08:20:13.630140+00:00"
+  },
+  {
+   "fp": "attacks deadly drone kill mall people russian shopping strike ukraine",
+   "title": "Russian attacks on Ukraine kill 2 people a day after deadly shopping mall drone strike",
+   "source": "AP",
+   "at": "2026-08-22T08:59:53.444113+00:00"
   }
  ],
  "titles": [
-  "altered datasets deleted education endangering health nearly public trump",
   "almost drones fires kharkiv kill missiles moscow russian ukraine",
   "aerospace chairman internal resigns review",
   "deadliest death disaster ferry kariba making rises toll transport zimbabwe",
@@ -3603,6 +3602,7 @@
   "ahead hostile iran keep rhetoric sanctions",
   "bombs buried danger european hidden mines reveal wildfires wwii",
   "crash dead police several vehicle",
-  "africa boxer champion former killed south tete world zolani"
+  "africa boxer champion former killed south tete world zolani",
+  "attacks deadly drone kill mall people russian shopping strike ukraine"
  ]
 }
