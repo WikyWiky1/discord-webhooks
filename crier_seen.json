@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40345419",
   "https://nypost.com/?post_type=article&p=40343505",
   "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
   "https://www.theguardian.com/world/2026/aug/14/emergency-alert-warning-wildfire-risk-sent-phones-england-wales",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40463367",
   "CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE",
   "CBMikAFBVV95cUxNbF9QeG1JbUxkajVXT1l5QXg4T0Y1Wi1qdng2cFB3MVhPSk9CYWtoamIybkdtT1pPMkJDZG91NmpaLXRSaXh3Q3Q5bE8xVHEyLTF6NmEybTdkTzk2VWQxV0V0VlZDN1VPeU5RN1gweXVsWEE3cThpWGpHbHR4TlRpSEpxUEx6aDZpWmV0UmZOY1U",
-  "https://thehill.com/?p=6044156"
+  "https://thehill.com/?p=6044156",
+  "https://nypost.com/?post_type=article&p=40464308"
  ],
  "posts": [
-  {
-   "fp": "building explosion flames industrial killed left ohio scorched workers",
-   "title": "2 workers killed in explosion that left Ohio industrial building scorched in flames",
-   "source": "New York Post",
-   "at": "2026-08-18T20:15:09.749598+00:00"
-  },
   {
    "fp": "kill plot prison secretary sentenced treasury woman years",
    "title": "US woman sentenced to six years in prison over plot to kill treasury secretary",
@@ -3201,10 +3195,15 @@
    "title": "Tuesday's election results could spell real trouble for Florida Republicans",
    "source": "The Hill",
    "at": "2026-08-22T18:29:49.788196+00:00"
+  },
+  {
+   "fp": "absurd attack fake nancy outrage pelosi successor torched totally women",
+   "title": "Nancy Pelosi torched by Dem women over \u2018totally absurd\u2019 attack on would-be successor: \u2018A lot of fake outrage\u2019",
+   "source": "New York Post",
+   "at": "2026-08-22T19:17:21.712738+00:00"
   }
  ],
  "titles": [
-  "building explosion flames industrial killed left ohio scorched workers",
   "kill plot prison secretary sentenced treasury woman years",
   "gaza israel kills kushner medics meeting netanyahu",
   "adviser analyst argentina attack bolivia detained milei",
@@ -3603,6 +3602,7 @@
   "coaches football leave program resign seven several shock utter wisconsin",
   "alliance between canada close durable further once ruptures trade",
   "canada here timeline trade trump",
-  "election florida real republicans results spell trouble tuesday"
+  "election florida real republicans results spell trouble tuesday",
+  "absurd attack fake nancy outrage pelosi successor torched totally women"
  ]
 }
