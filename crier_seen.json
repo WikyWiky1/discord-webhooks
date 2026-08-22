@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6030313",
-  "CBMikwFBVV95cUxNVU5Hd3FfejVTWkF2cm5JbHY5R2xsWGowRlk0VHd2OHVyTEhacXZMUDJUSW5RSDNHRUptUG0wMENOdkRTMUhCczA3b3Bic2ZyaVdGci1makg5dFpDM0kxY3paNHJGLTFXSER1a052TTFPaWwzaDZpaU9SOFdlU240LVdnenNYbTQ2Z3VOMUVnNXotRVk",
-  "https://nypost.com/?post_type=article&p=40345635",
   "https://nypost.com/?post_type=article&p=40345419",
   "https://nypost.com/?post_type=article&p=40343505",
   "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
@@ -799,27 +796,12 @@
   "https://news.sky.com/story/former-world-champion-boxer-zolani-tete-shot-dead-outside-his-home-13575726",
   "CBMitAFBVV95cUxNUGlKOVc4ZDFhMlNOWE8wNXpPb1paZW5RRG5oZFd3VV9YaThScFlPYmRCZ2xfMU9sRFNpNUpsNk9Jb1BES19nOVJDdnJER241VzNyZWc0UGNSZWJEMEFnSW1vaDhacGEzQW1WYU9pU21mcTlWWHBOU3BiTm05cFNGY05QVFhwd1pGOEhLenNoSnliZUhEYnh3ZFpTNTMxYzZoeURya04zdy12c3NmQVUtTDcyRVE",
   "https://nypost.com/?post_type=article&p=40463412",
-  "https://nypost.com/?post_type=article&p=40463367"
+  "https://nypost.com/?post_type=article&p=40463367",
+  "CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE",
+  "CBMikAFBVV95cUxNbF9QeG1JbUxkajVXT1l5QXg4T0Y1Wi1qdng2cFB3MVhPSk9CYWtoamIybkdtT1pPMkJDZG91NmpaLXRSaXh3Q3Q5bE8xVHEyLTF6NmEybTdkTzk2VWQxV0V0VlZDN1VPeU5RN1gweXVsWEE3cThpWGpHbHR4TlRpSEpxUEx6aDZpWmV0UmZOY1U",
+  "https://thehill.com/?p=6044156"
  ],
  "posts": [
-  {
-   "fp": "beard bowl cancellation dead drummer frank hollywood weeks",
-   "title": "ZZ Top drummer Frank Beard dead at 77, weeks after Hollywood Bowl cancellation",
-   "source": "New York Post",
-   "at": "2026-08-18T19:42:22.294502+00:00"
-  },
-  {
-   "fp": "aftermath describes former latest murder officer security shakur shooting trial tupac updates witnessing",
-   "title": "Tupac Shakur murder trial: former security officer describes witnessing aftermath of shooting \u2013 latest updates",
-   "source": "Guardian World",
-   "at": "2026-08-18T19:42:24.391436+00:00"
-  },
-  {
-   "fp": "health kill opinion plans private sanders sayed",
-   "title": "Opinion | If El-Sayed and Sanders Kill Private Health Plans",
-   "source": "WSJ",
-   "at": "2026-08-18T19:42:26.149268+00:00"
-  },
   {
    "fp": "building explosion flames industrial killed left ohio scorched workers",
    "title": "2 workers killed in explosion that left Ohio industrial building scorched in flames",
@@ -3201,12 +3183,27 @@
    "title": "Wisconsin HS football program in \u2018utter shock\u2019 as seven coaches resign after several are put on leave",
    "source": "New York Post",
    "at": "2026-08-22T18:18:44.008407+00:00"
+  },
+  {
+   "fp": "alliance between canada close durable further once ruptures trade",
+   "title": "A trade war between Canada and the US further ruptures a once-close and durable alliance",
+   "source": "AP",
+   "at": "2026-08-22T18:29:46.079672+00:00"
+  },
+  {
+   "fp": "canada here timeline trade trump",
+   "title": "Trump\u2019s trade war with Canada: A timeline of how we got here",
+   "source": "AP",
+   "at": "2026-08-22T18:29:47.899888+00:00"
+  },
+  {
+   "fp": "election florida real republicans results spell trouble tuesday",
+   "title": "Tuesday's election results could spell real trouble for Florida Republicans",
+   "source": "The Hill",
+   "at": "2026-08-22T18:29:49.788196+00:00"
   }
  ],
  "titles": [
-  "beard bowl cancellation dead drummer frank hollywood weeks",
-  "aftermath describes former latest murder officer security shakur shooting trial tupac updates witnessing",
-  "health kill opinion plans private sanders sayed",
   "building explosion flames industrial killed left ohio scorched workers",
   "kill plot prison secretary sentenced treasury woman years",
   "gaza israel kills kushner medics meeting netanyahu",
@@ -3603,6 +3600,9 @@
   "africa boxing champion dead former home outside shot south tete world",
   "firefighters helicopters sends serbia tackle wildfires",
   "california despicable fury kill memorial military soldier statue steal thieves",
-  "coaches football leave program resign seven several shock utter wisconsin"
+  "coaches football leave program resign seven several shock utter wisconsin",
+  "alliance between canada close durable further once ruptures trade",
+  "canada here timeline trade trump",
+  "election florida real republicans results spell trouble tuesday"
  ]
 }
