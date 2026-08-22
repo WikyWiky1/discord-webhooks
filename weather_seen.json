@@ -834,9 +834,9 @@
    "message_id": "1540676288866426963",
    "event": "Severe Thunderstorm Warning",
    "area": "Sumner, KS",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-22T10:57:31+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-22T11:29:09+00:00"
   }
  ]
 }
