@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiqgFBVV95cUxPN1VScDFGOWdlZVNraEhRQTJzdGV4RmRIeUhyZHUzNURHNjVpOXJjTmlmS0xhUFRZQ2VqQkYwb2ZBcFhXRjZtRk5kbUdIRnYyVWxMZzdlX0ZQQVdqNGRkcjFpWVZUWEZiamZOUXcxM0s0bjNlbDBXR3dOSzUxejFFRWFkQUh0NlAyVG1xUmk5c0Njb2l0MDBwdjd1ZU1CRTRGZjNuUU5wWE9WZw",
   "https://nypost.com/?post_type=article&p=40338826",
   "https://www.washingtonexaminer.com/?p=4686428",
   "https://nypost.com/?post_type=article&p=40338387",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
   "https://pagesix.com/?post_type=article&p=9127727",
   "CBMinwFBVV95cUxPVTVzQWhpRV94UFlYYjlobi1WaFhzMllaSEFjdUZXUlNDNkxrVTFkeTVJRGJIZWppdU5zZElta0paUEVaY3UxSEtBZmxmRDVkZl96U2kzS0FLOF9td0dFSk5fdnU3bThaSHRDa1NIYnlmVlBfU2VfSUpKZFJxMHktSm8xVk1udl9qdEhac29ORm1wYWs3VmpYR0VqWHlVT0E",
-  "CBMihgFBVV95cUxNdFh4LXA1WTJxUFB0SFF2UE0wNjRjTldBNjIwMlFWUC11VlZyQXpyYnh5WTFkSjFCMjBUbElJUnNTYjdTa3JBVjZDRGdlR0FZSTlhd2dUZGVWTTBtRDFTYlYwel8wZHVuelB0aW9hZ05oSHhyVEJJN0VoZlNLWm42Y1hLT2pZZw"
+  "CBMihgFBVV95cUxNdFh4LXA1WTJxUFB0SFF2UE0wNjRjTldBNjIwMlFWUC11VlZyQXpyYnh5WTFkSjFCMjBUbElJUnNTYjdTa3JBVjZDRGdlR0FZSTlhd2dUZGVWTTBtRDFTYlYwel8wZHVuelB0aW9hZ05oSHhyVEJJN0VoZlNLWm42Y1hLT2pZZw",
+  "CBMingFBVV95cUxOcC11SW8wQU1KT0N4d3h5RUI5eVhQcDBUZFdlZXFjQzZPMGJrYi1mYnVGS2tobE9ZV1JkSDJRWTVIWlkxSk1obkpYeHlTZ2ItX0NYWmlXbmdRTjBHeHRocmJaaG9NVktrclNHYTBMZVZaSjdia1BmZDhTNGUtTGZfS0tBNHhveTVfMFZIS3czR0o4SHNQMGpBQmlUUldxUQ"
  ],
  "posts": [
-  {
-   "fp": "amazon brazil discovery hails lula near president river",
-   "title": "Brazil's President Lula hails oil discovery near Amazon river",
-   "source": "BBC World",
-   "at": "2026-08-18T15:31:15.248074+00:00"
-  },
   {
    "fp": "banned driving paul range rover scholes speeding",
    "title": "Paul Scholes banned from driving after speeding in Range Rover",
@@ -3201,10 +3195,15 @@
    "title": "Congo receives more than 16,000 doses of Ebola vaccine as it grapples with unprecedented outbreak",
    "source": "AP",
    "at": "2026-08-22T13:15:59.954746+00:00"
+  },
+  {
+   "fp": "dead hits police seven travelling vehicle wrong",
+   "title": "Seven dead in UK after vehicle travelling wrong way hits police car",
+   "source": "Reuters",
+   "at": "2026-08-22T13:46:07.268030+00:00"
   }
  ],
  "titles": [
-  "amazon brazil discovery hails lula near president river",
   "banned driving paul range rover scholes speeding",
   "declared election hakainde hichilema president troubled winner zambia",
   "album crashes deadly drake finds kendrick lamar linked releases study swift taylor",
@@ -3603,6 +3602,7 @@
   "crash killed north officers people police seven yorkshire",
   "dead failure five heart heartbeats michael star suffering wright",
   "attack girl school swedish sword victim year",
-  "congo doses ebola grapples outbreak receives unprecedented vaccine"
+  "congo doses ebola grapples outbreak receives unprecedented vaccine",
+  "dead hits police seven travelling vehicle wrong"
  ]
 }
