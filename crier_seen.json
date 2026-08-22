@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMivwFBVV95cUxOZWFEdWIzdHBfbUNjMTZoTTYxQnFnbENfMVFwOVRDOHBZdkxoYlpPWFNaS3gyb2xhZHc3aXV1bmR4MWtWcHJUWjF5MGktUTlMamhxemV6Yk9wcXlJVV9HYW56aTZlaEJLdEZfdUV5WG16VmJ5Tm41WUh0aGxsVkxSc2VhcGtlNkR1d1YtSFBnN084OWxZQk9sc3hUdkM0Zjh2R25id1RsVE5DM24ta1hGeVBfMklhdm5SejJ3UkM5MA",
   "CBMidkFVX3lxTE1ZUFpCTXFnRTNRLTJaeEdsS01oUXNyS3JYUkhQZGM5cDhYZHFhaElxMVVIWlNBTTYzcUNyeU92Qy1kQ3lZRDBILWdGVmY2Rm9OWFlMMjVfaUVBZm5RUGh2WldfZDdOVUtPaXA3Rm41blA1NzBaN3c",
   "https://www.theguardian.com/us-news/2026/aug/14/michael-boren-idaho-wildfire-ranch",
   "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40464308",
   "https://nypost.com/?post_type=article&p=40466116",
   "https://nypost.com/?post_type=article&p=40465827",
-  "CBMiigFBVV95cUxPbU1lTW5ZbUgyclJKQ3NSM0F0VVpydllLTnFSYnFxZ1FvYXF5TnF4LTJDWlBYWGFDTV9URlZ1OHozWE1OaUstMU5XU2R6aDlhVW5OVmtJTXUzN05vaU51MmZ3Wjd4RWZEcmNWNE05SG9XN3dvUkk3Vld1a1BEd2RlazFrV19KYXZQQmc"
+  "CBMiigFBVV95cUxPbU1lTW5ZbUgyclJKQ3NSM0F0VVpydllLTnFSYnFxZ1FvYXF5TnF4LTJDWlBYWGFDTV9URlZ1OHozWE1OaUstMU5XU2R6aDlhVW5OVmtJTXUzN05vaU51MmZ3Wjd4RWZEcmNWNE05SG9XN3dvUkk3Vld1a1BEd2RlazFrV19KYXZQQmc",
+  "https://nypost.com/?post_type=article&p=40465121"
  ],
  "posts": [
-  {
-   "fp": "americans covid european heatwave height killed locals people refuse region still want",
-   "title": "European heatwave killed more people in one region than height of COVID \u2014 and locals still refuse AC: \u2018They don\u2019t want to be Americans\u2019",
-   "source": "New York Post",
-   "at": "2026-08-18T21:16:41.318431+00:00"
-  },
   {
    "fp": "dead difficulty family shoreham three water",
    "title": "Three dead after family get into difficulty in water off Shoreham-by-Sea",
@@ -3201,10 +3195,15 @@
    "title": "A moderate, magnitude 5.9 earthquake shakes eastern Japan. No tsunami alert is issued",
    "source": "AP",
    "at": "2026-08-22T19:54:28.341879+00:00"
+  },
+  {
+   "fp": "badly casualty catapult ever fractured giant ground medieval pinned skeleton year",
+   "title": "\u2018Pinned to the ground\u2019: Badly-fractured 700-year-old skeleton could be first ever casualty of giant medieval catapult",
+   "source": "New York Post",
+   "at": "2026-08-22T20:14:27.672640+00:00"
   }
  ],
  "titles": [
-  "americans covid european heatwave height killed locals people refuse region still want",
   "dead difficulty family shoreham three water",
   "biffle burglarizing charged crash driver georgia greg home nascar plane",
   "beach discovery famous horror sand world",
@@ -3603,6 +3602,7 @@
   "absurd attack fake nancy outrage pelosi successor torched totally women",
   "bradford dead hero hobbs janie money motown unsung wrote",
   "california coastal highway iconic paradise ravaged reopen wildfire",
-  "alert earthquake eastern issued japan magnitude moderate shakes tsunami"
+  "alert earthquake eastern issued japan magnitude moderate shakes tsunami",
+  "badly casualty catapult ever fractured giant ground medieval pinned skeleton year"
  ]
 }
