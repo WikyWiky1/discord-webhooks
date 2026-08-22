@@ -816,9 +816,9 @@
    "message_id": "1540551651264569345",
    "event": "Extreme Heat Warning",
    "area": "Hualapai Mountains; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin; Cadiz Basin; Northeast Clark County; Western Clark and Southern Nye County; Southern Clark County",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-22T02:42:15+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-22T03:28:17+00:00"
   },
   {
    "id": "urn:oid:2.49.0.1.840.0.d6ea4c73ffb0ae2a7e1b2fe96c5895d1c374755e.002.1",
