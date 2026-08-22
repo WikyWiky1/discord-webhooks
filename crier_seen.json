@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ",
-  "CBMiwgFBVV95cUxNRDlheFE0eXlha2U3QTR5TUpFQU5iSFQ5d0NaVXZCdVNxbmI1cVE0emU1ZExfcl9nbDhmb1JFbS04NXQtMk9hVzFVNDZZVXV0cHJEVW5IWUNkbEhGWHhjMGVPRVNweFlmdkhpY1BaYmJDZmRRdzZxaUU0M19aNzBqeVlYY3lnZVlqWTc1WnBRXzRnNjZNdFh1TkR4U1NjWlZSUmF4aElNYngtNmhaSjVSZVIzX05rSzg2QTVhRjlaTVdyQQ",
   "https://nypost.com/?post_type=article&p=40346681",
   "https://news.sky.com/story/jason-arday-former-cambridge-university-professor-found-dead-after-resigning-following-plagiarism-row-13573124",
   "CBMioAFBVV95cUxOSTJuQ0hCM1lDUUZWQTd2N3AxQmdWZFpDSWFLSzhpT0s1Y1pTakg3eGRBZ0FrVzA4a2ktaE9EcEpVS1pJaGdDczVWUDVsZFEzYVQ2Zm56MU81b2hIRERFSkpmcThBZEhId19aSm1oTHE2OFRndVhJTkM2OWZabGZ5U21MejhTTTd0Zzg0UVB6eTJEX0t2QVV2RzJwWWU4OWVk",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40465121",
   "CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO",
   "https://thehill.com/?p=6045262",
-  "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke"
+  "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
+  "https://nypost.com/?post_type=article&p=40466777",
+  "https://nypost.com/?post_type=article&p=40466331"
  ],
  "posts": [
-  {
-   "fp": "alaska ballroom court florida head keep live paused polls primary supreme updates urged voters",
-   "title": "Live updates: Florida, Alaska voters head to primary polls; Supreme Court urged to keep ballroom paused",
-   "source": "The Hill",
-   "at": "2026-08-18T21:23:32.096723+00:00"
-  },
-  {
-   "fp": "candidates desantis florida jockey live primary results succeed",
-   "title": "Live results: Candidates jockey to succeed DeSantis in Florida primary",
-   "source": "The Hill",
-   "at": "2026-08-18T21:23:33.916829+00:00"
-  },
   {
    "fp": "court leaders offenses pretend rubio sanctions sham stop trying",
    "title": "Rubio sanctions ICC leaders to stop \u2018sham\u2019 court from trying \u2018pretend offenses\u2019",
@@ -3201,11 +3189,21 @@
    "title": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
    "source": "Guardian World",
    "at": "2026-08-22T22:14:37.282515+00:00"
+  },
+  {
+   "fp": "beach kills nearly nowhere rogue socal walking wave",
+   "title": "Rogue wave nearly kills mom walking on SoCal beach: \u2018Out of nowhere\u2019",
+   "source": "New York Post",
+   "at": "2026-08-22T22:40:44.316283+00:00"
+  },
+  {
+   "fp": "animals center devastating killed revenge russian shopping strikes vows zelensky",
+   "title": "Zelensky vows revenge for devastating Russian strikes that killed 16 in shopping center: \u2018Animals\u2019",
+   "source": "New York Post",
+   "at": "2026-08-22T22:40:46.188163+00:00"
   }
  ],
  "titles": [
-  "alaska ballroom court florida head keep live paused polls primary supreme updates urged voters",
-  "candidates desantis florida jockey live primary results succeed",
   "court leaders offenses pretend rubio sanctions sham stop trying",
   "bond climb lows pulls selloff street tech wall week yields",
   "carolina darline endorsement graham interview norman questions ralph runoff south trump",
@@ -3603,6 +3601,8 @@
   "badly casualty catapult ever fractured giant ground medieval pinned skeleton year",
   "attack condemns damascus israel southern strikes syria",
   "ahead ballroom budget construction house president schedule trump under white",
-  "days hawaii hurricane just lala moke poised slam storm tropical"
+  "days hawaii hurricane just lala moke poised slam storm tropical",
+  "beach kills nearly nowhere rogue socal walking wave",
+  "animals center devastating killed revenge russian shopping strikes vows zelensky"
  ]
 }
