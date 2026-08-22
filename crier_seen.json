@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4687135",
-  "https://thehill.com/?p=6029389",
-  "CBMisAFBVV95cUxNOGlSVjd0am5adkxrNm1hX0c3RFVTN0JmZzBjVVluX3M1bjNUWndRRjlGV2IyT1dTbHdHYzh6MlNzOC0zNDFjejRiRzVOcmZCcE9PVEFHV2JxblZsM2xCa0JBcFl2T0FJRzVoUWVvR2FRd0hiOUZuWlZITHVxR0NONDljUm9YT2xMVVk1WjFJUWFzNVdPQmsyV1czWEdxRGRQQVJXWkZjQm1wRUZyZ3lZWQ",
   "CBMiYkFVX3lxTFBTcE5FdjB5QzY4OVZ1enNxT0M1S19UUkRsUDZ3cDZnX19BZkVtWnRveXdaMG5wY0lGS0hKS0RTVmJFZmUwRm5jQVBxT3VpWGhKdEhlYUgzRjNpVzA2UnpJeW1R",
   "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum",
   "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
@@ -799,27 +796,12 @@
   "CBMiuwFBVV95cUxQR3V4eHZkQWFrSEdIRXBiQjVXZUd6c3FuVllaNWVWQmRqeFY0WUhkQWswRVFNRGJFT0tFWkJVbTlqNnVOT0F1Rk0yRHlrVUhDRldJcjRlTjVjcjVDbG1Sc2tkQ0t5MWwzcHJBSmduTWhXazBUWHVKWUFrRmRkZzhYdXh4Wko4R3k2bmp6VDFpRkRudkNaVWxsUm85ZUxtbGFNNUxIdEExV2hxbDRTalFQeGR5cVFxTTZ3b0U4",
   "CBMinwFBVV95cUxNOFpfS0dwWF9heDl4YnV4Y3hscHVISzBQNlUtM0tPOFBMaVZmR3JwelRHSzJOUEtIYnZIRE9RVFJCY2UtU01mR3ZGSFlma0FpVklPWkpUeGYxLXlXM1ZiVTZ4b0U1cFBOekJCV0JMd00xb1d6dlVzaGhncmxpMktnMG5pQUs3TFpjclFtcXlGVXVaR092TFNWcmNaUmh0bEk",
   "https://nypost.com/?post_type=article&p=40461719",
-  "CBMiwgFBVV95cUxNZVV3NExuQmFxMzNiVU9iZnhweFRMb2tvQmlqVmhNbXJia0YtcXFMalNXanhOS2gxYy12MHFZT0VoRENBOWFLMklzdWVaV3pZMVFmSmI0VEJENUxSTU5nbUJZdnpWa3lIR1IydEFSb3JIY0pjQ0RRdjh5aGhqdy1DYlVLdksyc1psREx4Q1NXUDVOTk45WndFU1RaWE5RMmdTZFZ2SnAxVFltWDhhYTJ2WlQxNS1lNU9rX29nVXVRMmEwdw"
+  "CBMiwgFBVV95cUxNZVV3NExuQmFxMzNiVU9iZnhweFRMb2tvQmlqVmhNbXJia0YtcXFMalNXanhOS2gxYy12MHFZT0VoRENBOWFLMklzdWVaV3pZMVFmSmI0VEJENUxSTU5nbUJZdnpWa3lIR1IydEFSb3JIY0pjQ0RRdjh5aGhqdy1DYlVLdksyc1psREx4Q1NXUDVOTk45WndFU1RaWE5RMmdTZFZ2SnAxVFltWDhhYTJ2WlQxNS1lNU9rX29nVXVRMmEwdw",
+  "https://nypost.com/?post_type=article&p=40461816",
+  "https://nypost.com/?post_type=article&p=40436966",
+  "https://www.washingtonexaminer.com/?p=4689357"
  ],
  "posts": [
-  {
-   "fp": "killed prison release romanian second victim",
-   "title": "Romanian killed second victim after release from prison",
-   "source": "Telegraph",
-   "at": "2026-08-18T13:26:24.139106+00:00"
-  },
-  {
-   "fp": "attack kills missile northeast response russian ukraine vows zelenskiy",
-   "title": "Russian missile attack kills 10 in northeast Ukraine, Zelenskiy vows response",
-   "source": "Reuters",
-   "at": "2026-08-18T13:26:25.968016+00:00"
-  },
-  {
-   "fp": "allegedly bolt breaking humanity limits outruns robot superman uncanny usain video",
-   "title": "\u2018Superman\u2019 robot allegedly outruns Usain Bolt in uncanny video: \u2018Breaking the limits of humanity\u2019",
-   "source": "New York Post",
-   "at": "2026-08-18T14:09:51.103168+00:00"
-  },
   {
    "fp": "affected bars contamination fears find frozen fruit glass popular recall varieties",
    "title": "Popular frozen fruit bars on recall over glass contamination fears \u2014 find out which varieties were affected",
@@ -3201,12 +3183,27 @@
    "title": "Swedish police probe online networks after teenage girl killed in school sword attack",
    "source": "Reuters",
    "at": "2026-08-22T11:54:45.243868+00:00"
+  },
+  {
+   "fp": "chase connecticut dead officers police shot suspect",
+   "title": "Two police officers shot, suspect dead after car chase in Connecticut",
+   "source": "New York Post",
+   "at": "2026-08-22T12:23:53.630545+00:00"
+  },
+  {
+   "fp": "canal demand endangering gowanus hochul kids near parents resign school toxic",
+   "title": "Parents at NYC school near toxic Gowanus Canal demand Hochul resign for endangering kids",
+   "source": "New York Post",
+   "at": "2026-08-22T12:23:55.422367+00:00"
+  },
+  {
+   "fp": "code dead learn picking wrench",
+   "title": "\u2018Learn to code\u2019 is dead: Gen Z is picking up a wrench",
+   "source": "Washington Examiner",
+   "at": "2026-08-22T12:23:57.151798+00:00"
   }
  ],
  "titles": [
-  "killed prison release romanian second victim",
-  "attack kills missile northeast response russian ukraine vows zelenskiy",
-  "allegedly bolt breaking humanity limits outruns robot superman uncanny usain video",
   "affected bars contamination fears find frozen fruit glass popular recall varieties",
   "california health officials outbreak producer salmonella source",
   "best crash friends half horrific killed split teen vehicle",
@@ -3603,6 +3600,9 @@
   "drones kill online ozon retailer russian several ukrainian warehouse",
   "cared century endangered gibbons half outside rare sanctuary",
   "alisa captures dead ditch drainage final footage found goods grandma missing moments surveillance",
-  "attack girl killed networks online police probe school swedish sword teenage"
+  "attack girl killed networks online police probe school swedish sword teenage",
+  "chase connecticut dead officers police shot suspect",
+  "canal demand endangering gowanus hochul kids near parents resign school toxic",
+  "code dead learn picking wrench"
  ]
 }
