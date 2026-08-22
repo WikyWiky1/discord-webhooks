@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMiygFBVV95cUxPdGhObVd4bVhZVVg5VVdsMnNHZzlZNEF0ckRfdHB4UEQ5QkRGZUo0ZGxESjZzSTBmQ2V6S2h0eEhhZmR2S05BbWtrT0oxXzlWVHJma1pKNzBJNFlyMzZ5azFlM2dqOEg0Szd6a3BpVkswUnBZUlNDQjNXdXRXV1pNQXJUR2VuTEhPeGtSY05qZXJrbUZWRGtxYWNZT3h2bjNLMzNzTU5vLVJmaVhJd1hiZ0xoSFJLODZDZHh6Q3A0WEV4M1E5ejEwWmF3",
-  "https://thehill.com/?p=6029894",
-  "https://nypost.com/?post_type=article&p=40337628",
   "CBMipAFBVV95cUxNaHZRYUU0eWZPOG1WOUx5U1BpNXRlenFUWnhSdEJvbExTQXl6amlVS2w2YV9wY1JENXkyOG45VUVsaENIb1FUUms1RFBoN2djemxuLVBPMG1GVHlMWTY3aVJuT3BHUEVwVzQ1YnVsYndPUnRyRzhEYzBXbmdMX1NPSW5GUHlLNm0tZHJKYWs5TmllTElIV3l6ZDRrOG1IVE05OUc4QQ",
   "https://thehill.com/?p=6029452",
   "https://news.sky.com/story/why-farage-may-face-a-second-by-election-despite-clacton-win-13572954",
@@ -799,27 +796,12 @@
   "CBMingFBVV95cUxOcC11SW8wQU1KT0N4d3h5RUI5eVhQcDBUZFdlZXFjQzZPMGJrYi1mYnVGS2tobE9ZV1JkSDJRWTVIWlkxSk1obkpYeHlTZ2ItX0NYWmlXbmdRTjBHeHRocmJaaG9NVktrclNHYTBMZVZaSjdia1BmZDhTNGUtTGZfS0tBNHhveTVfMFZIS3czR0o4SHNQMGpBQmlUUldxUQ",
   "https://nypost.com/?post_type=article&p=40462074",
   "https://nypost.com/?post_type=article&p=40319087",
-  "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o#0"
+  "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o#0",
+  "https://nypost.com/?post_type=article&p=40462641",
+  "https://nypost.com/?post_type=article&p=40462744",
+  "https://decider.com/2026/08/22/rip-michael-wright-the-five-heartbeats-sugar-hill-actor-dead-at-70/"
  ],
  "posts": [
-  {
-   "fp": "base casualties israeli northwest reported strikes syria",
-   "title": "Israeli strikes hit an air base in northwest Syria, but no casualties are reported",
-   "source": "AP",
-   "at": "2026-08-18T16:00:43.087917+00:00"
-  },
-  {
-   "fp": "assault attack girl horrific school sexual survives teen walk",
-   "title": "Teen girl survives horrific sexual assault attack on walk to school",
-   "source": "New York Post",
-   "at": "2026-08-18T16:50:10.969988+00:00"
-  },
-  {
-   "fp": "colombia commits deadly earthquake makes rebuilding schools shakira surprise visit",
-   "title": "Shakira makes surprise visit to Colombia after deadly earthquake, commits to rebuilding schools",
-   "source": "New York Post",
-   "at": "2026-08-18T16:50:12.784543+00:00"
-  },
   {
    "fp": "attack fears killed least nigeria plateau reprisal",
    "title": "At least 25 killed in attack on Nigeria's Plateau amid reprisal fears",
@@ -3201,12 +3183,27 @@
    "title": "Fourteen killed in strike on Myanmar monastery",
    "source": "BBC World",
    "at": "2026-08-22T14:14:00.256285+00:00"
+  },
+  {
+   "fp": "bakersfield dead football game high school shot teen",
+   "title": "Teen shot dead during high school football game in Bakersfield",
+   "source": "New York Post",
+   "at": "2026-08-22T15:13:40.062967+00:00"
+  },
+  {
+   "fp": "attack delivery down gunned police possible rage road",
+   "title": "NYC delivery man gunned down in possible road rage attack: police",
+   "source": "New York Post",
+   "at": "2026-08-22T15:13:41.709197+00:00"
+  },
+  {
+   "fp": "actor dead five heartbeats hill michael sugar wright",
+   "title": "R.I.P. Michael Wright: \u2018The Five Heartbeats\u2019 and \u2018Sugar Hill\u2019 Actor Dead at 70",
+   "source": "New York Post",
+   "at": "2026-08-22T15:13:43.492913+00:00"
   }
  ],
  "titles": [
-  "base casualties israeli northwest reported strikes syria",
-  "assault attack girl horrific school sexual survives teen walk",
-  "colombia commits deadly earthquake makes rebuilding schools shakira surprise visit",
   "attack fears killed least nigeria plateau reprisal",
   "dead london stabbing triple west",
   "boat crash grandpa heartbreaking kids killed reason",
@@ -3603,6 +3600,9 @@
   "dead hits police seven travelling vehicle wrong",
   "center feature million nearly recall tesla vehicle",
   "approval crash devastated killed ohio organs removed without",
-  "fourteen killed monastery myanmar strike"
+  "fourteen killed monastery myanmar strike",
+  "bakersfield dead football game high school shot teen",
+  "attack delivery down gunned police possible rage road",
+  "actor dead five heartbeats hill michael sugar wright"
  ]
 }
