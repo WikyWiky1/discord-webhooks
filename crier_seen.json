@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
-  "https://www.theguardian.com/world/2026/aug/14/emergency-alert-warning-wildfire-risk-sent-phones-england-wales",
   "CBMivwFBVV95cUxOZWFEdWIzdHBfbUNjMTZoTTYxQnFnbENfMVFwOVRDOHBZdkxoYlpPWFNaS3gyb2xhZHc3aXV1bmR4MWtWcHJUWjF5MGktUTlMamhxemV6Yk9wcXlJVV9HYW56aTZlaEJLdEZfdUV5WG16VmJ5Tm41WUh0aGxsVkxSc2VhcGtlNkR1d1YtSFBnN084OWxZQk9sc3hUdkM0Zjh2R25id1RsVE5DM24ta1hGeVBfMklhdm5SejJ3UkM5MA",
   "CBMidkFVX3lxTE1ZUFpCTXFnRTNRLTJaeEdsS01oUXNyS3JYUkhQZGM5cDhYZHFhaElxMVVIWlNBTTYzcUNyeU92Qy1kQ3lZRDBILWdGVmY2Rm9OWFlMMjVfaUVBZm5RUGh2WldfZDdOVUtPaXA3Rm41blA1NzBaN3c",
   "https://www.theguardian.com/us-news/2026/aug/14/michael-boren-idaho-wildfire-ranch",
@@ -799,21 +797,11 @@
   "CBMikAFBVV95cUxNbF9QeG1JbUxkajVXT1l5QXg4T0Y1Wi1qdng2cFB3MVhPSk9CYWtoamIybkdtT1pPMkJDZG91NmpaLXRSaXh3Q3Q5bE8xVHEyLTF6NmEybTdkTzk2VWQxV0V0VlZDN1VPeU5RN1gweXVsWEE3cThpWGpHbHR4TlRpSEpxUEx6aDZpWmV0UmZOY1U",
   "https://thehill.com/?p=6044156",
   "https://nypost.com/?post_type=article&p=40464308",
-  "https://nypost.com/?post_type=article&p=40466116"
+  "https://nypost.com/?post_type=article&p=40466116",
+  "https://nypost.com/?post_type=article&p=40465827",
+  "CBMiigFBVV95cUxPbU1lTW5ZbUgyclJKQ3NSM0F0VVpydllLTnFSYnFxZ1FvYXF5TnF4LTJDWlBYWGFDTV9URlZ1OHozWE1OaUstMU5XU2R6aDlhVW5OVmtJTXUzN05vaU51MmZ3Wjd4RWZEcmNWNE05SG9XN3dvUkk3Vld1a1BEd2RlazFrV19KYXZQQmc"
  ],
  "posts": [
-  {
-   "fp": "gaza israel kills kushner medics meeting netanyahu",
-   "title": "Israel kills six in Gaza on day after Kushner meeting with Netanyahu, medics say",
-   "source": "Reuters",
-   "at": "2026-08-18T20:15:13.742659+00:00"
-  },
-  {
-   "fp": "adviser analyst argentina attack bolivia detained milei",
-   "title": "Adviser to Bolivia's Paz, Argentina's Milei detained over attack on analyst",
-   "source": "Reuters World",
-   "at": "2026-08-18T20:15:15.621667+00:00"
-  },
   {
    "fp": "americans covid european heatwave height killed locals people refuse region still want",
    "title": "European heatwave killed more people in one region than height of COVID \u2014 and locals still refuse AC: \u2018They don\u2019t want to be Americans\u2019",
@@ -3201,11 +3189,21 @@
    "title": "Janie Bradford Hobbs, Motown \u2018unsung hero\u2019 who co-wrote \u2018Money,\u2019 dead at 87",
    "source": "New York Post",
    "at": "2026-08-22T19:39:46.103213+00:00"
+  },
+  {
+   "fp": "california coastal highway iconic paradise ravaged reopen wildfire",
+   "title": "Iconic California highway to reopen after wildfire ravaged coastal paradise",
+   "source": "New York Post",
+   "at": "2026-08-22T19:54:26.611314+00:00"
+  },
+  {
+   "fp": "alert earthquake eastern issued japan magnitude moderate shakes tsunami",
+   "title": "A moderate, magnitude 5.9 earthquake shakes eastern Japan. No tsunami alert is issued",
+   "source": "AP",
+   "at": "2026-08-22T19:54:28.341879+00:00"
   }
  ],
  "titles": [
-  "gaza israel kills kushner medics meeting netanyahu",
-  "adviser analyst argentina attack bolivia detained milei",
   "americans covid european heatwave height killed locals people refuse region still want",
   "dead difficulty family shoreham three water",
   "biffle burglarizing charged crash driver georgia greg home nascar plane",
@@ -3603,6 +3601,8 @@
   "canada here timeline trade trump",
   "election florida real republicans results spell trouble tuesday",
   "absurd attack fake nancy outrage pelosi successor torched totally women",
-  "bradford dead hero hobbs janie money motown unsung wrote"
+  "bradford dead hero hobbs janie money motown unsung wrote",
+  "california coastal highway iconic paradise ravaged reopen wildfire",
+  "alert earthquake eastern issued japan magnitude moderate shakes tsunami"
  ]
 }
