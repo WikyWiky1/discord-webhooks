@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMipgFBVV95cUxOS3RiWGpwZ2JGV19vTURBdE1ISkpGOVgtNk9rR2dLRXEzN2U4eGlkWEVQREs2UFQwUEN4UzJ5Zzd2ZXl6cTV5akV0aFJQSDNSdVVzZU1DRHFNSGR0SG9UOUY3ekw4MFhQdDJxODN1eURnNEpaTFhnTjVxRy1uWU9PaHRVVkpWVHpueTNiYkZzQ0hEZFM0TU5sMDc2TXVLbGU0R3FTSGNR",
   "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
   "https://www.theguardian.com/us-news/2026/aug/14/first-thing-court-files-federal-agents-spying-anti-ice-protesters",
   "https://nypost.com/?post_type=article&p=40336877",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40460844",
   "https://nypost.com/?post_type=article&p=40460196",
   "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-  "CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ"
+  "CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ",
+  "CBMiogFBVV95cUxPaWoxWmxoZzJmT20yYWR3Yks0MGd4Z1U0S28yLXpxWDNiZjNNdTJ6cnVTWUlmY2JFREFWRThpTDJQazNRSzA1bHBzWmRkLVBGT0ZJbmhjTFFmVzdEZzA5MHktY2FSRk5DUk4yM1FBMUl3Q3pmRllIQnUyWFFfamZ3Z1Rwa1lVNWlzR2ljUWd2Q1dnY3BZZkdTNmxRVFZ3U2tHN0E"
  ],
  "posts": [
-  {
-   "fp": "aims blitz drone kill missiles moscow russian ukraine ukrainian village",
-   "title": "Ukraine aims a drone blitz at Moscow while Russian missiles kill 10 in a Ukrainian village",
-   "source": "AP",
-   "at": "2026-08-18T10:48:23.135128+00:00"
-  },
   {
    "fp": "american back brought dead declared life manufacturing trump usmca washington",
    "title": "Washington declared American manufacturing dead. Trump\u2019s USMCA brought it back to life",
@@ -3201,10 +3195,15 @@
    "title": "US, Iran keep up hostile rhetoric ahead of new sanctions",
    "source": "Reuters",
    "at": "2026-08-22T06:38:44.229965+00:00"
+  },
+  {
+   "fp": "bombs buried danger european hidden mines reveal wildfires wwii",
+   "title": "European wildfires reveal a hidden danger: buried bombs and mines from WWI and WWII",
+   "source": "AP",
+   "at": "2026-08-22T07:48:30.698672+00:00"
   }
  ],
  "titles": [
-  "aims blitz drone kill missiles moscow russian ukraine ukrainian village",
   "american back brought dead declared life manufacturing trump usmca washington",
   "defend hormuz korea nuclear pull should south trump umbrella",
   "altered datasets deleted education endangering health nearly public trump",
@@ -3603,6 +3602,7 @@
   "americans angie black claims democrat florida kill left literally nixon trying",
   "behind fuji here hiker iconic leaves mount reach summit tired wait",
   "canada deal fail match talks tariffs trade trump vows",
-  "ahead hostile iran keep rhetoric sanctions"
+  "ahead hostile iran keep rhetoric sanctions",
+  "bombs buried danger european hidden mines reveal wildfires wwii"
  ]
 }
