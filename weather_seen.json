@@ -789,18 +789,18 @@
    "message_id": "1540317186323652650",
    "event": "Extreme Heat Warning",
    "area": "Hualapai Mountains; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin; Cadiz Basin; Northeast Clark County; Western Clark and Southern Nye County; Southern Clark County",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-21T11:10:35+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-22T02:42:19+00:00"
   },
   {
    "id": "urn:oid:2.49.0.1.840.0.8ae6ef7daecc0ca96f676e17b8f9473853f1d5ef.001.1",
    "message_id": "1540317193554894872",
    "event": "Extreme Heat Warning",
    "area": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Northwest Deserts; Death Valley National Park; San Bernardino County-Upper Colorado River Valley; Las Vegas Valley; Lake Mead - NV side; Lake Mohave - NV side",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-21T11:10:36+00:00",
-   "expired_at": null
+   "expired_at": "2026-08-22T02:42:20+00:00"
   },
   {
    "id": "urn:oid:2.49.0.1.840.0.fb0f148fa353781babc87307db5abaaf6e2d9bf8.001.1",
@@ -810,6 +810,24 @@
    "expired": true,
    "posted_at": "2026-08-21T20:59:24+00:00",
    "expired_at": "2026-08-21T21:34:19+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.d6ea4c73ffb0ae2a7e1b2fe96c5895d1c374755e.001.1",
+   "message_id": "1540551651264569345",
+   "event": "Extreme Heat Warning",
+   "area": "Hualapai Mountains; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin; Cadiz Basin; Northeast Clark County; Western Clark and Southern Nye County; Southern Clark County",
+   "expired": false,
+   "posted_at": "2026-08-22T02:42:15+00:00",
+   "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.d6ea4c73ffb0ae2a7e1b2fe96c5895d1c374755e.002.1",
+   "message_id": "1540551658877231245",
+   "event": "Extreme Heat Warning",
+   "area": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Northwest Deserts; Death Valley National Park; San Bernardino County-Upper Colorado River Valley; Las Vegas Valley; Lake Mead - NV side; Lake Mohave - NV side",
+   "expired": false,
+   "posted_at": "2026-08-22T02:42:17+00:00",
+   "expired_at": null
   }
  ]
 }
