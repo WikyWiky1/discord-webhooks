@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40346681",
-  "https://news.sky.com/story/jason-arday-former-cambridge-university-professor-found-dead-after-resigning-following-plagiarism-row-13573124",
   "CBMioAFBVV95cUxOSTJuQ0hCM1lDUUZWQTd2N3AxQmdWZFpDSWFLSzhpT0s1Y1pTakg3eGRBZ0FrVzA4a2ktaE9EcEpVS1pJaGdDczVWUDVsZFEzYVQ2Zm56MU81b2hIRERFSkpmcThBZEhId19aSm1oTHE2OFRndVhJTkM2OWZabGZ5U21MejhTTTd0Zzg0UVB6eTJEX0t2QVV2RzJwWWU4OWVk",
   "https://nypost.com/?post_type=article&p=40347158",
   "https://www.bbc.co.uk/news/articles/c9342wn2x27o#1",
@@ -799,21 +797,11 @@
   "https://thehill.com/?p=6045262",
   "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
   "https://nypost.com/?post_type=article&p=40466777",
-  "https://nypost.com/?post_type=article&p=40466331"
+  "https://nypost.com/?post_type=article&p=40466331",
+  "https://nypost.com/?post_type=article&p=40468221",
+  "https://nypost.com/?post_type=article&p=40467552"
  ],
  "posts": [
-  {
-   "fp": "court leaders offenses pretend rubio sanctions sham stop trying",
-   "title": "Rubio sanctions ICC leaders to stop \u2018sham\u2019 court from trying \u2018pretend offenses\u2019",
-   "source": "Washington Examiner",
-   "at": "2026-08-18T21:23:35.686108+00:00"
-  },
-  {
-   "fp": "bond climb lows pulls selloff street tech wall week yields",
-   "title": "Tech selloff pulls Wall Street to two-week lows as bond yields climb",
-   "source": "Reuters",
-   "at": "2026-08-18T21:23:37.532630+00:00"
-  },
   {
    "fp": "carolina darline endorsement graham interview norman questions ralph runoff south trump",
    "title": "AP Interview: Ralph Norman questions Trump's endorsement of Darline Graham in South Carolina runoff",
@@ -3201,11 +3189,21 @@
    "title": "Zelensky vows revenge for devastating Russian strikes that killed 16 in shopping center: \u2018Animals\u2019",
    "source": "New York Post",
    "at": "2026-08-22T22:40:46.188163+00:00"
+  },
+  {
+   "fp": "border california evacuation explodes fire hawk issued warnings",
+   "title": "Hawk Fire explodes on California border as evacuation warnings issued",
+   "source": "New York Post",
+   "at": "2026-08-22T23:14:27.894010+00:00"
+  },
+  {
+   "fp": "charging cops dead knife monica police santa shot wielding",
+   "title": "Knife-wielding man shot dead by police after charging cops in Santa Monica",
+   "source": "New York Post",
+   "at": "2026-08-22T23:14:29.543739+00:00"
   }
  ],
  "titles": [
-  "court leaders offenses pretend rubio sanctions sham stop trying",
-  "bond climb lows pulls selloff street tech wall week yields",
   "carolina darline endorsement graham interview norman questions ralph runoff south trump",
   "african central collapses gold killing least mine miners republic",
   "49ers breaking fred record ribs sets straight teammate warner",
@@ -3603,6 +3601,8 @@
   "ahead ballroom budget construction house president schedule trump under white",
   "days hawaii hurricane just lala moke poised slam storm tropical",
   "beach kills nearly nowhere rogue socal walking wave",
-  "animals center devastating killed revenge russian shopping strikes vows zelensky"
+  "animals center devastating killed revenge russian shopping strikes vows zelensky",
+  "border california evacuation explodes fire hawk issued warnings",
+  "charging cops dead knife monica police santa shot wielding"
  ]
 }
