@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40357338",
   "https://nypost.com/?post_type=article&p=40357240",
   "CBMiigFBVV95cUxPc1BseTdlN0tNamJob25sYURUaVRsdjVnamVPM3RqZ2ZiMEhTQmcyZzZnNkE0cUZKckszb3E0cU53WEhrTXU5N3N4ZDRjSEVPS1NrTlU3RGlzWXRGNktVX1VIQ2RPQWRxS2pVQ1VibU1VZUJZdXJIcHQ5TmtSZ3hVdHQxLVZjV0ZMQUE",
   "CBMie0FVX3lxTE5tbV9QSlhoM2xYYzFkM0VxaHlJb1R4X0gzRXNXbmc4ZTBLMFZUVmxmQXp3YTJWMHkxLVdZbEhEVVJ5Tk5jR0s2dnpSUEdUU0I2M2JsNENWaVRjNmVPX2xSdE84ZlBHS01oTmRzMFU3bGk3Z25WQ0NMTzZWWQ",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
   "https://news.sky.com/story/man-arrested-on-suspicion-of-murder-after-house-fire-kills-one-and-injures-eight-13576454",
   "https://nypost.com/?post_type=article&p=40474471",
-  "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens"
+  "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+  "CBMiwgFBVV95cUxQWGtiZW5Ld0FtTHR4WGxYRFY1RTdhbFBuVURtUzNXYUZHY0JRXzFaLV94Z2I1a0c3MWNYVjM2ZW5QYmpKcTdDVFpIaURqTUJKdzYzbE9lQ3VXR29adTVGeEFKTkRBZVpGSzk1MUNqZGs1c2tRa29qcXRCU1pYeTU1aDFMbDhyamxqVlhvNGhZdXcwMUV3aTJlQmhwby0wTFF0UW5qalNYM0xhaDhNMVk3aE1DdGVYSE4yNXA0ZC1SazVjdw"
  ],
  "posts": [
-  {
-   "fp": "cases congo death ebola outbreak reaches rises toll",
-   "title": "Congo\u2019s Ebola outbreak reaches 5,000 cases as death toll rises",
-   "source": "New York Post",
-   "at": "2026-08-19T17:55:00.773200+00:00"
-  },
   {
    "fp": "african central collapse gold kills mine mining official republic",
    "title": "Central African Republic gold mine collapse kills over 100, mining official says",
@@ -3201,10 +3195,15 @@
    "title": "Landslide at waste mound in Guinea capital kills 30, government says",
    "source": "Guardian World",
    "at": "2026-08-23T22:40:50.646444+00:00"
+  },
+  {
+   "fp": "attack governor kharkiv kills near russian three ukraine",
+   "title": "Russian attack kills three near Ukraine's Kharkiv, governor says",
+   "source": "Reuters",
+   "at": "2026-08-23T23:13:37.547777+00:00"
   }
  ],
  "titles": [
-  "cases congo death ebola outbreak reaches rises toll",
   "african central collapse gold kills mine mining official republic",
   "bike cops cyclist fled hurled killed truck",
   "european fall indexes miners mixed rise stocks tech",
@@ -3603,6 +3602,7 @@
   "attack australia difficult donors gets incredibly live news parade penguin recovery shark shots thanks victim",
   "arrested eight fire house injures kills murder suspicion",
   "brothers california dead found river trinity",
-  "capital government guinea kills landslide mound waste"
+  "capital government guinea kills landslide mound waste",
+  "attack governor kharkiv kills near russian three ukraine"
  ]
 }
