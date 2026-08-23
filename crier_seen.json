@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40347780",
-  "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
   "https://www.washingtonexaminer.com/?p=4688077",
   "CBMivAFBVV95cUxObVA1a0NLTjhHeURuaEhabm43aGxjVDhySUplSldiTnB0cXphQzFINlVBYlNWYlZxMHVYc3BxOWtEaVhuRUUyRFpGa1VRbkp0Q2pCTUNmTmtXSlBxNTF5YmNEMVBocUo1S0VZZmpTakVxVi1rYlJzUnVQdnpRQzY1aHFHWVU3V0pGa2F3RkJwdmJCZUoweWVkYUg1OTJVX0l5OW45X0ZiR2toOUdYbkpQNG02S0VIRDIxVGZJdg",
   "CBMinAFBVV95cUxQWnI3NC10dlVRTXVlQ1AxU095WTVmdGU5d3hSNm1BenBTWlFESC1qdHlFZlFPMnVEdFFwdy0xUFUzZHV4WlBDVkpGSGJLbnh2NUhYQjRTYzZOR3diWGprd3lHTEkxVXhiX0NoOW9BMHpGcEVKRDktbjZuS0p3ZG5SYWl0M0I2eEFlSkhnVS1hSGk4MjdWeWxVTjB0bV8",
@@ -799,21 +797,11 @@
   "CBMiwgFBVV95cUxNRGlRMU9yTWNzNlpfeUYtMGJMOS16dW9Ia3ltTFZyLWx4NEZhRjhvVGNFVWI2N3VOb1pQUDRTRnlURjFBLS1YS3BtZ3RITTJOQkYyeTBNeFFDcmJZbVFaT1FqNzZDT0RQWVJxc2Rack1QQ3Q5czE4dENLNS1YN05hTDhGRU4zRndZUUJyQ05WUGl1VDV2bHBvZnF2U2RiLUdFZzVEcV9qYUVEWS1MVHR4U1RUbTkzd1F5LUJmUVJ4aVFHdw",
   "CBMiwAFBVV95cUxNa2g4X3ZuOXMxNjRtb0tGX1lqM21UT2hCV3ZFUDlyU3JaZXhLdjdsWFZfMTFWcWxkQ3dXUFJRNnQ5OGdSWVdwWXhtVXpWZlNqRHcxUFEwcXZxZDdicnN2QVZNWjVOVUNlTTZKVEZkMTZSY1poMDNvbHVqRDdKMG85SllocFVWS1ZqaTNZNEV6WWV1NUFOc0szLXFQOHhCZEtHQWNXZm5YZzJwaXN0TlZOZ0Fwc05KMXExWkZMUUo2NnE",
   "https://pagesix.com/?post_type=article&p=9128625",
-  "https://nypost.com/?post_type=article&p=40469020"
+  "https://nypost.com/?post_type=article&p=40469020",
+  "https://thehill.com/?p=6045413",
+  "CBMipgFBVV95cUxPRWN0bmZIYnRUUUFldVlQcEoyQWlfZHRJY2R6blF2bHZpUThtU09xREVvSlFvTGxzb2dHcjlrMnVzbmNGMS1nLVRGRHJMekYyN3lzUVZFYzRxWmR6bmlFOHV0bHpfVnRFOVJKQ0l3TkVMREp1UUZpRWU5RC1YWWNRSlVKWVdUeWhFZzA1NFFCWUI2dE1QOUtSTWR3VkZyVWFGRUdjaTNB"
  ],
  "posts": [
-  {
-   "fp": "basement charged daughter dead drug father filled found infant murder utah",
-   "title": "Father charged with murder of infant daughter found dead in drug-filled Utah basement",
-   "source": "New York Post",
-   "at": "2026-08-19T01:01:20.874095+00:00"
-  },
-  {
-   "fp": "alex angie defeats democratic florida impeachment member nixon race senate trump vindman witness",
-   "title": "DSA member Angie Nixon defeats Trump impeachment witness Alex Vindman in Florida Democratic Senate race",
-   "source": "New York Post",
-   "at": "2026-08-19T01:01:22.803008+00:00"
-  },
   {
    "fp": "crash crater moon pictures show spacex",
    "title": "Before and after pictures show moon crater after SpaceX crash",
@@ -3201,11 +3189,21 @@
    "title": "Woman found dead in Bronx apartment building on Friday \u2014 authorities investigating as possible homicide",
    "source": "New York Post",
    "at": "2026-08-23T03:31:55.423318+00:00"
+  },
+  {
+   "fp": "asks canada collins consider house impact negative trade white",
+   "title": "Collins asks White House to consider 'negative impact' of Canada trade war",
+   "source": "The Hill",
+   "at": "2026-08-23T03:50:07.060213+00:00"
+  },
+  {
+   "fp": "bond disappoints rebound slide stocks walmart yields",
+   "title": "U.S. Stocks Slide as Bond Yields Rebound; Walmart Disappoints",
+   "source": "WSJ",
+   "at": "2026-08-23T03:50:08.733443+00:00"
   }
  ],
  "titles": [
-  "basement charged daughter dead drug father filled found infant murder utah",
-  "alex angie defeats democratic florida impeachment member nixon race senate trump vindman witness",
   "crash crater moon pictures show spacex",
   "florida nixon primary senate socialist trump upsets vindman whistleblower",
   "democratic florida gilbert house open primary seat wilson wins",
@@ -3603,6 +3601,8 @@
   "camp exclusive inside kotok maine street summer wall",
   "camp everyone exclusive spooked street wall went wilderness",
   "2000s band buckcherry crash dead fatal involved rock tour",
-  "apartment authorities bronx building dead found friday homicide investigating possible woman"
+  "apartment authorities bronx building dead found friday homicide investigating possible woman",
+  "asks canada collins consider house impact negative trade white",
+  "bond disappoints rebound slide stocks walmart yields"
  ]
 }
