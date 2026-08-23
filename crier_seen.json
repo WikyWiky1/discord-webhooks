@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40352866",
-  "CBMimwFBVV95cUxPaDUxT0h1MF9qdjNxUFBqZkJRX0xldzhyeU9UUlJyLVAzcWZxeEZkM0o1YlZSS2tsa2p6SU5QWll0SkE0LTJXajZ3QURrTGJUTTVTSmRHY05OMkxRVTQwZkp0cFFWUGxhYWNOcDV4dVM1c2U1VENOQS1vVG1qSnBmVzh6TWxpVjBmOWJqQXVIb2VwX2JjMnhXR29QVQ",
   "https://nypost.com/?post_type=article&p=40353044",
   "CBMilwFBVV95cUxQZVZsbXNuUVQyemZidW4xOE9ONjJhZXRycXpCV2ZQMThyRlBncmstS0duZ0QwNUFpTVZVT0hnUWgzMU9MQ1lLM09DYm5lSTFQWl9oREdMdGpBWW5RZjFFekV4ZzBzM3pIQXU4YkVfWEtUOUl1Z3BURkZsckYyWUpvN1c2LUtfNHVnVjdBZlVyOUV5WEN4eHFr",
   "CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
   "CBMipAFBVV95cUxNMXR2WHg4Sk1EWmREN2NWcjBGUVNFdW0ya2Rpa25CcFJqT0pZQmFYQ2YwSVVxa0ZsRWNMMEpvMk4zVmZidzNrbWF5MTFKUW5KTThIeXM2alI2aDJKSnhHM3JNWHE2c2JkM2tRTGhDbWNrd05yZ2NkNkZFZUw4ZDRjdDhZNVU0RnBoLXdBVDc4aVE0bGUtSVFrUDBoTWJrZG9ZdDEyeA",
   "CBMikAFBVV95cUxQLWZUcG45aEgwVnNzYTRhVGdVSkdYTUZLem9fRXhneGpWODR6ZDhqRndkNWJ6a1V3M1ItcGJ5SG5kX0lZYTY4alk4ZVllOU5sMGthVFUydHN3YUFyWFRGOGI5bDdrRjNaX3BnSGRESUJXWVBQTkJ0cHFXWlhuOVRSd0tOc0w4M28zTk41ZW11NC0",
-  "CBMipwFBVV95cUxOLUJZdlVWUWt6ZHB3YnpkSHZUampvbHpXbWNUNlRwY05KS2dIZzNJUEE3ZF9MS3Ywd0Q0ODZMS2M5UndUZHFKNEQ1OFE0NGNhd3hGdGVNSnlYSHhheVAxcGk3Zm85QXVBTE5IYVZibXVETWFzWnB3TWpyZ09Db0JaT2VlQ2tUNUdaU0pSQkxJM2hTU2piS0dsRGtUb2pwVVRXYzdjTE1jaw"
+  "CBMipwFBVV95cUxOLUJZdlVWUWt6ZHB3YnpkSHZUampvbHpXbWNUNlRwY05KS2dIZzNJUEE3ZF9MS3Ywd0Q0ODZMS2M5UndUZHFKNEQ1OFE0NGNhd3hGdGVNSnlYSHhheVAxcGk3Zm85QXVBTE5IYVZibXVETWFzWnB3TWpyZ09Db0JaT2VlQ2tUNUdaU0pSQkxJM2hTU2piS0dsRGtUb2pwVVRXYzdjTE1jaw",
+  "CBMiygFBVV95cUxQaFU5eGhHTHlWTGEwdF9hVzNLSFJMR2hZWTRFOGQ0aFNvVmFzaTFsRmRGa3JPZVhFcFFfeUs3YmRCYjBtNDZmYi15WF9xLUpjeDJXYThlaUFTNU5ISkMtTDl6MUo3N25rSmRWbXVpN1dhdzJ0QmpxZGFKRDMwcmlWaS1IOTVEM1NwY05Xdjd2ejZJcG13c2NjRmVrVHJZNEEwYTVmYW5fb0I3Zk01eGgzMjE0dHpDUjlrVFFzUVpKdlN4QjFoZVZ6dDBR",
+  "https://nypost.com/?post_type=article&p=40471459"
  ],
  "posts": [
-  {
-   "fp": "bond selloff sink slows stocks",
-   "title": "Bond selloff slows but stocks sink",
-   "source": "Reuters",
-   "at": "2026-08-19T06:42:02.379964+00:00"
-  },
-  {
-   "fp": "bayern collapse game issue midfielder musiala neurological reveals time",
-   "title": "Bayern midfielder Musiala reveals 'neurological' issue after collapse during game for 2nd time",
-   "source": "AP",
-   "at": "2026-08-19T08:55:52.860610+00:00"
-  },
   {
    "fp": "action election florida night packed primary takeaways",
    "title": "Key takeaways from action-packed primary election night in Florida",
@@ -3201,11 +3189,21 @@
    "title": "Hype for Moderna\u2019s Cancer Vaccine Is Running Ahead of the Math",
    "source": "WSJ",
    "at": "2026-08-23T12:39:05.887259+00:00"
+  },
+  {
+   "fp": "airstrikes gaza including israeli kill medics people year",
+   "title": "Israeli airstrikes in Gaza kill two people, including a 4-year-old boy, medics say",
+   "source": "Reuters World",
+   "at": "2026-08-23T13:16:56.098482+00:00"
+  },
+  {
+   "fp": "beachgoers dramatic emergency florida front landing makes pilot quickly rescued uninjured young",
+   "title": "Young pilot makes dramatic emergency sea landing in front of Florida beachgoers \u2014 and is quickly rescued uninjured",
+   "source": "New York Post",
+   "at": "2026-08-23T13:16:57.931699+00:00"
   }
  ],
  "titles": [
-  "bond selloff sink slows stocks",
-  "bayern collapse game issue midfielder musiala neurological reveals time",
   "action election florida night packed primary takeaways",
   "carved crater images moon nasa rocket show slammed spacex",
   "alaska democrat lead live mary peltola politics primary republican senate sullivan",
@@ -3603,6 +3601,8 @@
   "destroying election holding risk ukraine wartime zelenskyy",
   "destroy election ukraine wartime zelenskiy",
   "election expected grip kazakhstan parliamentary power president strengthen votes",
-  "ahead cancer hype math moderna running vaccine"
+  "ahead cancer hype math moderna running vaccine",
+  "airstrikes gaza including israeli kill medics people year",
+  "beachgoers dramatic emergency florida front landing makes pilot quickly rescued uninjured young"
  ]
 }
