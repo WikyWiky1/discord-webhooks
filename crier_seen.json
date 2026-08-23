@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
   "CBMirgFBVV95cUxNUEtkMW85Ymsxd0pDX1ItdnpuckFtN3c2eVB5eHhLdkdIVHc1M1lXcVNCY1YybmMxWVNUbWxwRGE4MVdMVkJ6bVUyMDRlZUNLWWoteUhnOHZQaGUxb3VwM0tackFkaENzbUI1MHdoN1dkWjF3WWY5SHd4MEpsWjdkVUw5U0FlTFRDanhKa1VOZVh2WjA3ekw3UnV4T09OMTFSTmhjTmkyTXF2T09LMnc",
   "https://nypost.com/?post_type=article&p=40347780",
   "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
   "CBMisAFBVV95cUxQMnpnd0NFSGpTVjAwTS1wUk04a1cycXduWE1GTThtQmRua3U3NDdqMzMxSkpzZXQwYWpadDFheW9Mand5XzdWRWlXQmlVc01rbXFCbmc2M050MHJESkNaampyWTlCXzZnMThlRGU5bXl2Z3FpNVZhTmlNU05Xb1QwT1I4WjV3NHhKc0wxRlMxMmZCamcxOHRBeXZCMUY5a2IzTzRzdWd0TGlfUWl5TTBVQg",
   "CBMiwgFBVV95cUxNRGlRMU9yTWNzNlpfeUYtMGJMOS16dW9Ia3ltTFZyLWx4NEZhRjhvVGNFVWI2N3VOb1pQUDRTRnlURjFBLS1YS3BtZ3RITTJOQkYyeTBNeFFDcmJZbVFaT1FqNzZDT0RQWVJxc2Rack1QQ3Q5czE4dENLNS1YN05hTDhGRU4zRndZUUJyQ05WUGl1VDV2bHBvZnF2U2RiLUdFZzVEcV9qYUVEWS1MVHR4U1RUbTkzd1F5LUJmUVJ4aVFHdw",
-  "CBMiwAFBVV95cUxNa2g4X3ZuOXMxNjRtb0tGX1lqM21UT2hCV3ZFUDlyU3JaZXhLdjdsWFZfMTFWcWxkQ3dXUFJRNnQ5OGdSWVdwWXhtVXpWZlNqRHcxUFEwcXZxZDdicnN2QVZNWjVOVUNlTTZKVEZkMTZSY1poMDNvbHVqRDdKMG85SllocFVWS1ZqaTNZNEV6WWV1NUFOc0szLXFQOHhCZEtHQWNXZm5YZzJwaXN0TlZOZ0Fwc05KMXExWkZMUUo2NnE"
+  "CBMiwAFBVV95cUxNa2g4X3ZuOXMxNjRtb0tGX1lqM21UT2hCV3ZFUDlyU3JaZXhLdjdsWFZfMTFWcWxkQ3dXUFJRNnQ5OGdSWVdwWXhtVXpWZlNqRHcxUFEwcXZxZDdicnN2QVZNWjVOVUNlTTZKVEZkMTZSY1poMDNvbHVqRDdKMG85SllocFVWS1ZqaTNZNEV6WWV1NUFOc0szLXFQOHhCZEtHQWNXZm5YZzJwaXN0TlZOZ0Fwc05KMXExWkZMUUo2NnE",
+  "https://pagesix.com/?post_type=article&p=9128625"
  ],
  "posts": [
-  {
-   "fp": "cops courthouse near report respond shooting trial tupac",
-   "title": "Cops respond to report of shooting near Tupac trial courthouse",
-   "source": "New York Post",
-   "at": "2026-08-18T23:56:30.839084+00:00"
-  },
   {
    "fp": "dead found home injuries inside malnourishment possible signs sources suspicious teen",
    "title": "Teen found dead with suspicious injuries, signs of possible malnourishment inside NYC home: sources",
@@ -3201,10 +3195,15 @@
    "title": "We Went to Wall Street\u2019s Exclusive Wilderness Camp. Everyone Was Spooked by AI.",
    "source": "WSJ",
    "at": "2026-08-23T01:18:09.372825+00:00"
+  },
+  {
+   "fp": "2000s band buckcherry crash dead fatal involved rock tour",
+   "title": "One dead after 2000s rock band Buckcherry\u2019s tour bus involved in fatal crash",
+   "source": "New York Post",
+   "at": "2026-08-23T02:20:39.246803+00:00"
   }
  ],
  "titles": [
-  "cops courthouse near report respond shooting trial tupac",
   "dead found home injuries inside malnourishment possible signs sources suspicious teen",
   "basement charged daughter dead drug father filled found infant murder utah",
   "alex angie defeats democratic florida impeachment member nixon race senate trump vindman witness",
@@ -3603,6 +3602,7 @@
   "appeals australia bird court dead liberals live mainland mammal news plan radical redesign seal victim victorian",
   "anthony deadly denies judge karmelo meet request stabbing texas track trial",
   "camp exclusive inside kotok maine street summer wall",
-  "camp everyone exclusive spooked street wall went wilderness"
+  "camp everyone exclusive spooked street wall went wilderness",
+  "2000s band buckcherry crash dead fatal involved rock tour"
  ]
 }
