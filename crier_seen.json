@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE",
   "https://nypost.com/?post_type=article&p=40354469",
   "https://nypost.com/?post_type=article&p=40357338",
   "https://nypost.com/?post_type=article&p=40357240",
@@ -799,15 +798,10 @@
   "CBMid0FVX3lxTE5KQ01Tc245aHdDN1NhbDNoNUZTdUNvWWJvQXBhRHVTU1B0ZkZhME9Dc01jT0dxUkdNQ0ZyRXd4UVgxMFE4c3c4QmhqbzJJRUgtSjE5cUJ2THY0LUstRVBBV09IQ3pndGhjWlRTSWlNc1JDS2lqS1VN",
   "https://pagesix.com/?post_type=article&p=9129107",
   "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
-  "https://news.sky.com/story/man-arrested-on-suspicion-of-murder-after-house-fire-kills-one-and-injures-eight-13576454"
+  "https://news.sky.com/story/man-arrested-on-suspicion-of-murder-after-house-fire-kills-one-and-injures-eight-13576454",
+  "https://nypost.com/?post_type=article&p=40474471"
  ],
  "posts": [
-  {
-   "fp": "fire house injured investigation killed murder nine woman",
-   "title": "Murder investigation after woman killed and nine injured in house fire",
-   "source": "Telegraph",
-   "at": "2026-08-19T17:54:57.151984+00:00"
-  },
   {
    "fp": "better billed dead john kareem mccoy star wayne",
    "title": "Wayne McCoy \u2014 St. John\u2019s star billed as \u2018better than Kareem\u2019 \u2014 dead at 64",
@@ -3201,10 +3195,15 @@
    "title": "Man arrested on suspicion of murder after house fire kills one and injures eight",
    "source": "Sky News",
    "at": "2026-08-23T21:38:19.641538+00:00"
+  },
+  {
+   "fp": "brothers california dead found river trinity",
+   "title": "Brothers, 18 and 45, found dead in Trinity River in California",
+   "source": "New York Post",
+   "at": "2026-08-23T22:13:51.429646+00:00"
   }
  ],
  "titles": [
-  "fire house injured investigation killed murder nine woman",
   "better billed dead john kareem mccoy star wayne",
   "cases congo death ebola outbreak reaches rises toll",
   "african central collapse gold kills mine mining official republic",
@@ -3603,6 +3602,7 @@
   "dumbest opinion revisited trade",
   "coach dead donna fabares reed shelley show star",
   "attack australia difficult donors gets incredibly live news parade penguin recovery shark shots thanks victim",
-  "arrested eight fire house injures kills murder suspicion"
+  "arrested eight fire house injures kills murder suspicion",
+  "brothers california dead found river trinity"
  ]
 }
