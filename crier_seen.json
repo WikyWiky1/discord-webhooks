@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40343869",
-  "CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n",
-  "CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc",
   "CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE",
   "https://nypost.com/?post_type=article&p=40354469",
   "https://nypost.com/?post_type=article&p=40357338",
@@ -799,27 +796,12 @@
   "CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy",
   "https://nypost.com/?post_type=article&p=40474160",
   "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-  "CBMid0FVX3lxTE5KQ01Tc245aHdDN1NhbDNoNUZTdUNvWWJvQXBhRHVTU1B0ZkZhME9Dc01jT0dxUkdNQ0ZyRXd4UVgxMFE4c3c4QmhqbzJJRUgtSjE5cUJ2THY0LUstRVBBV09IQ3pndGhjWlRTSWlNc1JDS2lqS1VN"
+  "CBMid0FVX3lxTE5KQ01Tc245aHdDN1NhbDNoNUZTdUNvWWJvQXBhRHVTU1B0ZkZhME9Dc01jT0dxUkdNQ0ZyRXd4UVgxMFE4c3c4QmhqbzJJRUgtSjE5cUJ2THY0LUstRVBBV09IQ3pndGhjWlRTSWlNc1JDS2lqS1VN",
+  "https://pagesix.com/?post_type=article&p=9129107",
+  "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
+  "https://news.sky.com/story/man-arrested-on-suspicion-of-murder-after-house-fire-kills-one-and-injures-eight-13576454"
  ],
  "posts": [
-  {
-   "fp": "confirms criminal fired hind investigation israel killed opens rajab soldiers",
-   "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-   "source": "BBC World",
-   "at": "2026-08-19T16:00:35.968330+00:00"
-  },
-  {
-   "fp": "coach collapsing competition dies endurance fitness high hyrox intensity",
-   "title": "Fitness coach dies after collapsing during high-intensity endurance HYROX competition",
-   "source": "New York Post",
-   "at": "2026-08-19T16:48:30.150939+00:00"
-  },
-  {
-   "fp": "agency americans crash fiery four helicopter kenya killed luxury tour trip",
-   "title": "Four Americans killed in fiery Kenya helicopter crash during trip with luxury tour agency",
-   "source": "New York Post",
-   "at": "2026-08-19T17:20:39.249183+00:00"
-  },
   {
    "fp": "fire house injured investigation killed murder nine woman",
    "title": "Murder investigation after woman killed and nine injured in house fire",
@@ -3201,12 +3183,27 @@
    "title": "Opinion | The Dumbest Trade War Revisited",
    "source": "WSJ",
    "at": "2026-08-23T21:21:25.690381+00:00"
+  },
+  {
+   "fp": "coach dead donna fabares reed shelley show star",
+   "title": "Shelley Fabares, star of \u2018Coach\u2019 and \u2018The Donna Reed Show,\u2019 dead at 82",
+   "source": "New York Post",
+   "at": "2026-08-23T21:38:16.279499+00:00"
+  },
+  {
+   "fp": "attack australia difficult donors gets incredibly live news parade penguin recovery shark shots thanks victim",
+   "title": "Australia news live: Shark attack victim thanks donors after \u2018incredibly difficult\u2019 recovery; penguin parade gets flu shots",
+   "source": "Guardian World",
+   "at": "2026-08-23T21:38:17.986381+00:00"
+  },
+  {
+   "fp": "arrested eight fire house injures kills murder suspicion",
+   "title": "Man arrested on suspicion of murder after house fire kills one and injures eight",
+   "source": "Sky News",
+   "at": "2026-08-23T21:38:19.641538+00:00"
   }
  ],
  "titles": [
-  "confirms criminal fired hind investigation israel killed opens rajab soldiers",
-  "coach collapsing competition dies endurance fitness high hyrox intensity",
-  "agency americans crash fiery four helicopter kenya killed luxury tour trip",
   "fire house injured investigation killed murder nine woman",
   "better billed dead john kareem mccoy star wayne",
   "cases congo death ebola outbreak reaches rises toll",
@@ -3603,6 +3600,9 @@
   "east iran middle news official other sanctions support",
   "clarifies lethal suggested trump vaccine",
   "canada devolve lashes talks trade trump",
-  "dumbest opinion revisited trade"
+  "dumbest opinion revisited trade",
+  "coach dead donna fabares reed shelley show star",
+  "attack australia difficult donors gets incredibly live news parade penguin recovery shark shots thanks victim",
+  "arrested eight fire house injures kills murder suspicion"
  ]
 }
