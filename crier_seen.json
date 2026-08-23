@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMijgFBVV95cUxQUDFrWDQxX0YtODMwd0tGYzkwOVRfZ1htU2VTcVdac2tFUm9oSEpmV1REb3RGMmZaVXJqUHlMRGoteWw5Q3dWXzVLYmxyWlhXa0lHSklrUk5YWFh1N0FvaDdHYjhqMmpHT3FNaVVEcV9lR2tUNm1ueWtRYXFUczNDRGlBUzR6N2xSLVlTREVn",
   "CBMixwFBVV95cUxNZDhuLU1pS1kxTnhFbndFY2w2aHZ0UzVCRkpwT3d3Q1FocGJ2cUZqZGFUaEE3MkFNVEZ4bXd3M0RmM3ZNanV6ZVo4TUl5azlkclRhTGZKZVlEdTgybXhSYlo5MXRqUFNzU0pJTnBFOS0yWmpheEZMb01wUzhiM0s5bUx4WUVtczhJN3djRDVLbWozWkYyYnpXNWZQd1RzZmUxSThGUU9BTDU5WFB6QXhhcFUwTXlhY0FMQUN4eWV6ZUw4RzEyc2ZV",
   "CBMiwwFBVV95cUxNUmpCZS14cUVweVF4akoxQjNyUi1wMnlxbXVXdVB1Q2dycWlvXzdpWHl3bnNGYmlHd0s3b0p4aWdaTVNycmh0ZENHUjNtQURFanFBejRoajBkaE5ZYUpSUS1RbnBvX3lBQTVidjd2T2hzM0ROYTU4X3BOMUhmZVhrR3ByNVNJYldWUlphTmdpVVRJVEd0NFdKcUxPQ3dGdnFvN3pSNnd2d1BLOHlVTTRVdTFDV082eTJ5UFJycTIwa21WX0U",
   "https://nypost.com/?post_type=article&p=40348912",
@@ -799,15 +798,10 @@
   "CBMiZ0FVX3lxTFB0dldUQkJwZks2ZmdqTF9lZVlBOGdKUUpSYkdTLUJSSDVBazlOU2lHM09SaWRYWHJ5UHpHYVZGMmRYMC15ZWpLelhna2p4UjJzZkhzMm9Ubm9ka2R3NGU3SjFqcXlTT0E",
   "CBMikgFBVV95cUxOSV9Wa3ZmeTNFd0FyNmRyOU52UnlkOWpVTTlkRHFyeG1nM24tRThvdEMxdUNlUmFHTU9TM2w4c3ZGbXJtWFl5NXpfMEg5bW0wRGxKRVBhODV3MWtabU1wTGNPU19uQ1FUcEFWZmRHcUJsaWhJZkRvNHVLbFMxUGVoZDFuaU5GZUIxTV9RY01CdWZKUQ",
   "https://thehill.com/?p=6045731",
-  "https://nypost.com/?post_type=article&p=40473307"
+  "https://nypost.com/?post_type=article&p=40473307",
+  "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis"
  ],
  "posts": [
-  {
-   "fp": "crash helicopter kenya killed pilot tourists",
-   "title": "Six tourists and pilot killed in Kenya helicopter crash",
-   "source": "BBC World",
-   "at": "2026-08-19T13:27:43.989676+00:00"
-  },
   {
    "fp": "bill dead espn founder rasmussen",
    "title": "Bill Rasmussen, ESPN co-founder, dead at 93",
@@ -3201,10 +3195,15 @@
    "title": "Maine madman fired at Jewish summer camp basketball court, forced harrowing lockdown for kids in \u2018antisemitic\u2019 attack: docs",
    "source": "New York Post",
    "at": "2026-08-23T17:37:12.129565+00:00"
+  },
+  {
+   "fp": "canada collapsed futile lesson negotiation talks trade",
+   "title": "The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile",
+   "source": "Guardian World",
+   "at": "2026-08-23T17:53:07.652726+00:00"
   }
  ],
  "titles": [
-  "crash helicopter kenya killed pilot tourists",
   "bill dead espn founder rasmussen",
   "enemies kill problem real using",
   "derailment found irregularity site track train",
@@ -3603,6 +3602,7 @@
   "airstrike causing destruction gaza hits israeli massive zawayda",
   "crash iraq killed officer police veteran",
   "kill talarico texas views",
-  "antisemitic attack basketball camp court docs fired forced harrowing jewish kids lockdown madman maine summer"
+  "antisemitic attack basketball camp court docs fired forced harrowing jewish kids lockdown madman maine summer",
+  "canada collapsed futile lesson negotiation talks trade"
  ]
 }
