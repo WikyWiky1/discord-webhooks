@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4688435",
   "https://thehill.com/?p=6030992",
   "https://thehill.com/?p=6030840",
   "CBMiiwFBVV95cUxNQjdWM3ZJQ3M4amVyYXhtdHlQSndrUkZuQzl3ZkFMLTBtN19QRVNvejB3NF9PQkl0TUdRSEFNendUZ1JIOEJrLXB3VS10STRNVHRhQXZqVTEyN1pMMG5GYV9BVVZ6eUFna1lpcFROcXVxTFhmXzBPUk9BNnRoLTRiaDJWX2xfdTY0ZGhR",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
   "https://www.theguardian.com/us-news/2026/aug/23/trump-sowing-election-distrust",
   "CBMiyAFBVV95cUxNZEJfVzdZd1FzS096TGhjb19XSF9hYnJfazRCOF8zeF9qMkJMOW5Bbm1ZSEwycjJiT1hXci05RFViS1haSDRObmdTb2dvdDVzZjY3SlNnQV80bjhrNEcyOVI5azhybnFpVlVrUmpDQTB4UHNrWURkdXQ3dklqZ2Vucm5ob3RiVTNSRGpqTVRxX0Z1R0gtTTJVb1BYYk8yajNBMFZ2N2FWOHdhYXYycFlsSHpuZzdnOEpPOVN3ckU1SWljVEp1bXdHSQ",
-  "https://www.theguardian.com/uk-news/2026/aug/23/manuscript-fragments-discovery-medieval-guernsey"
+  "https://www.theguardian.com/uk-news/2026/aug/23/manuscript-fragments-discovery-medieval-guernsey",
+  "CBMiywFBVV95cUxQclQ2YkMyUjJ2cWhPeXkzYlVvUkdSLU9qcXphcEs5V1JlQVAxOW1mSXcxZUZOV0RJck5fanJ3NldvcHhWcXBPOE1qMndlV2xIaWxPdjNJUzhlbUREeHdEN0VDRzVhWm1GWDVEQWN0WDZ3ajdKYUFHUTFabUVoZ0tyZ2JXZVZNRFlfOE9WNmNQQ1lVem8wQjNacm5LWE1ManVqV3RpX21EVlJmdWpTdWZlUUtSNTJpUDVTQkZ2SGVpZU53ZnVrOUNnX2NoOA"
  ],
  "posts": [
-  {
-   "fp": "falls losses nikkei street tracking wall",
-   "title": "Nikkei Falls 2.7%, Tracking Wall Street\u2019s Losses",
-   "source": "WSJ",
-   "at": "2026-08-19T03:45:51.431392+00:00"
-  },
   {
    "fp": "head home killed outside shot single year",
    "title": "39-year-old killed with single shot to the head outside NYC home",
@@ -3201,10 +3195,15 @@
    "title": "Manuscript fragments hiding in plain sight shed light on medieval Guernsey\u2019s literary life",
    "source": "Guardian World",
    "at": "2026-08-23T11:25:37.475103+00:00"
+  },
+  {
+   "fp": "action confront congo ebola global outbreak pope urges",
+   "title": "Pope Leo urges global action to confront Congo's Ebola outbreak",
+   "source": "Reuters World",
+   "at": "2026-08-23T11:37:53.166811+00:00"
   }
  ],
  "titles": [
-  "falls losses nikkei street tracking wall",
   "head home killed outside shot single year",
   "address crash killed police politician teenager vietnam",
   "accident crashes freak highway killed massive ohio onto tree",
@@ -3603,6 +3602,7 @@
   "attack blamed cyber down hackers iran linked plant power shut",
   "distrust election emergency groundwork impose laying national sowing trump",
   "capacity full hungary magyar nuclear operate paks plant wednesday",
-  "fragments guernsey hiding life light literary manuscript medieval plain shed sight"
+  "fragments guernsey hiding life light literary manuscript medieval plain shed sight",
+  "action confront congo ebola global outbreak pope urges"
  ]
 }
