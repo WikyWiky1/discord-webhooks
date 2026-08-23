@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://pagesix.com/?post_type=article&p=9112252",
-  "https://nypost.com/?post_type=article&p=40306918",
   "https://nypost.com/?post_type=article&p=40354525",
   "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting",
   "CBMijgFBVV95cUxQUDFrWDQxX0YtODMwd0tGYzkwOVRfZ1htU2VTcVdac2tFUm9oSEpmV1REb3RGMmZaVXJqUHlMRGoteWw5Q3dWXzVLYmxyWlhXa0lHSklrUk5YWFh1N0FvaDdHYjhqMmpHT3FNaVVEcV9lR2tUNm1ueWtRYXFUczNDRGlBUzR6N2xSLVlTREVn",
@@ -799,21 +797,11 @@
   "CBMilgFBVV95cUxQWXEwX0JsZ3g2N2oyb1p1YkpvT3BneC1TUWxLWUFNdHNsc3pwOUF2UW1XZ014ZE9iVWVTSXJCQi1JUE1ueTBxQ3g4UkRBQnRoZWt4TzlUbTVEY0liS2g2QjJQNVdLS25LcXpkbjZ2cXJnUDFvdlhtQU9sZWRqQXY4QzlTZXMyU1ZtejlacGxLeWhRWjl2aVE",
   "CBMiywFBVV95cUxPdHltR1Q1SG9majBmUWlqNFdQNmlLVWJDaUpDMUZTNFdnRXFpZUxmWHREenFMZk9sRXFZY0VCRUk4cjlQZGd6T3Mxa0tPZ2k1WHpaSHNEWlhIc29JSXNBdkVKZXJFV3JxcFYxTUtUenhhWVZtWTBfaDU1ZWsxdGdRb2dhcEl4NXpRNU1RVnNWM1FwTm92eDlndjcwY1BZcVBRRXowT29JMDBIZWZDeUkxbmVad1V4aGxDNkJWTFFYSER6amFaWjEya2NEYw",
   "CBMimAFBVV95cUxNVUpEM0MwOHJxRV9tR2NuUkV6NFFBSzFwRHM3dmp2Z2U1TlBaTVRWY1ZDNDg2U0NTX0V0dlJVSkVNZF9FV1dDY2F4ZFBaMkhuVjl1MHRVYXZPZm1SUlRCOEZoa1lTZ0toek0wYVJIN2d0eTEtSXFYLVdOVFNOdHZYM0pzZXNKb2NscjNFLThoX1hpZmgzcHJoTQ",
-  "CBMiowFBVV95cUxNZjVEamVIa0cwVk03YjhWVml0QjhfVHlrOVdKcmhuTmQ1eTBzclBzV3RjdE00Ukt6WUxqSDR2am5YYUhJX1VNRUowSVpHQTBQOUZwVVV6WHlWNF9lUHV3aEt6MnBMYjM5V3ZFVFpVYUZkVERLVVh5eGd3TUlndThXNXBZWlVtSlVEay1KMXloVGJqVmFBUTJXOTRzTVdfVXBZLU9z"
+  "CBMiowFBVV95cUxNZjVEamVIa0cwVk03YjhWVml0QjhfVHlrOVdKcmhuTmQ1eTBzclBzV3RjdE00Ukt6WUxqSDR2am5YYUhJX1VNRUowSVpHQTBQOUZwVVV6WHlWNF9lUHV3aEt6MnBMYjM5V3ZFVFpVYUZkVERLVVh5eGd3TUlndThXNXBZWlVtSlVEay1KMXloVGJqVmFBUTJXOTRzTVdfVXBZLU9z",
+  "CBMiZ0FVX3lxTFB0dldUQkJwZks2ZmdqTF9lZVlBOGdKUUpSYkdTLUJSSDVBazlOU2lHM09SaWRYWHJ5UHpHYVZGMmRYMC15ZWpLelhna2p4UjJzZkhzMm9Ubm9ka2R3NGU3SjFqcXlTT0E",
+  "CBMikgFBVV95cUxOSV9Wa3ZmeTNFd0FyNmRyOU52UnlkOWpVTTlkRHFyeG1nM24tRThvdEMxdUNlUmFHTU9TM2w4c3ZGbXJtWFl5NXpfMEg5bW0wRGxKRVBhODV3MWtabU1wTGNPU19uQ1FUcEFWZmRHcUJsaWhJZkRvNHVLbFMxUGVoZDFuaU5GZUIxTV9RY01CdWZKUQ"
  ],
  "posts": [
-  {
-   "fp": "earnings flat futures industry retail stock",
-   "title": "U.S. Stock Futures Flat Amid Retail Industry Earnings",
-   "source": "WSJ",
-   "at": "2026-08-19T12:45:23.328797+00:00"
-  },
-  {
-   "fp": "canadian delays florida imports primaries takeaways tariff",
-   "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
-   "source": "NPR News",
-   "at": "2026-08-19T12:45:25.273066+00:00"
-  },
   {
    "fp": "2028 california early follow groups interest newsom primary special states",
    "title": "California special interest groups follow Newsom into early 2028 primary states",
@@ -3201,11 +3189,21 @@
    "title": "Tropical Storm Moke carrying more rain toward hurricane-damaged Hawaii",
    "source": "AP",
    "at": "2026-08-23T16:19:04.512367+00:00"
+  },
+  {
+   "fp": "airstrike causing destruction gaza hits israeli massive zawayda",
+   "title": "Israeli airstrike hits Gaza's Zawayda, causing massive destruction",
+   "source": "Reuters World",
+   "at": "2026-08-23T16:46:05.853678+00:00"
+  },
+  {
+   "fp": "crash iraq killed officer police veteran",
+   "title": "Police officer killed in A66 crash was Iraq veteran",
+   "source": "Telegraph",
+   "at": "2026-08-23T16:46:07.597180+00:00"
   }
  ],
  "titles": [
-  "earnings flat futures industry retail stock",
-  "canadian delays florida imports primaries takeaways tariff",
   "2028 california early follow groups interest newsom primary special states",
   "994m comeback merchandise quarter refund shoppers target tariff",
   "crash helicopter kenya killed pilot tourists",
@@ -3603,6 +3601,8 @@
   "abruptly ambitious chang china launch lunar mission postpones",
   "evasion given investigate must realistic singapore tariff trade volume",
   "approaches evacuate forcing neighborhoods nevada reno thousands wildfire",
-  "carrying damaged hawaii hurricane moke rain storm toward tropical"
+  "carrying damaged hawaii hurricane moke rain storm toward tropical",
+  "airstrike causing destruction gaza hits israeli massive zawayda",
+  "crash iraq killed officer police veteran"
  ]
 }
