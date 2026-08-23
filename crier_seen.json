@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40347158",
-  "https://www.bbc.co.uk/news/articles/c9342wn2x27o#1",
   "CBMiwAFBVV95cUxNVzZsUDJSYTV2QkNqVmRLUDVIb0l3MzJPdERTOFVrNmswRUw0QmhIWDFkYnYtOFhNc3JTZ0U1dm1pMmxQVUtYVGw3S21HTHRhVWRkdHd6UXExc0Y1QVVQeVVDdjYwRHRkNFRVV0tfQ0JTcXFSVFFTZUtnYnh2aS1hSnAwc0VRWXVaWmZXTG9PMEZiWVNuZmszeGw4TDl1TEY5bmZFUy1jaU9GS2VVLTNjOGNJeFNWZkotd3VJU1N1Vmk",
   "CBMikwFBVV95cUxNcTZkTW84ZVJ2ajdwMktZUjFCcWJ6NGM2ZnZkSmd6bmo2b2RGUWhEZE13UTN6eHV2Rzh2ZndURG93ZzNveFYtaDVxV1JYVmprWWh6SkN3NXFCMjdveVhCZW1iQTdCc21lUmlpV1YxMENUVHZHVjUweW5OVEd3OUk4NUx1STJHRnhONjg2bFVCSmpVdVU",
   "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40466331",
   "https://nypost.com/?post_type=article&p=40468221",
   "https://nypost.com/?post_type=article&p=40467552",
-  "CBMiqwFBVV95cUxPX0k3RUhVSXB3cVd0ZmpLVnBmcFVPc2s4VlI3T1JEN19kRmVLWjljemE5OWYwLUtMaHZvZGlRT0xyUVBrNFBjbzYxdWwxQUFEbUJFc0pnbU5wYmFkOGpYS0N6RjlRTVgwbHE2RU9xdUdRQzZucnFjUDBJNm1OQW04b3NSSG9PT1Z0MXZIbzJOVXFEblRNNjB4UXBVNnZWNEU5c3BoWVEzZ0lIMkU"
+  "CBMiqwFBVV95cUxPX0k3RUhVSXB3cVd0ZmpLVnBmcFVPc2s4VlI3T1JEN19kRmVLWjljemE5OWYwLUtMaHZvZGlRT0xyUVBrNFBjbzYxdWwxQUFEbUJFc0pnbU5wYmFkOGpYS0N6RjlRTVgwbHE2RU9xdUdRQzZucnFjUDBJNm1OQW04b3NSSG9PT1Z0MXZIbzJOVXFEblRNNjB4UXBVNnZWNEU5c3BoWVEzZ0lIMkU",
+  "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+  "CBMisAFBVV95cUxQMnpnd0NFSGpTVjAwTS1wUk04a1cycXduWE1GTThtQmRua3U3NDdqMzMxSkpzZXQwYWpadDFheW9Mand5XzdWRWlXQmlVc01rbXFCbmc2M050MHJESkNaampyWTlCXzZnMThlRGU5bXl2Z3FpNVZhTmlNU05Xb1QwT1I4WjV3NHhKc0wxRlMxMmZCamcxOHRBeXZCMUY5a2IzTzRzdWd0TGlfUWl5TTBVQg"
  ],
  "posts": [
-  {
-   "fp": "african central collapses gold killing least mine miners republic",
-   "title": "Gold mine collapses in Central African Republic, killing at least 30 miners",
-   "source": "AP",
-   "at": "2026-08-18T21:41:27.500510+00:00"
-  },
-  {
-   "fp": "49ers breaking fred record ribs sets straight teammate warner",
-   "title": "49ers\u2019 Fred Warner sets record straight after breaking teammate\u2019s ribs",
-   "source": "New York Post",
-   "at": "2026-08-18T22:14:46.323062+00:00"
-  },
   {
    "fp": "cherfilis debbie florida house indicted mccormick primary schultz sheila wasserman wins",
    "title": "Rep. Debbie Wasserman Schultz wins Florida House primary over indicted Dem Sheila Cherfilis-McCormick",
@@ -3201,11 +3189,21 @@
    "title": "Burnham must see that illegal migration is now a national emergency",
    "source": "Telegraph",
    "at": "2026-08-22T23:36:40.607932+00:00"
+  },
+  {
+   "fp": "appeals australia bird court dead liberals live mainland mammal news plan radical redesign seal victim victorian",
+   "title": "Australia news live: Dead fur seal the first mainland mammal victim of H5 bird flu; Liberals plan radical redesign of Victorian appeals court",
+   "source": "Guardian World",
+   "at": "2026-08-23T00:53:59.049003+00:00"
+  },
+  {
+   "fp": "anthony deadly denies judge karmelo meet request stabbing texas track trial",
+   "title": "Texas judge denies Karmelo Anthony\u2019s request for new trial in deadly stabbing at track meet",
+   "source": "AP",
+   "at": "2026-08-23T00:54:00.842483+00:00"
   }
  ],
  "titles": [
-  "african central collapses gold killing least mine miners republic",
-  "49ers breaking fred record ribs sets straight teammate warner",
   "cherfilis debbie florida house indicted mccormick primary schultz sheila wasserman wins",
   "bayern collapses diagnosis match munich reveals scary second star straight",
   "cops courthouse near report respond shooting trial tupac",
@@ -3603,6 +3601,8 @@
   "animals center devastating killed revenge russian shopping strikes vows zelensky",
   "border california evacuation explodes fire hawk issued warnings",
   "charging cops dead knife monica police santa shot wielding",
-  "burnham emergency illegal migration must national"
+  "burnham emergency illegal migration must national",
+  "appeals australia bird court dead liberals live mainland mammal news plan radical redesign seal victim victorian",
+  "anthony deadly denies judge karmelo meet request stabbing texas track trial"
  ]
 }
