@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc",
-  "CBMitwFBVV95cUxOeXFkQmRFSExDQ3Q2MVBNQkk0NWVLS1oxUFo0ekNYaGd3U0pEUHR5SXNxdHcydUVraXR5TFNvakZGRE56NWFNZkpJXzNMcFQ4ekNRclZrLTZuRTFZVFlfSDlIZWlCTGNoWmFmVWFsSkJHSnZvX3Fib3RlOE9JQWwwNFFoZFJYVDZPVUo5ZmNQbDd0R2k4VC13RmlIcHN2eTEybHFRT3E2S0F3Q3NkaUhldUdfVVQzLTA",
   "https://nypost.com/?post_type=article&p=40350812",
   "https://www.washingtonexaminer.com/?p=4688435",
   "https://thehill.com/?p=6030992",
@@ -799,21 +797,11 @@
   "CBMiiwFBVV95cUxQbUJWU095QkNOcGpPeFdUVzNwZTBGdWlybTROeWVXdXk3dUxub01UdDNVeTdiYmtVRWdNNG9iM2RNRGRkRTBjLWUyMnI2d3JQTTFLUnRLU1pKOGhQY2JCaDE1a2UzbHo4UUNLM0xsWGNBUGpmSC1jZ1RTb0FkbWM5elJJa205YmUya3hj",
   "CBMiswFBVV95cUxQQ0UyYlJfR0swcWM4cTlzdmlMc3l5aUdpbHZUOFFfMVNEbVdlTnB3dGJRTjNjY21WSEZmdkR5aGdZMURMOV9PYWpVdElOcEFzLUk2MzFDd2h3UTY5MGt0LVUxT2dKMDd3elVmd09RNEdIRmszNDE3N1lpY1ZDTmZteTVaeXJWcFZUZTdEZ2FCSEVKaDBWQVFjTktpc3J5RnpDdG11YWNDM1dJeVdZc2R0TDBKNA",
   "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
-  "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant"
+  "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
+  "https://www.theguardian.com/us-news/2026/aug/23/trump-sowing-election-distrust",
+  "CBMiyAFBVV95cUxNZEJfVzdZd1FzS096TGhjb19XSF9hYnJfazRCOF8zeF9qMkJMOW5Bbm1ZSEwycjJiT1hXci05RFViS1haSDRObmdTb2dvdDVzZjY3SlNnQV80bjhrNEcyOVI5azhybnFpVlVrUmpDQTB4UHNrWURkdXQ3dklqZ2Vucm5ob3RiVTNSRGpqTVRxX0Z1R0gtTTJVb1BYYk8yajNBMFZ2N2FWOHdhYXYycFlsSHpuZzdnOEpPOVN3ckU1SWljVEp1bXdHSQ"
  ],
  "posts": [
-  {
-   "fp": "choice governor loses primary trump wyoming",
-   "title": "Trump's choice for Wyoming governor loses GOP primary",
-   "source": "The Hill",
-   "at": "2026-08-19T03:45:46.314530+00:00"
-  },
-  {
-   "fp": "calls defence election minister presidential sacked ukrainian",
-   "title": "Sacked Ukrainian defence minister calls for presidential election",
-   "source": "BBC World",
-   "at": "2026-08-19T03:45:48.089194+00:00"
-  },
   {
    "fp": "donalds election field florida historic joins progressive scores takeaways upset victory",
    "title": "Election takeaways: Donalds joins historic field and progressive scores upset victory in Florida",
@@ -3201,11 +3189,21 @@
    "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
    "source": "Guardian World",
    "at": "2026-08-23T09:45:51.587142+00:00"
+  },
+  {
+   "fp": "distrust election emergency groundwork impose laying national sowing trump",
+   "title": "Trump laying groundwork to impose national emergency by sowing election distrust",
+   "source": "Guardian World",
+   "at": "2026-08-23T10:16:10.183790+00:00"
+  },
+  {
+   "fp": "capacity full hungary magyar nuclear operate paks plant wednesday",
+   "title": "Hungary Paks nuclear plant could operate at full capacity by Wednesday, PM Magyar says",
+   "source": "Reuters",
+   "at": "2026-08-23T10:16:11.932242+00:00"
   }
  ],
  "titles": [
-  "choice governor loses primary trump wyoming",
-  "calls defence election minister presidential sacked ukrainian",
   "donalds election field florida historic joins progressive scores takeaways upset victory",
   "falls losses nikkei street tracking wall",
   "head home killed outside shot single year",
@@ -3603,6 +3601,8 @@
   "democrats senate shot still winning",
   "begin election kazakhs power president tighten voting",
   "agent attorney body federal memphis shooting shows unjustified",
-  "attack blamed cyber down hackers iran linked plant power shut"
+  "attack blamed cyber down hackers iran linked plant power shut",
+  "distrust election emergency groundwork impose laying national sowing trump",
+  "capacity full hungary magyar nuclear operate paks plant wednesday"
  ]
 }
