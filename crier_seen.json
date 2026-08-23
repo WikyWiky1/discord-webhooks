@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/business/2026/aug/15/uk-ev-battery-gigafactory-aesc-jaguar-land-rover-nissan",
   "https://pagesix.com/?post_type=article&p=9112252",
   "https://nypost.com/?post_type=article&p=40306918",
   "https://nypost.com/?post_type=article&p=40354525",
@@ -799,15 +798,10 @@
   "CBMipAFBVV95cUxNVVhvam5JcEdXYjdIeS0xWU1GWTlWRkxneU5sWVJKUkVxa2dFUkgwYVVJdDZQbWZuZW45TGZUOFpNSXRvUXVpOEw2MkZ2VjFiMWxYbE9hZkl4SnpnOG82V1dxS2JiY3VCYTdmMjRsbEN6RE9fRG01b3JYbHpBTWI0TnNEMWd5VnkwcG94czRlVGJFQlV0bVRyNzZCYUtXR0pGeXJlZg",
   "CBMilgFBVV95cUxQWXEwX0JsZ3g2N2oyb1p1YkpvT3BneC1TUWxLWUFNdHNsc3pwOUF2UW1XZ014ZE9iVWVTSXJCQi1JUE1ueTBxQ3g4UkRBQnRoZWt4TzlUbTVEY0liS2g2QjJQNVdLS25LcXpkbjZ2cXJnUDFvdlhtQU9sZWRqQXY4QzlTZXMyU1ZtejlacGxLeWhRWjl2aVE",
   "CBMiywFBVV95cUxPdHltR1Q1SG9majBmUWlqNFdQNmlLVWJDaUpDMUZTNFdnRXFpZUxmWHREenFMZk9sRXFZY0VCRUk4cjlQZGd6T3Mxa0tPZ2k1WHpaSHNEWlhIc29JSXNBdkVKZXJFV3JxcFYxTUtUenhhWVZtWTBfaDU1ZWsxdGdRb2dhcEl4NXpRNU1RVnNWM1FwTm92eDlndjcwY1BZcVBRRXowT29JMDBIZWZDeUkxbmVad1V4aGxDNkJWTFFYSER6amFaWjEya2NEYw",
-  "CBMimAFBVV95cUxNVUpEM0MwOHJxRV9tR2NuUkV6NFFBSzFwRHM3dmp2Z2U1TlBaTVRWY1ZDNDg2U0NTX0V0dlJVSkVNZF9FV1dDY2F4ZFBaMkhuVjl1MHRVYXZPZm1SUlRCOEZoa1lTZ0toek0wYVJIN2d0eTEtSXFYLVdOVFNOdHZYM0pzZXNKb2NscjNFLThoX1hpZmgzcHJoTQ"
+  "CBMimAFBVV95cUxNVUpEM0MwOHJxRV9tR2NuUkV6NFFBSzFwRHM3dmp2Z2U1TlBaTVRWY1ZDNDg2U0NTX0V0dlJVSkVNZF9FV1dDY2F4ZFBaMkhuVjl1MHRVYXZPZm1SUlRCOEZoa1lTZ0toek0wYVJIN2d0eTEtSXFYLVdOVFNOdHZYM0pzZXNKb2NscjNFLThoX1hpZmgzcHJoTQ",
+  "CBMiowFBVV95cUxNZjVEamVIa0cwVk03YjhWVml0QjhfVHlrOVdKcmhuTmQ1eTBzclBzV3RjdE00Ukt6WUxqSDR2am5YYUhJX1VNRUowSVpHQTBQOUZwVVV6WHlWNF9lUHV3aEt6MnBMYjM5V3ZFVFpVYUZkVERLVVh5eGd3TUlndThXNXBZWlVtSlVEay1KMXloVGJqVmFBUTJXOTRzTVdfVXBZLU9z"
  ],
  "posts": [
-  {
-   "fp": "earnings flat focus futures iran retail rout tech tensions wall",
-   "title": "Wall St futures flat after tech rout; Iran tensions, retail earnings in focus",
-   "source": "Reuters",
-   "at": "2026-08-19T12:45:21.631691+00:00"
-  },
   {
    "fp": "earnings flat futures industry retail stock",
    "title": "U.S. Stock Futures Flat Amid Retail Industry Earnings",
@@ -3201,10 +3195,15 @@
    "title": "Wildfire approaches Reno, Nevada, forcing thousands to evacuate their neighborhoods",
    "source": "AP",
    "at": "2026-08-23T15:56:06.358578+00:00"
+  },
+  {
+   "fp": "carrying damaged hawaii hurricane moke rain storm toward tropical",
+   "title": "Tropical Storm Moke carrying more rain toward hurricane-damaged Hawaii",
+   "source": "AP",
+   "at": "2026-08-23T16:19:04.512367+00:00"
   }
  ],
  "titles": [
-  "earnings flat focus futures iran retail rout tech tensions wall",
   "earnings flat futures industry retail stock",
   "canadian delays florida imports primaries takeaways tariff",
   "2028 california early follow groups interest newsom primary special states",
@@ -3603,6 +3602,7 @@
   "autos canada considers cuts deal metals tariff",
   "abruptly ambitious chang china launch lunar mission postpones",
   "evasion given investigate must realistic singapore tariff trade volume",
-  "approaches evacuate forcing neighborhoods nevada reno thousands wildfire"
+  "approaches evacuate forcing neighborhoods nevada reno thousands wildfire",
+  "carrying damaged hawaii hurricane moke rain storm toward tropical"
  ]
 }
