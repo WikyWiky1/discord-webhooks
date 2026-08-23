@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40349713",
   "https://nypost.com/?post_type=article&p=40349190",
   "https://pagesix.com/?post_type=article&p=9111923",
   "CBMixgFBVV95cUxPdWdNblNQNjN6dDRGMTZOWldpS2M3N3BibUdFLWdSZmpaUFJhOXluYTBERXJ2YThZRWd5YU5rS012aDh1ZXFQZmtsQ0d0NXFOQjE0YUY1WXphLW1wZUY1aHBEWktqVDZ2dnlyRFM1LXFMOFBxbndjOWFmYnhaZU0xN01MRWV0NFRwQUlGblQzM0otTzlWdGU4ZloyMDJVckJfUlliWVp5RDlkRVNHc2xEV3JSa1pfVWdDTHRSVWNEMXZ2WkVpckE",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40470419",
   "https://pagesix.com/?post_type=article&p=9128674",
   "https://nypost.com/?post_type=article&p=40470674",
-  "CBMi0AFBVV95cUxOX1VJTTA3aWR1clFYLW0tVFlhdjlwZ3JvamtrXzN0YzJ0TUpsUEd6UEJtVzRGOEJHN3BaRHhxYU1UUWpPSl9qQzZwTEliVklqXzRoLXE0bHQtUmRGcVFKYll3VExrNGlTc0Fxd3U0M3lDcnk1dXpzOFJ2NVVlY1p1RVg2ckZycTdERzEyeHB0R1Ftem9HaVpXZ2FvdktRMkZWSFIySXlrekY4NGM4RlFLeFY3VTlIWGIzWE5DRXhJTnFxOEc1bk9BbjYwb1lXYjFU"
+  "CBMi0AFBVV95cUxOX1VJTTA3aWR1clFYLW0tVFlhdjlwZ3JvamtrXzN0YzJ0TUpsUEd6UEJtVzRGOEJHN3BaRHhxYU1UUWpPSl9qQzZwTEliVklqXzRoLXE0bHQtUmRGcVFKYll3VExrNGlTc0Fxd3U0M3lDcnk1dXpzOFJ2NVVlY1p1RVg2ckZycTdERzEyeHB0R1Ftem9HaVpXZ2FvdktRMkZWSFIySXlrekY4NGM4RlFLeFY3VTlIWGIzWE5DRXhJTnFxOEc1bk9BbjYwb1lXYjFU",
+  "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank"
  ],
  "posts": [
-  {
-   "fp": "congo deaths ebola fatal government history nation outbreak rapid",
-   "title": "Congo\u2019s rapid Ebola outbreak is now most fatal in nation\u2019s history with over 2,300 deaths, government says",
-   "source": "New York Post",
-   "at": "2026-08-19T02:32:45.526686+00:00"
-  },
   {
    "fp": "1979 academic crisis detention hell hostage iranian link writes",
    "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
@@ -3201,10 +3195,15 @@
    "title": "Russian online retailer Ozon warehouse in Orenburg region hit in drone attack, governor says",
    "source": "Reuters",
    "at": "2026-08-23T07:58:49.845251+00:00"
+  },
+  {
+   "fp": "brave cleveland crash killed officers paid police tributes",
+   "title": "\u2018These were brave officers\u2019: tributes paid to Cleveland police killed in A66 crash",
+   "source": "Guardian World",
+   "at": "2026-08-23T09:00:32.746635+00:00"
   }
  ],
  "titles": [
-  "congo deaths ebola fatal government history nation outbreak rapid",
   "1979 academic crisis detention hell hostage iranian link writes",
   "collapses convicted deck feet harrowing home marshals offender plunge several shows video",
   "accusing dehumanising destroying government indigenous laws nations oppressing parliament passing people resigns",
@@ -3603,6 +3602,7 @@
   "alaska hopeful hundreds jobs mary missed multiple peltola racked senate serving stops taxpayer votes",
   "actress bunny dead gilmore girls land levine",
   "acres declares emergency fire governor grows hawk nevada state",
-  "attack drone governor online orenburg ozon region retailer russian warehouse"
+  "attack drone governor online orenburg ozon region retailer russian warehouse",
+  "brave cleveland crash killed officers paid police tributes"
  ]
 }
