@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMinAFBVV95cUxQWnI3NC10dlVRTXVlQ1AxU095WTVmdGU5d3hSNm1BenBTWlFESC1qdHlFZlFPMnVEdFFwdy0xUFUzZHV4WlBDVkpGSGJLbnh2NUhYQjRTYzZOR3diWGprd3lHTEkxVXhiX0NoOW9BMHpGcEVKRDktbjZuS0p3ZG5SYWl0M0I2eEFlSkhnVS1hSGk4MjdWeWxVTjB0bV8",
   "CBMioAFBVV95cUxNZS1vOGdEXzFqSE9VdHZkblc0dlV0Qi05YjRrZER5eGFhT21neW1iTWNWSHgtOExPem1zQnBDVmtrS3JoaWMwM1laQ1lPWDJleU9IbmtUVE1oaVJzcHM5b3F3N1FTdGk0aUVLZ3ZuVlQ2R0g0WmRTS3VDRE9Edk95Y1htNlNvMHZadUlORHVIcGMyVlVBcFRpbUxaamNFQW5H",
   "https://nypost.com/?post_type=article&p=40348650",
   "https://nypost.com/?post_type=article&p=40348919",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6045413",
   "CBMipgFBVV95cUxPRWN0bmZIYnRUUUFldVlQcEoyQWlfZHRJY2R6blF2bHZpUThtU09xREVvSlFvTGxzb2dHcjlrMnVzbmNGMS1nLVRGRHJMekYyN3lzUVZFYzRxWmR6bmlFOHV0bHpfVnRFOVJKQ0l3TkVMREp1UUZpRWU5RC1YWWNRSlVKWVdUeWhFZzA1NFFCWUI2dE1QOUtSTWR3VkZyVWFGRUdjaTNB",
   "https://nypost.com/?post_type=article&p=40466101",
-  "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea"
+  "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
+  "CBMiowFBVV95cUxQRDctZkxzeE9KWnlEX0UxVWZVNlJ0M0NLb2xaMjRpS2hYbkEwNERuVDdzU2dsMG16enZlZENMR0hsZVFJdHM1dThGb0Znc2x2LWlhRm5YQXdxdUxkVDdLMFFYMTlmcDJjX2wyZTdUSmVSUDhrdnhpTTFQZC0xOXlxcjJiMl9xbWU1WnlQY0FLcUVXYTRSekV6cGtEQkhLcThBRXpv"
  ],
  "posts": [
-  {
-   "fp": "democratic florida gilbert house open primary seat wilson wins",
-   "title": "Gilbert wins Democratic primary for open Wilson House seat in Florida",
-   "source": "The Hill",
-   "at": "2026-08-19T01:12:36.665969+00:00"
-  },
   {
    "fp": "ally dunn florida house open primary scott seat wins",
    "title": "Scott ally wins GOP primary for open Dunn House seat in Florida",
@@ -3201,10 +3195,15 @@
    "title": "The \u2018ordinary\u2019 woman accused of assassinating a Russian commander in Crimea",
    "source": "Guardian World",
    "at": "2026-08-23T04:19:17.182808+00:00"
+  },
+  {
+   "fp": "attack bank christian last settler under village west",
+   "title": "The West Bank\u2019s last Christian village under settler attack",
+   "source": "Telegraph",
+   "at": "2026-08-23T05:58:47.031343+00:00"
   }
  ],
  "titles": [
-  "democratic florida gilbert house open primary seat wilson wins",
   "ally dunn florida house open primary scott seat wins",
   "angie clinches democratic florida nixon primary race senate socialist surprise",
   "antisemitism bilzerian defeats fine marked primary randy",
@@ -3603,6 +3602,7 @@
   "asks canada collins consider house impact negative trade white",
   "bond disappoints rebound slide stocks walmart yields",
   "brooklyn fires maniac miraculously shooting street survived wildly",
-  "accused assassinating commander crimea ordinary russian woman"
+  "accused assassinating commander crimea ordinary russian woman",
+  "attack bank christian last settler under village west"
  ]
 }
