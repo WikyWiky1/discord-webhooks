@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40350812",
   "https://www.washingtonexaminer.com/?p=4688435",
   "https://thehill.com/?p=6030992",
   "https://thehill.com/?p=6030840",
@@ -799,15 +798,10 @@
   "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
   "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
   "https://www.theguardian.com/us-news/2026/aug/23/trump-sowing-election-distrust",
-  "CBMiyAFBVV95cUxNZEJfVzdZd1FzS096TGhjb19XSF9hYnJfazRCOF8zeF9qMkJMOW5Bbm1ZSEwycjJiT1hXci05RFViS1haSDRObmdTb2dvdDVzZjY3SlNnQV80bjhrNEcyOVI5azhybnFpVlVrUmpDQTB4UHNrWURkdXQ3dklqZ2Vucm5ob3RiVTNSRGpqTVRxX0Z1R0gtTTJVb1BYYk8yajNBMFZ2N2FWOHdhYXYycFlsSHpuZzdnOEpPOVN3ckU1SWljVEp1bXdHSQ"
+  "CBMiyAFBVV95cUxNZEJfVzdZd1FzS096TGhjb19XSF9hYnJfazRCOF8zeF9qMkJMOW5Bbm1ZSEwycjJiT1hXci05RFViS1haSDRObmdTb2dvdDVzZjY3SlNnQV80bjhrNEcyOVI5azhybnFpVlVrUmpDQTB4UHNrWURkdXQ3dklqZ2Vucm5ob3RiVTNSRGpqTVRxX0Z1R0gtTTJVb1BYYk8yajNBMFZ2N2FWOHdhYXYycFlsSHpuZzdnOEpPOVN3ckU1SWljVEp1bXdHSQ",
+  "https://www.theguardian.com/uk-news/2026/aug/23/manuscript-fragments-discovery-medieval-guernsey"
  ],
  "posts": [
-  {
-   "fp": "donalds election field florida historic joins progressive scores takeaways upset victory",
-   "title": "Election takeaways: Donalds joins historic field and progressive scores upset victory in Florida",
-   "source": "AP",
-   "at": "2026-08-19T03:45:49.797941+00:00"
-  },
   {
    "fp": "falls losses nikkei street tracking wall",
    "title": "Nikkei Falls 2.7%, Tracking Wall Street\u2019s Losses",
@@ -3201,10 +3195,15 @@
    "title": "Hungary Paks nuclear plant could operate at full capacity by Wednesday, PM Magyar says",
    "source": "Reuters",
    "at": "2026-08-23T10:16:11.932242+00:00"
+  },
+  {
+   "fp": "fragments guernsey hiding life light literary manuscript medieval plain shed sight",
+   "title": "Manuscript fragments hiding in plain sight shed light on medieval Guernsey\u2019s literary life",
+   "source": "Guardian World",
+   "at": "2026-08-23T11:25:37.475103+00:00"
   }
  ],
  "titles": [
-  "donalds election field florida historic joins progressive scores takeaways upset victory",
   "falls losses nikkei street tracking wall",
   "head home killed outside shot single year",
   "address crash killed police politician teenager vietnam",
@@ -3603,6 +3602,7 @@
   "agent attorney body federal memphis shooting shows unjustified",
   "attack blamed cyber down hackers iran linked plant power shut",
   "distrust election emergency groundwork impose laying national sowing trump",
-  "capacity full hungary magyar nuclear operate paks plant wednesday"
+  "capacity full hungary magyar nuclear operate paks plant wednesday",
+  "fragments guernsey hiding life light literary manuscript medieval plain shed sight"
  ]
 }
