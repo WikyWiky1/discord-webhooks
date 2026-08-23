@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40348919",
   "CBMisAFBVV95cUxNT2tUV0pUa2lOMy0yZ1N5NzRhR0IzWmV5S1k2X1drUjRoNU13NWloWm5kbUFnLTBoYUQ1VG1oTEtxeHJ5Rm1uV2ZvLXgzUHU1N1dWeV84UXVPYVJKTDF0dkN0Z01IRlZNa2ZnOERLSEoyNXNwOEhJSjl6aWFBb2JpdEMxX2hHa3lKMXk3UnNkY3lOUGRXd3JFcE9FaVRBQ3EzYTBJYmhlUl9tdTZLamhVdg",
   "https://nypost.com/?post_type=article&p=40349713",
   "https://nypost.com/?post_type=article&p=40349190",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
   "CBMiowFBVV95cUxQRDctZkxzeE9KWnlEX0UxVWZVNlJ0M0NLb2xaMjRpS2hYbkEwNERuVDdzU2dsMG16enZlZENMR0hsZVFJdHM1dThGb0Znc2x2LWlhRm5YQXdxdUxkVDdLMFFYMTlmcDJjX2wyZTdUSmVSUDhrdnhpTTFQZC0xOXlxcjJiMl9xbWU1WnlQY0FLcUVXYTRSekV6cGtEQkhLcThBRXpv",
   "https://nypost.com/?post_type=article&p=40470419",
-  "https://pagesix.com/?post_type=article&p=9128674"
+  "https://pagesix.com/?post_type=article&p=9128674",
+  "https://nypost.com/?post_type=article&p=40470674"
  ],
  "posts": [
-  {
-   "fp": "antisemitism bilzerian defeats fine marked primary randy",
-   "title": "Randy Fine defeats Dan Bilzerian in primary marked by antisemitism",
-   "source": "Washington Examiner",
-   "at": "2026-08-19T01:12:42.475230+00:00"
-  },
   {
    "fp": "california confront courtroom grieving killed meta outside parents",
    "title": "Grieving parents confront Meta outside California courtroom: \u2018My son was killed\u2019",
@@ -3201,10 +3195,15 @@
    "title": "Bunny Levine,\u2018Gilmore Girls\u2019 and \u2018La La Land\u2019 actress, dead at 97",
    "source": "New York Post",
    "at": "2026-08-23T06:44:48.251615+00:00"
+  },
+  {
+   "fp": "acres declares emergency fire governor grows hawk nevada state",
+   "title": "Nevada governor declares state of emergency as Hawk Fire grows to over 10,500 acres",
+   "source": "New York Post",
+   "at": "2026-08-23T07:27:32.314024+00:00"
   }
  ],
  "titles": [
-  "antisemitism bilzerian defeats fine marked primary randy",
   "california confront courtroom grieving killed meta outside parents",
   "congo deaths ebola fatal government history nation outbreak rapid",
   "1979 academic crisis detention hell hostage iranian link writes",
@@ -3603,6 +3602,7 @@
   "accused assassinating commander crimea ordinary russian woman",
   "attack bank christian last settler under village west",
   "alaska hopeful hundreds jobs mary missed multiple peltola racked senate serving stops taxpayer votes",
-  "actress bunny dead gilmore girls land levine"
+  "actress bunny dead gilmore girls land levine",
+  "acres declares emergency fire governor grows hawk nevada state"
  ]
 }
