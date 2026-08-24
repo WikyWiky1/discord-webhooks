@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
   "CBMikwFBVV95cUxOU015Y3pjUWRIci0wcE4zOVMtXzdFSWpiZkZFNGFqRVpCMHlkUGF5NjZfV2V2ejRZUVJvVDFZR0Fld0VienFaTVB2cG05ZzNQNnZ3bkFpYzdYczZmZEx2WTNzb0QxaWE4ZzJibE5DcjN5YUU3SFNxZzNKVTk0aEJ2UlRRSDB6R1haZ25IMFktQzNKYnc",
   "https://nypost.com/?post_type=article&p=40364310",
   "https://thehill.com/?p=6032232",
@@ -799,15 +798,10 @@
   "CBMilwFBVV95cUxQSC0tOFk5TW5xR3poaFFxWDVvUjlfLTBaM2xEVFZtMmFZaDhTOHZ6ZC1XdEwxcTRTSi1XT3Z3NjJMbHBkSlk2Y0RVVVMtNVdnbFU1N0hxT28zZURaTmx1RWdVQmNVUGpNd2VUSEcyWlFpaHMwZHlnRlF4M2FXRWZmZ1Jla1hwQzJTaW5qQlpFdU1YMks0V3BB",
   "https://nypost.com/?post_type=article&p=40487523",
   "https://nypost.com/?post_type=article&p=40489912",
-  "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo"
+  "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+  "https://nypost.com/?post_type=article&p=40492194"
  ],
  "posts": [
-  {
-   "fp": "call discouraging earnings heard seldom target word",
-   "title": "Target\u2019s Earnings Call: Seldom Is Heard a Discouraging Word",
-   "source": "WSJ",
-   "at": "2026-08-20T15:33:14.589349+00:00"
-  },
   {
    "fp": "been congo doses ebola effective ervebo outbreaks past receive vaccine",
    "title": "Congo to receive 70,000 doses of Ervebo Ebola vaccine which has been effective in past outbreaks",
@@ -3201,10 +3195,15 @@
    "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
    "source": "NPR News",
    "at": "2026-08-24T23:16:36.951145+00:00"
+  },
+  {
+   "fp": "carcassonne damages dozens france homes injures near tornado",
+   "title": "Tornado near Carcassonne in France injures dozens and damages homes",
+   "source": "New York Post",
+   "at": "2026-08-24T23:56:42.312536+00:00"
   }
  ],
  "titles": [
-  "call discouraging earnings heard seldom target word",
   "been congo doses ebola effective ervebo outbreaks past receive vaccine",
   "america back beautiful city dead",
   "asia collapse evergrande founder giant life once prison property richest sentenced",
@@ -3603,6 +3602,7 @@
   "dead drop ford motor opinion trump",
   "city critically explosion firefighter hurt martha mayor site vineyard whizzes worker",
   "canoga critically injured park pregnant shooting woman",
-  "bahrain evacuated families limbo months navy remain"
+  "bahrain evacuated families limbo months navy remain",
+  "carcassonne damages dozens france homes injures near tornado"
  ]
 }
