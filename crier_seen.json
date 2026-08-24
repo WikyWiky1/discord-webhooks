@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ",
   "CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA",
   "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
   "https://www.bbc.co.uk/news/articles/cgjee21eenvo#1",
@@ -799,15 +798,10 @@
   "CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E",
   "CBMiogFBVV95cUxOcFhJQnlfZnhZbTFOdm9YMFhZRnQwNWRSSU1xSFlLZGR0NGpIcldaYVQzTGdfbm9XQkQwR1F1Wng1Slk5aDExRVFBRHNKUEdrZGlmZGJ5NzRocXFZQ3NQY1VsWEFVa0JBWnYwMUtIWWZzMGZ2NlVkQlh2OWNZUnJLaFRIYjRfcUpSMzliQ0VqeTFBWUhDSEpFdlNpbWQzcG81UWc",
   "https://nypost.com/?post_type=article&p=40478140",
-  "https://www.bbc.co.uk/news/articles/c87n792dnlno#0"
+  "https://www.bbc.co.uk/news/articles/c87n792dnlno#0",
+  "https://nypost.com/?post_type=article&p=40478705"
  ],
  "posts": [
-  {
-   "fp": "bright dead football high killing school senseless shot star",
-   "title": "Bright high school football star, 19, \u2018shot dead for his hat\u2019 in \u2018senseless\u2019 killing",
-   "source": "New York Post",
-   "at": "2026-08-19T19:05:14.644539+00:00"
-  },
   {
    "fp": "korea north nuclear powerful trump very warns weapons",
    "title": "Trump warns North Korea has '57 very powerful nuclear weapons'",
@@ -3201,10 +3195,15 @@
    "title": "Australian shark attack victim grateful for 'second chance at life'",
    "source": "BBC World",
    "at": "2026-08-24T02:19:19.972321+00:00"
+  },
+  {
+   "fp": "beneath collapses garbage killed least massive pile trapping victims waste",
+   "title": "At least 30 killed after massive waste pile collapses, trapping victims beneath garbage",
+   "source": "New York Post",
+   "at": "2026-08-24T03:27:26.298203+00:00"
   }
  ],
  "titles": [
-  "bright dead football high killing school senseless shot star",
   "korea north nuclear powerful trump very warns weapons",
   "calls emergency glitch hours nearly silenced system",
   "cancer college emergency face half move rare remove student surgery unable",
@@ -3603,6 +3602,7 @@
   "ahead announcement falls iran sanctions",
   "dead five home homicide multiple oregon rural suspected",
   "dead deputy fatally grayson illinois massey prison sean shot sonya water",
-  "attack australian chance grateful life second shark victim"
+  "attack australian chance grateful life second shark victim",
+  "beneath collapses garbage killed least massive pile trapping victims waste"
  ]
 }
