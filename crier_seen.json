@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40366411",
   "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
   "CBMikwFBVV95cUxOU015Y3pjUWRIci0wcE4zOVMtXzdFSWpiZkZFNGFqRVpCMHlkUGF5NjZfV2V2ejRZUVJvVDFZR0Fld0VienFaTVB2cG05ZzNQNnZ3bkFpYzdYczZmZEx2WTNzb0QxaWE4ZzJibE5DcjN5YUU3SFNxZzNKVTk0aEJ2UlRRSDB6R1haZ25IMFktQzNKYnc",
   "https://nypost.com/?post_type=article&p=40364310",
@@ -799,15 +798,10 @@
   "CBMipAFBVV95cUxQamItZlRKUTR0azhhN2RjbktNQ2RLT25nQ1ByMTNZUWxCdkpCbXpRQXZqd3lJdTVCaE12NFNLZE5xd0I0dTB1NE9tQ05vSXRuUHBXUnZBTS1zNkhvYkozcFV3Yk1TcDZzRnktMHN2VFdvZUVUQkxZcVVzMzVmQmxNVlVUZi02dTR2OV83Wlc1VEpvc2NXdXZfWWdhRWd6ZlhVbHE1UA",
   "CBMilwFBVV95cUxQSC0tOFk5TW5xR3poaFFxWDVvUjlfLTBaM2xEVFZtMmFZaDhTOHZ6ZC1XdEwxcTRTSi1XT3Z3NjJMbHBkSlk2Y0RVVVMtNVdnbFU1N0hxT28zZURaTmx1RWdVQmNVUGpNd2VUSEcyWlFpaHMwZHlnRlF4M2FXRWZmZ1Jla1hwQzJTaW5qQlpFdU1YMks0V3BB",
   "https://nypost.com/?post_type=article&p=40487523",
-  "https://nypost.com/?post_type=article&p=40489912"
+  "https://nypost.com/?post_type=article&p=40489912",
+  "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo"
  ],
  "posts": [
-  {
-   "fp": "disappointing earnings lower move retail stocks",
-   "title": "Stocks Move Lower Amid Disappointing Retail Earnings",
-   "source": "WSJ",
-   "at": "2026-08-20T15:33:12.951071+00:00"
-  },
   {
    "fp": "call discouraging earnings heard seldom target word",
    "title": "Target\u2019s Earnings Call: Seldom Is Heard a Discouraging Word",
@@ -3201,10 +3195,15 @@
    "title": "Pregnant woman critically injured in Canoga Park shooting",
    "source": "New York Post",
    "at": "2026-08-24T22:48:07.424818+00:00"
+  },
+  {
+   "fp": "bahrain evacuated families limbo months navy remain",
+   "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
+   "source": "NPR News",
+   "at": "2026-08-24T23:16:36.951145+00:00"
   }
  ],
  "titles": [
-  "disappointing earnings lower move retail stocks",
   "call discouraging earnings heard seldom target word",
   "been congo doses ebola effective ervebo outbreaks past receive vaccine",
   "america back beautiful city dead",
@@ -3603,6 +3602,7 @@
   "campaign carolina darline graham norman primary ralph senate south whirlwind wrap",
   "dead drop ford motor opinion trump",
   "city critically explosion firefighter hurt martha mayor site vineyard whizzes worker",
-  "canoga critically injured park pregnant shooting woman"
+  "canoga critically injured park pregnant shooting woman",
+  "bahrain evacuated families limbo months navy remain"
  ]
 }
