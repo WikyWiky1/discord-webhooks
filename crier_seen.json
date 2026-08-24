@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMirAFBVV95cUxOeHp6X2JJbW1iWGZ6RHVsUWZ1MGRIeHczMjJNSy1mMWdXYThLb0t4WTlmek1zcWxUZHVmVE9IY0FWS3Zja3ltS1VRMkZKMDRyWVJFdkVMZ2R2cDhEdXJOak5UdG1SMVRILWhCWl93YkNyM0NQekYwem5wSTJDSTdCbXlLT2paRHdLMDZScVN0UWQ1SzlzY3JXZGctcTFyeGVDbTktdlJkTGJ6aEZv",
   "CBMikwFBVV95cUxQTFNQTndtR3NlQmdYOUtfUF9EMTJPWmVkNzg0Mzd3RU1iRWxKSzhwNVoxYUFvdlFBY0JLdUdWczUxbDlubVhwMGY4NnpEbVVUWHA0dGV4a0ZDb0JwN2xtS0NYQ2dFS1plek5DU0w0ZGtSY3BQOVN5N0JfZnZFUXkzY3hVWEhhaGVIY0VWWjlhN09rWm8",
   "https://nypost.com/?post_type=article&p=40366016",
   "https://nypost.com/?post_type=article&p=40366411",
@@ -799,15 +798,10 @@
   "https://www.washingtonexaminer.com/?p=4698689",
   "https://thehill.com/?p=6047644",
   "CBMitgFBVV95cUxPN1FCbF8tMGp1Nm9sTWNVRlZ6UzhuRmxPTmZSZ2MtMFdFLXpMY1JyZHY5cjcweXlYVlpPWk5BUkRoTFk1em1pRllfd2tiRHZVbUk3ektpSXJWTnVfYW8zdjVhNDVKNDlDVHNzbE40aF9pdTZjOC1EdmVKMkVEVUhlRXpHY3FOa1VRSXEwSkdtS1BlQnRmb1JpNWNmX2htTTJBd3I2YmZXdDY4YjRhVjVrTnUwbTRaUQ",
-  "CBMipAFBVV95cUxQamItZlRKUTR0azhhN2RjbktNQ2RLT25nQ1ByMTNZUWxCdkpCbXpRQXZqd3lJdTVCaE12NFNLZE5xd0I0dTB1NE9tQ05vSXRuUHBXUnZBTS1zNkhvYkozcFV3Yk1TcDZzRnktMHN2VFdvZUVUQkxZcVVzMzVmQmxNVlVUZi02dTR2OV83Wlc1VEpvc2NXdXZfWWdhRWd6ZlhVbHE1UA"
+  "CBMipAFBVV95cUxQamItZlRKUTR0azhhN2RjbktNQ2RLT25nQ1ByMTNZUWxCdkpCbXpRQXZqd3lJdTVCaE12NFNLZE5xd0I0dTB1NE9tQ05vSXRuUHBXUnZBTS1zNkhvYkozcFV3Yk1TcDZzRnktMHN2VFdvZUVUQkxZcVVzMzVmQmxNVlVUZi02dTR2OV83Wlc1VEpvc2NXdXZfWWdhRWd6ZlhVbHE1UA",
+  "CBMilwFBVV95cUxQSC0tOFk5TW5xR3poaFFxWDVvUjlfLTBaM2xEVFZtMmFZaDhTOHZ6ZC1XdEwxcTRTSi1XT3Z3NjJMbHBkSlk2Y0RVVVMtNVdnbFU1N0hxT28zZURaTmx1RWdVQmNVUGpNd2VUSEcyWlFpaHMwZHlnRlF4M2FXRWZmZ1Jla1hwQzJTaW5qQlpFdU1YMks0V3BB"
  ],
  "posts": [
-  {
-   "fp": "control election expected hold kazakhstan president snap tighten",
-   "title": "Kazakhstan to hold snap election expected to tighten president's control",
-   "source": "Reuters World",
-   "at": "2026-08-20T15:33:07.796106+00:00"
-  },
   {
    "fp": "backs cortez markey massachusetts ocasio primary senate",
    "title": "Ocasio-Cortez backs Markey in Massachusetts Senate primary",
@@ -3201,10 +3195,15 @@
    "title": "Darline Graham, Ralph Norman wrap up a whirlwind South Carolina Senate primary campaign",
    "source": "AP",
    "at": "2026-08-24T21:28:41.176755+00:00"
+  },
+  {
+   "fp": "dead drop ford motor opinion trump",
+   "title": "Opinion | Trump to Ford Motor: Drop Dead",
+   "source": "WSJ",
+   "at": "2026-08-24T21:45:36.025877+00:00"
   }
  ],
  "titles": [
-  "control election expected hold kazakhstan president snap tighten",
   "backs cortez markey massachusetts ocasio primary senate",
   "angie candidate florida nixon primary pulled senate upset",
   "disappointing earnings lower move retail stocks",
@@ -3603,6 +3602,7 @@
   "asphyxiation bessent economic goal iran sanctions",
   "american businesses idiotic killing raskin trade trump",
   "announces bessent dollar edge higher iran sanctions",
-  "campaign carolina darline graham norman primary ralph senate south whirlwind wrap"
+  "campaign carolina darline graham norman primary ralph senate south whirlwind wrap",
+  "dead drop ford motor opinion trump"
  ]
 }
