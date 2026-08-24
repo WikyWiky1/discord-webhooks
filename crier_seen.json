@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#0",
-  "https://nypost.com/?post_type=article&p=40364881",
-  "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
   "https://thehill.com/?p=6031907",
   "https://www.theguardian.com/us-news/2026/aug/16/virginia-state-university-shooting-suspect-arrested",
   "CBMipAFBVV95cUxQMzNiYlNyRktPbF9KUmUwSzVTSzhUdXlqbFRDX3VUUWZyMHJOaE5yYkpLcDNudjZjMjZPdGFITUJHS2o2cldYRHhMdWtyX3pVSDFKR3F1UmJZTWoyS2NXeUpIT2Y1eUk1UndXRXlQTjhmcnZ1SXRYRkhEQ2dBaENTVG41RWhfbmIydHN1WVB2ZW45Q1FMLXpuREVTMXVVeXA0MHRFQg",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40481974",
   "https://thehill.com/?p=6046947",
   "CBMimAFBVV95cUxQb2E5WkZBS3F0am16QWJBTE5WbW1HclZNUU92OTFPVlFVemJCb2Uzb1pueERYOVZRdFVtYUJJbjlMM3RmSkJ5RTBza0hvVzNsb2w5NjFRSk5YUUVfOVN5ZVl4dEs1MDB2SzBBdlN2eHg5RXBaeVEwOVVxSW13djlLU0FYZkVnWjBPd1hyN09tRks3TFY3MmlpRQ",
-  "CBMirwFBVV95cUxQTFdEeXpxc2ZXYTlsR2ZlR285QVJ0Z1BrNmdDMjViZWtjWi1rVGhJTm1WR0xyZkNTZS1qWW1fYTNjR2RmRk9lTEF6RU1pdHNyeV8xeHQ3MW1yNk9iVm5ud2tJTzcta0NGM0QxcW1TMWMwYVBoMHhzT05DQUw2RjBkVXYyYmNPTDh5LW5SaWRrd3N6OWNoWldTWTNveWNXUDd5OFo2U3pYVkhiRWJIekFZ"
+  "CBMirwFBVV95cUxQTFdEeXpxc2ZXYTlsR2ZlR285QVJ0Z1BrNmdDMjViZWtjWi1rVGhJTm1WR0xyZkNTZS1qWW1fYTNjR2RmRk9lTEF6RU1pdHNyeV8xeHQ3MW1yNk9iVm5ud2tJTzcta0NGM0QxcW1TMWMwYVBoMHhzT05DQUw2RjBkVXYyYmNPTDh5LW5SaWRrd3N6OWNoWldTWTNveWNXUDd5OFo2U3pYVkhiRWJIekFZ",
+  "CBMihwFBVV95cUxPWmFMTWl5dTdmOEMyT2cwVFpyeWVZcnJoSFZPajVZTDg0anhUTElRZTVUNWRRUTZfTUgzQlpGTGZRdU9RaExzWjlpbm8yWDdIMThvVjZoU21zWlB5dEh0MC1keEd3OFM5YUxGWjVOYWFyb0ZkajFwVEt1MnhpaVBKQUdqWHhJeDQ",
+  "https://thehill.com/?p=6047179",
+  "CBMikwFBVV95cUxOaWd5YXFhUDQ2dy1iNGUyTzlON2hGbjBLV2RSTGRuX3ZqamdhVXJTaUZONmM2NC1fYUxGMng1SUVpY3haNEVLRTRiWW8xbDZKRWdjUHdtazZnakVhaVNmNXBTUlFMRkVSdDdDaF9MQjM0Vkl3aE9aRW5TOXRpR3E2c0dRSVpMQS1Oc1FnbVM3MkFwQlk"
  ],
  "posts": [
-  {
-   "fp": "americans chief crash ecuador five helicopter intelligence kenya killed",
-   "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-   "source": "BBC World",
-   "at": "2026-08-20T10:49:22.304386+00:00"
-  },
-  {
-   "fp": "killed minister opposition raid security zambian",
-   "title": "Ex-Zambian minister killed in security raid on opposition",
-   "source": "BBC World",
-   "at": "2026-08-20T10:49:24.384530+00:00"
-  },
-  {
-   "fp": "alive australian dead family found hiker hooper lily mistakenly search told",
-   "title": "Australian hiker Lily Hooper, 18, found dead after family mistakenly told she was alive during 8-day search",
-   "source": "New York Post",
-   "at": "2026-08-20T11:19:52.150332+00:00"
-  },
   {
    "fp": "attack firebomb supercars torched wedding",
    "title": "Supercars torched in wedding \u2018firebomb attack\u2019",
@@ -3201,12 +3183,27 @@
    "title": "Indonesia intensifies aerial firefighting as wildfire haze spreads to Malaysia",
    "source": "AP",
    "at": "2026-08-24T17:24:27.241321+00:00"
+  },
+  {
+   "fp": "attack every lost mother remembers second shark",
+   "title": "Mother who lost arm in shark attack says she remembers every second",
+   "source": "Telegraph",
+   "at": "2026-08-24T18:01:26.947377+00:00"
+  },
+  {
+   "fp": "canada carney collapse demands leader opposition parliament reconvene talks trade",
+   "title": "Canada's opposition leader demands Carney reconvene parliament after US trade talks collapse",
+   "source": "The Hill",
+   "at": "2026-08-24T18:01:28.883594+00:00"
+  },
+  {
+   "fp": "convictions joyriders killed officers prior",
+   "title": "Joyriders who killed two officers had 37 prior convictions",
+   "source": "Telegraph",
+   "at": "2026-08-24T18:01:30.617763+00:00"
   }
  ],
  "titles": [
-  "americans chief crash ecuador five helicopter intelligence kenya killed",
-  "killed minister opposition raid security zambian",
-  "alive australian dead family found hiker hooper lily mistakenly search told",
   "attack firebomb supercars torched wedding",
   "detention failed here immigrants problems report system",
   "attack brutal jailed pictured sticking strangle thug tongue woman",
@@ -3603,6 +3600,9 @@
   "crash discovery drag horrific killed known ohio racer star track well",
   "again articles files green impeachment trump",
   "fast firefighters homes moving nevada reno spreading stop trying wildfire",
-  "aerial firefighting haze indonesia intensifies malaysia spreads wildfire"
+  "aerial firefighting haze indonesia intensifies malaysia spreads wildfire",
+  "attack every lost mother remembers second shark",
+  "canada carney collapse demands leader opposition parliament reconvene talks trade",
+  "convictions joyriders killed officers prior"
  ]
 }
