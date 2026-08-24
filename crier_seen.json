@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/australia-news/2026/aug/17/australia-health-fears-us-vaccine-scepticism-trump-hepatitis-b-measles-mumps-rubella",
   "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#0",
   "https://nypost.com/?post_type=article&p=40364881",
   "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
@@ -799,15 +798,10 @@
   "https://pagesix.com/?post_type=article&p=9129870",
   "https://nypost.com/?post_type=article&p=40481974",
   "https://thehill.com/?p=6046947",
-  "CBMimAFBVV95cUxQb2E5WkZBS3F0am16QWJBTE5WbW1HclZNUU92OTFPVlFVemJCb2Uzb1pueERYOVZRdFVtYUJJbjlMM3RmSkJ5RTBza0hvVzNsb2w5NjFRSk5YUUVfOVN5ZVl4dEs1MDB2SzBBdlN2eHg5RXBaeVEwOVVxSW13djlLU0FYZkVnWjBPd1hyN09tRks3TFY3MmlpRQ"
+  "CBMimAFBVV95cUxQb2E5WkZBS3F0am16QWJBTE5WbW1HclZNUU92OTFPVlFVemJCb2Uzb1pueERYOVZRdFVtYUJJbjlMM3RmSkJ5RTBza0hvVzNsb2w5NjFRSk5YUUVfOVN5ZVl4dEs1MDB2SzBBdlN2eHg5RXBaeVEwOVVxSW13djlLU0FYZkVnWjBPd1hyN09tRks3TFY3MmlpRQ",
+  "CBMirwFBVV95cUxQTFdEeXpxc2ZXYTlsR2ZlR285QVJ0Z1BrNmdDMjViZWtjWi1rVGhJTm1WR0xyZkNTZS1qWW1fYTNjR2RmRk9lTEF6RU1pdHNyeV8xeHQ3MW1yNk9iVm5ud2tJTzcta0NGM0QxcW1TMWMwYVBoMHhzT05DQUw2RjBkVXYyYmNPTDh5LW5SaWRrd3N6OWNoWldTWTNveWNXUDd5OFo2U3pYVkhiRWJIekFZ"
  ],
  "posts": [
-  {
-   "fp": "action best case climate europe even finds increase scenario study wildfires without",
-   "title": "Without action wildfires in Europe will increase 39% even in best-case climate scenario, study finds",
-   "source": "Guardian World",
-   "at": "2026-08-20T10:03:39.184530+00:00"
-  },
   {
    "fp": "americans chief crash ecuador five helicopter intelligence kenya killed",
    "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
@@ -3201,10 +3195,15 @@
    "title": "Firefighters are trying to stop a fast-moving Nevada wildfire from spreading to homes in Reno",
    "source": "AP",
    "at": "2026-08-24T16:42:19.020963+00:00"
+  },
+  {
+   "fp": "aerial firefighting haze indonesia intensifies malaysia spreads wildfire",
+   "title": "Indonesia intensifies aerial firefighting as wildfire haze spreads to Malaysia",
+   "source": "AP",
+   "at": "2026-08-24T17:24:27.241321+00:00"
   }
  ],
  "titles": [
-  "action best case climate europe even finds increase scenario study wildfires without",
   "americans chief crash ecuador five helicopter intelligence kenya killed",
   "killed minister opposition raid security zambian",
   "alive australian dead family found hiker hooper lily mistakenly search told",
@@ -3603,6 +3602,7 @@
   "ahead charity down embroiled harry human longtime move prince rights scandal steps violations",
   "crash discovery drag horrific killed known ohio racer star track well",
   "again articles files green impeachment trump",
-  "fast firefighters homes moving nevada reno spreading stop trying wildfire"
+  "fast firefighters homes moving nevada reno spreading stop trying wildfire",
+  "aerial firefighting haze indonesia intensifies malaysia spreads wildfire"
  ]
 }
