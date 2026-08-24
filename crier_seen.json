@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40326328",
-  "CBMiwAFBVV95cUxPbFpSQ0ZDcEtraDZ3WHhuZkNRU1RJSUpuQ0pTOVdLc0E0Sm5pVldVUkVXR0RfOUJtZHRONjVFbDVTLVp0akRxRG50a2poNzRaZWEtSmRfTmd1cTdoSkg3MXdScV9ESGJibndkNmlEUkVDeG0zMUp0aW9XVUctdEJfZjVCNjgtNmx1aVl4V1F3R2c5UGpWcDBZUF9Kd0hvY3Nxb0lHNEQ2OWxuV0dwdC1Ea0E3VUdld3hhR0paQXJlTEQ",
-  "CBMipwFBVV95cUxOOVozRlpuTURmbFhZTEprd083bUZ6X1d4aFpNSUZFNVlxc1RnQ3J5dHpfaTZvbEhldGZtQWQ5RkxHbWpianVFZGJJUjRPOWpiOW4ta1lodHdhY0FEUThZbm9LRWp6WllKb3BTQ2FodVRLN05FLXVxeWwzSWpsRFFib2RnY0xrVXhVNlBCeVF3MzNfMy1yZ3ZEYkx6RkQyeHFlWG1URXlhMA",
   "https://thehill.com/?p=6032064",
   "CBMiygFBVV95cUxOYlZVNEJsLXNacV9BYVpVZTA5LUhkMVJkdEYyOGdxQ0pDZDU0QlFPMkZzNXJKQVgyd3IzbXN0Y1pHSmUyanN4bW9PVElicVJHZlhfVDkxMFdfVUdHZEV4cDZZVW01emNlTHdEVm1TdTJ6QnBzNVRma1JLRDJ3eDd2Y1hwLURrSFMzZXBZNXpwM0NqVkNNUnoyVGNFSWJvR0t2ZnowTko3dHpacXMzem5BS0hCdU4zaHNwcEhvZ2lKb0NScFQ4WTFONXl3",
   "https://thehill.com/?p=6031939",
@@ -799,27 +796,12 @@
   "CBMilwFBVV95cUxQM1dReDZpZnhwWEQySC1XMWxPbjNmY2Zaa3pEbUJESmZHWkVJd21EelRubnpIY2d4Ulh0QTRRY05wQ1hGRkliWTdlbGVqSjlGMUFmRUgtZXY5ZnBXVVI3clJFcGZVQU5wclptaUlUTmdaNTJ5Q1p4bFB6V1hJVEtJZDRyZ1NmNjZRejdFNDNWQV9oMlhaRnNN",
   "https://www.foxnews.com/world/iran-tried-assassinate-netanyahu-son-prime-minister-says",
   "https://nypost.com/?post_type=article&p=40485932",
-  "CBMingFBVV95cUxQLVd0VXhHMlRJWHJwYjhiQ2xJZ3hOaDk4eVdEeThNMWY0RXlucm9jM1d3Q05ld0VLdHpZLXRqMmZTd05iTEM5TnhId2dzLThTUHhBWDdsNGMxM2kycWVObEJ4U2tBVlpQTDA4SEttYmRqUFFDYi10NnIyZmVuM29EVjY3WXFDSUQycnNnTmlLajJCZmtJMmpIOHEzNXpsQQ"
+  "CBMingFBVV95cUxQLVd0VXhHMlRJWHJwYjhiQ2xJZ3hOaDk4eVdEeThNMWY0RXlucm9jM1d3Q05ld0VLdHpZLXRqMmZTd05iTEM5TnhId2dzLThTUHhBWDdsNGMxM2kycWVObEJ4U2tBVlpQTDA4SEttYmRqUFFDYi10NnIyZmVuM29EVjY3WXFDSUQycnNnTmlLajJCZmtJMmpIOHEzNXpsQQ",
+  "https://nypost.com/?post_type=article&p=40482809",
+  "CBMiqAFBVV95cUxNcndkRXBGZVdHbXo5ajBPN3B4UUZPV05GWVV1UWxYVmtaX0JOeXJiN0I2ZzYxQS1TbjRWa1BITmtxa1RWQ1FFOEczbFFaYWdud3dqdkdwU1lTazd3ekZtNXIyWnEtT3pSaXJMakR6WHo5ZFFMakIyMVlBSnFYM2Q1aS1ySExGSmpQcnpDZlpZRTFwMFlyeDVvMDJveHliVDZZemVZZ3UwWlE",
+  "https://www.theguardian.com/us-news/2026/aug/24/food-poisoning-alfalfa-sprouts"
  ],
  "posts": [
-  {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-08-20T12:48:46.457165+00:00"
-  },
-  {
-   "fp": "continue crypto house meeting premarket stocks surge upbeat white",
-   "title": "Crypto Stocks Continue Surge Premarket After Upbeat White House Meeting",
-   "source": "WSJ",
-   "at": "2026-08-20T12:48:48.447383+00:00"
-  },
-  {
-   "fp": "bill california cash clan covid crack down families fraudster inspires senate swindled",
-   "title": "California clan that swindled $18M from COVID cash inspires Senate bill to crack down on \u2018fraudster families\u2019",
-   "source": "New York Post",
-   "at": "2026-08-20T12:48:50.250055+00:00"
-  },
   {
    "fp": "company earnings gains juice quarter second stakes",
    "title": "Gains in AI company stakes juice second-quarter earnings for S&P 500",
@@ -3201,12 +3183,27 @@
    "title": "Gang attack on hillside town near Haiti's capital leaves 30 dead",
    "source": "Reuters",
    "at": "2026-08-24T19:01:10.964724+00:00"
+  },
+  {
+   "fp": "another arizona arrested dead fianc home injured invasion large leaves still suspect",
+   "title": "Suspect arrested, another still at large after Arizona home invasion leaves one dead and fianc\u00e9e injured",
+   "source": "New York Post",
+   "at": "2026-08-24T19:46:59.109673+00:00"
+  },
+  {
+   "fp": "iran israel kill netanyahu sons tried",
+   "title": "Israel's Netanyahu says Iran tried to kill one of his sons",
+   "source": "Reuters",
+   "at": "2026-08-24T19:47:01.267856+00:00"
+  },
+  {
+   "fp": "alfalfa food linked officials outbreak poisoning sprouts states",
+   "title": "Alfalfa sprouts linked to food-poisoning outbreak in 15 states, US officials say",
+   "source": "Guardian World",
+   "at": "2026-08-24T19:47:03.132585+00:00"
   }
  ],
  "titles": [
-  "edition journal print street wall",
-  "continue crypto house meeting premarket stocks surge upbeat white",
-  "bill california cash clan covid crack down families fraudster inspires senate swindled",
   "company earnings gains juice quarter second stakes",
   "budget china film making millions terrible unbelievably",
   "affordability agenda congress democrats young",
@@ -3603,6 +3600,9 @@
   "ahead bonds drifts stocks street swing wall week",
   "assassinate iran minister netanyahu prime sons tried",
   "campus carmel diego high lockdown police school secure",
-  "attack capital dead gang haiti hillside leaves near town"
+  "attack capital dead gang haiti hillside leaves near town",
+  "another arizona arrested dead fianc home injured invasion large leaves still suspect",
+  "iran israel kill netanyahu sons tried",
+  "alfalfa food linked officials outbreak poisoning sprouts states"
  ]
 }
