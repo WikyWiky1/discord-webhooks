@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40362964",
   "https://nypost.com/?post_type=article&p=40362908",
   "CBMiswFBVV95cUxNWHBvM3gyYklmc2UxTkozSUxrUWhDUzVhdzNLRmwtVTk1VUFCTU5qLVZiZ2RqbzlkWjU3c1VOOWdISHc3cjVkV0oxTVNkYUE4UEVvdG1OSzV5VTVXTFJFaWZlWmN1U2pFSU02elcxeWlISl9lWER4RExQVUhseFNCYjFXNENjUEgyem9fZUtEQmpwM19lbHVxSGV1MDJmeTNEbExJODRRNndZTXhRcEVxaXpZMA",
   "CBMimAFBVV95cUxNZnc4dGFfV0hySjFiVzlBX3lneTF3ZlN3MFNBS1FObnNvVEtITFVFVFc2RXpuM2MxeXF5MG1FVjBzRkFCNnFhWnBlWkhnZVM0U1NhdTNNZUtrUTZfOVY1OWdaUGdoYk9Lc0FKb1ljQnVOZjRxNFRPN0xaXzRCRGg4YXRMaFJETUN4a0lyWllRRUE3TEV2R3d0aw",
@@ -799,15 +798,10 @@
   "CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg",
   "CBMipwFBVV95cUxPaW5Uei0tRXhxNWlPd3Y2XzlwZnJUeEZHODU5TUhSeDNzQ3FFYmRZbzVnMGRxaVFYT01IaXRXdDJTeUw0Q04yVkV0dnNMRmpCT0JhbW14djZHM1ViNmZ3ZWE4UFNBNndqVVJjYkJPaUthcmxzSUxqVjIzOXZOaVZVQkQ2N0V6NjFNczF1V1NwSW1rVlZfd0txV1hVSm5mNHM2OUkzSW15SQ",
   "CBMitAFBVV95cUxQRy1UV0V0SjJTWmFRM0VUNXc2WHkyNjZEU3VVU01nWkNDODRBcEd6eFhMZlZZQVM0Unh6bFZzOE5HSXJHV0NxN1hhVF9RMTBOWEJ6OUN1cjRmZTBEQWpmQjlyWlQ1ZDlFVXFHLVh2b1NrcXFqNXF1R09JR2JFbDJjdi1keUdVN1BHRzhwWmMtUlBfMlZnQkpnZDZLNndkWXhZZ3dNOGhJUFRfLTJUMXdxYzBReWY",
-  "CBMioAFBVV95cUxNRzFlRGlTVUtGOVc1TVV2TGQ4M3VicUJRbzBPV0VTY1hldnlvb000QWEtOXpVc2NnYlNJaVRnVDNhTjNqbTdkTDdXT0l2SXh5enNaRzZFVzRGVi1teUM0bUpDdzkyWTFNN1p4SHBNNVRxUVVzRGtfRnZ0amg0T2ZueVVtQTNSbV96Z0dBdjd0eHhJeWxrTE0zY1NfWWJzT2FG"
+  "CBMioAFBVV95cUxNRzFlRGlTVUtGOVc1TVV2TGQ4M3VicUJRbzBPV0VTY1hldnlvb000QWEtOXpVc2NnYlNJaVRnVDNhTjNqbTdkTDdXT0l2SXh5enNaRzZFVzRGVi1teUM0bUpDdzkyWTFNN1p4SHBNNVRxUVVzRGtfRnZ0amg0T2ZueVVtQTNSbV96Z0dBdjd0eHhJeWxrTE0zY1NfWWJzT2FG",
+  "https://thehill.com/?p=6044574"
  ],
  "posts": [
-  {
-   "fp": "accused artist attack beach beloved butchering california enters mall plea quiet shocked stunning teen town",
-   "title": "Teen accused of butchering beloved artist in mall attack that shocked quiet California beach town enters stunning plea",
-   "source": "New York Post",
-   "at": "2026-08-19T23:16:29.639481+00:00"
-  },
   {
    "fp": "california home landscaping passes rules toughest wildfire",
    "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
@@ -3201,10 +3195,15 @@
    "title": "European leaders join Zelenskyy in Kyiv for Ukraine\u2019s Independence Day as Russian invasion pushes on",
    "source": "AP",
    "at": "2026-08-24T10:20:06.548538+00:00"
+  },
+  {
+   "fp": "back expected measles outbreak record school season worsen",
+   "title": "Back-to-school season expected to worsen record measles outbreak",
+   "source": "The Hill",
+   "at": "2026-08-24T10:57:39.569902+00:00"
   }
  ],
  "titles": [
-  "accused artist attack beach beloved butchering california enters mall plea quiet shocked stunning teen town",
   "california home landscaping passes rules toughest wildfire",
   "ball crash devastated fire kills socal teens watches",
   "african central collapses dead goldmine republic",
@@ -3603,6 +3602,7 @@
   "announce currency hits iran prepares record rial sanctions",
   "behind children killed mother rallying superfans",
   "attack briefs chiefs cyber energy iran linked reports",
-  "european independence invasion join kyiv leaders pushes russian ukraine zelenskyy"
+  "european independence invasion join kyiv leaders pushes russian ukraine zelenskyy",
+  "back expected measles outbreak record school season worsen"
  ]
 }
