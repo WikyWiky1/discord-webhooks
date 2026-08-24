@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40361091",
-  "https://nypost.com/?post_type=article&p=40360239",
-  "https://thehill.com/?p=6031629",
   "https://nypost.com/?post_type=article&p=40362216",
   "CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk",
   "CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/education/2026/aug/24/most-english-secondary-schools-are-breaking-healthy-food-rules-finds-report",
   "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
   "https://nypost.com/?post_type=article&p=40479718",
-  "CBMiwAFBVV95cUxQNUdJZmtXbGswR3ZFWEt4YXhiQmV4czBoYktSbjRENXhiZ2xfb0EwdFdXdVZWTzFCSTJjM213VHNaem1rcWhCSjBUbFBiRkpXTHdzV0l1TG16aDdRRTAtQVUyVGdDSGJUenBJZ1Ytajh1ZjZBYjFOdDEyR0NFMG9vLUNjS2RzRnVwR19yU1hDLWxGNDU4WFFhQnB2VlRhcTRjSkJqMWwxbXhlR1NGaTk5NHlPMktQSGY3OGNUc09ZUlA"
+  "CBMiwAFBVV95cUxQNUdJZmtXbGswR3ZFWEt4YXhiQmV4czBoYktSbjRENXhiZ2xfb0EwdFdXdVZWTzFCSTJjM213VHNaem1rcWhCSjBUbFBiRkpXTHdzV0l1TG16aDdRRTAtQVUyVGdDSGJUenBJZ1Ytajh1ZjZBYjFOdDEyR0NFMG9vLUNjS2RzRnVwR19yU1hDLWxGNDU4WFFhQnB2VlRhcTRjSkJqMWwxbXhlR1NGaTk5NHlPMktQSGY3OGNUc09ZUlA",
+  "CBMiZ0FVX3lxTFB1eERhLWl4RktLUVF0TkZaRFI4V1UxdzNLQU1KMllWdG5pUGJ1UGs5M3FmU3ZLUkx5S0xtU3YxRXE2Q0hhY1BEYmt3NUxHYUdyd1BKdVlEWi1maV9GbWtDMHEyTm1EUlk",
+  "CBMikAFBVV95cUxQNVRjYzRGWEMwYUpxZTJRN0xlejVDWEZaaTJiSWNEMFlRNFdreUE2czZGNEVYR3Rna2dsYzFaZTNaWHF3SXBqYXdrcnc5bVdmQ2dyUy03TkVkVDcyaFJORkZQd3RJWExGNmJ0RkFwQzV2Y2NXMU1mV2drV3JMVEZIbmdsWUk3WVhxUW5uSXpDUXA",
+  "CBMiYkFVX3lxTE4tMkNacWRCeFJYWHM4bWRJMUhLdkhJYU1PUHdFTDQ3TFRUeGMtRjY5ZVNtQWo4ZzBuQnVZQ0VFUVN3azJtZ2xYbzNENmdrQjJiTlV0b2ZXc2ZvLUlRWDZyQlhn"
  ],
  "posts": [
-  {
-   "fp": "blood critical dangerously drives launches runs socal supply type urgent",
-   "title": "SoCal launches urgent blood drives as critical blood type supply runs dangerously low",
-   "source": "New York Post",
-   "at": "2026-08-19T21:18:49.486446+00:00"
-  },
-  {
-   "fp": "angie breaks expected florida nixon november primary republicans roll senate through upset",
-   "title": "DSA breaks through with Angie Nixon\u2019s Florida Senate primary upset, but Republicans expected to roll in November",
-   "source": "New York Post",
-   "at": "2026-08-19T21:24:27.825516+00:00"
-  },
-  {
-   "fp": "abandons aging mission nasa rescue space swift telescope",
-   "title": "NASA abandons mission to rescue aging Swift space telescope",
-   "source": "Washington Examiner",
-   "at": "2026-08-19T21:24:29.531115+00:00"
-  },
   {
    "fp": "condolences defeating florida hasan jared member moskowitz piker primary savagely sends victory",
    "title": "Jared Moskowitz savagely sends \u2018condolences\u2019 to Hasan Piker in victory lap after defeating DSA member in Florida primary",
@@ -3201,12 +3183,27 @@
    "title": "China evacuates tens of thousands as rain from Typhoon Narra lashes southwest",
    "source": "Reuters",
    "at": "2026-08-24T05:22:28.046340+00:00"
+  },
+  {
+   "fp": "business market talk trade usual",
+   "title": "Market Talk: why a trade war is 'business as usual'",
+   "source": "Reuters World",
+   "at": "2026-08-24T06:57:28.145176+00:00"
+  },
+  {
+   "fp": "dangerous graham lindsey opinion provision tariff",
+   "title": "Opinion | The Lindsey Graham Act\u2019s Dangerous Tariff Provision",
+   "source": "WSJ",
+   "at": "2026-08-24T06:57:30.022455+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-08-24T06:57:31.834910+00:00"
   }
  ],
  "titles": [
-  "blood critical dangerously drives launches runs socal supply type urgent",
-  "angie breaks expected florida nixon november primary republicans roll senate through upset",
-  "abandons aging mission nasa rescue space swift telescope",
   "condolences defeating florida hasan jared member moskowitz piker primary savagely sends victory",
   "bond cuts down fears interest market plays pushes rate trump",
   "abdul latest michigan mike outperforms poll rogers sayed senate",
@@ -3603,6 +3600,9 @@
   "breaking english finds food healthy report rules schools secondary",
   "evacuate forced nevada parts rages reno thousands wildfire",
   "collapsing dies drum drummer malaysian onstage performance rock",
-  "china evacuates lashes narra rain southwest tens thousands typhoon"
+  "china evacuates lashes narra rain southwest tens thousands typhoon",
+  "business market talk trade usual",
+  "dangerous graham lindsey opinion provision tariff",
+  "edition journal print street wall"
  ]
 }
