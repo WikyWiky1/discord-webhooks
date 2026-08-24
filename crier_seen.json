@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4682229",
-  "https://thehill.com/?p=6030816",
-  "CBMilAFBVV95cUxPNFIzNTdzTEdHZDdHWTVhWmFHMHhwTm83QU9mUzBhUF9jcTRRTDRjRXM0U0VPUjRVNmxycVYwWkFrOHBaaWhQUUxEOGdyTndycDhXRy1SUENORlIzbjJPYVQ2aHRxcmpFMUJfdXA1WlJDRy1meU9aU25abmtnRnBZeEk4enNhODhzd1YyYUhaTHN0akNJ",
   "https://thehill.com/?p=6030922",
   "CBMiwAFBVV95cUxOZ2FvQ2F2Zm5GU0lVUEhUTFNHeFZhMjBHSFQ2bmZPb1VaN3JGZk41YjBDZU4wOUIwMTdCRWZOZTV2QTlDSndnSjg2b3d3Y2NrOTloeVdGQkNTblgtZGxIa1dvNklwY0FfQnRRRldBbF9FcWJaeG81Qk1LR3hxUndoMnVuSHcySnlCb1RyU1M5SUFseUJib28zSHBFVDhvY2RRTVk2cVFvQlNZVml0T3k1WllueEU3c200UFRxQjdwVjU",
   "CBMinwFBVV95cUxNdGNUWXY3LUFsbk1JNXU5Nlp1ZVFoQTNtaVZsSmV6WVlidFM3T0VJSW1oMnE1WkstMkYzWVk1UTZPNUtzc2hkbHIycHdrX1dWSEZnazFSZFROckxNaW1EbzhwNjJ1MFI5Z1duYXBLWDRDN3BkRXQ4aEFfc3RWOXB6RVFHNlRxNXh4NzdMQ3Zfd1hIYjV6MWRXSmpHYVppamc",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/uk-news/2026/aug/24/people-arrested-over-a66-crash-that-killed-seven-including-two-police-officers",
   "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
   "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
-  "https://www.theguardian.com/us-news/2026/aug/24/sonya-massey-illinois-sean-grayson-dies"
+  "https://www.theguardian.com/us-news/2026/aug/24/sonya-massey-illinois-sean-grayson-dies",
+  "https://nypost.com/?post_type=article&p=40481158",
+  "CBMiwAFBVV95cUxQV0ZPclVCcjVMRjNYQ3g5M1gtdDJNdlp0MW81UG10SmlfTmY2U1RrcTRaYy15OTJ0R1J4Q2kzXzBCdTN0TlJRX1puQ2I5aWtfLTBncm1KOE1TR3lSd3dMckNneHVkaUV2cW85SGRacFd0OEhRX3ZIMFF0OXpOcmtXVkJ3Qk1UU0QtY3h6WmNNOEdieEhCV2RpZE1zME1BX1lWSHBmaHo5cFQxMTJpUUVDV2lMSDc2YzdYVlo0Zk9MaVc",
+  "CBMingFBVV95cUxOcEtKR0w5V3FLMDVtd3FTa3dHb0ZEZ0NWRnNwdjNlOWVHMUFvNlhBX3pmLU0yOGRodzRUX1lMLUtTMm5IcjlHNU1kMjJaN1pHMlFMWUh6NmxOTlVzMkk2aUZrX3ZlVktJU2FVc3R0UGFfcFBTWlpTaXlVc2ZicHhTaWg4aHJmS3RfWkVwTmlOalljcGlPTE5uTVB0QjVSUQ"
  ],
  "posts": [
-  {
-   "fp": "australia birds dead decision difficult found frankcom israel live politics relationship south suspected time wong zomi",
-   "title": "Politics live: Wong says \u2018difficult time\u2019 in Australia-Israel relationship after Zomi Frankcom decision; over 1,000 birds found dead with suspected H5 flu in South Australia",
-   "source": "Guardian World",
-   "at": "2026-08-20T05:23:43.204956+00:00"
-  },
-  {
-   "fp": "crashes cycling dead driver injured milligan school students team university",
-   "title": "2 Milligan University students dead, 7 injured after driver crashes into school\u2019s cycling team",
-   "source": "New York Post",
-   "at": "2026-08-20T06:00:05.921801+00:00"
-  },
-  {
-   "fp": "above estimates figure korea north nuclear south trump warheads",
-   "title": "South Korea estimates North Korea has up to 120 nuclear warheads, far above Trump's figure",
-   "source": "Reuters",
-   "at": "2026-08-20T06:00:07.727759+00:00"
-  },
   {
    "fp": "barrage injures kills kyiv least missile russian",
    "title": "Russian missile barrage kills at least 6 in Kyiv, injures 33",
@@ -3201,12 +3183,27 @@
    "title": "Former Illinois sheriff\u2019s deputy who killed Sonya Massey in her home dies aged 32",
    "source": "Guardian World",
    "at": "2026-08-24T13:44:00.497358+00:00"
+  },
+  {
+   "fp": "assassin bank bosses dangerous dead israel point range shot",
+   "title": "One of Israel\u2019s most dangerous mob bosses shot dead by assassin at point-bank range",
+   "source": "New York Post",
+   "at": "2026-08-24T14:34:18.224362+00:00"
+  },
+  {
+   "fp": "abducted appears attack mosque nigeria people residents show video",
+   "title": "Video appears to show 600 people abducted in Nigeria mosque attack, residents say",
+   "source": "Reuters",
+   "at": "2026-08-24T14:34:19.998220+00:00"
+  },
+  {
+   "fp": "congo death ebola highest outbreak records tolls weekly",
+   "title": "Congo\u2019s Ebola outbreak records one of its highest weekly death tolls yet",
+   "source": "AP",
+   "at": "2026-08-24T14:34:21.748944+00:00"
   }
  ],
  "titles": [
-  "australia birds dead decision difficult found frankcom israel live politics relationship south suspected time wong zomi",
-  "crashes cycling dead driver injured milligan school students team university",
-  "above estimates figure korea north nuclear south trump warheads",
   "barrage injures kills kyiv least missile russian",
   "defence grapples killed kyiv least shortages ukraine",
   "body fire illegal immigrant intimate killed near police relationship trail tried virginia worker",
@@ -3603,6 +3600,9 @@
   "arrested crash including killed officers people police seven twelve",
   "ahead announcement collapsing completely iran live sanctions trump",
   "evacuate forced injured least nevada reno wildfire",
-  "aged deputy dies former home illinois killed massey sheriff sonya"
+  "aged deputy dies former home illinois killed massey sheriff sonya",
+  "assassin bank bosses dangerous dead israel point range shot",
+  "abducted appears attack mosque nigeria people residents show video",
+  "congo death ebola highest outbreak records tolls weekly"
  ]
 }
