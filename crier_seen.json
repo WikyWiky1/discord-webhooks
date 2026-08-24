@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiswFBVV95cUxNWHBvM3gyYklmc2UxTkozSUxrUWhDUzVhdzNLRmwtVTk1VUFCTU5qLVZiZ2RqbzlkWjU3c1VOOWdISHc3cjVkV0oxTVNkYUE4UEVvdG1OSzV5VTVXTFJFaWZlWmN1U2pFSU02elcxeWlISl9lWER4RExQVUhseFNCYjFXNENjUEgyem9fZUtEQmpwM19lbHVxSGV1MDJmeTNEbExJODRRNndZTXhRcEVxaXpZMA",
   "CBMimAFBVV95cUxNZnc4dGFfV0hySjFiVzlBX3lneTF3ZlN3MFNBS1FObnNvVEtITFVFVFc2RXpuM2MxeXF5MG1FVjBzRkFCNnFhWnBlWkhnZVM0U1NhdTNNZUtrUTZfOVY1OWdaUGdoYk9Lc0FKb1ljQnVOZjRxNFRPN0xaXzRCRGg4YXRMaFJETUN4a0lyWllRRUE3TEV2R3d0aw",
   "CBMingFBVV95cUxNZ2puckZxdHQ1aDQ2YmsxMXpuTHd6M0ZkMVhzOFNjXzJ3aTEzeHN6OEMyMkRCWTU2Y21MUUR2YlFjUlJmSG1Eb0JiOF9sVkdxY1dLMTBUY2xiUnNQdXlCRkFSeFNsdUJ0REd4NGxINnRZMDhyZWoxMzRMWlNTSWExd0xGT1pLWWJUcDQ5WEJPYVlBdDQ2aE0wazZRMzlrdw",
   "https://www.bbc.co.uk/news/articles/ckg4424zd7go#0",
@@ -799,15 +798,10 @@
   "CBMitAFBVV95cUxQRy1UV0V0SjJTWmFRM0VUNXc2WHkyNjZEU3VVU01nWkNDODRBcEd6eFhMZlZZQVM0Unh6bFZzOE5HSXJHV0NxN1hhVF9RMTBOWEJ6OUN1cjRmZTBEQWpmQjlyWlQ1ZDlFVXFHLVh2b1NrcXFqNXF1R09JR2JFbDJjdi1keUdVN1BHRzhwWmMtUlBfMlZnQkpnZDZLNndkWXhZZ3dNOGhJUFRfLTJUMXdxYzBReWY",
   "CBMioAFBVV95cUxNRzFlRGlTVUtGOVc1TVV2TGQ4M3VicUJRbzBPV0VTY1hldnlvb000QWEtOXpVc2NnYlNJaVRnVDNhTjNqbTdkTDdXT0l2SXh5enNaRzZFVzRGVi1teUM0bUpDdzkyWTFNN1p4SHBNNVRxUVVzRGtfRnZ0amg0T2ZueVVtQTNSbV96Z0dBdjd0eHhJeWxrTE0zY1NfWWJzT2FG",
   "https://thehill.com/?p=6044574",
-  "https://www.washingtonexaminer.com/?p=4694603"
+  "https://www.washingtonexaminer.com/?p=4694603",
+  "https://nypost.com/?post_type=article&p=40444788"
  ],
  "posts": [
-  {
-   "fp": "ball crash devastated fire kills socal teens watches",
-   "title": "SoCal crash kills 2 teens as devastated dad watches \u2018ball of fire\u2019",
-   "source": "New York Post",
-   "at": "2026-08-20T00:50:03.280895+00:00"
-  },
   {
    "fp": "african central collapses dead goldmine republic",
    "title": "More than 100 dead after goldmine collapses in Central African Republic",
@@ -3201,10 +3195,15 @@
    "title": "Hamas killed the two-state solution. Here\u2019s the only path forward for Israel",
    "source": "Washington Examiner",
    "at": "2026-08-24T11:27:48.174984+00:00"
+  },
+  {
+   "fp": "brain does much really",
+   "title": "What too much TV really does to your brain \u2014 and how much is too much",
+   "source": "New York Post",
+   "at": "2026-08-24T11:34:39.365039+00:00"
   }
  ],
  "titles": [
-  "ball crash devastated fire kills socal teens watches",
   "african central collapses dead goldmine republic",
   "draconian iran point resume sanctions talks threatens trump",
   "allows backed court districts election house missouri november trump used",
@@ -3603,6 +3602,7 @@
   "attack briefs chiefs cyber energy iran linked reports",
   "european independence invasion join kyiv leaders pushes russian ukraine zelenskyy",
   "back expected measles outbreak record school season worsen",
-  "forward hamas here israel killed only path solution state"
+  "forward hamas here israel killed only path solution state",
+  "brain does much really"
  ]
 }
