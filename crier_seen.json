@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40373395",
-  "https://www.washingtonexaminer.com/?p=4689463",
-  "https://nypost.com/?post_type=article&p=40373386",
   "https://www.washingtonexaminer.com/?p=4689441",
   "CBMirgFBVV95cUxOMjFEVGpDV1hiYThFa3hHbGpTWnNFUV9iZVQ1ZzQ3NU5leFhuVUgtUDduclRjY0NfUFVxUTFiWkZPVTNKVGtlTnhiMWFfSXdGZGdzUlpiZGhkRUNnVTZqY2RETGxuM2tNUENubEJNaGc5TnpjdXhwLUw2dlVKU2lONFFxdVkxVFg3RXBrMmpfT0xsMElpWnhhMGZDeDZVQ2hpSFJoMGxEWTJJTnl5WUE",
   "CBMiYkFVX3lxTE1mcDBFcENaSWFJS1QyeVM1dTBVeE92MktJVm1JWDgwdlJjbXJfc05PU3F4MXVPcU5aZU1URXNjYkF2aUlPV0Zld3NtSkN2MWFEMzNwSWktay1ocnA1VUFBaDBn",
@@ -799,27 +796,12 @@
   "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017",
   "https://thehill.com/?p=6049018",
   "CBMilwFBVV95cUxQSXdSdlFiakVvQjB2SzhmWFlya0NreVVMMURCSVdtZS1VLVZtaEcxanRSb3VfNEV0TmxQcnlkaUNnSlFscVZUblBtelJrZXBhMWtQQjBHallLMjJVX2JtaDZiQ3NWbUlTeVhCOWdEMTAwZkFpWFRaOEI0em13YjF2R3BCd091X0xhQjRtaTNkSXM2SkczaWJr",
-  "https://thehill.com/?p=6049271"
+  "https://thehill.com/?p=6049271",
+  "https://nypost.com/?post_type=article&p=40500063",
+  "https://nypost.com/?post_type=article&p=40498357",
+  "CBMizwFBVV95cUxQb1JWNEtvcUpQZmJnN0ZZWFVEa2VGc1g0X0dVNXdQWVhGeG44ZF9GZG1rV0R0V25NV1pGSjl4b3VpMEliUWdBRVJRTDlwNnhzV2pRQkRZUzhSWU5CXzZZT0VDVVZaYXNHNGhab3FJZE5kOGVBOWxjbXFvOGV0dUFPT0lUamxodjAzRWpVOEVSYl9ydDdOSVV4b09ldktMME9GNkVVdC1EQ2xYUU9aczJCNVFOdWh1UmJXci1zcGpNbEFWNFpfbGgyX2dsNjJOOGs"
  ],
  "posts": [
-  {
-   "fp": "executes fire five japan killed pachinko parlour",
-   "title": "Japan executes man who killed five in Pachinko parlour fire",
-   "source": "BBC World",
-   "at": "2026-08-21T04:19:48.903207+00:00"
-  },
-  {
-   "fp": "alaska charter crash kills military near plane radar remote site western",
-   "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
-   "source": "AP",
-   "at": "2026-08-21T06:01:57.838230+00:00"
-  },
-  {
-   "fp": "budget deficit healey john prepares reports unexpected",
-   "title": "UK reports unexpected deficit of \u00a31.8bn as John Healey prepares for first budget",
-   "source": "Guardian World",
-   "at": "2026-08-21T06:45:20.410919+00:00"
-  },
   {
    "fp": "acquainted economic iran sanctions tehran trump warns well",
    "title": "Trump warns of \u2018economic D-Day\u2019 against Iran, but Tehran is well acquainted with sanctions",
@@ -3201,12 +3183,27 @@
    "title": "Lutnick's last-minute demands derailed Canada trade talks: Reports",
    "source": "The Hill",
    "at": "2026-08-25T16:16:33.111671+00:00"
+  },
+  {
+   "fp": "adorable arrested cops gunman injured ruthless service shooting street wild",
+   "title": "Ruthless gunman who injured adorable service dog arrested for wild shooting on NYC street: cops",
+   "source": "New York Post",
+   "at": "2026-08-25T16:58:27.447244+00:00"
+  },
+  {
+   "fp": "abdul attack perfect racist response sayed usha vance",
+   "title": "Usha Vance has perfect response to Abdul El-Sayed\u2019s \u2018racist\u2019 attack on her",
+   "source": "New York Post",
+   "at": "2026-08-25T16:58:29.136827+00:00"
+  },
+  {
+   "fp": "deaths grows measles outbreak pennsylvania reports year",
+   "title": "Pennsylvania reports first U.S. measles deaths this year as outbreak grows",
+   "source": "Reuters",
+   "at": "2026-08-25T16:58:30.787167+00:00"
   }
  ],
  "titles": [
-  "executes fire five japan killed pachinko parlour",
-  "alaska charter crash kills military near plane radar remote site western",
-  "budget deficit healey john prepares reports unexpected",
   "acquainted economic iran sanctions tehran trump warns well",
   "ahead carolina darline days graham president runoff senate south stump trump",
   "convicted executes fire japan killed osaka pachinko parlor setting",
@@ -3603,6 +3600,9 @@
   "announces canada heats retaliatory tariffs trade",
   "2028 behind coalesced cruz hasn nomination vance",
   "evacuations hours mushrooms ordered rural texas wildfire within",
-  "canada demands derailed last lutnick minute reports talks trade"
+  "canada demands derailed last lutnick minute reports talks trade",
+  "adorable arrested cops gunman injured ruthless service shooting street wild",
+  "abdul attack perfect racist response sayed usha vance",
+  "deaths grows measles outbreak pennsylvania reports year"
  ]
 }
