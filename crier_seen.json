@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://pagesix.com/?post_type=article&p=9105773",
   "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro#0",
   "https://nypost.com/?post_type=article&p=40376445",
   "https://thehill.com/?p=6030750",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/us-news/2026/aug/25/ken-paxton-datacenters-plan-texas",
   "https://thehill.com/?p=6049559",
   "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
-  "CBMiogFBVV95cUxORG1YdF9QNURIQTAzUGlMYjJjRDNEUTl5MUxDV0h6bEZvb042NXpHeW1ZbUtvRW9LbjZfWHM1cjdLSURFN0hZclBpOXFVSGV1N2lSQ0ZlQXEyUXZhU3RQR1gxa1JDNVRKZFFOUlpSaHFOVmk4TGt3UUlmTnViWlNqYVNnSDJKaGZpenpYVERzRTUzTWJybS10aE9CZlo4NHJNSGc"
+  "CBMiogFBVV95cUxORG1YdF9QNURIQTAzUGlMYjJjRDNEUTl5MUxDV0h6bEZvb042NXpHeW1ZbUtvRW9LbjZfWHM1cjdLSURFN0hZclBpOXFVSGV1N2lSQ0ZlQXEyUXZhU3RQR1gxa1JDNVRKZFFOUlpSaHFOVmk4TGt3UUlmTnViWlNqYVNnSDJKaGZpenpYVERzRTUzTWJybS10aE9CZlo4NHJNSGc",
+  "CBMiqAFBVV95cUxPY3J3RDJ3T1RraVZrOUtuaENOUkp0VWdyQUp3RzBYUDBvckVfX2I2S3FINEdqQmktT1hRdkhGcHNXYVRtUl9JckhjZFZ3cFNzdDBBVGp5VUhyYklmWXVHRl9sYVlqVm1Ta2otc0k1VWV2X3JyQkNWNmVkMk5oU0N0OFdJX3gwaTRJRlJPeFJPQksxRWw5OWhPTjVGZG5wR1hJMUJkWFc2clc"
  ],
  "posts": [
-  {
-   "fp": "aisha behind california democrats election live politics progressive rally special wahab",
-   "title": "Democrats rally behind progressive Aisha Wahab after win in California special election \u2013 US politics live",
-   "source": "Guardian World",
-   "at": "2026-08-21T12:45:46.653727+00:00"
-  },
   {
    "fp": "alaska chilly forecast politics senate whole",
    "title": "Whole Hog Politics: A chilly forecast for the Senate GOP from Alaska",
@@ -3201,10 +3195,15 @@
    "title": "SpaceX to build Starship rocket complex in Louisiana",
    "source": "Reuters",
    "at": "2026-08-25T18:38:25.895267+00:00"
+  },
+  {
+   "fp": "another attack blow lockerbie relatives victims",
+   "title": "Another blow to the relatives of Lockerbie attack victims",
+   "source": "Telegraph",
+   "at": "2026-08-25T18:59:16.151074+00:00"
   }
  ],
  "titles": [
-  "aisha behind california democrats election live politics progressive rally special wahab",
   "alaska chilly forecast politics senate whole",
   "disputed election following leader opposition police summon zambian",
   "democratic keeps momentum race rolling senate",
@@ -3603,6 +3602,7 @@
   "aimed backed datacenter impact negative paxton plan texas trump unveils",
   "calling candidates center data joining other paxton plan restrictions unveils",
   "china denounces iran sanctions threat trade",
-  "build complex louisiana rocket spacex starship"
+  "build complex louisiana rocket spacex starship",
+  "another attack blow lockerbie relatives victims"
  ]
 }
