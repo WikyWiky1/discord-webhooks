@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMivgFBVV95cUxPemYtWWlLeUdoc0lYZGdwVzhlRW1DTWJKakt2cHZ3YmFqYVZybnpHNGRwajlqbWZpcXlSaUYwdlFWREVoUkwwYW1HS2FhTUI3MVFHSXV2UVlOcDVjSWtoSEF1bW1PRW1MWXg3TmFERGRSTzNTQXVoNXRnRDNvM1V2Tld5cUhFbVZSY1NRNkxJRmJKLXhwU2IxV2xHX05uOHhsVlk5Um8xWnJ3dVBXclR6YlNNUFBrRUhvZV9tdlRB",
-  "CBMirgFBVV95cUxPY01EYlpCT1daLVhfNU5wbU91eExoWm9IN0l4akdJbVRBQlM5bTRFQmo0dUlNSEVhU05OcTNJVkIzZi1IcVgtUk1iM3luN3cwR2RCeDJqQThjTThtcTFHVjIxVURtNDBWejZnT0pDUGI5VzBJQzIzcjF0Tmw2cWNsS05PZ0RJTlFTeXE3bDM0R3lqc1FYTlF6SHh3elRJSTYxYlFlcGtaWThEWGIzY3c",
   "CBMioAFBVV95cUxPZXRXcVFWNFFnTWZfWk91SGtqejRUdzVDR3Q2enZ0VGtXNHpzNENnRHFBM0lOeE41UXhjVGR1T3VVM19ORjc2UnZNdWNmdTFUamRORWdzM29HMmFIcUJEZ1RyMzFvcVZiSVQ2ZlRNejhMSldYM0VCbkZ4ZkRJaXpKdWNDSGZySGhXZ1FLbTg1QnliMnh3ZkUzc21rYnc0QzVf",
   "https://www.theguardian.com/us-news/2026/aug/17/first-thing-trump-cuts-us-south-korea-military-drills-relationship-kim-jong-un",
   "https://pagesix.com/?post_type=article&p=9114392",
@@ -799,21 +797,11 @@
   "CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU",
   "https://news.sky.com/story/family-of-woman-found-dead-describe-immeasurable-void-as-23-year-old-named-13576920",
   "CBMiogFBVV95cUxNSDQxd2p3ZnloWHNtQ1pCbkZ5THdvWmdEOV81VnkwR0xzRUNMMXVvM3MxTHE3eEhFaTRZcm9wYkMxU0ZKeFZKd3dlMnFhb1c1d3B6MVlpUTVrQlh6Mkk2VDBIbWNKeUcxUzh0ZlpGUXBoN2wtR1NnMXMxajZqTWs3ek5uNURnNnFzTW9NN3IzN05MWHNYMllodnNoWE52RndHUEE",
-  "https://nypost.com/?post_type=article&p=40494905"
+  "https://nypost.com/?post_type=article&p=40494905",
+  "https://thehill.com/?p=6033556",
+  "CBMimwFBVV95cUxOd2pTbEJRMzdMYk4telFCenctTGdTUkdKb1pPU285ZTNlbFhfZVh1ZjFVSGNiNkxIeVhDZm94LXVlaHMzUzZibW40NlJuODNKNEZUX0x1bXgwZEc3NHZ2RXMxekl6cy05b1E2ZGR5ZTd2SFlMVTd0Y0R5X0Zzd0pTMGh6YldTRHM3c3ZucVQyRXpYcTdjTURDeHVCcw"
  ],
  "posts": [
-  {
-   "fp": "athlete columnist resigns seattle spiked sports story times trans",
-   "title": "Seattle Times sports columnist resigns over spiked trans athlete story",
-   "source": "The Hill",
-   "at": "2026-08-20T23:28:10.792229+00:00"
-  },
-  {
-   "fp": "column cunningham here killed quit read seattle sophie times year",
-   "title": "I quit my 11-year job after the Seattle Times killed my Sophie Cunningham column \u2014 read it here",
-   "source": "New York Post",
-   "at": "2026-08-20T23:54:53.197997+00:00"
-  },
   {
    "fp": "capitol charged explosives kill lawmakers plotting state woman york",
    "title": "New York woman charged with plotting to set off explosives at state Capitol, kill lawmakers",
@@ -3201,11 +3189,21 @@
    "title": "World\u2019s oldest lab-grown human brains grow for seven years recording \u2018passage of time\u2019",
    "source": "New York Post",
    "at": "2026-08-25T11:33:45.473167+00:00"
+  },
+  {
+   "fp": "campus nuclear plan premature trump victory",
+   "title": "The victory lap on Trump's nuclear campus plan is premature",
+   "source": "The Hill",
+   "at": "2026-08-25T11:45:49.225200+00:00"
+  },
+  {
+   "fp": "france homes injuring southern tears through tornado village wrecking",
+   "title": "A tornado tears through a village in southern France, injuring 39 and wrecking 300 homes",
+   "source": "AP",
+   "at": "2026-08-25T11:45:50.904488+00:00"
   }
  ],
  "titles": [
-  "athlete columnist resigns seattle spiked sports story times trans",
-  "column cunningham here killed quit read seattle sophie times year",
   "capitol charged explosives kill lawmakers plotting state woman york",
   "cannot chaos civilians even florida imagine mass respond shooting simulated untrained",
   "dead henry kissinger nancy report secretary state wife",
@@ -3603,6 +3601,8 @@
   "around attack disabled east hormuz middle news other ship strait",
   "dead describe family found immeasurable named void woman year",
   "attack british factories russia threatens",
-  "brains grow grown human oldest passage recording seven time world years"
+  "brains grow grown human oldest passage recording seven time world years",
+  "campus nuclear plan premature trump victory",
+  "france homes injuring southern tears through tornado village wrecking"
  ]
 }
