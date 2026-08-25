@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMinwFBVV95cUxNRGMxazQ3aC1nN2JTWmNzUGxNd1JaNXlUam9PQ05SVW44a2NCTlNNRzlwdnRBQkpEY0pIYTdpYk5DUzhnZG9XVWdwbUxNM3BJOEpJQzk4djduaTVHcl92NXFIS01kZ2lTcnplZE8teGdCaDhpdzQzLVZqeFVfTjl1ODJjcy1nRnlkZlBFOG5UaEszcXhFVTZ6U003ZlBfbWM",
   "https://www.theguardian.com/us-news/2026/aug/17/kentucky-mass-shooting-teenager-charged-murder",
   "https://decider.com/2026/08/17/the-boys-daveed-diggs-emmy-nomination-oh-father-song-raise-him-up/",
   "CBMiogFBVV95cUxPUTdPdkZ1WFM5QnU0b1FDV0lGaU1vVW40NllDU2tub3RkeGd5ZmZ3b1NaVWVmMXk5UkZ3Zi10OHU3RWdsdzdtMFBUTVJiVlFnUGhLY280cXVXWGRva01nUXN6Y2VqemRjZGRiVmpRRGJFd2ZJTS1Xb0xjMzFZTEN2U0hJRXp3YlNHMkpSZnA5eF9MaV9kQ0VYN2hWbWJ1eVByOGc",
@@ -799,15 +798,10 @@
   "CBMigwFBVV95cUxNUExDUGZBbXhJOXZta0tiOEhmckJ2c1Viei1pMnk2ZEpwVVdieFUzVU54X194NW5LRmZ1NlNIaWhCWVFMNFpZN3hzSXJUcF80NFg2TVdfVGJmUzByWkIzQVV4ckE4N2xscjNVeHNiekZKRlBBNlBVVHVsc2NRVVhfQVdxVQ",
   "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
   "CBMipAFBVV95cUxPX28xVzhGSE02dFlOSGw0WlBnSTdWMUw0YTh4SENuc1NCOHhLQU00bDlaRDBXZUgtd05Ua2J3Z1VyRG5vd2RhbVZOaUNCRDdMX04weTJLSFJkTmFqOEVhMmx6MFVURDdadG5xYzM5c1BMVVFxek83MWJzZVJBcTdLYXNJeXNKaHd1UlNWT29EUVFXcGUyOTlsNDR4VXhWY20tQTFqSg",
-  "https://www.theguardian.com/us-news/2026/aug/25/mother-daughter-killed-lightning-florida"
+  "https://www.theguardian.com/us-news/2026/aug/25/mother-daughter-killed-lightning-florida",
+  "https://www.washingtonexaminer.com/?p=4690296"
  ],
  "posts": [
-  {
-   "fp": "cuba imposes including mining sanctions sector",
-   "title": "US imposes more sanctions on Cuba, including mining sector",
-   "source": "Reuters",
-   "at": "2026-08-21T01:15:57.427534+00:00"
-  },
   {
    "fp": "americans cuba detentions island ramps returning sanctions",
    "title": "US ramps up Cuba sanctions and detentions of Americans returning from the island",
@@ -3201,10 +3195,15 @@
    "title": "Mother and two-year-old daughter killed by lightning strike in Florida",
    "source": "Guardian World",
    "at": "2026-08-25T13:31:23.000327+00:00"
+  },
+  {
+   "fp": "bike father killed lanes then thought",
+   "title": "I thought bike lanes were \u2018DEI.\u2019 Then an SUV killed my father",
+   "source": "Washington Examiner",
+   "at": "2026-08-25T14:24:18.840728+00:00"
   }
  ],
  "titles": [
-  "cuba imposes including mining sanctions sector",
   "americans cuba detentions island ramps returning sanctions",
   "about alabama basketball defamed incorrect jury player shooting story times york",
   "again collapsing former jenny month never olympian race reveals simpson",
@@ -3603,6 +3602,7 @@
   "america considering escalates lake ontario renaming trade trump",
   "china interests iran protect sanctions warns widens",
   "canada futures higher ongoing trade",
-  "daughter florida killed lightning mother strike year"
+  "daughter florida killed lightning mother strike year",
+  "bike father killed lanes then thought"
  ]
 }
