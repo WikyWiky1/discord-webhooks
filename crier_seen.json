@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw",
   "CBMiZkFVX3lxTE1ibzF6X3RLZHhfOVFLSi1mcHdOUHB2cGltRjhHMExlU0h2UzhPR2Z0UFU0MFV1cnJ1RzRRd01UYWJjVF94OEh2VGlXLUNFblk0OE1BWVNEeWRkdWtBMV82cUc4Z0h1UQ",
   "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
   "https://www.foxnews.com/world/australia-sets-launch-sweeping-gun-buyback-bondi-beach-terror-attack-sensible-gun-reform",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/business/2026/aug/25/europe-heatwaves-insurance-companies-earnings",
   "https://www.bbc.co.uk/news/articles/c93vpd60654o#1",
   "https://www.theguardian.com/australia-news/2026/aug/25/bathla-group-sydney-property-developer-collapses",
-  "CBMi1gFBVV95cUxNQ1BpRThDZHRjZkV3dTVxQWVibzBvVWIwT3M3b0Vaa0UyOFNLeVNiX2UweTFmR1hXMDJ1Zmo1UXVJelEyb3B3dUl1WUVjcHFHSkxGcDJjMjRuWGtHR0dybEZ2VGhoNGdwVEVnY1Q4a1lWN3BrbV9vYXNmWDVRYkhlS3hhbUZVU1NSckJNRHdRWGlnRHhSZk5UZE9BRmItamVINFhJZmRwWlNzXzItUGRRbUZqMnlVdkdrdlEwTWFjaFVEd2dMOHNqRE9Fb21iYmd0eExTRGd3"
+  "CBMi1gFBVV95cUxNQ1BpRThDZHRjZkV3dTVxQWVibzBvVWIwT3M3b0Vaa0UyOFNLeVNiX2UweTFmR1hXMDJ1Zmo1UXVJelEyb3B3dUl1WUVjcHFHSkxGcDJjMjRuWGtHR0dybEZ2VGhoNGdwVEVnY1Q4a1lWN3BrbV9vYXNmWDVRYkhlS3hhbUZVU1NSckJNRHdRWGlnRHhSZk5UZE9BRmItamVINFhJZmRwWlNzXzItUGRRbUZqMnlVdkdrdlEwTWFjaFVEd2dMOHNqRE9Fb21iYmd0eExTRGd3",
+  "https://nypost.com/?post_type=article&p=40494757"
  ],
  "posts": [
-  {
-   "fp": "allegedly caused crash driver drunk family girl horrific killed mourns socal suspected",
-   "title": "Family mourns girl, 8, killed in horrific SoCal crash allegedly caused by suspected drunk driver",
-   "source": "New York Post",
-   "at": "2026-08-20T20:31:23.022697+00:00"
-  },
   {
    "fp": "attack building capitol charged inspired planning state woman york",
    "title": "Woman charged with planning IS-inspired attack on New York state capitol building",
@@ -3201,10 +3195,15 @@
    "title": "German investigators find third drone, explosives after failed airport attack, media say",
    "source": "Reuters",
    "at": "2026-08-25T07:10:19.038142+00:00"
+  },
+  {
+   "fp": "attending catch clay dead football game help killer money nashville reward shot student travis triples",
+   "title": "Nashville HS student shot dead after attending football game as Clay Travis triples reward money to help catch killer",
+   "source": "New York Post",
+   "at": "2026-08-25T08:00:20.049146+00:00"
   }
  ],
  "titles": [
-  "allegedly caused crash driver drunk family girl horrific killed mourns socal suspected",
   "attack building capitol charged inspired planning state woman york",
   "andes damages earthquake immediate magnitude peru reported shaken southern",
   "accident camp forgotten freak killed never summer",
@@ -3603,6 +3602,7 @@
   "agency earnings europe heatwaves insurers rating threaten",
   "canada escalates hike tariff threatens trade trump vehicles",
   "buyers collapses developer leaving limbo major perfect property storm sydney",
-  "airport attack drone explosives failed find german investigators media third"
+  "airport attack drone explosives failed find german investigators media third",
+  "attending catch clay dead football game help killer money nashville reward shot student travis triples"
  ]
 }
