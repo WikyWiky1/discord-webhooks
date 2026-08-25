@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiZ0FVX3lxTE44LTM4c2FvemlqVWlMbkJxTzE4aWZTcXlLSnBGLWtqME5ydGh6clBaSUtiUzlCY1VDTzRkYkVMUktOY0hNd3RQZnQtUjRmU2o0eUduakg1LVViZGZneDZNYkR5XzdnLVU",
-  "https://news.sky.com/story/ebola-outbreak-in-dr-congo-now-deadliest-in-countrys-history-13573874",
   "https://nypost.com/?post_type=article&p=40370089",
   "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1",
   "https://nypost.com/?post_type=article&p=40369054",
@@ -799,21 +797,11 @@
   "CBMinAFBVV95cUxQQk12QTBQMWIwcnlxcmRTX2ZxRjhxZl9NN1BnTXVGRTcyLUJxclhTZlluRHd6MlVJUHd4U2tFNVVnTHlIbzdHWk9sSVdnSlZBUGVRWEFodWFaVTFyZE8xS3phSDZwdFltb0hOZ0pPQ3pGSzU3ZElYQm42ZzlOTUhDazJWeEhZNkNQWnE3T1F0QUtqaGFFQUtjTUYxQS0",
   "https://www.washingtonexaminer.com/?p=4698692",
   "https://www.washingtonexaminer.com/?p=4698749",
-  "https://thehill.com/?p=6047832"
+  "https://thehill.com/?p=6047832",
+  "https://nypost.com/?post_type=article&p=40492646",
+  "https://www.washingtonexaminer.com/?p=4698920"
  ],
  "posts": [
-  {
-   "fp": "fight help russia serbia turns wildfires",
-   "title": "Serbia turns to Russia to help fight wildfires",
-   "source": "Reuters",
-   "at": "2026-08-20T17:59:30.410041+00:00"
-  },
-  {
-   "fp": "brother grand indicted jury kids michele murder nick reiner testified",
-   "title": "Rob and Michele Reiner\u2019s kids testified before grand jury that indicted brother Nick for murder",
-   "source": "New York Post",
-   "at": "2026-08-20T17:59:32.122554+00:00"
-  },
   {
    "fp": "congo contain ebola ervebo outbreak receive vaccines",
    "title": "Congo set to receive 70,000 Ervebo vaccines to contain Ebola outbreak, WHO says",
@@ -3201,11 +3189,21 @@
    "title": "Senate Democrats call for hearing on Iran war's strain on troops",
    "source": "The Hill",
    "at": "2026-08-25T01:13:42.468997+00:00"
+  },
+  {
+   "fp": "athlete college cops dead drinking enter family home mistakenly night shot stranger trying",
+   "title": "NJ college athlete shot dead by cops after mistakenly trying to enter stranger\u2019s home during night of drinking: family",
+   "source": "New York Post",
+   "at": "2026-08-25T02:31:51.968231+00:00"
+  },
+  {
+   "fp": "calls defend drones looks nuclear official opening operation spiderweb stratcom triad ukraine utterly",
+   "title": "STRATCOM official calls Ukraine\u2019s Operation Spiderweb \u2018utterly eye-opening\u2019 as US looks to defend nuclear triad from drones",
+   "source": "Washington Examiner",
+   "at": "2026-08-25T02:31:53.740390+00:00"
   }
  ],
  "titles": [
-  "fight help russia serbia turns wildfires",
-  "brother grand indicted jury kids michele murder nick reiner testified",
   "congo contain ebola ervebo outbreak receive vaccines",
   "boat capsizes carrying dead farm least nigeria people workers",
   "anew bond builds drags lower market pressure stock walmart",
@@ -3603,6 +3601,8 @@
   "cheap china flooding goods levying market moves sources tariff toward trump",
   "border canada defense helpful puts republicans state trade",
   "days fire gives hampshire independent lutnick senate spoiler trump",
-  "call democrats hearing iran senate strain troops"
+  "call democrats hearing iran senate strain troops",
+  "athlete college cops dead drinking enter family home mistakenly night shot stranger trying",
+  "calls defend drones looks nuclear official opening operation spiderweb stratcom triad ukraine utterly"
  ]
 }
