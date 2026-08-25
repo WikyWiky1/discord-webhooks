@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40370089",
-  "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1",
   "https://nypost.com/?post_type=article&p=40369054",
   "CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag",
   "https://pagesix.com/?post_type=article&p=9104059",
@@ -799,21 +797,11 @@
   "https://www.washingtonexaminer.com/?p=4698749",
   "https://thehill.com/?p=6047832",
   "https://nypost.com/?post_type=article&p=40492646",
-  "https://www.washingtonexaminer.com/?p=4698920"
+  "https://www.washingtonexaminer.com/?p=4698920",
+  "CBMiuAFBVV95cUxORld4THVaUUFJWlFtRmRFeTI5SlliZ2ladnZNa2htLS1yeXBwcGY2UjFSVE5heHlycC11ay1KR0pLRTJKVGk4bUp2cVVwcXZsUE5kR0JCM0hTRGlRZk5WT1pDWnhfd0JKcjFkbUhlNHVRd3lpWkV4bmtDUG9CSGJCWFhuTFFfY04yb2FIOGtNYkxhS1N0SlJVaXhFTVN1ak51Z1lvaDVSaEVsb2J0UEFjM2w4THk1SzdY",
+  "CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE"
  ],
  "posts": [
-  {
-   "fp": "congo contain ebola ervebo outbreak receive vaccines",
-   "title": "Congo set to receive 70,000 Ervebo vaccines to contain Ebola outbreak, WHO says",
-   "source": "Reuters",
-   "at": "2026-08-20T17:59:33.836481+00:00"
-  },
-  {
-   "fp": "boat capsizes carrying dead farm least nigeria people workers",
-   "title": "At least 50 people dead after boat carrying farm workers capsizes in Nigeria",
-   "source": "Sky News",
-   "at": "2026-08-20T17:59:35.588108+00:00"
-  },
   {
    "fp": "anew bond builds drags lower market pressure stock walmart",
    "title": "Pressure builds anew in the bond market as Walmart drags the US stock market lower",
@@ -3201,11 +3189,21 @@
    "title": "STRATCOM official calls Ukraine\u2019s Operation Spiderweb \u2018utterly eye-opening\u2019 as US looks to defend nuclear triad from drones",
    "source": "Washington Examiner",
    "at": "2026-08-25T02:31:53.740390+00:00"
+  },
+  {
+   "fp": "buybacks dollar iran markets sanctions struggles traction treasury weigh",
+   "title": "Dollar struggles for traction as markets weigh Iran sanctions, Treasury buybacks",
+   "source": "Reuters",
+   "at": "2026-08-25T03:48:04.074193+00:00"
+  },
+  {
+   "fp": "expanded impact investors iran prices sanctions steady weigh",
+   "title": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran",
+   "source": "Reuters",
+   "at": "2026-08-25T03:48:05.918056+00:00"
   }
  ],
  "titles": [
-  "congo contain ebola ervebo outbreak receive vaccines",
-  "boat capsizes carrying dead farm least nigeria people workers",
   "anew bond builds drags lower market pressure stock walmart",
   "answers dems hegseth independence press senate stars stripes",
   "breach investigates potential sanctions tiktok",
@@ -3603,6 +3601,8 @@
   "days fire gives hampshire independent lutnick senate spoiler trump",
   "call democrats hearing iran senate strain troops",
   "athlete college cops dead drinking enter family home mistakenly night shot stranger trying",
-  "calls defend drones looks nuclear official opening operation spiderweb stratcom triad ukraine utterly"
+  "calls defend drones looks nuclear official opening operation spiderweb stratcom triad ukraine utterly",
+  "buybacks dollar iran markets sanctions struggles traction treasury weigh",
+  "expanded impact investors iran prices sanctions steady weigh"
  ]
 }
