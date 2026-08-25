@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40371115",
   "CBMivgFBVV95cUxOSW93eXhxZXduMkYwWlFmNnFhOWt3d05mc1BuRWR4WjZOci1lME5GZXFRVzNjcGR4eUdPQVdYcVMxS3Y0YVVnTTdETVhFSXpuNzY2VVRSamJZZXo3NDJWN05UTmZkRzhWNnNCdWZWSlp3YXZmaGs1TzFOdXpkTEV1RFlCOUxZUF9DT2dMbkIxT1lwelhWTVVrWnp6eEVNaklRb0tyWVpYaXUyazk0X2M5Ml81djdoN0lGWkhDSlJ3",
   "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
   "https://www.bbc.co.uk/news/articles/cvgww971nn2o#0",
@@ -799,15 +798,10 @@
   "CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE",
   "https://nypost.com/?post_type=article&p=40494369",
   "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
-  "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires"
+  "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
+  "CBMiR0FVX3lxTE9XNkpfcFJnQjhBMTM1V1NKWWx5SDA2Q2xwMHRJOGRSS25rTGxOaTNFUmhybHdBVzJXOC15M2trTFBHWFQxNTVF"
  ],
  "posts": [
-  {
-   "fp": "alcohol canada cautious deal ottawa pushes quebec remains restore trade",
-   "title": "Quebec remains cautious on Canada-US trade deal as Ottawa pushes to restore US alcohol",
-   "source": "AP",
-   "at": "2026-08-20T18:38:16.397578+00:00"
-  },
   {
    "fp": "cook iowa political races report senate shift texas toss",
    "title": "Texas, Iowa Senate races shift to toss-ups: Cook Political Report",
@@ -3201,10 +3195,15 @@
    "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
    "source": "NPR News",
    "at": "2026-08-25T05:32:56.451029+00:00"
+  },
+  {
+   "fp": "wildfires",
+   "title": "Wildfires",
+   "source": "AP",
+   "at": "2026-08-25T06:01:45.742159+00:00"
   }
  ],
  "titles": [
-  "alcohol canada cautious deal ottawa pushes quebec remains restore trade",
   "cook iowa political races report senate shift texas toss",
   "bessent china cooperate ever impose iran sanctions toughest urges",
   "attack demotivating english fail gcses leaders make maths plan pupils retake",
@@ -3603,6 +3602,7 @@
   "expanded impact investors iran prices sanctions steady weigh",
   "accused alleged attack carolina doctor interstate north rage road shooting sisters",
   "attack came coogee describes face moment monster shark victim",
-  "battles brave choking country indonesians pray rain smoke wildfires"
+  "battles brave choking country indonesians pray rain smoke wildfires",
+  "wildfires"
  ]
 }
