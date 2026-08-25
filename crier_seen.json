@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40369054",
-  "CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag",
   "https://pagesix.com/?post_type=article&p=9104059",
   "https://nypost.com/?post_type=article&p=40371115",
   "CBMivgFBVV95cUxOSW93eXhxZXduMkYwWlFmNnFhOWt3d05mc1BuRWR4WjZOci1lME5GZXFRVzNjcGR4eUdPQVdYcVMxS3Y0YVVnTTdETVhFSXpuNzY2VVRSamJZZXo3NDJWN05UTmZkRzhWNnNCdWZWSlp3YXZmaGs1TzFOdXpkTEV1RFlCOUxZUF9DT2dMbkIxT1lwelhWTVVrWnp6eEVNaklRb0tyWVpYaXUyazk0X2M5Ml81djdoN0lGWkhDSlJ3",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40492646",
   "https://www.washingtonexaminer.com/?p=4698920",
   "CBMiuAFBVV95cUxORld4THVaUUFJWlFtRmRFeTI5SlliZ2ladnZNa2htLS1yeXBwcGY2UjFSVE5heHlycC11ay1KR0pLRTJKVGk4bUp2cVVwcXZsUE5kR0JCM0hTRGlRZk5WT1pDWnhfd0JKcjFkbUhlNHVRd3lpWkV4bmtDUG9CSGJCWFhuTFFfY04yb2FIOGtNYkxhS1N0SlJVaXhFTVN1ak51Z1lvaDVSaEVsb2J0UEFjM2w4THk1SzdY",
-  "CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE"
+  "CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE",
+  "https://nypost.com/?post_type=article&p=40494369",
+  "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack"
  ],
  "posts": [
-  {
-   "fp": "anew bond builds drags lower market pressure stock walmart",
-   "title": "Pressure builds anew in the bond market as Walmart drags the US stock market lower",
-   "source": "AP",
-   "at": "2026-08-20T18:38:10.577719+00:00"
-  },
-  {
-   "fp": "answers dems hegseth independence press senate stars stripes",
-   "title": "Senate Dems press Hegseth for answers on Stars and Stripes independence",
-   "source": "The Hill",
-   "at": "2026-08-20T18:38:12.340076+00:00"
-  },
   {
    "fp": "breach investigates potential sanctions tiktok",
    "title": "TikTok investigates potential UK sanctions breach",
@@ -3201,11 +3189,21 @@
    "title": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran",
    "source": "Reuters",
    "at": "2026-08-25T03:48:05.918056+00:00"
+  },
+  {
+   "fp": "accused alleged attack carolina doctor interstate north rage road shooting sisters",
+   "title": "North Carolina doctor accused of shooting 2 sisters in alleged interstate road rage attack",
+   "source": "New York Post",
+   "at": "2026-08-25T04:20:03.084660+00:00"
+  },
+  {
+   "fp": "attack came coogee describes face moment monster shark victim",
+   "title": "Coogee shark attack victim describes moment she came to face-to-face with \u2018monster\u2019",
+   "source": "Guardian World",
+   "at": "2026-08-25T04:20:04.947203+00:00"
   }
  ],
  "titles": [
-  "anew bond builds drags lower market pressure stock walmart",
-  "answers dems hegseth independence press senate stars stripes",
   "breach investigates potential sanctions tiktok",
   "alcohol canada cautious deal ottawa pushes quebec remains restore trade",
   "cook iowa political races report senate shift texas toss",
@@ -3603,6 +3601,8 @@
   "athlete college cops dead drinking enter family home mistakenly night shot stranger trying",
   "calls defend drones looks nuclear official opening operation spiderweb stratcom triad ukraine utterly",
   "buybacks dollar iran markets sanctions struggles traction treasury weigh",
-  "expanded impact investors iran prices sanctions steady weigh"
+  "expanded impact investors iran prices sanctions steady weigh",
+  "accused alleged attack carolina doctor interstate north rage road shooting sisters",
+  "attack came coogee describes face moment monster shark victim"
  ]
 }
