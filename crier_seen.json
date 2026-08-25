@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMioAFBVV95cUxPZXRXcVFWNFFnTWZfWk91SGtqejRUdzVDR3Q2enZ0VGtXNHpzNENnRHFBM0lOeE41UXhjVGR1T3VVM19ORjc2UnZNdWNmdTFUamRORWdzM29HMmFIcUJEZ1RyMzFvcVZiSVQ2ZlRNejhMSldYM0VCbkZ4ZkRJaXpKdWNDSGZySGhXZ1FLbTg1QnliMnh3ZkUzc21rYnc0QzVf",
   "https://www.theguardian.com/us-news/2026/aug/17/first-thing-trump-cuts-us-south-korea-military-drills-relationship-kim-jong-un",
   "https://pagesix.com/?post_type=article&p=9114392",
   "https://www.theguardian.com/us-news/2026/aug/17/alzheimers-research-grants-trump-administration",
@@ -799,15 +798,10 @@
   "CBMiogFBVV95cUxNSDQxd2p3ZnloWHNtQ1pCbkZ5THdvWmdEOV81VnkwR0xzRUNMMXVvM3MxTHE3eEhFaTRZcm9wYkMxU0ZKeFZKd3dlMnFhb1c1d3B6MVlpUTVrQlh6Mkk2VDBIbWNKeUcxUzh0ZlpGUXBoN2wtR1NnMXMxajZqTWs3ek5uNURnNnFzTW9NN3IzN05MWHNYMllodnNoWE52RndHUEE",
   "https://nypost.com/?post_type=article&p=40494905",
   "https://thehill.com/?p=6033556",
-  "CBMimwFBVV95cUxOd2pTbEJRMzdMYk4telFCenctTGdTUkdKb1pPU285ZTNlbFhfZVh1ZjFVSGNiNkxIeVhDZm94LXVlaHMzUzZibW40NlJuODNKNEZUX0x1bXgwZEc3NHZ2RXMxekl6cy05b1E2ZGR5ZTd2SFlMVTd0Y0R5X0Zzd0pTMGh6YldTRHM3c3ZucVQyRXpYcTdjTURDeHVCcw"
+  "CBMimwFBVV95cUxOd2pTbEJRMzdMYk4telFCenctTGdTUkdKb1pPU285ZTNlbFhfZVh1ZjFVSGNiNkxIeVhDZm94LXVlaHMzUzZibW40NlJuODNKNEZUX0x1bXgwZEc3NHZ2RXMxekl6cy05b1E2ZGR5ZTd2SFlMVTd0Y0R5X0Zzd0pTMGh6YldTRHM3c3ZucVQyRXpYcTdjTURDeHVCcw",
+  "https://www.foxnews.com/world/could-irans-regime-collapse-experts-assess-bessents-bid-sever-financial-lifelines"
  ],
  "posts": [
-  {
-   "fp": "capitol charged explosives kill lawmakers plotting state woman york",
-   "title": "New York woman charged with plotting to set off explosives at state Capitol, kill lawmakers",
-   "source": "AP",
-   "at": "2026-08-20T23:54:55.033414+00:00"
-  },
   {
    "fp": "cannot chaos civilians even florida imagine mass respond shooting simulated untrained",
    "title": "\u2018Untrained civilians\u2019 respond to chaos of simulated Florida mass shooting: \u2018I cannot even imagine\u2019",
@@ -3201,10 +3195,15 @@
    "title": "A tornado tears through a village in southern France, injuring 39 and wrecking 300 homes",
    "source": "AP",
    "at": "2026-08-25T11:45:50.904488+00:00"
+  },
+  {
+   "fp": "assess bessent collapse experts financial iran lifelines regime sever",
+   "title": "Could Iran\u2019s regime collapse? Experts assess Bessent\u2019s bid to sever financial lifelines",
+   "source": "Fox News World",
+   "at": "2026-08-25T12:33:43.616538+00:00"
   }
  ],
  "titles": [
-  "capitol charged explosives kill lawmakers plotting state woman york",
   "cannot chaos civilians even florida imagine mass respond shooting simulated untrained",
   "dead henry kissinger nancy report secretary state wife",
   "1996 drive fatal fired hear jurors keffe nephew shakur shooting shots tupac",
@@ -3603,6 +3602,7 @@
   "attack british factories russia threatens",
   "brains grow grown human oldest passage recording seven time world years",
   "campus nuclear plan premature trump victory",
-  "france homes injuring southern tears through tornado village wrecking"
+  "france homes injuring southern tears through tornado village wrecking",
+  "assess bessent collapse experts financial iran lifelines regime sever"
  ]
 }
