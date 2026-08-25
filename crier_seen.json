@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMikwFBVV95cUxOU015Y3pjUWRIci0wcE4zOVMtXzdFSWpiZkZFNGFqRVpCMHlkUGF5NjZfV2V2ejRZUVJvVDFZR0Fld0VienFaTVB2cG05ZzNQNnZ3bkFpYzdYczZmZEx2WTNzb0QxaWE4ZzJibE5DcjN5YUU3SFNxZzNKVTk0aEJ2UlRRSDB6R1haZ25IMFktQzNKYnc",
-  "https://nypost.com/?post_type=article&p=40364310",
   "https://thehill.com/?p=6032232",
   "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
   "https://thehill.com/?p=6032102",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40487523",
   "https://nypost.com/?post_type=article&p=40489912",
   "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
-  "https://nypost.com/?post_type=article&p=40492194"
+  "https://nypost.com/?post_type=article&p=40492194",
+  "https://nypost.com/?post_type=article&p=40489672",
+  "https://www.theguardian.com/us-news/2026/aug/24/massachusetts-woman-police-officer-husband-deaths"
  ],
  "posts": [
-  {
-   "fp": "been congo doses ebola effective ervebo outbreaks past receive vaccine",
-   "title": "Congo to receive 70,000 doses of Ervebo Ebola vaccine which has been effective in past outbreaks",
-   "source": "AP",
-   "at": "2026-08-20T15:33:16.273693+00:00"
-  },
-  {
-   "fp": "america back beautiful city dead",
-   "title": "America\u2019s most beautiful big city is back from the dead",
-   "source": "Washington Examiner",
-   "at": "2026-08-20T15:34:39.482251+00:00"
-  },
   {
    "fp": "asia collapse evergrande founder giant life once prison property richest sentenced",
    "title": "Evergrande founder Hui Ka Yan, once Asia\u2019s richest man, sentenced to life in prison after property giant\u2019s collapse",
@@ -3201,11 +3189,21 @@
    "title": "Tornado near Carcassonne in France injures dozens and damages homes",
    "source": "New York Post",
    "at": "2026-08-24T23:56:42.312536+00:00"
+  },
+  {
+   "fp": "call daughter dead found hours moment reveals surrender",
+   "title": "911 call reveals moment dad who let daughter die in hot car was found dead \u2014 hours before he was set to surrender",
+   "source": "New York Post",
+   "at": "2026-08-25T01:05:10.334891+00:00"
+  },
+  {
+   "fp": "dead found husband killing massachusetts officer police suspected woman",
+   "title": "Massachusetts woman suspected of killing police officer husband found dead",
+   "source": "Guardian World",
+   "at": "2026-08-25T01:05:12.135805+00:00"
   }
  ],
  "titles": [
-  "been congo doses ebola effective ervebo outbreaks past receive vaccine",
-  "america back beautiful city dead",
   "asia collapse evergrande founder giant life once prison property richest sentenced",
   "allies bessent collapse either going iran regime sanctions tells",
   "attack charged connection iraqi manchester synagogue",
@@ -3603,6 +3601,8 @@
   "city critically explosion firefighter hurt martha mayor site vineyard whizzes worker",
   "canoga critically injured park pregnant shooting woman",
   "bahrain evacuated families limbo months navy remain",
-  "carcassonne damages dozens france homes injures near tornado"
+  "carcassonne damages dozens france homes injures near tornado",
+  "call daughter dead found hours moment reveals surrender",
+  "dead found husband killing massachusetts officer police suspected woman"
  ]
 }
