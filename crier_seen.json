@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40377473",
   "CBMiyAFBVV95cUxQblNYRFVuUkNLVkR1TllUNHJTX215TERYSnZ0ckZaQzM1Q2VrMEQxc0ktT0otM2FfeGtUT0hhWXhEV1diRVh2aF8zak4tSDhDd2xxaWtCZXdSNHJ4cVV5M0tNQWNneV9KZWloekxob2pfOG4yMTZzWGlVZHZiRVZmeDd3X1NaM2hhQ0RXc3BwY0ozakMtUjlBX3VQTWNtbzBYYkVqaXBMSEc1OUdvNzBHekZwazk0RGR5eFNlUDVaR1BnOWVHUFdBNw",
   "https://nypost.com/?post_type=article&p=40378720",
   "https://nypost.com/?post_type=article&p=40378055",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6050130",
   "CBMipwFBVV95cUxOOHh2dmcyaWU3UlA2RXhCUnJKNTFucVk5Q0ZsQXMyMWowekZxbC1YOVViTk1uWnJKbXE1VHZ0UHk1c2JHMzNIRThYdU1fNzVOMEotcUZBRThDQ3NvNTRWTmRIQm9uZDJMbllocDBlOENVcjgwYjBCZDBzUkp1S0J5NThTT0RVR05jRnZWaDRNOG5jaHo1b21Gd3JGMVVCQ3dYWElpRFcwYw",
   "https://nypost.com/?post_type=article&p=40500785",
-  "https://nypost.com/?post_type=article&p=40505348"
+  "https://nypost.com/?post_type=article&p=40505348",
+  "https://nypost.com/?post_type=article&p=40507166"
  ],
  "posts": [
-  {
-   "fp": "congo ebola infections issued speed start trial vaccine warning",
-   "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-   "source": "BBC World",
-   "at": "2026-08-21T15:37:28.661918+00:00"
-  },
   {
    "fp": "iran labels sanctions unjust",
    "title": "Iran labels new US sanctions 'unjust'",
@@ -3201,10 +3195,15 @@
    "title": "Final nail in the coffin for California oil boomtown\u2019s council that overruled its own recall",
    "source": "New York Post",
    "at": "2026-08-25T21:56:29.022476+00:00"
+  },
+  {
+   "fp": "claims clancy facts final inconsistent kill lindsay markedly murder points surrounding told trial voice witness",
+   "title": "Final witness in Lindsay Clancy\u2019s murder trial points to \u2018markedly inconsistent\u2019 facts surrounding voice she claims told her to kill",
+   "source": "New York Post",
+   "at": "2026-08-25T22:22:23.802175+00:00"
   }
  ],
  "titles": [
-  "congo ebola infections issued speed start trial vaccine warning",
   "iran labels sanctions unjust",
   "center democratic emergency files keep kennedy lawmaker motion name trump",
   "alex claim false hoax hook jones judgment sandy shooting slashes texas",
@@ -3603,6 +3602,7 @@
   "called charged criminally force impeachment officer trump",
   "attack dead gang haiti kidnapped leaves violent",
   "broke fema florida homes hurricane signs skipped trump watchdog workers",
-  "boomtown california coffin council final nail overruled recall"
+  "boomtown california coffin council final nail overruled recall",
+  "claims clancy facts final inconsistent kill lindsay markedly murder points surrounding told trial voice witness"
  ]
 }
