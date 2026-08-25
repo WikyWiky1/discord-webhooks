@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40374280",
-  "https://www.theguardian.com/world/2026/aug/17/finland-halts-deportation-russian-family-opposed-ukraine-invasion",
   "https://nypost.com/?post_type=article&p=40373395",
   "https://www.washingtonexaminer.com/?p=4689463",
   "https://nypost.com/?post_type=article&p=40373386",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
   "https://www.theguardian.com/politics/2026/aug/25/kemi-badenoch-rishi-sunak-conservatives-anthony-seldon-book",
   "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017",
-  "https://thehill.com/?p=6049018"
+  "https://thehill.com/?p=6049018",
+  "CBMilwFBVV95cUxQSXdSdlFiakVvQjB2SzhmWFlya0NreVVMMURCSVdtZS1VLVZtaEcxanRSb3VfNEV0TmxQcnlkaUNnSlFscVZUblBtelJrZXBhMWtQQjBHallLMjJVX2JtaDZiQ3NWbUlTeVhCOWdEMTAwZkFpWFRaOEI0em13YjF2R3BCd091X0xhQjRtaTNkSXM2SkczaWJr",
+  "https://thehill.com/?p=6049271"
  ],
  "posts": [
-  {
-   "fp": "beach club insane island long tears through tornado video",
-   "title": "Tornado tears through Long Island beach club in insane video",
-   "source": "New York Post",
-   "at": "2026-08-21T04:19:45.528883+00:00"
-  },
-  {
-   "fp": "anxiety attacks cash cyber growth leads stocks wildfires",
-   "title": "Anxiety over war, wildfires and cyber-attacks leads to growth in cash stocks in EU",
-   "source": "Guardian World",
-   "at": "2026-08-21T04:19:47.227985+00:00"
-  },
   {
    "fp": "executes fire five japan killed pachinko parlour",
    "title": "Japan executes man who killed five in Pachinko parlour fire",
@@ -3201,11 +3189,21 @@
    "title": "Cruz says GOP hasn't coalesced behind Vance for 2028 nomination: 'Oh, no'",
    "source": "The Hill",
    "at": "2026-08-25T15:41:18.392881+00:00"
+  },
+  {
+   "fp": "evacuations hours mushrooms ordered rural texas wildfire within",
+   "title": "Evacuations ordered in rural Texas as wildfire mushrooms within hours",
+   "source": "AP",
+   "at": "2026-08-25T16:16:31.403643+00:00"
+  },
+  {
+   "fp": "canada demands derailed last lutnick minute reports talks trade",
+   "title": "Lutnick's last-minute demands derailed Canada trade talks: Reports",
+   "source": "The Hill",
+   "at": "2026-08-25T16:16:33.111671+00:00"
   }
  ],
  "titles": [
-  "beach club insane island long tears through tornado video",
-  "anxiety attacks cash cyber growth leads stocks wildfires",
   "executes fire five japan killed pachinko parlour",
   "alaska charter crash kills military near plane radar remote site western",
   "budget deficit healey john prepares reports unexpected",
@@ -3603,6 +3601,8 @@
   "announces canada escalates goods hundreds live retaliatory tariffs trade",
   "badenoch book claims election months plotted remove sunak",
   "announces canada heats retaliatory tariffs trade",
-  "2028 behind coalesced cruz hasn nomination vance"
+  "2028 behind coalesced cruz hasn nomination vance",
+  "evacuations hours mushrooms ordered rural texas wildfire within",
+  "canada demands derailed last lutnick minute reports talks trade"
  ]
 }
