@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40372008",
-  "https://nypost.com/?post_type=article&p=40371387",
   "CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw",
   "CBMiZkFVX3lxTE1ibzF6X3RLZHhfOVFLSi1mcHdOUHB2cGltRjhHMExlU0h2UzhPR2Z0UFU0MFV1cnJ1RzRRd01UYWJjVF94OEh2VGlXLUNFblk0OE1BWVNEeWRkdWtBMV82cUc4Z0h1UQ",
   "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
@@ -799,21 +797,11 @@
   "CBMitAFBVV95cUxPa182VERRNl9ULTg3MXh0Z004aGNnVW9HQW9TLTI3R01YZzRMeWZEMFhramsxeHVLNGE1ZXAwYTRZcWxMbGF5YTB5dkl6OHVyT2FrTks2ODRFdlNPSTNmUE1MM0ZhaF9LT1JRZEdVX1ZJU2NMNlZiQWlQZ0toUWk1WmVSbXdYTWJva3NxTG92LVJrczhfQzVnLTZ4aE1yYTAwVHVucFNQbHRxSDN6OGJZcjZNVHo",
   "CBMiowFBVV95cUxQUG40VWdpUHNfS0NDbFBSR1haNlhGYUtsdTk5TzlQcVhZV25BdmNjRlhBV3BiY3VRbzFNUDNwWlNxOXJlU0xXaHo2Wklvb0s2NnhqNFA5NHgwWXdQZlRKYkkxWkYtcnZNUFVDdWNkZmpvUlBhdGNPSVVadHp3Vmo0dzNzR0lSdmFrWXgzX21VME40NEM5dUtpREdWZVl2YTlIeFVB",
   "https://www.theguardian.com/business/2026/aug/25/europe-heatwaves-insurance-companies-earnings",
-  "https://www.bbc.co.uk/news/articles/c93vpd60654o#1"
+  "https://www.bbc.co.uk/news/articles/c93vpd60654o#1",
+  "https://www.theguardian.com/australia-news/2026/aug/25/bathla-group-sydney-property-developer-collapses",
+  "CBMi1gFBVV95cUxNQ1BpRThDZHRjZkV3dTVxQWVibzBvVWIwT3M3b0Vaa0UyOFNLeVNiX2UweTFmR1hXMDJ1Zmo1UXVJelEyb3B3dUl1WUVjcHFHSkxGcDJjMjRuWGtHR0dybEZ2VGhoNGdwVEVnY1Q4a1lWN3BrbV9vYXNmWDVRYkhlS3hhbUZVU1NSckJNRHdRWGlnRHhSZk5UZE9BRmItamVINFhJZmRwWlNzXzItUGRRbUZqMnlVdkdrdlEwTWFjaFVEd2dMOHNqRE9Fb21iYmd0eExTRGd3"
  ],
  "posts": [
-  {
-   "fp": "cyclosporiasis health outbreak record response system tests weakened",
-   "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
-   "source": "NPR News",
-   "at": "2026-08-20T19:58:55.049839+00:00"
-  },
-  {
-   "fp": "alleged attack capitol foils isis plan state woman york",
-   "title": "FBI foils New York woman\u2019s alleged ISIS attack plan on state capitol",
-   "source": "Washington Examiner",
-   "at": "2026-08-20T20:31:21.132177+00:00"
-  },
   {
    "fp": "allegedly caused crash driver drunk family girl horrific killed mourns socal suspected",
    "title": "Family mourns girl, 8, killed in horrific SoCal crash allegedly caused by suspected drunk driver",
@@ -3201,11 +3189,21 @@
    "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
    "source": "BBC World",
    "at": "2026-08-25T06:45:28.100127+00:00"
+  },
+  {
+   "fp": "buyers collapses developer leaving limbo major perfect property storm sydney",
+   "title": "Major Sydney property developer collapses after \u2018perfect storm\u2019, leaving buyers in limbo",
+   "source": "Guardian World",
+   "at": "2026-08-25T07:10:17.343360+00:00"
+  },
+  {
+   "fp": "airport attack drone explosives failed find german investigators media third",
+   "title": "German investigators find third drone, explosives after failed airport attack, media say",
+   "source": "Reuters",
+   "at": "2026-08-25T07:10:19.038142+00:00"
   }
  ],
  "titles": [
-  "cyclosporiasis health outbreak record response system tests weakened",
-  "alleged attack capitol foils isis plan state woman york",
   "allegedly caused crash driver drunk family girl horrific killed mourns socal suspected",
   "attack building capitol charged inspired planning state woman york",
   "andes damages earthquake immediate magnitude peru reported shaken southern",
@@ -3603,6 +3601,8 @@
   "billion earnings nvidia options price shares show swing",
   "canada economies races rattle senate states trade trump",
   "agency earnings europe heatwaves insurers rating threaten",
-  "canada escalates hike tariff threatens trade trump vehicles"
+  "canada escalates hike tariff threatens trade trump vehicles",
+  "buyers collapses developer leaving limbo major perfect property storm sydney",
+  "airport attack drone explosives failed find german investigators media third"
  ]
 }
