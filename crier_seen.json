@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6030662",
   "CBMinwFBVV95cUxNRGMxazQ3aC1nN2JTWmNzUGxNd1JaNXlUam9PQ05SVW44a2NCTlNNRzlwdnRBQkpEY0pIYTdpYk5DUzhnZG9XVWdwbUxNM3BJOEpJQzk4djduaTVHcl92NXFIS01kZ2lTcnplZE8teGdCaDhpdzQzLVZqeFVfTjl1ODJjcy1nRnlkZlBFOG5UaEszcXhFVTZ6U003ZlBfbWM",
   "https://www.theguardian.com/us-news/2026/aug/17/kentucky-mass-shooting-teenager-charged-murder",
   "https://decider.com/2026/08/17/the-boys-daveed-diggs-emmy-nomination-oh-father-song-raise-him-up/",
@@ -799,15 +798,10 @@
   "CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK",
   "CBMigwFBVV95cUxNUExDUGZBbXhJOXZta0tiOEhmckJ2c1Viei1pMnk2ZEpwVVdieFUzVU54X194NW5LRmZ1NlNIaWhCWVFMNFpZN3hzSXJUcF80NFg2TVdfVGJmUzByWkIzQVV4ckE4N2xscjNVeHNiekZKRlBBNlBVVHVsc2NRVVhfQVdxVQ",
   "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
-  "CBMipAFBVV95cUxPX28xVzhGSE02dFlOSGw0WlBnSTdWMUw0YTh4SENuc1NCOHhLQU00bDlaRDBXZUgtd05Ua2J3Z1VyRG5vd2RhbVZOaUNCRDdMX04weTJLSFJkTmFqOEVhMmx6MFVURDdadG5xYzM5c1BMVVFxek83MWJzZVJBcTdLYXNJeXNKaHd1UlNWT29EUVFXcGUyOTlsNDR4VXhWY20tQTFqSg"
+  "CBMipAFBVV95cUxPX28xVzhGSE02dFlOSGw0WlBnSTdWMUw0YTh4SENuc1NCOHhLQU00bDlaRDBXZUgtd05Ua2J3Z1VyRG5vd2RhbVZOaUNCRDdMX04weTJLSFJkTmFqOEVhMmx6MFVURDdadG5xYzM5c1BMVVFxek83MWJzZVJBcTdLYXNJeXNKaHd1UlNWT29EUVFXcGUyOTlsNDR4VXhWY20tQTFqSg",
+  "https://www.theguardian.com/us-news/2026/aug/25/mother-daughter-killed-lightning-florida"
  ],
  "posts": [
-  {
-   "fp": "canada close deal needed trade very work",
-   "title": "Canada says trade deal with US is 'very close,' more work needed",
-   "source": "Reuters",
-   "at": "2026-08-21T01:15:55.746921+00:00"
-  },
   {
    "fp": "cuba imposes including mining sanctions sector",
    "title": "US imposes more sanctions on Cuba, including mining sector",
@@ -3201,10 +3195,15 @@
    "title": "U.S. Futures Higher Amid Ongoing Trade War with Canada",
    "source": "WSJ",
    "at": "2026-08-25T12:46:11.916826+00:00"
+  },
+  {
+   "fp": "daughter florida killed lightning mother strike year",
+   "title": "Mother and two-year-old daughter killed by lightning strike in Florida",
+   "source": "Guardian World",
+   "at": "2026-08-25T13:31:23.000327+00:00"
   }
  ],
  "titles": [
-  "canada close deal needed trade very work",
   "cuba imposes including mining sanctions sector",
   "americans cuba detentions island ramps returning sanctions",
   "about alabama basketball defamed incorrect jury player shooting story times york",
@@ -3603,6 +3602,7 @@
   "canada gains intensifies iran points pressure raises street trade wall",
   "america considering escalates lake ontario renaming trade trump",
   "china interests iran protect sanctions warns widens",
-  "canada futures higher ongoing trade"
+  "canada futures higher ongoing trade",
+  "daughter florida killed lightning mother strike year"
  ]
 }
