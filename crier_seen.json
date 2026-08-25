@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6032232",
-  "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
-  "https://thehill.com/?p=6032102",
-  "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
-  "https://nypost.com/?post_type=article&p=40368523",
   "CBMiZ0FVX3lxTE44LTM4c2FvemlqVWlMbkJxTzE4aWZTcXlLSnBGLWtqME5ydGh6clBaSUtiUzlCY1VDTzRkYkVMUktOY0hNd3RQZnQtUjRmU2o0eUduakg1LVViZGZneDZNYkR5XzdnLVU",
   "https://news.sky.com/story/ebola-outbreak-in-dr-congo-now-deadliest-in-countrys-history-13573874",
   "https://nypost.com/?post_type=article&p=40370089",
@@ -799,39 +794,14 @@
   "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
   "https://nypost.com/?post_type=article&p=40492194",
   "https://nypost.com/?post_type=article&p=40489672",
-  "https://www.theguardian.com/us-news/2026/aug/24/massachusetts-woman-police-officer-husband-deaths"
+  "https://www.theguardian.com/us-news/2026/aug/24/massachusetts-woman-police-officer-husband-deaths",
+  "CBMixwFBVV95cUxQVWlVQm1XNmhOeHkwYm5qZ3gyR1k2UDA4anFkeThSeTNrT2JuNGRBb1M2c3VVYmRpVUQ3LUpWRjR4bEhONkI0SzFuNkdIR1V1SW5tdWEzTGdoWk8xTGU1bkI4MzZiRzQ0TU4xaU5QOHhVUVNKWm5zZ0Jka1hEdWlkWWxCUjR1Ykw1VVQ3OEZpS0JRRkNtbkJ4ckhBSlhqRTAzNUtTeE9MNU1wYlpWRl9xVGc5WllJRTU2OVRyT05YMVVNeHZqenpJ",
+  "CBMinAFBVV95cUxQQk12QTBQMWIwcnlxcmRTX2ZxRjhxZl9NN1BnTXVGRTcyLUJxclhTZlluRHd6MlVJUHd4U2tFNVVnTHlIbzdHWk9sSVdnSlZBUGVRWEFodWFaVTFyZE8xS3phSDZwdFltb0hOZ0pPQ3pGSzU3ZElYQm42ZzlOTUhDazJWeEhZNkNQWnE3T1F0QUtqaGFFQUtjTUYxQS0",
+  "https://www.washingtonexaminer.com/?p=4698692",
+  "https://www.washingtonexaminer.com/?p=4698749",
+  "https://thehill.com/?p=6047832"
  ],
  "posts": [
-  {
-   "fp": "asia collapse evergrande founder giant life once prison property richest sentenced",
-   "title": "Evergrande founder Hui Ka Yan, once Asia\u2019s richest man, sentenced to life in prison after property giant\u2019s collapse",
-   "source": "New York Post",
-   "at": "2026-08-20T16:02:37.359930+00:00"
-  },
-  {
-   "fp": "allies bessent collapse either going iran regime sanctions tells",
-   "title": "Bessent tells US allies \u2018you\u2019re either with us or against us\u2019 on Iran sanctions: \u2018We are going to collapse this regime\u2019",
-   "source": "New York Post",
-   "at": "2026-08-20T16:52:44.963165+00:00"
-  },
-  {
-   "fp": "attack charged connection iraqi manchester synagogue",
-   "title": "Iraqi man charged in connection with Manchester synagogue attack",
-   "source": "Telegraph",
-   "at": "2026-08-20T16:52:46.664222+00:00"
-  },
-  {
-   "fp": "boat capsizes children killed least mostly nigeria overloaded",
-   "title": "At least 50 killed, mostly children, as overloaded boat capsizes in Nigeria",
-   "source": "Reuters",
-   "at": "2026-08-20T17:59:26.917022+00:00"
-  },
-  {
-   "fp": "better classic dead food hotspot look returns sexy vastly york",
-   "title": "Classic New York hotspot returns from the dead with a sexy new look \u2014 and vastly better food",
-   "source": "New York Post",
-   "at": "2026-08-20T17:59:28.689075+00:00"
-  },
   {
    "fp": "fight help russia serbia turns wildfires",
    "title": "Serbia turns to Russia to help fight wildfires",
@@ -3201,14 +3171,39 @@
    "title": "Massachusetts woman suspected of killing police officer husband found dead",
    "source": "Guardian World",
    "at": "2026-08-25T01:05:12.135805+00:00"
+  },
+  {
+   "fp": "challenges focus listing market mask shein stock sustainability",
+   "title": "Focus: Shein's stock market listing will not mask sustainability challenges",
+   "source": "Reuters",
+   "at": "2026-08-25T01:13:35.597433+00:00"
+  },
+  {
+   "fp": "cheap china flooding goods levying market moves sources tariff toward trump",
+   "title": "Trump moves toward levying new tariff on China for flooding market with cheap goods, AP sources say",
+   "source": "AP",
+   "at": "2026-08-25T01:13:37.333614+00:00"
+  },
+  {
+   "fp": "border canada defense helpful puts republicans state trade",
+   "title": "Canada trade war puts border state Republicans on defense: \u2018Not helpful\u2019",
+   "source": "Washington Examiner",
+   "at": "2026-08-25T01:13:39.058461+00:00"
+  },
+  {
+   "fp": "days fire gives hampshire independent lutnick senate spoiler trump",
+   "title": "Independent gives Trump 10 days to fire Lutnick, or he\u2019ll run as spoiler for New Hampshire Senate",
+   "source": "Washington Examiner",
+   "at": "2026-08-25T01:13:40.758392+00:00"
+  },
+  {
+   "fp": "call democrats hearing iran senate strain troops",
+   "title": "Senate Democrats call for hearing on Iran war's strain on troops",
+   "source": "The Hill",
+   "at": "2026-08-25T01:13:42.468997+00:00"
   }
  ],
  "titles": [
-  "asia collapse evergrande founder giant life once prison property richest sentenced",
-  "allies bessent collapse either going iran regime sanctions tells",
-  "attack charged connection iraqi manchester synagogue",
-  "boat capsizes children killed least mostly nigeria overloaded",
-  "better classic dead food hotspot look returns sexy vastly york",
   "fight help russia serbia turns wildfires",
   "brother grand indicted jury kids michele murder nick reiner testified",
   "congo contain ebola ervebo outbreak receive vaccines",
@@ -3603,6 +3598,11 @@
   "bahrain evacuated families limbo months navy remain",
   "carcassonne damages dozens france homes injures near tornado",
   "call daughter dead found hours moment reveals surrender",
-  "dead found husband killing massachusetts officer police suspected woman"
+  "dead found husband killing massachusetts officer police suspected woman",
+  "challenges focus listing market mask shein stock sustainability",
+  "cheap china flooding goods levying market moves sources tariff toward trump",
+  "border canada defense helpful puts republicans state trade",
+  "days fire gives hampshire independent lutnick senate spoiler trump",
+  "call democrats hearing iran senate strain troops"
  ]
 }
