@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40378071",
-  "https://nypost.com/?post_type=article&p=40379952",
-  "https://nypost.com/?post_type=article&p=40377713",
-  "https://thehill.com/?p=6033660",
   "https://nypost.com/?post_type=article&p=40379904",
   "CBMikwFBVV95cUxOa3BGSUdZbXJJa2YwYTI3cWhGQ0dyZ3paTi1KcTBmUnRLM3B3MVIyVlh3blJRbmE3YklYN2FIU3ZzN1Z6VGRqcTdpU2UzRlkwNlRBT0xGVXFvUG5oSDRvVmFuQW1DZnEtUzE4S3YtRVk2VG9EaVk5WjdyaV93bFUzV1ZRb1hwV1B1eE9PNlNiYk9TNFk",
   "https://nypost.com/?post_type=article&p=40378393",
@@ -799,33 +795,13 @@
   "https://thehill.com/?p=6030474",
   "CBMixwFBVV95cUxOQkoxdV83WXpiYW1YUTFfYUZSVTU5SG9oc3FkZ1N2aGozRmNqNXRwbk1XaEVWZDIza0YwTFc0R1FEckd6ZWtRMG1QTkdCZE9jUURDcl9laXZRazFRTnZiZFJ5cEtBU2xhODhhenVhSTBtYkFPVDNnTEVPRjFudzVIUGoxRF9YZzBSa3B4QTlMTHJWaW1oODlITE9aYUd1SWhoV3BCUlZpTkU3LVZncVEyMmFPenFlMmpFS0hKR290UGlsMDcyVmdR",
   "CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c",
-  "CBMinwFBVV95cUxPR3JfY3FOQ2VaYVhZd2JnaFdSZDAwNzhfc3hxbm5ibDR5dzRMcGwtNnZTX0tLY2R1U3RfNnRqd0V6eHVGX0hHNzVGdWJ4allUbzhnaU5sd3hHZzctZkwxS1dhS2N6QVFfcUtyRkd4WXdSYTdkWEVicWJObFMza2R5NEFaRWo4YnRWZURDbWZaa19VMGJRWEFualEyemFleVk"
+  "CBMinwFBVV95cUxPR3JfY3FOQ2VaYVhZd2JnaFdSZDAwNzhfc3hxbm5ibDR5dzRMcGwtNnZTX0tLY2R1U3RfNnRqd0V6eHVGX0hHNzVGdWJ4allUbzhnaU5sd3hHZzctZkwxS1dhS2N6QVFfcUtyRkd4WXdSYTdkWEVicWJObFMza2R5NEFaRWo4YnRWZURDbWZaa19VMGJRWEFualEyemFleVk",
+  "https://nypost.com/?post_type=article&p=40505985",
+  "https://nypost.com/?post_type=article&p=40506656",
+  "https://nypost.com/?post_type=article&p=40488314",
+  "https://thehill.com/?p=6050130"
  ],
  "posts": [
-  {
-   "fp": "attack high injured people school several swedish sword",
-   "title": "Several people injured in sword attack at Swedish high school",
-   "source": "Reuters World",
-   "at": "2026-08-21T14:10:21.968426+00:00"
-  },
-  {
-   "fp": "case failed harry initial invasion million must others prince privacy",
-   "title": "Prince Harry and 6 others must pay initial $13 million over failed invasion of privacy case",
-   "source": "AP",
-   "at": "2026-08-21T14:55:07.263289+00:00"
-  },
-  {
-   "fp": "bond boyfriend domestic killed murder suicide violence",
-   "title": "Mom of 3 killed by boyfriend in murder-suicide while he was out on bond for domestic violence",
-   "source": "New York Post",
-   "at": "2026-08-21T14:55:09.014925+00:00"
-  },
-  {
-   "fp": "conken dead florida football player university west",
-   "title": "University of West Florida football player Ben Conken dead at 20",
-   "source": "New York Post",
-   "at": "2026-08-21T15:25:36.704659+00:00"
-  },
   {
    "fp": "california deadly explodes fire freeway killing least tour",
    "title": "Deadly tour bus fire explodes on California freeway, killing at least 1",
@@ -3201,13 +3177,33 @@
    "title": "Darline Graham, Ralph Norman go head-to-head in South Carolina\u2019s GOP Senate runoff",
    "source": "AP",
    "at": "2026-08-25T21:27:36.411412+00:00"
+  },
+  {
+   "fp": "along burning burns festival issues nevada revelers route thousands warning wildfire",
+   "title": "Burning Man issues warning to thousands of revelers as Nevada wildfire burns along key route to festival",
+   "source": "New York Post",
+   "at": "2026-08-25T21:31:22.955301+00:00"
+  },
+  {
+   "fp": "apart cops customer deli down fatally gunned heists hours killed parolee restaurant then violent wings worker",
+   "title": "Violent NYC parolee fatally gunned down wings restaurant worker, then killed deli customer in heists 48 hours apart: cops",
+   "source": "New York Post",
+   "at": "2026-08-25T21:31:25.099781+00:00"
+  },
+  {
+   "fp": "bitter brother dead exposing family feud hollywood listing mansion pitting rare",
+   "title": "A $16.9M listing for rare Old Hollywood mansion is exposing a bitter family feud \u2014 pitting dead brother against dead brother",
+   "source": "New York Post",
+   "at": "2026-08-25T21:31:26.910676+00:00"
+  },
+  {
+   "fp": "called charged criminally force impeachment officer trump",
+   "title": "Air Force officer who called for Trump impeachment criminally charged",
+   "source": "The Hill",
+   "at": "2026-08-25T21:31:28.822144+00:00"
   }
  ],
  "titles": [
-  "attack high injured people school several swedish sword",
-  "case failed harry initial invasion million must others prince privacy",
-  "bond boyfriend domestic killed murder suicide violence",
-  "conken dead florida football player university west",
   "california deadly explodes fire freeway killing least tour",
   "advice anti antisemitic controversial court found israel ruling seeking urgent vandalism",
   "bond ease market rise stocks swings",
@@ -3603,6 +3599,10 @@
   "governor live oklahoma primary results runoff seeks trump",
   "america canadians expresses french lake love mulls ontario renaming trade trump",
   "back bond bounces drop nvidia results rises street tech wall yields",
-  "carolina darline graham head norman ralph runoff senate south"
+  "carolina darline graham head norman ralph runoff senate south",
+  "along burning burns festival issues nevada revelers route thousands warning wildfire",
+  "apart cops customer deli down fatally gunned heists hours killed parolee restaurant then violent wings worker",
+  "bitter brother dead exposing family feud hollywood listing mansion pitting rare",
+  "called charged criminally force impeachment officer trump"
  ]
 }
