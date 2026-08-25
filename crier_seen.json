@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiZkFVX3lxTE1ibzF6X3RLZHhfOVFLSi1mcHdOUHB2cGltRjhHMExlU0h2UzhPR2Z0UFU0MFV1cnJ1RzRRd01UYWJjVF94OEh2VGlXLUNFblk0OE1BWVNEeWRkdWtBMV82cUc4Z0h1UQ",
-  "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
   "https://www.foxnews.com/world/australia-sets-launch-sweeping-gun-buyback-bondi-beach-terror-attack-sensible-gun-reform",
   "CBMimwFBVV95cUxQZUFvLVN2ZzIzTThlcEh1eFdHblhkYTVBZ1RSMElQMnhiREpYM01EbkVBYmZsUHJ3dWJ2aUVOWVZXRklDTlRZNW9CVDdQMHNHWDhOMUM3bndiUmNNWGdKb1RuYzY3UGF5N1o5TUFTVmJjdzlEU0RUS2tRQjNhVmZIdUlQUnd4YmY5RXdNQmFJRE9fbnktRHF6YTAtWQ",
   "CBMiZ0FVX3lxTE9URFBFamVCLTFrNzFQLTltVVo2ZnZ3TTdBZDBpbU1LXzNSbTF5RHBxSXlwWEVLMnEzcHlOX1NRdEtnVnBGVjJ1Q1VUUnVvSXNYVWpGRVJPcEVTdG9RSUFWS28ycGxOdFE",
@@ -799,21 +797,11 @@
   "https://www.bbc.co.uk/news/articles/c93vpd60654o#1",
   "https://www.theguardian.com/australia-news/2026/aug/25/bathla-group-sydney-property-developer-collapses",
   "CBMi1gFBVV95cUxNQ1BpRThDZHRjZkV3dTVxQWVibzBvVWIwT3M3b0Vaa0UyOFNLeVNiX2UweTFmR1hXMDJ1Zmo1UXVJelEyb3B3dUl1WUVjcHFHSkxGcDJjMjRuWGtHR0dybEZ2VGhoNGdwVEVnY1Q4a1lWN3BrbV9vYXNmWDVRYkhlS3hhbUZVU1NSckJNRHdRWGlnRHhSZk5UZE9BRmItamVINFhJZmRwWlNzXzItUGRRbUZqMnlVdkdrdlEwTWFjaFVEd2dMOHNqRE9Fb21iYmd0eExTRGd3",
-  "https://nypost.com/?post_type=article&p=40494757"
+  "https://nypost.com/?post_type=article&p=40494757",
+  "https://www.washingtonexaminer.com/?p=4699045",
+  "CBMirgFBVV95cUxOVURnQUFXanROYkZmLWtxTnpMZUxpRjB5b0pBVmZYalpuSEpjTlVoYlVya1hubUFzRDZ6eS1iYUN3X1BXcUVfUElnSHRwNE83TlEtanF6M0JyR3p6RmhCbE50SWV2TEhpd0hVamVWRl9mSzhEeE8wNXJ5T0dIdkQ5Rk91Qkxnd3o4a0pvdXdJMjhQZ1NkbHozaTlFc0Y0SlR0TElwTzBmNTgwVUVFNEE"
  ],
  "posts": [
-  {
-   "fp": "attack building capitol charged inspired planning state woman york",
-   "title": "Woman charged with planning IS-inspired attack on New York state capitol building",
-   "source": "Guardian World",
-   "at": "2026-08-20T20:31:24.877880+00:00"
-  },
-  {
-   "fp": "andes damages earthquake immediate magnitude peru reported shaken southern",
-   "title": "A magnitude 6.7 earthquake has shaken Peru\u2019s southern Andes, no immediate damages reported",
-   "source": "AP",
-   "at": "2026-08-20T20:31:26.571941+00:00"
-  },
   {
    "fp": "accident camp forgotten freak killed never summer",
    "title": "Boy, 8, killed in freak accident at summer camp: \u2018Never forgotten\u2019",
@@ -3201,11 +3189,21 @@
    "title": "Nashville HS student shot dead after attending football game as Clay Travis triples reward money to help catch killer",
    "source": "New York Post",
    "at": "2026-08-25T08:00:20.049146+00:00"
+  },
+  {
+   "fp": "destroyed firefighters homes make nevada progress wildfire",
+   "title": "Firefighters make progress against a Nevada wildfire that\u2019s destroyed more than 30 homes",
+   "source": "Washington Examiner",
+   "at": "2026-08-25T09:01:51.304509+00:00"
+  },
+  {
+   "fp": "answers details gaza hospital israeli journalists killed strike year",
+   "title": "New details but no answers a year after an Israeli strike on a Gaza hospital killed journalists",
+   "source": "AP",
+   "at": "2026-08-25T09:01:52.976082+00:00"
   }
  ],
  "titles": [
-  "attack building capitol charged inspired planning state woman york",
-  "andes damages earthquake immediate magnitude peru reported shaken southern",
   "accident camp forgotten freak killed never summer",
   "charging chatgpt deadly defend expert explosion killed report suit used witness",
   "boat capsizes dead dozens nigeria north western",
@@ -3603,6 +3601,8 @@
   "canada escalates hike tariff threatens trade trump vehicles",
   "buyers collapses developer leaving limbo major perfect property storm sydney",
   "airport attack drone explosives failed find german investigators media third",
-  "attending catch clay dead football game help killer money nashville reward shot student travis triples"
+  "attending catch clay dead football game help killer money nashville reward shot student travis triples",
+  "destroyed firefighters homes make nevada progress wildfire",
+  "answers details gaza hospital israeli journalists killed strike year"
  ]
 }
