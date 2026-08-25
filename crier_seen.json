@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40379904",
-  "CBMikwFBVV95cUxOa3BGSUdZbXJJa2YwYTI3cWhGQ0dyZ3paTi1KcTBmUnRLM3B3MVIyVlh3blJRbmE3YklYN2FIU3ZzN1Z6VGRqcTdpU2UzRlkwNlRBT0xGVXFvUG5oSDRvVmFuQW1DZnEtUzE4S3YtRVk2VG9EaVk5WjdyaV93bFUzV1ZRb1hwV1B1eE9PNlNiYk9TNFk",
-  "https://nypost.com/?post_type=article&p=40378393",
   "https://nypost.com/?post_type=article&p=40377473",
   "CBMiyAFBVV95cUxQblNYRFVuUkNLVkR1TllUNHJTX215TERYSnZ0ckZaQzM1Q2VrMEQxc0ktT0otM2FfeGtUT0hhWXhEV1diRVh2aF8zak4tSDhDd2xxaWtCZXdSNHJ4cVV5M0tNQWNneV9KZWloekxob2pfOG4yMTZzWGlVZHZiRVZmeDd3X1NaM2hhQ0RXc3BwY0ozakMtUjlBX3VQTWNtbzBYYkVqaXBMSEc1OUdvNzBHekZwazk0RGR5eFNlUDVaR1BnOWVHUFdBNw",
   "https://nypost.com/?post_type=article&p=40378720",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40505985",
   "https://nypost.com/?post_type=article&p=40506656",
   "https://nypost.com/?post_type=article&p=40488314",
-  "https://thehill.com/?p=6050130"
+  "https://thehill.com/?p=6050130",
+  "CBMipwFBVV95cUxOOHh2dmcyaWU3UlA2RXhCUnJKNTFucVk5Q0ZsQXMyMWowekZxbC1YOVViTk1uWnJKbXE1VHZ0UHk1c2JHMzNIRThYdU1fNzVOMEotcUZBRThDQ3NvNTRWTmRIQm9uZDJMbllocDBlOENVcjgwYjBCZDBzUkp1S0J5NThTT0RVR05jRnZWaDRNOG5jaHo1b21Gd3JGMVVCQ3dYWElpRFcwYw",
+  "https://nypost.com/?post_type=article&p=40500785",
+  "https://nypost.com/?post_type=article&p=40505348"
  ],
  "posts": [
-  {
-   "fp": "california deadly explodes fire freeway killing least tour",
-   "title": "Deadly tour bus fire explodes on California freeway, killing at least 1",
-   "source": "New York Post",
-   "at": "2026-08-21T15:25:38.540311+00:00"
-  },
-  {
-   "fp": "advice anti antisemitic controversial court found israel ruling seeking urgent vandalism",
-   "title": "NSW \u2018seeking urgent advice\u2019 on controversial court ruling that found anti-Israel vandalism was not antisemitic",
-   "source": "Guardian World",
-   "at": "2026-08-21T15:25:40.230284+00:00"
-  },
-  {
-   "fp": "bond ease market rise stocks swings",
-   "title": "US stocks rise as the bond market\u2019s big swings ease a bit",
-   "source": "AP",
-   "at": "2026-08-21T15:37:26.776497+00:00"
-  },
   {
    "fp": "congo ebola infections issued speed start trial vaccine warning",
    "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
@@ -3201,12 +3183,27 @@
    "title": "Air Force officer who called for Trump impeachment criminally charged",
    "source": "The Hill",
    "at": "2026-08-25T21:31:28.822144+00:00"
+  },
+  {
+   "fp": "attack dead gang haiti kidnapped leaves violent",
+   "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
+   "source": "AP",
+   "at": "2026-08-25T21:56:25.395143+00:00"
+  },
+  {
+   "fp": "broke fema florida homes hurricane signs skipped trump watchdog workers",
+   "title": "FEMA workers who skipped hurricane-hit Florida homes with Trump signs broke the law: watchdog",
+   "source": "New York Post",
+   "at": "2026-08-25T21:56:27.193944+00:00"
+  },
+  {
+   "fp": "boomtown california coffin council final nail overruled recall",
+   "title": "Final nail in the coffin for California oil boomtown\u2019s council that overruled its own recall",
+   "source": "New York Post",
+   "at": "2026-08-25T21:56:29.022476+00:00"
   }
  ],
  "titles": [
-  "california deadly explodes fire freeway killing least tour",
-  "advice anti antisemitic controversial court found israel ruling seeking urgent vandalism",
-  "bond ease market rise stocks swings",
   "congo ebola infections issued speed start trial vaccine warning",
   "iran labels sanctions unjust",
   "center democratic emergency files keep kennedy lawmaker motion name trump",
@@ -3603,6 +3600,9 @@
   "along burning burns festival issues nevada revelers route thousands warning wildfire",
   "apart cops customer deli down fatally gunned heists hours killed parolee restaurant then violent wings worker",
   "bitter brother dead exposing family feud hollywood listing mansion pitting rare",
-  "called charged criminally force impeachment officer trump"
+  "called charged criminally force impeachment officer trump",
+  "attack dead gang haiti kidnapped leaves violent",
+  "broke fema florida homes hurricane signs skipped trump watchdog workers",
+  "boomtown california coffin council final nail overruled recall"
  ]
 }
