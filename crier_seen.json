@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/18/florida-primary-election-senate-governor-races",
-  "CBMiYkFVX3lxTE5DeVdReDBLZmZ1VnEyc3E2LUZEcWJkQjc5QWxtWDRmeVhGaEJMZk9pU1kwSmFTWW9WREZuTElSZnJEdzVDQ0VER3BfR1RrM0F0cXZDRUUxeDlLMEhMaVNjRTBR",
-  "https://nypost.com/?post_type=article&p=40387531",
-  "https://nypost.com/?post_type=article&p=40381415",
   "https://nypost.com/?post_type=article&p=40382426",
   "CBMizgFBVV95cUxNdGU5SDV5WlhteEdoT2hlZTBkZzY2N1hnYU5sZHF1N3FqTGc1UEd1Mm9MTjk5V24telp3cWVsc08yU3dqU3lJemxZaGhXb0t4UUNBdkpXTFFUckwzRDZ2cDFOenpsN013aW5RRDVWSUxHRHpkVTBzeTV6NmRRR2NhWGtoeEpjLURMTEY5bjlyck5zLXQ5cU9KVTRwNDFQUjZuWU9lRU1vRnBORm5zdi1zTVpIb3VqY0FLRjZZUzBQYktDOEs3Rl9nOHBOZF9zQQ",
   "https://www.theguardian.com/world/2026/aug/18/mechanical-fault-helicopter-crash-killed-british-newlyweds-sifnos-greece",
@@ -799,33 +795,13 @@
   "CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw",
   "https://nypost.com/?post_type=article&p=40514387",
   "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
-  "CBMiqwFBVV95cUxNSFljRnhIU0VkWXNmcDRwUVdZbFlXV1hnV1RiQ2prNm4yODgteUdhRGo2aGd5dHJBdUFYZFhMN0p0SEpvVEFSRVI5V1o2Z1phaE5PdlRScmdTaTlmaHVmREd6cndKMWhZNFNoalByU2pyOHpueGhndzVVX3FRTm5MTFpISXNfWG5NTHV0Q2Jsb2tSS0xpbWtJTDFteUU2bkhnWVUtTFNuRVNqM1U"
+  "CBMiqwFBVV95cUxNSFljRnhIU0VkWXNmcDRwUVdZbFlXV1hnV1RiQ2prNm4yODgteUdhRGo2aGd5dHJBdUFYZFhMN0p0SEpvVEFSRVI5V1o2Z1phaE5PdlRScmdTaTlmaHVmREd6cndKMWhZNFNoalByU2pyOHpueGhndzVVX3FRTm5MTFpISXNfWG5NTHV0Q2Jsb2tSS0xpbWtJTDFteUU2bkhnWVUtTFNuRVNqM1U",
+  "https://nypost.com/?post_type=article&p=40514413",
+  "https://nypost.com/?post_type=article&p=40509439",
+  "CBMitgFBVV95cUxQMm5hSC1PNnBiNHV4QTJxemNPSE5YdVdTSTlRWVJhZnU2dU9kbTlZQmkwbHFPbGYyRGxQTEV5WHR1R2R2SDNNQ21ya0Z4bldkQ2dMMDBJT2c3Z3loaU1GV1l2SUV1MXFnMjNBeWFPSHBUaEl3UXBDNnJMVWlDSWIyMkYzenZHNEhQa2FjQXk3YU5FVVJWbnNmQ3ZaWk83VXYyRFRrV3dCOHhFZTllWi12OEVtSE9aQQ",
+  "https://nypost.com/?post_type=article&p=40514416"
  ],
  "posts": [
-  {
-   "fp": "days dead found grandpa hike lake loving nature socal three vanishing",
-   "title": "Nature-loving grandpa, 83, found dead in SoCal lake three days after vanishing on hike",
-   "source": "New York Post",
-   "at": "2026-08-21T23:16:32.674251+00:00"
-  },
-  {
-   "fp": "area disgusting evacuate firefighters forces infestation station",
-   "title": "Disgusting infestation forces firefighters to evacuate Bay Area station",
-   "source": "New York Post",
-   "at": "2026-08-21T23:16:34.377799+00:00"
-  },
-  {
-   "fp": "days dies girl incident killed parents shoreham sister three",
-   "title": "Girl, 6, dies three days after Shoreham sea incident that killed parents and sister",
-   "source": "Guardian World",
-   "at": "2026-08-21T23:16:36.213983+00:00"
-  },
-  {
-   "fp": "attack dead school swedish sword",
-   "title": "One dead after sword attack at Swedish school",
-   "source": "Telegraph",
-   "at": "2026-08-21T23:16:37.982235+00:00"
-  },
   {
    "fp": "board california controversial demands energy resignation rule senator tire",
    "title": "California senator demands resignation of energy board over controversial tire rule",
@@ -3201,13 +3177,33 @@
    "title": "Terrestrial TV switch-off fuels Russian cyber attack fears",
    "source": "Telegraph",
    "at": "2026-08-26T08:21:08.403307+00:00"
+  },
+  {
+   "fp": "crash head hudson island killed lacrosse long medical star supplies valley",
+   "title": "Ex-Long Island lacrosse star, medical supplies CEO killed in Hudson Valley head-on crash",
+   "source": "New York Post",
+   "at": "2026-08-26T09:22:37.818874+00:00"
+  },
+  {
+   "fp": "attack cops hochul public safety working",
+   "title": "Hochul\u2019s ban on cops working with ICE is an attack on public safety",
+   "source": "New York Post",
+   "at": "2026-08-26T09:22:39.564685+00:00"
+  },
+  {
+   "fp": "baby capital fire hospital kills newborns nursery pakistan rescued",
+   "title": "Hospital nursery fire kills 14 newborns in Pakistan\u2019s capital while 1 baby is rescued",
+   "source": "AP",
+   "at": "2026-08-26T09:22:41.281741+00:00"
+  },
+  {
+   "fp": "agent charged jail minnesota released shooting texas",
+   "title": "ICE agent charged with shooting in Minnesota could be released from Texas jail",
+   "source": "New York Post",
+   "at": "2026-08-26T09:22:42.996688+00:00"
   }
  ],
  "titles": [
-  "days dead found grandpa hike lake loving nature socal three vanishing",
-  "area disgusting evacuate firefighters forces infestation station",
-  "days dies girl incident killed parents shoreham sister three",
-  "attack dead school swedish sword",
   "board california controversial demands energy resignation rule senator tire",
   "ejects kill local pedophile protester rally security shirt trump wearing",
   "ahead carolina darline graham makes pitch primary south trump",
@@ -3603,6 +3599,10 @@
   "anzio bessent iran response sanctions",
   "fire hospital kills newborns nursery pakistani",
   "capital fire hospital immediate inquiry kills newborns nursery officials order pakistan",
-  "attack cyber fears fuels russian switch terrestrial"
+  "attack cyber fears fuels russian switch terrestrial",
+  "crash head hudson island killed lacrosse long medical star supplies valley",
+  "attack cops hochul public safety working",
+  "baby capital fire hospital kills newborns nursery pakistan rescued",
+  "agent charged jail minnesota released shooting texas"
  ]
 }
