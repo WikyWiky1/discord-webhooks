@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://pagesix.com/?post_type=article&p=9118652",
-  "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
-  "CBMijwFBVV95cUxQQUt5VVdqZlhXUEdrUTlGVnpOUnoyOFNfS3FobU5fRFZpb2JFQmQwNTg2bm1TczVXYUlBQm9WNGNnVGxKWEpQcUdwNzk2anpWNW1VaWo4VktiVUVNRjVRYURmZ0U0RV9HY0FpdnFqYnRqNjItdDR3RktId3F4d3ZPZk80SjB3QkcxaTVKS2tJbw",
-  "https://nypost.com/?post_type=article&p=40395889",
   "https://www.theguardian.com/us-news/2026/aug/18/riley-english-sentenced-scott-bessent",
   "CBMixgFBVV95cUxNWUljaVdkdjZZMngxR1FnWEVjQ25STWQxNDRtVVNGV0dUdFkzN0tVWUh6UmtPTlZVZU14eTBuWW13Um9WUzZ1QzlBS0tHcFhhakc3aUZOVnc5QlJ2aFpqSF9fejNPd3ZUMFpMN2Q0RVhSVFM3ZHVJWHlka05acUpTY3lQdFFSSDZHbzJzLWxTOXdOdk9QbUI5Rm4yd1ZGUzJ1UTNwbjRhRXpNTkxnZG9LbzVTRGdfbEd0VGw3M1FGRzdoRW1CY3c",
   "CBMiuAFBVV95cUxOSnE2X0JVR2Y1YXRwWFNvVDFTQXQtU1J3aUZvSUMza2pEeklzSGpHVE5Tb2daWEJUYWlZUnM5LWotZHcxZVByU3dJX0VmZkNwUUxndnFPeGpaSU51b28tZmFRRlNYaGk3M05HbGoxM1Jfd2twMm9IRUlwU3ZuUUVfdnI3Z2RUazg2VWJ1OUpDZ1k3Nk5pb1lMRVRuUHNjYUk0SGFRQmN6cGdPNDduaVRUZnBYTFdIV1ZX",
@@ -799,33 +795,13 @@
   "https://www.theguardian.com/world/2026/aug/26/escape-wizard-albanian-fugitive-toma-taulant-arrested-spain-after-breaking-out-of-four-jails",
   "https://nypost.com/?post_type=article&p=40517101",
   "https://thehill.com/?p=6052333",
-  "https://thehill.com/?p=6052354/"
+  "https://thehill.com/?p=6052354/",
+  "https://www.washingtonexaminer.com/?p=4701325",
+  "https://nypost.com/?post_type=article&p=40522738",
+  "CBMiyAFBVV95cUxOVjRTWmx5dXpiRHlYazhDWjAtUFhuY0o4RUFXclFzYnRaNjZFck9vWHJSRkdJVWF6VzNfSjhDMFlGNVhISVVqOXRBU0lTd3NqZzdnTjNvMkxBNDdUb3puVnlzUU9vc0UxWW9DTmh4bUhqZUVSYnhBU05TeTM0bUd4b0VTZ0l3c2tlLVZlbmhOa1hwQ2RQMFlERVpWWVVmZ3AwS3dKcFhmdThnNzM5d0FVYWJvZldRSmlRVEw2M1hZbzN1R25FOWxmdg",
+  "https://thehill.com/?p=6052692"
  ],
  "posts": [
-  {
-   "fp": "attack center disney each helped hulu other people reunite reunited skip stream survive time trade where world years",
-   "title": "Stream It Or Skip It: \u20189/11 Reunited\u2019 On Hulu And Disney+, Where People Who Helped Each Other Survive The World Trade Center Attack Reunite For The First Time In 25 Years",
-   "source": "New York Post",
-   "at": "2026-08-22T17:14:43.646493+00:00"
-  },
-  {
-   "fp": "arrested brother crash driving killed racing rival socal street young younger",
-   "title": "Young mom killed in SoCal street racing crash as her younger brother arrested for driving rival car",
-   "source": "New York Post",
-   "at": "2026-08-22T17:14:45.356590+00:00"
-  },
-  {
-   "fp": "casualties kryvyi parking recalls russian strike survivor",
-   "title": "Kryvyi Rih survivor recalls casualties in parking lot after Russian strike",
-   "source": "Reuters World",
-   "at": "2026-08-22T17:37:59.940694+00:00"
-  },
-  {
-   "fp": "impeached lose midterms trump",
-   "title": "Trump: I\u2019ll be impeached if I lose the midterms",
-   "source": "Telegraph",
-   "at": "2026-08-22T17:38:01.798093+00:00"
-  },
   {
    "fp": "africa boxing champion dead former home outside shot south tete world",
    "title": "South Africa's former world boxing champion Tete shot dead outside his home",
@@ -3201,13 +3177,33 @@
    "title": "Tim Curry, star of 'Rocky Horror' and 'It,' dead at 80",
    "source": "The Hill",
    "at": "2026-08-26T16:43:13.998867+00:00"
+  },
+  {
+   "fp": "americans dead dozens flooding missing nepal",
+   "title": "Dozens dead after flooding in Nepal with 47 Americans missing",
+   "source": "Washington Examiner",
+   "at": "2026-08-26T18:52:08.924492+00:00"
+  },
+  {
+   "fp": "believe belongings family fire gonna gunman home kills members montana recovered setting",
+   "title": "Belongings recovered after gunman kills his 8 family members before setting Montana home on fire: \u2018You\u2019re not gonna believe this\u2019",
+   "source": "New York Post",
+   "at": "2026-08-26T18:52:11.347626+00:00"
+  },
+  {
+   "fp": "collapse deadly experts flash flood glacier nepal triggered",
+   "title": "Glacier collapse may have triggered deadly Nepal flash flood, experts say",
+   "source": "Reuters",
+   "at": "2026-08-26T18:52:13.123631+00:00"
+  },
+  {
+   "fp": "death dirtbag maine nominee president responds senate shooting vance vice",
+   "title": "\u2018JD Vance is a dirtbag\u2019: Maine Senate nominee responds to vice president on ICE shooting death",
+   "source": "The Hill",
+   "at": "2026-08-26T18:52:14.978541+00:00"
   }
  ],
  "titles": [
-  "attack center disney each helped hulu other people reunite reunited skip stream survive time trade where world years",
-  "arrested brother crash driving killed racing rival socal street young younger",
-  "casualties kryvyi parking recalls russian strike survivor",
-  "impeached lose midterms trump",
   "africa boxing champion dead former home outside shot south tete world",
   "firefighters helicopters sends serbia tackle wildfires",
   "california despicable fury kill memorial military soldier statue steal thieves",
@@ -3603,6 +3599,10 @@
   "arrested breaking escape four human jails pyramid spain used wizard",
   "california chaos claims deception down following fruit giant highly steps toxic",
   "court emergency mail questions ruling supreme surge voting",
-  "curry dead horror rocky star"
+  "curry dead horror rocky star",
+  "americans dead dozens flooding missing nepal",
+  "believe belongings family fire gonna gunman home kills members montana recovered setting",
+  "collapse deadly experts flash flood glacier nepal triggered",
+  "death dirtbag maine nominee president responds senate shooting vance vice"
  ]
 }
