@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMi4wFBVV95cUxOWGFoT0VRSHp6MWZuVTZJRnlUSkNENVhiNW5zWDVYR1JxN3ZaaGx2SFhXUnNoUW8wdmtBNnpaNGNIcU90MTJaNWxqX2UwSlM0bVVYTW52cFdIN1BzMzdZYXdMMi1RekhKblVqbV9STFgwbHgtMXRIb3dSWjcwU3QxY25ZaS1DTDM1YUZ6c3gtclIzaGNiN2hyZDcyaVJ6Q3Z4TUZFTjlCMlYyQVhKZGFVZTIyNVdBamR6YTlXNXZvVUlkZ2QydU9yWnZxT2JyZUZMRU1TWTZDMmhSS3VBWFU1NEI2UQ",
-  "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
   "https://www.washingtonexaminer.com/?p=4690604",
   "https://www.theguardian.com/australia-news/2026/aug/18/controversial-ndis-bill-undergoes-substantial-amendments-as-labor-and-coalition-strike-deal",
   "https://thehill.com/?p=6033539",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40514981",
   "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
   "https://news.sky.com/story/at-least-eight-dead-in-nepal-after-avalanche-sparks-flash-floods-13577332",
-  "CBMijwFBVV95cUxNQ2taZjdPSThOUDBUcE95cXVCWkgxbHN2NVVNdHBfdE1UV0VMcHNHczIxUWttV0hvSmloeHZSRW9TTTdSTVJvLVI1X2NGaTRMZ2FoUDZKV09zcVV3MFAxeW85ZDlBQnU1c0E0aDA2TmtWTVJGZTI0NEI1MzlNN0RtRnE2aWVXTDdBTXNxeExMOA"
+  "CBMijwFBVV95cUxNQ2taZjdPSThOUDBUcE95cXVCWkgxbHN2NVVNdHBfdE1UV0VMcHNHczIxUWttV0hvSmloeHZSRW9TTTdSTVJvLVI1X2NGaTRMZ2FoUDZKV09zcVV3MFAxeW85ZDlBQnU1c0E0aDA2TmtWTVJGZTI0NEI1MzlNN0RtRnE2aWVXTDdBTXNxeExMOA",
+  "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
+  "CBMimAFBVV95cUxNYWZwTFhBM1dBcUQ2WFBWazRIOXpBMHI5R3p1blpsYTdIV2tHQ25mOHo0RGNZNFJOM2hNTEFhbEdaSlNhX1FMRHk2V3lkQkdESmtkTXd0RDR3UUlVaWo5YmoydndfWkVmLW5uZW1ubm02MzZaVHpUTG1ocVF4cmxJZ2ZwUThuVHp5T1ZmTXY4eno0Y0xXbnlHTw"
  ],
  "posts": [
-  {
-   "fp": "canada deal fail match talks tariffs trade trump vows",
-   "title": "Canada vows to match Trump\u2019s 50% tariffs after trade deal talks fail",
-   "source": "Guardian World",
-   "at": "2026-08-22T06:38:42.511500+00:00"
-  },
-  {
-   "fp": "ahead hostile iran keep rhetoric sanctions",
-   "title": "US, Iran keep up hostile rhetoric ahead of new sanctions",
-   "source": "Reuters",
-   "at": "2026-08-22T06:38:44.229965+00:00"
-  },
   {
    "fp": "bombs buried danger european hidden mines reveal wildfires wwii",
    "title": "European wildfires reveal a hidden danger: buried bombs and mines from WWI and WWII",
@@ -3201,11 +3189,21 @@
    "title": "Why Quantum Computing Is a Threat to Cybersecurity",
    "source": "WSJ",
    "at": "2026-08-26T11:34:43.595986+00:00"
+  },
+  {
+   "fp": "along border casualties feared flash floods major nepal tibet",
+   "title": "\u2018Major casualties\u2019 feared after flash floods along Nepal-Tibet border",
+   "source": "Guardian World",
+   "at": "2026-08-26T12:00:11.550882+00:00"
+  },
+  {
+   "fp": "avalanche deadly flash floods hundreds killed least missing nepal triggers",
+   "title": "Hundreds missing and at least 8 killed after avalanche triggers deadly flash floods in Nepal",
+   "source": "AP",
+   "at": "2026-08-26T12:00:13.307976+00:00"
   }
  ],
  "titles": [
-  "canada deal fail match talks tariffs trade trump vows",
-  "ahead hostile iran keep rhetoric sanctions",
   "bombs buried danger european hidden mines reveal wildfires wwii",
   "crash dead police several vehicle",
   "africa boxer champion former killed south tete world zolani",
@@ -3603,6 +3601,8 @@
   "about children family honoring house kids killed massacre members montana slain speaks",
   "back contained countries mpox outbreak",
   "avalanche dead eight least nepal",
-  "computing cybersecurity quantum threat"
+  "computing cybersecurity quantum threat",
+  "along border casualties feared flash floods major nepal tibet",
+  "avalanche deadly flash floods hundreds killed least missing nepal triggers"
  ]
 }
