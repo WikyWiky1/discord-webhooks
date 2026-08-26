@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40388627",
-  "https://nypost.com/?post_type=article&p=40388811",
-  "https://nypost.com/?post_type=article&p=40388847",
-  "https://nypost.com/?post_type=article&p=40389594",
-  "CBMirgFBVV95cUxQX3c5bmFOV1dxSlpjUzVSMWNlMEpMMDR2T1JEc0ZuUERMQmFLUGhrdEVjSXpFYlhhNnFuNTBZQUU0Wm4xeEVlbGVyS195NGFSeWl5Ty1FUEt3aU9mSEp0MjdiejlIc2k3NnZDX0N2djhYQ1BQNzZqcTNHSDE4UmY0d3dZMTdTYmJUYnlZLVJjNGl6MXY0MF8teTBTNzJOYkgyZTV3RUp1djJrUDNUNVE",
-  "https://nypost.com/?post_type=article&p=40389089",
   "CBMisAFBVV95cUxPdWVBUFRFWGdnWHZXV1BfRHhOQzZEMlpEUVJ4Q2lXOVlPQTdKeGZBZWlteGxkQnMyaUZGcEVXZjhqb3FtVF9zMXVIRFVMbzBNUXVMYm1raVhWd3QxNnFVWUZuSUw5S0ZESkFfZnhyR1lYeW1pc1doS3psa29qaWVjRzhaeEVsS1BXMFIwc1pkM3VfcWRDbG90cnFvYmt2cmNlbEgwWUJXVS1WcHdtbXVmNQ",
   "CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE",
   "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo#0",
@@ -799,45 +793,15 @@
   "CBMirAFBVV95cUxQQklUWjc0SG1rbFBXYVFmb19naTdBTm1jRXZ3UmhzWFFzb1FVZzI4eC1QTENvekY0U1BxV3NRekt4U0RrR0JXUm5zaDMtSkF4by1JZnQwdEV6STY3eV9tcG5jUmU1aml6ZDFheE45OXlYa3I4SnNmRHc4SlIxanQwcXB0Rl9OLTN3VmxGdlNnUWhZMlJsU1BOZ2xkbm9xRnpzTk1zV0J1dldDdDF0",
   "CBMiogFBVV95cUxQbWVUSjVGbWtWNUFPZF9TdFJodk1wMzlMdlQ3NlgyOW96bmpqc0loUTRjcENmN3I2Y0lNbUhFdHlCTk8tNUlaQ3hPSU5ySTNaeHZncFAzcXJ6TTBkeG1KeXpXM1dMN0ZrZGFSTXRQanlFZUZNZVNsRWstZndMVW5JS3VoZDlnYXVjd0xGMEFXNVNKM21uejFrZ0FySktWVWtrU3c",
   "CBMilgFBVV95cUxNSWNncXNZWG9FUXNNN2VJWmVNeno1eG5tYmZCQ3VmZElBZWFKU2JPRTlCVWRBUUtZaGFxeUZYX1QtUndBalAyWFdMeEhLU19oLVVkVTMtRW1XM0xhV3BESDVFeWxGM3RreEJVMzVmWmlJZllUalpzWmJ5MFlQMW1GNTF3cjhJLWhDMm5oMXhBTEFxd2dLeEE",
-  "CBMitgFBVV95cUxOM3BZU040djZFck1tUndTNDUyXzIxdjc5V29zOHlFdzlRSzh3WlNfZWdUT2J4Y1JTUThtZkFfMU9TeWxYaVAyN19NajFPZDBLZFFhZ2tDNkl0cjNEazBwb3JZRVZtb1BWX01nN3JKMW1HVTJMN28wMUlUYUlxQlp3RThXSUpRaVR3LXhCNHZtbUljR3lEekxJVVJJbS1XOUZ0cFU2Ry1DazVTVUZvRmtBeDBiS3JFdw"
+  "CBMitgFBVV95cUxOM3BZU040djZFck1tUndTNDUyXzIxdjc5V29zOHlFdzlRSzh3WlNfZWdUT2J4Y1JTUThtZkFfMU9TeWxYaVAyN19NajFPZDBLZFFhZ2tDNkl0cjNEazBwb3JZRVZtb1BWX01nN3JKMW1HVTJMN28wMUlUYUlxQlp3RThXSUpRaVR3LXhCNHZtbUljR3lEekxJVVJJbS1XOUZ0cFU2Ry1DazVTVUZvRmtBeDBiS3JFdw",
+  "https://nypost.com/?post_type=article&p=40515786",
+  "https://www.foxnews.com/world/least-14-newborns-killed-pakistan-nursery-hospital-fire",
+  "https://www.bbc.co.uk/news/articles/czdz13elezlo#0",
+  "https://nypost.com/?post_type=article&p=40515378",
+  "https://www.washingtonexaminer.com/?p=4693054",
+  "https://thehill.com/?p=6050060"
  ],
  "posts": [
-  {
-   "fp": "avoids backing becerra california energy govern nuclear power starved xavier",
-   "title": "Xavier Becerra avoids backing nuclear energy in bid to govern power-starved California",
-   "source": "Washington Examiner",
-   "at": "2026-08-22T09:32:19.962991+00:00"
-  },
-  {
-   "fp": "adopts boost cernavoda cool danube measures nuclear plant romania waters",
-   "title": "Romania adopts new measures to boost Danube waters to cool Cernavoda nuclear plant",
-   "source": "Reuters",
-   "at": "2026-08-22T10:42:37.771216+00:00"
-  },
-  {
-   "fp": "drones kill online ozon retailer russian several ukrainian warehouse",
-   "title": "Ukrainian drones kill several, hit warehouse of Russian online retailer Ozon",
-   "source": "Reuters",
-   "at": "2026-08-22T11:14:24.085625+00:00"
-  },
-  {
-   "fp": "cared century endangered gibbons half outside rare sanctuary",
-   "title": "How a sanctuary outside LA has cared for rare, endangered gibbons for a half-century",
-   "source": "AP",
-   "at": "2026-08-22T11:25:39.515057+00:00"
-  },
-  {
-   "fp": "alisa captures dead ditch drainage final footage found goods grandma missing moments surveillance",
-   "title": "Missing NYC grandma Alisa Goods found dead in drainage ditch as surveillance footage captures her final moments",
-   "source": "New York Post",
-   "at": "2026-08-22T11:54:43.406990+00:00"
-  },
-  {
-   "fp": "attack girl killed networks online police probe school swedish sword teenage",
-   "title": "Swedish police probe online networks after teenage girl killed in school sword attack",
-   "source": "Reuters",
-   "at": "2026-08-22T11:54:45.243868+00:00"
-  },
   {
    "fp": "chase connecticut dead officers police shot suspect",
    "title": "Two police officers shot, suspect dead after car chase in Connecticut",
@@ -3201,15 +3165,45 @@
    "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race",
    "source": "AP",
    "at": "2026-08-26T12:51:22.629095+00:00"
+  },
+  {
+   "fp": "americans border china dead flood footage harrowing hits hundreds including leaving missing moment nepal shows",
+   "title": "Harrowing footage shows moment flood hits China-Nepal border \u2014 leaving 17 dead and hundreds missing, including 3 Americans",
+   "source": "New York Post",
+   "at": "2026-08-26T13:04:30.893632+00:00"
+  },
+  {
+   "fp": "fire hospital killed least newborns nursery pakistan",
+   "title": "At least 14 newborns killed in Pakistan nursery hospital fire",
+   "source": "Fox News World",
+   "at": "2026-08-26T13:04:32.993941+00:00"
+  },
+  {
+   "fp": "babies door fire hospital killed locked pakistan where witnesses",
+   "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+   "source": "BBC World",
+   "at": "2026-08-26T13:04:34.961953+00:00"
+  },
+  {
+   "fp": "arizona collapse hockey hospitalized incident investigated player practice state",
+   "title": "Arizona State hockey player hospitalized after practice collapse \u2014 incident being investigated",
+   "source": "New York Post",
+   "at": "2026-08-26T13:04:36.609719+00:00"
+  },
+  {
+   "fp": "about dead greenland right trump wrong",
+   "title": "Trump is right about Greenland. He\u2019s dead wrong about how to get it",
+   "source": "Washington Examiner",
+   "at": "2026-08-26T13:04:38.298588+00:00"
+  },
+  {
+   "fp": "attack media part pentagon stars stripes trump",
+   "title": "Pentagon attack on Stars and Stripes is part of Trump's war on media",
+   "source": "The Hill",
+   "at": "2026-08-26T13:04:40.040804+00:00"
   }
  ],
  "titles": [
-  "avoids backing becerra california energy govern nuclear power starved xavier",
-  "adopts boost cernavoda cool danube measures nuclear plant romania waters",
-  "drones kill online ozon retailer russian several ukrainian warehouse",
-  "cared century endangered gibbons half outside rare sanctuary",
-  "alisa captures dead ditch drainage final footage found goods grandma missing moments surveillance",
-  "attack girl killed networks online police probe school swedish sword teenage",
   "chase connecticut dead officers police shot suspect",
   "canal demand endangering gowanus hochul kids near parents resign school toxic",
   "code dead learn picking wrench",
@@ -3603,6 +3597,12 @@
   "ahead data earnings futures nvidia stock weaker",
   "bank democrats israel rein senate urge violence west",
   "answer earnings nvidia question trillion",
-  "depositions focus keep opponent past paxton race senate talarico texas unearth wants"
+  "depositions focus keep opponent past paxton race senate talarico texas unearth wants",
+  "americans border china dead flood footage harrowing hits hundreds including leaving missing moment nepal shows",
+  "fire hospital killed least newborns nursery pakistan",
+  "babies door fire hospital killed locked pakistan where witnesses",
+  "arizona collapse hockey hospitalized incident investigated player practice state",
+  "about dead greenland right trump wrong",
+  "attack media part pentagon stars stripes trump"
  ]
 }
