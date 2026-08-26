@@ -1,15 +1,10 @@
 {
   "events": {
-    "600060493": {
-      "discord_id": "1538552709723066411",
-      "start": "2026-08-22T21:00:00+00:00",
-      "name": "UFC Fight Night: Hernandez vs. Rodrigues"
-    },
     "600060620": {
       "discord_id": "1540726624691949660",
       "start": "2026-08-29T07:00:00+00:00",
       "name": "UFC Fight Night: Nurmagomedov vs. Song"
     }
   },
-  "last_run": "2026-08-25T14:41:05+00:00"
+  "last_run": "2026-08-26T14:40:52+00:00"
 }
