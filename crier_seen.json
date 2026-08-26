@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40396165",
-  "https://thehill.com/?p=6034642",
-  "https://thehill.com/?p=6020775",
   "https://www.washingtonexaminer.com/?p=4691647",
   "CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw",
   "CBMirwFBVV95cUxOSW9SaVY3S0l5MlVtblF3cjNfeXhOa25jMHVuXy1WMWM5S2o1M0RsSk54RF9HMEc5SGx3akFfYUFNT2FkTzJQTmlHLW5Ebml1M2ZUY0JObEtaZ0FHSWJGbzdubVQ5MExzb3E3bnNTUjdkWkJ5bE9QektrYmdHZVREWkV5bE5KTUNJWlZ4aTFUdlBVRWhvdXktZm5qdk1PZU1HeV9TeVE1NzFiVU54aExB",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6052870",
   "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war",
   "https://www.theguardian.com/uk-news/2026/aug/26/us-issues-sanctions-uk-based-palestine-action",
-  "CBMiqgFBVV95cUxPUF8yaDBvRG1xWDZ2R2Fzc1FWelZmMi1rR0c4aE1zdks4MFgxR0NpdVV0dVk2TlNpMGVYUzhodDZOTDV1aWltZjlFdUw0dUczUFNoZFE5R2pzSTAyV3FYRVprbzV3dHU3bU5TZXdSWENFbS1IczY2QV9FOU1FcnNlamVoYmRjcHBHX2pWU1QyNUJDVi1sRlJDZGR6T3F1Mk1DNEtIR0tBZzhHQQ"
+  "CBMiqgFBVV95cUxPUF8yaDBvRG1xWDZ2R2Fzc1FWelZmMi1rR0c4aE1zdks4MFgxR0NpdVV0dVk2TlNpMGVYUzhodDZOTDV1aWltZjlFdUw0dUczUFNoZFE5R2pzSTAyV3FYRVprbzV3dHU3bU5TZXdSWENFbS1IczY2QV9FOU1FcnNlamVoYmRjcHBHX2pWU1QyNUJDVi1sRlJDZGR6T3F1Mk1DNEtIR0tBZzhHQQ",
+  "CBMinwFBVV95cUxOZjJiRnkwSUhxTUVXdTJVVWZjZE5NYTgxR2FrTTQzSkU0ZllYZzVPOFJsOWlBSTUyOU5uRW1USXhka0hGdXVsSHFWLWtTZlhPemw5bkdPeWwwRzlnaHRhYzRzQ1dQUWl1bTBsY0JGd0psZHFYZkxKcFhMb2NJTFJoVnhLTURKZkVjdGNuMmxGLThFLUctNDlhb1dPWVlKeTQ",
+  "https://thehill.com/?p=6053188",
+  "https://www.washingtonexaminer.com/?p=4701161"
  ],
  "posts": [
-  {
-   "fp": "election florida real republicans results spell trouble tuesday",
-   "title": "Tuesday's election results could spell real trouble for Florida Republicans",
-   "source": "The Hill",
-   "at": "2026-08-22T18:29:49.788196+00:00"
-  },
-  {
-   "fp": "absurd attack fake nancy outrage pelosi successor torched totally women",
-   "title": "Nancy Pelosi torched by Dem women over \u2018totally absurd\u2019 attack on would-be successor: \u2018A lot of fake outrage\u2019",
-   "source": "New York Post",
-   "at": "2026-08-22T19:17:21.712738+00:00"
-  },
-  {
-   "fp": "bradford dead hero hobbs janie money motown unsung wrote",
-   "title": "Janie Bradford Hobbs, Motown \u2018unsung hero\u2019 who co-wrote \u2018Money,\u2019 dead at 87",
-   "source": "New York Post",
-   "at": "2026-08-22T19:39:46.103213+00:00"
-  },
   {
    "fp": "california coastal highway iconic paradise ravaged reopen wildfire",
    "title": "Iconic California highway to reopen after wildfire ravaged coastal paradise",
@@ -3201,12 +3183,27 @@
    "title": "Maryland court rules Democratic-backed redistricting amendment cannot go on November ballot",
    "source": "AP",
    "at": "2026-08-26T19:46:46.325408+00:00"
+  },
+  {
+   "fp": "army bases build microreactors nuclear power ramp seeks spend",
+   "title": "Army to spend $2B to build nuclear microreactors at 5 bases as US seeks to ramp up nuclear power",
+   "source": "AP",
+   "at": "2026-08-26T21:32:12.814077+00:00"
+  },
+  {
+   "fp": "fatal judge orders release second shooting texas witness",
+   "title": "Judge orders ICE to release second witness to fatal Texas shooting",
+   "source": "The Hill",
+   "at": "2026-08-26T21:32:14.573540+00:00"
+  },
+  {
+   "fp": "army bases billion build five military nuclear reactors spending",
+   "title": "US Army spending over $2 billion to build nuclear reactors on five military bases",
+   "source": "Washington Examiner",
+   "at": "2026-08-26T21:32:16.320578+00:00"
   }
  ],
  "titles": [
-  "election florida real republicans results spell trouble tuesday",
-  "absurd attack fake nancy outrage pelosi successor torched totally women",
-  "bradford dead hero hobbs janie money motown unsung wrote",
   "california coastal highway iconic paradise ravaged reopen wildfire",
   "alert earthquake eastern issued japan magnitude moderate shakes tsunami",
   "badly casualty catapult ever fractured giant ground medieval pinned skeleton year",
@@ -3603,6 +3600,9 @@
   "billionaire journal policies street using violate wall",
   "canada hockey lose resolve sticks test threats trade trump",
   "action based direct group issues palestine sanctions",
-  "amendment backed ballot cannot court democratic maryland november redistricting rules"
+  "amendment backed ballot cannot court democratic maryland november redistricting rules",
+  "army bases build microreactors nuclear power ramp seeks spend",
+  "fatal judge orders release second shooting texas witness",
+  "army bases billion build five military nuclear reactors spending"
  ]
 }
