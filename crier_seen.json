@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6034188",
-  "https://www.bbc.co.uk/news/articles/cp3r0kz775ko#0",
-  "https://nypost.com/?post_type=article&p=40385670",
   "CBMizwFBVV95cUxObG5kajhPXzU2TjVKb09obHlMNDEwRTRyVUhjTVNIRlRHMDc3OVg1VXZsM3hLMGZEQm9hWDhvQXVHMWJ1ZDBZNmlhanVoanhLYXNsb1hJOHpwV05yS2MySTlseFpOR0xVVF8zeFF3Y3p5TlJmZ2xqbHZhY2pweFlDNU4xWDhMNDNHaFhtNV9DY2RDaGlsOXc2MzhwZTJORVY5R0VqSHNTTmZQVXVxdEF1ZDdXZTB1SDVGSXNRMy1HbjZpelN2RnZHaDRzUnBtZ0E",
   "CBMipgFBVV95cUxOQk85aFc5OVpMc3pHdWFaS2xjYzQyUmJhRVdQd2ZVc1dIZGY2Szd3b0V0bEdUOG02RnZ4VDV1cnllejNQM203bmkxcG5sS3BYSHlMVXg3ZGNNUldOWVgyOHBHTDlQOFJlS2VGWmlLQmJib0VXM2czT3BQTDAwc05JQnZ1RjFEdG5ORWE2TXBhYVc5MXNOSUs0YU52UUF1eDBaS1Zhc0JB",
   "https://www.theguardian.com/us-news/2026/aug/17/white-house-personal-attack-cnn-reporter-trump",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6049624",
   "https://thehill.com/?p=6047844",
   "https://nypost.com/?post_type=article&p=40509637",
-  "CBMivwFBVV95cUxNSHQzOTFqNEhOZUp2ZGJMT1J5d1pSaEUtQWFlZTZJdVZfT0ZlUmJPQy00dHFnekY5c05wNTNnSE56RDd2WFFwc28yTGptelZOcXJZMGtMSlcyZm5xLXRxWThaZTRXSkdieS1INUExMC1LVUduSXUzdGozS280U2JCOFRwTVVNbHhXZFVRcEcxSFlKZUdTRnlVYlJUZm1HUFctMDBkVmJhdGU5R19JbmlQOU84UktiVFRYZVdsRmZiVQ"
+  "CBMivwFBVV95cUxNSHQzOTFqNEhOZUp2ZGJMT1J5d1pSaEUtQWFlZTZJdVZfT0ZlUmJPQy00dHFnekY5c05wNTNnSE56RDd2WFFwc28yTGptelZOcXJZMGtMSlcyZm5xLXRxWThaZTRXSkdieS1INUExMC1LVUduSXUzdGozS280U2JCOFRwTVVNbHhXZFVRcEcxSFlKZUdTRnlVYlJUZm1HUFctMDBkVmJhdGU5R19JbmlQOU84UktiVFRYZVdsRmZiVQ",
+  "https://nypost.com/?post_type=article&p=40512872",
+  "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
+  "https://thehill.com/?p=6050778"
  ],
  "posts": [
-  {
-   "fp": "centre double kills russian shopping strike ukrainian",
-   "title": "Russian \u2018double-tap\u2019 strike on Ukrainian shopping centre kills six",
-   "source": "Telegraph",
-   "at": "2026-08-21T18:00:04.419569+00:00"
-  },
-  {
-   "fp": "haze indonesia issues malaysia spreads stark warning wildfires",
-   "title": "Indonesia issues stark warning as haze from wildfires spreads to Malaysia",
-   "source": "New York Post",
-   "at": "2026-08-21T18:00:06.157123+00:00"
-  },
-  {
-   "fp": "airport alisa almost dead found goods grandma missing near report trip vanishing vegas weeks",
-   "title": "Missing NYC grandma Alisa Goods found dead near Las Vegas airport almost 2 weeks after vanishing on trip: report",
-   "source": "New York Post",
-   "at": "2026-08-21T18:00:08.051380+00:00"
-  },
   {
    "fp": "center central city kills least russian shopping strike ukrainian",
    "title": "Russian strike kills at least 6 at shopping center in central Ukrainian city",
@@ -3201,12 +3183,27 @@
    "title": "World braces as Trump's Canada tariff stand-off escalates",
    "source": "Reuters",
    "at": "2026-08-26T01:16:16.944541+00:00"
+  },
+  {
+   "fp": "attack california lawmaker move tech unprecedented",
+   "title": "California lawmaker\u2019s unprecedented attack on ICE in move to ban new tech",
+   "source": "New York Post",
+   "at": "2026-08-26T02:21:21.664818+00:00"
+  },
+  {
+   "fp": "china evacuations flood force homes mass narra record submerge typhoon waters",
+   "title": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
+   "source": "Guardian World",
+   "at": "2026-08-26T02:21:23.509727+00:00"
+  },
+  {
+   "fp": "accountability alex calls family fatal months pretti shooting",
+   "title": "Alex Pretti's family calls for accountability 7 months after fatal CBP shooting",
+   "source": "The Hill",
+   "at": "2026-08-26T02:21:25.284234+00:00"
   }
  ],
  "titles": [
-  "centre double kills russian shopping strike ukrainian",
-  "haze indonesia issues malaysia spreads stark warning wildfires",
-  "airport alisa almost dead found goods grandma missing near report trip vanishing vegas weeks",
   "center central city kills least russian shopping strike ukrainian",
   "clancy defense drove kids kill lindsey postpartum psychosis rests trial whether",
   "airport cards collided crash data deadly helicopter pennsylvania plane retrieved",
@@ -3603,6 +3600,9 @@
   "democratic oklahoma primary runoff senate socialist wins",
   "daughter david defeated election georgia house open scott seat special",
   "accused california cameras chilling discovery flock home vandalizing",
-  "braces canada escalates stand tariff trump world"
+  "braces canada escalates stand tariff trump world",
+  "attack california lawmaker move tech unprecedented",
+  "china evacuations flood force homes mass narra record submerge typhoon waters",
+  "accountability alex calls family fatal months pretti shooting"
  ]
 }
