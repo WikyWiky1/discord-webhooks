@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cjwx58n1153o#1",
   "CBMi4wFBVV95cUxOWGFoT0VRSHp6MWZuVTZJRnlUSkNENVhiNW5zWDVYR1JxN3ZaaGx2SFhXUnNoUW8wdmtBNnpaNGNIcU90MTJaNWxqX2UwSlM0bVVYTW52cFdIN1BzMzdZYXdMMi1RekhKblVqbV9STFgwbHgtMXRIb3dSWjcwU3QxY25ZaS1DTDM1YUZ6c3gtclIzaGNiN2hyZDcyaVJ6Q3Z4TUZFTjlCMlYyQVhKZGFVZTIyNVdBamR6YTlXNXZvVUlkZ2QydU9yWnZxT2JyZUZMRU1TWTZDMmhSS3VBWFU1NEI2UQ",
   "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
   "https://www.washingtonexaminer.com/?p=4690604",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40515236",
   "https://nypost.com/?post_type=article&p=40514981",
   "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
-  "https://news.sky.com/story/at-least-eight-dead-in-nepal-after-avalanche-sparks-flash-floods-13577332"
+  "https://news.sky.com/story/at-least-eight-dead-in-nepal-after-avalanche-sparks-flash-floods-13577332",
+  "CBMijwFBVV95cUxNQ2taZjdPSThOUDBUcE95cXVCWkgxbHN2NVVNdHBfdE1UV0VMcHNHczIxUWttV0hvSmloeHZSRW9TTTdSTVJvLVI1X2NGaTRMZ2FoUDZKV09zcVV3MFAxeW85ZDlBQnU1c0E0aDA2TmtWTVJGZTI0NEI1MzlNN0RtRnE2aWVXTDdBTXNxeExMOA"
  ],
  "posts": [
-  {
-   "fp": "behind fuji here hiker iconic leaves mount reach summit tired wait",
-   "title": "Mount Fuji hiker leaves tired son, 7, behind to reach iconic summit: \u2018Wait here\u2019",
-   "source": "New York Post",
-   "at": "2026-08-22T06:38:40.769293+00:00"
-  },
   {
    "fp": "canada deal fail match talks tariffs trade trump vows",
    "title": "Canada vows to match Trump\u2019s 50% tariffs after trade deal talks fail",
@@ -3201,10 +3195,15 @@
    "title": "At least eight dead in Nepal after avalanche",
    "source": "Sky News",
    "at": "2026-08-26T11:22:06.802289+00:00"
+  },
+  {
+   "fp": "computing cybersecurity quantum threat",
+   "title": "Why Quantum Computing Is a Threat to Cybersecurity",
+   "source": "WSJ",
+   "at": "2026-08-26T11:34:43.595986+00:00"
   }
  ],
  "titles": [
-  "behind fuji here hiker iconic leaves mount reach summit tired wait",
   "canada deal fail match talks tariffs trade trump vows",
   "ahead hostile iran keep rhetoric sanctions",
   "bombs buried danger european hidden mines reveal wildfires wwii",
@@ -3603,6 +3602,7 @@
   "belt crash four injured killed other parkway people teenagers three violent",
   "about children family honoring house kids killed massacre members montana slain speaks",
   "back contained countries mpox outbreak",
-  "avalanche dead eight least nepal"
+  "avalanche dead eight least nepal",
+  "computing cybersecurity quantum threat"
  ]
 }
