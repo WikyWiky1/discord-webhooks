@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMizwFBVV95cUxObG5kajhPXzU2TjVKb09obHlMNDEwRTRyVUhjTVNIRlRHMDc3OVg1VXZsM3hLMGZEQm9hWDhvQXVHMWJ1ZDBZNmlhanVoanhLYXNsb1hJOHpwV05yS2MySTlseFpOR0xVVF8zeFF3Y3p5TlJmZ2xqbHZhY2pweFlDNU4xWDhMNDNHaFhtNV9DY2RDaGlsOXc2MzhwZTJORVY5R0VqSHNTTmZQVXVxdEF1ZDdXZTB1SDVGSXNRMy1HbjZpelN2RnZHaDRzUnBtZ0E",
-  "CBMipgFBVV95cUxOQk85aFc5OVpMc3pHdWFaS2xjYzQyUmJhRVdQd2ZVc1dIZGY2Szd3b0V0bEdUOG02RnZ4VDV1cnllejNQM203bmkxcG5sS3BYSHlMVXg3ZGNNUldOWVgyOHBHTDlQOFJlS2VGWmlLQmJib0VXM2czT3BQTDAwc05JQnZ1RjFEdG5ORWE2TXBhYVc5MXNOSUs0YU52UUF1eDBaS1Zhc0JB",
   "https://www.theguardian.com/us-news/2026/aug/17/white-house-personal-attack-cnn-reporter-trump",
   "CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA",
   "https://nypost.com/?post_type=article&p=40386624",
@@ -799,21 +797,11 @@
   "CBMivwFBVV95cUxNSHQzOTFqNEhOZUp2ZGJMT1J5d1pSaEUtQWFlZTZJdVZfT0ZlUmJPQy00dHFnekY5c05wNTNnSE56RDd2WFFwc28yTGptelZOcXJZMGtMSlcyZm5xLXRxWThaZTRXSkdieS1INUExMC1LVUduSXUzdGozS280U2JCOFRwTVVNbHhXZFVRcEcxSFlKZUdTRnlVYlJUZm1HUFctMDBkVmJhdGU5R19JbmlQOU84UktiVFRYZVdsRmZiVQ",
   "https://nypost.com/?post_type=article&p=40512872",
   "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
-  "https://thehill.com/?p=6050778"
+  "https://thehill.com/?p=6050778",
+  "https://www.washingtonexaminer.com/?p=4700505",
+  "CBMiowFBVV95cUxOWkZKU3BQQjNHemVpaFhaRjFWblBkT2g2Vk9MZnV5UFhVNFY0YUxSWW5OMzY1elJGMWRBZzV3akQtb2xvdlBTNzhzUnhXLTdRUlcxVWlKTWdKblpsQXVrcURDZktJNkU5WDR5OHpOSVZsd0RrMHdJT2Nndi02aDRQUV9HX19EQzZLNHJsT1U1OFdwd3BYYl9pVl9VZlZVXzE2RVlj"
  ],
  "posts": [
-  {
-   "fp": "center central city kills least russian shopping strike ukrainian",
-   "title": "Russian strike kills at least 6 at shopping center in central Ukrainian city",
-   "source": "AP",
-   "at": "2026-08-21T18:00:09.860942+00:00"
-  },
-  {
-   "fp": "clancy defense drove kids kill lindsey postpartum psychosis rests trial whether",
-   "title": "Lindsey Clancy\u2019s defense rests at trial over whether postpartum psychosis drove her to kill her kids",
-   "source": "AP",
-   "at": "2026-08-21T18:00:11.804031+00:00"
-  },
   {
    "fp": "airport cards collided crash data deadly helicopter pennsylvania plane retrieved",
    "title": "Data cards retrieved from plane and helicopter that collided in deadly Pennsylvania airport crash",
@@ -3201,11 +3189,21 @@
    "title": "Alex Pretti's family calls for accountability 7 months after fatal CBP shooting",
    "source": "The Hill",
    "at": "2026-08-26T02:21:25.284234+00:00"
+  },
+  {
+   "fp": "children dead dinner eight family fire four including montana opens",
+   "title": "Eight dead, including four children, after Montana man opens fire at family dinner",
+   "source": "Washington Examiner",
+   "at": "2026-08-26T03:35:10.244518+00:00"
+  },
+  {
+   "fp": "agreement arabia civil congress nuclear review saudi sources submitted trump",
+   "title": "Trump has submitted civil nuclear agreement with Saudi Arabia to Congress for review, AP sources say",
+   "source": "AP",
+   "at": "2026-08-26T03:35:12.007445+00:00"
   }
  ],
  "titles": [
-  "center central city kills least russian shopping strike ukrainian",
-  "clancy defense drove kids kill lindsey postpartum psychosis rests trial whether",
   "airport cards collided crash data deadly helicopter pennsylvania plane retrieved",
   "between carolina cooper north poll race senate tightens whatley",
   "backs carolina graham high norman runoff sanford senate simply south stakes",
@@ -3603,6 +3601,8 @@
   "braces canada escalates stand tariff trump world",
   "attack california lawmaker move tech unprecedented",
   "china evacuations flood force homes mass narra record submerge typhoon waters",
-  "accountability alex calls family fatal months pretti shooting"
+  "accountability alex calls family fatal months pretti shooting",
+  "children dead dinner eight family fire four including montana opens",
+  "agreement arabia civil congress nuclear review saudi sources submitted trump"
  ]
 }
