@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40403365",
   "CBMiwAFBVV95cUxQV3JTSUU5dl9JdWRBLUNrUmlYYnZnazVLeUQzNjRKaS1oS3lMWlQzN0NndkJmSEVkcTczTjJjQ0ZGRGZUWkprV3pLMGU0eFVVQnFlWWFCMUtQendmNUhzYy1qRldleVo1MHA5bE9CajJ5bTdwLTdfcDN0Qk4zVVZ5LW9sM0FYdFdDQzVBZGlBVGJQYzhpeFpjUTZtaFZfSnRESjFHeE43UDQ2OGRKOU1RWldURzF2NWVfOVhhSUpzbWY",
   "https://nypost.com/?post_type=article&p=40404523",
   "CBMilgFBVV95cUxQUlo5SXlHaUY3NUVYZnl6MEMzenhTaHVhMEYzOENveURjRnlDWFg2cDFjNDVEVkRYYWE3UjRzcFBEZ0R0RURSTTd3b0FuX3J0LXNPeVRCQUtxakhjeDJqTjl6Ymd2Yk5LNEpNX3EyUGI4YWZ4WUoxZWZYd1VCM3NEcVhsTk5jVWxnSGtQRHFPczVGX3FSWGc",
@@ -799,7 +798,8 @@
   "https://thehill.com/?p=6051039",
   "https://thehill.com/?p=6054250",
   "https://www.washingtonexaminer.com/?p=4701912",
-  "CBMiqgFBVV95cUxQaHQ2RnFRV2UzQ2llWXFqS0xnRy1rbks3Vkdxd0pRTFhnY3RyMEhGMkYwMTZSLThVc0ZwS2M3Y0F0V19kSHZYbkVBakNidXhCZ2hSRlN1TjR3bFBlVkxPdGxaOVcwLTF1TFo4bHpuaGVyRnozYXpDSHIxYWEtZkRUWFpTd1BvXzRucXRmWkEwSzFlSEVSSW12aGN1aU1KMUJHbGNUTUM4Z2o1QQ"
+  "CBMiqgFBVV95cUxQaHQ2RnFRV2UzQ2llWXFqS0xnRy1rbks3Vkdxd0pRTFhnY3RyMEhGMkYwMTZSLThVc0ZwS2M3Y0F0V19kSHZYbkVBakNidXhCZ2hSRlN1TjR3bFBlVkxPdGxaOVcwLTF1TFo4bHpuaGVyRnozYXpDSHIxYWEtZkRUWFpTd1BvXzRucXRmWkEwSzFlSEVSSW12aGN1aU1KMUJHbGNUTUM4Z2o1QQ",
+  "CBMiwwFBVV95cUxON2lybm5sQ0tLOHRrVGk4T29aQVNHWUVCS2o4Y0NGazRhWkFEQndRZFhDZGpqVC1vYVRGdHpFODR5SlRtXzQ1ZjgxY2hMVXJxaGtMaE1FV3BlU3REaTBPb2FDQ2lrWUZpOXkwbms4UmxhdHQzY1ZodnFPeWV3TW9IM1lmUnV5UnltUmpFV0dNWDRmd28xZjRWRjk1dzVVN2xMM3NpNnVNY2dLVzdqY1dRZ2dvNDJxUHEyeEtWanNiYk5ueXc"
  ],
  "posts": [
   {
@@ -3173,12 +3173,6 @@
    "at": "2026-08-27T13:49:54.933899+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-08-27T13:49:56.701240+00:00"
-  },
-  {
    "fp": "aimed bill russia sanctions wrong",
    "title": "The new sanctions bill is aimed at the wrong Russia",
    "source": "The Hill",
@@ -3201,6 +3195,12 @@
    "title": "Nasdaq Futures Buoyed by Nvidia Earnings, Software as Oil Falls",
    "source": "WSJ",
    "at": "2026-08-27T13:50:03.681711+00:00"
+  },
+  {
+   "fp": "additional backdoors chinese discover made researchers routers zbtlink",
+   "title": "Researchers discover additional backdoors in Chinese-made Zbtlink routers",
+   "source": "Reuters",
+   "at": "2026-08-27T20:56:53.150063+00:00"
   }
  ],
  "titles": [
@@ -3599,10 +3599,10 @@
   "associated breaking latest news press today",
   "bandit gunfight island killed luxury marina police rare rhode sailboat stealing vessel",
   "fears leads nasdaq nvidia quells wall",
-  "edition journal print street wall",
   "aimed bill russia sanctions wrong",
   "decades democratic medicare nominee policy senate",
   "abortion finds makers making millions oversight pill responsibility senate shirk",
-  "buoyed earnings falls futures nasdaq nvidia software"
+  "buoyed earnings falls futures nasdaq nvidia software",
+  "additional backdoors chinese discover made researchers routers zbtlink"
  ]
 }
