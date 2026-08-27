@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40398366",
-  "https://nypost.com/?post_type=article&p=40401594",
-  "https://nypost.com/?post_type=article&p=40400054",
   "https://nypost.com/?post_type=article&p=40398299",
   "https://nypost.com/?post_type=article&p=40402213",
   "https://news.sky.com/story/before-and-after-pictures-show-moon-crater-after-spacex-crash-13574543",
@@ -799,27 +796,12 @@
   "https://www.washingtonexaminer.com/?p=4701831",
   "https://thehill.com/?p=6053694",
   "CBMiqAFBVV95cUxPMnFrNjlGbDNQekZSNmw3Nm05WGV3Wm02T3ZMREVHMXR3VnRKLXJHSXplZkJYam4wNy1YMjhwRnNqQlVzYlpoX3ZOM2szOXVBYzhjR2dUczRGWU04aTBLek84UlltRTduaHFfcUMxUHBBOFE3NmJXTnAwV3c3WGE5TFl2aVlyWkhtUXZQMUkwTEZvY2ZNel81Z1F1ZTdKOE85VXJBd0VuNHo",
-  "https://www.theguardian.com/us-news/2026/aug/26/alaska-us-house-primary-federal-prisoner-eric-hafner"
+  "https://www.theguardian.com/us-news/2026/aug/26/alaska-us-house-primary-federal-prisoner-eric-hafner",
+  "https://nypost.com/?post_type=article&p=40530584",
+  "https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods",
+  "https://thehill.com/?p=6053832"
  ],
  "posts": [
-  {
-   "fp": "beach kills nearly nowhere rogue socal walking wave",
-   "title": "Rogue wave nearly kills mom walking on SoCal beach: \u2018Out of nowhere\u2019",
-   "source": "New York Post",
-   "at": "2026-08-22T22:40:44.316283+00:00"
-  },
-  {
-   "fp": "animals center devastating killed revenge russian shopping strikes vows zelensky",
-   "title": "Zelensky vows revenge for devastating Russian strikes that killed 16 in shopping center: \u2018Animals\u2019",
-   "source": "New York Post",
-   "at": "2026-08-22T22:40:46.188163+00:00"
-  },
-  {
-   "fp": "border california evacuation explodes fire hawk issued warnings",
-   "title": "Hawk Fire explodes on California border as evacuation warnings issued",
-   "source": "New York Post",
-   "at": "2026-08-22T23:14:27.894010+00:00"
-  },
   {
    "fp": "charging cops dead knife monica police santa shot wielding",
    "title": "Knife-wielding man shot dead by police after charging cops in Santa Monica",
@@ -3201,12 +3183,27 @@
    "title": "Man in prison in New York advances in primary for Alaska\u2019s US House seat",
    "source": "Guardian World",
    "at": "2026-08-27T00:29:12.139288+00:00"
+  },
+  {
+   "fp": "dead gong infamous jaye morgan show star stint",
+   "title": "Jaye P. Morgan, a pop and TV star who had an infamous stint on \u2018The Gong Show\u2019 dead at 94",
+   "source": "New York Post",
+   "at": "2026-08-27T01:01:38.938979+00:00"
+  },
+  {
+   "fp": "albanese anthony australians deadly flash floods hundreds missing nepal people",
+   "title": "Anthony Albanese says 34 Australians among hundreds of people missing in deadly Nepal flash floods",
+   "source": "Guardian World",
+   "at": "2026-08-27T01:01:40.689784+00:00"
+  },
+  {
+   "fp": "afghanistan attack five hegseth marines medals survived three upgrades years",
+   "title": "Hegseth upgrades medals of three Marines who survived Afghanistan attack five years ago",
+   "source": "The Hill",
+   "at": "2026-08-27T01:01:42.362717+00:00"
   }
  ],
  "titles": [
-  "beach kills nearly nowhere rogue socal walking wave",
-  "animals center devastating killed revenge russian shopping strikes vows zelensky",
-  "border california evacuation explodes fire hawk issued warnings",
   "charging cops dead knife monica police santa shot wielding",
   "burnham emergency illegal migration must national",
   "appeals australia bird court dead liberals live mainland mammal news plan radical redesign seal victim victorian",
@@ -3603,6 +3600,9 @@
   "2028 carolina grabs primary runoff senate shows south",
   "feuds misinformation shapiro spreads vaccine",
   "bannon case congress contempt conviction dismiss judge refuses steve",
-  "advances alaska house primary prison seat york"
+  "advances alaska house primary prison seat york",
+  "dead gong infamous jaye morgan show star stint",
+  "albanese anthony australians deadly flash floods hundreds missing nepal people",
+  "afghanistan attack five hegseth marines medals survived three upgrades years"
  ]
 }
