@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6036787",
-  "https://thehill.com/?p=6028751",
-  "CBMiYkFVX3lxTE1UQm9PUlE4Z0JEVzNIeEZWU2Zpa1c2OWdFR2lvRGdSbkhmZGJpQzJodWt4MFo1QVJrSnRKMnYxaU9ZRTVncHhmTmdLZjFBY2JoNk8yZGtUbnUwaThIMGpsZDVB",
-  "CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ",
-  "CBMikAFBVV95cUxQUEhHcVlsS1lXVzlZRHdqcnNiU1JTTndxWk9MeTFHQlY0U0FjdTE5Nm9jNkJQZFdxRVBBa18tN3F0ZjNUejk2S3RrckFWYjMza2xiamVIWnJDMG05czRwU0tIME56ZWNJMzBadGFVN2UtZkxWS1JPTndCd0JFdFYwX3h0a0VsZms1amdGaV85SGM",
-  "https://nypost.com/?post_type=article&p=40404452",
   "https://www.washingtonexaminer.com/?p=4692392",
   "https://www.theguardian.com/us-news/live/2026/aug/19/mary-peltola-dan-sullivan-alaska-primary-election-us-senate-florida-california-wyoming--donald-trump-us-politics-latest",
   "https://nypost.com/?post_type=article&p=40404843",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=40545456",
   "https://nypost.com/?post_type=article&p=40545632",
   "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
-  "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia"
+  "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia",
+  "https://thehill.com/?p=6056291",
+  "https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-pauline-hanson-one-nation-ntwnfb",
+  "https://thehill.com/?p=6056324",
+  "CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ",
+  "CBMiugFBVV95cUxNQ005Z1FuVEpmajJiZ0dWaDJJTk92aThwVVdOV0tXR00wVnV0QkFTN05zcjFHdmE1SEcwNy1wd0xCVHRCcGNMU1ZzTlcxQ2RwNUNDWUppRXdmcW5SMjBsaGdkNG5GcGRhbzlhbGRtSkZITjg3cTEzcmpIYWlhSGQwTmFOSlRQT3d0VkdqWjNhVlZoMEdPUVhPeHMzY2pialFfQzMwNEZlTnhUUHY1cTV5aGs1MVh2aEV0Snc",
+  "https://www.washingtonexaminer.com/?p=4702960"
  ],
  "posts": [
-  {
-   "fp": "capacity full hungary magyar nuclear operate paks plant wednesday",
-   "title": "Hungary Paks nuclear plant could operate at full capacity by Wednesday, PM Magyar says",
-   "source": "Reuters",
-   "at": "2026-08-23T10:16:11.932242+00:00"
-  },
-  {
-   "fp": "fragments guernsey hiding life light literary manuscript medieval plain shed sight",
-   "title": "Manuscript fragments hiding in plain sight shed light on medieval Guernsey\u2019s literary life",
-   "source": "Guardian World",
-   "at": "2026-08-23T11:25:37.475103+00:00"
-  },
-  {
-   "fp": "action confront congo ebola global outbreak pope urges",
-   "title": "Pope Leo urges global action to confront Congo's Ebola outbreak",
-   "source": "Reuters World",
-   "at": "2026-08-23T11:37:53.166811+00:00"
-  },
-  {
-   "fp": "just kill ticks",
-   "title": "Why can\u2019t we just kill all the ticks?",
-   "source": "New York Post",
-   "at": "2026-08-23T12:24:21.383595+00:00"
-  },
-  {
-   "fp": "firefighters macedonia north reach unable wildfire",
-   "title": "Firefighters unable to reach wildfire in North Macedonia",
-   "source": "Reuters World",
-   "at": "2026-08-23T12:24:23.100117+00:00"
-  },
-  {
-   "fp": "desperate fail iran sanctions threatened",
-   "title": "Iran says new sanctions threatened by 'desperate' US will fail",
-   "source": "Reuters World",
-   "at": "2026-08-23T12:38:56.812667+00:00"
-  },
   {
    "fp": "country faces iran many president problems ramps sanctions",
    "title": "Iran\u2019s president says country faces \u2018many problems\u2019 as US ramps up sanctions",
@@ -3201,15 +3165,45 @@
    "title": "Russia says UK \u2018playing with fire\u2019 amid reports CIA chief has warned Kremlin not to attack Nato",
    "source": "Guardian World",
    "at": "2026-08-27T21:03:01.989494+00:00"
+  },
+  {
+   "fp": "dingell lake legislation ontario plans renaming trump void",
+   "title": "Dingell plans legislation to void Trump's Lake Ontario renaming",
+   "source": "The Hill",
+   "at": "2026-08-28T00:15:08.241663+00:00"
+  },
+  {
+   "fp": "ahead announces australia banker election investment leader live nation news",
+   "title": "Australia news live: One Nation announces investment banker as NSW leader ahead of election",
+   "source": "Guardian World",
+   "at": "2026-08-28T00:15:09.923887+00:00"
+  },
+  {
+   "fp": "awaits break hemp returning senate",
+   "title": "Hemp ban awaits Senate returning from break",
+   "source": "The Hill",
+   "at": "2026-08-28T00:15:11.612674+00:00"
+  },
+  {
+   "fp": "companies cursor cybercriminals exclusive hack russian seven spacex speaking tool used",
+   "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX\u2019s Cursor AI tool to hack seven companies",
+   "source": "Reuters",
+   "at": "2026-08-28T00:15:15.520587+00:00"
+  },
+  {
+   "fp": "ambassador auto canadian deal ensure must robust sector trade",
+   "title": "Any US trade deal must ensure robust Canadian auto sector, ambassador says",
+   "source": "Reuters",
+   "at": "2026-08-28T00:15:17.215812+00:00"
+  },
+  {
+   "fp": "democrats hampshire race senate socialist surge threatens",
+   "title": "Socialist surge threatens Democrats in New Hampshire Senate race",
+   "source": "Washington Examiner",
+   "at": "2026-08-28T00:15:18.875366+00:00"
   }
  ],
  "titles": [
-  "capacity full hungary magyar nuclear operate paks plant wednesday",
-  "fragments guernsey hiding life light literary manuscript medieval plain shed sight",
-  "action confront congo ebola global outbreak pope urges",
-  "just kill ticks",
-  "firefighters macedonia north reach unable wildfire",
-  "desperate fail iran sanctions threatened",
   "country faces iran many president problems ramps sanctions",
   "destroying election holding risk ukraine wartime zelenskyy",
   "destroy election ukraine wartime zelenskiy",
@@ -3603,6 +3597,12 @@
   "about americans catastrophic flash floods hundreds kill missing nepal officials still",
   "best dead flags friend gunman left massacre montana pictured reveals sister slain time",
   "danger death flash flood fresh lake latest nears nepal rising toll updates warning water",
-  "attack chief fire kremlin nato playing reports russia warned"
+  "attack chief fire kremlin nato playing reports russia warned",
+  "dingell lake legislation ontario plans renaming trump void",
+  "ahead announces australia banker election investment leader live nation news",
+  "awaits break hemp returning senate",
+  "companies cursor cybercriminals exclusive hack russian seven spacex speaking tool used",
+  "ambassador auto canadian deal ensure must robust sector trade",
+  "democrats hampshire race senate socialist surge threatens"
  ]
 }
