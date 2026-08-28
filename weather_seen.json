@@ -915,8 +915,26 @@
    "message_id": "1542683421095104543",
    "event": "Extreme Heat Warning",
    "area": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Hualapai Mountains; Northwest Deserts; Death Valley National Park; Western Mojave Desert; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin; Cadiz Basin; San Bernardino County-Upper Colorado River Valley; Northeast Clark County; Western Clark and Southern Nye County; Las Vegas Valley; Southern Clark County; Lake Mead - NV side; Lake Mohave - NV side",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-08-27T23:53:09+00:00",
+   "expired_at": "2026-08-28T21:11:03+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.35380f921349b87545f72d678560012ff6945e63.001.1",
+   "message_id": "1543004997745254455",
+   "event": "Severe Thunderstorm Warning",
+   "area": "Harris, TX; Waller, TX",
+   "expired": false,
+   "posted_at": "2026-08-28T21:10:59+00:00",
+   "expired_at": null
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.bd0fc8ba5271b806794ddceabf2d3366a9d76746.001.1",
+   "message_id": "1543005005924139134",
+   "event": "Extreme Heat Warning",
+   "area": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Hualapai Mountains; Northwest Deserts; Death Valley National Park; Western Mojave Desert; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin; Cadiz Basin; San Bernardino County-Upper Colorado River Valley; Northeast Clark County; Western Clark and Southern Nye County; Las Vegas Valley; Southern Clark County; Lake Mead - NV side; Lake Mohave - NV side",
+   "expired": false,
+   "posted_at": "2026-08-28T21:11:01+00:00",
    "expired_at": null
   }
  ]
