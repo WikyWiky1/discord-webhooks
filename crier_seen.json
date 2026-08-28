@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4692392",
-  "https://www.theguardian.com/us-news/live/2026/aug/19/mary-peltola-dan-sullivan-alaska-primary-election-us-senate-florida-california-wyoming--donald-trump-us-politics-latest",
-  "https://nypost.com/?post_type=article&p=40404843",
   "https://www.theguardian.com/technology/2026/aug/19/unitree-shares-surge-humanoid-robot-firm-chinese-stock-market-debut",
   "CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw",
   "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6056324",
   "CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ",
   "CBMiugFBVV95cUxNQ005Z1FuVEpmajJiZ0dWaDJJTk92aThwVVdOV0tXR00wVnV0QkFTN05zcjFHdmE1SEcwNy1wd0xCVHRCcGNMU1ZzTlcxQ2RwNUNDWUppRXdmcW5SMjBsaGdkNG5GcGRhbzlhbGRtSkZITjg3cTEzcmpIYWlhSGQwTmFOSlRQT3d0VkdqWjNhVlZoMEdPUVhPeHMzY2pialFfQzMwNEZlTnhUUHY1cTV5aGs1MVh2aEV0Snc",
-  "https://www.washingtonexaminer.com/?p=4702960"
+  "https://www.washingtonexaminer.com/?p=4702960",
+  "CBMilwFBVV95cUxQX1h2VHVFZU5pU194eE9xcUU4MHVQTTJoZjFyVE1zTWxSMC1DMGFLcC1ZR2oteFV4VUhpTklUNVVFZ09iakJIakt1QVlieVNEbzVDVFRCd01TMV9qVmdvMndjd2JXT0h1TlcxbWpJYWVwenNUeDBNcHRJVDJrb1Y0bnd5REJyV1VMWWdSLThYUnBHRzVMYnVn",
+  "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
+  "https://nypost.com/?post_type=article&p=40551611"
  ],
  "posts": [
-  {
-   "fp": "country faces iran many president problems ramps sanctions",
-   "title": "Iran\u2019s president says country faces \u2018many problems\u2019 as US ramps up sanctions",
-   "source": "Guardian World",
-   "at": "2026-08-23T12:38:58.549684+00:00"
-  },
-  {
-   "fp": "destroying election holding risk ukraine wartime zelenskyy",
-   "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-   "source": "Guardian World",
-   "at": "2026-08-23T12:39:00.486033+00:00"
-  },
-  {
-   "fp": "destroy election ukraine wartime zelenskiy",
-   "title": "Wartime election would 'destroy' Ukraine, Zelenskiy says",
-   "source": "Reuters World",
-   "at": "2026-08-23T12:39:02.245076+00:00"
-  },
   {
    "fp": "election expected grip kazakhstan parliamentary power president strengthen votes",
    "title": "Kazakhstan votes in a parliamentary election expected to strengthen president\u2019s grip on power",
@@ -3201,12 +3183,27 @@
    "title": "Socialist surge threatens Democrats in New Hampshire Senate race",
    "source": "Washington Examiner",
    "at": "2026-08-28T00:15:18.875366+00:00"
+  },
+  {
+   "fp": "border china death disaster flood lake nepal poses rises threat toll",
+   "title": "Death toll rises in Nepal-China border disaster as lake poses new flood threat",
+   "source": "AP",
+   "at": "2026-08-28T05:26:09.835576+00:00"
+  },
+  {
+   "fp": "china death epicentre flash flood halts live media nepal nepali police reports rescue risk state tibet toll updates",
+   "title": "Nepal-Tibet flash flood live updates: China halts rescue at epicentre over flood risk, state media reports; death toll at 469, say Nepali police",
+   "source": "Guardian World",
+   "at": "2026-08-28T05:26:11.507894+00:00"
+  },
+  {
+   "fp": "americans deadly floods missing nepal relatives several yorkers",
+   "title": "Several New Yorkers, relatives among the 90 missing Americans in deadly Nepal floods",
+   "source": "New York Post",
+   "at": "2026-08-28T05:26:13.273068+00:00"
   }
  ],
  "titles": [
-  "country faces iran many president problems ramps sanctions",
-  "destroying election holding risk ukraine wartime zelenskyy",
-  "destroy election ukraine wartime zelenskiy",
   "election expected grip kazakhstan parliamentary power president strengthen votes",
   "ahead cancer hype math moderna running vaccine",
   "airstrikes gaza including israeli kill medics people year",
@@ -3603,6 +3600,9 @@
   "awaits break hemp returning senate",
   "companies cursor cybercriminals exclusive hack russian seven spacex speaking tool used",
   "ambassador auto canadian deal ensure must robust sector trade",
-  "democrats hampshire race senate socialist surge threatens"
+  "democrats hampshire race senate socialist surge threatens",
+  "border china death disaster flood lake nepal poses rises threat toll",
+  "china death epicentre flash flood halts live media nepal nepali police reports rescue risk state tibet toll updates",
+  "americans deadly floods missing nepal relatives several yorkers"
  ]
 }
