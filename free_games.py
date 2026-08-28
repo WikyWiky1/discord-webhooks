@@ -1,27 +1,4 @@
 #!/usr/bin/env python3
-"""
-FREE GAME ALERT - WikyWiky Studios
-Posts free PC game giveaways to a Discord webhook, with claim links.
-
-Sources:
-  1. Epic Games Store, direct from their own promotions endpoint (most detail)
-  2. GamerPower, which aggregates Steam, GOG and more
-
-Runs daily. Remembers what it already announced in seen.json, so a game is
-posted once when it goes free, not every day for a week. Overlapping offers
-(Epic appears in both sources) are collapsed by title.
-
-Giveaway data for non-Epic stores comes from GamerPower.com, whose terms
-require visible attribution. The footer link stays.
-
-Flags:
-  --dry     print what it would post, send nothing
-  --force   ignore seen.json and repost everything currently free
-  --test    send a single "online" message
-  --gamer   manual push: announce GamerTool (WikyWiky Studios) as a free game.
-            Skips the feeds and seen.json entirely - it fires when you say so.
-            Combine with --dry to preview it first.
-"""
 
 import json
 import os
@@ -46,11 +23,7 @@ STORE = "https://store.epicgames.com/en-US"
 GAMERPOWER = "https://www.gamerpower.com/api/giveaways?type=game&sort-by=date"
 GAMERPOWER_SITE = "https://www.gamerpower.com"
 
-# Which GamerPower platforms to accept. Add "itch" and "drm-free" back if the
-# channel feels too quiet; they roughly quadruple the volume with micro-indies.
 WANTED_PLATFORMS = ("steam", "gog", "epic")
-
-# Prime Gaming has no platform tag of its own, so catch it by name.
 PLATFORM_KEYWORDS = ("prime gaming", "amazon prime")
 
 SEEN_FILE = "seen.json"
@@ -58,31 +31,21 @@ BRAND = "FreeGameAlert"
 
 HEADER = "**Free games right now** 🎉"
 
+MIN_PREFIX_MATCH = 12
 
-# ── house release: GamerTool ────────────────────────────────────────────────
-# Manual push only (--gamer). Not a feed, so nothing here expires or dedups.
-#
-# url:   must be a page a logged-OUT visitor can open. The repo settings page
-#        is admin-only and will 404 for everyone else, so point at the release.
-# image: optional. A direct .png/.jpg URL gives it the big banner the Epic
-#        posts get - a raw.githubusercontent.com link to a screenshot in the
-#        repo works fine. Leave "" to post without one.
 GAMERTOOL = {
     "title": "GamerTool",
     "url": "https://github.com/WikyWiky1/GamerTool-releases/releases/latest",
     "image": "",
     "description": (
-        "A free all-in-one desktop companion for PC gamers from WikyWiky "
-        "Studios - system tools, game utilities, and a built-in casino "
-        "(Blackjack, with more on the table). No ads, no accounts, "
-        "just download and play."
+        "A free all-in-one desktop companion for PC gamers - system tools, "
+        "game utilities, and a built-in casino (Blackjack, with more on the "
+        "table). No ads, no accounts, just download and play."
     ),
-    "store": "WikyWiky Studios",
+    "store": "GamerTool",
     "ends_text": "free forever",
 }
 
-
-# ── fetching ────────────────────────────────────────────────────────────────
 
 def get_json(url):
     req = urllib.request.Request(
@@ -93,14 +56,11 @@ def get_json(url):
 
 
 def elements(feed):
-    """Dig the game list out of the response, tolerating shape changes."""
     try:
         return feed["data"]["Catalog"]["searchStore"]["elements"] or []
     except (KeyError, TypeError):
         return []
 
-
-# ── parsing ─────────────────────────────────────────────────────────────────
 
 def parse_dt(text):
     if not text:
@@ -112,14 +72,12 @@ def parse_dt(text):
 
 
 def is_free_now(element, now):
-    """True if a 100%-off promo is live right now. Returns (bool, end_datetime)."""
     promos = (element.get("promotions") or {}).get("promotionalOffers") or []
     for block in promos:
         for offer in block.get("promotionalOffers") or []:
             start = parse_dt(offer.get("startDate"))
             end = parse_dt(offer.get("endDate"))
             pct = (offer.get("discountSetting") or {}).get("discountPercentage")
-            # Epic uses 0 to mean "price becomes zero".
             if pct not in (0, None):
                 continue
             if start and start > now:
@@ -131,7 +89,6 @@ def is_free_now(element, now):
 
 
 def was_already_free(element):
-    """Skip permanently free-to-play titles - they aren't news."""
     try:
         original = element["price"]["totalPrice"]["originalPrice"]
         return original == 0
@@ -143,7 +100,6 @@ HASH_SLUG = re.compile(r"^[0-9a-f]{24,}$", re.I)
 
 
 def slug_candidates(element):
-    """Epic scatters the slug around. Readable ones first, junk hash last."""
     yield element.get("productSlug")
     for mapping in (element.get("catalogNs") or {}).get("mappings") or []:
         yield mapping.get("pageSlug")
@@ -161,7 +117,7 @@ def store_link(element):
             continue
         candidate = candidate.split("/")[0]
         if HASH_SLUG.match(candidate):
-            fallback = fallback or candidate   # keep it, but prefer a real slug
+            fallback = fallback or candidate
             continue
         return f"{STORE}/{kind}/{candidate}"
 
@@ -181,17 +137,8 @@ def artwork(element):
     return images[0].get("url") if images and images[0].get("url") else None
 
 
-# ── normalised offer ────────────────────────────────────────────────────────
-
 def make_offer(title, url, description, image, ends, store, via=None,
                ends_text=None):
-    """One shape for every source, so the posting path stays simple.
-
-    ends_text overrides the computed deadline line in the footer. Feed sources
-    leave it None and behave exactly as before; only the manual GamerTool push
-    uses it, so its footer can read "free forever" instead of "no listed
-    deadline".
-    """
     return {
         "title": (title or "Untitled").strip(),
         "url": url,
@@ -204,9 +151,6 @@ def make_offer(title, url, description, image, ends, store, via=None,
     }
 
 
-# GamerPower appends store tags to titles. Stripping them makes cross-source
-# dedup work and reads better. Exact matches only - an unrecognised
-# parenthetical stays put, since a long title beats a butchered one.
 STORE_TAGS = {
     "steam", "epic", "epic games", "epic games store", "gog", "gog.com",
     "itch.io", "itchio", "itch", "indiegala", "indie gala", "drm-free", "drmfree",
@@ -231,11 +175,22 @@ def clean_title(raw):
 
 
 def title_key(title):
-    """Loose key so the same game from two sources collapses to one post."""
     return re.sub(r"[^a-z0-9]", "", (title or "").lower())
 
 
-# ── source 1: Epic, direct ──────────────────────────────────────────────────
+def keys_match(first, second):
+    if not first or not second:
+        return False
+    if first == second:
+        return True
+    short, long_ = (first, second) if len(first) <= len(second) \
+        else (second, first)
+    return len(short) >= MIN_PREFIX_MATCH and long_.startswith(short)
+
+
+def known_keys(seen):
+    return {str(entry).split("|")[0] for entry in seen}
+
 
 def epic_offers():
     feed = get_json(FEED)
@@ -267,8 +222,6 @@ def epic_offers():
     return offers
 
 
-# ── source 2: GamerPower, aggregated ────────────────────────────────────────
-
 def wanted_platform(entry):
     platforms = (entry.get("platforms") or "").lower()
     if any(tag in platforms for tag in WANTED_PLATFORMS):
@@ -278,7 +231,6 @@ def wanted_platform(entry):
 
 
 def parse_gp_date(text):
-    """GamerPower uses 'YYYY-MM-DD HH:MM:SS', and literal 'N/A' for open-ended."""
     if not text or text.strip().upper() in ("N/A", "NA", ""):
         return None
     try:
@@ -291,7 +243,6 @@ def parse_gp_date(text):
 def gamerpower_offers():
     data = get_json(GAMERPOWER)
 
-    # 201 means "no active giveaways" and comes back as an object, not a list.
     if not isinstance(data, list):
         print(f"  GamerPower: no active giveaways ({data})")
         return []
@@ -323,11 +274,7 @@ def gamerpower_offers():
     return offers
 
 
-# ── source 3: the house release, on demand ──────────────────────────────────
-
 def gamertool_offer():
-    """Built through make_offer like every other source, so the embed that
-    lands in Discord is the same shape as an Epic or GamerPower post."""
     return make_offer(
         title=GAMERTOOL["title"],
         url=GAMERTOOL["url"],
@@ -338,8 +285,6 @@ def gamertool_offer():
         ends_text=GAMERTOOL["ends_text"],
     )
 
-
-# ── output ──────────────────────────────────────────────────────────────────
 
 def build_embed(offer):
     desc = offer["description"]
@@ -384,14 +329,13 @@ def post(url, embeds, content=None):
     req = urllib.request.Request(
         url,
         data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json", "User-Agent": "FreeGameAlert/1.0"},
+        headers={"Content-Type": "application/json",
+                 "User-Agent": "FreeGameAlert/1.0"},
         method="POST",
     )
     with urllib.request.urlopen(req, timeout=20) as res:
         print(f"posted ({res.status}) with {len(embeds)} embed(s)")
 
-
-# ── state ───────────────────────────────────────────────────────────────────
 
 def load_seen():
     try:
@@ -403,12 +347,9 @@ def load_seen():
 
 
 def save_seen(seen):
-    # Keep the file from growing forever.
     with open(SEEN_FILE, "w") as fh:
         json.dump(sorted(seen)[-400:], fh, indent=1)
 
-
-# ── main ────────────────────────────────────────────────────────────────────
 
 def main():
     dry = "--dry" in sys.argv
@@ -424,7 +365,6 @@ def main():
                         "color": 0x0074E4}])
         return 0
 
-    # Manual push. Deliberately ignores seen.json - if you fire it, it posts.
     if "--gamer" in sys.argv:
         embed = build_embed(gamertool_offer())
         print(f"  PUSH: {GAMERTOOL['title']} [{GAMERTOOL['store']}] "
@@ -444,9 +384,9 @@ def main():
             return 1
         return 0
 
-    # Each source is independent. One failing must not silence the other.
     offers, failures = [], []
-    for label, source in (("Epic", epic_offers), ("GamerPower", gamerpower_offers)):
+    for label, source in (("Epic", epic_offers),
+                          ("GamerPower", gamerpower_offers)):
         try:
             offers.extend(source())
         except Exception as err:
@@ -458,19 +398,21 @@ def main():
         return 1
 
     seen = set() if force else load_seen()
+    known = known_keys(seen)
     fresh, embeds = [], []
-    batch = set()          # collapses duplicates inside this single run
+    batch = set()
 
-    # Epic is processed first, so its richer entry wins any overlap.
     for offer in offers:
         tkey = title_key(offer["title"])
         stamp = offer["ends"].date().isoformat() if offer["ends"] else "open"
         key = f"{tkey}|{stamp}"
 
-        if tkey in batch:
+        if any(keys_match(tkey, other) for other in batch):
             print(f"  duplicate in this run, skipping: {offer['title']}")
+            batch.add(tkey)
+            fresh.append(tkey)
             continue
-        if key in seen or tkey in seen:
+        if key in seen or any(keys_match(tkey, other) for other in known):
             print(f"  already announced: {offer['title']}")
             batch.add(tkey)
             continue
@@ -494,14 +436,14 @@ def main():
         print(json.dumps(embeds, indent=2, default=str)[:2500])
         return 0
 
-    # Discord caps a message at 10 embeds.
     try:
         for index in range(0, len(embeds), 10):
             chunk = embeds[index:index + 10]
             post(webhook, chunk, content=header if index == 0 else None)
     except urllib.error.HTTPError as err:
         body = err.read().decode("utf-8", "replace")[:400]
-        print(f"Discord rejected the post: HTTP {err.code} {body}", file=sys.stderr)
+        print(f"Discord rejected the post: HTTP {err.code} {body}",
+              file=sys.stderr)
         return 1
 
     seen.update(fresh)
