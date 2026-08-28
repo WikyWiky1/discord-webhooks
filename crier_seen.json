@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4691654",
   "CBMioAFBVV95cUxQTk5WVG5iNmZVOFY4RHZhWGcwaVNJdkM5elI3LVBYZEo5eUZ1WVBQRW1ZWlE2Z0tTMGloUUMzV2RSUm96YWZ1dnRFSjFoZlpSajZ5eFZYSTJSeXhaLXUzenZCM2RUVGxGVkozV2VZVFpsU3RZXzlzWTBCUWw1akN1M2Z1QVpWa2g1VTVhMFdvMGVuTzVLbnhFYkxVQjBJLXB4",
   "https://www.bbc.co.uk/news/articles/clylkv4z59vo#0",
   "https://thehill.com/?p=6035935",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/food/2026/aug/28/salmonella-cases-in-uk-likely-to-rise-until-source-of-outbreak-is-found",
   "CBMivgFBVV95cUxQb1E5MGw5anE2RnZMdmFoclNiTlI1MG45cG1VVi1QMWhodGdvRmdBZ3NWajBtWldELUxPWWhwWkpBVWRhemg0TnhRV1d2WXFSM3BNZS12RmZFVFdzMHZOTU5aZUFHeFFCZ0o5VjJzR09kX29vS004TzVTR05qNE9JRTBOYS1xWXNxWHJJSkhraF93U016X0tjcmZ4TjFHalJ6cFRBNEJEdVIwMHg4REVKVkRqUDhQTXFaZ1hmcXJR",
   "CBMiygFBVV95cUxQZlZhNVQwZ2dBSUdMTmN3b2ZuR1VlSlBOanV6NTVkNTBsdHdfZk1OYW95SVFnU0dIdDNlS0NGSkxwOWFCd05JQ28za2N3azJRM2p0UXlISHl3aERWa3VubVRlVGdSdjF3UFFyUlc3VW5yVmI5b3ItU3ZsY1l6TFYtVWxJUG50X2RiNHZ3bGNPMnVRemphRGd2dlJtYUEycGQwUFdxaWdZd056a2d4QldPVEZULVFFUGJQLW05bVFwSWlMLWF0YzVZWmRn",
-  "https://thehill.com/?p=6057493/"
+  "https://thehill.com/?p=6057493/",
+  "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova"
  ],
  "posts": [
-  {
-   "fp": "canada close deal official tariff trade very",
-   "title": "Canada Trade Official Says Tariff Deal With U.S. \u2018Very Close\u2019",
-   "source": "WSJ",
-   "at": "2026-08-23T15:21:43.441853+00:00"
-  },
   {
    "fp": "autos canada considers cuts deal metals tariff",
    "title": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
@@ -3201,10 +3195,15 @@
    "title": "Mother sought after baby found dead in porta-potty at Michigan music festival",
    "source": "The Hill",
    "at": "2026-08-28T17:41:11.898263+00:00"
+  },
+  {
+   "fp": "about change launch nasa space telescope universe",
+   "title": "NASA is about to launch a space telescope that could change how we see the universe",
+   "source": "NPR News",
+   "at": "2026-08-28T21:20:11.294183+00:00"
   }
  ],
  "titles": [
-  "canada close deal official tariff trade very",
   "autos canada considers cuts deal metals tariff",
   "abruptly ambitious chang china launch lunar mission postpones",
   "evasion given investigate must realistic singapore tariff trade volume",
@@ -3603,6 +3602,7 @@
   "cases found likely outbreak rise salmonella source until",
   "fire lucid luxury maker nhtsa recall risk sedans",
   "bank hamas israel israeli kills operative strike targeted three west",
-  "baby dead festival found michigan mother music porta potty sought"
+  "baby dead festival found michigan mother music porta potty sought",
+  "about change launch nasa space telescope universe"
  ]
 }
