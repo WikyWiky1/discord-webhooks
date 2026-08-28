@@ -1,119 +1,4 @@
 #!/usr/bin/env python3
-"""
-TOWN CRIER - WikyWiky Studios
-Three lanes, one script.
-
-  breaking  (default)  Sweeps wire feeds every ~20 minutes and posts anything
-                       that is both recent and genuinely urgent. Up to 17 a
-                       sweep, no more than 4 from any one outlet, and nothing
-                       at all on a quiet run - the cap is a ceiling, not a
-                       quota, and there is no floor under it.
-
-  --pulse               Sweeps the same feeds every few hours for the
-                       substantive, non-disaster news Breaking's gate is
-                       built to exclude - legislation, courts, the economy,
-                       elections, diplomacy, science and space. Up to 6 a
-                       sweep, no more than 2 from any one outlet, same no-
-                       floor rule as Breaking: a quiet run posts nothing.
-
-  --morning            Posts exactly one interesting article to start the day.
-                       One per run, never more.
-
-*** THIS IS NOT AN ALERT SYSTEM. ***
-StormWatch is the alert system. This is a news reader. Wire copy lags real
-events, the scheduler is best-effort, and the breaking gate is keyword based,
-so it will miss things and occasionally post something mundane. Do not treat
-silence here as "nothing is happening."
-
-Sources: Reuters, AP, WSJ and the Telegraph come through Google News'
-source-filtered feed - the first two shut their public RSS years ago, and the
-other two still serve feeds that no editor has filed to since 2024. Everyone
-else publishes a live feed and is read directly. The roster is deliberately
-mixed: wires in the middle, BBC/NPR/Guardian on the left, WSJ/Telegraph/Fox/
-Post/Examiner on the right, Sky/Hill/Monitor filling the center, with the
-right-of-center outlets weighted at or above their counterparts so they win
-the tie when two papers file the same story. Only headlines, summaries and
-links are posted - never full text.
-
-Paywalls: several of the best sources meter their articles. When a metered one
-wins a slot, the run's leftovers are searched for the same story from a source
-that opens free, and that link is attached to the same embed as one extra
-field. One mirror, on the existing post - never a second message.
-
-Images: most feeds ship an article image in the XML. Anything routed through
-Google News does not, so a bare item first tries to borrow the photo off
-another outlet's copy of the same story - credited in the footer - and failing
-that has its og:image pulled from the article page.
-
-*** ON THE CEILING AND THE GATE ***
-These two move together. The ceiling used to be 3, which meant the keyword
-gate could be sloppy - a headline that matched "coup" because it contained
-"couple" still had to outrank three real emergencies to reach the channel, and
-it almost never did. Raising the ceiling removes that competition, so anything
-the gate admits now posts. The gate was rebuilt on word boundaries at the same
-time, and the two numbers should not be edited independently: raising the
-ceiling again without re-testing the gate against BREAKING_WORDS is how the
-channel fills up with deadlines and heart attacks.
-
-*** ON PROCEEDINGS ***
-An inquest into an explosion, an autopsy after an attack and a committee
-investigating a drone strike all carry a breaking word, and all three are
-about an event that happened weeks or months ago. Nothing in the feed says so:
-the article really was filed twenty minutes ago, so the age gate passes it.
-Three of eleven posts in one sample sweep were this.
-
-The line drawn is process versus outcome. A verdict, a sentencing or a
-decision not to charge is itself the event and still posts; the hearing, the
-deliberation and the testimony that precede it do not. See PROCESS_WORDS and
-BREAKING_OUTCOMES. This is a breaking-lane veto only - an inquest is a fine
-morning read, so it is not in MUTE_WORDS.
-
-*** ON DUPLICATES VERSUS DEVELOPMENTS ***
-A story that moves is not a story repeated. "Father to be sentenced" in the
-morning and "father jailed for 15 years" in the afternoon share four words out
-of thirteen - 0.31 overlap, nowhere near the 0.55 dedupe bar - so both post,
-correctly. That is working as intended; do not tighten the threshold to
-"fix" it.
-
-Linking the second post back to the first was tried and abandoned. Measured on
-real pairs, the fingerprint cannot tell a development from a different event of
-the same kind: two wildfire evacuation headlines from California and Spain
-score 0.43, higher than the sentencing pair above scores against itself. Any
-threshold that catches the follow-ups also captions unrelated disasters as
-each other. The overlap is still printed to the log when a pick lands in that
-band, so the sweep is legible, but nothing goes in the embed on that basis.
-
-Dedupe memory is time boxed rather than counted. Holding the last N headlines
-forever meant the window silently stretched from a day and a half in a busy
-week to several weeks in a quiet one, and a long-running story could be muted
-by a headline nobody remembered. See DEDUPE_WINDOW_HOURS.
-
-*** ON FEED ROT ***
-Feeds do not fail loudly. They freeze. Both WSJ and the Telegraph were serving
-well-formed XML full of articles from 2024 and reporting themselves healthy.
-That is why --check now fails a feed on staleness, not just on errors. Run it
-monthly. If something goes STALE, the fix is almost always to move that source
-onto the Google News pattern the wires already use.
-
-*** WHY PULSE IS A SEPARATE LANE, NOT A LOOSER BREAKING ***
-Breaking's gate is disasters on purpose - that is what BREAKING_WORDS is for,
-and it should stay that way. But a channel that only ever posts disasters
-reads as if disasters are the only thing happening, which is a distortion of
-its own. Pulse is the correction: a second gate (PULSE_WORDS/PULSE_PHRASES),
-a slower cadence, and a hard line against the first gate's subject matter -
-looks_pulse refuses anything looks_breaking already claims, even on the one
-word the two lists share (a ceasefire can be both; it is left to Breaking).
-Loosening BREAKING_WORDS instead would have meant either disasters drowning
-out the calmer news or the calmer news diluting the urgency of real ones.
-Two gates keeps both jobs honest.
-
-Flags:
-  --check     fetch every feed, report counts, freshness and images, post none
-  --dry       print what it would post, send nothing
-  --test      send a single "online" message
-  --morning   run the morning pick instead of the breaking sweep
-  --pulse     run the pulse sweep instead of the breaking sweep
-"""
 
 import email.utils
 import html
@@ -137,122 +22,53 @@ except Exception:
 
 BRAND = "Town Crier"
 SEEN_FILE = "crier_seen.json"
-USER_AGENT = "TownCrier/1.0 (github.com/WikyWiky1)"
+USER_AGENT = "TownCrier/1.0"
 
 ATOM = "{http://www.w3.org/2005/Atom}"
 MEDIA = "{http://search.yahoo.com/mrss/}"
 CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
 
-# Tracking pixels, spacers and publisher logos masquerading as article images.
 JUNK_IMAGE_HINTS = ("1x1", "pixel", "spacer", "favicon", "/logo", "blank.")
 
-# ── tuning knobs ────────────────────────────────────────────────────────────
-# These are the anti-spam controls. If the channel ever gets noisy, this block
-# is the only thing you need to touch.
-
-# Ceiling, not a target. There is no floor and never was: a sweep that finds
-# nothing urgent posts nothing and says so. This number only decides how much
-# a genuinely busy two hours is allowed to deliver at once.
-#
-# Note what it costs. The sweep runs every 20 minutes but looks back 120, so
-# the first run after raising this will clear the whole backlog in that window
-# in one go - up to the new ceiling, all at once. After that it settles: each
-# sweep only sees what is new since the last one, because everything else is
-# already in the seen file. If the catch-up burst matters, run --dry first to
-# see its size.
 MAX_BREAKING_PER_RUN = 17
-
-# Per outlet, per sweep. The old ceiling of 3 was doing two jobs at once, and
-# only one of them was flood control - it also stopped any single paper from
-# owning the channel, simply by running out of room. At 17 that stops being
-# automatic, so it is stated instead. Seventeen stories from seventeen desks
-# is a wire feed; seventeen from one desk is that paper's front page.
 MAX_PER_OUTLET_PER_RUN = 4
-BREAKING_MAX_AGE_MINUTES = 120  # older than this is not breaking, it is news
-BREAKING_FRESHNESS_BUCKET_MINUTES = 30  # inside one bucket, source weight wins
-MORNING_WINDOW_HOURS = 30       # how far back the morning pick may reach
-SIMILARITY_THRESHOLD = 0.55     # 0-1; higher = more willing to post near-dupes
-SEEN_LIMIT = 800                # article IDs remembered
-POST_MEMORY_LIMIT = 400         # posted headlines remembered
-POST_GAP_SECONDS = 1.5          # spacing between messages, Discord rate limit
+BREAKING_MAX_AGE_MINUTES = 120
+BREAKING_FRESHNESS_BUCKET_MINUTES = 30
+MORNING_WINDOW_HOURS = 30
+SIMILARITY_THRESHOLD = 0.55
+CONTAINMENT_THRESHOLD = 0.75
+CONTAINMENT_MIN_WORDS = 3
+SEEN_LIMIT = 800
+POST_MEMORY_LIMIT = 400
+POST_GAP_SECONDS = 1.5
 
-# How far back the dedupe actually looks. The count above is only a ceiling on
-# the file size; this is the real window, and it is in hours on purpose. At
-# three posts a sweep the old count-only memory covered a day and a half in a
-# heavy news week and a month in a slow one, which meant "have we posted this?"
-# quietly meant something different depending on the week. Two days is long
-# enough that no outlet's re-file of the same headline slips through and short
-# enough that a story running all month can still surface when it moves.
 DEDUPE_WINDOW_HOURS = 48
 
-# Pulse: the third lane. Breaking is disasters, on a 20-minute sweep, no
-# floor. Morning is one science-flavored pick, once a day. Neither one ever
-# reports "Congress passed a budget" or "the Fed held rates" - Pulse exists
-# to run every few hours and cover the substantive, non-morbid news the other
-# two lanes structurally cannot.
-#
-# The age window is wider than the sweep cadence on purpose, the same way
-# Breaking's 120-minute gate outruns its 20-minute schedule: a missed or
-# delayed run should not mean the story never surfaces at all.
 PULSE_MAX_PER_RUN = 6
 PULSE_MAX_PER_OUTLET_PER_RUN = 2
-PULSE_MAX_AGE_MINUTES = 240  # 4h against a 3h cadence
+PULSE_MAX_AGE_MINUTES = 240
 
-# Log-only. When a pick sits between this and SIMILARITY_THRESHOLD it is
-# printed with its score, so a run that looks like a repeat can be checked
-# against the number that let it through. See the note above on why this is a
-# diagnostic and not a feature: the band is real, but it is not clean enough to
-# put in front of readers.
 RELATED_NOTE_OVERLAP = 0.30
 
-# A feed whose newest article is older than this has stopped being maintained,
-# whatever its HTTP status says. Only --check uses it. Set generously: the
-# slowest live feed on the roster files roughly daily, and the two dead ones
-# were 35 and 549 days cold, so there is no ambiguity to split.
 STALE_FEED_HOURS = 36
 
-# Article images. "image" is a full-width banner, "thumbnail" is a small square
-# in the corner, None turns it off. Flip BREAKING_IMAGE to "image" if you want
-# the breaking posts to be as loud visually as the morning read is.
 MORNING_IMAGE = "image"
 BREAKING_IMAGE = "thumbnail"
 PULSE_IMAGE = "thumbnail"
 
-# Anything through Google News arrives with no picture. Two fallbacks, in
-# order: borrow the photo from another outlet's copy of the same story (free,
-# already in memory, credited in the footer), then scrape og:image off the
-# article page. Only ever runs on items already chosen for posting.
 BORROW_IMAGES = True
 FETCH_MISSING_IMAGES = True
 OG_TIMEOUT_SECONDS = 8
-OG_READ_BYTES = 200_000  # <head> lives at the top; no reason to read the rest
-OG_USER_AGENT = "Mozilla/5.0 (compatible; TownCrier/1.0; +github.com/WikyWiky1)"
+OG_READ_BYTES = 200_000
+OG_USER_AGENT = "Mozilla/5.0 (compatible; TownCrier/1.0)"
 
-# Same-story matching, used by both the free mirror and the borrowed photo.
-# The similarity bar is deliberately no looser than the dedupe's, because a
-# link to the wrong story is worse than no link at all. The age gap is a sanity
-# check: two papers filing the same event do it within hours, so a "match" from
-# two days ago is a different story wearing similar words.
 MIRROR_SIMILARITY = 0.55
 MIRROR_MAX_AGE_GAP_HOURS = 12
-
-# ── feeds ───────────────────────────────────────────────────────────────────
-# weight  nudges the morning pick toward sources you like, and breaks ties in
-#         the breaking sweep. This is the balance dial - see breaking_rank.
-# lanes   which lane the feed feeds. Science, feature, opinion and any feed
-#         too slow to ever clear the 120-minute gate are morning-only.
-# suffix  Google News appends " - Publisher" to every headline; strip it. It
-#         is inconsistent about whether that is the brand or the domain, so
-#         list both.
-# paywall True if the article is metered or walled. Does not affect selection
-#         at all - a walled source can still win the slot on merit. It only
-#         tells attach_free_mirrors to go looking for a readable second link.
 
 GOOGLE_NEWS = ("https://news.google.com/rss/search?q=site%3A{site}+when%3A1d"
                "&hl=en-US&gl=US&ceid=US%3Aen")
 
 FEEDS = [
-    # ── wires. Neutral by trade, top of the board on purpose. ──
     {
         "name": "Reuters",
         "url": GOOGLE_NEWS.format(site="reuters.com"),
@@ -264,8 +80,6 @@ FEEDS = [
     },
     {
         "name": "Reuters World",
-        # Same desk as the entry above, so the per-outlet cap has to see them
-        # as one paper or Reuters quietly gets double the allowance.
         "outlet": "Reuters",
         "url": "https://news.google.com/rss/search?"
                "q=site%3Areuters.com+world+when%3A1d"
@@ -285,8 +99,6 @@ FEEDS = [
         "suffix": ("AP News", "The Associated Press", "Associated Press",
                    "apnews.com", "AP"),
     },
-
-    # ── left of center. Kept, unchanged, just no longer unopposed. ──
     {
         "name": "BBC World",
         "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -308,16 +120,6 @@ FEEDS = [
         "color": 0x052962,
         "lanes": ("breaking", "pulse", "morning"),
     },
-
-    # ── right of center. Weighted at or above their opposite numbers so the
-    # tie-break in breaking_rank actually goes their way. WSJ matches Reuters,
-    # Telegraph and Fox clear AP, and nothing on the left sits above 2.0.
-    #
-    # WSJ and Telegraph run through Google News because their own feeds died:
-    # feeds.a.dj.com last filed 549 days ago and telegraph.co.uk/news/rss.xml
-    # 35 days ago, both while returning a healthy wall of stale articles. Cost
-    # of the workaround is no image in the XML, which is what BORROW_IMAGES
-    # exists to paper over. ──
     {
         "name": "WSJ",
         "url": GOOGLE_NEWS.format(site="wsj.com"),
@@ -358,8 +160,6 @@ FEEDS = [
         "color": 0x0A2240,
         "lanes": ("breaking", "pulse", "morning"),
     },
-
-    # ── center. The ballast. ──
     {
         "name": "Sky News",
         "url": "https://feeds.skynews.com/feeds/rss/home.xml",
@@ -374,14 +174,6 @@ FEEDS = [
         "color": 0x2E4B33,
         "lanes": ("breaking", "pulse", "morning"),
     },
-
-    # Morning-only. These exist to give the daily pick something worth reading
-    # that is not a disaster.
-    #
-    # The Monitor is here rather than on the breaking lane because it files
-    # roughly once a day - its freshest item measured 19 hours old, so it could
-    # never clear the 120-minute gate anyway. Leaving it on the sweep was a
-    # wasted HTTP request every twenty minutes.
     {
         "name": "CS Monitor World",
         "url": "https://rss.csmonitor.com/feeds/world",
@@ -404,9 +196,6 @@ FEEDS = [
         "color": 0xBB1919,
         "lanes": ("morning",),
     },
-    # Right-of-center commentary. Morning-only deliberately - these are essays
-    # and argument, not wire copy, and have no business tripping a breaking
-    # sweep no matter what verbs end up in the headline.
     {
         "name": "National Review",
         "url": "https://www.nationalreview.com/feed/",
@@ -424,16 +213,6 @@ FEEDS = [
     },
 ]
 
-# ── word lists ──────────────────────────────────────────────────────────────
-
-# A headline must contain one of these to clear the breaking gate.
-#
-# Matched on word boundaries, which is not fussiness. Plain substring matching
-# fired "coup" on "couple", "dead" on "deadline" and on "deadlocked", and
-# "recall" on "Biden recalls his years in the Senate" - all of which posted as
-# BREAKING. At a ceiling of three they usually lost the slot to something
-# actually urgent and you never saw them. There is no such competition at
-# seventeen, so the gate has to be the filter now.
 BREAKING_WORDS = (
     "breaking", "urgent", "killed", "kills", "kill", "dead", "deadly",
     "explosion", "earthquake", "quake", "tsunami", "shooting", "gunman",
@@ -441,55 +220,27 @@ BREAKING_WORDS = (
     "hurricane", "tornado", "nuclear", "outbreak", "indicted", "manhunt",
     "lockdown", "recall", "shutdown", "ceasefire", "coup", "emergency",
 )
-# Two deliberate absences, both learned from the sample above.
-#
-# "kills" and "kill" are new. The list had "killed" and nothing else, so the
-# ordinary wire present tense - "Landslide kills 30 in Peru", "Floods kill at
-# least 40" - was never eligible to post at all. That gap was invisible at a
-# ceiling of three because something else always filled the slot.
-#
-# "attacks" was removed. As a noun it is real, but as a verb it is the single
-# most common political headline in the roster ("Trump attacks rival"), and
-# there is no boundary rule that separates them. The singular still matches,
-# and a genuine attack story almost always carries a second word from this
-# list anyway - killed, dead, death toll.
 
-# Multi-word, matched as phrases on the same boundary rule.
 BREAKING_PHRASES = (
     "death toll", "plane crash", "state of emergency", "steps down",
     "mass casualties", "opens fire", "shot dead",
 )
 
-# Matched as prefixes, because only the tail varies: evacuate, evacuated,
-# evacuation. Keep these genuinely unambiguous - a loose stem here undoes the
-# boundary rule above.
 BREAKING_STEMS = (
     "evacuat", "assassinat", "derail", "impeach", "collaps", "resign",
     "casualt",
 )
 
-# Checked first. These are the phrases that contain a breaking word and are
-# reliably not an event - a heart attack is not an attack, an emergency room is
-# not an emergency, a dead heat is a poll result. Anything listed here vetoes
-# the headline outright, so keep it to cases with no honest exception.
 NOT_BREAKING = (
     "heart attack", "panic attack", "attack ad", "attacks on democracy",
     "dead heat", "dead last", "dead end", "walking dead", "dead of night",
     "nuclear option", "nuclear family", "emergency room", "emergency fund",
     "emergency savings", "recalls how", "recalls the", "recalls his",
     "recalls her", "shutdown of the", "under attack from critics",
-    # A bill dying in committee is not a casualty event.
     "kills bill", "kills the bill", "kills deal", "kills the deal",
     "kills plan", "kills proposal", "kills measure", "kills amendment",
 )
 
-# Proceedings about an event that already happened. These carry a breaking
-# word - an inquest into an explosion, an autopsy after an attack - but the
-# event is weeks or months cold. The age gate cannot see it, because the
-# article really was filed twenty minutes ago; only the event is old.
-#
-# Breaking lane only, deliberately. An inquest is a perfectly good morning
-# read, so this veto lives in looks_breaking rather than in MUTE_WORDS.
 PROCESS_WORDS = (
     "inquest", "autopsy", "post-mortem", "coroner", "toxicology",
     "testifies", "testified", "testimony", "takes the stand",
@@ -499,9 +250,6 @@ PROCESS_WORDS = (
     "jury deliberat", "pleads not guilty", "arraigned", "arraignment",
     "subpoena", "deposition", "lawsuit", "files suit", "sues over",
     "anniversary of", "years after", "years since", "decade after",
-    # Oversight, not police work. The plain verb is far too broad to list -
-    # "police investigating shooting at mall" is exactly the kind of fresh
-    # event this gate exists to catch - so the actor has to be named.
     "lawmakers investigating", "democrats investigating",
     "republicans investigating", "committee investigating",
     "congress investigating", "senate investigating",
@@ -510,11 +258,6 @@ PROCESS_WORDS = (
     "calls for investigation", "demand answers", "demands answers",
 )
 
-# ...unless the headline carries one of these, because a decision is itself
-# the event. This is the whole distinction: the inquest is process, the
-# verdict is news. "Father to be sentenced" and "father jailed for 15 years"
-# both survive on this list, which is the point - that pair was the reason
-# for drawing the line here rather than muting the category wholesale.
 BREAKING_OUTCOMES = (
     "sentenced", "sentencing", "convicted", "conviction", "verdict",
     "acquitted", "cleared of", "jailed", "found guilty", "pleads guilty",
@@ -522,8 +265,6 @@ BREAKING_OUTCOMES = (
     "guilty of", "ruling", "ruled", "settles",
 )
 
-# Never posted in either lane. Edit freely - sports lives in another channel.
-# The tabloid entries carry more of a load now that the Post is on the roster.
 MUTE_WORDS = (
     "nfl", "nba", "mlb", "nhl", "premier league", "world cup", "olympics",
     "box office", "red carpet", "horoscope", "recap", "highlights", "odds",
@@ -531,30 +272,11 @@ MUTE_WORDS = (
     "what to watch", "best deals", "prime day", "black friday",
 )
 
-# Muted by URL, not by words. This exists because the Post filed a video
-# repackage of a two-day-old Japanese earthquake with a fresh pubDate, and it
-# took the top breaking slot - the age gate trusts the timestamp, and the
-# timestamp was lying. Clip reels and galleries get re-dated constantly; the
-# written story does not. Cheapest possible fix, and it generalises.
-#
-# Note it cannot see through Google News: those links are opaque redirect IDs,
-# so the wires are on the honour system here. In practice they do not file
-# video repackages the way the tabloids do.
 MUTE_URL_PARTS = (
     "/video/", "/videos/", "/gallery/", "/galleries/", "/photos/",
     "/podcast/", "/podcasts/", "/slideshow",
 )
 
-# The Pulse lane's gate - same shape as BREAKING_WORDS/PHRASES, same
-# word-boundary matcher, deliberately disjoint subject matter. Breaking is
-# disasters and only disasters, on purpose; Pulse is everything substantive
-# that isn't one - legislation, courts, the economy, elections, diplomacy,
-# science and space. Not fluff (that's still MUTE_WORDS's job), not morbid
-# (that's the point of a second lane instead of loosening the first one).
-#
-# The source roster is the same wire/national outlets Breaking reads, so
-# "unveils" or "opens" firing on a small paper's local-business piece isn't a
-# real risk here the way it would be on an unfiltered feed.
 PULSE_WORDS = (
     "congress", "senate", "legislation", "budget", "election", "elects",
     "primary", "runoff", "nominates", "nomination", "treaty", "sanctions",
@@ -572,7 +294,6 @@ PULSE_PHRASES = (
     "breaks ground", "spending bill", "trade war", "vaccine approved",
 )
 
-# Nudges the morning pick toward things worth thinking about over coffee.
 INTEREST_WORDS = (
     "scientist", "researchers", "study finds", "discover", "ancient", "fossil",
     "space", "nasa", "telescope", "asteroid", "orbit", "quantum", "physics",
@@ -589,8 +310,6 @@ STOPWORDS = {
 }
 
 
-# ── http ────────────────────────────────────────────────────────────────────
-
 def get_bytes(url):
     req = urllib.request.Request(url, headers={
         "User-Agent": USER_AGENT,
@@ -599,8 +318,6 @@ def get_bytes(url):
     with urllib.request.urlopen(req, timeout=30) as res:
         return res.read()
 
-
-# ── text helpers ────────────────────────────────────────────────────────────
 
 def strip_html(text):
     if not text:
@@ -616,8 +333,6 @@ def clip(text, limit):
 
 
 def strip_suffix(title, suffixes):
-    """Longest match first, so listing both "AP News" and "AP" cannot end with
-    the short one winning and leaving " News" glued to the headline."""
     for suffix in sorted(suffixes or (), key=len, reverse=True):
         tail = f" - {suffix}"
         if title.lower().endswith(tail.lower()):
@@ -626,8 +341,6 @@ def strip_suffix(title, suffixes):
 
 
 def parse_date(text):
-    """RSS uses RFC 822, Atom uses ISO 8601. Accept either, always return
-    something timezone aware so age math never blows up."""
     if not text:
         return None
     text = text.strip()
@@ -647,24 +360,18 @@ def parse_date(text):
 
 
 def fmt_time(stamp):
-    """%-I is a glibc extension - strip the pad by hand so this does not depend
-    on which libc the runner happens to ship."""
     if not stamp:
         return None
     return f"{stamp.astimezone(LOCAL_TZ):%I:%M %p %Z}".lstrip("0")
 
 
 def fingerprint(title):
-    """Reduce a headline to its distinctive words so the same story from three
-    wires does not post three times."""
     words = re.findall(r"[a-z0-9]+", (title or "").lower())
     keep = sorted({w for w in words if len(w) > 3 and w not in STOPWORDS})
     return " ".join(keep)
 
 
 def title_echo(summary, title):
-    """True when the summary is just the headline again. Google News does this
-    on every item, with the publisher name tacked on the end."""
     words = set(fingerprint(summary).split())
     head = set(fingerprint(title).split())
     if not words or not head:
@@ -673,25 +380,29 @@ def title_echo(summary, title):
 
 
 def overlap(fp_a, fp_b):
-    """Jaccard on the two fingerprints. Pulled out of too_similar so the mirror
-    and photo searches can ask 'how alike?' instead of just 'alike enough?'"""
     a, b = set(fp_a.split()), set(fp_b.split())
     if not a or not b:
         return 0.0
     return len(a & b) / len(a | b)
 
 
+def containment(fp_a, fp_b):
+    a, b = set(fp_a.split()), set(fp_b.split())
+    if len(a) < CONTAINMENT_MIN_WORDS or len(b) < CONTAINMENT_MIN_WORDS:
+        return 0.0
+    return len(a & b) / min(len(a), len(b))
+
+
 def too_similar(fp, others):
-    return any(overlap(fp, other) >= SIMILARITY_THRESHOLD for other in others)
+    for other in others:
+        if overlap(fp, other) >= SIMILARITY_THRESHOLD:
+            return True
+        if containment(fp, other) >= CONTAINMENT_THRESHOLD:
+            return True
+    return False
 
-
-# ── images ──────────────────────────────────────────────────────────────────
 
 def usable_image(url):
-    """The Post's feed hands back image URLs with the path slashes percent
-    encoded - wp-content%2Fuploads%2F... - which Discord will not render. Only
-    unquote when the path itself looks encoded, so CDN wrappers that carry a
-    legitimate ?url=https%3A%2F%2F... parameter are left alone."""
     if not url:
         return None
     url = html.unescape(url.strip())
@@ -710,14 +421,6 @@ def usable_image(url):
 
 
 def find_image(node):
-    """Publishers advertise images four different ways, and half of them bury
-    the tags inside a media:group wrapper. Try them in order of reliability and
-    take the largest one offered.
-
-    Every candidate is validated as it is considered, not once at the end. A
-    feed that advertises its masthead logo in media:content and the real photo
-    in an enclosure used to end up with no image at all: the logo won on width,
-    then failed the junk check, and the enclosure was never reached."""
     best, best_width = None, -1
 
     for tag in (f"{MEDIA}content", f"{MEDIA}thumbnail"):
@@ -758,13 +461,6 @@ def find_image(node):
 
 
 def fetch_og_image(url):
-    """Last resort for items that reach posting with no picture. Reads only the
-    top of the page, since og:image lives in <head>, and swallows every error:
-    a missing image is not worth losing the post over.
-
-    Google News links are refused outright. They resolve through a JavaScript
-    redirect shell that carries no meta tags, so following one buys nothing and
-    costs up to OG_TIMEOUT_SECONDS - twice a run, every run, forever."""
     if "news.google.com" in url.lower():
         return None
     try:
@@ -779,8 +475,6 @@ def fetch_og_image(url):
     except Exception:
         return None
 
-    # Attribute order is not guaranteed, so check both arrangements before
-    # falling back to the Twitter card.
     patterns = (
         r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
         r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
@@ -805,13 +499,7 @@ def backfill_images(picks):
             print(f"  pulled og:image for [{item['source']}]")
 
 
-# ── same-story matching ─────────────────────────────────────────────────────
-
 def same_story(item, pool, accept):
-    """Everything in pool that is plausibly the same event as item and passes
-    accept(), best match first. Source weight is only a tiebreak - never let a
-    heavyweight outlet win on a looser match. Costs no network; the pool was
-    already fetched."""
     mine = item.get("fingerprint") or fingerprint(item["title"])
     found = []
 
@@ -837,13 +525,6 @@ def same_story(item, pool, accept):
 
 
 def attach_free_mirrors(picks, pool):
-    """Several of the heaviest-weighted sources are metered, so they will keep
-    winning slots that some readers cannot open. When that happens, hand back
-    exactly one of the copies the dedupe was going to discard.
-
-    Strictly one mirror per post, attached to the existing message. This is the
-    opposite of posting a story from every outlet that carried it, and nothing
-    here is allowed to grow into a second message."""
     for item in picks:
         if not item.get("paywall"):
             continue
@@ -857,12 +538,6 @@ def attach_free_mirrors(picks, pool):
 
 
 def borrow_images(picks, pool):
-    """Google News strips article images, which is most of the top of the
-    weight ladder - Reuters, AP, WSJ and the Telegraph would all post bare.
-    Borrow the photo from another outlet's copy of the same event.
-
-    The lender is named in the footer. An uncredited photo under someone else's
-    masthead would read as that outlet's own, which it is not."""
     for item in picks:
         if item.get("image"):
             continue
@@ -884,8 +559,6 @@ def borrow_images(picks, pool):
         print(f"  borrowed photo for [{item['source']}] "
               f"from {donor['source']} ({score:.2f} match)")
 
-
-# ── feed parsing ────────────────────────────────────────────────────────────
 
 def parse_feed(raw, feed):
     root = ET.fromstring(raw)
@@ -914,8 +587,6 @@ def parse_feed(raw, feed):
         title = strip_suffix(strip_html(title), feed.get("suffix"))
         summary = strip_html(summary)
 
-        # Google News fills description with a repeat of the headline. If the
-        # summary adds nothing, drop it rather than print the title twice.
         if summary and title_echo(summary, title):
             summary = ""
 
@@ -959,13 +630,7 @@ def collect(lane):
     return items
 
 
-# ── selection ───────────────────────────────────────────────────────────────
-
 def age_minutes(item, now):
-    """Never negative. A publisher whose clock runs fast, or who post-dates an
-    embargoed piece, would otherwise land in a negative freshness bucket and
-    hold the top breaking slot on every sweep until it aged into the present.
-    The future is treated as 'just now'."""
     if not item["published"]:
         return None
     return max((now - item["published"]).total_seconds() / 60.0, 0.0)
@@ -980,9 +645,6 @@ def muted(item):
 
 
 def _word_pattern(words=(), phrases=(), stems=()):
-    """Shared by both lane gates. Whole words and phrases get a boundary on
-    both ends; stems get one on the left only, so 'evacuat' still catches
-    'evacuations' while 'coup' can no longer catch 'couple'."""
     exact = [re.escape(w) for w in tuple(words) + tuple(phrases)]
     stem_esc = [re.escape(s) for s in stems]
     parts = []
@@ -1008,9 +670,6 @@ def looks_breaking(item):
 
 
 def looks_pulse(item):
-    """The Pulse gate. Disasters stay Breaking's alone - a headline that
-    already clears looks_breaking is left there rather than doubled up here,
-    even on the rare word both gates share (a ceasefire, say)."""
     if looks_breaking(item):
         return False
     return bool(PULSE_RE.search(item["title"].lower()))
@@ -1026,18 +685,6 @@ def score_interest(item):
 
 
 def breaking_rank(item, now):
-    """Sort key for the breaking sweep, and the whole balance mechanism.
-
-    Stories are bucketed by how fresh they are, and inside a bucket the higher
-    weighted source wins. So a genuinely newer story still beats an older one,
-    but when two papers file the same thing in the same half hour, the heavier
-    weight takes the slot - and since the first one through claims it, the
-    duplicate check then drops the other copy rather than the other way round.
-
-    That is why the weights read the way they do. The wires sit at the top
-    because they are the least slanted thing on the roster, WSJ matches them,
-    Telegraph and Fox clear AP, and nothing left of center rises above 2.0.
-    Change the balance by changing weights, not by deleting sources."""
     age = age_minutes(item, now)
     if age is None:
         age = BREAKING_MAX_AGE_MINUTES
@@ -1046,13 +693,6 @@ def breaking_rank(item, now):
 
 
 def note_related(fp, state, now):
-    """Log only. Prints the nearest recent headline when a pick clears the
-    dedupe but is not a stranger to it, so a post that reads like a repeat can
-    be checked against the number that let it through.
-
-    This is deliberately not surfaced to the channel. The band is genuinely
-    informative to a human reading a log next to the two headlines, and
-    genuinely unreliable as an automatic claim - see the module docstring."""
     best = None
     for prior in recent_posts(state, DEDUPE_WINDOW_HOURS, now):
         if not prior["title"]:
@@ -1066,9 +706,6 @@ def note_related(fp, state, now):
 
 
 def pick_breaking(items, state):
-    """Newest first, urgent only, deduped against everything posted inside the
-    memory window, and hard capped. The cap is what keeps an outbreak of bad
-    news from becoming an outbreak of notifications."""
     now = datetime.now(timezone.utc)
     fingerprints = [p["fp"] for p in recent_posts(state, DEDUPE_WINDOW_HOURS,
                                                   now)]
@@ -1082,9 +719,6 @@ def pick_breaking(items, state):
             continue
         if muted(item):
             continue
-        # Checked before the expensive tests, and only skips this item - the
-        # sweep keeps going, so the slot passes to the next paper down rather
-        # than being lost.
         if per_outlet.get(item["outlet"], 0) >= MAX_PER_OUTLET_PER_RUN:
             continue
         age = age_minutes(item, now)
@@ -1117,11 +751,6 @@ def pick_breaking(items, state):
 
 
 def pick_pulse(items, state):
-    """Same shape as pick_breaking - gate, freshness/weight rank, per-outlet
-    cap, shared dedupe window - with its own numbers and its own gate. The
-    dedupe fingerprints and the seen-id set are shared with Breaking on
-    purpose: a story Breaking already posted should not resurface here just
-    because it also happens to use a Pulse word."""
     now = datetime.now(timezone.utc)
     fingerprints = [p["fp"] for p in recent_posts(state, DEDUPE_WINDOW_HOURS,
                                                   now)]
@@ -1167,8 +796,6 @@ def pick_pulse(items, state):
 
 
 def pick_morning(items, state):
-    """Exactly one article. Scored for interest, with a small daily random
-    nudge so it does not pick the same kind of story every morning."""
     now = datetime.now(timezone.utc)
     rng = random.Random(now.astimezone(LOCAL_TZ).strftime("%Y-%m-%d"))
     fingerprints = [p["fp"] for p in recent_posts(state, DEDUPE_WINDOW_HOURS,
@@ -1200,8 +827,6 @@ def pick_morning(items, state):
     return [scored[0][1]]
 
 
-# ── embeds ──────────────────────────────────────────────────────────────────
-
 def build_embed(item, lane="breaking"):
     credit = item.get("photo_credit")
     footer = item["source"]
@@ -1224,8 +849,6 @@ def build_embed(item, lane="breaking"):
     if when:
         embed["fields"].append({"name": "Filed", "value": when, "inline": True})
 
-    # Sits beside the filing time as a masked link. One line, one link, no
-    # second message.
     mirror = item.get("mirror")
     if mirror:
         embed["fields"].append({
@@ -1244,11 +867,7 @@ def build_embed(item, lane="breaking"):
     return embed
 
 
-# ── posting ─────────────────────────────────────────────────────────────────
-
 def retry_after_seconds(err):
-    """Discord has reported retry_after in both seconds and milliseconds over
-    the years, so treat anything implausibly large as milliseconds."""
     wait = 2.0
     try:
         info = json.loads(err.read().decode("utf-8", "replace"))
@@ -1287,18 +906,7 @@ def post(url, embeds, content=None):
             time.sleep(wait)
 
 
-# ── state ───────────────────────────────────────────────────────────────────
-
 def load_state():
-    """Oldest first, newest last. Order matters: the trim in save_state drops
-    from the front, so it has to be chronological.
-
-    Two shapes are readable. The current one records each post as a small
-    object - fingerprint, headline, source, timestamp - because the dedupe
-    window needs the time, and the headline is there so the state file can be
-    read by a human wondering why something did or did not post. The old shape
-    was a bare list of fingerprints. Old files are migrated on first read and
-    rewritten on first save; nothing needs doing by hand."""
     try:
         with open(SEEN_FILE) as fh:
             data = json.load(fh)
@@ -1324,9 +932,6 @@ def load_state():
             "at": parse_date(entry.get("at")),
         })
 
-    # Legacy fingerprints carry no timestamp. Stamping them now means they age
-    # out over the next two days rather than all at once, so the migration run
-    # cannot repost the last thing the old build sent.
     if not posts:
         now = datetime.now(timezone.utc)
         for fp in data.get("titles", []):
@@ -1339,10 +944,6 @@ def load_state():
 
 
 def save_state(state):
-    """ids are deduped on the way out because a mirror's id can already be in
-    the list from an earlier sweep, and there is no sense spending the cap on
-    it twice. 'titles' is written alongside the real record purely so an older
-    checkout of this script can still read the file if you ever roll back."""
     posts = state["posts"][-POST_MEMORY_LIMIT:]
     with open(SEEN_FILE, "w") as fh:
         json.dump({
@@ -1358,9 +959,6 @@ def save_state(state):
 
 
 def recent_posts(state, hours, now=None):
-    """Posts inside the window. An entry with an unreadable timestamp is kept
-    rather than dropped - erring toward remembering is the safe direction for a
-    dedupe, and save_state always writes one, so it self-corrects."""
     now = now or datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=hours)
     return [p for p in state["posts"] if p["at"] is None or p["at"] >= cutoff]
@@ -1368,9 +966,6 @@ def recent_posts(state, hours, now=None):
 
 def record_post(state, item, now):
     state["ids"].append(item["id"])
-    # The mirror has now been shown to the channel. Burn its ID too, or a later
-    # sweep could pick it up as a fresh story and post the same thing a second
-    # time under a different masthead.
     if item.get("mirror"):
         state["ids"].append(item["mirror"]["id"])
     state["posts"].append({
@@ -1381,14 +976,7 @@ def record_post(state, item, now):
     })
 
 
-# ── checks ──────────────────────────────────────────────────────────────────
-
 def check_feeds():
-    """Feeds rot, and they rot quietly. A dead feed keeps returning well-formed
-    XML full of articles - WSJ was serving a tidy 20 items dated 549 days ago
-    and passing every check this function used to make. So freshness is a pass
-    condition, not a footnote. The image count is here so you can see which
-    sources depend on the borrow-and-scrape fallbacks."""
     print("Checking feeds...\n")
     now = datetime.now(timezone.utc)
     bad = []
@@ -1416,8 +1004,6 @@ def check_feeds():
             if newest > STALE_FEED_HOURS * 60:
                 print(f"  STALE {label}  ->  {len(items)} items, but the "
                       f"newest is {newest / 1440:.1f} days old")
-                print("        parses fine, nobody is filing to it - "
-                      "move this source to the Google News pattern")
                 bad.append(feed["name"])
                 continue
             fresh = f"newest {newest:.0f} min old"
@@ -1436,8 +1022,6 @@ def check_feeds():
     return 0
 
 
-# ── main ────────────────────────────────────────────────────────────────────
-
 def main():
     if "--check" in sys.argv:
         return check_feeds()
@@ -1450,8 +1034,6 @@ def main():
     else:
         lane = "breaking"
 
-    # Its own secret so news can go to a different channel than StormWatch.
-    # Falls back to the StormWatch webhook if you'd rather share one channel.
     webhook = (os.environ.get("CRIER_WEBHOOK", "").strip()
                or os.environ.get("DISCORD_WEBHOOK", "").strip())
 
@@ -1460,8 +1042,6 @@ def main():
         return 1
 
     if "--test" in sys.argv:
-        # --test is the one mode with nothing to preview, so pairing it with
-        # --dry used to mean posting to an empty URL.
         if dry:
             print("--test sends the only message it has; --dry cancels it.")
             return 0
@@ -1488,10 +1068,6 @@ def main():
         print("Nothing worth posting.")
         return 0
 
-    # After selection, before building embeds, so the dry run shows exactly
-    # what the channel would get. Order matters: mirrors first, because
-    # borrow_images prefers the mirror's photo when there is one, and the
-    # network call is last so it only runs on what nothing local could fix.
     attach_free_mirrors(picks, items)
     if BORROW_IMAGES:
         borrow_images(picks, items)
@@ -1506,8 +1082,6 @@ def main():
     header = {"morning": "Morning read", "pulse": "Pulse"}.get(
         lane, "Breaking")
 
-    # State is saved after every successful send. If send 2 of 3 dies, the
-    # first one stays recorded and does not repost on the next sweep.
     failed = 0
     try:
         for index, item in enumerate(picks):
