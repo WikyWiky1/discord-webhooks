@@ -59,7 +59,7 @@ except ImportError:  # pragma: no cover
 # ══════════════════════════════════════════════════════════════════════
 
 BIRTHDAYS = [
-    {"name": "WikyWiky",     "date": "09/07", "note": "Builder of places."},
+    {"name": "WikyWiky",     "date": "09/07", "note": "Pioneer of places."},
     {"name": "Bish",         "date": "09/05", "note": "You got any games on ya phone?\n\nBirthday games??"},
     {"name": "Arctic Fox",   "date": "10/14", "note": "The life of the party - full of laughter, warmth, kind hearted and the kind of peace that only you can bring! 🎂"},
     {"name": "shouldaducked","date": "05/27", "note": "Go spank the candy out of a piñata. You earned it!"},
@@ -72,7 +72,7 @@ BIRTHDAYS = [
 
     {"name": "Spartan",      "date": "10/31", "note": "A Halloween birthday is objectively elite. Caked up WITH candy. 🎃"},
     {"name": "Mahogany",     "date": "06/09"},
-    {"name": "zafguy",       "date": "01/09", "note": "Hope you get a day that\u2019s chill, fun, and exactly what you need. Wishing you a great year ahead."},
+    {"name": "zafguy",       "date": "01/09", "note": "Hope you get a day that's chill, fun, and exactly what you need. Wishing you a great year ahead."},
     {"name": "Wizurd",       "date": "12/25", "note": "A Christmas birthday! Double the celebration, and you deserve every bit of it. 🎄"},
     {"name": "Seanuh",       "date": "10/30"},
     {"name": "Kahl",         "date": "12/05", "note": "Sir, a second birthday has hit the tower."},
