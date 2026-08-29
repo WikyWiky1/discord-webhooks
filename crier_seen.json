@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40411310",
   "CBMiowFBVV95cUxOaGswZ2hQQnZMdWduRkdsblByc1VIM2dLdmpfWnpKNjY3MUZma2plX00tRTVqV3Z4cWxieHgwWFZuN2pEM1lpZ3RLUFRuR3Y0UWl3UnNjcmNBdlowZmdCcXI2NGhrLVJkMGVEOGczcXlzcGdDMThZMTZaRDJzR0szc3FMbjFBY3FwUU5DSkl1cGFkUXFqakd6NG4yWVV0ZWpzaWlZ",
   "https://nypost.com/?post_type=article&p=40411782",
   "https://nypost.com/?post_type=article&p=40407593",
@@ -799,15 +798,10 @@
   "https://news.sky.com/story/murder-arrest-after-man-found-dead-next-to-seriously-injured-child-in-northern-ireland-13578610",
   "CBMiqAFBVV95cUxQR1NwTkhXU2w5YnIwdTFVRnVzZXQ2eFc5RGlkaGtxVGxweUh1ci00ekxtS3Nqa2VPU3JHZTJCZWxhakJ6UDdvZ3VhQkdsWURtaFg5WkRZNlo4SDNVMkNBYVlEbFlaUVJEWlBxdGNscndyM2VpQy1pQUVDUkJEdzhXbHZRRzROdHhNWi1FakVGZnhOTHNKd2ZBR0liSWczQ1FOYU1NSTdZaGU",
   "https://www.theguardian.com/politics/2026/aug/29/james-cleverly-resigns-conservative-shadow-cabinet-london-mayor",
-  "https://www.foxnews.com/world/death-toll-mudslides-flooding-nepal-china-border-climbs-past-670-nearly-3000-missing"
+  "https://www.foxnews.com/world/death-toll-mudslides-flooding-nepal-china-border-climbs-past-670-nearly-3000-missing",
+  "https://www.theguardian.com/us-news/2026/aug/29/michigan-senate-candidate-mike-rogers-osama-bin-laden"
  ],
  "posts": [
-  {
-   "fp": "capacity double east eatery face hampton kill only plan replacement residents tony",
-   "title": "Tony East Hampton residents kill one eatery plan \u2014 only to face replacement that\u2019s double the capacity",
-   "source": "New York Post",
-   "at": "2026-08-23T21:14:20.189535+00:00"
-  },
   {
    "fp": "collapses kills landfill landslide mound site waste",
    "title": "Landslide kills 30 after mound of waste collapses at landfill site",
@@ -3201,10 +3195,15 @@
    "title": "Death toll from mudslides, flooding at Nepal-China border climbs past 670, nearly 3,000 missing",
    "source": "Fox News World",
    "at": "2026-08-29T17:27:46.514967+00:00"
+  },
+  {
+   "fp": "body candidate eyes laden michigan mike rogers senate",
+   "title": "Michigan Senate candidate Mike Rogers says he saw Bin Laden\u2019s body with his \u2018own eyes\u2019. He did not",
+   "source": "Guardian World",
+   "at": "2026-08-29T18:11:26.229400+00:00"
   }
  ],
  "titles": [
-  "capacity double east eatery face hampton kill only plan replacement residents tony",
   "collapses kills landfill landslide mound site waste",
   "lethal vaccine",
   "debate democrats embrace opportunity primary progressives republicans wins",
@@ -3603,6 +3602,7 @@
   "child dead found injured next seriously",
   "attack children deadly gang haitian kidnapping mass releases violent women",
   "cabinet cleverly james london mayor resigns shadow",
-  "border china climbs death flooding missing mudslides nearly nepal past toll"
+  "border china climbs death flooding missing mudslides nearly nepal past toll",
+  "body candidate eyes laden michigan mike rogers senate"
  ]
 }
