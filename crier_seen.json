@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40406422",
   "https://www.washingtonexaminer.com/?p=4692534",
   "https://thehill.com/?p=6038285",
   "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo#1",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
   "https://thehill.com/?p=6054403",
   "https://www.bbc.co.uk/news/articles/c86xwqez4npo#0",
-  "CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k"
+  "CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k",
+  "https://www.npr.org/2024/08/16/g-s1-140898/paleontologist-ken-lacovara-and-the-fifth-extinction-that-killed-the-dinosaurs"
  ],
  "posts": [
-  {
-   "fp": "evacuate fast forces homes moving nevada reno thousands wildfire",
-   "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
-   "source": "Guardian World",
-   "at": "2026-08-23T18:51:53.034846+00:00"
-  },
   {
    "fp": "collapse guinea kills landfill rubbish",
    "title": "Guinea rubbish landfill collapse kills 30",
@@ -3201,10 +3195,15 @@
    "title": "Russian strike near Kyiv kills 37, in one of the year\u2019s deadliest attacks",
    "source": "AP",
    "at": "2026-08-29T13:51:46.904142+00:00"
+  },
+  {
+   "fp": "about answers died dinosaurs fossil hotspot jersey",
+   "title": "New Jersey is a fossil hotspot, with answers about the day the dinosaurs died",
+   "source": "NPR Science",
+   "at": "2026-08-29T15:33:17.526527+00:00"
   }
  ],
  "titles": [
-  "evacuate fast forces homes moving nevada reno thousands wildfire",
   "collapse guinea kills landfill rubbish",
   "battle crews deliblato help sands serbia wildfire",
   "government guinea kills landfill landslide",
@@ -3603,6 +3602,7 @@
   "drone kills kyiv least russian storing strike warehouse weapons",
   "bureaucracy government keep kills safe women",
   "dead depot evacuated hundreds kyiv least strike weapons",
-  "attacks deadliest kills kyiv near russian strike year"
+  "attacks deadliest kills kyiv near russian strike year",
+  "about answers died dinosaurs fossil hotspot jersey"
  ]
 }
