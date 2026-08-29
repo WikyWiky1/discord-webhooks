@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMiowFBVV95cUxOaGswZ2hQQnZMdWduRkdsblByc1VIM2dLdmpfWnpKNjY3MUZma2plX00tRTVqV3Z4cWxieHgwWFZuN2pEM1lpZ3RLUFRuR3Y0UWl3UnNjcmNBdlowZmdCcXI2NGhrLVJkMGVEOGczcXlzcGdDMThZMTZaRDJzR0szc3FMbjFBY3FwUU5DSkl1cGFkUXFqakd6NG4yWVV0ZWpzaWlZ",
-  "https://nypost.com/?post_type=article&p=40411782",
-  "https://nypost.com/?post_type=article&p=40407593",
   "CBMixwFBVV95cUxOSHZsdEVCYk1ZeVc2SlBVRy1Qak55bGh3SW9teGRxY0RuSm15ZDQweUYwM0NQVlpHSmJDUnU5cTR1SE9mc1dTN1JwYjFyM1U1Y1ctUFRUNlI2SUIyc09sX0JDNW51Zy1oY1E3bU85TWFBUzgtbVllZ2ZlNnFlMnByZXJhTlN4Ry12S1Npb1NWTm1fZ003TWk3Q25MUWxGRC1zUm8tWGFSSG9xMzVQVEhFTS1PVC1JQnFtVDF4UG1ldG1LQlZZdzNB",
   "https://nypost.com/?post_type=article&p=40410174",
   "CBMiiwFBVV95cUxNcV82UmUyY2piSWx6cWN2eElDZUxVdmRBUkhsWWNqdzlHNUNKVjhRdVdPUzZncFFnTXZ1Q0tEMWRfczNzZlZhU1NPbzBpTzk2VVhob19tM0FUdXNBa0c5czhnTnFUMEtIR2JHYU9YVlZwbFNaQVozZkF3M0lqUHhsRnlSbDd5eVoyMTFN",
@@ -799,27 +796,12 @@
   "CBMiqAFBVV95cUxQR1NwTkhXU2w5YnIwdTFVRnVzZXQ2eFc5RGlkaGtxVGxweUh1ci00ekxtS3Nqa2VPU3JHZTJCZWxhakJ6UDdvZ3VhQkdsWURtaFg5WkRZNlo4SDNVMkNBYVlEbFlaUVJEWlBxdGNscndyM2VpQy1pQUVDUkJEdzhXbHZRRzROdHhNWi1FakVGZnhOTHNKd2ZBR0liSWczQ1FOYU1NSTdZaGU",
   "https://www.theguardian.com/politics/2026/aug/29/james-cleverly-resigns-conservative-shadow-cabinet-london-mayor",
   "https://www.foxnews.com/world/death-toll-mudslides-flooding-nepal-china-border-climbs-past-670-nearly-3000-missing",
-  "https://www.theguardian.com/us-news/2026/aug/29/michigan-senate-candidate-mike-rogers-osama-bin-laden"
+  "https://www.theguardian.com/us-news/2026/aug/29/michigan-senate-candidate-mike-rogers-osama-bin-laden",
+  "https://nypost.com/?post_type=article&p=40573917",
+  "CBMiywFBVV95cUxQeUNtSl8wSUhVN25USUY5OVJtUC1KdHd0UGUyUmMtb0VPNFFxaTY0Ymd0UUZGRU5xNngyYTRXNU5yQVdhbzRZSXpZNkNjTG5LQTgtMThuR01PN2xzcVBvUzBucXpNMl9rTlRyS2tQQ1JjOEFaWldtUFhTS0JjV0VqZFdtc0dfUmFkRjVtbVBMTjJXaVRhQzRWMVRpa21oLXBwUUtvVzlOdHZuOGhsT3BTa2ZwWUhZbWZQTTB0QkUwdWFFZXVOcVZ2RWVaVQ",
+  "https://thehill.com/?p=6056562"
  ],
  "posts": [
-  {
-   "fp": "collapses kills landfill landslide mound site waste",
-   "title": "Landslide kills 30 after mound of waste collapses at landfill site",
-   "source": "Sky News",
-   "at": "2026-08-23T21:14:21.885921+00:00"
-  },
-  {
-   "fp": "lethal vaccine",
-   "title": "Oz says MMR vaccine 'is not a lethal vaccine'",
-   "source": "The Hill",
-   "at": "2026-08-23T21:21:17.064316+00:00"
-  },
-  {
-   "fp": "debate democrats embrace opportunity primary progressives republicans wins",
-   "title": "Republicans see opportunity in progressives' primary wins while Democrats embrace debate",
-   "source": "Reuters World",
-   "at": "2026-08-23T21:21:18.813806+00:00"
-  },
   {
    "fp": "east iran middle news official other sanctions support",
    "title": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news",
@@ -3201,12 +3183,27 @@
    "title": "Michigan Senate candidate Mike Rogers says he saw Bin Laden\u2019s body with his \u2018own eyes\u2019. He did not",
    "source": "Guardian World",
    "at": "2026-08-29T18:11:26.229400+00:00"
+  },
+  {
+   "fp": "area commander forces hamas including israeli jenin kill palestinian terrorists",
+   "title": "Israeli forces kill 3 Palestinian terrorists in Jenin area, including Hamas commander",
+   "source": "New York Post",
+   "at": "2026-08-29T19:58:01.262755+00:00"
+  },
+  {
+   "fp": "bank banque central egypt examination iran launches misr notice reviews sanctions urgent",
+   "title": "Egypt's Banque Misr reviews US Iran sanctions notice, UAE central bank launches urgent examination",
+   "source": "Reuters World",
+   "at": "2026-08-29T19:58:02.904342+00:00"
+  },
+  {
+   "fp": "become conscious dead wants",
+   "title": "AI could become conscious. What if it wants us dead?",
+   "source": "The Hill",
+   "at": "2026-08-29T19:58:04.553492+00:00"
   }
  ],
  "titles": [
-  "collapses kills landfill landslide mound site waste",
-  "lethal vaccine",
-  "debate democrats embrace opportunity primary progressives republicans wins",
   "east iran middle news official other sanctions support",
   "clarifies lethal suggested trump vaccine",
   "canada devolve lashes talks trade trump",
@@ -3603,6 +3600,9 @@
   "attack children deadly gang haitian kidnapping mass releases violent women",
   "cabinet cleverly james london mayor resigns shadow",
   "border china climbs death flooding missing mudslides nearly nepal past toll",
-  "body candidate eyes laden michigan mike rogers senate"
+  "body candidate eyes laden michigan mike rogers senate",
+  "area commander forces hamas including israeli jenin kill palestinian terrorists",
+  "bank banque central egypt examination iran launches misr notice reviews sanctions urgent",
+  "become conscious dead wants"
  ]
 }
