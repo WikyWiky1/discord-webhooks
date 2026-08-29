@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/environment/2026/aug/19/water-reuse-recycling-law-cambridgeshire",
-  "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
   "https://www.theguardian.com/uk-news/2026/aug/19/lewes-derailment-network-rail-gtr-images-track-defect-before-incident",
   "https://nypost.com/?post_type=article&p=40407223",
   "https://www.washingtonexaminer.com/?p=4692544",
@@ -799,21 +797,11 @@
   "CBMivgFBVV95cUxOZlBkMDNVSkFLeW5ydV9lUnJVdDlNRjlQcTZzdTVFTTQ0X1RZWEc4MlFhLVdmLUZfWXlVMW4zNXhENHZkTEE2WU84ZTZ3V0kycE9wZ2dTQWNqZm4taEZlUGlBbEotT0pZbnFMVlM2aE0xdjZXbzJ3c0psWi1vdFNqZHZodk5TOVZHVXpYcXdKTzhhZkdQbzV4VUdRQkxkUXBPaVo2SjlJTGl6eGZMTTJ4TC1QZjZKUXdZanI1NlF3",
   "CBMiogFBVV95cUxQVkZoRGt4T0E5S3FlWGE5djAzWEpQQUxPRE9XV0IwQmxVQUxkcmg4cjlsalp6REd1ZVcxZW1PRTZyVUx3QkxWaWozV1FIYTRKRXF4MGF0b2lqdmd3Z241NGtmZ1Q2dnd3R0tVd2NLQmRlVXZhOXN1MkhpRHFOOFR4TVZ0ckZra21PUHQ2TWZXZVVjTWZwSW5uSDdsVjYwSEhxV2c",
   "CBMikgFBVV95cUxNR0JWTC1aei1PWXBXLVdLb0kyX1JQaGtTXy1hX3M1UmNtWFRTZHB6blRtakpDOUUwSW1kRDZVTmlhaHRBMjNTbkR4TTQxczQzZWUycHNIR1R1UEtTS2VLQkRMQ1ppVks4YzJ0Qzh3b1RQdi1NYWxmbjFFLUVlMHFMdjgzX0NUQjVZY0ZsbTBfR2NIZw",
-  "CBMirwFBVV95cUxNclpTSjhrWFdJeVZFMFZHbTU4alNJbFYxWU9QSEw5aFBURGR2ZW91b1dxSFc0d0NqX2REVlMxVk1lTXA1MFBDME84ZV9MRWt1akhhd0xNXzJxLXd5YjFibS1BMlN6UFhpUG1nWWxvR25iS3RFSXJYM01Vd25XdFBEbVFsMVRtSlBDV3ZVdF90SUVxMUVnWlBkMDZLS2JFeUlPT2VZcnpEWkwwQmJwV3lR"
+  "CBMirwFBVV95cUxNclpTSjhrWFdJeVZFMFZHbTU4alNJbFYxWU9QSEw5aFBURGR2ZW91b1dxSFc0d0NqX2REVlMxVk1lTXA1MFBDME84ZV9MRWt1akhhd0xNXzJxLXd5YjFibS1BMlN6UFhpUG1nWWxvR25iS3RFSXJYM01Vd25XdFBEbVFsMVRtSlBDV3ZVdF90SUVxMUVnWlBkMDZLS2JFeUlPT2VZcnpEWkwwQmJwV3lR",
+  "https://nypost.com/?post_type=article&p=40567401",
+  "https://nypost.com/?post_type=article&p=40567922"
  ],
  "posts": [
-  {
-   "fp": "crash iraq killed officer police veteran",
-   "title": "Police officer killed in A66 crash was Iraq veteran",
-   "source": "Telegraph",
-   "at": "2026-08-23T16:46:07.597180+00:00"
-  },
-  {
-   "fp": "kill talarico texas views",
-   "title": "Texas GOP Rep on Talarico: 'His views would kill Texas'",
-   "source": "The Hill",
-   "at": "2026-08-23T17:14:14.900279+00:00"
-  },
   {
    "fp": "antisemitic attack basketball camp court docs fired forced harrowing jewish kids lockdown madman maine summer",
    "title": "Maine madman fired at Jewish summer camp basketball court, forced harrowing lockdown for kids in \u2018antisemitic\u2019 attack: docs",
@@ -3201,11 +3189,21 @@
    "title": "Wyoming governor requests investigation into activity of Justice Department monitors during primary",
    "source": "AP",
    "at": "2026-08-28T23:53:28.605761+00:00"
+  },
+  {
+   "fp": "charges crash going heartless killed murder slapped socal suspect teens",
+   "title": "Heartless hit-and-run suspect slapped with murder charges after going 117 mph in SoCal crash that killed two teens",
+   "source": "New York Post",
+   "at": "2026-08-29T01:21:51.739588+00:00"
+  },
+  {
+   "fp": "death disease insist legionnaires longer officials outbreak reaches spreading toll",
+   "title": "NYC Legionnaires\u2019 outbreak death toll reaches 11\u2014 but officials insist disease no longer spreading",
+   "source": "New York Post",
+   "at": "2026-08-29T01:21:53.537035+00:00"
   }
  ],
  "titles": [
-  "crash iraq killed officer police veteran",
-  "kill talarico texas views",
   "antisemitic attack basketball camp court docs fired forced harrowing jewish kids lockdown madman maine summer",
   "canada collapsed futile lesson negotiation talks trade",
   "capital guinea killed landslide least officials people",
@@ -3603,6 +3601,8 @@
   "appeals block cannot court kalshi markets nevada oversight prediction rules",
   "bond boosts fall speech stocks warsh yields",
   "bond drift hike interest lower market prepares rates stocks",
-  "activity department governor investigation justice monitors primary requests wyoming"
+  "activity department governor investigation justice monitors primary requests wyoming",
+  "charges crash going heartless killed murder slapped socal suspect teens",
+  "death disease insist legionnaires longer officials outbreak reaches spreading toll"
  ]
 }
