@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40407681",
   "https://nypost.com/?post_type=article&p=40406689",
   "https://www.washingtonexaminer.com/?p=4692557",
   "CBMiwgFBVV95cUxPZGRNY3lJNWgxdHVGYUY1RUN1MVBkNGVOekszQ19STnp2by04X01ES3E2bWNmSGkyVDZadmJlRmk1YjRFT1BCSTZjVGd6TDNKY3VvX2tzdDJnX2tQMmZnbmRsWWpZUzZreHpuNHhwTmNKOHo2TXJDX1hCeXRsU2ZER1RIRHlncTFjVDJtVXhtald4TV9kdVhvX09DeDZ3MTlYM2hJX09QWElpTXFOMllub1pfZmNaREFlVC11SllseVdRQQ",
@@ -799,7 +798,8 @@
   "https://nypost.com/?post_type=article&p=40567922",
   "CBMiYkFVX3lxTE96Z3NNT3RJaWZTSkRPYlJWVHNNNjJZUW9XM1o2M3VJSURNMlhGdFpmcHFGSGJNQ1FVNlVpUm5jSEEzRFZyMXk4aElOblRGQjJQMDEtUXp1OU9CSkFzOEN3eTlB",
   "CBMijAFBVV95cUxNNUhaMVZSenJjd0xNTUlzUUNWa1lyV1REUEYzMjVNMW9rUGRvUk5qMmxUZlR4bW5FUmFUNTVJWmw0Z2dyTWtPQ2hpeFdQby1qc1J3VGVlM1dteDFzWThoVkRzQlFSd0hKRXpSWlc3RWZZRFdGbWsyUTBUc28xYnBSVXRGN2NRZGJsRlh1cA",
-  "CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN"
+  "CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN",
+  "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
  ],
  "posts": [
   {
@@ -3185,12 +3185,6 @@
    "at": "2026-08-29T01:21:53.537035+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-08-29T05:51:57.786652+00:00"
-  },
-  {
    "fp": "asian earnings mixed nvidia stocks",
    "title": "Asian Stocks Mixed After Nvidia Earnings",
    "source": "WSJ",
@@ -3201,6 +3195,12 @@
    "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
    "source": "Reuters",
    "at": "2026-08-29T05:52:01.439347+00:00"
+  },
+  {
+   "fp": "budget cuts launch nasa space surviving telescope trump",
+   "title": "Nasa space telescope set to launch after surviving Trump budget cuts",
+   "source": "Guardian World",
+   "at": "2026-08-29T12:23:12.306423+00:00"
   }
  ],
  "titles": [
@@ -3601,8 +3601,8 @@
   "activity department governor investigation justice monitors primary requests wyoming",
   "charges crash going heartless killed murder slapped socal suspect teens",
   "death disease insist legionnaires longer officials outbreak reaches spreading toll",
-  "edition journal print street wall",
   "asian earnings mixed nvidia stocks",
-  "agreement altman clash coding cursor deepening musk openai spacex tool"
+  "agreement altman clash coding cursor deepening musk openai spacex tool",
+  "budget cuts launch nasa space surviving telescope trump"
  ]
 }
