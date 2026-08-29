@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMixwFBVV95cUxOSHZsdEVCYk1ZeVc2SlBVRy1Qak55bGh3SW9teGRxY0RuSm15ZDQweUYwM0NQVlpHSmJDUnU5cTR1SE9mc1dTN1JwYjFyM1U1Y1ctUFRUNlI2SUIyc09sX0JDNW51Zy1oY1E3bU85TWFBUzgtbVllZ2ZlNnFlMnByZXJhTlN4Ry12S1Npb1NWTm1fZ003TWk3Q25MUWxGRC1zUm8tWGFSSG9xMzVQVEhFTS1PVC1JQnFtVDF4UG1ldG1LQlZZdzNB",
-  "https://nypost.com/?post_type=article&p=40410174",
   "CBMiiwFBVV95cUxNcV82UmUyY2piSWx6cWN2eElDZUxVdmRBUkhsWWNqdzlHNUNKVjhRdVdPUzZncFFnTXZ1Q0tEMWRfczNzZlZhU1NPbzBpTzk2VVhob19tM0FUdXNBa0c5czhnTnFUMEtIR2JHYU9YVlZwbFNaQVozZkF3M0lqUHhsRnlSbDd5eVoyMTFN",
   "CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ",
   "https://www.washingtonexaminer.com/?p=4693171",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/2026/aug/29/michigan-senate-candidate-mike-rogers-osama-bin-laden",
   "https://nypost.com/?post_type=article&p=40573917",
   "CBMiywFBVV95cUxQeUNtSl8wSUhVN25USUY5OVJtUC1KdHd0UGUyUmMtb0VPNFFxaTY0Ymd0UUZGRU5xNngyYTRXNU5yQVdhbzRZSXpZNkNjTG5LQTgtMThuR01PN2xzcVBvUzBucXpNMl9rTlRyS2tQQ1JjOEFaWldtUFhTS0JjV0VqZFdtc0dfUmFkRjVtbVBMTjJXaVRhQzRWMVRpa21oLXBwUUtvVzlOdHZuOGhsT3BTa2ZwWUhZbWZQTTB0QkUwdWFFZXVOcVZ2RWVaVQ",
-  "https://thehill.com/?p=6056562"
+  "https://thehill.com/?p=6056562",
+  "https://nypost.com/?post_type=article&p=40573934",
+  "https://www.washingtonexaminer.com/?p=4705409"
  ],
  "posts": [
-  {
-   "fp": "east iran middle news official other sanctions support",
-   "title": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news",
-   "source": "AP",
-   "at": "2026-08-23T21:21:20.519302+00:00"
-  },
-  {
-   "fp": "clarifies lethal suggested trump vaccine",
-   "title": "Dr. Oz clarifies the MMR vaccine is \u2018not lethal\u2019 after Trump suggested it could be",
-   "source": "New York Post",
-   "at": "2026-08-23T21:21:22.266095+00:00"
-  },
   {
    "fp": "canada devolve lashes talks trade trump",
    "title": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
@@ -3201,11 +3189,21 @@
    "title": "AI could become conscious. What if it wants us dead?",
    "source": "The Hill",
    "at": "2026-08-29T19:58:04.553492+00:00"
+  },
+  {
+   "fp": "captured chilling dogs google images killed maps pack where",
+   "title": "Chilling Google Maps images captured where man was killed by pack of dogs",
+   "source": "New York Post",
+   "at": "2026-08-29T22:27:10.766206+00:00"
+  },
+  {
+   "fp": "abdul apologizes attack controversial jews michigan sayed statement synagogue",
+   "title": "Abdul el Sayed apologizes to Michigan Jews for controversial synagogue attack statement",
+   "source": "Washington Examiner",
+   "at": "2026-08-29T22:27:12.372613+00:00"
   }
  ],
  "titles": [
-  "east iran middle news official other sanctions support",
-  "clarifies lethal suggested trump vaccine",
   "canada devolve lashes talks trade trump",
   "dumbest opinion revisited trade",
   "coach dead donna fabares reed shelley show star",
@@ -3603,6 +3601,8 @@
   "body candidate eyes laden michigan mike rogers senate",
   "area commander forces hamas including israeli jenin kill palestinian terrorists",
   "bank banque central egypt examination iran launches misr notice reviews sanctions urgent",
-  "become conscious dead wants"
+  "become conscious dead wants",
+  "captured chilling dogs google images killed maps pack where",
+  "abdul apologizes attack controversial jews michigan sayed statement synagogue"
  ]
 }
