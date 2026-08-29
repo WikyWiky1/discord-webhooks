@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40406689",
-  "https://www.washingtonexaminer.com/?p=4692557",
-  "CBMiwgFBVV95cUxPZGRNY3lJNWgxdHVGYUY1RUN1MVBkNGVOekszQ19STnp2by04X01ES3E2bWNmSGkyVDZadmJlRmk1YjRFT1BCSTZjVGd6TDNKY3VvX2tzdDJnX2tQMmZnbmRsWWpZUzZreHpuNHhwTmNKOHo2TXJDX1hCeXRsU2ZER1RIRHlncTFjVDJtVXhtald4TV9kdVhvX09DeDZ3MTlYM2hJX09QWElpTXFOMllub1pfZmNaREFlVC11SllseVdRQQ",
-  "CBMivwFBVV95cUxONW5LS2JKMjFfeFNRckE1RmNFNWdJU1RSVlIyQ2d5SC1zaHJOUUpuODVhU1g2M3h1NzA3NnB3ckxUYWhKNTB4M2ZUS1VpX1dUUURDcGZialRsZjk3UkZtZjVRcEJNZ3lHV3dOY1N2cFhIYWJ3cHpaRHlkNkRIM0ZjOXI5TTgzRlEwZ1pBYnVQczFOUjcxbmpxenAzLVl5d2JzU1B2YTh6b2JVUVdwZHFMUDliRXRwaFFJakpaT3hwdw",
   "https://nypost.com/?post_type=article&p=40406422",
   "https://www.washingtonexaminer.com/?p=4692534",
   "https://thehill.com/?p=6038285",
@@ -799,33 +795,13 @@
   "CBMiYkFVX3lxTE96Z3NNT3RJaWZTSkRPYlJWVHNNNjJZUW9XM1o2M3VJSURNMlhGdFpmcHFGSGJNQ1FVNlVpUm5jSEEzRFZyMXk4aElOblRGQjJQMDEtUXp1OU9CSkFzOEN3eTlB",
   "CBMijAFBVV95cUxNNUhaMVZSenJjd0xNTUlzUUNWa1lyV1REUEYzMjVNMW9rUGRvUk5qMmxUZlR4bW5FUmFUNTVJWmw0Z2dyTWtPQ2hpeFdQby1qc1J3VGVlM1dteDFzWThoVkRzQlFSd0hKRXpSWlc3RWZZRFdGbWsyUTBUc28xYnBSVXRGN2NRZGJsRlh1cA",
   "CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN",
-  "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
+  "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman",
+  "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
+  "https://thehill.com/?p=6054403",
+  "https://www.bbc.co.uk/news/articles/c86xwqez4npo#0",
+  "CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k"
  ],
  "posts": [
-  {
-   "fp": "defender delays electric jaguar land rollout rover",
-   "title": "Jaguar Land Rover delays all-electric Defender rollout",
-   "source": "Telegraph",
-   "at": "2026-08-23T18:28:23.738042+00:00"
-  },
-  {
-   "fp": "alaska backs beat bonkers mayor race senate sullivan",
-   "title": "Ex-Mayor Dan Sullivan backs Dan Sullivan to beat Dan Sullivan in bonkers Alaska Senate race",
-   "source": "New York Post",
-   "at": "2026-08-23T18:28:25.528941+00:00"
-  },
-  {
-   "fp": "bitter endorsement governor oklahoma power runoff tests trump",
-   "title": "Bitter Oklahoma governor's runoff tests Trump's endorsement power",
-   "source": "The Hill",
-   "at": "2026-08-23T18:28:27.381751+00:00"
-  },
-  {
-   "fp": "canada head toward trade",
-   "title": "U.S., Canada Head Toward Trade War",
-   "source": "WSJ",
-   "at": "2026-08-23T18:28:29.141506+00:00"
-  },
   {
    "fp": "evacuate fast forces homes moving nevada reno thousands wildfire",
    "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
@@ -3201,13 +3177,33 @@
    "title": "Nasa space telescope set to launch after surviving Trump budget cuts",
    "source": "Guardian World",
    "at": "2026-08-29T12:23:12.306423+00:00"
+  },
+  {
+   "fp": "drone kills kyiv least russian storing strike warehouse weapons",
+   "title": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
+   "source": "Guardian World",
+   "at": "2026-08-29T13:51:41.414646+00:00"
+  },
+  {
+   "fp": "bureaucracy government keep kills safe women",
+   "title": "When bureaucracy kills: When will our government act to keep women safe?",
+   "source": "The Hill",
+   "at": "2026-08-29T13:51:43.204307+00:00"
+  },
+  {
+   "fp": "dead depot evacuated hundreds kyiv least strike weapons",
+   "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+   "source": "BBC World",
+   "at": "2026-08-29T13:51:45.028064+00:00"
+  },
+  {
+   "fp": "attacks deadliest kills kyiv near russian strike year",
+   "title": "Russian strike near Kyiv kills 37, in one of the year\u2019s deadliest attacks",
+   "source": "AP",
+   "at": "2026-08-29T13:51:46.904142+00:00"
   }
  ],
  "titles": [
-  "defender delays electric jaguar land rollout rover",
-  "alaska backs beat bonkers mayor race senate sullivan",
-  "bitter endorsement governor oklahoma power runoff tests trump",
-  "canada head toward trade",
   "evacuate fast forces homes moving nevada reno thousands wildfire",
   "collapse guinea kills landfill rubbish",
   "battle crews deliblato help sands serbia wildfire",
@@ -3603,6 +3599,10 @@
   "death disease insist legionnaires longer officials outbreak reaches spreading toll",
   "asian earnings mixed nvidia stocks",
   "agreement altman clash coding cursor deepening musk openai spacex tool",
-  "budget cuts launch nasa space surviving telescope trump"
+  "budget cuts launch nasa space surviving telescope trump",
+  "drone kills kyiv least russian storing strike warehouse weapons",
+  "bureaucracy government keep kills safe women",
+  "dead depot evacuated hundreds kyiv least strike weapons",
+  "attacks deadliest kills kyiv near russian strike year"
  ]
 }
