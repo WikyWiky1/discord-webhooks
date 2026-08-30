@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40415012",
-  "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-  "https://nypost.com/?post_type=article&p=40413479",
-  "https://nypost.com/?post_type=article&p=40411133",
-  "https://www.washingtonexaminer.com/?p=4693596",
-  "https://nypost.com/?post_type=article&p=40416617",
   "https://thehill.com/?p=6039728",
   "https://www.washingtonexaminer.com/?p=4693319",
   "CBMijwFBVV95cUxORENrZXVLUC1CR0duTURjeUJQWUJUVVprWnU4dlJVNUJQY3lMN1YtdXBucGtlRUNhNHFsX1dtZmJSdDY5bWltSXh1UGprSjc1RGpCdGFxM0x0bHo0Uk5oZW9OVzB3UlJ0d2tvRFdPRnJ1WmFHWEI0SFg5SUlzUDVIOXNocTh3S196Nm1TMFh2RQ",
@@ -799,45 +793,15 @@
   "CBMilwFBVV95cUxQRkU3bWltcTZvOERRdl9ndmFuTEVTbm1Zd0JMeHNULUxydUVQYm5CMGx1X0I4ZlRjT0FnZkxxZndlN0Vtc0wxZjlUQzZ5bjdibm9zNWUwbWpfM0lxNmpZNXpweW9SRDhxUXU4Q3JuWnVpVmZab1BUY3BxbVJwNWx1QnZXWE83dDljTnVXNlVobmE2M0lrVFUw",
   "https://www.washingtonexaminer.com/?p=4694352",
   "CBMipAFBVV95cUxONWoxSm1UNnk2MVVYY0YtM0FBamczZko1djdoZDBZdEtobFJWTC1EME1EemxLbUI3WVhwQTFDM3BFZGFEYXVWY2tHamUzcm1WZ0hUcVlsR1NwbEs3VDNqVUhYY3Q5emhmOHQ5ODIwUWE3Nm1mWEpHaWVTUE1XWGlKLVBZYzdENzlHcU9JdmZwTHFxTHlsRnpXdG9QMno1bzdEd09FUQ",
-  "CBMioAFBVV95cUxNY3V3SGJMR08yYjdLdzdfWk9LSnVpbnFaR0RpZ2tYZ3ptb0JCbWJEb2x4WmJ1T2p3Y0d3Zmtwc1Y2MVFweWNUZTV6Mkdrb3h5ODZTSkhZdkUtb1UzdmxOakFlcTZLS3Nzd29DWUVrc2JoNjVSYUdCcEZwNFdlaXZXcFpTQVhacVQzbXA3cE5uT1U0VHFsY0N5RlBLVVdIQnlK"
+  "CBMioAFBVV95cUxNY3V3SGJMR08yYjdLdzdfWk9LSnVpbnFaR0RpZ2tYZ3ptb0JCbWJEb2x4WmJ1T2p3Y0d3Zmtwc1Y2MVFweWNUZTV6Mkdrb3h5ODZTSkhZdkUtb1UzdmxOakFlcTZLS3Nzd29DWUVrc2JoNjVSYUdCcEZwNFdlaXZXcFpTQVhacVQzbXA3cE5uT1U0VHFsY0N5RlBLVVdIQnlK",
+  "CBMivAFBVV95cUxNSTRSMm1jWXVDYnR1WENzcU5hY2gtRkZfYmRGbERyUWJkN01acW5lU1dyVVFQc2hJRmZXcHdhZnVkeDdCSEprVHhya0V1Y2lSZVdOd29MeVFpVkZPMHVKcm1SR0tDdm53TFZfbks1TDlJYXZCTHEwQVRHSWVqZW9OTDFBMC11QjhMdWJ0cm53X3ZsbDNWTGNRMDZHZktyMEFUUEZWZEVMY1h3UlBBLTFENGxWcWRKMnloaW1KVg",
+  "CBMihAFBVV95cUxObjBpR21iaGVGYXZCUU9ERVlleFFCWFRBYnROc1lpUkRBdDNaaVRnS3Y4YXZBSVFTVWtqVHVRcjZSZWVwYnBIMzE3ZTh1d3lGZkpoSTdIZWtmOUhZYTAwNThmZFVLdVMtTmFYMkpVb3NHLVdjbFZuaGR2QTJ0Vl9UTENfY1E",
+  "CBMijgFBVV95cUxQbTFxYTIyZEp5R2UwM2FLWGpMeUJJdFFMUWdqTV9IMjVZSzgyekF2NURQUWFCaFV3dkUwem1oODR0SmFfRjlUUDNmeFM4R1pETFZlZl9fbC00QzQ2NUdxZVVqMlRBZm1NdmJmRXdpVzE3OHo5VlZJNnFwWGZIM1o5ZDF3Xzg0Z09WVTBGeEJ3",
+  "https://www.npr.org/2026/08/30/nx-s1-5939521/tariff-refunds-canada-trade-war",
+  "CBMiygFBVV95cUxNZkM3UzR0NmxQTTI0ZWlIdE5wc29xVlF4QXJiRUMxcnVUdU1DWUpXUktaZXhSY1ZlLUxVZWpCZ2p6bnBkbG9qd1lfelVVV0lSNXNpVThMQ2dod194VE1talJmbGRzTkFFM1R2QkZxZzhFdnl1cnU2SWdlaVV6LXlXZzlYV21MaHVmMHZPN3dRQV9Pcl83czN2TGMwSFBRd3dqNHdPSE55VXIxcnRidldicXYxY2o1UHVuV1pfV1ROTEMwbnBwM2w0Vlh3",
+  "https://www.theguardian.com/world/2026/aug/30/pacific-islands-forum-meeting-in-turmoil-after-several-leaders-pull-out-of-palau-summit"
  ],
  "posts": [
-  {
-   "fp": "dead five home homicide multiple oregon rural suspected",
-   "title": "Five dead at rural Oregon home in suspected multiple homicide",
-   "source": "Reuters World",
-   "at": "2026-08-24T02:19:16.559232+00:00"
-  },
-  {
-   "fp": "dead deputy fatally grayson illinois massey prison sean shot sonya water",
-   "title": "Sean Grayson, ex-Illinois deputy who fatally shot Sonya Massey over pot of hot water, dead in prison at 32",
-   "source": "New York Post",
-   "at": "2026-08-24T02:19:18.267235+00:00"
-  },
-  {
-   "fp": "attack australian chance grateful life second shark victim",
-   "title": "Australian shark attack victim grateful for 'second chance at life'",
-   "source": "BBC World",
-   "at": "2026-08-24T02:19:19.972321+00:00"
-  },
-  {
-   "fp": "beneath collapses garbage killed least massive pile trapping victims waste",
-   "title": "At least 30 killed after massive waste pile collapses, trapping victims beneath garbage",
-   "source": "New York Post",
-   "at": "2026-08-24T03:27:26.298203+00:00"
-  },
-  {
-   "fp": "ahead caution higher indian iran likely open sanctions shares",
-   "title": "Indian shares likely to open higher; caution ahead of new Iran sanctions",
-   "source": "Reuters World",
-   "at": "2026-08-24T03:54:06.730660+00:00"
-  },
-  {
-   "fp": "27bn aims almost debut market shein stock valuation",
-   "title": "Shein aims for almost $27bn valuation in stock market debut",
-   "source": "BBC World",
-   "at": "2026-08-24T03:54:08.440439+00:00"
-  },
   {
    "fp": "edges gains higher nikkei street tracking wall",
    "title": "Nikkei Edges 0.3% Higher, Tracking Wall Street\u2019s Gains",
@@ -3201,15 +3165,45 @@
    "title": "Pastor killed by falling sign at Christian festival identified",
    "source": "Telegraph",
    "at": "2026-08-30T11:00:26.334526+00:00"
+  },
+  {
+   "fp": "amsterdam calls complete dutch fifa global overhaul proposes summit",
+   "title": "Dutch FA calls for complete FIFA overhaul, proposes global summit in Amsterdam",
+   "source": "Reuters",
+   "at": "2026-08-30T11:21:44.678783+00:00"
+  },
+  {
+   "fp": "opinion stakes tariff texas trump",
+   "title": "Opinion | Trump\u2019s Texas Tariff Stakes",
+   "source": "WSJ",
+   "at": "2026-08-30T11:21:46.381733+00:00"
+  },
+  {
+   "fp": "concerts discovers inner nixon opinion rock trump",
+   "title": "Opinion | Trump Discovers His Inner Nixon on Rock Concerts",
+   "source": "WSJ",
+   "at": "2026-08-30T11:21:48.377882+00:00"
+  },
+  {
+   "fp": "book comic store storm swept tariff",
+   "title": "How a comic book store got swept into the tariff storm",
+   "source": "NPR News",
+   "at": "2026-08-30T11:21:50.273223+00:00"
+  },
+  {
+   "fp": "businesses costs living local malaysia measures support tackle unveils",
+   "title": "Malaysia PM unveils measures to tackle living costs, support local businesses",
+   "source": "Reuters",
+   "at": "2026-08-30T11:21:52.102114+00:00"
+  },
+  {
+   "fp": "forum islands leaders meeting pacific palau pull several summit turmoil",
+   "title": "Pacific Islands Forum meeting in turmoil after several leaders pull out of Palau summit",
+   "source": "Guardian World",
+   "at": "2026-08-30T11:21:53.908839+00:00"
   }
  ],
  "titles": [
-  "dead five home homicide multiple oregon rural suspected",
-  "dead deputy fatally grayson illinois massey prison sean shot sonya water",
-  "attack australian chance grateful life second shark victim",
-  "beneath collapses garbage killed least massive pile trapping victims waste",
-  "ahead caution higher indian iran likely open sanctions shares",
-  "27bn aims almost debut market shein stock valuation",
   "edges gains higher nikkei street tracking wall",
   "animals bodies dead discovered found homicide multiple oregon property quintuple rural slaughtered suspect",
   "breaking english finds food healthy report rules schools secondary",
@@ -3603,6 +3597,12 @@
   "dead rave shooting switzerland wounded",
   "australia broken chants here kill moment ribs trump",
   "death kyiv region rises strike toll zelenskiy",
-  "christian falling festival identified killed pastor sign"
+  "christian falling festival identified killed pastor sign",
+  "amsterdam calls complete dutch fifa global overhaul proposes summit",
+  "opinion stakes tariff texas trump",
+  "concerts discovers inner nixon opinion rock trump",
+  "book comic store storm swept tariff",
+  "businesses costs living local malaysia measures support tackle unveils",
+  "forum islands leaders meeting pacific palau pull several summit turmoil"
  ]
 }
