@@ -1,14 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40409397",
-  "https://www.washingtonexaminer.com/?p=4693453",
-  "https://nypost.com/?post_type=article&p=40410897",
-  "https://thehill.com/?p=6039351",
-  "https://nypost.com/?post_type=article&p=40409330",
-  "https://nypost.com/?post_type=article&p=40414124",
-  "CBMingFBVV95cUxOOUg2UXlJMzl5dDYzXzhFSUN1SU9Hc1NfRmxTVjlGUHY2VE5qc2YwSGZsM0RYcHEzNU43bXBjSHZqWWZ2QngxSjdzNXR1V3dzOFlCazU5aXdZT0s0N1BQWko0alRaYWF1RWV5WUh0ZXFndHB3V2x3V05oQmd2OE9Ea0ZiREUxQzA2ZlFxSUV2aDJYMktwMGtFaDdPM29qQQ",
-  "https://www.foxnews.com/world/5-americans-killed-helicopter-crash-kenya-including-telemundo-executive",
-  "CBMiuAFBVV95cUxOQ1Zxdm1rckV4MGpjNEsycF9zT0lrcDR1OUtSMmttLUJ0WHNwaTFsMVQyRkVaaDRHMnZjNkhvVEY5RVE0XzhZTmhjRXBGd256UVZ5TTR3S2ZNaS1nWDVwVnFsUTc4eFVYTVdIUS1jZXVMckpnQXV6QXNPVTRGYmNsbXpPbTl3b0Jhc1ZtT1pkVXpac19TUWpXR1dXeVR6SGhoa2xkMkFpa0hLV2RBSmZZeFFxYnB1cTJI",
   "https://nypost.com/?post_type=article&p=40415012",
   "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
   "https://nypost.com/?post_type=article&p=40413479",
@@ -799,63 +790,18 @@
   "CBMingFBVV95cUxPSTVDSXBqWmc5cHhaV1VlM0NuSmdWbTR3SEtLXzZEUDY1VGJLcU5FdGJqVWlMQjFNTXBYX0lTcVI3N1ctLVVkVlJBWC1heVBhQm1hcUlJdTYydnJRY2l2cllnLWFBUmxoc0hNQVNVQVlqanRabld1Y05XVmpzMG9EWFpxY0VVY0MzUS1aVFNLVS02MDBfbGpESmNZOWp6Zw",
   "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
   "https://nypost.com/?post_type=article&p=40576601",
-  "CBMixgFBVV95cUxPQmlHWk9QRDdSRVVZVVR4UXdFaWthWkswNE5pVnRzZ3RzYW56TDBiSkRwM19UTF92YURMOVlZSDBpV1BLSzZfV3NoNFhnSUZjVVlQWms2SHQ2d0RheE9yR3VmQUl6U241ZEdzSldTZlNRelUtdXJaeGdLTW9YRUpoaXdQZG9VR2ZOcDNveVRFekxWMFpWZTZ4b0JpSFE4LWhXNms3UTNTX1VhdEYzTmlMa1lnWFBDZVVCT1BsNTQtQm13Z0ZxWlE"
+  "CBMixgFBVV95cUxPQmlHWk9QRDdSRVVZVVR4UXdFaWthWkswNE5pVnRzZ3RzYW56TDBiSkRwM19UTF92YURMOVlZSDBpV1BLSzZfV3NoNFhnSUZjVVlQWms2SHQ2d0RheE9yR3VmQUl6U241ZEdzSldTZlNRelUtdXJaeGdLTW9YRUpoaXdQZG9VR2ZOcDNveVRFekxWMFpWZTZ4b0JpSFE4LWhXNms3UTNTX1VhdEYzTmlMa1lnWFBDZVVCT1BsNTQtQm13Z0ZxWlE",
+  "CBMixAFBVV95cUxNdTBYQkFmZmRqbzlRSTg4V2ZjLUo4ZHFKN0JQYWpHUTVmeFJQUnYtY05OZEdWNEtESi04Mk0tQVA1UWdjNDJmSFA3T1ZVTnBpRFV0WmRmTG9jLVdUeDAyZHNmY1VZNzhLUGZNb1VHc2VqM3B0WWpKaXZGRzFQUWFqazlLcG9ZeUhSaEVfdjRCNTNneTR5eTBjTWc1Ml9lZ0xtNy1SeVMzeThuaDZxVVZHblE1QVRUZFlhVkNzNGV6Z0Z5NWxR",
+  "CBMipwFBVV95cUxNVExIWW1kRXlDMzJSRlNJRE1Id0pSTmJUUUxzc09oUmlxQVdhb3hHbWRZcTdkRFJPOFlCS1daejVwai1mWVBmTHRuMTlEU0tZTGp2UlRKWDFmTGYwYVNsTUZBMmxIdlEyQ2ZCcnJDSVBiMzBqLUo5bmt5MGhYeTFvd3pCSXNfdHhmUWVnaHRpZ3FLbGpZb3ZyUklmVVZkNXRxYWxPNlE1aw",
+  "CBMitwFBVV95cUxNS2VpLUNnZjlTT2VucDZLNWdOLXJ6WHVheVdDMGNGQVg5clBoTUgwZVdydW5nekszTFMzemt2WTdkN2R5T280ZmNrSjJ2YzctaUpFUzVuSEJ1Um8wdUdCVUViMVpBZ0MxZEZIN21Ub1NqdERYTm5vUF9iT01xMmI3dGNGdHFrSE9NWU5GdDVZN01HaU9yNC1uZUZOYmVJM3JWQXg1czkwaU56Vjh6a3ZtNVFNX1Y0R1U",
+  "https://www.bbc.co.uk/news/articles/c9qr750je1go#0",
+  "CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw",
+  "CBMilwFBVV95cUxQRkU3bWltcTZvOERRdl9ndmFuTEVTbm1Zd0JMeHNULUxydUVQYm5CMGx1X0I4ZlRjT0FnZkxxZndlN0Vtc0wxZjlUQzZ5bjdibm9zNWUwbWpfM0lxNmpZNXpweW9SRDhxUXU4Q3JuWnVpVmZab1BUY3BxbVJwNWx1QnZXWE83dDljTnVXNlVobmE2M0lrVFUw",
+  "https://www.washingtonexaminer.com/?p=4694352",
+  "CBMipAFBVV95cUxONWoxSm1UNnk2MVVYY0YtM0FBamczZko1djdoZDBZdEtobFJWTC1EME1EemxLbUI3WVhwQTFDM3BFZGFEYXVWY2tHamUzcm1WZ0hUcVlsR1NwbEs3VDNqVUhYY3Q5emhmOHQ5ODIwUWE3Nm1mWEpHaWVTUE1XWGlKLVBZYzdENzlHcU9JdmZwTHFxTHlsRnpXdG9QMno1bzdEd09FUQ",
+  "CBMioAFBVV95cUxNY3V3SGJMR08yYjdLdzdfWk9LSnVpbnFaR0RpZ2tYZ3ptb0JCbWJEb2x4WmJ1T2p3Y0d3Zmtwc1Y2MVFweWNUZTV6Mkdrb3h5ODZTSkhZdkUtb1UzdmxOakFlcTZLS3Nzd29DWUVrc2JoNjVSYUdCcEZwNFdlaXZXcFpTQVhacVQzbXA3cE5uT1U0VHFsY0N5RlBLVVdIQnlK"
  ],
  "posts": [
-  {
-   "fp": "capital government guinea kills landslide mound waste",
-   "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-   "source": "Guardian World",
-   "at": "2026-08-23T22:40:50.646444+00:00"
-  },
-  {
-   "fp": "attack governor kharkiv kills near russian three ukraine",
-   "title": "Russian attack kills three near Ukraine's Kharkiv, governor says",
-   "source": "Reuters",
-   "at": "2026-08-23T23:13:37.547777+00:00"
-  },
-  {
-   "fp": "atlanta beltline killed near person popular stabbing trail walking",
-   "title": "Person killed in stabbing in Atlanta near popular Beltline walking trail",
-   "source": "Washington Examiner",
-   "at": "2026-08-23T23:37:39.440029+00:00"
-  },
-  {
-   "fp": "attack burns children drone kills krasnodar logistics russia",
-   "title": "Drone attack kills two children, burns logistics hub in Russia's Krasnodar",
-   "source": "Reuters",
-   "at": "2026-08-24T00:52:26.273182+00:00"
-  },
-  {
-   "fp": "amendment attack disgraceful nick shirley stop",
-   "title": "\u2018Stop Nick Shirley Act\u2019 is a disgraceful attack on the First Amendment",
-   "source": "New York Post",
-   "at": "2026-08-24T00:52:28.052919+00:00"
-  },
-  {
-   "fp": "counting going keep nvidia party street wall",
-   "title": "Wall Street Is Counting on Nvidia to Keep the AI Party Going",
-   "source": "WSJ",
-   "at": "2026-08-24T01:15:24.338109+00:00"
-  },
-  {
-   "fp": "asia flat iran news nvidia results sanctions shares",
-   "title": "Shares flat in Asia before Iran sanctions news, Nvidia results",
-   "source": "Reuters World",
-   "at": "2026-08-24T01:15:26.068170+00:00"
-  },
-  {
-   "fp": "adjustments falls iran position possible potential sanctions",
-   "title": "Oil Falls on Possible Position Adjustments Before Potential U.S. Sanctions on Iran",
-   "source": "WSJ",
-   "at": "2026-08-24T01:15:27.771146+00:00"
-  },
-  {
-   "fp": "ahead announcement falls iran sanctions",
-   "title": "Oil falls ahead of US announcement on new Iran sanctions",
-   "source": "Reuters",
-   "at": "2026-08-24T01:15:29.484601+00:00"
-  },
   {
    "fp": "dead five home homicide multiple oregon rural suspected",
    "title": "Five dead at rural Oregon home in suspected multiple homicide",
@@ -3201,18 +3147,63 @@
    "title": "SpaceX and Rivals Dodge Traffic as Satellites, Debris Crowd Low-Earth Orbit",
    "source": "WSJ",
    "at": "2026-08-30T03:55:58.882663+00:00"
+  },
+  {
+   "fp": "gaza including israeli kills medics people strike year",
+   "title": "Israeli strike kills two people including a 3-year-old boy, Gaza medics say",
+   "source": "Reuters World",
+   "at": "2026-08-30T11:00:12.139695+00:00"
+  },
+  {
+   "fp": "injured killed manhunt rave several shooting swiss underway woman",
+   "title": "Manhunt underway after woman killed, several injured at Swiss rave shooting",
+   "source": "Reuters",
+   "at": "2026-08-30T11:00:13.865002+00:00"
+  },
+  {
+   "fp": "collapse crushed economy forest gold market south timber until",
+   "title": "Timber Was Gold in the South\u2014Until a Market Collapse Crushed the Forest Economy",
+   "source": "WSJ",
+   "at": "2026-08-30T11:00:15.666398+00:00"
+  },
+  {
+   "fp": "five injures kills manhunt rave shooting swiss woman",
+   "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+   "source": "BBC World",
+   "at": "2026-08-30T11:00:17.432225+00:00"
+  },
+  {
+   "fp": "breaking live news russia ukraine updates",
+   "title": "Russia-Ukraine | Breaking News & Live Updates",
+   "source": "AP",
+   "at": "2026-08-30T11:00:19.160173+00:00"
+  },
+  {
+   "fp": "dead rave shooting switzerland wounded",
+   "title": "1 dead and 5 wounded in a shooting at a rave in Switzerland",
+   "source": "AP",
+   "at": "2026-08-30T11:00:20.888142+00:00"
+  },
+  {
+   "fp": "australia broken chants here kill moment ribs trump",
+   "title": "From \u2018kill her\u2019 chants to broken ribs: Australia\u2019s Trump moment is here",
+   "source": "Washington Examiner",
+   "at": "2026-08-30T11:00:22.760406+00:00"
+  },
+  {
+   "fp": "death kyiv region rises strike toll zelenskiy",
+   "title": "Kyiv region strike death toll rises to 38, Zelenskiy says",
+   "source": "Reuters World",
+   "at": "2026-08-30T11:00:24.525153+00:00"
+  },
+  {
+   "fp": "christian falling festival identified killed pastor sign",
+   "title": "Pastor killed by falling sign at Christian festival identified",
+   "source": "Telegraph",
+   "at": "2026-08-30T11:00:26.334526+00:00"
   }
  ],
  "titles": [
-  "capital government guinea kills landslide mound waste",
-  "attack governor kharkiv kills near russian three ukraine",
-  "atlanta beltline killed near person popular stabbing trail walking",
-  "attack burns children drone kills krasnodar logistics russia",
-  "amendment attack disgraceful nick shirley stop",
-  "counting going keep nvidia party street wall",
-  "asia flat iran news nvidia results sanctions shares",
-  "adjustments falls iran position possible potential sanctions",
-  "ahead announcement falls iran sanctions",
   "dead five home homicide multiple oregon rural suspected",
   "dead deputy fatally grayson illinois massey prison sean shot sonya water",
   "attack australian chance grateful life second shark victim",
@@ -3603,6 +3594,15 @@
   "carolina chief dead injured officer park police second shooting south",
   "california doubles evacuations fire forcing overnight region size",
   "collapsing college dies field football opener player season",
-  "crowd debris dodge earth orbit rivals satellites spacex traffic"
+  "crowd debris dodge earth orbit rivals satellites spacex traffic",
+  "gaza including israeli kills medics people strike year",
+  "injured killed manhunt rave several shooting swiss underway woman",
+  "collapse crushed economy forest gold market south timber until",
+  "five injures kills manhunt rave shooting swiss woman",
+  "breaking live news russia ukraine updates",
+  "dead rave shooting switzerland wounded",
+  "australia broken chants here kill moment ribs trump",
+  "death kyiv region rises strike toll zelenskiy",
+  "christian falling festival identified killed pastor sign"
  ]
 }
