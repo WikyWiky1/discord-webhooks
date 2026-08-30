@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiqwFBVV95cUxNQUpEbUkyemhaZUh3OGhseHNXWHRGSzJKcmNwMlMwOXZpRTF6UEtrT3NGSkROZjN1QlEwMUtSNUNnUDNWcUVPLVVGZE4tVzVMaFVvMzJSZUl0a2JQMUhPMlJlQm1mRldCYko5Zzk2MjAwVmx5MlJ6S0V5NEV1WHpxbmJJMzJTMU8tYkxxUGl5ZHN2YVBEelZlUkl6cllUNExhRnhDN3E4V0RjZ3M",
-  "CBMinwFBVV95cUxPTXllVUxNMHZXYzZJT3QtalVQaWZ0OFJnSHdxNEhTYTB4MjRONDdxUnJZd2M4YXd3ZDRVdHRGaWRXLTZVb0JNV0ZBclJGX1V6cGgxUGpWbXNmZlROYzhXYXV1QVN1VHlwODc0MmFreHA4c01oWkF2MWpuVGlHUktybEFtYkpxS1NSamhNR04yMElTaDBjeWlEOGRwYjkySmM",
   "https://www.theguardian.com/world/2026/aug/20/indonesia-earthquake-flores-miracle-rescue-elderly-woman-found-alive-in-rubble",
   "https://nypost.com/?post_type=article&p=40422776",
   "https://nypost.com/?post_type=article&p=40422654",
@@ -799,21 +797,11 @@
   "CBMipwFBVV95cUxObXZkNUhuVmd1NFhwYXByM0hKSVNJcE52WUJrYXNZMkRQMjA4WElMZHZCcFJKN09COWdlSS1wRWlka0prdklCRF9hYVEyaWw4N0Z2UzR1TlA0SjA0TXdMZVNvWVFyaExoM3dxbW1VOXpBQWdUTF81N3UzRWpELU5SYlB6cjVnY2FXa09ONk1hWWZHOExZRFVaeGJpV1NSUW1mV2haSEZ1MA",
   "CBMimgFBVV95cUxOSi00WEMwa2RfWDZxYlVvYmxmdnpNTkZXeHBkaVMwME5lTGJlcDBNc2VjTkI4MU5LbnB3TXdEeER6VGFBaWs3c3VkemZheFJUNENjUGMtblVINm9GTkRWS0ZqUFBzaFB6X3MzMjFVRXlDazRsdEQtRXA5bHo0eHlycWNzcGxzZmpsX09PWVpFOXdqM3F1MUhLbUlR",
   "https://www.theguardian.com/world/2026/aug/30/headteacher-saves-children-flash-flood-nepal",
-  "https://www.bbc.co.uk/news/articles/c5ymvdm5520o#2"
+  "https://www.bbc.co.uk/news/articles/c5ymvdm5520o#2",
+  "https://www.washingtonexaminer.com/?p=4705606",
+  "https://thehill.com/?p=6059759"
  ],
  "posts": [
-  {
-   "fp": "european independence invasion join kyiv leaders pushes russian ukraine zelenskyy",
-   "title": "European leaders join Zelenskyy in Kyiv for Ukraine\u2019s Independence Day as Russian invasion pushes on",
-   "source": "AP",
-   "at": "2026-08-24T10:20:06.548538+00:00"
-  },
-  {
-   "fp": "back expected measles outbreak record school season worsen",
-   "title": "Back-to-school season expected to worsen record measles outbreak",
-   "source": "The Hill",
-   "at": "2026-08-24T10:57:39.569902+00:00"
-  },
   {
    "fp": "forward hamas here israel killed only path solution state",
    "title": "Hamas killed the two-state solution. Here\u2019s the only path forward for Israel",
@@ -3201,11 +3189,21 @@
    "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
    "source": "BBC World",
    "at": "2026-08-30T18:39:14.278852+00:00"
+  },
+  {
+   "fp": "canada country escalates leaders trade trump worst",
+   "title": "Trump says Canada\u2019s leaders \u2018worst\u2019 of any country as trade war escalates",
+   "source": "Washington Examiner",
+   "at": "2026-08-30T20:38:33.483054+00:00"
+  },
+  {
+   "fp": "defense democrat needs senate ukraine",
+   "title": "Senate Democrat says Ukraine needs \u2018more air defense'",
+   "source": "The Hill",
+   "at": "2026-08-30T20:38:35.403824+00:00"
   }
  ],
  "titles": [
-  "european independence invasion join kyiv leaders pushes russian ukraine zelenskyy",
-  "back expected measles outbreak record school season worsen",
   "forward hamas here israel killed only path solution state",
   "brain does much really",
   "across crash dies killed race star world year",
@@ -3603,6 +3601,8 @@
   "attack finalising germany leipzig merz response suspected",
   "attack attend brutal funeral gang haiti hundreds killed victims",
   "children deadly flash flood headteacher nepal saves",
-  "children evacuated floods head minutes nepal school teacher"
+  "children evacuated floods head minutes nepal school teacher",
+  "canada country escalates leaders trade trump worst",
+  "defense democrat needs senate ukraine"
  ]
 }
