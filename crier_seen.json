@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4692298",
   "https://nypost.com/?post_type=article&p=40425365",
   "CBMiYkFVX3lxTE04WGE1VXhSWVBIMGVoaFJfVUFCUzVVZzVET3dTNEtFS3NYZVpJM1o1LWtrTTIwZlFOWF9vTzZRSlZ4QmZZakRZcmZsTHcwWUxRS1NEZWVLX29iOF9rRjBGMjJn",
   "CBMiuwFBVV95cUxOaFMzREFDaGl0SVIzV3hWRUNtMVFValB0cExwSWJNeVYtZjFvazRUYmsyWlpEQlFnR2pMWk4zR01lWXBYc01LOWRVNGhMRXYxTVlDRHFFQ2ZNeWRNZWNocUFFY1pMODFscnk3am9KRWxEdWt0Wld3U0NjeDMxVzRMSEtiQjlPTy1vNzRnV3FkcW1MSXU4SmNhRzQ4WXROMzBZVWNFTUo0dUduUDBwY3RvUW9IWUlNdWh4aFlF",
@@ -799,15 +798,10 @@
   "CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc",
   "https://nypost.com/?post_type=article&p=40590683",
   "CBMipAFBVV95cUxQZHlfUnNyWnBidlNkcHIybjVORWhCLS03dE81OXk4M19saU5hUnlIRVdTWHZIWmxCTlJLNmpLXy1Bb0xaUmRsV1JHRmRIR0lVUVBNTWNmZ0VDX05oSDNVeVZWMjJYWEx6WVctbGs2SUhPdVMtNGxOdk56LW9JeW40WEtfRl9ZWkR0aG1yYTc3V1l6Z1VadVU3QkctOFljbmNuVlBFNA",
-  "https://thehill.com/?p=6060538"
+  "https://thehill.com/?p=6060538",
+  "https://www.bbc.co.uk/news/articles/ce87e55vgpjo#0"
  ],
  "posts": [
-  {
-   "fp": "aerial firefighting haze indonesia intensifies malaysia spreads wildfire",
-   "title": "Indonesia intensifies aerial firefighting as wildfire haze spreads to Malaysia",
-   "source": "AP",
-   "at": "2026-08-24T17:24:27.241321+00:00"
-  },
   {
    "fp": "attack every lost mother remembers second shark",
    "title": "Mother who lost arm in shark attack says she remembers every second",
@@ -3201,10 +3195,15 @@
    "title": "Live updates: Trump says US 'will respond' to Iran strike in Jordan; House returns with shutdown bill on tap",
    "source": "The Hill",
    "at": "2026-08-31T17:05:31.345708+00:00"
+  },
+  {
+   "fp": "forward giant launches leap nasa powerful space telescope",
+   "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+   "source": "BBC Science",
+   "at": "2026-08-31T17:57:31.668701+00:00"
   }
  ],
  "titles": [
-  "aerial firefighting haze indonesia intensifies malaysia spreads wildfire",
   "attack every lost mother remembers second shark",
   "canada carney collapse demands leader opposition parliament reconvene talks trade",
   "convictions joyriders killed officers prior",
@@ -3603,6 +3602,7 @@
   "canyon flash flood grand killed least missing others people possible storms where",
   "canyon dead flash floods grand haunting hiker missing photo vanished",
   "breaking deadlock deal elect kosovo parties president strike",
-  "bill house iran jordan live respond returns shutdown strike trump updates"
+  "bill house iran jordan live respond returns shutdown strike trump updates",
+  "forward giant launches leap nasa powerful space telescope"
  ]
 }
