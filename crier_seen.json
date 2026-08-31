@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40425365",
-  "CBMiYkFVX3lxTE04WGE1VXhSWVBIMGVoaFJfVUFCUzVVZzVET3dTNEtFS3NYZVpJM1o1LWtrTTIwZlFOWF9vTzZRSlZ4QmZZakRZcmZsTHcwWUxRS1NEZWVLX29iOF9rRjBGMjJn",
-  "CBMiuwFBVV95cUxOaFMzREFDaGl0SVIzV3hWRUNtMVFValB0cExwSWJNeVYtZjFvazRUYmsyWlpEQlFnR2pMWk4zR01lWXBYc01LOWRVNGhMRXYxTVlDRHFFQ2ZNeWRNZWNocUFFY1pMODFscnk3am9KRWxEdWt0Wld3U0NjeDMxVzRMSEtiQjlPTy1vNzRnV3FkcW1MSXU4SmNhRzQ4WXROMzBZVWNFTUo0dUduUDBwY3RvUW9IWUlNdWh4aFlF",
-  "https://nypost.com/?post_type=article&p=40412962",
-  "CBMiqAFBVV95cUxOdEoyTlBhdlZxOEhhZFREWWpnNDdtV0RDODN4eFFTcmV5T1RfenE3eFRHYzd0VUlrclYwN0w3YUJnWGRzSWZITEx5a2xvQkdVYmVzcHJsSGxBV2JCN2pIOVlhb19pSXVJTWVHVVRFSnVmTXlZWkMwSUFhMWRQeDAzVXY1WUVoWDliVGhJNE9vN3dJV2FyZTZqYmJZc1h3TFE5WDItZFprR1Y",
-  "CBMikgFBVV95cUxPSllpc2U5ZHVHa3JMXzBxakdoT3RUb3dieEpWWnNVdHhvdWZxbEh3eTAwRVpIUWpvQktKYnk3anpIM0I5LTZSMkpMTnEwa2pXa3BZcWRFRzBDTXdyZnEzSG9sc0lFeGotSVdRRGRSS25wTFp0WTd6em5lV2JqQU5ZU19oZDlKczd6emttN245dUNwZw",
   "https://thehill.com/?p=6040081",
   "https://www.bbc.co.uk/news/articles/c3r055g23qdo#1",
   "https://nypost.com/?post_type=article&p=40425540",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=40590683",
   "CBMipAFBVV95cUxQZHlfUnNyWnBidlNkcHIybjVORWhCLS03dE81OXk4M19saU5hUnlIRVdTWHZIWmxCTlJLNmpLXy1Bb0xaUmRsV1JHRmRIR0lVUVBNTWNmZ0VDX05oSDNVeVZWMjJYWEx6WVctbGs2SUhPdVMtNGxOdk56LW9JeW40WEtfRl9ZWkR0aG1yYTc3V1l6Z1VadVU3QkctOFljbmNuVlBFNA",
   "https://thehill.com/?p=6060538",
-  "https://www.bbc.co.uk/news/articles/ce87e55vgpjo#0"
+  "https://www.bbc.co.uk/news/articles/ce87e55vgpjo#0",
+  "CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS",
+  "https://thehill.com/?p=6061878",
+  "https://www.washingtonexaminer.com/?p=4706692",
+  "https://www.theguardian.com/us-news/live/2026/aug/31/donald-trump-lake-america-ontario-canada-trade-war-tariffs-jd-vance-g20-latest-news-updates",
+  "https://thehill.com/?p=6061661",
+  "https://www.washingtonexaminer.com/?p=4706586"
  ],
  "posts": [
-  {
-   "fp": "attack every lost mother remembers second shark",
-   "title": "Mother who lost arm in shark attack says she remembers every second",
-   "source": "Telegraph",
-   "at": "2026-08-24T18:01:26.947377+00:00"
-  },
-  {
-   "fp": "canada carney collapse demands leader opposition parliament reconvene talks trade",
-   "title": "Canada's opposition leader demands Carney reconvene parliament after US trade talks collapse",
-   "source": "The Hill",
-   "at": "2026-08-24T18:01:28.883594+00:00"
-  },
-  {
-   "fp": "convictions joyriders killed officers prior",
-   "title": "Joyriders who killed two officers had 37 prior convictions",
-   "source": "Telegraph",
-   "at": "2026-08-24T18:01:30.617763+00:00"
-  },
-  {
-   "fp": "anti candidate conservative maga oklahoma primary sets tariff",
-   "title": "Oklahoma primary sets MAGA candidate against anti-tariff conservative",
-   "source": "Washington Examiner",
-   "at": "2026-08-24T18:39:08.755764+00:00"
-  },
-  {
-   "fp": "kiss ontario premier tariff threat trump",
-   "title": "Ontario premier says Trump can \u2018kiss my a**\u2019 over tariff threat",
-   "source": "Washington Examiner",
-   "at": "2026-08-24T18:39:10.449778+00:00"
-  },
-  {
-   "fp": "bought disclosure elon financial june musk shares shows spacex trump",
-   "title": "Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows",
-   "source": "Reuters",
-   "at": "2026-08-24T18:39:12.135540+00:00"
-  },
   {
    "fp": "canada collins defends maine rally skips trade vance visit",
    "title": "Vance defends Canada trade war in visit to Maine; Collins skips rally",
@@ -3201,15 +3165,45 @@
    "title": "'A giant leap forward': Nasa launches powerful new space telescope",
    "source": "BBC Science",
    "at": "2026-08-31T17:57:31.668701+00:00"
+  },
+  {
+   "fp": "fall hits hormuz iranian prices rise sites stocks strait",
+   "title": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz",
+   "source": "AP",
+   "at": "2026-08-31T20:40:15.068419+00:00"
+  },
+  {
+   "fp": "ballroom construction court divided house proceed rules supreme white",
+   "title": "Divided Supreme Court rules White House ballroom construction may proceed",
+   "source": "The Hill",
+   "at": "2026-08-31T20:40:17.512500+00:00"
+  },
+  {
+   "fp": "election elections gurdon hugo long midterm needs system term tightening",
+   "title": "Election system needs \u2018long-term tightening up,\u2019 but not before midterm elections: Hugo Gurdon",
+   "source": "Washington Examiner",
+   "at": "2026-08-31T20:40:19.315216+00:00"
+  },
+  {
+   "fp": "bill capitol hill hope house lawmakers live pass republicans return spending stopgap",
+   "title": "House lawmakers return to Capitol Hill as Republicans hope to pass stopgap spending bill \u2013 live",
+   "source": "Guardian World",
+   "at": "2026-08-31T20:40:21.256583+00:00"
+  },
+  {
+   "fp": "away bessent canada carney chose deal trade walk",
+   "title": "Bessent on trade war with Canada: Carney \u2018chose to walk away\u2019 from a deal",
+   "source": "The Hill",
+   "at": "2026-08-31T20:40:23.155726+00:00"
+  },
+  {
+   "fp": "branch campaign community hire jewish liaison olive sayed senate",
+   "title": "El Sayed to hire Jewish community liaison as Senate campaign olive branch",
+   "source": "Washington Examiner",
+   "at": "2026-08-31T20:40:24.960191+00:00"
   }
  ],
  "titles": [
-  "attack every lost mother remembers second shark",
-  "canada carney collapse demands leader opposition parliament reconvene talks trade",
-  "convictions joyriders killed officers prior",
-  "anti candidate conservative maga oklahoma primary sets tariff",
-  "kiss ontario premier tariff threat trump",
-  "bought disclosure elon financial june musk shares shows spacex trump",
   "canada collins defends maine rally skips trade vance visit",
   "appeasement bessent iran live longer sanctions saying teases updates works",
   "ahead bonds drifts stocks street swing wall week",
@@ -3603,6 +3597,12 @@
   "canyon dead flash floods grand haunting hiker missing photo vanished",
   "breaking deadlock deal elect kosovo parties president strike",
   "bill house iran jordan live respond returns shutdown strike trump updates",
-  "forward giant launches leap nasa powerful space telescope"
+  "forward giant launches leap nasa powerful space telescope",
+  "fall hits hormuz iranian prices rise sites stocks strait",
+  "ballroom construction court divided house proceed rules supreme white",
+  "election elections gurdon hugo long midterm needs system term tightening",
+  "bill capitol hill hope house lawmakers live pass republicans return spending stopgap",
+  "away bessent canada carney chose deal trade walk",
+  "branch campaign community hire jewish liaison olive sayed senate"
  ]
 }
