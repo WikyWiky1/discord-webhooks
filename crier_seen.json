@@ -1,12 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6040081",
-  "https://www.bbc.co.uk/news/articles/c3r055g23qdo#1",
-  "https://nypost.com/?post_type=article&p=40425540",
-  "https://nypost.com/?post_type=article&p=40425324",
-  "https://www.bbc.co.uk/news/articles/czxel9lz3vqo#1",
-  "https://nypost.com/?post_type=article&p=40426995",
-  "https://nypost.com/?post_type=article&p=40426414",
   "https://nypost.com/?post_type=article&p=40426082",
   "https://thehill.com/?p=6041007/",
   "CBMivwFBVV95cUxPUEc2N3RDdWF5QWNNS0JidUxLTTBIQ1VmR2RDd0czR2k5QjlhSk9MYmFiRGljbDFPRmZ1QTFORllnSkJXVVBKOEtrbGNhSGNIYkNyMFlfb2ppT2ItM0xLeHlWenBNb29kbjdnWC1DMElIMEl4dzNIZ3pHeXJZYjJ2ZF9EOUdiOV80UFBDRDdhX29SOFJmMEs5N1RPTUMwRUdFaE0yeG5TV0R2c1lKNzBaek5UU1NRbEE0bU9sRkRabw",
@@ -799,51 +792,16 @@
   "https://www.washingtonexaminer.com/?p=4706692",
   "https://www.theguardian.com/us-news/live/2026/aug/31/donald-trump-lake-america-ontario-canada-trade-war-tariffs-jd-vance-g20-latest-news-updates",
   "https://thehill.com/?p=6061661",
-  "https://www.washingtonexaminer.com/?p=4706586"
+  "https://www.washingtonexaminer.com/?p=4706586",
+  "CBMitAFBVV95cUxOLVhVSVA4MWhITTVPd2IzNFJOQk45aEQ0ell3SHJ5UXNvTlljY0NqOVE0RHEyREFmMmVEYXgyYWhWRUUzNV9KSWxIaWJ2VmdySm9ucHQtV25EREJ3Z1oyaXQ2YXZDcWRxX29sN0lwcE04d0NfUGNMSkFSTkg4S244dmFUdmlzNzZudW9qTHp4TVBmN1dqNmQzOVZOMFRfNkFTNUtkQkFFSGlFVzNYNGZzWDhzQkc",
+  "CBMijgFBVV95cUxQSWI5VlJLNTBPQ2lmM3RBdHM2amUwSXNqOHhPQ2dWbzRiWDVJZmd2YXpwLUIxT25FVFJHTVlDY3NwOWktRkkxXzhlMWpadmRDajdOSDFtYTFDSHY5M2xQUXg2a25qbDBZdFZMSy14ZG13dVVfZUJfRGlFWlA0UzdPcHp3OU56ajhRZE5wUlNn",
+  "https://nypost.com/?post_type=article&p=40596809",
+  "https://www.washingtonexaminer.com/?p=4706890",
+  "https://www.washingtonexaminer.com/?p=4706887",
+  "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-flash-flood-phantom-ranch",
+  "https://www.foxnews.com/world/new-report-exposes-intact-iranian-bunker-may-hide-regimes-ongoing-nuclear-work"
  ],
  "posts": [
-  {
-   "fp": "canada collins defends maine rally skips trade vance visit",
-   "title": "Vance defends Canada trade war in visit to Maine; Collins skips rally",
-   "source": "The Hill",
-   "at": "2026-08-24T18:39:13.943961+00:00"
-  },
-  {
-   "fp": "appeasement bessent iran live longer sanctions saying teases updates works",
-   "title": "Live updates: Bessent teases new Iran sanctions, saying appeasement no longer works",
-   "source": "The Hill",
-   "at": "2026-08-24T18:39:15.630490+00:00"
-  },
-  {
-   "fp": "ahead bonds drifts stocks street swing wall week",
-   "title": "Wall Street drifts ahead of a big week that could swing stocks and bonds",
-   "source": "AP",
-   "at": "2026-08-24T18:39:17.433774+00:00"
-  },
-  {
-   "fp": "assassinate iran minister netanyahu prime sons tried",
-   "title": "Iran tried to assassinate one of Netanyahu's sons, prime minister says",
-   "source": "Fox News World",
-   "at": "2026-08-24T19:01:07.431604+00:00"
-  },
-  {
-   "fp": "campus carmel diego high lockdown police school secure",
-   "title": "Mt. Carmel High School in lockdown as San Diego police secure campus",
-   "source": "New York Post",
-   "at": "2026-08-24T19:01:09.243729+00:00"
-  },
-  {
-   "fp": "attack capital dead gang haiti hillside leaves near town",
-   "title": "Gang attack on hillside town near Haiti's capital leaves 30 dead",
-   "source": "Reuters",
-   "at": "2026-08-24T19:01:10.964724+00:00"
-  },
-  {
-   "fp": "another arizona arrested dead fianc home injured invasion large leaves still suspect",
-   "title": "Suspect arrested, another still at large after Arizona home invasion leaves one dead and fianc\u00e9e injured",
-   "source": "New York Post",
-   "at": "2026-08-24T19:46:59.109673+00:00"
-  },
   {
    "fp": "iran israel kill netanyahu sons tried",
    "title": "Israel's Netanyahu says Iran tried to kill one of his sons",
@@ -3201,16 +3159,51 @@
    "title": "El Sayed to hire Jewish community liaison as Senate campaign olive branch",
    "source": "Washington Examiner",
    "at": "2026-08-31T20:40:24.960191+00:00"
+  },
+  {
+   "fp": "canyon dead flash flood grand park service",
+   "title": "Two dead in Grand Canyon after flash flood, park service says",
+   "source": "Reuters",
+   "at": "2026-08-31T21:54:44.001607+00:00"
+  },
+  {
+   "fp": "been charged diego livestream mosque murder recorded shooting teen",
+   "title": "DA says a teen who recorded San Diego mosque shooting livestream has been charged with murder",
+   "source": "AP",
+   "at": "2026-08-31T21:54:45.836287+00:00"
+  },
+  {
+   "fp": "baby cops demands donkey georgia heehaw justice kill owner",
+   "title": "Georgia cops kill baby donkey HeeHaw, and his owner demands justice: \u2018He was my son\u2019",
+   "source": "New York Post",
+   "at": "2026-08-31T21:54:47.621437+00:00"
+  },
+  {
+   "fp": "deadly feeding force guard judge national orders shooting suspect",
+   "title": "Judge orders force-feeding for suspect in deadly National Guard shooting",
+   "source": "Washington Examiner",
+   "at": "2026-08-31T21:54:49.482282+00:00"
+  },
+  {
+   "fp": "apology attack hosts members michigan rally sayed synagogue vance",
+   "title": "Vance hosts members from Michigan synagogue attack at rally after el Sayed apology",
+   "source": "Washington Examiner",
+   "at": "2026-08-31T21:54:51.293424+00:00"
+  },
+  {
+   "fp": "boasts canyon deadly fabled flash flood grand history lodge remote",
+   "title": "Remote Grand Canyon lodge hit by deadly flash flood boasts fabled history",
+   "source": "Guardian World",
+   "at": "2026-08-31T21:54:53.033049+00:00"
+  },
+  {
+   "fp": "bunker exposes hide intact iranian nuclear ongoing regime report work",
+   "title": "New report exposes intact Iranian bunker that may hide regime's ongoing nuclear work",
+   "source": "Fox News World",
+   "at": "2026-08-31T21:54:54.840760+00:00"
   }
  ],
  "titles": [
-  "canada collins defends maine rally skips trade vance visit",
-  "appeasement bessent iran live longer sanctions saying teases updates works",
-  "ahead bonds drifts stocks street swing wall week",
-  "assassinate iran minister netanyahu prime sons tried",
-  "campus carmel diego high lockdown police school secure",
-  "attack capital dead gang haiti hillside leaves near town",
-  "another arizona arrested dead fianc home injured invasion large leaves still suspect",
   "iran israel kill netanyahu sons tried",
   "alfalfa food linked officials outbreak poisoning sprouts states",
   "alaska crash kills military near plane radar remote site",
@@ -3603,6 +3596,13 @@
   "election elections gurdon hugo long midterm needs system term tightening",
   "bill capitol hill hope house lawmakers live pass republicans return spending stopgap",
   "away bessent canada carney chose deal trade walk",
-  "branch campaign community hire jewish liaison olive sayed senate"
+  "branch campaign community hire jewish liaison olive sayed senate",
+  "canyon dead flash flood grand park service",
+  "been charged diego livestream mosque murder recorded shooting teen",
+  "baby cops demands donkey georgia heehaw justice kill owner",
+  "deadly feeding force guard judge national orders shooting suspect",
+  "apology attack hosts members michigan rally sayed synagogue vance",
+  "boasts canyon deadly fabled flash flood grand history lodge remote",
+  "bunker exposes hide intact iranian nuclear ongoing regime report work"
  ]
 }
