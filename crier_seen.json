@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40426082",
-  "https://thehill.com/?p=6041007/",
-  "CBMivwFBVV95cUxPUEc2N3RDdWF5QWNNS0JidUxLTTBIQ1VmR2RDd0czR2k5QjlhSk9MYmFiRGljbDFPRmZ1QTFORllnSkJXVVBKOEtrbGNhSGNIYkNyMFlfb2ppT2ItM0xLeHlWenBNb29kbjdnWC1DMElIMEl4dzNIZ3pHeXJZYjJ2ZF9EOUdiOV80UFBDRDdhX29SOFJmMEs5N1RPTUMwRUdFaE0yeG5TV0R2c1lKNzBaek5UU1NRbEE0bU9sRkRabw",
-  "CBMiswFBVV95cUxOMTIxRmdtWmtCUGdWWFRqTGQ2cjRWbkJDLVFOaWQ3SjQ5RjJXWk5lRkdaR2N3R0hqRUZOWGV5cjgzbjM3V3lyZXJPeTNoa08xVjRlMGhMb2RJd1BBNmFhX19RR050OG0tX3VHOV9zMDljS1o3LVpOanZTQmhGbnpPUVA3SURfVHgyUy1YQzlWVWVUNWhaSF94NjdUWmtVTEp5MzNtR1R1LUl3c0g5c185ZDI1NA",
   "https://thehill.com/?p=6041235",
   "https://thehill.com/?p=6040929",
   "CBMiswFBVV95cUxPblZ4TkNlLXdkaVh0UUV2LVlVTkt5QW9KSjFuN1M4Z1k1Ti13SHFxZVdyMXpvV1h2czlUZURJV253eWtRdW0yWkhIVEdIUEE3b1BLTld6T2toUkRSYUx1VjFQb21sMmpvUjBGV3NPSjAyYjlBQjUxTVJqeVFJX25zdkppUHFfTUFjX3pJSG5RWnduT2Y4WlN6RkJfTUdpYjJrSnlTTVRreXhRdlVwU285Y05GMA",
@@ -799,33 +795,13 @@
   "https://www.washingtonexaminer.com/?p=4706890",
   "https://www.washingtonexaminer.com/?p=4706887",
   "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-flash-flood-phantom-ranch",
-  "https://www.foxnews.com/world/new-report-exposes-intact-iranian-bunker-may-hide-regimes-ongoing-nuclear-work"
+  "https://www.foxnews.com/world/new-report-exposes-intact-iranian-bunker-may-hide-regimes-ongoing-nuclear-work",
+  "https://www.washingtonexaminer.com/?p=4707244",
+  "CBMitAFBVV95cUxNSjdMVkl6Zld1cG16aFA3UUtRd2ozVHRERm1Sb1p0WGtVN2xsUEJVbnlaUWt6M2NiWERmaUo1d080c0hWeHFwVGY4UlpZMGJENG91NXJ4bzhMbXNjRVJRQlo1d0ppNlNPcjUtd2F1d2xheXhBaW5OYU43SDdkYk13R0Y0SGNzblZOOTFJcTM2SmJJV3VRbVNyWGZ1bVdzaGJSQ2lBMXZPOWdWb01VNmR1UGYxZGE",
+  "https://thehill.com/?p=6062189",
+  "https://thehill.com/?p=6062022"
  ],
  "posts": [
-  {
-   "fp": "iran israel kill netanyahu sons tried",
-   "title": "Israel's Netanyahu says Iran tried to kill one of his sons",
-   "source": "Reuters",
-   "at": "2026-08-24T19:47:01.267856+00:00"
-  },
-  {
-   "fp": "alfalfa food linked officials outbreak poisoning sprouts states",
-   "title": "Alfalfa sprouts linked to food-poisoning outbreak in 15 states, US officials say",
-   "source": "Guardian World",
-   "at": "2026-08-24T19:47:03.132585+00:00"
-  },
-  {
-   "fp": "alaska crash kills military near plane radar remote site",
-   "title": "Plane Crash Near Remote Military Radar Site in Alaska Kills 8",
-   "source": "WSJ",
-   "at": "2026-08-24T20:21:26.667065+00:00"
-  },
-  {
-   "fp": "attack brother comments community controversial defends drag kamu kirk never star trying",
-   "title": "\u2018Big Brother 28\u2032 star Kamu Kirk defends controversial drag comments: \u2018I was never trying to attack the community\u2019",
-   "source": "New York Post",
-   "at": "2026-08-24T20:21:30.549904+00:00"
-  },
   {
    "fp": "evacuation mass please prompt reno wildfires",
    "title": "\u2018Please get out\u2019: Reno wildfires prompt mass evacuation",
@@ -3201,13 +3177,33 @@
    "title": "New report exposes intact Iranian bunker that may hide regime's ongoing nuclear work",
    "source": "Fox News World",
    "at": "2026-08-31T21:54:54.840760+00:00"
+  },
+  {
+   "fp": "congress demands disaster hollywood incentives pass trump",
+   "title": "Trump demands Congress pass tax incentives to fix Hollywood \u2018disaster\u2019",
+   "source": "Washington Examiner",
+   "at": "2026-09-01T00:24:12.494419+00:00"
+  },
+  {
+   "fp": "closes gains indexes jump lower monthly notch prices street wall",
+   "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
+   "source": "Reuters",
+   "at": "2026-09-01T00:24:14.369471+00:00"
+  },
+  {
+   "fp": "edges michigan poll rogers sayed senate",
+   "title": "El-Sayed edges Rogers in Michigan Senate poll",
+   "source": "The Hill",
+   "at": "2026-09-01T00:24:16.448237+00:00"
+  },
+  {
+   "fp": "canada hole sayed starting trade",
+   "title": "El-Sayed: If you're starting a trade war with Canada, 'you're the a\u2011\u2011hole'",
+   "source": "The Hill",
+   "at": "2026-09-01T00:24:18.251773+00:00"
   }
  ],
  "titles": [
-  "iran israel kill netanyahu sons tried",
-  "alfalfa food linked officials outbreak poisoning sprouts states",
-  "alaska crash kills military near plane radar remote site",
-  "attack brother comments community controversial defends drag kamu kirk never star trying",
   "evacuation mass please prompt reno wildfires",
   "balloons crash joyrider killed masked wrong youths",
   "australia cancellations live morning news overhead plagued repairs sydney trains urgent wires",
@@ -3603,6 +3599,10 @@
   "deadly feeding force guard judge national orders shooting suspect",
   "apology attack hosts members michigan rally sayed synagogue vance",
   "boasts canyon deadly fabled flash flood grand history lodge remote",
-  "bunker exposes hide intact iranian nuclear ongoing regime report work"
+  "bunker exposes hide intact iranian nuclear ongoing regime report work",
+  "congress demands disaster hollywood incentives pass trump",
+  "closes gains indexes jump lower monthly notch prices street wall",
+  "edges michigan poll rogers sayed senate",
+  "canada hole sayed starting trade"
  ]
 }
