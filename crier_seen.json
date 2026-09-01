@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40330057",
-  "https://nypost.com/?post_type=article&p=40443627",
-  "https://www.washingtonexaminer.com/?p=4694245",
-  "https://news.sky.com/story/banned-driver-who-stole-maserati-and-killed-great-grandfather-in-crash-jailed-13575319",
   "CBMi3gFBVV95cUxPVFlxeFAyUWRzRllpVGluQjZlYlUwZjROV2w1TFphQmN4MjFISnNyZTBPaDlzYk15Y25XWUViOG1ZcU0yNHRTa2NydHlVWS1NSnVUTEJ3LTJOX2I2VmpfMDJ3ejhKR2tNV3g2MWR2OEZuVWdQbWIweko4dEc2cVAtUURQUlNad0tJNzdsQjZ0eUVuWEJ1MFdPMEtrWGlhYVZxNmVHemRmQ2xNYXdOTE1fNG91Q0htUUYyRTE1TElhVEpsdWtveXVIcVBQMTJCUnUwdlVWUVA4ZUtwNkVKNnc",
   "https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo#1",
   "https://news.sky.com/story/more-than-2500-dead-in-dr-congo-un-says-as-ebola-spreading-to-area-bigger-than-france-13575338",
@@ -799,33 +795,13 @@
   "https://www.washingtonexaminer.com/?p=4708581",
   "https://thehill.com/?p=6064628",
   "CBMirgFBVV95cUxPdlpGQ3FlMzUyZHVhZ0l3YnllVExLSV9ocF9TTzNVT0JlbEVCZldKX2U5dlZtSjVXSEN1NkMxVThhUjRQbGV2ZGpGb0FoMUtGMVZEemxsVGw0U3I3bFM5WnpCTFdvTTc2cnhsOHhXaHQ5eG54Q1pKMlA5b2xwVDZiZ3ZNQW1XNV9ESlhuZVNja1hPZU5pRDgzY2JDaGtodGtFV2NZMXZuWU5fS2VYZ3c",
-  "https://thehill.com/?p=6041275"
+  "https://thehill.com/?p=6041275",
+  "https://nypost.com/?post_type=article&p=40614732",
+  "https://www.washingtonexaminer.com/?p=4708539",
+  "https://thehill.com/?p=6064658",
+  "https://www.theguardian.com/us-news/2026/sep/01/dan-driscoll-resignation-hegseth"
  ],
  "posts": [
-  {
-   "fp": "evacuations hours mushrooms ordered rural texas wildfire within",
-   "title": "Evacuations ordered in rural Texas as wildfire mushrooms within hours",
-   "source": "AP",
-   "at": "2026-08-25T16:16:31.403643+00:00"
-  },
-  {
-   "fp": "canada demands derailed last lutnick minute reports talks trade",
-   "title": "Lutnick's last-minute demands derailed Canada trade talks: Reports",
-   "source": "The Hill",
-   "at": "2026-08-25T16:16:33.111671+00:00"
-  },
-  {
-   "fp": "adorable arrested cops gunman injured ruthless service shooting street wild",
-   "title": "Ruthless gunman who injured adorable service dog arrested for wild shooting on NYC street: cops",
-   "source": "New York Post",
-   "at": "2026-08-25T16:58:27.447244+00:00"
-  },
-  {
-   "fp": "abdul attack perfect racist response sayed usha vance",
-   "title": "Usha Vance has perfect response to Abdul El-Sayed\u2019s \u2018racist\u2019 attack on her",
-   "source": "New York Post",
-   "at": "2026-08-25T16:58:29.136827+00:00"
-  },
   {
    "fp": "deaths grows measles outbreak pennsylvania reports year",
    "title": "Pennsylvania reports first U.S. measles deaths this year as outbreak grows",
@@ -3201,13 +3177,33 @@
    "title": "Live results: Massachusetts holds House primary contests",
    "source": "The Hill",
    "at": "2026-09-01T23:03:49.311689+00:00"
+  },
+  {
+   "fp": "14th execution florida girl killed monster scheduled slaughtered teen year",
+   "title": "Florida monster who slaughtered teen girl scheduled to be killed \u2014 14th execution this year",
+   "source": "New York Post",
+   "at": "2026-09-01T23:32:10.246221+00:00"
+  },
+  {
+   "fp": "ahead charlie doubt judge killed kirk prosecutors robinson ruling tyler",
+   "title": "Prosecutors say there\u2019s \u2018no doubt\u2019 Tyler Robinson killed Charlie Kirk ahead of judge\u2019s key ruling",
+   "source": "Washington Examiner",
+   "at": "2026-09-01T23:32:12.011255+00:00"
+  },
+  {
+   "fp": "army driscoll hegseth imposes resignation",
+   "title": "Hegseth imposes his will on Army with Driscoll resignation",
+   "source": "The Hill",
+   "at": "2026-09-01T23:32:13.794442+00:00"
+  },
+  {
+   "fp": "army chief clashes democrats hegseth hollowed leadership resigns warn",
+   "title": "Democrats warn of \u2018hollowed out\u2019 leadership after army chief resigns amid clashes with Hegseth",
+   "source": "Guardian World",
+   "at": "2026-09-01T23:32:15.528584+00:00"
   }
  ],
  "titles": [
-  "evacuations hours mushrooms ordered rural texas wildfire within",
-  "canada demands derailed last lutnick minute reports talks trade",
-  "adorable arrested cops gunman injured ruthless service shooting street wild",
-  "abdul attack perfect racist response sayed usha vance",
   "deaths grows measles outbreak pennsylvania reports year",
   "billings blaze call details harrowing horror house killed least montana reveals shooting",
   "also fire home killed montana multiple officials people shooting",
@@ -3603,6 +3599,10 @@
   "bill delayed four funding hemp house passes stopgap weeks",
   "agreement details house unveils venezuela white",
   "bond fall heats iran spike stocks yields",
-  "contests holds house live massachusetts primary results"
+  "contests holds house live massachusetts primary results",
+  "14th execution florida girl killed monster scheduled slaughtered teen year",
+  "ahead charlie doubt judge killed kirk prosecutors robinson ruling tyler",
+  "army driscoll hegseth imposes resignation",
+  "army chief clashes democrats hegseth hollowed leadership resigns warn"
  ]
 }
