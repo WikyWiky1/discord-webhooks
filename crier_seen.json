@@ -1,19 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/20/california-special-election-results-eric-swalwell",
-  "https://www.washingtonexaminer.com/?p=4695482",
-  "https://thehill.com/?p=6042554",
-  "CBMipwFBVV95cUxOcV90dGRFNXlmUWhKTk1uZExFRzhzNGF5VGNqcXJkcXFNNS1BUFlxeEhsbk02X1hYcVZnSUNDbjVSblNpTVpZaWZmbUV2Q3NXLWY0TXJNUDVRa0xYTmRwY0MwZlJHdVVhWUhOM0JYbUxoQVBhcnRlbjhveHFnd1R5S0U2ZEx2dGFWQWF4S3JReHFsckJPcmdmMkxCV21aeUJkTWFBLXJjQQ",
-  "CBMiiAFBVV95cUxOUTBXOUxEdGNvYndTMlBGZHRFQk1wNU8tZk5DV29LdHNJMVlEcU5LcHNxTHJKTlMzWFJNZ0ZWelJ2Vl9GaXl4cklaVDcwd2dld2YyeDRicXVxQWhIcWpSTEY4emRvc3JEd3FrUmRnUU80UFdLdDNRN0IxYW5wVkV5NDBlc0VNanFV",
-  "CBMilAFBVV95cUxQTVp3TkxRTlg1ZnZiYzUxM0hZWDZYM056SlNRdDVjYl9fcHB5ZkdhNHVjcXVacWRyOVdxbFBGR2xvYXAtcHg5ZFQyUER5LWNhT2xWUjhucFc4R3FYZ3Z2YlZLMUUwTG5GczVWS05xY0Z1dzdzMk1RUmt6VWFzMHZqSnBILUlqVXROOWUzUUFtMEdmdm5h",
-  "CBMiowFBVV95cUxQQ01ZN3RnaUdmMXE3MjhPUTJuN1VaNVdBVkFZLU1wYm9nSlJQYW9LcXc3LXNSUUZKUHA2cGl1MjBac0l5ZEVoSEpXQjFGRmxrTjQ4blZUck1XbTFYSl94WUh6M1AtSHRPak42OTZ4VkpIR2VBTkRyTG10bTBCb0pONnNKYmUzckxFc0J1UGZ6dUpVV2p5cGpBZ0x1Q01oRXFsQ1pR",
-  "https://nypost.com/?post_type=article&p=40440087",
-  "https://nypost.com/?post_type=article&p=40440494",
-  "https://www.washingtonexaminer.com/?p=4695608",
-  "https://thehill.com/?p=6042780",
-  "https://www.bbc.co.uk/news/articles/cgq5x9l7054o#1",
-  "CBMiugFBVV95cUxNc01tajd2ZGpXcDUtdzc1TDNMN2J6TzdRUUU3eUh3MHhMbkpnNHFNdk9acHUxNVVVblRJOXh2S2o0Umw1U2VsVXYzTmNfMTI3UFo0YnlRM2hfVFdPMWhIR25tZ3k2a3l1S21CanFoX3VhMGttZEFPYkxENzlzYVhXLU1GM3BjbHJqaFctYXMwcU1kOXNaUEstU1FNR3VDX0lXTnlhNWh0UFBjYlRpYjVvU0lEamdzeUhiLUE",
-  "CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ",
   "https://nypost.com/?post_type=article&p=40440970",
   "https://nypost.com/?post_type=article&p=40439905",
   "https://www.theguardian.com/world/2026/aug/21/anxiety-over-war-wildfires-and-cyber-attacks-leads-to-growth-in-cash-stocks-in-eu",
@@ -799,93 +785,23 @@
   "CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw",
   "CBMikAFBVV95cUxOSFU4SHdnZDYyX3lJNzFVWXpkZlRFQkM4MlBOX21NY3BCM3g5QXVOZ0RfNFNzVFlZLThoYTVtWW83bXNuVWk3NnYxS3JGZjBISVBtZF9kVE5SSk5KRWtFYXF3SldSXy1SU2RyM0xNdnFQcFAtYVJha3Ruc1JWN0VwT0ZjRzN1R0xLY0pSdXZOX2o",
   "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
-  "CBMisgFBVV95cUxQY0dvaXJpTTBMYnMwa3BWRXNBLXJvWDhaSjhLMzMybld2OEdWVUljN3c1dDVOS2hfbndTcG9ZbmVlbHFHWXJBTFJnZE5YNW91Yy1XVGdadXlyQ29CbWRQT0J2bGxBWWZjblg2eGFXdXoxY255UDZtcUU5NS1sTWtCSVAxU2ptRkl4bjdnM2Z0aG9ZblNicEZoY01QZDgzMW9BdmJkdGVCbDYtdFgwY19iMFhn"
+  "CBMisgFBVV95cUxQY0dvaXJpTTBMYnMwa3BWRXNBLXJvWDhaSjhLMzMybld2OEdWVUljN3c1dDVOS2hfbndTcG9ZbmVlbHFHWXJBTFJnZE5YNW91Yy1XVGdadXlyQ29CbWRQT0J2bGxBWWZjblg2eGFXdXoxY255UDZtcUU5NS1sTWtCSVAxU2ptRkl4bjdnM2Z0aG9ZblNicEZoY01QZDgzMW9BdmJkdGVCbDYtdFgwY19iMFhn",
+  "https://nypost.com/?post_type=article&p=40611742",
+  "https://www.washingtonexaminer.com/?p=4708090",
+  "CBMivgFBVV95cUxOOXlqbHNRekhVbmlvR2JmZS1TazVKVGxRVFA4a0oxNjl4SHF1cUhaQmNqM1RySGlJYS1zUl9OYnBTOFRnb0JLTVdaZTJiN0ZQTDRqcHJmVVNaN21McWhUV0lTR19HWVF3LUc0d1dXVDJBaW9qYWpUeTRPVE9ETUVYS3FZenBqRWRHR2lGN1RRQzFYeEE2a3Mxb19GNlpObDVXZE8wSEx0UVpDTFlES3QxbjBaQlhkeTQ4OGR6NXFR",
+  "https://nypost.com/?post_type=article&p=40610534",
+  "https://nypost.com/?post_type=article&p=40611035",
+  "https://thehill.com/?p=6063667",
+  "https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms",
+  "https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration",
+  "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
+  "CBMifEFVX3lxTE5GalFzVnZBQmxobl9VbktSTU5WQUxVOWhkNDFqY1R3ckM3dlFTVWp1bGNVc21PeGozS1JDMHBNN2Y5VXdSeHVVZkU5OGdueHBZNXQ4ZzRzVlV5Zlh6WjZfak1SdFpVQy1jekE4YmJoM2FxeE9uV3M2aDFxSkM",
+  "CBMingFBVV95cUxNOUdzVlZndnhDY1lvSXV4Wk1lNnNvUHNMUExwUE5fVlRhMWZkZWJmSzFBRjV6akkzMU8weFczblVZcnhyMzBOaU9WNUhBdFJKQmJBTnBfalZIYl9xb1QzemxvQVpjWURrNXEzZElpOGVFNTZMN1drc3F6QmtNWmZaQkF5Y3lfaWg3dmNyNHJBRndhNVM0QV81ZzNDc0lYQQ",
+  "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase",
+  "CBMiuwFBVV95cUxPNW1ldHZCdU9GenhqU1k3d0M5b2pYdml2MXl2UVZqNWpUUkhJN01hN1lTczFrZmItQXNnalE1RFN5a3c5YTZIdjBqMy01SU9PdW4zSzd5RHZTZk0ybmVlMzVRRVVvU3dSTC0wb2tUenJERXducXNiNGRIM2lCdWF5eTZTWDBhRXZTWmljRXV5VmFfck1WVzRETGg5VDNMYnZZQWxnbjg5LTdhMVNUTlVVd2pTcVhzWklSVk13",
+  "https://thehill.com/?p=6062462"
  ],
  "posts": [
-  {
-   "fp": "back diplomats east embassies evacuations iran middle prepares reports send",
-   "title": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports",
-   "source": "Reuters",
-   "at": "2026-08-25T11:02:32.109923+00:00"
-  },
-  {
-   "fp": "around attack disabled east hormuz middle news other ship strait",
-   "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East",
-   "source": "AP",
-   "at": "2026-08-25T11:02:33.806841+00:00"
-  },
-  {
-   "fp": "dead describe family found immeasurable named void woman year",
-   "title": "Family of woman found dead describe 'immeasurable void' - as 23-year-old named",
-   "source": "Sky News",
-   "at": "2026-08-25T11:02:35.554076+00:00"
-  },
-  {
-   "fp": "attack british factories russia threatens",
-   "title": "Russia threatens to attack British factories",
-   "source": "Telegraph",
-   "at": "2026-08-25T11:02:37.334965+00:00"
-  },
-  {
-   "fp": "brains grow grown human oldest passage recording seven time world years",
-   "title": "World\u2019s oldest lab-grown human brains grow for seven years recording \u2018passage of time\u2019",
-   "source": "New York Post",
-   "at": "2026-08-25T11:33:45.473167+00:00"
-  },
-  {
-   "fp": "campus nuclear plan premature trump victory",
-   "title": "The victory lap on Trump's nuclear campus plan is premature",
-   "source": "The Hill",
-   "at": "2026-08-25T11:45:49.225200+00:00"
-  },
-  {
-   "fp": "france homes injuring southern tears through tornado village wrecking",
-   "title": "A tornado tears through a village in southern France, injuring 39 and wrecking 300 homes",
-   "source": "AP",
-   "at": "2026-08-25T11:45:50.904488+00:00"
-  },
-  {
-   "fp": "assess bessent collapse experts financial iran lifelines regime sever",
-   "title": "Could Iran\u2019s regime collapse? Experts assess Bessent\u2019s bid to sever financial lifelines",
-   "source": "Fox News World",
-   "at": "2026-08-25T12:33:43.616538+00:00"
-  },
-  {
-   "fp": "america canada escalates lake ontario rename threatens trade trump",
-   "title": "Trump threatens to rename Lake Ontario as \u2018Lake America\u2019 as Canada trade war escalates",
-   "source": "New York Post",
-   "at": "2026-08-25T12:46:03.035307+00:00"
-  },
-  {
-   "fp": "darline erases final graham lead nordone norman poll primary ralph",
-   "title": "Ralph Norman erases Darline Graham Nordone\u2019s lead on final day of primary: Poll",
-   "source": "Washington Examiner",
-   "at": "2026-08-25T12:46:04.761152+00:00"
-  },
-  {
-   "fp": "canada gains intensifies iran points pressure raises street trade wall",
-   "title": "Wall Street points to gains as US raises pressure on Iran and trade war with Canada intensifies",
-   "source": "AP",
-   "at": "2026-08-25T12:46:06.527451+00:00"
-  },
-  {
-   "fp": "america considering escalates lake ontario renaming trade trump",
-   "title": "Trump says he's considering renaming Lake Ontario as 'Lake America' as trade war with escalates",
-   "source": "AP",
-   "at": "2026-08-25T12:46:08.278347+00:00"
-  },
-  {
-   "fp": "china interests iran protect sanctions warns widens",
-   "title": "China warns it will protect its interests after US widens sanctions against Iran",
-   "source": "BBC World",
-   "at": "2026-08-25T12:46:10.094644+00:00"
-  },
-  {
-   "fp": "canada futures higher ongoing trade",
-   "title": "U.S. Futures Higher Amid Ongoing Trade War with Canada",
-   "source": "WSJ",
-   "at": "2026-08-25T12:46:11.916826+00:00"
-  },
   {
    "fp": "daughter florida killed lightning mother strike year",
    "title": "Mother and two-year-old daughter killed by lightning strike in Florida",
@@ -3201,23 +3117,93 @@
    "title": "Massachusetts Democratic primary is a generational clash as Rep. Seth Moulton targets Sen. Ed Markey",
    "source": "AP",
    "at": "2026-09-01T18:10:37.767245+00:00"
+  },
+  {
+   "fp": "angels arte breaking buys kroenke moreno owner price rams record stan",
+   "title": "Rams owner Stan Kroenke buys Angels from Arte Moreno for record-breaking price",
+   "source": "New York Post",
+   "at": "2026-09-01T18:47:32.956374+00:00"
+  },
+  {
+   "fp": "avoid bill democrats election funding help house passes shutdown stopgap",
+   "title": "House passes stopgap funding bill with help of 176 Democrats to avoid pre-election shutdown",
+   "source": "Washington Examiner",
+   "at": "2026-09-01T18:47:34.779589+00:00"
+  },
+  {
+   "fp": "bofa killed president square stabbing times vice",
+   "title": "BofA vice president killed in Times Square stabbing",
+   "source": "Reuters",
+   "at": "2026-09-01T18:47:36.573528+00:00"
+  },
+  {
+   "fp": "baby california cops daughter dead found newborn raped remote road year",
+   "title": "California dad raped 14-year-old daughter before their newborn baby was found dead on remote road: cops",
+   "source": "New York Post",
+   "at": "2026-09-01T18:47:38.826038+00:00"
+  },
+  {
+   "fp": "avoiding election government house keep midterms open shutdown until votes",
+   "title": "House votes to keep government open until after midterms, avoiding pre-election shutdown",
+   "source": "New York Post",
+   "at": "2026-09-01T18:47:40.616238+00:00"
+  },
+  {
+   "fp": "averting congress december election funds government shutdown until",
+   "title": "Congress funds government until December, averting pre-election shutdown",
+   "source": "The Hill",
+   "at": "2026-09-01T18:47:42.576769+00:00"
+  },
+  {
+   "fp": "ahead averts congress government midterms shutdown",
+   "title": "Congress averts a government shutdown ahead of the midterms",
+   "source": "NPR News",
+   "at": "2026-09-01T18:47:44.481891+00:00"
+  },
+  {
+   "fp": "body cameras deadly enough series shootings",
+   "title": "ICE says it has enough body cameras now, after series of deadly shootings",
+   "source": "NPR News",
+   "at": "2026-09-01T18:47:46.372326+00:00"
+  },
+  {
+   "fp": "airport attack blames drone germany leipzig russia",
+   "title": "Germany blames Russia for drone attack at Leipzig airport",
+   "source": "Guardian World",
+   "at": "2026-09-01T18:47:48.212414+00:00"
+  },
+  {
+   "fp": "baby dead fatally found police sheffield stabbed",
+   "title": "Baby found dead in Sheffield was fatally stabbed, police say",
+   "source": "Telegraph",
+   "at": "2026-09-01T18:47:50.204026+00:00"
+  },
+  {
+   "fp": "america bank killed square stabbing times woman worked",
+   "title": "Woman killed in Times Square stabbing worked for Bank of America",
+   "source": "AP",
+   "at": "2026-09-01T18:47:51.987959+00:00"
+  },
+  {
+   "fp": "deadly enters network phase rail russia targets ukraine",
+   "title": "Russia targets Ukraine\u2019s rail network as war enters deadly new phase",
+   "source": "Guardian World",
+   "at": "2026-09-01T18:47:53.945972+00:00"
+  },
+  {
+   "fp": "attack brandenburg german grid minister power sabotage target",
+   "title": "German minister says Brandenburg power grid target of sabotage attack",
+   "source": "Reuters",
+   "at": "2026-09-01T18:47:55.727432+00:00"
+  },
+  {
+   "fp": "approves avoid funding house iran live shutdown strikes targets updates",
+   "title": "Live updates: House approves funding to avoid shutdown; US strikes Iran targets",
+   "source": "The Hill",
+   "at": "2026-09-01T18:47:57.919814+00:00"
   }
  ],
  "titles": [
-  "back diplomats east embassies evacuations iran middle prepares reports send",
-  "around attack disabled east hormuz middle news other ship strait",
-  "dead describe family found immeasurable named void woman year",
-  "attack british factories russia threatens",
-  "brains grow grown human oldest passage recording seven time world years",
-  "campus nuclear plan premature trump victory",
-  "france homes injuring southern tears through tornado village wrecking",
-  "assess bessent collapse experts financial iran lifelines regime sever",
-  "america canada escalates lake ontario rename threatens trade trump",
-  "darline erases final graham lead nordone norman poll primary ralph",
-  "canada gains intensifies iran points pressure raises street trade wall",
-  "america considering escalates lake ontario renaming trade trump",
-  "china interests iran protect sanctions warns widens",
-  "canada futures higher ongoing trade",
   "daughter florida killed lightning mother strike year",
   "bike father killed lanes then thought",
   "aggravated arrests assault atlanta beltline deadly police prior probation stabbing suspect trail",
@@ -3603,6 +3589,20 @@
   "bond pressure prices rising sell slip stocks street under wall",
   "bond global intensifies selloff slip stocks",
   "carney escalating mark serious start tells trade",
-  "clash democratic generational markey massachusetts moulton primary seth targets"
+  "clash democratic generational markey massachusetts moulton primary seth targets",
+  "angels arte breaking buys kroenke moreno owner price rams record stan",
+  "avoid bill democrats election funding help house passes shutdown stopgap",
+  "bofa killed president square stabbing times vice",
+  "baby california cops daughter dead found newborn raped remote road year",
+  "avoiding election government house keep midterms open shutdown until votes",
+  "averting congress december election funds government shutdown until",
+  "ahead averts congress government midterms shutdown",
+  "body cameras deadly enough series shootings",
+  "airport attack blames drone germany leipzig russia",
+  "baby dead fatally found police sheffield stabbed",
+  "america bank killed square stabbing times woman worked",
+  "deadly enters network phase rail russia targets ukraine",
+  "attack brandenburg german grid minister power sabotage target",
+  "approves avoid funding house iran live shutdown strikes targets updates"
  ]
 }
