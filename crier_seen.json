@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
-  "https://www.washingtonexaminer.com/?p=4695009",
-  "https://nypost.com/?post_type=article&p=40432240",
-  "https://www.theguardian.com/us-news/2026/aug/20/woman-charged-attack-new-york-capitol",
-  "CBMilgFBVV95cUxPU0s3OExOX3RaT0QwSGZwQWhEdUZ4am95Y19SVzZDN1lUQ2cwU1dHVGdBNlM2dWt2a1pZcnBEeTVqaGduNWRDc3IxVGJZZ0hxVERYcVZMV2R1aGc2Wk1xVUI3dTFDS1pla210OERtaTFQSTU1Z3BJWGJ2MXJlLU5BOF9UNG1sWi1SUVpqT2k5ZWRaRzhHb3c",
-  "https://nypost.com/?post_type=article&p=40434218",
   "https://nypost.com/?post_type=article&p=40431987",
   "https://www.bbc.co.uk/news/articles/cj035jg256no#0",
   "CBMi3gFBVV95cUxPRkVURC1FUE5PWDh1RVhyZE5vZTYwT2YyenB5aDlickNRVTBrUmhLQzJIRVhJZEZ2ajlVeW1aT1pSM1h2MHNEZHFyX3JENDBwUHBTOVpENU5Ud3MtcmtSMUlGc19pSVBKWXpHUk5SclR0WUFwb3VUYVhzbHBZeXRtS0pFMDRGdlk0TXU2S1pDdnRlYndPbDUwYTZWVTlqVUMyaFVLWXdqOVZIR19Zc2ZObWExejY0bTlGRno2SmxoZjNSSE1rOTFsVnJRU3owbkRZaVdxT3JWVkJFLTZQTlE",
@@ -799,45 +793,15 @@
   "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
   "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
   "CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc",
-  "CBMiowFBVV95cUxQaENIRDN5eTk1UUZFcTN0SlVpS1V2TjRYakpqSUxKNlRZb3dIZ1BlZHlWeFRJSUJleERyMnJNc240LTNEYV8yMzRvZV80OUc3YW43czRELUFSSzRyZ2NOMmhsUFRVWFEyalBIT3daRTVLMkhsZVFKSU1kOG43TW9xWklFRlBqRDJ1eURESHkyQmlNeFVYcUViNWFBYzJvTUNrVExn"
+  "CBMiowFBVV95cUxQaENIRDN5eTk1UUZFcTN0SlVpS1V2TjRYakpqSUxKNlRZb3dIZ1BlZHlWeFRJSUJleERyMnJNc240LTNEYV8yMzRvZV80OUc3YW43czRELUFSSzRyZ2NOMmhsUFRVWFEyalBIT3daRTVLMkhsZVFKSU1kOG43TW9xWklFRlBqRDJ1eURESHkyQmlNeFVYcUViNWFBYzJvTUNrVExn",
+  "CBMiYkFVX3lxTE1oTnRndlYxR1lDOC1YWlVFaVlCdzdqQmZkNFJoLTJ3R0ZpWVAwSHcxUXFHTXZNdWViN1ZQcGVrU3dXSW9PYU0wMWVVNS1Ndm9rNUwzUGhubEo3X0F0ZFdBd3J3",
+  "CBMitgFBVV95cUxPaWZjU0g0TmRIVUt5RlNtTUIxLVBDZmJlS2ljODlldVpZSW9rVm1WeHJOcnU0ZHFOMTB0QlhoR1FXV1d0Q2N6MC1aek9NLWN5QmxvYmpCQjZmUGtqRkpZUmx6Qk42YkIxZzQzR3pnU3Q3eE5BZjdadVI5UThGSUZrZ0RSS0hlUjJSNmhEN3RUcWRQZzJHaUtrOWtLZUthRkxDenNDWVZ0Wk5RSTRsYjJhQjJTTkgxQQ",
+  "CBMihAFBVV95cUxNN29tRkdCTUhYZ1VWYkxUeVVad3Z4R2IxSDVfOEdSRV84SDFCV0NJUUxtb1Z2c3d0b3hXOHpnQlZWdDVtaHVJV3lpa3R4dncwcHB2MFlvczF2SHdSZ3VVdnRiXzBuY1hKZzJrRTZ2SkJuRXg2bjdNdy0za0ZPVncyTXRteTA",
+  "https://thehill.com/?p=6062756",
+  "https://thehill.com/?p=6062732",
+  "CBMioAFBVV95cUxQVXkxRl9lRU9YZm55bWJweE5fNWYtcG9uNHRiTFFGcWdUVW1lNlVxb1duUG00RDE4VFNGSXR0WHVvSEl5ekJKNV9oUkZGWnV5UGw2OFZNMG5KYXUzb01FZms5cExhdFFxVWhLWGZWY1RrSldLLW1oWk9jUjV6eWFzNWxKdmZ2YnVsaGNRNzBPMUtTMklJSmFBWWkybHJTU2pl"
  ],
  "posts": [
-  {
-   "fp": "expanded impact investors iran prices sanctions steady weigh",
-   "title": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran",
-   "source": "Reuters",
-   "at": "2026-08-25T03:48:05.918056+00:00"
-  },
-  {
-   "fp": "accused alleged attack carolina doctor interstate north rage road shooting sisters",
-   "title": "North Carolina doctor accused of shooting 2 sisters in alleged interstate road rage attack",
-   "source": "New York Post",
-   "at": "2026-08-25T04:20:03.084660+00:00"
-  },
-  {
-   "fp": "attack came coogee describes face moment monster shark victim",
-   "title": "Coogee shark attack victim describes moment she came to face-to-face with \u2018monster\u2019",
-   "source": "Guardian World",
-   "at": "2026-08-25T04:20:04.947203+00:00"
-  },
-  {
-   "fp": "battles brave choking country indonesians pray rain smoke wildfires",
-   "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
-   "source": "NPR News",
-   "at": "2026-08-25T05:32:56.451029+00:00"
-  },
-  {
-   "fp": "wildfires",
-   "title": "Wildfires",
-   "source": "AP",
-   "at": "2026-08-25T06:01:45.742159+00:00"
-  },
-  {
-   "fp": "counter economic fully iran prepared sanctions widened",
-   "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-   "source": "BBC World",
-   "at": "2026-08-25T06:45:21.385977+00:00"
-  },
   {
    "fp": "billion earnings nvidia options price shares show swing",
    "title": "Nvidia shares set for $280 billion price swing after earnings, options show",
@@ -3201,15 +3165,45 @@
    "title": "Rescuers comb through mud and debris as Nepal-China floods leave more than 1,000 dead",
    "source": "AP",
    "at": "2026-09-01T11:17:37.329808+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-09-01T13:56:54.627637+00:00"
+  },
+  {
+   "fp": "blockade exports failed iran sanctions stall succeeds where",
+   "title": "Blockade succeeds where sanctions failed as Iran oil exports stall",
+   "source": "Reuters",
+   "at": "2026-09-01T13:56:56.384380+00:00"
+  },
+  {
+   "fp": "about congress finally saving security social talking",
+   "title": "Congress Is Finally Talking About Saving Social Security",
+   "source": "WSJ",
+   "at": "2026-09-01T13:56:58.156481+00:00"
+  },
+  {
+   "fp": "congress great johnson member miller reelection supports",
+   "title": "Johnson says he supports Max Miller's reelection bid: 'Great member of Congress'",
+   "source": "The Hill",
+   "at": "2026-09-01T13:56:59.879787+00:00"
+  },
+  {
+   "fp": "finale grand incumbents massachusetts primary reaches season tough",
+   "title": "Tough primary season for incumbents reaches grand finale in Massachusetts",
+   "source": "The Hill",
+   "at": "2026-09-01T13:57:01.818843+00:00"
+  },
+  {
+   "fp": "campaign election ends france heating macron replace season summer vacation",
+   "title": "The election campaign to replace Macron in France is heating up as the summer vacation season ends",
+   "source": "AP",
+   "at": "2026-09-01T13:57:03.665453+00:00"
   }
  ],
  "titles": [
-  "expanded impact investors iran prices sanctions steady weigh",
-  "accused alleged attack carolina doctor interstate north rage road shooting sisters",
-  "attack came coogee describes face moment monster shark victim",
-  "battles brave choking country indonesians pray rain smoke wildfires",
-  "wildfires",
-  "counter economic fully iran prepared sanctions widened",
   "billion earnings nvidia options price shares show swing",
   "canada economies races rattle senate states trade trump",
   "agency earnings europe heatwaves insurers rating threaten",
@@ -3603,6 +3597,12 @@
   "claims derail mail midterms order plan trump usps voting whistleblower",
   "attacks drone kills kyiv least night russia sixth",
   "agreement ceasefire does iran mideast news other president return",
-  "china comb dead debris floods leave nepal rescuers through"
+  "china comb dead debris floods leave nepal rescuers through",
+  "edition journal print street wall",
+  "blockade exports failed iran sanctions stall succeeds where",
+  "about congress finally saving security social talking",
+  "congress great johnson member miller reelection supports",
+  "finale grand incumbents massachusetts primary reaches season tough",
+  "campaign election ends france heating macron replace season summer vacation"
  ]
 }
