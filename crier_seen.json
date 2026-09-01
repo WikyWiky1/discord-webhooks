@@ -1,17 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cj035jg256no#0",
-  "CBMi3gFBVV95cUxPRkVURC1FUE5PWDh1RVhyZE5vZTYwT2YyenB5aDlickNRVTBrUmhLQzJIRVhJZEZ2ajlVeW1aT1pSM1h2MHNEZHFyX3JENDBwUHBTOVpENU5Ud3MtcmtSMUlGc19pSVBKWXpHUk5SclR0WUFwb3VUYVhzbHBZeXRtS0pFMDRGdlk0TXU2S1pDdnRlYndPbDUwYTZWVTlqVUMyaFVLWXdqOVZIR19Zc2ZObWExejY0bTlGRno2SmxoZjNSSE1rOTFsVnJRU3owbkRZaVdxT3JWVkJFLTZQTlE",
-  "https://nypost.com/?post_type=article&p=40422246",
-  "CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE",
-  "https://nypost.com/?post_type=article&p=40432429",
-  "https://thehill.com/?p=6042284",
-  "https://www.theguardian.com/us-news/2026/aug/20/alleged-money-smuggling-sanctions-hezbollah",
-  "https://thehill.com/?p=6042267",
-  "CBMiiAFBVV95cUxQZTc5cUFjWUlYVU1aSmJXVlk4eVF2SG0zUkxLNkZ3SXFNTkJTQWIwQnNWOFlWNVdqcDc1OTQyYmdsZW9KM3FIYlNDb1ptX0s2RGxOenExTDBUOFQ3Z0Z1dUd3NDNoai0zamJmLUlIMmNFRTY2V3V3VWs5eHdXOU9TU1pvRkRWdmdn",
-  "https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
-  "CBMinwFBVV95cUxOUE1iMlIzTzVsV0VRUnM3T19tTjQyUGpWTTA1OVh3bThueldnR185U1V0RU80U2VxQWFyVmNxOWdkSEFCZER4WXlzNGhCVTBIR3J1TlNxcGVKSmZMWjlJbmNJWFo4bTZ5NGpTcm9SOTBKVWctNXRRNDMzWGNVWlBFNWF6dVVESXFreWQ5OERubHB2REJ3TjkyUXFDN0ZMd3M",
-  "https://nypost.com/?post_type=article&p=40437810",
   "https://thehill.com/?p=6042577",
   "https://nypost.com/?post_type=article&p=40438600",
   "CBMinAFBVV95cUxNWVIzQU15UEdjSjhKRVRDcEtNc3FSUk1tb0RySW94TnVlNjdOREE3aGNDeUNtNlQwOFpaVHozc3dKbWItRlFLRHJ3X1h3dXpOWDd5Y2hBUmFYczVhMHZrQUNmWlBOVVlpTUFZd2pwRlh3Z2Z6LU9tZ3Z3YV9nQkdWbldfNFJMSlgyc0llbG1PcDJ0YzFqc3dSLVpFZVY",
@@ -799,81 +787,21 @@
   "https://thehill.com/?p=6062756",
   "https://thehill.com/?p=6062732",
   "CBMioAFBVV95cUxQVXkxRl9lRU9YZm55bWJweE5fNWYtcG9uNHRiTFFGcWdUVW1lNlVxb1duUG00RDE4VFNGSXR0WHVvSEl5ekJKNV9oUkZGWnV5UGw2OFZNMG5KYXUzb01FZms5cExhdFFxVWhLWGZWY1RrSldLLW1oWk9jUjV6eWFzNWxKdmZ2YnVsaGNRNzBPMUtTMklJSmFBWWkybHJTU2pl",
-  "CBMiyAFBVV95cUxQa0lZNU9PT200a2JXbkZCT3pQUmNqeXdwek9XbC04c3hMZVJkTDIyMEtDbkYtMzBMbnBDdkJBekFsUV9oUklUV0l4TjdCd05QMncwSXFhMTJXT2lIbFh5X1A4VXd4QWpvcVlKeGNtRURGamUyTWZOLWRjYVNyZTJMeG1xcks5U0Z4Q3VJai1kQkxabmZ3OHdaclQ4UXRmQ0RsRG1MZDVLMTUwMjBEVnhfemx3d0c3RHdDRk5CYTJpSnhlNDdabEJPRg"
+  "CBMiyAFBVV95cUxQa0lZNU9PT200a2JXbkZCT3pQUmNqeXdwek9XbC04c3hMZVJkTDIyMEtDbkYtMzBMbnBDdkJBekFsUV9oUklUV0l4TjdCd05QMncwSXFhMTJXT2lIbFh5X1A4VXd4QWpvcVlKeGNtRURGamUyTWZOLWRjYVNyZTJMeG1xcks5U0Z4Q3VJai1kQkxabmZ3OHdaclQ4UXRmQ0RsRG1MZDVLMTUwMjBEVnhfemx3d0c3RHdDRk5CYTJpSnhlNDdabEJPRg",
+  "CBMilgFBVV95cUxPUTBLa0QyeXFtbXJnNW42SkVOTXNONVFzUzBwTzByaVkyNGhjNVQ1ZWdJV3FDc19NR3llMnQzYUVEQjhNMW1kUWhBNkhSaU1La1gyRFBkOHRpZkZPeFlxalhHbzZlZzhqdGFvcFlJREJsVWZhOWtIX0hBTGFrbkN0Y1hZWUxMby14SGlSRWNQUnFrMmRkYnc",
+  "https://nypost.com/?post_type=article&p=40607200",
+  "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo#1",
+  "https://www.washingtonexaminer.com/?p=4707663",
+  "https://nypost.com/?post_type=article&p=40605514",
+  "CBMiyAFBVV95cUxQYzM2eXZHNlAtNllHNlpsYldnQ2xtdjhiTkxaUW92cExCWmhnWll5eUl1aVVBN2tnUGw4eG9VbmFENmhoUmZRM0lRZ043VHZiM3liSkFhY1RzVEx2am1hX1lsQi1vajliSDhUV05NN1FNMzVFZnN2OUhFdjNPMHo0UzNXSkwtTnVUZ2lGSzhhWDdyNUh6cWFlUTZiMy1Ia3ZHN0pseDhVRjBpY0ZBWTBmS2czUjJ6X0ZZVkZLaHpXQl9uLVpvRW40cA",
+  "CBMinwFBVV95cUxQeWg4bTBTNmFaaFE5Z3ltMTlaTjAxNkFtYjJTRXMtSXZHMDFrQlI0ZEMyUi1vaUNIa2VVS3Q1RnhVc3JHZ0EwdXBFUndxWVd6SHVTTHp3Wl82ckVEb0VUWVdBc3NhVVhkWUZ4S1NVdWlWZWp4aDJRejVnN1NUR1U4dUxucFZTX1ZkcndCT2ZpRXZsbnBqUEtNUGh6bjgyZ3M",
+  "CBMitwFBVV95cUxQTWRnV2I2dWRlQTV2WTNBNWl0U3lSSlZXeWVtakpZRkN4UG9DdDFlNGo5dkZXczZqTGlhdmZDelhGRjZwYXZQVkxtbVZ2V053ZGlnQlh3V3hOMGFJTkVaU09rUXJjLUQ4VFFKbzRBc2dvUGl4NElLOXNjWl94cGNCRjZna0N2UERITDdUdTRXeXNDT05aakJOVXlRMDkweGJGdEx1ekJuM24tYWhNNjN3WGJ6aEFoejA",
+  "https://thehill.com/?p=6063178",
+  "https://www.theguardian.com/environment/2026/sep/01/high-winds-el-nino-england-stressed-trees-heat-drought",
+  "CBMifkFVX3lxTFBWVmVNbDU2eWdyUjN1Q2J5anZidjQ3QzFmZ3dBNDIwb3ByZmZCYk92V2N5OGhuU2E1aDZQYmpoazJnSU5NTnIzNkl0N1pXYm5pamhPUnFTTGpHaFpMdTh2bk5rSTU1WGRUS1ZyNEpLSlFmTElGU01FWmtjLWUxZw",
+  "https://thehill.com/?p=6062853"
  ],
  "posts": [
-  {
-   "fp": "billion earnings nvidia options price shares show swing",
-   "title": "Nvidia shares set for $280 billion price swing after earnings, options show",
-   "source": "Reuters",
-   "at": "2026-08-25T06:45:23.066621+00:00"
-  },
-  {
-   "fp": "canada economies races rattle senate states trade trump",
-   "title": "Trump\u2019s trade war with Canada could rattle economies in states with key Senate races",
-   "source": "AP",
-   "at": "2026-08-25T06:45:24.703978+00:00"
-  },
-  {
-   "fp": "agency earnings europe heatwaves insurers rating threaten",
-   "title": "Europe\u2019s heatwaves threaten insurers\u2019 earnings, rating agency S&P says",
-   "source": "Guardian World",
-   "at": "2026-08-25T06:45:26.420603+00:00"
-  },
-  {
-   "fp": "canada escalates hike tariff threatens trade trump vehicles",
-   "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-   "source": "BBC World",
-   "at": "2026-08-25T06:45:28.100127+00:00"
-  },
-  {
-   "fp": "buyers collapses developer leaving limbo major perfect property storm sydney",
-   "title": "Major Sydney property developer collapses after \u2018perfect storm\u2019, leaving buyers in limbo",
-   "source": "Guardian World",
-   "at": "2026-08-25T07:10:17.343360+00:00"
-  },
-  {
-   "fp": "airport attack drone explosives failed find german investigators media third",
-   "title": "German investigators find third drone, explosives after failed airport attack, media say",
-   "source": "Reuters",
-   "at": "2026-08-25T07:10:19.038142+00:00"
-  },
-  {
-   "fp": "attending catch clay dead football game help killer money nashville reward shot student travis triples",
-   "title": "Nashville HS student shot dead after attending football game as Clay Travis triples reward money to help catch killer",
-   "source": "New York Post",
-   "at": "2026-08-25T08:00:20.049146+00:00"
-  },
-  {
-   "fp": "destroyed firefighters homes make nevada progress wildfire",
-   "title": "Firefighters make progress against a Nevada wildfire that\u2019s destroyed more than 30 homes",
-   "source": "Washington Examiner",
-   "at": "2026-08-25T09:01:51.304509+00:00"
-  },
-  {
-   "fp": "answers details gaza hospital israeli journalists killed strike year",
-   "title": "New details but no answers a year after an Israeli strike on a Gaza hospital killed journalists",
-   "source": "AP",
-   "at": "2026-08-25T09:01:52.976082+00:00"
-  },
-  {
-   "fp": "expansion forest green india initiative mission whitewashing",
-   "title": "The whitewashing of the Green India Mission forest expansion initiative",
-   "source": "Guardian World",
-   "at": "2026-08-25T09:34:28.895467+00:00"
-  },
-  {
-   "fp": "2027 billion budget calls deficit extra italy salvini",
-   "title": "Italy's Salvini calls for \u20ac20 billion in extra deficit in 2027 budget",
-   "source": "Reuters",
-   "at": "2026-08-25T09:34:30.640037+00:00"
-  },
-  {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-08-25T09:34:32.296670+00:00"
-  },
   {
    "fp": "iran retaliate sanctions vows widens",
    "title": "Iran vows to retaliate after US widens sanctions",
@@ -3201,21 +3129,81 @@
    "title": "Photos show oldest hiker reclaiming Appalachian Trail record at 91",
    "source": "AP",
    "at": "2026-09-01T15:25:54.478502+00:00"
+  },
+  {
+   "fp": "china claims deadly floods given nepal rebuts warning",
+   "title": "China Rebuts Claims It Could Have Given Nepal Warning of Deadly Floods",
+   "source": "WSJ",
+   "at": "2026-09-01T15:28:36.020048+00:00"
+  },
+  {
+   "fp": "american coach dead everything former jerry stovall",
+   "title": "Former LSU coach and \u2018Mr. Everything\u2019 All-American Jerry Stovall dead at 85",
+   "source": "New York Post",
+   "at": "2026-09-01T15:28:37.876602+00:00"
+  },
+  {
+   "fp": "dead killed police shot square stabbing suspect times woman",
+   "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
+   "source": "BBC World",
+   "at": "2026-09-01T15:28:39.765093+00:00"
+  },
+  {
+   "fp": "2025 allegations claims farm process state sues unfair wildfires",
+   "title": "LA sues State Farm over allegations of unfair claims process after 2025 wildfires",
+   "source": "Washington Examiner",
+   "at": "2026-09-01T15:28:42.214341+00:00"
+  },
+  {
+   "fp": "airport attack attempted blame cargo drone germany plane russia ukrainian",
+   "title": "Germany to blame Russia for attempted drone attack on Ukrainian cargo plane at airport",
+   "source": "New York Post",
+   "at": "2026-09-01T15:28:44.254655+00:00"
+  },
+  {
+   "fp": "areas crosses death flood nepal reach remote rescuers toll",
+   "title": "Nepal flood death toll crosses 1,000, rescuers reach remote areas",
+   "source": "Reuters",
+   "at": "2026-09-01T15:28:46.069344+00:00"
+  },
+  {
+   "fp": "ambitions deadly floods hydropower nepal test",
+   "title": "Deadly floods test Nepal's hydropower ambitions",
+   "source": "Reuters",
+   "at": "2026-09-01T15:28:47.986210+00:00"
+  },
+  {
+   "fp": "blocking california legislature newsom parts plan reforms vote wildfire",
+   "title": "California Legislature to vote on wildfire reforms after blocking key parts of Newsom\u2019s plan",
+   "source": "AP",
+   "at": "2026-09-01T15:28:49.825412+00:00"
+  },
+  {
+   "fp": "avert dems give house iran live race remarks shutdown turmoil watch",
+   "title": "Watch live: House Dems give remarks amid race to avert shutdown, Iran war turmoil",
+   "source": "The Hill",
+   "at": "2026-09-01T15:28:51.566723+00:00"
+  },
+  {
+   "fp": "deadly england experts high stressed trees winds",
+   "title": "High winds during El Ni\u00f1o could be deadly for England\u2019s stressed trees, say experts",
+   "source": "Guardian World",
+   "at": "2026-09-01T15:28:53.400556+00:00"
+  },
+  {
+   "fp": "down starmer steps",
+   "title": "Starmer steps down as MP",
+   "source": "Telegraph",
+   "at": "2026-09-01T15:28:55.175089+00:00"
+  },
+  {
+   "fp": "avert house leaders live looms shutdown speak vote watch",
+   "title": "Watch live: House GOP leaders speak as vote to avert shutdown looms",
+   "source": "The Hill",
+   "at": "2026-09-01T15:28:56.967526+00:00"
   }
  ],
  "titles": [
-  "billion earnings nvidia options price shares show swing",
-  "canada economies races rattle senate states trade trump",
-  "agency earnings europe heatwaves insurers rating threaten",
-  "canada escalates hike tariff threatens trade trump vehicles",
-  "buyers collapses developer leaving limbo major perfect property storm sydney",
-  "airport attack drone explosives failed find german investigators media third",
-  "attending catch clay dead football game help killer money nashville reward shot student travis triples",
-  "destroyed firefighters homes make nevada progress wildfire",
-  "answers details gaza hospital israeli journalists killed strike year",
-  "expansion forest green india initiative mission whitewashing",
-  "2027 billion budget calls deficit extra italy salvini",
-  "edition journal print street wall",
   "iran retaliate sanctions vows widens",
   "evacuees hazmat home return situation spokane still wildfire",
   "allegedly attack melbourne protecting random repeatedly scissors stabbed woman",
@@ -3603,6 +3591,18 @@
   "congress great johnson member miller reelection supports",
   "finale grand incumbents massachusetts primary reaches season tough",
   "campaign election ends france heating macron replace season summer vacation",
-  "appalachian hiker oldest photos reclaiming record show trail"
+  "appalachian hiker oldest photos reclaiming record show trail",
+  "china claims deadly floods given nepal rebuts warning",
+  "american coach dead everything former jerry stovall",
+  "dead killed police shot square stabbing suspect times woman",
+  "2025 allegations claims farm process state sues unfair wildfires",
+  "airport attack attempted blame cargo drone germany plane russia ukrainian",
+  "areas crosses death flood nepal reach remote rescuers toll",
+  "ambitions deadly floods hydropower nepal test",
+  "blocking california legislature newsom parts plan reforms vote wildfire",
+  "avert dems give house iran live race remarks shutdown turmoil watch",
+  "deadly england experts high stressed trees winds",
+  "down starmer steps",
+  "avert house leaders live looms shutdown speak vote watch"
  ]
 }
