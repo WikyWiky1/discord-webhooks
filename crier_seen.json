@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40450489",
-  "CBMilAFBVV95cUxOd3hweHljMzg1cHpVZlZEd29Za2FydndmX1hmM3Z6b25TWUNhNFNtVnU2eGp3VWVoZnM3U2l0azRCOERTZExRR01WelhVWlZCNTYxS014QzhFZEpIMzBuTjVuNjlRU01uUjlfeUlxRU9xaGJUMklzalJicC04M3oxQllqc1JZbXo2ZkFPYms0d0J4bGZ3",
-  "https://nypost.com/?post_type=article&p=40453244",
-  "CBMirAFBVV95cUxQUXIwaFZFa0JvU1B3VzRqdW5aVDFoMnU4UF93bHlna21iOHZNUTl0N3hVam5JT00xMkhfV2t4T1pUU0dKUm1hd0gzMnpzbmhkNUNOWElYSlRxZkFSZW1ZNWJFV2ZGMlBETnlYUVhER2ZiOVJtV1RnOGRLYnIyQl9lR1dBR3paa2VHeFRlVm5TNU14bE9NVFlYeVdRbzNaYnRpd0FIdDRZU2JkU3NC",
-  "https://thehill.com/?p=6044230",
-  "CBMiiwFBVV95cUxQQ05DVFJYS3lRaUh6WVMzT3VmRUpKR0JsRGJWaXgzMlFJQ1I4Qkx3alBOSzc4eGx2TjBLUGJOLW5KZzRTd0Nrb0JDaENhNGJZcHRnZE1MM0hpeFlsSFgxNlV5MEdmMzY2MlFIdjJnTjlaWnVMVTZFR0hSNDdrYU1jZHFvdkQyODFYeThN",
   "https://thehill.com/?p=6042474/",
   "CBMie0FVX3lxTE04MkdmV21FT2x0T0dmSVg0eHBBZlJkakVuTENZYzVUTEV4SVBtLV81ODNEcEVGLWEzV0V1NW5qYjR6eE1JMEV6cW1OTmpyeFZrWmJWd0plZXJYZU1GbEZjVFl1eGEzNHhWeElUS0hldFZuN3Q2TnJGb3B2bw",
   "https://nypost.com/?post_type=article&p=40452857",
@@ -799,45 +793,15 @@
   "CBMizgFBVV95cUxQSEhDa2dndTJ5VUdueXJPNVF2U3pDMEw5cVpoWjc0bkRVWHNKMmRjd2tXbDJqMUZ4MjFCb1RKT1I5dWJ5MmpwcU9EM2JIcms2cVFFc29hNU1sTnNnU01CQ19feUxsWjlzN05DaFR2M3VMMnRsTmVSUUJrdkw1dzd6YzBOSXlKeW9nMGhtV21PemNDSTh1ZFY3dGd0NE14dnh2SnR3RENkTGp6a0VBdjFnMFFJN2N5SmlZWHBSbDhSM1dOakVZLVZNa1l2WGdxUQ",
   "https://nypost.com/?post_type=article&p=40627904",
   "https://nypost.com/?post_type=article&p=40633605",
-  "CBMipgFBVV95cUxPOGxSOFZ1V3RUS3F2RjA0NzFGV3llLVd2RW5zblZkQkxGMHMtUlJSMTBfeWRwSXp2RS1TSHZSTHJpcGZCT3F6ZEpCeU1xWklqM2tmb1VPNXByT2FHUExUdW01T1E3ZkpCQjFZakpHNXphUXdFc2huN1BvOXF0ZEJ5cUVCdWcwZ2dWY2VFdzdzNTZRUTVMNWZZNENvR1NSNkE3Tl8zSXRB"
+  "CBMipgFBVV95cUxPOGxSOFZ1V3RUS3F2RjA0NzFGV3llLVd2RW5zblZkQkxGMHMtUlJSMTBfeWRwSXp2RS1TSHZSTHJpcGZCT3F6ZEpCeU1xWklqM2tmb1VPNXByT2FHUExUdW01T1E3ZkpCQjFZakpHNXphUXdFc2huN1BvOXF0ZEJ5cUVCdWcwZ2dWY2VFdzdzNTZRUTVMNWZZNENvR1NSNkE3Tl8zSXRB",
+  "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran",
+  "https://thehill.com/?p=6067615",
+  "https://www.washingtonexaminer.com/?p=4710772",
+  "https://thehill.com/?p=6067626",
+  "CBMilgFBVV95cUxNYlk4Zy16MWpXSTlja2xjZnBqUG1fMjJkelNVT2FYXzNzUndMc0tJUjRBcWIzeVUwMEFfZEY5akw1b0tIZ1kteWI5eVZwVmUxYWFfUlJUYTJwZHVmaGh5czBaQzRSMi1nLVpqeEtEWUJxdEZvclpzeUlSMXpDM3hZcWVCRERkcTNwNWpzRExuc0hiWkU2UVE",
+  "CBMijAFBVV95cUxQM0s1M1JrT1cyeExIUzRmNldHeTduY19wVWRGOUNYVGtwTElHYWtKYkVVLXE3NFY2UEFSSGJCV3NyakVyek14dDRDN1BpY1RnUVBBRjJ2VVFuc3RhV0tScVNlck5LMFRKWi1QSEptSnlJcWlGQTV2QU94U2lWVk1ReEdjS21IRjVqR2pwcA"
  ],
  "posts": [
-  {
-   "fp": "accountability alex calls family fatal months pretti shooting",
-   "title": "Alex Pretti's family calls for accountability 7 months after fatal CBP shooting",
-   "source": "The Hill",
-   "at": "2026-08-26T02:21:25.284234+00:00"
-  },
-  {
-   "fp": "children dead dinner eight family fire four including montana opens",
-   "title": "Eight dead, including four children, after Montana man opens fire at family dinner",
-   "source": "Washington Examiner",
-   "at": "2026-08-26T03:35:10.244518+00:00"
-  },
-  {
-   "fp": "agreement arabia civil congress nuclear review saudi sources submitted trump",
-   "title": "Trump has submitted civil nuclear agreement with Saudi Arabia to Congress for review, AP sources say",
-   "source": "AP",
-   "at": "2026-08-26T03:35:12.007445+00:00"
-  },
-  {
-   "fp": "bond crude prices rise slump stocks yields",
-   "title": "Stocks Slump as Bond Yields Rise With Crude Prices",
-   "source": "WSJ",
-   "at": "2026-08-26T03:52:46.240354+00:00"
-  },
-  {
-   "fp": "backed governor mazzei oklahoma primary race runoff trump wins",
-   "title": "Trump-backed Mazzei wins GOP primary runoff in Oklahoma governor race",
-   "source": "Washington Examiner",
-   "at": "2026-08-26T03:52:48.016798+00:00"
-  },
-  {
-   "fp": "backed defeats drummond governor mazzei oklahoma runoff trump",
-   "title": "Trump-backed Mazzei defeats Drummond in Oklahoma governor GOP runoff",
-   "source": "The Hill",
-   "at": "2026-08-26T03:52:49.683567+00:00"
-  },
   {
    "fp": "carolina primary republican senate south takeaways three tuesday",
    "title": "Three takeaways from Tuesday's South Carolina Republican Senate primary",
@@ -3201,15 +3165,45 @@
    "title": "Police chief fired amid controversy in aftermath of child\u2019s shooting in a small Mississippi city",
    "source": "AP",
    "at": "2026-09-02T21:51:29.236995+00:00"
+  },
+  {
+   "fp": "canada doubles down live politics remain stalled talks trade trump",
+   "title": "Trump doubles down on Canada trade war as talks remain stalled \u2013 US politics live",
+   "source": "Guardian World",
+   "at": "2026-09-02T23:00:11.277074+00:00"
+  },
+  {
+   "fp": "about losing majority realist senate thune worries",
+   "title": "Thune says he worries about losing Senate majority: 'I\u2019m a realist'",
+   "source": "The Hill",
+   "at": "2026-09-02T23:00:13.074936+00:00"
+  },
+  {
+   "fp": "budget commission committee debt fiscal trillion weigh wrangle",
+   "title": "Budget Committee to weigh fiscal commission to wrangle $40 trillion debt",
+   "source": "Washington Examiner",
+   "at": "2026-09-02T23:00:15.554723+00:00"
+  },
+  {
+   "fp": "finance know summit things",
+   "title": "5 things to know from G20 finance summit",
+   "source": "The Hill",
+   "at": "2026-09-02T23:00:17.624589+00:00"
+  },
+  {
+   "fp": "escalation gains iran rise stocks",
+   "title": "U.S. Stocks Rise as Oil Gains on Iran Escalation",
+   "source": "WSJ",
+   "at": "2026-09-02T23:00:19.530078+00:00"
+  },
+  {
+   "fp": "east fray middle rise stocks tensions",
+   "title": "Stocks Rise As Middle East Tensions Fray",
+   "source": "WSJ",
+   "at": "2026-09-02T23:00:23.011502+00:00"
   }
  ],
  "titles": [
-  "accountability alex calls family fatal months pretti shooting",
-  "children dead dinner eight family fire four including montana opens",
-  "agreement arabia civil congress nuclear review saudi sources submitted trump",
-  "bond crude prices rise slump stocks yields",
-  "backed governor mazzei oklahoma primary race runoff trump wins",
-  "backed defeats drummond governor mazzei oklahoma runoff trump",
   "carolina primary republican senate south takeaways three tuesday",
   "asian hesitant hopes hormuz nvidia slips stocks",
   "carolina darline graham pick runoff senate south trump wins",
@@ -3603,6 +3597,12 @@
   "code court didn dress labor rights rules starbucks violate workers",
   "abolish alive amendment constitutional court dems dream justices keep kill supreme",
   "carrying emergency engine failure landing makes markwayne mullin plane secretary",
-  "aftermath chief child city controversy fired mississippi police shooting small"
+  "aftermath chief child city controversy fired mississippi police shooting small",
+  "canada doubles down live politics remain stalled talks trade trump",
+  "about losing majority realist senate thune worries",
+  "budget commission committee debt fiscal trillion weigh wrangle",
+  "finance know summit things",
+  "escalation gains iran rise stocks",
+  "east fray middle rise stocks tensions"
  ]
 }
