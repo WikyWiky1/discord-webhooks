@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#0",
   "CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ",
   "CBMiqAFBVV95cUxNQ1JVSm5OR29tOGpBUjREbXZ5VWR3Mkc3RE5CMUUzdHhQUTdGZDhNQUZmcUpEdXJZN2lwSWVSTWxNeUJPQ1FyTHk5d1pUQXk2V2p6c1FqNDNjdENIQ2RSMEJiTk01bDlUbkVCWW9sOEphVFJNdUt0d09RV3pEUjdzT3JXZHNYSVdsNG83MUFVcU81VUxic3VkQmJDWlJfWlo2TWthaEYzcXY",
   "CBMipAFBVV95cUxPNElkR3pOSTFqRWZGRi15UVU1WGpBV3ZYb0FORlVRV0VPWncxRHo3bkZiQnhSU2k1dW5henEwM1M1MnJBLU1Rd2kza3FFUXc3N1ZrOUZOZ3lXM2dKLXNqNk9NaTBJY0VfYUl5YWtiT2ZJNE5BODJEekJzeGcyRzJrUjFVUm1jMWlzRUNmbFE1VWZ4ZWh2aTAzT3JYcEg2YWZaYmVJaw",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/australia-news/2026/sep/02/sydney-fatal-shooting-merrylands-west-possible-mistaken-identity-police-say-ntwnfb",
   "https://thehill.com/?p=6062939",
   "https://thehill.com/?p=6064417",
-  "https://www.theguardian.com/us-news/2026/sep/02/new-mexico-man-fatal-bear-attack"
+  "https://www.theguardian.com/us-news/2026/sep/02/new-mexico-man-fatal-bear-attack",
+  "CBMimgFBVV95cUxPWWNTU3lIOXZZYUxDX25PV2NXWWIwTExzeXZsRjZOYUtSaTJCUTFnaW9JbGlIcHUtdlJ3dUsxYm90WDNhRVBXeENvdWNzc0RVSzhTeGtrLWFSZVRYeG8yWnlLcmIwcFZjWnFLOG9iT0RrbE9UcW02NVlBREItNUVFWUN2ejJON1RnRTAzSVB1YjBSLWstUnZRblh3"
  ],
  "posts": [
-  {
-   "fp": "boomtown california coffin council final nail overruled recall",
-   "title": "Final nail in the coffin for California oil boomtown\u2019s council that overruled its own recall",
-   "source": "New York Post",
-   "at": "2026-08-25T21:56:29.022476+00:00"
-  },
   {
    "fp": "claims clancy facts final inconsistent kill lindsay markedly murder points surrounding told trial voice witness",
    "title": "Final witness in Lindsay Clancy\u2019s murder trial points to \u2018markedly inconsistent\u2019 facts surrounding voice she claims told her to kill",
@@ -3201,10 +3195,15 @@
    "title": "Family pays tribute to New Mexico man killed by bear: \u2018He was a strong person\u2019",
    "source": "Guardian World",
    "at": "2026-09-02T11:41:10.028808+00:00"
+  },
+  {
+   "fp": "dark evidence found matter scientists time",
+   "title": "Scientists may have found evidence of dark matter for first time",
+   "source": "Telegraph",
+   "at": "2026-09-02T15:07:01.144114+00:00"
   }
  ],
  "titles": [
-  "boomtown california coffin council final nail overruled recall",
   "claims clancy facts final inconsistent kill lindsay markedly murder points surrounding told trial voice witness",
   "abused allowed bars behind guard inmate island jail just lands long months repeatedly resign sexually",
   "breaking bring dangerous dome expected heat record south temperatures west",
@@ -3603,6 +3602,7 @@
   "another case fatal identity mistaken police shooting sydney",
   "impeachment inevitable kind looks third trump",
   "again bill dead hits house roadblocks russia sanctions",
-  "bear family killed mexico pays person strong tribute"
+  "bear family killed mexico pays person strong tribute",
+  "dark evidence found matter scientists time"
  ]
 }
