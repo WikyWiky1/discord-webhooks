@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40444744",
-  "CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF",
-  "CBMingFBVV95cUxOdGtIZDBRdHpXTmhwLUE0d3FWb24tNTVoTk0zNWREcXZUVkhKSl9XWDhabjFjNHlHZFJVQ05wdEk3dm9nX1F6cFBzRGJ5Z0dYeWYzZjVsZm5SZjl6MEpGTDF4eWVqTzExSDZFZXFDeUpOMm94VnNzQTVkbVFfQnN5V1Nlb09aRGhvZkRkaUZFWEZBcFg0SDdRcmpNRlBYdw",
-  "https://nypost.com/?post_type=article&p=40444722",
-  "https://nypost.com/?post_type=article&p=40444960",
-  "https://nypost.com/?post_type=article&p=40446411",
   "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb",
   "CBMinAFBVV95cUxPZ1VqMXNlMnp0alRkYnpKcDJPQ3RPbE5qOElKdFlySkFLQVFERk5SYWpUd0M2ejlDazNnbVI1b01yTGZkXzlKMExtaWM1VmtvLUp4TVdQd05kVVJfMmE2V2s5MGFFSEw2dTFJZWZCTG5CdXhkbWItaldsMi14Qk5ONk8yVGdwR3MzbE9jd3FRVmtJR3E1bXdvZXBQeFo",
   "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo#0",
@@ -799,45 +793,15 @@
   "CBMiyAFBVV95cUxNczY1ckdkVjh3T3JHVXRVZHByZ0pRdlpCOURoYmN0dTB5NF9mUVMtVEVyUkxFbmFlU1hVV3NPMGZld2hJSEwtTkxDVWdST2ExTWJJRWw4YnVIOWdlRFZnMmdPb2dnSU5Jc1hYMjZaUWFza2thWnBQemhsSVdVekxYSW9RWlNYSGluRnRNTXJaZWZPNHAwbldITTIwUXVUbElMQjdYN2ZLVVFsRExKbDVpYVZEeURSN1JnUU01RlhSbzJpVjNSUWlPVA",
   "https://news.sky.com/story/sixteen-people-killed-in-bus-crash-in-egypts-south-sinai-area-13580237",
   "https://nypost.com/?post_type=article&p=40620743",
-  "https://nypost.com/?post_type=article&p=40620996"
+  "https://nypost.com/?post_type=article&p=40620996",
+  "https://www.washingtonexaminer.com/?p=4709133",
+  "https://nypost.com/?post_type=article&p=40612739",
+  "https://www.washingtonexaminer.com/?p=4707896",
+  "https://thehill.com/?p=6064611",
+  "https://www.theguardian.com/business/2026/sep/02/range-rover-launches-first-electric-vehicle",
+  "CBMiYkFVX3lxTFBFMXVIcDBYcTd3ckJsQTJfUS1HMUtOZnY0eFdVVXJxUUdwQV9hSzkzU2dUSFVnVjdQc05sQU9mcnR3aC1pNGFNQ3FWY0hOVDZJdlhqdkszQUxyS0gtSWk5T0JB"
  ],
  "posts": [
-  {
-   "fp": "aimed backed datacenter impact negative paxton plan texas trump unveils",
-   "title": "Trump-backed Ken Paxton unveils \u2018Texas first\u2019 datacenter plan aimed at \u2018negative impact\u2019",
-   "source": "Guardian World",
-   "at": "2026-08-25T18:38:20.505376+00:00"
-  },
-  {
-   "fp": "calling candidates center data joining other paxton plan restrictions unveils",
-   "title": "Paxton unveils data center plan, joining other GOP candidates in calling for restrictions",
-   "source": "The Hill",
-   "at": "2026-08-25T18:38:22.374549+00:00"
-  },
-  {
-   "fp": "china denounces iran sanctions threat trade",
-   "title": "China denounces US threat of sanctions over trade with Iran",
-   "source": "Guardian World",
-   "at": "2026-08-25T18:38:24.163311+00:00"
-  },
-  {
-   "fp": "build complex louisiana rocket spacex starship",
-   "title": "SpaceX to build Starship rocket complex in Louisiana",
-   "source": "Reuters",
-   "at": "2026-08-25T18:38:25.895267+00:00"
-  },
-  {
-   "fp": "another attack blow lockerbie relatives victims",
-   "title": "Another blow to the relatives of Lockerbie attack victims",
-   "source": "Telegraph",
-   "at": "2026-08-25T18:59:16.151074+00:00"
-  },
-  {
-   "fp": "family heartbroken killed massacre montana shooting speaks",
-   "title": "Heartbroken dad in Montana family massacre speaks out after 8 killed in shooting",
-   "source": "New York Post",
-   "at": "2026-08-25T20:32:12.740207+00:00"
-  },
   {
    "fp": "attacked hormuz iran protected retaliation route sanctions sneak strait tanker through tried vowed",
    "title": "Oil tanker attacked as it tried to sneak through Strait of Hormuz via US-protected route \u2014 after Iran vowed retaliation for sanctions",
@@ -3201,15 +3165,45 @@
    "title": "Yankees rebound from ugly loss with balanced attack in win over Angels",
    "source": "New York Post",
    "at": "2026-09-02T06:23:10.772223+00:00"
+  },
+  {
+   "fp": "choose democrats leftism markey primary shows youth",
+   "title": "Ed Markey\u2019s big primary win shows Democrats choose leftism over youth",
+   "source": "Washington Examiner",
+   "at": "2026-09-02T10:44:40.996314+00:00"
+  },
+  {
+   "fp": "covid doctor fauci force oath physician push shutdowns tells vaccine violated",
+   "title": "Fauci \u2018violated\u2019 physician oath with COVID shutdowns, vaccine push, top doctor tells Pod Force One",
+   "source": "New York Post",
+   "at": "2026-09-02T10:44:42.805222+00:00"
+  },
+  {
+   "fp": "election firewall germany right state tests",
+   "title": "A state election tests Germany\u2019s far-right firewall",
+   "source": "Washington Examiner",
+   "at": "2026-09-02T10:44:44.653580+00:00"
+  },
+  {
+   "fp": "agenda balloons congress duck election lame priorities punts until",
+   "title": "Lame-duck agenda balloons as Congress punts priorities until after election",
+   "source": "The Hill",
+   "at": "2026-09-02T10:44:46.435319+00:00"
+  },
+  {
+   "fp": "electric launches price range rover starting vehicle",
+   "title": "Range Rover launches its first electric vehicle, with starting price of \u00a3154,070",
+   "source": "Guardian World",
+   "at": "2026-09-02T10:44:48.263394+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-09-02T10:44:50.125197+00:00"
   }
  ],
  "titles": [
-  "aimed backed datacenter impact negative paxton plan texas trump unveils",
-  "calling candidates center data joining other paxton plan restrictions unveils",
-  "china denounces iran sanctions threat trade",
-  "build complex louisiana rocket spacex starship",
-  "another attack blow lockerbie relatives victims",
-  "family heartbroken killed massacre montana shooting speaks",
   "attacked hormuz iran protected retaliation route sanctions sneak strait tanker through tried vowed",
   "carolina graham live norman results runoff senate south square",
   "governor live oklahoma primary results runoff seeks trump",
@@ -3603,6 +3597,12 @@
   "backed congress elections excluding nicaraguan opposition ortega passes reform",
   "area crash egyptian killed people popular sixteen tourists",
   "accused affair allegedly exposed girlfriend illegal immigrant killed salvadoran stabbing virginia worker",
-  "angels attack balanced loss rebound ugly yankees"
+  "angels attack balanced loss rebound ugly yankees",
+  "choose democrats leftism markey primary shows youth",
+  "covid doctor fauci force oath physician push shutdowns tells vaccine violated",
+  "election firewall germany right state tests",
+  "agenda balloons congress duck election lame priorities punts until",
+  "electric launches price range rover starting vehicle",
+  "edition journal print street wall"
  ]
 }
