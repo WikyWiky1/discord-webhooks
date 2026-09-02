@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMi3gFBVV95cUxPVFlxeFAyUWRzRllpVGluQjZlYlUwZjROV2w1TFphQmN4MjFISnNyZTBPaDlzYk15Y25XWUViOG1ZcU0yNHRTa2NydHlVWS1NSnVUTEJ3LTJOX2I2VmpfMDJ3ejhKR2tNV3g2MWR2OEZuVWdQbWIweko4dEc2cVAtUURQUlNad0tJNzdsQjZ0eUVuWEJ1MFdPMEtrWGlhYVZxNmVHemRmQ2xNYXdOTE1fNG91Q0htUUYyRTE1TElhVEpsdWtveXVIcVBQMTJCUnUwdlVWUVA4ZUtwNkVKNnc",
-  "https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo#1",
-  "https://news.sky.com/story/more-than-2500-dead-in-dr-congo-un-says-as-ebola-spreading-to-area-bigger-than-france-13575338",
   "https://nypost.com/?post_type=article&p=40442219",
   "https://news.sky.com/story/man-accused-of-failing-to-disclose-information-over-manchester-synagogue-attack-denies-charge-13575376",
   "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40614732",
   "https://www.washingtonexaminer.com/?p=4708539",
   "https://thehill.com/?p=6064658",
-  "https://www.theguardian.com/us-news/2026/sep/01/dan-driscoll-resignation-hegseth"
+  "https://www.theguardian.com/us-news/2026/sep/01/dan-driscoll-resignation-hegseth",
+  "https://nypost.com/?post_type=article&p=40618702",
+  "https://nypost.com/?post_type=article&p=40613574",
+  "CBMiiAFBVV95cUxQODVvcmNHVFpnZlZ4Q2ItSllvVjJjVENYTURRQUU3VG9uU2x4QTNCamwyTWVhN2lxLUFZRDg1Vy0zelpKT1p6Y2s3cmFVZ0puNnlyWTBKSlo1SXc0cThBSU16cXhyZHo2aE81SUZnb3VOYXU1RnVEc0taOXNjR1ptRF9TMk80Zjkx"
  ],
  "posts": [
-  {
-   "fp": "deaths grows measles outbreak pennsylvania reports year",
-   "title": "Pennsylvania reports first U.S. measles deaths this year as outbreak grows",
-   "source": "Reuters",
-   "at": "2026-08-25T16:58:30.787167+00:00"
-  },
-  {
-   "fp": "billings blaze call details harrowing horror house killed least montana reveals shooting",
-   "title": "Harrowing 911 call reveals horror details of Billings house shooting and blaze that killed at least 8 in Montana",
-   "source": "New York Post",
-   "at": "2026-08-25T17:33:06.999404+00:00"
-  },
-  {
-   "fp": "also fire home killed montana multiple officials people shooting",
-   "title": "Multiple people killed in shooting at Montana home also set on fire, officials say",
-   "source": "Guardian World",
-   "at": "2026-08-25T17:33:08.767602+00:00"
-  },
   {
    "fp": "catch cheater ending explained hannah killed",
    "title": "\u2018To Catch a Cheater\u2019 Ending Explained: Who Killed Hannah?",
@@ -3201,12 +3183,27 @@
    "title": "Democrats warn of \u2018hollowed out\u2019 leadership after army chief resigns amid clashes with Hegseth",
    "source": "Guardian World",
    "at": "2026-09-01T23:32:15.528584+00:00"
+  },
+  {
+   "fp": "california crash evacuation issued orders sparks urgent wildfire",
+   "title": "Car crash sparks California wildfire as urgent evacuation orders issued",
+   "source": "New York Post",
+   "at": "2026-09-02T01:20:46.553152+00:00"
+  },
+  {
+   "fp": "featuring heroes honored killed memorial nypd recovered rededication rubble wall",
+   "title": "NYPD ESU heroes killed on 9/11 honored with memorial wall rededication featuring cop\u2019s gun recovered from rubble",
+   "source": "New York Post",
+   "at": "2026-09-02T01:20:48.245870+00:00"
+  },
+  {
+   "fp": "about assassination attempted christian podcast talks times trump vance",
+   "title": "Vance talks about the end times and the attempted assassination of Trump in Christian podcast",
+   "source": "AP",
+   "at": "2026-09-02T01:20:50.114721+00:00"
   }
  ],
  "titles": [
-  "deaths grows measles outbreak pennsylvania reports year",
-  "billings blaze call details harrowing horror house killed least montana reveals shooting",
-  "also fire home killed montana multiple officials people shooting",
   "catch cheater ending explained hannah killed",
   "chemical complex fire injured killed russian three",
   "assassination back cheered columnist gets kirk post washington",
@@ -3603,6 +3600,9 @@
   "14th execution florida girl killed monster scheduled slaughtered teen year",
   "ahead charlie doubt judge killed kirk prosecutors robinson ruling tyler",
   "army driscoll hegseth imposes resignation",
-  "army chief clashes democrats hegseth hollowed leadership resigns warn"
+  "army chief clashes democrats hegseth hollowed leadership resigns warn",
+  "california crash evacuation issued orders sparks urgent wildfire",
+  "featuring heroes honored killed memorial nypd recovered rededication rubble wall",
+  "about assassination attempted christian podcast talks times trump vance"
  ]
 }
