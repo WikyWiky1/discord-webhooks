@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/uk-news/2026/aug/21/girl-six-dies-three-days-after-being-pulled-from-sea-off-sussex-coast",
   "CBMiqgFBVV95cUxPalBGMXdHd2U2SzZaXzRGTE1oZkhJWmJRN2g4eDh5cnF0U21kemp4dHAzemRvSU5VcWM4WWhLT3RkWVducEcxLWktcTF0dHMyQWo3QmtIMkJabUloSUxNWVBreVA0MlR2eTQyM19FenU1RzA4MHlwcHJpZ05tQV9YaGczZHlPa2NYY3dhX0d1eUg0bUw5M1ZqM25qYlg4QURhQk5rMGRkc0FQdw",
   "https://news.sky.com/story/sword-wielding-attacker-injures-several-people-at-swedish-school-13575399",
   "https://nypost.com/?post_type=article&p=40454235",
@@ -799,15 +798,10 @@
   "CBMimwFBVV95cUxQZFhxN2I2TC1pb180UEJRbUVDNWtzenZ2MDFTWUlTZFdUSm1oZ2UtSVE4ZDhud1ltbEtiM3lIak5KaHNfM0FaM20zSUx0TE9LRUNjY2E4WjlES2N5eHFSTzBfTkhKN19rQU9ldlNXZVhwVzVMRkFQbE4tQjhySk81cVVXVm9kMlR5Qm82MDJ3SkFfMll1NzVPQU42RQ",
   "https://www.theguardian.com/us-news/2026/sep/02/downtown-minneapolis-shooting",
   "CBMitwFBVV95cUxOZjM3c0tQdWJuallWaFZ6VVpjdVpSWWJNemRMcFNnM2oxS1hfSFYyTDZBdFdrVzRCVnFNUkRZQ1ppS193OXdHMFVHbVN6UXZtTTlidl8yMzF4Zy1KQ2VxQ1NWeE5ZUmozVTJ5TTlycGpBbTZMZWd3OW5LUmhsTXZPWFQxSk02aXEyU0dEOXRwd0xtVlNWbWtyYmptX3ItUDhwVlpUeUZxUWQ0eXo3LUNGdmtjMFR5b28",
-  "CBMiqAFBVV95cUxNLU1NbC1FZVV0Q095Zm1Dd05iR1FUQS10bDd5UllGRWdPMjYyY2lOV1JYUzdHOWFWMEREbUtjaHpZLVVTbXBhdUJheWxOa0tEaDZLVl80ZXNvako2bW9XYjJJMHF6dkVOSVR2WFhNM0JQYWc4ZDUyMExoQXdYYnhSVkFWOGtQV1Q1enN5dmFkakg5alRfRTVabFUwS0V5RkhEY0xmdlMzUHo"
+  "CBMiqAFBVV95cUxNLU1NbC1FZVV0Q095Zm1Dd05iR1FUQS10bDd5UllGRWdPMjYyY2lOV1JYUzdHOWFWMEREbUtjaHpZLVVTbXBhdUJheWxOa0tEaDZLVl80ZXNvako2bW9XYjJJMHF6dkVOSVR2WFhNM0JQYWc4ZDUyMExoQXdYYnhSVkFWOGtQV1Q1enN5dmFkakg5alRfRTVabFUwS0V5RkhEY0xmdlMzUHo",
+  "https://thehill.com/?p=6067788/"
  ],
  "posts": [
-  {
-   "fp": "captured chucky citizens manhunt masked philadelphia sicko terrorized vegas week",
-   "title": "Chucky-masked sicko who terrorized Philadelphia citizens is captured in Vegas after 2-week manhunt",
-   "source": "New York Post",
-   "at": "2026-08-26T05:51:42.221242+00:00"
-  },
   {
    "fp": "allegedly attack care girl heinous home queensland raped residential teenage",
    "title": "Teenage girl allegedly raped in \u2018heinous\u2019 attack at Queensland residential care home",
@@ -3201,10 +3195,15 @@
    "title": "Saudi Nuclear Agreement Could Open a Path to 20% Enrichment",
    "source": "WSJ",
    "at": "2026-09-02T23:44:52.752271+00:00"
+  },
+  {
+   "fp": "apartment building dead killed minneapolis people shooting suspect",
+   "title": "2 people killed, suspect dead after shooting in Minneapolis apartment building",
+   "source": "The Hill",
+   "at": "2026-09-03T02:25:20.437621+00:00"
   }
  ],
  "titles": [
-  "captured chucky citizens manhunt masked philadelphia sicko terrorized vegas week",
   "allegedly attack care girl heinous home queensland raped residential teenage",
   "alaska appear ballot elections midterm november senate sullivans",
   "advances alaska incumbent name primary republican same senate sullivan",
@@ -3603,6 +3602,7 @@
   "authorities downtown leaves minneapolis multiple people shooting wounded",
   "dead downtown injured minneapolis multiple shooting",
   "carrying chief emergency homeland landing makes markwayne mullin plane security",
-  "agreement enrichment nuclear open path saudi"
+  "agreement enrichment nuclear open path saudi",
+  "apartment building dead killed minneapolis people shooting suspect"
  ]
 }
