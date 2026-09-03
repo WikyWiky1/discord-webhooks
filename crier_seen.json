@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://news.sky.com/story/sword-wielding-attacker-injures-several-people-at-swedish-school-13575399",
-  "https://nypost.com/?post_type=article&p=40454235",
   "https://www.washingtonexaminer.com/?p=4697055",
   "CBMiwgFBVV95cUxOT01kSkU3cVNUeWpQV1lRYlNGUHhLSmFqakFqak5RR1ZvTWptWXRxN3hORmtaTTlFUTJZbW5ZMTJueDhqWFJodHYxbHUySTk5ZDk1UGhvVzlELTZmallpY1ZKT3hBcjYtWko3bFc4a0k3U2Fwc2NoLWt1ZC1FV3dpZVZmWmg1SkNVcUtHWkRWVmlXcTJ3V19OYzhNLXY3X0ZCTEhod0VqZnh5U0JYdXFoRTJKcUZTUlBfWm8zRDBCVV96UQ",
   "CBMirwFBVV95cUxON0pPVVFlN2tNRkljUDRXUmxkZ0xiUDdCMHFpcDdoQjE0UFJHZEdfV3VuaS1mOXhFMG5qN2FiZVN5ZE5taDJLX0tsdC1QbzVnQ1lkVDV1VXpyeGdUbjI0MXJoRnZnS0tsWkNxN21MSm4yS1JXdFltYkh6d2E4VE9TTzFCV1I3LS1yektxVzJ1Nm5LZ3duaHpLX21EYTJlWVBTQVBUYmI2YnV0RXJaRndZ",
@@ -799,21 +797,11 @@
   "CBMitwFBVV95cUxOZjM3c0tQdWJuallWaFZ6VVpjdVpSWWJNemRMcFNnM2oxS1hfSFYyTDZBdFdrVzRCVnFNUkRZQ1ppS193OXdHMFVHbVN6UXZtTTlidl8yMzF4Zy1KQ2VxQ1NWeE5ZUmozVTJ5TTlycGpBbTZMZWd3OW5LUmhsTXZPWFQxSk02aXEyU0dEOXRwd0xtVlNWbWtyYmptX3ItUDhwVlpUeUZxUWQ0eXo3LUNGdmtjMFR5b28",
   "CBMiqAFBVV95cUxNLU1NbC1FZVV0Q095Zm1Dd05iR1FUQS10bDd5UllGRWdPMjYyY2lOV1JYUzdHOWFWMEREbUtjaHpZLVVTbXBhdUJheWxOa0tEaDZLVl80ZXNvako2bW9XYjJJMHF6dkVOSVR2WFhNM0JQYWc4ZDUyMExoQXdYYnhSVkFWOGtQV1Q1enN5dmFkakg5alRfRTVabFUwS0V5RkhEY0xmdlMzUHo",
   "https://thehill.com/?p=6067788/",
-  "https://news.sky.com/story/britain-warned-its-in-deeply-uncomfortable-fiscal-position-ahead-of-challenging-budget-13580664"
+  "https://news.sky.com/story/britain-warned-its-in-deeply-uncomfortable-fiscal-position-ahead-of-challenging-budget-13580664",
+  "https://nypost.com/?post_type=article&p=40640523",
+  "CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ"
  ],
  "posts": [
-  {
-   "fp": "alaska appear ballot elections midterm november senate sullivans",
-   "title": "Two Dan Sullivans to appear on Alaska\u2019s US Senate ballot in November\u2019s midterm elections",
-   "source": "Guardian World",
-   "at": "2026-08-26T06:48:29.175552+00:00"
-  },
-  {
-   "fp": "advances alaska incumbent name primary republican same senate sullivan",
-   "title": "Republican with same name as incumbent Dan Sullivan advances from Alaska US Senate primary",
-   "source": "AP",
-   "at": "2026-08-26T06:48:30.943228+00:00"
-  },
   {
    "fp": "back canada clear pull trade",
    "title": "The US and Canada could pull back from an all-out trade war. It\u2019s not clear that they will",
@@ -3201,11 +3189,21 @@
    "title": "'Deeply uncomfortable' fiscal position facing UK ahead of crucial budget",
    "source": "Sky News",
    "at": "2026-09-03T03:11:39.106161+00:00"
+  },
+  {
+   "fp": "alaska dead found homes missing teens vanishing woods",
+   "title": "Missing Alaska teens found dead in woods after vanishing from their homes",
+   "source": "New York Post",
+   "at": "2026-09-03T07:21:45.870206+00:00"
+  },
+  {
+   "fp": "civilian concern death escalation iran raises toll",
+   "title": "Iran war escalation raises concern over civilian death toll",
+   "source": "Reuters",
+   "at": "2026-09-03T07:21:47.795585+00:00"
   }
  ],
  "titles": [
-  "alaska appear ballot elections midterm november senate sullivans",
-  "advances alaska incumbent name primary republican same senate sullivan",
   "back canada clear pull trade",
   "anzio bessent iran response sanctions",
   "fire hospital kills newborns nursery pakistani",
@@ -3603,6 +3601,8 @@
   "carrying chief emergency homeland landing makes markwayne mullin plane security",
   "agreement enrichment nuclear open path saudi",
   "apartment building dead killed minneapolis people shooting suspect",
-  "ahead budget crucial deeply facing fiscal position uncomfortable"
+  "ahead budget crucial deeply facing fiscal position uncomfortable",
+  "alaska dead found homes missing teens vanishing woods",
+  "civilian concern death escalation iran raises toll"
  ]
 }
