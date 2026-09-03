@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
-  "https://nypost.com/?post_type=article&p=40462728",
-  "https://decider.com/2026/08/22/9-11-reunited-hulu-disney-plus-reivew/",
-  "https://nypost.com/?post_type=article&p=40463103",
   "CBMiZkFVX3lxTFBmLUxvSFpVNUladXRERWZBYjRxQmZSYWxYSUpjLV9lQmlYYnFyRHVKbllGVENZbFZfXzJnTnlITEROUnZkZ282czB2eFV3czR0NVIzR0h0NXJHVi1GMFZLMTlGYzlTdw",
   "CBMimAFBVV95cUxQOGtQcDVjdTV2eHcyVHkzX05sdi01dDJyeVdUMzR1WU5mem1Vb01oU09GWXlpNjhlYXZTWVFhSzJhVTQ0TG1QeXZ5dDR0bXFUc0dkeFRxLUUydXlTUjJEMlNKdWJ6b2JOT19mUkxsQlAweHBvRDhuaWNWOWlwekFXdF9TT0diTUl3SlFjUDlyMWprRkNxSUFGOA",
   "CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr",
@@ -799,33 +795,13 @@
   "CBMixAFBVV95cUxOY3YyX3ZrWEpvNDBpWDV1SGZTNS1OM1AwTEVDV1JRa2tqcGF6dXA0YWZpTU56aE9RUzVSd3RzUEQ0SHBNbW5QMkN2WjVsUG9QWUIzc2pac1NVNVlXemdqU0NZVWgxSTZTTGdTZk9Jb1hKZG1iZVZYazd3MlhWLXcwQ0pwMTVTRG5RMUpGbTAzV3hoUkpmMG1JRDZyVk91eUtMRTNJcHdEWVdYTTZwelgxTHBtc3JnS0VOLTJ3NWFYRGxzdnFs",
   "CBMiywFBVV95cUxPSjkyUlVZVWtXbzM4ajNJcHdTVjlIYjdzaExfLS1ubXlsNGdkSUY1X2ItTjhhVkNaaXdDbGZqdjc2QnV0VkgySlRCWXpBWDV0UUZvYTYyMEd5b3NIYl83UWdYNVJLWkVBRTNETUtjWlNwVVJMcXNGVDZWcGoxWGxaLWlaUEpuM1BET1Z3WC15cDVvdHF0dDNBMzFSUno2R0FrZTZVYmZDNUlSZXVUVGtCT1dNNzVvMGNEdWdFTG52bTdyNTBjeEVRekdGTQ",
   "CBMikgFBVV95cUxON3hVMWlxbFFiWnBrRjNhc2g1ekVTOEsxT0NyRGU2ZkZSenBBYWxVbGFzTjl1TERRb1ZhV3NYR2dzWk80aVFGNlNXcnVmNHVEWkFhSzVVWXNzUXZOcE1mUFV6dFZXR3UyYUZyQ0pzYzJWZVVjY2VEUURBcUhiTjN5dDhDMUVXOFZFdlhUcjI2MEZsZw",
-  "https://thehill.com/?p=6070144"
+  "https://thehill.com/?p=6070144",
+  "CBMixAFBVV95cUxQUEFXVU5xRXZGVUVkV3B2TUVQcTBseVZsSGd0blBwQktIaGlIc3R5TzMtNXFISkFTb1VOdlhWOXBmQ052RWFuT1pQaXJqQndNaXB3TmhLQTZPQXNQSFFXQ3JGY0NBdE1RY09razBPZFh2VnJiYmlBSld3akdLeHZxbVA5bWNqVWFycjFlUHFNd3VPdE4tYTFVaWxmdDBoOUlxUk80X0dkbkFqOV9SU3lxNkFsd0JGZnB5Qk9SV3JGWkxRWlhn",
+  "https://thehill.com/?p=6070592",
+  "https://thehill.com/?p=6070569",
+  "https://nypost.com/?post_type=article&p=40654070"
  ],
  "posts": [
-  {
-   "fp": "airlines expansion international major united unveils",
-   "title": "United Airlines unveils major international expansion",
-   "source": "The Hill",
-   "at": "2026-08-26T16:17:25.071584+00:00"
-  },
-  {
-   "fp": "bank democrats netanyahu press senate surge violence west",
-   "title": "Senate Democrats press Netanyahu on 'surge' in West Bank violence",
-   "source": "The Hill",
-   "at": "2026-08-26T16:17:26.830576+00:00"
-  },
-  {
-   "fp": "broke chinese department federal hackers justice nasa reserve senate",
-   "title": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate and more",
-   "source": "Reuters",
-   "at": "2026-08-26T16:17:28.582728+00:00"
-  },
-  {
-   "fp": "cash earnings fields gold higher jump prices returns shareholders",
-   "title": "Gold Fields Returns More Cash to Shareholders as Earnings Jump on Higher Prices",
-   "source": "WSJ",
-   "at": "2026-08-26T16:17:30.640442+00:00"
-  },
   {
    "fp": "dead doubts good iran khamenei leader mojtaba pretty putting show supreme trump",
    "title": "Trump doubts Iran\u2019s Supreme Leader Mojtaba Khamenei is dead: \u2018If he is, they\u2019re putting on a pretty good show\u2019",
@@ -3201,13 +3177,33 @@
    "title": "Rove: 'Time is running out' for Paxton in Texas Senate race",
    "source": "The Hill",
    "at": "2026-09-03T22:59:21.573945+00:00"
+  },
+  {
+   "fp": "analysis deadly direct iranian likely munition shows strike wedding",
+   "title": "Deadly strike on Iranian wedding was likely a direct hit by a US munition, analysis shows",
+   "source": "Reuters",
+   "at": "2026-09-03T23:43:27.409170+00:00"
+  },
+  {
+   "fp": "acting announces army driscoll following resignation secretary telle trump",
+   "title": "Trump announces Telle as acting Army Secretary following Driscoll's resignation",
+   "source": "The Hill",
+   "at": "2026-09-03T23:43:29.132331+00:00"
+  },
+  {
+   "fp": "attack extremely iran reports skeptical vance wedding",
+   "title": "Vance 'extremely skeptical' of Iran wedding attack reports",
+   "source": "The Hill",
+   "at": "2026-09-03T23:43:30.892583+00:00"
+  },
+  {
+   "fp": "buildings coming dead derelict expert landlord mamdani property sale takes transfers victory warns",
+   "title": "Mamdani takes victory lap over sale of dead landlord\u2019s derelict buildings, as expert warns more property \u2018transfers\u2019 coming",
+   "source": "New York Post",
+   "at": "2026-09-03T23:43:32.547043+00:00"
   }
  ],
  "titles": [
-  "airlines expansion international major united unveils",
-  "bank democrats netanyahu press senate surge violence west",
-  "broke chinese department federal hackers justice nasa reserve senate",
-  "cash earnings fields gold higher jump prices returns shareholders",
   "dead doubts good iran khamenei leader mojtaba pretty putting show supreme trump",
   "charges covid federal fraud indicted legislator massachusetts state",
   "assassination claims iran netanyahu targeted",
@@ -3603,6 +3599,10 @@
   "both chance cites countries deal negotiators peace putin visit zelenskiy",
   "firms house paris pressures skip sources space summit white",
   "bonds comments dovish rally stocks",
-  "paxton race rove running senate texas time"
+  "paxton race rove running senate texas time",
+  "analysis deadly direct iranian likely munition shows strike wedding",
+  "acting announces army driscoll following resignation secretary telle trump",
+  "attack extremely iran reports skeptical vance wedding",
+  "buildings coming dead derelict expert landlord mamdani property sale takes transfers victory warns"
  ]
 }
