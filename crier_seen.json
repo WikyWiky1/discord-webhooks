@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40457518",
-  "https://nypost.com/?post_type=article&p=40458605",
-  "https://nypost.com/?post_type=article&p=40459767",
-  "https://nypost.com/?post_type=article&p=40460187",
   "https://nypost.com/?post_type=article&p=40460844",
   "https://nypost.com/?post_type=article&p=40460196",
   "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
@@ -799,33 +795,13 @@
   "https://nypost.com/?post_type=article&p=40641012",
   "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
   "CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw",
-  "CBMimAFBVV95cUxPRm1qUndzRGJ6NHpzRWZueGRlcTNFS0tCb2RQakc0ZWZnUlBjUkJJM2d5RGM3eEJOelBwc21LME4xazIxc1ktTzVPOVNjNWxrb3hYenFkemtuR1R2Q3Rvajk1Tmd1RDZLX2lnT1F2TGxldDBDXzFOM2plMmxPLWpUaVZJVEt6RHRYSGtVcVA1TGRqRjB3NWY0OA"
+  "CBMimAFBVV95cUxPRm1qUndzRGJ6NHpzRWZueGRlcTNFS0tCb2RQakc0ZWZnUlBjUkJJM2d5RGM3eEJOelBwc21LME4xazIxc1ktTzVPOVNjNWxrb3hYenFkemtuR1R2Q3Rvajk1Tmd1RDZLX2lnT1F2TGxldDBDXzFOM2plMmxPLWpUaVZJVEt6RHRYSGtVcVA1TGRqRjB3NWY0OA",
+  "https://www.theguardian.com/us-news/2026/sep/03/catalina-island-deer-california",
+  "https://www.bbc.co.uk/news/articles/clyqw44w142o#0",
+  "https://news.sky.com/story/about-80-confirmed-dead-after-migrant-boat-gets-into-difficulty-off-gran-canaria-13580794",
+  "https://www.bbc.co.uk/news/articles/c33kzv7kly4o#0"
  ],
  "posts": [
-  {
-   "fp": "attack cops hochul public safety working",
-   "title": "Hochul\u2019s ban on cops working with ICE is an attack on public safety",
-   "source": "New York Post",
-   "at": "2026-08-26T09:22:39.564685+00:00"
-  },
-  {
-   "fp": "baby capital fire hospital kills newborns nursery pakistan rescued",
-   "title": "Hospital nursery fire kills 14 newborns in Pakistan\u2019s capital while 1 baby is rescued",
-   "source": "AP",
-   "at": "2026-08-26T09:22:41.281741+00:00"
-  },
-  {
-   "fp": "agent charged jail minnesota released shooting texas",
-   "title": "ICE agent charged with shooting in Minnesota could be released from Texas jail",
-   "source": "New York Post",
-   "at": "2026-08-26T09:22:42.996688+00:00"
-  },
-  {
-   "fp": "accusing blasts conspiracy josh shapiro spreading theories vaccine",
-   "title": "RFK Jr. blasts Josh Shapiro for accusing him of spreading vaccine conspiracy theories",
-   "source": "Washington Examiner",
-   "at": "2026-08-26T09:40:34.319725+00:00"
-  },
   {
    "fp": "ahead chip earnings european mixed nvidia stocks",
    "title": "European Chip Stocks Mixed Ahead of Nvidia Earnings",
@@ -3201,13 +3177,33 @@
    "title": "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains",
    "source": "AP",
    "at": "2026-09-03T10:45:51.131361+00:00"
+  },
+  {
+   "fp": "catalina deer island judge killed native plant rules save species",
+   "title": "Judge rules 2,000 Catalina Island deer can be killed to save native plant species",
+   "source": "Guardian World",
+   "at": "2026-09-03T12:14:16.962381+00:00"
+  },
+  {
+   "fp": "across asia east haze intensifies south spreads super toxic wildfire",
+   "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Ni\u00f1o intensifies",
+   "source": "BBC World",
+   "at": "2026-09-03T12:14:18.918409+00:00"
+  },
+  {
+   "fp": "about boat canaria confirmed dead difficulty gets gran migrant",
+   "title": "About 80 confirmed dead after migrant boat gets into difficulty off Gran Canaria",
+   "source": "Sky News",
+   "at": "2026-09-03T12:14:21.439031+00:00"
+  },
+  {
+   "fp": "boat canary dead feared islands migrants rescued",
+   "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
+   "source": "BBC World",
+   "at": "2026-09-03T12:14:23.290750+00:00"
   }
  ],
  "titles": [
-  "attack cops hochul public safety working",
-  "baby capital fire hospital kills newborns nursery pakistan rescued",
-  "agent charged jail minnesota released shooting texas",
-  "accusing blasts conspiracy josh shapiro spreading theories vaccine",
   "ahead chip earnings european mixed nvidia stocks",
   "ahead earnings european flat nvidia shares",
   "attack inside islamic planning republic",
@@ -3603,6 +3599,10 @@
   "agencies blasts each foil gunfight mission other plot rival russian terrorist ukrainian zelensky",
   "ahead demand democrats election fund homeland midterms officials security",
   "ahead bonds comments data gain rallies stocks",
-  "asian edge gains lower prices rise shares street tracking wall"
+  "asian edge gains lower prices rise shares street tracking wall",
+  "catalina deer island judge killed native plant rules save species",
+  "across asia east haze intensifies south spreads super toxic wildfire",
+  "about boat canaria confirmed dead difficulty gets gran migrant",
+  "boat canary dead feared islands migrants rescued"
  ]
 }
