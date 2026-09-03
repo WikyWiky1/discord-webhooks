@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiqgFBVV95cUxPalBGMXdHd2U2SzZaXzRGTE1oZkhJWmJRN2g4eDh5cnF0U21kemp4dHAzemRvSU5VcWM4WWhLT3RkWVducEcxLWktcTF0dHMyQWo3QmtIMkJabUloSUxNWVBreVA0MlR2eTQyM19FenU1RzA4MHlwcHJpZ05tQV9YaGczZHlPa2NYY3dhX0d1eUg0bUw5M1ZqM25qYlg4QURhQk5rMGRkc0FQdw",
   "https://news.sky.com/story/sword-wielding-attacker-injures-several-people-at-swedish-school-13575399",
   "https://nypost.com/?post_type=article&p=40454235",
   "https://www.washingtonexaminer.com/?p=4697055",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/us-news/2026/sep/02/downtown-minneapolis-shooting",
   "CBMitwFBVV95cUxOZjM3c0tQdWJuallWaFZ6VVpjdVpSWWJNemRMcFNnM2oxS1hfSFYyTDZBdFdrVzRCVnFNUkRZQ1ppS193OXdHMFVHbVN6UXZtTTlidl8yMzF4Zy1KQ2VxQ1NWeE5ZUmozVTJ5TTlycGpBbTZMZWd3OW5LUmhsTXZPWFQxSk02aXEyU0dEOXRwd0xtVlNWbWtyYmptX3ItUDhwVlpUeUZxUWQ0eXo3LUNGdmtjMFR5b28",
   "CBMiqAFBVV95cUxNLU1NbC1FZVV0Q095Zm1Dd05iR1FUQS10bDd5UllGRWdPMjYyY2lOV1JYUzdHOWFWMEREbUtjaHpZLVVTbXBhdUJheWxOa0tEaDZLVl80ZXNvako2bW9XYjJJMHF6dkVOSVR2WFhNM0JQYWc4ZDUyMExoQXdYYnhSVkFWOGtQV1Q1enN5dmFkakg5alRfRTVabFUwS0V5RkhEY0xmdlMzUHo",
-  "https://thehill.com/?p=6067788/"
+  "https://thehill.com/?p=6067788/",
+  "https://news.sky.com/story/britain-warned-its-in-deeply-uncomfortable-fiscal-position-ahead-of-challenging-budget-13580664"
  ],
  "posts": [
-  {
-   "fp": "allegedly attack care girl heinous home queensland raped residential teenage",
-   "title": "Teenage girl allegedly raped in \u2018heinous\u2019 attack at Queensland residential care home",
-   "source": "Guardian World",
-   "at": "2026-08-26T05:51:43.920845+00:00"
-  },
   {
    "fp": "alaska appear ballot elections midterm november senate sullivans",
    "title": "Two Dan Sullivans to appear on Alaska\u2019s US Senate ballot in November\u2019s midterm elections",
@@ -3201,10 +3195,15 @@
    "title": "2 people killed, suspect dead after shooting in Minneapolis apartment building",
    "source": "The Hill",
    "at": "2026-09-03T02:25:20.437621+00:00"
+  },
+  {
+   "fp": "ahead budget crucial deeply facing fiscal position uncomfortable",
+   "title": "'Deeply uncomfortable' fiscal position facing UK ahead of crucial budget",
+   "source": "Sky News",
+   "at": "2026-09-03T03:11:39.106161+00:00"
   }
  ],
  "titles": [
-  "allegedly attack care girl heinous home queensland raped residential teenage",
   "alaska appear ballot elections midterm november senate sullivans",
   "advances alaska incumbent name primary republican same senate sullivan",
   "back canada clear pull trade",
@@ -3603,6 +3602,7 @@
   "dead downtown injured minneapolis multiple shooting",
   "carrying chief emergency homeland landing makes markwayne mullin plane security",
   "agreement enrichment nuclear open path saudi",
-  "apartment building dead killed minneapolis people shooting suspect"
+  "apartment building dead killed minneapolis people shooting suspect",
+  "ahead budget crucial deeply facing fiscal position uncomfortable"
  ]
 }
