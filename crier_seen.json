@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMiigFBVV95cUxPbU1lTW5ZbUgyclJKQ3NSM0F0VVpydllLTnFSYnFxZ1FvYXF5TnF4LTJDWlBYWGFDTV9URlZ1OHozWE1OaUstMU5XU2R6aDlhVW5OVmtJTXUzN05vaU51MmZ3Wjd4RWZEcmNWNE05SG9XN3dvUkk3Vld1a1BEd2RlazFrV19KYXZQQmc",
-  "https://nypost.com/?post_type=article&p=40465121",
-  "CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO",
   "https://thehill.com/?p=6045262",
   "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
   "https://nypost.com/?post_type=article&p=40466777",
@@ -799,27 +796,12 @@
   "https://www.washingtonexaminer.com/?p=4712550",
   "CBMizAFBVV95cUxNOW1RTE5RakU3UUFmYnRhbjVmVnlGcVBHWjJKQVluMmFsUmVKcDZrUEpTWm9CZlk3SHhxa3lQVGVzYUtQTjV0QnBRNVh4TjJqODR6RlpmbWRXRlItMmE5RUVIMkZOdGxlNUVqV25NaGJ6bjhWWTFyckRjN2tmYlNiWlZ0bEZNNXNWN0hQU3BKdEJUaWdRZjZfaDdjMmZMZnI2eGkwRWlNVVBySkl0cFBjcFZsT21qcXhkNTRwVWF5bDVSbWxCaTA5Z2NtYW4",
   "CBMipAFBVV95cUxPOHRXdDJfcExkMzVUTWxpZDl1bHRLMHoxR0RNM0RldGxDMmZxanVyYXdrLW0yY3VaOEhUdkpsaDRIR2JScmxhYmNOaEg1MFREZU5Fclh1U1gyNERnako3eFlnVnpDQnJKTTJLQ1Q0WGtzcllqYXhlQ1FEaER4U25TT2ZxTjhEVnFKLXVFbVBuTHNiT0FFQ016ZzZlZ1AtY2E2WnNrTA",
-  "https://www.npr.org/2026/09/04/nx-s1-5945582/trump-already-tried-to-hurt-iran-with-sanctions-once-and-it-didnt-work"
+  "https://www.npr.org/2026/09/04/nx-s1-5945582/trump-already-tried-to-hurt-iran-with-sanctions-once-and-it-didnt-work",
+  "https://nypost.com/?post_type=article&p=40644049",
+  "https://www.washingtonexaminer.com/?p=4710312",
+  "CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E"
  ],
  "posts": [
-  {
-   "fp": "billionaire journal policies street using violate wall",
-   "title": "Wall Street Journal: Billionaire did not violate policies by using AI for op-ed",
-   "source": "The Hill",
-   "at": "2026-08-26T19:46:40.799716+00:00"
-  },
-  {
-   "fp": "canada hockey lose resolve sticks test threats trade trump",
-   "title": "How to lose Trump\u2019s trade war: test Canada\u2019s resolve with threats to hockey sticks",
-   "source": "Guardian World",
-   "at": "2026-08-26T19:46:42.717432+00:00"
-  },
-  {
-   "fp": "action based direct group issues palestine sanctions",
-   "title": "US issues sanctions against UK-based direct action group Palestine Action",
-   "source": "Guardian World",
-   "at": "2026-08-26T19:46:44.601710+00:00"
-  },
   {
    "fp": "amendment backed ballot cannot court democratic maryland november redistricting rules",
    "title": "Maryland court rules Democratic-backed redistricting amendment cannot go on November ballot",
@@ -3201,12 +3183,27 @@
    "title": "Trump already tried to hurt Iran with sanctions once - and it didn't work",
    "source": "NPR News",
    "at": "2026-09-04T10:43:38.380698+00:00"
+  },
+  {
+   "fp": "attack clip customer frightening kung launches robot warned wild",
+   "title": "\u2018We were warned\u2019: Robot launches wild kung-fu attack against customer in frightening clip",
+   "source": "New York Post",
+   "at": "2026-09-04T12:14:51.415212+00:00"
+  },
+  {
+   "fp": "bond casualty market mortgage revolting",
+   "title": "The bond market is revolting \u2014 and your mortgage is the first casualty",
+   "source": "Washington Examiner",
+   "at": "2026-09-04T12:14:53.254948+00:00"
+  },
+  {
+   "fp": "attacks expected kill least russian talks ukraine",
+   "title": "Russian attacks kill at least 3 in Ukraine as US talks on the war are expected",
+   "source": "AP",
+   "at": "2026-09-04T12:14:55.022244+00:00"
   }
  ],
  "titles": [
-  "billionaire journal policies street using violate wall",
-  "canada hockey lose resolve sticks test threats trade trump",
-  "action based direct group issues palestine sanctions",
   "amendment backed ballot cannot court democratic maryland november redistricting rules",
   "army bases build microreactors nuclear power ramp seeks spend",
   "fatal judge orders release second shooting texas witness",
@@ -3603,6 +3600,9 @@
   "battleground candidates debate never senate share stage",
   "2027 ahead billionaire boosting channel conservative election french news right",
   "abbas boycott interview made mission outscore richards zaheer",
-  "already didn hurt iran once sanctions tried trump work"
+  "already didn hurt iran once sanctions tried trump work",
+  "attack clip customer frightening kung launches robot warned wild",
+  "bond casualty market mortgage revolting",
+  "attacks expected kill least russian talks ukraine"
  ]
 }
