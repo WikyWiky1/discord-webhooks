@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6045262",
   "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
   "https://nypost.com/?post_type=article&p=40466777",
   "https://nypost.com/?post_type=article&p=40466331",
@@ -799,15 +798,10 @@
   "https://www.npr.org/2026/09/04/nx-s1-5945582/trump-already-tried-to-hurt-iran-with-sanctions-once-and-it-didnt-work",
   "https://nypost.com/?post_type=article&p=40644049",
   "https://www.washingtonexaminer.com/?p=4710312",
-  "CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E"
+  "CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E",
+  "CBMi2gFBVV95cUxOeGZReGFaQmwwU1JCdTZMNjFnTlVJblFnaHpqQUo1TV9NLTIwakRWMDJ0ZnZHWEx5eERfRV9tdElYR3JyeXZWLVVVZmFKc1NnRnMyalQzTEJ5eEVOS1BWUXl1ZjVwR05fcUN6RS00UldoWjkzbWtGVGZ1RzllTV81Tm11dzVLZ0NKTFhnQXBfSzZwNHdsWnBUMlFiWXZ1SmZOeHpaUWRBVm5BTW44eFI3TG9IRXA3WkFSTUk2dGN4N3NWMk5MRkhmY1Q5LXc2SkFxS0gwQndpblRJdw"
  ],
  "posts": [
-  {
-   "fp": "amendment backed ballot cannot court democratic maryland november redistricting rules",
-   "title": "Maryland court rules Democratic-backed redistricting amendment cannot go on November ballot",
-   "source": "AP",
-   "at": "2026-08-26T19:46:46.325408+00:00"
-  },
   {
    "fp": "army bases build microreactors nuclear power ramp seeks spend",
    "title": "Army to spend $2B to build nuclear microreactors at 5 bases as US seeks to ramp up nuclear power",
@@ -3201,10 +3195,15 @@
    "title": "Russian attacks kill at least 3 in Ukraine as US talks on the war are expected",
    "source": "AP",
    "at": "2026-09-04T12:14:55.022244+00:00"
+  },
+  {
+   "fp": "airport controllers exclusive fatigue flagged high involved miss near records risk show sydney",
+   "title": "EXCLUSIVE: Sydney airport near-miss involved controllers flagged as high-fatigue risk, records show",
+   "source": "Reuters",
+   "at": "2026-09-04T14:52:55.671118+00:00"
   }
  ],
  "titles": [
-  "amendment backed ballot cannot court democratic maryland november redistricting rules",
   "army bases build microreactors nuclear power ramp seeks spend",
   "fatal judge orders release second shooting texas witness",
   "army bases billion build five military nuclear reactors spending",
@@ -3603,6 +3602,7 @@
   "already didn hurt iran once sanctions tried trump work",
   "attack clip customer frightening kung launches robot warned wild",
   "bond casualty market mortgage revolting",
-  "attacks expected kill least russian talks ukraine"
+  "attacks expected kill least russian talks ukraine",
+  "airport controllers exclusive fatigue flagged high involved miss near records risk show sydney"
  ]
 }
