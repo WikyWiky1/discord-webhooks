@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40466101",
   "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
   "CBMiowFBVV95cUxQRDctZkxzeE9KWnlEX0UxVWZVNlJ0M0NLb2xaMjRpS2hYbkEwNERuVDdzU2dsMG16enZlZENMR0hsZVFJdHM1dThGb0Znc2x2LWlhRm5YQXdxdUxkVDdLMFFYMTlmcDJjX2wyZTdUSmVSUDhrdnhpTTFQZC0xOXlxcjJiMl9xbWU1WnlQY0FLcUVXYTRSekV6cGtEQkhLcThBRXpv",
   "https://nypost.com/?post_type=article&p=40470419",
@@ -799,15 +798,10 @@
   "https://pagesix.com/?post_type=article&p=9154698",
   "https://nypost.com/?post_type=article&p=40666341",
   "CBMisgFBVV95cUxONElYU2NZblhTTVRRT1RRMUw3R2swWmRtY0x1WVJpUHRnbXZhNlBNb0JYMHJBaVZzdWY1ZlNlbWt4Z0RrUi1wVk1HZ3ZQMGRna3U2TXUwOGZNLTVEbklPbjUtXzZMMHhHZWg1OF9iOXJaTGU4dktFcU9IVEFMLVZ5TjMtZ3RoSHByR1dzcGpxWWQ2c1Z0VHliMnVKaE1oTERURFdyRkRnNnlJb3hGVDZTQ0FR",
-  "https://thehill.com/?p=6072134"
+  "https://thehill.com/?p=6072134",
+  "CBMimgFBVV95cUxNSHduWVYtMzJYQk5UcVJNbWxaY1Z4YnA4ZWZ5dFRQSXEtTERLTUd3Y2gydFJ6MUdTeWstd3k2NTZWZnR1ejNwWEhOY05SRnFUOURrZi1qWUpLeXAyWWR4ZlJSOXBUZFBkY1Q2dmNzbkxncVkwNzZtU0ZtWlluSll0bjB2SDFtTUNvMmNwTlBRY1RNOE5EdGZHRDV3"
  ],
  "posts": [
-  {
-   "fp": "deadly floods least missing nepal tibet",
-   "title": "At least 1,500 missing after deadly Nepal-Tibet floods",
-   "source": "NPR News",
-   "at": "2026-08-27T11:13:01.533196+00:00"
-  },
   {
    "fp": "catastrophic floods kill missing nepal tibet",
    "title": "Catastrophic floods kill over 270 in Nepal and Tibet, with more than 1,300 missing",
@@ -3201,10 +3195,15 @@
    "title": "Virginia Democrat says DOJ wiretapped phone calls with state Senate leader",
    "source": "The Hill",
    "at": "2026-09-04T20:21:20.226866+00:00"
+  },
+  {
+   "fp": "appeal court emergency grants midterms rates republican supreme",
+   "title": "Supreme Court grants Republican emergency appeal on TV ad rates before midterms",
+   "source": "AP",
+   "at": "2026-09-04T21:31:28.678139+00:00"
   }
  ],
  "titles": [
-  "deadly floods least missing nepal tibet",
   "catastrophic floods kill missing nepal tibet",
   "catastrophic collapse flash floods glacier nepal triggered tsunami unleashed",
   "attack dead france people ramming",
@@ -3603,6 +3602,7 @@
   "bypass emergency pawn staple stars surgery undergoes",
   "contagious highly investigation linked outbreak parasite pools resort socal under",
   "allows appeal clancy declare emergency judge lindsay mistrial plans trial",
-  "calls democrat leader phone senate state virginia wiretapped"
+  "calls democrat leader phone senate state virginia wiretapped",
+  "appeal court emergency grants midterms rates republican supreme"
  ]
 }
