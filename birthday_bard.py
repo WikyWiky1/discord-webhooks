@@ -7,7 +7,7 @@ Never mentions age or birth year — just the celebration. 🎂
 
 Environment variables:
   BIRTHDAY_BARD_WEBHOOK   (required)  Discord webhook URL
-  BARD_MODE               (optional)  check | online | preview | list
+  BARD_MODE               (optional)  check | force | online | preview | list
   BARD_NAME               (optional)  name to use with preview mode
 
 Usage:
@@ -15,7 +15,7 @@ Usage:
   python birthday_bard.py --online           # posts "Birthday Bard is online."
   python birthday_bard.py --preview WikyWiky # preview one person's greeting
   python birthday_bard.py --list             # print upcoming birthdays (no post)
-  python birthday_bard.py --force            # run today's check, ignore time gate
+  python birthday_bard.py --force            # post today, ignore floor + dedup
 """
 
 from __future__ import annotations
@@ -90,9 +90,11 @@ STATE_FILE = Path(__file__).parent / "birthday_state.json"
 
 BOT_NAME = "Birthday Bard"
 
-# Fire window in local Chicago time (wide enough to absorb Actions delay)
-FIRE_HOUR_MIN = 9
-FIRE_HOUR_MAX = 11
+# Earliest local hour the Bard is willing to post. There is deliberately NO
+# upper bound: GitHub Actions delays always push a run LATER, never earlier,
+# so a ceiling can silently eat every run of the day. A floor cannot.
+# Set to 0 to let the Bard post at any hour.
+FIRE_HOUR_MIN = 8
 
 # Soft pastel pink
 COLOR_BIRTHDAY = 0xFFB3D9
@@ -146,7 +148,7 @@ BANNERS = [
 
 
 # ══════════════════════════════════════════════════════════════════════
-#  STATE  (prevents double-posting from the dual cron)
+#  STATE  (prevents double-posting from the redundant crons)
 # ══════════════════════════════════════════════════════════════════════
 
 def load_state() -> dict:
@@ -154,20 +156,40 @@ def load_state() -> dict:
         try:
             with STATE_FILE.open("r", encoding="utf-8") as f:
                 data = json.load(f)
+            if not isinstance(data, dict):
+                raise ValueError("state file is not a JSON object")
             data.setdefault("last_run_date", None)
+            data.setdefault("last_posted_date", None)
             return data
-        except (json.JSONDecodeError, OSError) as exc:
+        except (json.JSONDecodeError, OSError, ValueError) as exc:
             print(f"[Birthday Bard] ⚠️  Could not read state ({exc}); starting fresh.")
-    return {"last_run_date": None}
+    return {"last_run_date": None, "last_posted_date": None}
 
 
 def save_state(state: dict) -> None:
     try:
         with STATE_FILE.open("w", encoding="utf-8") as f:
             json.dump(state, f, indent=2, ensure_ascii=False)
-        print(f"[Birthday Bard] 💾  State saved (last run: {state['last_run_date']}).")
+        print(f"[Birthday Bard] 💾  State saved (last run: {state.get('last_run_date')}).")
     except OSError as exc:
         print(f"[Birthday Bard] ⚠️  Could not save state: {exc}")
+
+
+# ══════════════════════════════════════════════════════════════════════
+#  DIAGNOSTICS
+# ══════════════════════════════════════════════════════════════════════
+
+def print_diagnostics(state: dict) -> None:
+    now_local = datetime.now(TIMEZONE)
+    now_utc = datetime.now(timezone.utc)
+    print("[Birthday Bard] ── diagnostics ──────────────────────────────")
+    print(f"[Birthday Bard]   trigger     : {os.environ.get('GITHUB_EVENT_NAME', 'local')}")
+    print(f"[Birthday Bard]   UTC now     : {now_utc:%Y-%m-%d %H:%M}")
+    print(f"[Birthday Bard]   Chicago now : {now_local:%Y-%m-%d %H:%M %Z}")
+    print(f"[Birthday Bard]   fire floor  : {FIRE_HOUR_MIN:02d}:00 local (no ceiling)")
+    print(f"[Birthday Bard]   last run    : {state.get('last_run_date')}")
+    print(f"[Birthday Bard]   last posted : {state.get('last_posted_date')}")
+    print("[Birthday Bard] ─────────────────────────────────────────────")
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -386,13 +408,15 @@ def should_fire(state: dict) -> bool:
     today = now.strftime("%Y-%m-%d")
 
     if state.get("last_run_date") == today:
-        print(f"[Birthday Bard] ⏭️  Already ran today ({today}). Skipping.")
+        print(f"[Birthday Bard] ⏭️  Already handled today ({today}). Skipping.")
         return False
 
-    if not (FIRE_HOUR_MIN <= now.hour <= FIRE_HOUR_MAX):
+    if now.hour < FIRE_HOUR_MIN:
+        # Nothing is written to state here, so the next cron of the day
+        # still gets its shot.
         print(
-            f"[Birthday Bard] ⏳  Outside fire window "
-            f"(local time {now.strftime('%H:%M')} CT). Skipping."
+            f"[Birthday Bard] 🌅  Too early (local {now:%H:%M} CT, "
+            f"floor is {FIRE_HOUR_MIN:02d}:00). Waiting for a later run."
         )
         return False
 
@@ -401,18 +425,20 @@ def should_fire(state: dict) -> bool:
 
 def mode_check(forced: bool) -> int:
     state = load_state()
+    print_diagnostics(state)
 
-    if not forced and not should_fire(state):
+    if forced:
+        print("[Birthday Bard] 🔔  Forced run — ignoring floor and dedup.")
+    elif not should_fire(state):
         return 0
 
     today = datetime.now(TIMEZONE).date()
+    today_str = today.strftime("%Y-%m-%d")
     people = todays_birthdays(today)
-
-    # Record the run either way, so the second cron doesn't re-check
-    state["last_run_date"] = today.strftime("%Y-%m-%d")
 
     if not people:
         print(f"[Birthday Bard] 🌙  No birthdays today ({today:%b %d}). Resting.")
+        state["last_run_date"] = today_str
         save_state(state)
         return 0
 
@@ -420,8 +446,12 @@ def mode_check(forced: bool) -> int:
     print(f"[Birthday Bard] 🎂  Birthday today ({today:%b %d}): {names}")
 
     if not fire_webhook(build_payload(people)):
+        # State stays untouched so a later run retries instead of
+        # marking the day done with nothing posted.
         return 1
 
+    state["last_run_date"] = today_str
+    state["last_posted_date"] = today_str
     save_state(state)
     return 0
 
@@ -439,7 +469,7 @@ def main() -> int:
     parser.add_argument("--list", action="store_true",
                         help="Print the birthday list to the console (posts nothing).")
     parser.add_argument("--force", action="store_true",
-                        help="Run today's check, ignoring the time gate.")
+                        help="Post today's birthdays, ignoring the floor and dedup.")
     args = parser.parse_args()
 
     # Env vars let the GitHub Actions workflow drive the same modes
