@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/23/trump-sowing-election-distrust",
   "CBMiyAFBVV95cUxNZEJfVzdZd1FzS096TGhjb19XSF9hYnJfazRCOF8zeF9qMkJMOW5Bbm1ZSEwycjJiT1hXci05RFViS1haSDRObmdTb2dvdDVzZjY3SlNnQV80bjhrNEcyOVI5azhybnFpVlVrUmpDQTB4UHNrWURkdXQ3dklqZ2Vucm5ob3RiVTNSRGpqTVRxX0Z1R0gtTTJVb1BYYk8yajNBMFZ2N2FWOHdhYXYycFlsSHpuZzdnOEpPOVN3ckU1SWljVEp1bXdHSQ",
   "https://www.theguardian.com/uk-news/2026/aug/23/manuscript-fragments-discovery-medieval-guernsey",
   "CBMiywFBVV95cUxQclQ2YkMyUjJ2cWhPeXkzYlVvUkdSLU9qcXphcEs5V1JlQVAxOW1mSXcxZUZOV0RJck5fanJ3NldvcHhWcXBPOE1qMndlV2xIaWxPdjNJUzhlbUREeHdEN0VDRzVhWm1GWDVEQWN0WDZ3ajdKYUFHUTFabUVoZ0tyZ2JXZVZNRFlfOE9WNmNQQ1lVem8wQjNacm5LWE1ManVqV3RpX21EVlJmdWpTdWZlUUtSNTJpUDVTQkZ2SGVpZU53ZnVrOUNnX2NoOA",
@@ -799,15 +798,10 @@
   "https://www.washingtonexaminer.com/?p=4714796",
   "https://www.foxnews.com/world/cockroach-milk-stepping-snakes-ig-nobel-awards-celebrates-science-oddest",
   "CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw",
-  "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#1"
+  "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#1",
+  "CBMiYkFVX3lxTE41UWVQSlZXZGhGcVlYOFZCWUhJTzhlNnNIQ3B6MEZyRE9QUjRGV0ViYV9QcXhQZjh6eFdHZ3RwNTd0emswN2l3WWN1QkNHd0NuNDNJLU0zak1JQUJ6d2QyTlV3"
  ],
  "posts": [
-  {
-   "fp": "aimed bill russia sanctions wrong",
-   "title": "The new sanctions bill is aimed at the wrong Russia",
-   "source": "The Hill",
-   "at": "2026-08-27T13:49:58.539349+00:00"
-  },
   {
    "fp": "decades democratic medicare nominee policy senate",
    "title": "Democratic SC Senate nominee: 'Medicare for All is a policy from a few decades ago'",
@@ -3201,10 +3195,15 @@
    "title": "At least two dead in blast at Bolivia military barracks",
    "source": "BBC World",
    "at": "2026-09-05T09:46:04.720497+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-09-05T10:01:48.282198+00:00"
   }
  ],
  "titles": [
-  "aimed bill russia sanctions wrong",
   "decades democratic medicare nominee policy senate",
   "abortion finds makers making millions oversight pill responsibility senate shirk",
   "buoyed earnings falls futures nasdaq nvidia software",
@@ -3603,6 +3602,7 @@
   "administration chief democratic election nevada office seven subpoenas trump",
   "awards celebrates cockroach milk nobel oddest science snakes stepping",
   "attack iran iranian island kharg near tanker tasnim",
-  "barracks blast bolivia dead least military"
+  "barracks blast bolivia dead least military",
+  "edition journal print street wall"
  ]
 }
