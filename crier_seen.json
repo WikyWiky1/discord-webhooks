@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiZ0FVX3lxTFB0dldUQkJwZks2ZmdqTF9lZVlBOGdKUUpSYkdTLUJSSDVBazlOU2lHM09SaWRYWHJ5UHpHYVZGMmRYMC15ZWpLelhna2p4UjJzZkhzMm9Ubm9ka2R3NGU3SjFqcXlTT0E",
-  "CBMikgFBVV95cUxOSV9Wa3ZmeTNFd0FyNmRyOU52UnlkOWpVTTlkRHFyeG1nM24tRThvdEMxdUNlUmFHTU9TM2w4c3ZGbXJtWFl5NXpfMEg5bW0wRGxKRVBhODV3MWtabU1wTGNPU19uQ1FUcEFWZmRHcUJsaWhJZkRvNHVLbFMxUGVoZDFuaU5GZUIxTV9RY01CdWZKUQ",
   "https://thehill.com/?p=6045731",
   "https://nypost.com/?post_type=article&p=40473307",
   "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
@@ -799,21 +797,11 @@
   "CBMiowFBVV95cUxPT19ZcmhOY19qOWhFdC1CNE5nWk9mMlRua3Zsc0VGVEV4R3piYUozcjJPd1ZPem55a0IxT0ROdGRyTjlsWGpiekdiVXhITjlDaE15X2h6ZUZPNXdkbUVqRXdpT2V4LWt1akZUMkMxUnF0alBQY3BLOUNfUG1teU5PSF9sZWpzX0YxRnhfT3V4ZmhMNFZYVzdrYnozcXBNYXUxc1lZ",
   "CBMimwFBVV95cUxNbnRYbV9GZXpsSVBXOExleEZGY25tOVYzUFZMek5qQ0o5aGlpeTQ5b3hzUC03WFY3YzhDR0V6MFppNGl6a1dUcWh6d1R6dGRpWktVS0w2ZVZOdGhhd3VBLWNCbWZVYzlnQy1iVXMxT3VEQWlZMGhrSEFCLWxGUVI4ZEo5WlpvUHRtRTlzb0NQR2F5YlYzOVBVLVI4MA",
   "https://nypost.com/?post_type=article&p=40683496",
-  "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia"
+  "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
+  "https://thehill.com/?p=6073421",
+  "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them"
  ],
  "posts": [
-  {
-   "fp": "cases found likely outbreak rise salmonella source until",
-   "title": "Salmonella cases in UK likely to rise until source of outbreak is found",
-   "source": "Guardian World",
-   "at": "2026-08-28T17:41:06.709972+00:00"
-  },
-  {
-   "fp": "fire lucid luxury maker nhtsa recall risk sedans",
-   "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
-   "source": "Reuters",
-   "at": "2026-08-28T17:41:08.402766+00:00"
-  },
   {
    "fp": "bank hamas israel israeli kills operative strike targeted three west",
    "title": "Israeli strike kills three in West Bank; Israel says it targeted Hamas operative",
@@ -3201,11 +3189,21 @@
    "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
    "source": "Guardian World",
    "at": "2026-09-05T22:32:51.803299+00:00"
+  },
+  {
+   "fp": "campaign funnels maga million paxton senate super trump",
+   "title": "Trump's MAGA Inc. super-PAC funnels $10 million into Ken Paxton's Senate campaign",
+   "source": "The Hill",
+   "at": "2026-09-05T22:39:44.328441+00:00"
+  },
+  {
+   "fp": "alarming behind election flooding lead media social victoria",
+   "title": "Alarming AI ads are flooding social media in the lead-up to Victoria\u2019s election. But who is behind them?",
+   "source": "Guardian World",
+   "at": "2026-09-05T22:39:46.124178+00:00"
   }
  ],
  "titles": [
-  "cases found likely outbreak rise salmonella source until",
-  "fire lucid luxury maker nhtsa recall risk sedans",
   "bank hamas israel israeli kills operative strike targeted three west",
   "baby dead festival found michigan mother music porta potty sought",
   "about change launch nasa space telescope universe",
@@ -3603,6 +3601,8 @@
   "blitz major midterm money move senate texas trump",
   "banks closed government labor market open retailers stock",
   "cerundolo collapse endures epic francisco fritz loss open punch round taylor third",
-  "attack blamed colombia drone guerrillas kills least soldiers three"
+  "attack blamed colombia drone guerrillas kills least soldiers three",
+  "campaign funnels maga million paxton senate super trump",
+  "alarming behind election flooding lead media social victoria"
  ]
 }
