@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40470674",
-  "CBMi0AFBVV95cUxOX1VJTTA3aWR1clFYLW0tVFlhdjlwZ3JvamtrXzN0YzJ0TUpsUEd6UEJtVzRGOEJHN3BaRHhxYU1UUWpPSl9qQzZwTEliVklqXzRoLXE0bHQtUmRGcVFKYll3VExrNGlTc0Fxd3U0M3lDcnk1dXpzOFJ2NVVlY1p1RVg2ckZycTdERzEyeHB0R1Ftem9HaVpXZ2FvdktRMkZWSFIySXlrekY4NGM4RlFLeFY3VTlIWGIzWE5DRXhJTnFxOEc1bk9BbjYwb1lXYjFU",
-  "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
   "CBMiiwFBVV95cUxQbUJWU095QkNOcGpPeFdUVzNwZTBGdWlybTROeWVXdXk3dUxub01UdDNVeTdiYmtVRWdNNG9iM2RNRGRkRTBjLWUyMnI2d3JQTTFLUnRLU1pKOGhQY2JCaDE1a2UzbHo4UUNLM0xsWGNBUGpmSC1jZ1RTb0FkbWM5elJJa205YmUya3hj",
   "CBMiswFBVV95cUxQQ0UyYlJfR0swcWM4cTlzdmlMc3l5aUdpbHZUOFFfMVNEbVdlTnB3dGJRTjNjY21WSEZmdkR5aGdZMURMOV9PYWpVdElOcEFzLUk2MzFDd2h3UTY5MGt0LVUxT2dKMDd3elVmd09RNEdIRmszNDE3N1lpY1ZDTmZteTVaeXJWcFZUZTdEZ2FCSEVKaDBWQVFjTktpc3J5RnpDdG11YWNDM1dJeVdZc2R0TDBKNA",
   "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
@@ -799,27 +796,12 @@
   "CBMimAFBVV95cUxOZGhkajNwYmt3YnNNa09RNjlJaHRvZk1nQnJ3bElybmJvMWRpQU1KanRhbjEzM0gyZUQ5OVByOF9aUjdZQjh5TUZGSDFjWkY4SGRzVUphYk92dk10OTROUDJuMjIxUE9zaEVLLUZUN2VUdENVS202Qi1jQ294QlctTzN0dWFWZko3TjZNWEktbUFlYWFmdnBxbA",
   "CBMipAFBVV95cUxNcW1UQnlUYTVpRHRsNk45aEc3dUYtV0NaaDhrTlJVVlhRa0lsWkFUUUtoN2x0ZTJkY0lfY1NnejJ1QjFybHM4Z0JTTkV3eGY0ZmxiUlBwdGxNUm5ESDVGODdOSnIwZTB1YlBFRzJNNmFXLXBtYWtRMWlnR3Z1NUpkalFZQkZDY3JKYmhrRU5IbGM3VERYS0JsbTg3bmVKblUyeVF5Yw",
   "CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE",
-  "https://nypost.com/?post_type=article&p=40674885"
+  "https://nypost.com/?post_type=article&p=40674885",
+  "https://nypost.com/?post_type=article&p=40676604",
+  "https://nypost.com/?post_type=article&p=40674903",
+  "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation"
  ],
  "posts": [
-  {
-   "fp": "about deadly floods know nepal tibet",
-   "title": "What we know about deadly Nepal-Tibet floods",
-   "source": "BBC World",
-   "at": "2026-08-27T11:13:10.431119+00:00"
-  },
-  {
-   "fp": "caused collapsed devastating floods glacier likely nepal scientists tibet",
-   "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-   "source": "BBC World",
-   "at": "2026-08-27T11:13:12.132239+00:00"
-  },
-  {
-   "fp": "flash flood kills least missing mostly nearly nepal tibet tourists",
-   "title": "Nearly 1,400 missing, mostly tourists, after Nepal-Tibet flash flood kills at least 270",
-   "source": "Guardian World",
-   "at": "2026-08-27T11:13:13.953488+00:00"
-  },
   {
    "fp": "beautiful fire house killed middlesbrough mother niece soul woman",
    "title": "Woman killed with niece in Middlesbrough house fire was \u2018a beautiful soul\u2019, says mother",
@@ -3201,12 +3183,27 @@
    "title": "Man found dead at Burning Man as festival locked down over weather hazard",
    "source": "New York Post",
    "at": "2026-09-04T23:15:41.937359+00:00"
+  },
+  {
+   "fp": "california chemical club dangerous emergency golf hazmat hospitalized mixture person ritzy",
+   "title": "Hazmat emergency at ritzy California golf club as person hospitalized over dangerous chemical mixture",
+   "source": "New York Post",
+   "at": "2026-09-05T01:00:48.482040+00:00"
+  },
+  {
+   "fp": "attack gold grandmother heart home island killed long violent",
+   "title": "Long Island grandmother, 62, with \u2018a heart of gold\u2019 killed in violent attack at home",
+   "source": "New York Post",
+   "at": "2026-09-05T01:00:50.228338+00:00"
+  },
+  {
+   "fp": "airstrike association guilt international israeli killed seven workers",
+   "title": "\u2018Guilt by association\u2019: why seven international aid workers were killed in Israeli airstrike",
+   "source": "Guardian World",
+   "at": "2026-09-05T01:00:51.929373+00:00"
   }
  ],
  "titles": [
-  "about deadly floods know nepal tibet",
-  "caused collapsed devastating floods glacier likely nepal scientists tibet",
-  "flash flood kills least missing mostly nearly nepal tibet tourists",
   "beautiful fire house killed middlesbrough mother niece soul woman",
   "associated breaking latest news press today",
   "bandit gunfight island killed luxury marina police rare rhode sailboat stealing vessel",
@@ -3603,6 +3600,9 @@
   "fall hike interest jobs prospects raises rate report stocks strong surprisingly",
   "democrats halt mail postal rules senate service urge voting work",
   "august blow expectations nonfarm past payrolls rate steady unemployment",
-  "burning dead down festival found hazard locked weather"
+  "burning dead down festival found hazard locked weather",
+  "california chemical club dangerous emergency golf hazmat hospitalized mixture person ritzy",
+  "attack gold grandmother heart home island killed long violent",
+  "airstrike association guilt international israeli killed seven workers"
  ]
 }
