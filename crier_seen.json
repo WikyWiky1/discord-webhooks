@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiyAFBVV95cUxNZEJfVzdZd1FzS096TGhjb19XSF9hYnJfazRCOF8zeF9qMkJMOW5Bbm1ZSEwycjJiT1hXci05RFViS1haSDRObmdTb2dvdDVzZjY3SlNnQV80bjhrNEcyOVI5azhybnFpVlVrUmpDQTB4UHNrWURkdXQ3dklqZ2Vucm5ob3RiVTNSRGpqTVRxX0Z1R0gtTTJVb1BYYk8yajNBMFZ2N2FWOHdhYXYycFlsSHpuZzdnOEpPOVN3ckU1SWljVEp1bXdHSQ",
   "https://www.theguardian.com/uk-news/2026/aug/23/manuscript-fragments-discovery-medieval-guernsey",
   "CBMiywFBVV95cUxQclQ2YkMyUjJ2cWhPeXkzYlVvUkdSLU9qcXphcEs5V1JlQVAxOW1mSXcxZUZOV0RJck5fanJ3NldvcHhWcXBPOE1qMndlV2xIaWxPdjNJUzhlbUREeHdEN0VDRzVhWm1GWDVEQWN0WDZ3ajdKYUFHUTFabUVoZ0tyZ2JXZVZNRFlfOE9WNmNQQ1lVem8wQjNacm5LWE1ManVqV3RpX21EVlJmdWpTdWZlUUtSNTJpUDVTQkZ2SGVpZU53ZnVrOUNnX2NoOA",
   "https://nypost.com/?post_type=article&p=40344384",
@@ -799,7 +798,8 @@
   "https://www.foxnews.com/world/cockroach-milk-stepping-snakes-ig-nobel-awards-celebrates-science-oddest",
   "CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw",
   "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#1",
-  "CBMiYkFVX3lxTE41UWVQSlZXZGhGcVlYOFZCWUhJTzhlNnNIQ3B6MEZyRE9QUjRGV0ViYV9QcXhQZjh6eFdHZ3RwNTd0emswN2l3WWN1QkNHd0NuNDNJLU0zak1JQUJ6d2QyTlV3"
+  "CBMiYkFVX3lxTE41UWVQSlZXZGhGcVlYOFZCWUhJTzhlNnNIQ3B6MEZyRE9QUjRGV0ViYV9QcXhQZjh6eFdHZ3RwNTd0emswN2l3WWN1QkNHd0NuNDNJLU0zak1JQUJ6d2QyTlV3",
+  "https://thehill.com/?p=6072956"
  ],
  "posts": [
   {
@@ -3197,10 +3197,10 @@
    "at": "2026-09-05T09:46:04.720497+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-09-05T10:01:48.282198+00:00"
+   "fp": "allowing herds kill order protect ranchers signs trump wolves",
+   "title": "Trump's signs order allowing ranchers to kill wolves to protect herds",
+   "source": "The Hill",
+   "at": "2026-09-05T13:09:44.771083+00:00"
   }
  ],
  "titles": [
@@ -3603,6 +3603,6 @@
   "awards celebrates cockroach milk nobel oddest science snakes stepping",
   "attack iran iranian island kharg near tanker tasnim",
   "barracks blast bolivia dead least military",
-  "edition journal print street wall"
+  "allowing herds kill order protect ranchers signs trump wolves"
  ]
 }
