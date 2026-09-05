@@ -942,8 +942,17 @@
    "message_id": "1545536147378409595",
    "event": "Extreme Heat Warning",
    "area": "Bourbon; Crawford; Cherokee; Benton; Morgan; Miller; Maries; Vernon; St. Clair; Hickory; Camden; Pulaski; Phelps; Barton; Cedar; Polk; Dallas; Laclede; Texas; Dent; Jasper; Dade; Greene; Webster; Wright; Newton; Lawrence; Christian; Douglas; Howell; Shannon; McDonald; Barry; Stone; Taney; Ozark; Oregon",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-09-04T20:48:52+00:00",
+   "expired_at": "2026-09-05T21:26:04+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.7aa2a925c4efdedfe471582b1b5d629c878d1cb3.001.1",
+   "message_id": "1545907889787371631",
+   "event": "Extreme Heat Warning",
+   "area": "Bourbon; Crawford; Cherokee; Benton; Morgan; Miller; Maries; Vernon; St. Clair; Hickory; Camden; Pulaski; Phelps; Barton; Cedar; Polk; Dallas; Laclede; Texas; Dent; Jasper; Dade; Greene; Webster; Wright; Newton; Lawrence; Christian; Douglas; Howell; Shannon; McDonald; Barry; Stone; Taney; Ozark; Oregon",
+   "expired": false,
+   "posted_at": "2026-09-05T21:26:02+00:00",
    "expired_at": null
   }
  ]
