@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiowFBVV95cUxNZjVEamVIa0cwVk03YjhWVml0QjhfVHlrOVdKcmhuTmQ1eTBzclBzV3RjdE00Ukt6WUxqSDR2am5YYUhJX1VNRUowSVpHQTBQOUZwVVV6WHlWNF9lUHV3aEt6MnBMYjM5V3ZFVFpVYUZkVERLVVh5eGd3TUlndThXNXBZWlVtSlVEay1KMXloVGJqVmFBUTJXOTRzTVdfVXBZLU9z",
   "CBMiZ0FVX3lxTFB0dldUQkJwZks2ZmdqTF9lZVlBOGdKUUpSYkdTLUJSSDVBazlOU2lHM09SaWRYWHJ5UHpHYVZGMmRYMC15ZWpLelhna2p4UjJzZkhzMm9Ubm9ka2R3NGU3SjFqcXlTT0E",
   "CBMikgFBVV95cUxOSV9Wa3ZmeTNFd0FyNmRyOU52UnlkOWpVTTlkRHFyeG1nM24tRThvdEMxdUNlUmFHTU9TM2w4c3ZGbXJtWFl5NXpfMEg5bW0wRGxKRVBhODV3MWtabU1wTGNPU19uQ1FUcEFWZmRHcUJsaWhJZkRvNHVLbFMxUGVoZDFuaU5GZUIxTV9RY01CdWZKUQ",
   "https://thehill.com/?p=6045731",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6072042",
   "CBMiowFBVV95cUxPT19ZcmhOY19qOWhFdC1CNE5nWk9mMlRua3Zsc0VGVEV4R3piYUozcjJPd1ZPem55a0IxT0ROdGRyTjlsWGpiekdiVXhITjlDaE15X2h6ZUZPNXdkbUVqRXdpT2V4LWt1akZUMkMxUnF0alBQY3BLOUNfUG1teU5PSF9sZWpzX0YxRnhfT3V4ZmhMNFZYVzdrYnozcXBNYXUxc1lZ",
   "CBMimwFBVV95cUxNbnRYbV9GZXpsSVBXOExleEZGY25tOVYzUFZMek5qQ0o5aGlpeTQ5b3hzUC03WFY3YzhDR0V6MFppNGl6a1dUcWh6d1R6dGRpWktVS0w2ZVZOdGhhd3VBLWNCbWZVYzlnQy1iVXMxT3VEQWlZMGhrSEFCLWxGUVI4ZEo5WlpvUHRtRTlzb0NQR2F5YlYzOVBVLVI4MA",
-  "https://nypost.com/?post_type=article&p=40683496"
+  "https://nypost.com/?post_type=article&p=40683496",
+  "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia"
  ],
  "posts": [
-  {
-   "fp": "deal east energy gaza iran israeli kill middle news other russian strikes touts",
-   "title": "Israeli strikes kill 5 in Gaza, Iran touts Russian energy deal, and other news in the Middle East",
-   "source": "AP",
-   "at": "2026-08-28T17:41:04.536441+00:00"
-  },
   {
    "fp": "cases found likely outbreak rise salmonella source until",
    "title": "Salmonella cases in UK likely to rise until source of outbreak is found",
@@ -3201,10 +3195,15 @@
    "title": "Taylor Fritz endures epic collapse in gut-punch third-round US Open loss to Francisco Cerundolo",
    "source": "New York Post",
    "at": "2026-09-05T20:40:57.860745+00:00"
+  },
+  {
+   "fp": "attack blamed colombia drone guerrillas kills least soldiers three",
+   "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
+   "source": "Guardian World",
+   "at": "2026-09-05T22:32:51.803299+00:00"
   }
  ],
  "titles": [
-  "deal east energy gaza iran israeli kill middle news other russian strikes touts",
   "cases found likely outbreak rise salmonella source until",
   "fire lucid luxury maker nhtsa recall risk sedans",
   "bank hamas israel israeli kills operative strike targeted three west",
@@ -3603,6 +3602,7 @@
   "athletes bettors college congress harassing time",
   "blitz major midterm money move senate texas trump",
   "banks closed government labor market open retailers stock",
-  "cerundolo collapse endures epic francisco fritz loss open punch round taylor third"
+  "cerundolo collapse endures epic francisco fritz loss open punch round taylor third",
+  "attack blamed colombia drone guerrillas kills least soldiers three"
  ]
 }
