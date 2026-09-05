@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/uk-news/2026/aug/23/manuscript-fragments-discovery-medieval-guernsey",
   "CBMiywFBVV95cUxQclQ2YkMyUjJ2cWhPeXkzYlVvUkdSLU9qcXphcEs5V1JlQVAxOW1mSXcxZUZOV0RJck5fanJ3NldvcHhWcXBPOE1qMndlV2xIaWxPdjNJUzhlbUREeHdEN0VDRzVhWm1GWDVEQWN0WDZ3ajdKYUFHUTFabUVoZ0tyZ2JXZVZNRFlfOE9WNmNQQ1lVem8wQjNacm5LWE1ManVqV3RpX21EVlJmdWpTdWZlUUtSNTJpUDVTQkZ2SGVpZU53ZnVrOUNnX2NoOA",
   "https://nypost.com/?post_type=article&p=40344384",
   "CBMiZ0FVX3lxTE05SXRkX0k5dXdvWWY0ckV6N2VsQXBPS0w5QkJ2eENvYkRNRFc4OFhGSi1kOUV1b0lPQkRGZTVSOUJBZ29PZTVZYzZzVzh3OW9nNUVKNml2S2djUlhubXVydXA0ckV2Wnc",
@@ -799,15 +798,10 @@
   "CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw",
   "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#1",
   "CBMiYkFVX3lxTE41UWVQSlZXZGhGcVlYOFZCWUhJTzhlNnNIQ3B6MEZyRE9QUjRGV0ViYV9QcXhQZjh6eFdHZ3RwNTd0emswN2l3WWN1QkNHd0NuNDNJLU0zak1JQUJ6d2QyTlV3",
-  "https://thehill.com/?p=6072956"
+  "https://thehill.com/?p=6072956",
+  "https://www.bbc.co.uk/news/articles/c5y75dl0jpko#3"
  ],
  "posts": [
-  {
-   "fp": "decades democratic medicare nominee policy senate",
-   "title": "Democratic SC Senate nominee: 'Medicare for All is a policy from a few decades ago'",
-   "source": "The Hill",
-   "at": "2026-08-27T13:50:00.326296+00:00"
-  },
   {
    "fp": "abortion finds makers making millions oversight pill responsibility senate shirk",
    "title": "Abortion pill makers shirk oversight responsibility while making millions, Senate GOP finds",
@@ -3201,10 +3195,15 @@
    "title": "Trump's signs order allowing ranchers to kill wolves to protect herds",
    "source": "The Hill",
    "at": "2026-09-05T13:09:44.771083+00:00"
+  },
+  {
+   "fp": "ancient cave discovery humans ireland known suggests wales walked",
+   "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
+   "source": "BBC Science",
+   "at": "2026-09-05T13:48:04.404417+00:00"
   }
  ],
  "titles": [
-  "decades democratic medicare nominee policy senate",
   "abortion finds makers making millions oversight pill responsibility senate shirk",
   "buoyed earnings falls futures nasdaq nvidia software",
   "additional backdoors chinese discover made researchers routers zbtlink",
@@ -3603,6 +3602,7 @@
   "awards celebrates cockroach milk nobel oddest science snakes stepping",
   "attack iran iranian island kharg near tanker tasnim",
   "barracks blast bolivia dead least military",
-  "allowing herds kill order protect ranchers signs trump wolves"
+  "allowing herds kill order protect ranchers signs trump wolves",
+  "ancient cave discovery humans ireland known suggests wales walked"
  ]
 }
