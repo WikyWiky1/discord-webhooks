@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiiwFBVV95cUxQbUJWU095QkNOcGpPeFdUVzNwZTBGdWlybTROeWVXdXk3dUxub01UdDNVeTdiYmtVRWdNNG9iM2RNRGRkRTBjLWUyMnI2d3JQTTFLUnRLU1pKOGhQY2JCaDE1a2UzbHo4UUNLM0xsWGNBUGpmSC1jZ1RTb0FkbWM5elJJa205YmUya3hj",
-  "CBMiswFBVV95cUxQQ0UyYlJfR0swcWM4cTlzdmlMc3l5aUdpbHZUOFFfMVNEbVdlTnB3dGJRTjNjY21WSEZmdkR5aGdZMURMOV9PYWpVdElOcEFzLUk2MzFDd2h3UTY5MGt0LVUxT2dKMDd3elVmd09RNEdIRmszNDE3N1lpY1ZDTmZteTVaeXJWcFZUZTdEZ2FCSEVKaDBWQVFjTktpc3J5RnpDdG11YWNDM1dJeVdZc2R0TDBKNA",
   "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
   "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
   "https://www.theguardian.com/us-news/2026/aug/23/trump-sowing-election-distrust",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40674885",
   "https://nypost.com/?post_type=article&p=40676604",
   "https://nypost.com/?post_type=article&p=40674903",
-  "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation"
+  "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
+  "https://www.washingtonexaminer.com/?p=4714796",
+  "https://www.foxnews.com/world/cockroach-milk-stepping-snakes-ig-nobel-awards-celebrates-science-oddest"
  ],
  "posts": [
-  {
-   "fp": "beautiful fire house killed middlesbrough mother niece soul woman",
-   "title": "Woman killed with niece in Middlesbrough house fire was \u2018a beautiful soul\u2019, says mother",
-   "source": "Guardian World",
-   "at": "2026-08-27T11:13:15.618003+00:00"
-  },
-  {
-   "fp": "associated breaking latest news press today",
-   "title": "Associated Press News: Breaking News | Latest News Today",
-   "source": "AP",
-   "at": "2026-08-27T11:13:17.466818+00:00"
-  },
   {
    "fp": "bandit gunfight island killed luxury marina police rare rhode sailboat stealing vessel",
    "title": "Rhode Island sailboat bandit killed in gunfight with police after stealing rare, luxury vessel from NJ marina",
@@ -3201,11 +3189,21 @@
    "title": "\u2018Guilt by association\u2019: why seven international aid workers were killed in Israeli airstrike",
    "source": "Guardian World",
    "at": "2026-09-05T01:00:51.929373+00:00"
+  },
+  {
+   "fp": "administration chief democratic election nevada office seven subpoenas trump",
+   "title": "Nevada Democratic election chief says Trump administration hit his office with seven DOJ subpoenas",
+   "source": "Washington Examiner",
+   "at": "2026-09-05T03:12:24.359701+00:00"
+  },
+  {
+   "fp": "awards celebrates cockroach milk nobel oddest science snakes stepping",
+   "title": "From cockroach milk to stepping on snakes, Ig Nobel awards celebrates science at its oddest",
+   "source": "Fox News World",
+   "at": "2026-09-05T03:12:26.187565+00:00"
   }
  ],
  "titles": [
-  "beautiful fire house killed middlesbrough mother niece soul woman",
-  "associated breaking latest news press today",
   "bandit gunfight island killed luxury marina police rare rhode sailboat stealing vessel",
   "fears leads nasdaq nvidia quells wall",
   "aimed bill russia sanctions wrong",
@@ -3603,6 +3601,8 @@
   "burning dead down festival found hazard locked weather",
   "california chemical club dangerous emergency golf hazmat hospitalized mixture person ritzy",
   "attack gold grandmother heart home island killed long violent",
-  "airstrike association guilt international israeli killed seven workers"
+  "airstrike association guilt international israeli killed seven workers",
+  "administration chief democratic election nevada office seven subpoenas trump",
+  "awards celebrates cockroach milk nobel oddest science snakes stepping"
  ]
 }
