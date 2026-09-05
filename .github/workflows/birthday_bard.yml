@@ -2,28 +2,30 @@ name: Birthday Bard
 
 on:
   schedule:
-    # GitHub Actions cron is ALWAYS UTC.
-    # Daily 9:00 AM Chicago time:
-    #   CDT (Mar–Nov, UTC-5)  ->  14:00 UTC
-    #   CST (Nov–Mar, UTC-6)  ->  15:00 UTC
-    # Both run daily; the script's timezone gate + last_run_date guard
-    # ensure it only actually posts once per day.
+    # GitHub Actions cron is ALWAYS UTC. Target is 8:00 AM Chicago.
+    #   CDT (Mar–Nov, UTC-5)  ->  13:00 UTC
+    #   CST (Nov–Mar, UTC-6)  ->  14:00 UTC
+    # All three fire year-round. The script's 08:00 local floor discards the
+    # ones that are too early for the current season, and last_run_date stops
+    # the rest from double-posting. 15:00 UTC is a late safety net in case
+    # GitHub skips or delays the earlier windows.
+    - cron: '0 13 * * *'
     - cron: '0 14 * * *'
     - cron: '0 15 * * *'
-
   # Manual button — Actions tab -> Birthday Bard -> Run workflow
   workflow_dispatch:
     inputs:
       mode:
         description: 'What should the Bard do?'
         required: true
-        default: 'online'
+        default: 'check'
         type: choice
         options:
+          - 'check'     # normal run: floor + once-per-day guard both apply
+          - 'force'     # post today's birthdays right now, no guards
           - 'online'    # posts "Birthday Bard is online." (test)
           - 'list'      # prints the roster to the log, posts nothing
           - 'preview'   # posts a real greeting for the name below
-          - 'force'     # runs today's real check, ignoring the time gate
       name:
         description: 'Name to preview (only used when mode = preview)'
         required: false
@@ -42,7 +44,6 @@ jobs:
     name: Check birthdays
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
@@ -72,6 +73,14 @@ jobs:
             exit 1
           fi
 
+      - name: Trigger diagnostics
+        run: |
+          echo "Event:       ${{ github.event_name }}"
+          echo "Cron:        ${{ github.event.schedule }}"
+          echo "Mode:        ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'check' }}"
+          echo "UTC now:     $(date -u '+%Y-%m-%d %H:%M')"
+          echo "Chicago now: $(TZ=America/Chicago date '+%Y-%m-%d %H:%M %Z')"
+
       - name: Run Birthday Bard
         env:
           BIRTHDAY_BARD_WEBHOOK: ${{ secrets.BIRTHDAY_BARD_WEBHOOK }}
@@ -80,6 +89,7 @@ jobs:
         run: python birthday_bard.py
 
       - name: Commit updated state
+        if: always()
         run: |
           if [[ -n "$(git status --porcelain birthday_state.json)" ]]; then
             git config user.name  "birthday-bard[bot]"
