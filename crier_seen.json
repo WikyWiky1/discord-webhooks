@@ -1,12 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c87n792dnlno#0",
-  "https://nypost.com/?post_type=article&p=40478705",
-  "CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw",
-  "https://www.bbc.co.uk/news/articles/cdeweewjdxno#0",
-  "CBMimwFBVV95cUxOVmNzZFdnbUtfVVBfS2Myd2NqVDFLb0hqc2ZQQjdJTFh3SUJlU3ZudUxfX0ZhY1l3RVNCN052ZUQyNVNYRlRSa2Jzc0JoR1FqdXFmWnRPcFJoYl8yNDkzV21zMDlpVnU1VndCT1Z2UVNSYVQzY0dhU21hbVY5UzkxTlhmNGtyWlhxekxrWk1MaFJZYVplbGR5NnhOMA",
-  "https://nypost.com/?post_type=article&p=40479414",
-  "https://www.theguardian.com/education/2026/aug/24/most-english-secondary-schools-are-breaking-healthy-food-rules-finds-report",
   "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
   "https://nypost.com/?post_type=article&p=40479718",
   "CBMiwAFBVV95cUxQNUdJZmtXbGswR3ZFWEt4YXhiQmV4czBoYktSbjRENXhiZ2xfb0EwdFdXdVZWTzFCSTJjM213VHNaem1rcWhCSjBUbFBiRkpXTHdzV0l1TG16aDdRRTAtQVUyVGdDSGJUenBJZ1Ytajh1ZjZBYjFOdDEyR0NFMG9vLUNjS2RzRnVwR19yU1hDLWxGNDU4WFFhQnB2VlRhcTRjSkJqMWwxbXhlR1NGaTk5NHlPMktQSGY3OGNUc09ZUlA",
@@ -799,51 +792,16 @@
   "https://nypost.com/?post_type=article&p=40690348",
   "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
   "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
-  "CBMiuwFBVV95cUxOWkVzWDM5cENTaHhZNmdPZHRJUXd3NzRfQUs3RE1qUEU4UXlrTUJTaHR3VWEtbmVvS21PU0o3bTRuZ1ZiS1c1RU1NTm9EN2lKN1NCVklFRE5XMm9vZXVWWUotLWd5NjNCaUpEbVUtU2p4QkFjZDRNbW9LSmtKUEhyYmtxY3FaV0V6LXBOUDZYOTRpVTNNRC1qTXhaZzdIQ0x1ZXZKYXNBT1Y1U1J3ZlJ6QnJFSi1zVFhKOGRB"
+  "CBMiuwFBVV95cUxOWkVzWDM5cENTaHhZNmdPZHRJUXd3NzRfQUs3RE1qUEU4UXlrTUJTaHR3VWEtbmVvS21PU0o3bTRuZ1ZiS1c1RU1NTm9EN2lKN1NCVklFRE5XMm9vZXVWWUotLWd5NjNCaUpEbVUtU2p4QkFjZDRNbW9LSmtKUEhyYmtxY3FaV0V6LXBOUDZYOTRpVTNNRC1qTXhaZzdIQ0x1ZXZKYXNBT1Y1U1J3ZlJ6QnJFSi1zVFhKOGRB",
+  "CBMi4gFBVV95cUxQczJnOTF3RjVoSXVJU1ItNWdXcXhMNW8xa2tqLXdtMHBvRlo3SlNhSU5Yelhnc3lUdWtQYzB2VHNFUXFMNk96QzFnMzh1Nk5HYmFIUHpRSEk1bmVPUzZGY0ZmeTkwZG5mcUw5RXZwanNMOUYxRWRSM041NUlMSjQ3YXpMa0poeEIwbmc4Ml9wZ0tYQjRjMWczcnFEdU80X2ZnRFBmRmxDZ2J2RkM0bkpjbHZPMXpqUTlrVWhQQmdiVk4tOWswdWFoRVdFeG9DeGptQ3hnQkE3b3VtM2VlUVNJamxn",
+  "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
+  "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
+  "CBMiigFBVV95cUxPSjdYRG80Z0M3NlB0RVdBYzdMWDJnc1hKa2RSYmZnR3h0bE9DcEFCN0FYRkhjSlM0SV9JaHJVcVBfVV9TaXBFeUZmYjlpckZrdmExOE9POW43QWx0VFJ0MkNSUEFtV0EyMDZjVzN2NjdCUVRUSzFFMHZMWmxkaWxDUjQtS21QM0hBYVE",
+  "https://nypost.com/?post_type=article&p=40693535",
+  "https://nypost.com/?post_type=article&p=40692058",
+  "CBMimAFBVV95cUxQMTFYb1YxeVRIcHphazF4MHA5U0FVQ3lTcVNyOGNIbkduWW8zX2xORWIxcjNIbE14WVl6UFFPMHZBVzlNc0JJd2hqWEtRb2ZkeTZVRmVVeDk5NmhiNHBtRy12bF94TEo0Qkc5U2dJYVdaamM0UWZOMTNBZ2hHaFM1S0w2NUd5cDFSSU5SaW5VZmhacFQteVVFcg"
  ],
  "posts": [
-  {
-   "fp": "gaza including israeli kills medics people strike year",
-   "title": "Israeli strike kills two people including a 3-year-old boy, Gaza medics say",
-   "source": "Reuters World",
-   "at": "2026-08-30T11:00:12.139695+00:00"
-  },
-  {
-   "fp": "injured killed manhunt rave several shooting swiss underway woman",
-   "title": "Manhunt underway after woman killed, several injured at Swiss rave shooting",
-   "source": "Reuters",
-   "at": "2026-08-30T11:00:13.865002+00:00"
-  },
-  {
-   "fp": "collapse crushed economy forest gold market south timber until",
-   "title": "Timber Was Gold in the South\u2014Until a Market Collapse Crushed the Forest Economy",
-   "source": "WSJ",
-   "at": "2026-08-30T11:00:15.666398+00:00"
-  },
-  {
-   "fp": "five injures kills manhunt rave shooting swiss woman",
-   "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-   "source": "BBC World",
-   "at": "2026-08-30T11:00:17.432225+00:00"
-  },
-  {
-   "fp": "breaking live news russia ukraine updates",
-   "title": "Russia-Ukraine | Breaking News & Live Updates",
-   "source": "AP",
-   "at": "2026-08-30T11:00:19.160173+00:00"
-  },
-  {
-   "fp": "dead rave shooting switzerland wounded",
-   "title": "1 dead and 5 wounded in a shooting at a rave in Switzerland",
-   "source": "AP",
-   "at": "2026-08-30T11:00:20.888142+00:00"
-  },
-  {
-   "fp": "australia broken chants here kill moment ribs trump",
-   "title": "From \u2018kill her\u2019 chants to broken ribs: Australia\u2019s Trump moment is here",
-   "source": "Washington Examiner",
-   "at": "2026-08-30T11:00:22.760406+00:00"
-  },
   {
    "fp": "death kyiv region rises strike toll zelenskiy",
    "title": "Kyiv region strike death toll rises to 38, Zelenskiy says",
@@ -3201,16 +3159,51 @@
    "title": "Far-right AfD posts historic German state election win, exit polls show",
    "source": "Reuters",
    "at": "2026-09-06T20:03:14.723215+00:00"
+  },
+  {
+   "fp": "destroyer jong korea north nuclear part response system",
+   "title": "North Korea's Kim Jong Un says new destroyer will be part of nuclear response system",
+   "source": "Reuters World",
+   "at": "2026-09-06T21:56:27.296822+00:00"
+  },
+  {
+   "fp": "airport amazon cargo crashes dead five least miami plane",
+   "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
+   "source": "Guardian World",
+   "at": "2026-09-06T21:56:31.548521+00:00"
+  },
+  {
+   "fp": "australian killed labor live lobbying mexico news parents pressured rules surfers toughen trial",
+   "title": "News live: parents of Australian surfers killed in Mexico fly in for trial; Labor pressured to toughen lobbying rules",
+   "source": "Guardian World",
+   "at": "2026-09-06T21:56:33.349875+00:00"
+  },
+  {
+   "fp": "cyclists group hits kent killed",
+   "title": "Kent: Two killed after car hits group of cyclists",
+   "source": "Telegraph",
+   "at": "2026-09-06T21:56:35.109886+00:00"
+  },
+  {
+   "fp": "explosion festival firework injures kills massive mexico popular",
+   "title": "Massive firework explosion kills 10, injures 64 during popular festival in Mexico",
+   "source": "New York Post",
+   "at": "2026-09-06T21:56:36.841060+00:00"
+  },
+  {
+   "fp": "california crack earthquake experts next predicting strike where",
+   "title": "California experts crack earthquake predicting \u2014 and where a big one will strike next",
+   "source": "New York Post",
+   "at": "2026-09-06T21:56:39.055805+00:00"
+  },
+  {
+   "fp": "central dead explosion fireworks injures kills least mexico people",
+   "title": "Explosion of fireworks in central Mexico kills at least 10 dead, injures 64 people",
+   "source": "AP",
+   "at": "2026-09-06T21:56:40.782059+00:00"
   }
  ],
  "titles": [
-  "gaza including israeli kills medics people strike year",
-  "injured killed manhunt rave several shooting swiss underway woman",
-  "collapse crushed economy forest gold market south timber until",
-  "five injures kills manhunt rave shooting swiss woman",
-  "breaking live news russia ukraine updates",
-  "dead rave shooting switzerland wounded",
-  "australia broken chants here kill moment ribs trump",
   "death kyiv region rises strike toll zelenskiy",
   "christian falling festival identified killed pastor sign",
   "amsterdam calls complete dutch fifa global overhaul proposes summit",
@@ -3603,6 +3596,13 @@
   "fighting found many races republicans senate suddenly survival themselves twice",
   "election fail german majority right secure state wins",
   "election exit german lead party polls regional right suggest",
-  "election exit german historic polls posts right show state"
+  "election exit german historic polls posts right show state",
+  "destroyer jong korea north nuclear part response system",
+  "airport amazon cargo crashes dead five least miami plane",
+  "australian killed labor live lobbying mexico news parents pressured rules surfers toughen trial",
+  "cyclists group hits kent killed",
+  "explosion festival firework injures kills massive mexico popular",
+  "california crack earthquake experts next predicting strike where",
+  "central dead explosion fireworks injures kills least mexico people"
  ]
 }
