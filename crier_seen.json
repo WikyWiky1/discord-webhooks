@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40473307",
   "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
   "CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE",
   "CBMipgFBVV95cUxOdXFDSjdhajZPMnNJT2R2VUpGeGM1NjhIbnV0MDR4WVBuWWJrcTNiU09zdWRsNDFoVzNGaXZPVDdCYjZhV3FabGRzckdjX0J1bHpPRUNnUXk5ZGRxTlBMckJCejNvOG9aMllGcjR6aW1kQlRya2QzTnR3X0pkTnhtZlRpWHBqT1N1OUZKUzB3Z1Bqa3N2NU1JR3JwVG5IWlRrc19ub0Z3",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
   "https://thehill.com/?p=6073421",
   "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
-  "https://nypost.com/?post_type=article&p=40686058"
+  "https://nypost.com/?post_type=article&p=40686058",
+  "CBMiVkFVX3lxTE1vQzJIb2ZFd1kyMDdzTnZSN3BIUVZ5VHpLRkxOV1o5WGdJUExqY1BIOWtOQkxLUjRpdkVTbnpOUmFJdWdvdGl5U0dpT3Z2MVROWDNYbkp3"
  ],
  "posts": [
-  {
-   "fp": "baby dead festival found michigan mother music porta potty sought",
-   "title": "Mother sought after baby found dead in porta-potty at Michigan music festival",
-   "source": "The Hill",
-   "at": "2026-08-28T17:41:11.898263+00:00"
-  },
   {
    "fp": "about change launch nasa space telescope universe",
    "title": "NASA is about to launch a space telescope that could change how we see the universe",
@@ -3201,10 +3195,15 @@
    "title": "Iran plotting new Oct. 7-style attack against Israel with its terrorist proxies: report",
    "source": "New York Post",
    "at": "2026-09-06T00:10:56.982903+00:00"
+  },
+  {
+   "fp": "2026 archive journal news september street wall",
+   "title": "The Wall Street Journal's News Archive for September 6, 2026 - WSJ.com",
+   "source": "WSJ",
+   "at": "2026-09-06T03:12:25.955971+00:00"
   }
  ],
  "titles": [
-  "baby dead festival found michigan mother music porta potty sought",
   "about change launch nasa space telescope universe",
   "breakthrough cancer century failures inside merck moderna success vaccine",
   "appeals court gambling like market platforms prediction regulate rules states",
@@ -3603,6 +3602,7 @@
   "attack blamed colombia drone guerrillas kills least soldiers three",
   "campaign funnels maga million paxton senate super trump",
   "alarming behind election flooding lead media social victoria",
-  "attack iran israel plotting proxies report style terrorist"
+  "attack iran israel plotting proxies report style terrorist",
+  "2026 archive journal news september street wall"
  ]
 }
