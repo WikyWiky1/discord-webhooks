@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
-  "CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE",
-  "CBMipgFBVV95cUxOdXFDSjdhajZPMnNJT2R2VUpGeGM1NjhIbnV0MDR4WVBuWWJrcTNiU09zdWRsNDFoVzNGaXZPVDdCYjZhV3FabGRzckdjX0J1bHpPRUNnUXk5ZGRxTlBMckJCejNvOG9aMllGcjR6aW1kQlRya2QzTnR3X0pkTnhtZlRpWHBqT1N1OUZKUzB3Z1Bqa3N2NU1JR3JwVG5IWlRrc19ub0Z3",
   "https://nypost.com/?post_type=article&p=40472578",
   "https://thehill.com/?p=6043948",
   "CBMiekFVX3lxTE54UGtpc1k2M2FfVVRRWk4wdFh4a1diZzVsYnRQWU9hWE9xblI5TWF2UTltNWJnM01WOWFDeWpWVWIwa0FPeWN6UnRNQjJFT2tKbGpOWDRVVXBlR2RSUUZLenJRN2puQ0JKbnNGWldkYmd2ZVlmM0EzRkx3",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6073421",
   "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
   "https://nypost.com/?post_type=article&p=40686058",
-  "CBMiVkFVX3lxTE1vQzJIb2ZFd1kyMDdzTnZSN3BIUVZ5VHpLRkxOV1o5WGdJUExqY1BIOWtOQkxLUjRpdkVTbnpOUmFJdWdvdGl5U0dpT3Z2MVROWDNYbkp3"
+  "CBMiVkFVX3lxTE1vQzJIb2ZFd1kyMDdzTnZSN3BIUVZ5VHpLRkxOV1o5WGdJUExqY1BIOWtOQkxLUjRpdkVTbnpOUmFJdWdvdGl5U0dpT3Z2MVROWDNYbkp3",
+  "https://www.washingtonexaminer.com/?p=4714217",
+  "CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU",
+  "CBMizgFBVV95cUxOYlY5UWtzNjhvVnRzNHJpWk54ZTYwMjZNeWIwUTVNU1RSOFl2X19NcGZvRnJxNDZUMmt5LWlvZnROeVlHQ052V2UtaUViYjFBWFhJSlJqN3p5TC1kZHZPZ3hPdDRETE9INHpnYm04eXItcGZhUVRNUVFNbTNTSUoydUdRX3ZtWmFHdnB4cVNNWnRjTTFmN0E5ekFzcEFxcGhzbnR5QU41c2dLcml4Z0l3ZzcwRFhQRlBQdTRmQi0wMnRxUlFkNGI0TmRNZFRhdw"
  ],
  "posts": [
-  {
-   "fp": "about change launch nasa space telescope universe",
-   "title": "NASA is about to launch a space telescope that could change how we see the universe",
-   "source": "NPR News",
-   "at": "2026-08-28T21:20:11.294183+00:00"
-  },
-  {
-   "fp": "breakthrough cancer century failures inside merck moderna success vaccine",
-   "title": "Success after a century of failures: Inside Moderna and Merck's cancer vaccine breakthrough",
-   "source": "Reuters",
-   "at": "2026-08-28T23:53:19.740803+00:00"
-  },
-  {
-   "fp": "appeals court gambling like market platforms prediction regulate rules states",
-   "title": "Appeals court rules states can regulate prediction market platforms like gambling",
-   "source": "The Hill",
-   "at": "2026-08-28T23:53:21.578655+00:00"
-  },
   {
    "fp": "appeals block cannot court kalshi markets nevada oversight prediction rules",
    "title": "Kalshi cannot block Nevada oversight of prediction markets, US appeals court rules",
@@ -3201,12 +3183,27 @@
    "title": "The Wall Street Journal's News Archive for September 6, 2026 - WSJ.com",
    "source": "WSJ",
    "at": "2026-09-06T03:12:25.955971+00:00"
+  },
+  {
+   "fp": "deal improvement needs nuclear saudi",
+   "title": "The US-Saudi nuclear deal needs improvement",
+   "source": "Washington Examiner",
+   "at": "2026-09-06T09:05:41.684162+00:00"
+  },
+  {
+   "fp": "breaking europe european news today",
+   "title": "Europe News | Breaking European News Today",
+   "source": "AP",
+   "at": "2026-09-06T09:05:44.561103+00:00"
+  },
+  {
+   "fp": "airport anti attack bild drone germany plans reports sabotage shield",
+   "title": "Germany plans anti-sabotage shield after airport drone attack, Bild reports",
+   "source": "Reuters World",
+   "at": "2026-09-06T09:05:46.303009+00:00"
   }
  ],
  "titles": [
-  "about change launch nasa space telescope universe",
-  "breakthrough cancer century failures inside merck moderna success vaccine",
-  "appeals court gambling like market platforms prediction regulate rules states",
   "appeals block cannot court kalshi markets nevada oversight prediction rules",
   "bond boosts fall speech stocks warsh yields",
   "bond drift hike interest lower market prepares rates stocks",
@@ -3603,6 +3600,9 @@
   "campaign funnels maga million paxton senate super trump",
   "alarming behind election flooding lead media social victoria",
   "attack iran israel plotting proxies report style terrorist",
-  "2026 archive journal news september street wall"
+  "2026 archive journal news september street wall",
+  "deal improvement needs nuclear saudi",
+  "breaking europe european news today",
+  "airport anti attack bild drone germany plans reports sabotage shield"
  ]
 }
