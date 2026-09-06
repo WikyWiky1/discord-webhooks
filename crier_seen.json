@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-  "CBMiwgFBVV95cUxQWGtiZW5Ld0FtTHR4WGxYRFY1RTdhbFBuVURtUzNXYUZHY0JRXzFaLV94Z2I1a0c3MWNYVjM2ZW5QYmpKcTdDVFpIaURqTUJKdzYzbE9lQ3VXR29adTVGeEFKTkRBZVpGSzk1MUNqZGs1c2tRa29qcXRCU1pYeTU1aDFMbDhyamxqVlhvNGhZdXcwMUV3aTJlQmhwby0wTFF0UW5qalNYM0xhaDhNMVk3aE1DdGVYSE4yNXA0ZC1SazVjdw",
   "https://www.washingtonexaminer.com/?p=4697809",
   "CBMiugFBVV95cUxOOHlaU2l2LVBMWUlIYnc5WTVya19SRVFldDFJODV4bG9ydzItNU9NNDJsRlRERzdfZkt0SXJNZl9RcGItS2ZoSVdSZXhFM0ZMSjh6Z0NZS2xIWnVNbS0tQW9mT1Npay1YVnVZamUwUFVNMWhJSnRaMmpqSEJieEh0OGYwaUt6STF2X3dRS2JMa1NLSms5aE84MFkxZHZYV0hzNEVnV3dSdmVQT09KTE5RdWlqTTNUSV9yU0E",
   "https://nypost.com/?post_type=article&p=40474067",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40689302",
   "https://nypost.com/?post_type=article&p=40689595",
   "https://thehill.com/?p=6073768",
-  "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro#0"
+  "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro#0",
+  "CBMiwAFBVV95cUxNS1Brd1ZPb1hjQmpDa0R3azdHcXBsTC1HVEx1VThQcktSUXFhOHYtLVhNWG5sTkV1ZWtXR3VQN0U2U2M4U1A5SVZ4Y0Iza25QRWl2Qzl5aXRNMjhqOUJXdkMzWUtKVmFUenhPMFVoeDRTV2F4QkdYVk5SX2k4am1pWmFQU1J4Y1hkZTJXdFZUVzZ5aUxTdUJyVE5sLUtkNXRsV090bWZwRDZEcEVOSUxMYUpKZUxNMnVpenI2U3pxazY",
+  "https://www.washingtonexaminer.com/?p=4715422"
  ],
  "posts": [
-  {
-   "fp": "area commander forces hamas including israeli jenin kill palestinian terrorists",
-   "title": "Israeli forces kill 3 Palestinian terrorists in Jenin area, including Hamas commander",
-   "source": "New York Post",
-   "at": "2026-08-29T19:58:01.262755+00:00"
-  },
-  {
-   "fp": "bank banque central egypt examination iran launches misr notice reviews sanctions urgent",
-   "title": "Egypt's Banque Misr reviews US Iran sanctions notice, UAE central bank launches urgent examination",
-   "source": "Reuters World",
-   "at": "2026-08-29T19:58:02.904342+00:00"
-  },
   {
    "fp": "become conscious dead wants",
    "title": "AI could become conscious. What if it wants us dead?",
@@ -3201,11 +3189,21 @@
    "title": "Dozens feared trapped in collapsed building in Delhi",
    "source": "BBC World",
    "at": "2026-09-06T15:55:44.314424+00:00"
+  },
+  {
+   "fp": "bill california down fail lawmakers pass surprise twist watered wildfire",
+   "title": "In Surprise Twist, California Lawmakers Fail to Pass Watered-Down Wildfire Bill",
+   "source": "WSJ",
+   "at": "2026-09-06T17:56:26.587178+00:00"
+  },
+  {
+   "fp": "administration deal delayed iran next nuclear tehran until wright",
+   "title": "Iran nuclear deal may be delayed until \u2018next administration\u2019 in Tehran, Wright says",
+   "source": "Washington Examiner",
+   "at": "2026-09-06T17:56:28.473429+00:00"
   }
  ],
  "titles": [
-  "area commander forces hamas including israeli jenin kill palestinian terrorists",
-  "bank banque central egypt examination iran launches misr notice reviews sanctions urgent",
   "become conscious dead wants",
   "captured chilling dogs google images killed maps pack where",
   "abdul apologizes attack controversial jews michigan sayed statement synagogue",
@@ -3603,6 +3601,8 @@
   "andy butcher collapses dies ring williams wrestler",
   "angeles earthquake hits overnight sunday",
   "agreement iran nuclear reach wright",
-  "building collapsed delhi dozens feared trapped"
+  "building collapsed delhi dozens feared trapped",
+  "bill california down fail lawmakers pass surprise twist watered wildfire",
+  "administration deal delayed iran next nuclear tehran until wright"
  ]
 }
