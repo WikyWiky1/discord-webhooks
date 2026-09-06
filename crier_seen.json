@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
   "https://nypost.com/?post_type=article&p=40479718",
   "CBMiwAFBVV95cUxQNUdJZmtXbGswR3ZFWEt4YXhiQmV4czBoYktSbjRENXhiZ2xfb0EwdFdXdVZWTzFCSTJjM213VHNaem1rcWhCSjBUbFBiRkpXTHdzV0l1TG16aDdRRTAtQVUyVGdDSGJUenBJZ1Ytajh1ZjZBYjFOdDEyR0NFMG9vLUNjS2RzRnVwR19yU1hDLWxGNDU4WFFhQnB2VlRhcTRjSkJqMWwxbXhlR1NGaTk5NHlPMktQSGY3OGNUc09ZUlA",
   "CBMiZ0FVX3lxTFB1eERhLWl4RktLUVF0TkZaRFI4V1UxdzNLQU1KMllWdG5pUGJ1UGs5M3FmU3ZLUkx5S0xtU3YxRXE2Q0hhY1BEYmt3NUxHYUdyd1BKdVlEWi1maV9GbWtDMHEyTm1EUlk",
@@ -799,15 +798,10 @@
   "CBMiigFBVV95cUxPSjdYRG80Z0M3NlB0RVdBYzdMWDJnc1hKa2RSYmZnR3h0bE9DcEFCN0FYRkhjSlM0SV9JaHJVcVBfVV9TaXBFeUZmYjlpckZrdmExOE9POW43QWx0VFJ0MkNSUEFtV0EyMDZjVzN2NjdCUVRUSzFFMHZMWmxkaWxDUjQtS21QM0hBYVE",
   "https://nypost.com/?post_type=article&p=40693535",
   "https://nypost.com/?post_type=article&p=40692058",
-  "CBMimAFBVV95cUxQMTFYb1YxeVRIcHphazF4MHA5U0FVQ3lTcVNyOGNIbkduWW8zX2xORWIxcjNIbE14WVl6UFFPMHZBVzlNc0JJd2hqWEtRb2ZkeTZVRmVVeDk5NmhiNHBtRy12bF94TEo0Qkc5U2dJYVdaamM0UWZOMTNBZ2hHaFM1S0w2NUd5cDFSSU5SaW5VZmhacFQteVVFcg"
+  "CBMimAFBVV95cUxQMTFYb1YxeVRIcHphazF4MHA5U0FVQ3lTcVNyOGNIbkduWW8zX2xORWIxcjNIbE14WVl6UFFPMHZBVzlNc0JJd2hqWEtRb2ZkeTZVRmVVeDk5NmhiNHBtRy12bF94TEo0Qkc5U2dJYVdaamM0UWZOMTNBZ2hHaFM1S0w2NUd5cDFSSU5SaW5VZmhacFQteVVFcg",
+  "CBMiZ0FVX3lxTE1pdFo0M2haaWl1WlA2WmhNeGs2S0ZTUUVtVHhscVhpeDFuQ1NBd1F6Njc4NmY5aU9jempWTUljNFlOMjRuSUM4VXVSY0JrTUZTTVRnQThJbkhsaUhUdFhsZzZQSHdCRnc"
  ],
  "posts": [
-  {
-   "fp": "death kyiv region rises strike toll zelenskiy",
-   "title": "Kyiv region strike death toll rises to 38, Zelenskiy says",
-   "source": "Reuters World",
-   "at": "2026-08-30T11:00:24.525153+00:00"
-  },
   {
    "fp": "christian falling festival identified killed pastor sign",
    "title": "Pastor killed by falling sign at Christian festival identified",
@@ -3201,10 +3195,15 @@
    "title": "Explosion of fireworks in central Mexico kills at least 10 dead, injures 64 people",
    "source": "AP",
    "at": "2026-09-06T21:56:40.782059+00:00"
+  },
+  {
+   "fp": "election german historic right state victory wins",
+   "title": "Far-right AfD wins historic victory in German state election",
+   "source": "Reuters World",
+   "at": "2026-09-06T22:43:09.039071+00:00"
   }
  ],
  "titles": [
-  "death kyiv region rises strike toll zelenskiy",
   "christian falling festival identified killed pastor sign",
   "amsterdam calls complete dutch fifa global overhaul proposes summit",
   "opinion stakes tariff texas trump",
@@ -3603,6 +3602,7 @@
   "cyclists group hits kent killed",
   "explosion festival firework injures kills massive mexico popular",
   "california crack earthquake experts next predicting strike where",
-  "central dead explosion fireworks injures kills least mexico people"
+  "central dead explosion fireworks injures kills least mexico people",
+  "election german historic right state victory wins"
  ]
 }
