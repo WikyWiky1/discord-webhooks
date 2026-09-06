@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40472578",
-  "https://thehill.com/?p=6043948",
-  "CBMiekFVX3lxTE54UGtpc1k2M2FfVVRRWk4wdFh4a1diZzVsYnRQWU9hWE9xblI5TWF2UTltNWJnM01WOWFDeWpWVWIwa0FPeWN6UnRNQjJFT2tKbGpOWDRVVXBlR2RSUUZLenJRN2puQ0JKbnNGWldkYmd2ZVlmM0EzRkx3",
-  "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
-  "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#0",
-  "CBMiZkFVX3lxTE5vYktpZnRzenVxdzJQSlZNbmxOMWpRbjBGbk9MWnJCNGFsVUdJczZhTmJRUk1FSDVWRklQREZYbjlOOXdpV09QVmV6NTl2Wm1UWGN6ME1DMjZrbUlmSzBSZ0dFam81QQ",
   "CBMiqwFBVV95cUxNNTdhSU5pTjdVYUdWZnhGczIwbG0yYW1DZldpTDJHSkdzUFFrejlibXBSTVJIeFhQZndMd1VRUXUzSnU0MmN5UHhvV3ZuSUU5aGJVbncyb0JUcUl0RTV5XzRQTG9tZ1Y2Um41dGZ3LV9rUmdaSmstdUVyRE5NWGI3NjdWNUJ5a0xXdUJ0MGx2TENSQmR4Szd6SWYzWHZqdC1tYXhTR194aFQ1V1E",
   "CBMitgFBVV95cUxNSVhMSE9Za3MyVm9WQjMwRmZHQ3NHZldfWXczSXhNeGpxT01yM3FLTWgzcFRGWUxxeTduaFJBQk5uRzJQVk1EM2xyWHhLNzBpOWpNb3pJX2xvQ0V3bF9PbTI4R3U5b1p6N3JqOEFyWnRTVFc3UUhUVzhtNkhaUC14Z2d6WHBWb1VGLXFjVDBZdGk5TEVVekxkX2h2c3FoT0h2b0M3NTVuX2l1cVpqTG9FZHcwRFpDUQ",
   "CBMipwFBVV95cUxPZHYtUV9lQk5RQWl0b3lQUlRtQ0VVRVYwbl9BblZ0SGN6SF83bjNxM1NkVTJ3NG5SSlBkSTZ5LTVENldyU1pRT2gtTjFrYUhBeWZHT0xCajhNbkJBbml6Sm5ORlEtSFlwNDQ3dEJNYTZsSlFoSUlUMk9aNnRDbklCdEFhcTFjV1VxSlIxeDlvejJoRlhZUE9NcC1XbExtMmo1cVZFVTE2OA",
@@ -799,45 +793,15 @@
   "CBMiVkFVX3lxTE1vQzJIb2ZFd1kyMDdzTnZSN3BIUVZ5VHpLRkxOV1o5WGdJUExqY1BIOWtOQkxLUjRpdkVTbnpOUmFJdWdvdGl5U0dpT3Z2MVROWDNYbkp3",
   "https://www.washingtonexaminer.com/?p=4714217",
   "CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU",
-  "CBMizgFBVV95cUxOYlY5UWtzNjhvVnRzNHJpWk54ZTYwMjZNeWIwUTVNU1RSOFl2X19NcGZvRnJxNDZUMmt5LWlvZnROeVlHQ052V2UtaUViYjFBWFhJSlJqN3p5TC1kZHZPZ3hPdDRETE9INHpnYm04eXItcGZhUVRNUVFNbTNTSUoydUdRX3ZtWmFHdnB4cVNNWnRjTTFmN0E5ekFzcEFxcGhzbnR5QU41c2dLcml4Z0l3ZzcwRFhQRlBQdTRmQi0wMnRxUlFkNGI0TmRNZFRhdw"
+  "CBMizgFBVV95cUxOYlY5UWtzNjhvVnRzNHJpWk54ZTYwMjZNeWIwUTVNU1RSOFl2X19NcGZvRnJxNDZUMmt5LWlvZnROeVlHQ052V2UtaUViYjFBWFhJSlJqN3p5TC1kZHZPZ3hPdDRETE9INHpnYm04eXItcGZhUVRNUVFNbTNTSUoydUdRX3ZtWmFHdnB4cVNNWnRjTTFmN0E5ekFzcEFxcGhzbnR5QU41c2dLcml4Z0l3ZzcwRFhQRlBQdTRmQi0wMnRxUlFkNGI0TmRNZFRhdw",
+  "https://www.foxnews.com/world/anti-migrant-afd-seeks-break-germanys-political-firewall-historic-state-election",
+  "CBMi4AFBVV95cUxPVThPTlhka2NYc2taZllVMURYaVIxUkxneXdRSUYxb0VfYV96WEJ3NTN0bkZxLW1tS1RKT21sRlBXYXVmbUdzckRESUliaTlNVWlpaVdSRUIzbnZ0RzJjVEZET2tEa3V1UHBrRkh2dlNyLVh2STRmNlpKQkNLYUtzVFhGbnoyR0VINUFlbTVmM0tFaHEtVmdWY3FCUnE4a044MWtiV2g0Tm14TWVtSVYyTExMXzdqVTJ4TDJKd2RoM3U2QzRUMEFKbW94VlFHTUw3LWQtdXEwNDRhOEZ5dzdjeg",
+  "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
+  "CBMiiwFBVV95cUxNc0NxRERHYTctb1JDdWRuek9ORmVLZ1Y4SjhsdGJPSWstMGVObWU4RHVsNkF2WFdRNGl4XzJmSVFBZVpHNGp0WFk4UURfMThDY09MZGdvbmNLTjFMdnZRN2lueGJTOUFiSW5IbzNPZEczbi01OWlsV1BIV25aNkQ4dkkzakozOXhHcVVB",
+  "CBMirwFBVV95cUxPTWxqSWplY21mUVFmelpyUm82aEdFOVNETndUR3o2OHRKZzhmbkRILWRia2VTZkg5OWJoc3M5ZjkzcVl5NzV5cEIwUVNwXzkwRGZYcjlRNERMdElDNFZCT3ppdzdVd0NpS3U3TlR3LVRGWVB0Y3FVVm5CYkN2eEhNMG9rU1AzNHAzYkZIVklhclJLcDFXRUJEaThwU0ttaWJWNEo0VDVPSzQxWlpOeHBJ",
+  "https://nypost.com/?post_type=article&p=40688250"
  ],
  "posts": [
-  {
-   "fp": "appeals block cannot court kalshi markets nevada oversight prediction rules",
-   "title": "Kalshi cannot block Nevada oversight of prediction markets, US appeals court rules",
-   "source": "Reuters",
-   "at": "2026-08-28T23:53:23.312569+00:00"
-  },
-  {
-   "fp": "bond boosts fall speech stocks warsh yields",
-   "title": "U.S. Stocks Fall After Warsh Speech Boosts Bond Yields",
-   "source": "WSJ",
-   "at": "2026-08-28T23:53:25.084097+00:00"
-  },
-  {
-   "fp": "bond drift hike interest lower market prepares rates stocks",
-   "title": "The bond market prepares for a hike to interest rates, while US stocks drift lower",
-   "source": "AP",
-   "at": "2026-08-28T23:53:26.870411+00:00"
-  },
-  {
-   "fp": "activity department governor investigation justice monitors primary requests wyoming",
-   "title": "Wyoming governor requests investigation into activity of Justice Department monitors during primary",
-   "source": "AP",
-   "at": "2026-08-28T23:53:28.605761+00:00"
-  },
-  {
-   "fp": "charges crash going heartless killed murder slapped socal suspect teens",
-   "title": "Heartless hit-and-run suspect slapped with murder charges after going 117 mph in SoCal crash that killed two teens",
-   "source": "New York Post",
-   "at": "2026-08-29T01:21:51.739588+00:00"
-  },
-  {
-   "fp": "death disease insist legionnaires longer officials outbreak reaches spreading toll",
-   "title": "NYC Legionnaires\u2019 outbreak death toll reaches 11\u2014 but officials insist disease no longer spreading",
-   "source": "New York Post",
-   "at": "2026-08-29T01:21:53.537035+00:00"
-  },
   {
    "fp": "asian earnings mixed nvidia stocks",
    "title": "Asian Stocks Mixed After Nvidia Earnings",
@@ -3201,15 +3165,45 @@
    "title": "Germany plans anti-sabotage shield after airport drone attack, Bild reports",
    "source": "Reuters World",
    "at": "2026-09-06T09:05:46.303009+00:00"
+  },
+  {
+   "fp": "anti break election firewall germany historic migrant political seeks state",
+   "title": "Anti-migrant AfD seeks to break Germany\u2019s political \u2018firewall\u2019 in historic state election",
+   "source": "Fox News World",
+   "at": "2026-09-06T10:21:51.042823+00:00"
+  },
+  {
+   "fp": "evasion island morning paradise report risk russian sanctions secret",
+   "title": "The Morning Risk Report: The Island Paradise That Is a Secret Hub for Russian Sanctions Evasion",
+   "source": "WSJ",
+   "at": "2026-09-06T10:21:52.837987+00:00"
+  },
+  {
+   "fp": "crucial election german predicted right state",
+   "title": "Far-right AfD predicted to win big in crucial German state election",
+   "source": "Guardian World",
+   "at": "2026-09-06T10:21:54.644160+00:00"
+  },
+  {
+   "fp": "abandoned church england mission",
+   "title": "The Church of England has abandoned its mission in the UK",
+   "source": "Telegraph",
+   "at": "2026-09-06T10:21:56.468828+00:00"
+  },
+  {
+   "fp": "disease drug endpoint heart missed novartis pelacarsen primary",
+   "title": "Novartis Says Pelacarsen Heart Disease Drug Missed Primary Endpoint",
+   "source": "WSJ",
+   "at": "2026-09-06T10:21:58.204268+00:00"
+  },
+  {
+   "fp": "james paxton pours race senate super talarico texas trump",
+   "title": "Trump\u2019s super PAC pours $10M into Ken Paxton\u2019s Texas Senate race against James Talarico",
+   "source": "New York Post",
+   "at": "2026-09-06T10:22:00.071767+00:00"
   }
  ],
  "titles": [
-  "appeals block cannot court kalshi markets nevada oversight prediction rules",
-  "bond boosts fall speech stocks warsh yields",
-  "bond drift hike interest lower market prepares rates stocks",
-  "activity department governor investigation justice monitors primary requests wyoming",
-  "charges crash going heartless killed murder slapped socal suspect teens",
-  "death disease insist legionnaires longer officials outbreak reaches spreading toll",
   "asian earnings mixed nvidia stocks",
   "agreement altman clash coding cursor deepening musk openai spacex tool",
   "budget cuts launch nasa space surviving telescope trump",
@@ -3603,6 +3597,12 @@
   "2026 archive journal news september street wall",
   "deal improvement needs nuclear saudi",
   "breaking europe european news today",
-  "airport anti attack bild drone germany plans reports sabotage shield"
+  "airport anti attack bild drone germany plans reports sabotage shield",
+  "anti break election firewall germany historic migrant political seeks state",
+  "evasion island morning paradise report risk russian sanctions secret",
+  "crucial election german predicted right state",
+  "abandoned church england mission",
+  "disease drug endpoint heart missed novartis pelacarsen primary",
+  "james paxton pours race senate super talarico texas trump"
  ]
 }
