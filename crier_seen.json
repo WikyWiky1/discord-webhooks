@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40479718",
-  "CBMiwAFBVV95cUxQNUdJZmtXbGswR3ZFWEt4YXhiQmV4czBoYktSbjRENXhiZ2xfb0EwdFdXdVZWTzFCSTJjM213VHNaem1rcWhCSjBUbFBiRkpXTHdzV0l1TG16aDdRRTAtQVUyVGdDSGJUenBJZ1Ytajh1ZjZBYjFOdDEyR0NFMG9vLUNjS2RzRnVwR19yU1hDLWxGNDU4WFFhQnB2VlRhcTRjSkJqMWwxbXhlR1NGaTk5NHlPMktQSGY3OGNUc09ZUlA",
-  "CBMiZ0FVX3lxTFB1eERhLWl4RktLUVF0TkZaRFI4V1UxdzNLQU1KMllWdG5pUGJ1UGs5M3FmU3ZLUkx5S0xtU3YxRXE2Q0hhY1BEYmt3NUxHYUdyd1BKdVlEWi1maV9GbWtDMHEyTm1EUlk",
-  "CBMikAFBVV95cUxQNVRjYzRGWEMwYUpxZTJRN0xlejVDWEZaaTJiSWNEMFlRNFdreUE2czZGNEVYR3Rna2dsYzFaZTNaWHF3SXBqYXdrcnc5bVdmQ2dyUy03TkVkVDcyaFJORkZQd3RJWExGNmJ0RkFwQzV2Y2NXMU1mV2drV3JMVEZIbmdsWUk3WVhxUW5uSXpDUXA",
-  "CBMiYkFVX3lxTE4tMkNacWRCeFJYWHM4bWRJMUhLdkhJYU1PUHdFTDQ3TFRUeGMtRjY5ZVNtQWo4ZzBuQnVZQ0VFUVN3azJtZ2xYbzNENmdrQjJiTlV0b2ZXc2ZvLUlRWDZyQlhn",
   "https://www.washingtonexaminer.com/?p=4697850",
   "https://nypost.com/?post_type=article&p=40480063",
   "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo#0",
@@ -799,39 +794,14 @@
   "https://nypost.com/?post_type=article&p=40693535",
   "https://nypost.com/?post_type=article&p=40692058",
   "CBMimAFBVV95cUxQMTFYb1YxeVRIcHphazF4MHA5U0FVQ3lTcVNyOGNIbkduWW8zX2xORWIxcjNIbE14WVl6UFFPMHZBVzlNc0JJd2hqWEtRb2ZkeTZVRmVVeDk5NmhiNHBtRy12bF94TEo0Qkc5U2dJYVdaamM0UWZOMTNBZ2hHaFM1S0w2NUd5cDFSSU5SaW5VZmhacFQteVVFcg",
-  "CBMiZ0FVX3lxTE1pdFo0M2haaWl1WlA2WmhNeGs2S0ZTUUVtVHhscVhpeDFuQ1NBd1F6Njc4NmY5aU9jempWTUljNFlOMjRuSUM4VXVSY0JrTUZTTVRnQThJbkhsaUhUdFhsZzZQSHdCRnc"
+  "CBMiZ0FVX3lxTE1pdFo0M2haaWl1WlA2WmhNeGs2S0ZTUUVtVHhscVhpeDFuQ1NBd1F6Njc4NmY5aU9jempWTUljNFlOMjRuSUM4VXVSY0JrTUZTTVRnQThJbkhsaUhUdFhsZzZQSHdCRnc",
+  "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o#2",
+  "CBMivAFBVV95cUxPLUxSZmhjRHBaRS1KVTJfWmUyVXFzOGs3NENFMU4wZFprQWVkX19CMGxSWlh0cW1GZzhYMWpIaWFjVWpSTUl3alNMY0lHVmlQOXlHRGZmNVJ0NElhN2UyOUN1MnozaFp0amh0YzV3VnhDX1VENFdjMk1aNU1IXzM4dWJjaXBRSzIxd3ZhOEtPRlppR3VMR01YRm1ZMlE3aWpIN0xURFhLSVpqLUFfWi1SaWdiTzZ1YnRqZGtGOQ",
+  "https://nypost.com/?post_type=article&p=40693753",
+  "https://nypost.com/?post_type=article&p=40692653",
+  "https://thehill.com/?p=6074224"
  ],
  "posts": [
-  {
-   "fp": "christian falling festival identified killed pastor sign",
-   "title": "Pastor killed by falling sign at Christian festival identified",
-   "source": "Telegraph",
-   "at": "2026-08-30T11:00:26.334526+00:00"
-  },
-  {
-   "fp": "amsterdam calls complete dutch fifa global overhaul proposes summit",
-   "title": "Dutch FA calls for complete FIFA overhaul, proposes global summit in Amsterdam",
-   "source": "Reuters",
-   "at": "2026-08-30T11:21:44.678783+00:00"
-  },
-  {
-   "fp": "opinion stakes tariff texas trump",
-   "title": "Opinion | Trump\u2019s Texas Tariff Stakes",
-   "source": "WSJ",
-   "at": "2026-08-30T11:21:46.381733+00:00"
-  },
-  {
-   "fp": "concerts discovers inner nixon opinion rock trump",
-   "title": "Opinion | Trump Discovers His Inner Nixon on Rock Concerts",
-   "source": "WSJ",
-   "at": "2026-08-30T11:21:48.377882+00:00"
-  },
-  {
-   "fp": "book comic store storm swept tariff",
-   "title": "How a comic book store got swept into the tariff storm",
-   "source": "NPR News",
-   "at": "2026-08-30T11:21:50.273223+00:00"
-  },
   {
    "fp": "businesses costs living local malaysia measures support tackle unveils",
    "title": "Malaysia PM unveils measures to tackle living costs, support local businesses",
@@ -3201,14 +3171,39 @@
    "title": "Far-right AfD wins historic victory in German state election",
    "source": "Reuters World",
    "at": "2026-09-06T22:43:09.039071+00:00"
+  },
+  {
+   "fp": "bombs carbon defuse indonesia lives risking volunteers wildfire",
+   "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+   "source": "BBC World",
+   "at": "2026-09-06T23:26:37.528134+00:00"
+  },
+  {
+   "fp": "amazon cargo crash killed least miami plane prime",
+   "title": "At least 5 killed in Amazon Prime Air cargo plane crash in Miami",
+   "source": "Reuters",
+   "at": "2026-09-06T23:26:39.178849+00:00"
+  },
+  {
+   "fp": "bullet club doing inventory kills rips through wall worker",
+   "title": "Bullet rips through Sam\u2019s Club wall and kills worker doing inventory",
+   "source": "New York Post",
+   "at": "2026-09-06T23:26:41.651401+00:00"
+  },
+  {
+   "fp": "billion california cuts democrats fight liability panic planned spending wildfire",
+   "title": "California Democrats panic as PG&E cuts $2 billion in planned spending over wildfire liability fight",
+   "source": "New York Post",
+   "at": "2026-09-06T23:26:43.339263+00:00"
+  },
+  {
+   "fp": "dead five miami overshoots people plane runway",
+   "title": "Five people are dead after plane overshoots Miami runway",
+   "source": "The Hill",
+   "at": "2026-09-06T23:26:45.125401+00:00"
   }
  ],
  "titles": [
-  "christian falling festival identified killed pastor sign",
-  "amsterdam calls complete dutch fifa global overhaul proposes summit",
-  "opinion stakes tariff texas trump",
-  "concerts discovers inner nixon opinion rock trump",
-  "book comic store storm swept tariff",
   "businesses costs living local malaysia measures support tackle unveils",
   "forum islands leaders meeting pacific palau pull several summit turmoil",
   "florida launches nasa powerful roman space telescope",
@@ -3603,6 +3598,11 @@
   "explosion festival firework injures kills massive mexico popular",
   "california crack earthquake experts next predicting strike where",
   "central dead explosion fireworks injures kills least mexico people",
-  "election german historic right state victory wins"
+  "election german historic right state victory wins",
+  "bombs carbon defuse indonesia lives risking volunteers wildfire",
+  "amazon cargo crash killed least miami plane prime",
+  "bullet club doing inventory kills rips through wall worker",
+  "billion california cuts democrats fight liability panic planned spending wildfire",
+  "dead five miami overshoots people plane runway"
  ]
 }
