@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4697809",
-  "CBMiugFBVV95cUxOOHlaU2l2LVBMWUlIYnc5WTVya19SRVFldDFJODV4bG9ydzItNU9NNDJsRlRERzdfZkt0SXJNZl9RcGItS2ZoSVdSZXhFM0ZMSjh6Z0NZS2xIWnVNbS0tQW9mT1Npay1YVnVZamUwUFVNMWhJSnRaMmpqSEJieEh0OGYwaUt6STF2X3dRS2JMa1NLSms5aE84MFkxZHZYV0hzNEVnV3dSdmVQT09KTE5RdWlqTTNUSV9yU0E",
-  "https://nypost.com/?post_type=article&p=40474067",
   "CBMipwFBVV95cUxQcEVGeXQwZFloV1dOS1JyclZMeDdyMmJZcF9KRVlwR1d6NVhITlh5Ml84cHhadmNpaTcxSHFneU16YTUweXUzY1c4eTVDV3Q5WjZmZF9sWlRPa3dzWUZoaGV3SjBhUkR4N2ZoQ1Q0YlY2cWloNVQ0cWl2bGJ0VG1xN0I1Vlg4QUQ0TG82emJDcS0zVTJ3Qk9vcFFMWHpNb09UY1YxV1NzQQ",
   "CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ",
   "CBMi1AFBVV95cUxNbnFqT3hpUmxhWm9CZ1o0RVlfRUw5NVBxYmItMXg3QTJrQllqMXhjVG9UdXQ4UXRWVjItMDV3N19RTy02dk1HT2VRMXY3dG0zUGd6NnlFOV82ak5nSTFxaXZGeHFib1FYVmhDeWhqWk1VbzAyY0M2c3BuRkV2OTBtTEVrUkN4cUVDNm0wakJDRHlpTHhFaV81UTdWX2UyaTVnSUwwTXhINEp2NmxoMlJWWFhNVWxRQzBadlFrX25qcDVlWnBlZmp5UXZuYWRLYmZtdEJDSA",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6073768",
   "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro#0",
   "CBMiwAFBVV95cUxNS1Brd1ZPb1hjQmpDa0R3azdHcXBsTC1HVEx1VThQcktSUXFhOHYtLVhNWG5sTkV1ZWtXR3VQN0U2U2M4U1A5SVZ4Y0Iza25QRWl2Qzl5aXRNMjhqOUJXdkMzWUtKVmFUenhPMFVoeDRTV2F4QkdYVk5SX2k4am1pWmFQU1J4Y1hkZTJXdFZUVzZ5aUxTdUJyVE5sLUtkNXRsV090bWZwRDZEcEVOSUxMYUpKZUxNMnVpenI2U3pxazY",
-  "https://www.washingtonexaminer.com/?p=4715422"
+  "https://www.washingtonexaminer.com/?p=4715422",
+  "https://nypost.com/?post_type=article&p=40691768",
+  "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
+  "https://nypost.com/?post_type=article&p=40691987"
  ],
  "posts": [
-  {
-   "fp": "become conscious dead wants",
-   "title": "AI could become conscious. What if it wants us dead?",
-   "source": "The Hill",
-   "at": "2026-08-29T19:58:04.553492+00:00"
-  },
-  {
-   "fp": "captured chilling dogs google images killed maps pack where",
-   "title": "Chilling Google Maps images captured where man was killed by pack of dogs",
-   "source": "New York Post",
-   "at": "2026-08-29T22:27:10.766206+00:00"
-  },
-  {
-   "fp": "abdul apologizes attack controversial jews michigan sayed statement synagogue",
-   "title": "Abdul el Sayed apologizes to Michigan Jews for controversial synagogue attack statement",
-   "source": "Washington Examiner",
-   "at": "2026-08-29T22:27:12.372613+00:00"
-  },
   {
    "fp": "auto canada deal factories invest pressure tariff union",
    "title": "GM union deal would invest C$1.1 bln in Canada auto factories amid US tariff pressure",
@@ -3201,12 +3183,27 @@
    "title": "Iran nuclear deal may be delayed until \u2018next administration\u2019 in Tehran, Wright says",
    "source": "Washington Examiner",
    "at": "2026-09-06T17:56:28.473429+00:00"
+  },
+  {
+   "fp": "causes chaos crash driver head island kills labor long traffic wrong",
+   "title": "Wrong-way Long Island driver kills one in head-on crash that causes Labor Day traffic chaos",
+   "source": "New York Post",
+   "at": "2026-09-06T19:56:41.830681+00:00"
+  },
+  {
+   "fp": "approaches declares emergency hawaii hurricane islands lowell state",
+   "title": "Hawaii declares state of emergency as Hurricane Lowell approaches islands",
+   "source": "Guardian World",
+   "at": "2026-09-06T19:56:43.602665+00:00"
+  },
+  {
+   "fp": "dead devastated dream enough forever found husband island isnt long recalls shelter sobs triathlete vacation widow",
+   "title": "Devastated widow of triathlete found dead on Shelter Island vacation sobs as she recalls dream husband: \u2018Forever isnt long enough\u2019",
+   "source": "New York Post",
+   "at": "2026-09-06T19:56:45.350486+00:00"
   }
  ],
  "titles": [
-  "become conscious dead wants",
-  "captured chilling dogs google images killed maps pack where",
-  "abdul apologizes attack controversial jews michigan sayed statement synagogue",
   "auto canada deal factories invest pressure tariff union",
   "bucket championship deadly edge hole hovland like looking tour viktor",
   "carolina chief dead injured officer park police second shooting south",
@@ -3603,6 +3600,9 @@
   "agreement iran nuclear reach wright",
   "building collapsed delhi dozens feared trapped",
   "bill california down fail lawmakers pass surprise twist watered wildfire",
-  "administration deal delayed iran next nuclear tehran until wright"
+  "administration deal delayed iran next nuclear tehran until wright",
+  "causes chaos crash driver head island kills labor long traffic wrong",
+  "approaches declares emergency hawaii hurricane islands lowell state",
+  "dead devastated dream enough forever found husband island isnt long recalls shelter sobs triathlete vacation widow"
  ]
 }
