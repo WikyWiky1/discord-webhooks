@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMimwFBVV95cUxNOEUyRmw2cVZua0JHV0hGNFFGU1hFYkRFUGduRWZmQ0VaMDNqekJ3TExQc1dMYWk1bk5mWUdYeGwwVVQ4NXVXS3ZmYzJUQzBhXzFCOTNDQk5hRWNwc3dDNnE0aDBPeTdUUFRNV2NFQUh4U3JWcXNLUUVGYWlEVHpYQTVrSDVWcEg0d21Ha08zRWhHWmdPelZCbWZBOA",
-  "https://nypost.com/?post_type=article&p=40480280",
-  "CBMipwFBVV95cUxOcG1qdkJTbnZTZ0RtLXBqN3ljNTZpOHBPU0pyUUtfajhwcmFBdGFrclVhSVVwblNUOFVYeDk1b0NTVU1FLVM3RVJjZkZkT3pNajNadi1yTmctVkJNVzN4cmQxTmY4SlJFc21KbXBJQ1J3clBTWFl4RE9WaEpkTEZjeUpJa0tyWlQ1cnhUMjBjLVFuWkR5VllPdXVmR3J5TzhmYjZaVEFOSQ",
   "CBMikAFBVV95cUxOZlNSbmY2b1RYbnppS25lajE2dldaOXJHcGR5dGh4UXdoQXJ3OTZzVUVKYWh3NWZkSUIza1hmOXVHaGtUSUtaVWNFdV9vekdUNXR1X05zYXNBcVQ2ejJXVmJGVktWWGJ1VXc2UUloM1JWanN4MnpnM24zQ3NIUDlXQUpxMWd4UEhNTS12YnhpQ1Y",
   "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
   "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/us-news/2026/sep/07/first-thing-elon-musk-german-far-right-afd-election-win-russia",
   "https://www.theguardian.com/business/2026/sep/07/jaguar-land-rover-job-trump-tariffs",
   "CBMimgFBVV95cUxQM29qLVk4UUFIa1hOSHdIWVd1VWxZb1JVNGpRSXhoalhNU1NYMDJCRTZKc2tnMVdaajktRm5xME9DX1BuWVplZXBGWExHWlJOYjhEeXV4SUdmeVBERHZFMlZnU0FocDRySk5FWVNpOS1LalpKb1dMWGNZeWZkS1NEZHpjYzdRR1ZvdHE4YnIwcE8yWExibUNLd0V3",
-  "https://thehill.com/?p=6070749"
+  "https://thehill.com/?p=6070749",
+  "CBMingFBVV95cUxOTVJ6MDlUWURyZnpLVFdqMnRudnh0bjRaYXlYdHFVLUtPQkhXLVR1Vk1XV3Z0UVF6cFBfRXd5TnBIQ1BHeHNkdm5DdmZCVEE5ZUgzVVBsRU5RSF9YMFZGVDNzcXAxTkQ0b0Y3Rmo1RWdMaG5qZ2h0VVR4Q29NYUZ5V2N1M1pHOGJIWXhhSkNYRVRqeFVDZUFuaEFHd3JBdw",
+  "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
+  "CBMikAFBVV95cUxPZ0Rrc0pHNkZJeFFyX1lUZVVRdHpuN1VKR0dpTU9tNTI0QU1penRaT2s2SzVaYkhiRlNVeHk2Yjc4aUFZNTBmS3B2SkRNUFByc09uU1dtNmNZdzJRLTF1OVQwY2FYUVFiZWQ0MjBUQjcyNEtmTEJ1NkxaV2E0RDNWTk9UcGZYVVZTUGFzX1dFYXk"
  ],
  "posts": [
-  {
-   "fp": "hurricane pacific rapidly storm strengthens tropical",
-   "title": "Tropical storm rapidly strengthens into a hurricane in the Pacific",
-   "source": "New York Post",
-   "at": "2026-08-30T18:39:05.785254+00:00"
-  },
-  {
-   "fp": "battle death debris disaster floods himalayan nears rescuers toll",
-   "title": "Rescuers battle floods and debris as Himalayan disaster death toll nears 800",
-   "source": "Reuters",
-   "at": "2026-08-30T18:39:07.582671+00:00"
-  },
-  {
-   "fp": "attack finalising germany leipzig merz response suspected",
-   "title": "Merz says Germany finalising response to suspected Leipzig attack",
-   "source": "Reuters",
-   "at": "2026-08-30T18:39:09.230051+00:00"
-  },
   {
    "fp": "attack attend brutal funeral gang haiti hundreds killed victims",
    "title": "Hundreds attend funeral in Haiti for 4 victims of brutal gang attack that killed 47",
@@ -3201,12 +3183,27 @@
    "title": "The media make excuses for the Senate nominee who empowered Hasan Piker",
    "source": "The Hill",
    "at": "2026-09-07T11:42:58.027963+00:00"
+  },
+  {
+   "fp": "airstrikes israeli kill lebanon people southern village wound",
+   "title": "Israeli airstrikes on a village in southern Lebanon kill 9 people, wound 13",
+   "source": "AP",
+   "at": "2026-09-07T12:39:17.441654+00:00"
+  },
+  {
+   "fp": "airport crash dead election germany miami right state wins",
+   "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
+   "source": "NPR News",
+   "at": "2026-09-07T12:39:19.313509+00:00"
+  },
+  {
+   "fp": "floods holds kill least mourning nepal people",
+   "title": "Nepal holds a day of mourning after floods kill at least 1,300 people",
+   "source": "AP",
+   "at": "2026-09-07T12:39:21.011889+00:00"
   }
  ],
  "titles": [
-  "hurricane pacific rapidly storm strengthens tropical",
-  "battle death debris disaster floods himalayan nears rescuers toll",
-  "attack finalising germany leipzig merz response suspected",
   "attack attend brutal funeral gang haiti hundreds killed victims",
   "children deadly flash flood headteacher nepal saves",
   "children evacuated floods head minutes nepal school teacher",
@@ -3603,6 +3600,9 @@
   "election elon german landmark leader musk praised right russia thanked thing",
   "confirms jaguar jobs land plan rover years",
   "chancellor election germany landslide merz piles pressure right state victory",
-  "empowered excuses hasan make media nominee piker senate"
+  "empowered excuses hasan make media nominee piker senate",
+  "airstrikes israeli kill lebanon people southern village wound",
+  "airport crash dead election germany miami right state wins",
+  "floods holds kill least mourning nepal people"
  ]
 }
