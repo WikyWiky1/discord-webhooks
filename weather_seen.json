@@ -960,9 +960,9 @@
    "message_id": "1546227498281599017",
    "event": "Extreme Heat Warning",
    "area": "Benton; Morgan; Miller; Maries; Hickory; Camden; Pulaski; Phelps; Polk; Dallas; Laclede; Texas; Dent; Greene; Webster; Wright; Christian; Douglas; Howell; Shannon; Taney; Ozark; Oregon",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-09-06T18:36:03+00:00",
-   "expired_at": null
+   "expired_at": "2026-09-07T04:59:30+00:00"
   }
  ]
 }
