@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo#0",
-  "CBMiU0FVX3lxTE9Cd2hMTmsyR3BQWGV3YnhnakMtOE8zZF9ZbWRSeWlrSjlURnJOOUR3MTR3R1h0cHE2Y0VBUXlXNzZaRTZJLTNXeTI3M3ZaYTNLZjFR",
-  "CBMisgFBVV95cUxQUHAtRUpVTjZBckdEWkpuWVExTUhyUTRmYnZ0M3lBTE5yZUw1NkVCanVVaXFEM3RLREJtNklYOEd0c1kyckxzT3M3dXYtME9RMVV4R2VhRUtKeDBPdl9GRm1MUXhxYnhrNUd1T3F4Ukh0U1E0S0NtalU5RjFOTS1wRVRQZEVwLWltcGRFQ01vaU5iSnFUM0NRZU1OSDZJd0FKTURJSGpnQlFNNlBUUzFYeGFB",
   "https://www.theguardian.com/us-news/2026/aug/24/dan-sullivan-endorsement-alaska-senate-election",
   "CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg",
   "CBMipwFBVV95cUxPaW5Uei0tRXhxNWlPd3Y2XzlwZnJUeEZHODU5TUhSeDNzQ3FFYmRZbzVnMGRxaVFYT01IaXRXdDJTeUw0Q04yVkV0dnNMRmpCT0JhbW14djZHM1ViNmZ3ZWE4UFNBNndqVVJjYkJPaUthcmxzSUxqVjIzOXZOaVZVQkQ2N0V6NjFNczF1V1NwSW1rVlZfd0txV1hVSm5mNHM2OUkzSW15SQ",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40692653",
   "https://thehill.com/?p=6074224",
   "https://www.washingtonexaminer.com/?p=4715646",
-  "https://nypost.com/?post_type=article&p=40694390"
+  "https://nypost.com/?post_type=article&p=40694390",
+  "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election",
+  "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
+  "CBMikAFBVV95cUxPTVh1R1ZTZVh4LUV4RERRdUZYSzBCUWg2RkwyWDVJR2NvcDBhRTlWUnNlMUFWZmNBN0MzWFZOejNVd1FiaUNla3RZdHBQUTBlc1lQN0pQVm1qQ2poSnZBa0V0RDRNWHpJMHMxekpUU2M2NFgzZ2JKZF9oV29fUmtLVWpiNHlXdEpieWVFTHAxUnQ"
  ],
  "posts": [
-  {
-   "fp": "florida launches nasa powerful roman space telescope",
-   "title": "NASA launches powerful new Roman Space Telescope from Florida",
-   "source": "Reuters World",
-   "at": "2026-08-30T15:16:52.434734+00:00"
-  },
-  {
-   "fp": "capsizes cyprus dead disaster ferry latest least northern seven updates vessel",
-   "title": "Northern Cyprus ferry disaster: at least seven dead as vessel capsizes \u2013 latest updates",
-   "source": "Guardian World",
-   "at": "2026-08-30T15:17:30.863423+00:00"
-  },
-  {
-   "fp": "attack deadliest death rises russia toll ukraine year",
-   "title": "Death toll rises to 38 from Russia\u2019s deadliest attack on Ukraine this year",
-   "source": "AP",
-   "at": "2026-08-30T15:17:32.648183+00:00"
-  },
   {
    "fp": "death rises russian strike toll ukrainian warehouse",
    "title": "Death toll rises to 38 after Russian strike on Ukrainian warehouse",
@@ -3201,12 +3183,27 @@
    "title": "California flight instructor Danna Eady and two sons killed in Fresno plane crash",
    "source": "New York Post",
    "at": "2026-09-07T01:16:56.337521+00:00"
+  },
+  {
+   "fp": "election germany historic party right state surges victory",
+   "title": "Germany\u2019s far-right party AfD surges to historic victory in state election",
+   "source": "Fox News World",
+   "at": "2026-09-07T03:10:17.134989+00:00"
+  },
+  {
+   "fp": "election elon france germany moment musk right serious state thanks warns",
+   "title": "Germany\u2019s far-right AfD thanks Elon Musk as France warns state election win a \u2018serious moment\u2019",
+   "source": "Guardian World",
+   "at": "2026-09-07T03:10:18.941679+00:00"
+  },
+  {
+   "fp": "chip nikkei related rises stocks",
+   "title": "Nikkei Rises 1.8%, Led by Chip-Related Stocks",
+   "source": "WSJ",
+   "at": "2026-09-07T03:10:20.641212+00:00"
   }
  ],
  "titles": [
-  "florida launches nasa powerful roman space telescope",
-  "capsizes cyprus dead disaster ferry latest least northern seven updates vessel",
-  "attack deadliest death rises russia toll ukraine year",
   "death rises russian strike toll ukrainian warehouse",
   "antisemites chair claims community congress direct jewish majority power threat",
   "earnings gold harmony higher prices rise",
@@ -3603,6 +3600,9 @@
   "billion california cuts democrats fight liability panic planned spending wildfire",
   "dead five miami overshoots people plane runway",
   "crash dead five least miami officials people plane",
-  "california crash danna eady flight fresno instructor killed plane sons"
+  "california crash danna eady flight fresno instructor killed plane sons",
+  "election germany historic party right state surges victory",
+  "election elon france germany moment musk right serious state thanks warns",
+  "chip nikkei related rises stocks"
  ]
 }
