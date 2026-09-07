@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo#0",
-  "https://thehill.com/?p=6046357",
-  "https://www.washingtonexaminer.com/?p=4697898",
-  "https://www.washingtonexaminer.com/?p=4689736",
   "CBMisgFBVV95cUxOaG42NWR2UW5ZbVVueC1ldjJTTjJXeE1WT0pyRGI0eG1uTURDNHRtTy1sWV9OUGk3LWpmMC12WnpLMjJtT2lvbHhpOXNDOHU4SFQwdjViME9UOUJYUndFMnhpelFOdEVDcVVaUkxSVGQyOEU5bE44TWFkTk80eGJXOWdkZVc1S2dTbmw3LWdDNF9meW5vcXJMMV9KWFc4SkliZGI5bHg0UWkxM2FJbXktNXJB",
   "https://nypost.com/?post_type=article&p=40480477",
   "https://www.theguardian.com/uk-news/2026/aug/24/people-arrested-over-a66-crash-that-killed-seven-including-two-police-officers",
@@ -799,33 +795,13 @@
   "https://nypost.com/?post_type=article&p=40698529",
   "https://thehill.com/?p=6074993",
   "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
-  "CBMimgFBVV95cUxNWlJTWVZUZGhQMWdiYW9uYUpfWFVhZWQ4aUJ3THljWlAzYWVtQm1mWlRuajlzMV9pbmJmcjZqOUJDb2xVRlhBeTZ4WFgxeG9JcTEzSjFKdDRldmNsMThFSHFxNXlZckpoVnF0ZVY2NWpnNEgteHQ0MFp2aFpNMUZQdFR2dXNiNFE2ekxEMkhSclJFdG13WDVrUW13"
+  "CBMimgFBVV95cUxNWlJTWVZUZGhQMWdiYW9uYUpfWFVhZWQ4aUJ3THljWlAzYWVtQm1mWlRuajlzMV9pbmJmcjZqOUJDb2xVRlhBeTZ4WFgxeG9JcTEzSjFKdDRldmNsMThFSHFxNXlZckpoVnF0ZVY2NWpnNEgteHQ0MFp2aFpNMUZQdFR2dXNiNFE2ekxEMkhSclJFdG13WDVrUW13",
+  "https://nypost.com/?post_type=article&p=40698559",
+  "https://nypost.com/?post_type=article&p=40699351",
+  "CBMilwFBVV95cUxNTTJHSGFmdkJ3djlkUDFvSmR1SmpScC02enI1c2k5eE9qekhEM2w2cjNlUEU1THdFQVZyRFh0N0lmT3hwUzZUS2luMmxzZ0pCM21mX0hOVlBrY3V2VDdLcHhJVl8teHJwOE16QmliWjdDMlhpa0VHSlh4NnRBckZnYmlkZ2pkUDN5aFhqNWdDX0pqeC1OczQ0",
+  "https://www.theguardian.com/world/2026/sep/07/syrian-reactor-could-nuclear-weapons-if-completed-un"
  ],
  "posts": [
-  {
-   "fp": "attack iranian island known larak launchers strikes weeks",
-   "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-   "source": "BBC World",
-   "at": "2026-08-30T21:32:24.772763+00:00"
-  },
-  {
-   "fp": "ahead aims avert hill house measure midterms pass shutdown week",
-   "title": "This week on the Hill: House aims to pass measure to avert shutdown ahead of midterms",
-   "source": "The Hill",
-   "at": "2026-08-30T21:32:26.533588+00:00"
-  },
-  {
-   "fp": "attack guards iran island larak response revolutionary",
-   "title": "Iran's Revolutionary Guards vow response to US attack on Larak island",
-   "source": "Reuters",
-   "at": "2026-08-30T21:32:28.254111+00:00"
-  },
-  {
-   "fp": "canyon colorado creek dozens evacuated flash flood grand hits leading river",
-   "title": "Dozens evacuated from Grand Canyon after flash flood hits creek leading to the Colorado River",
-   "source": "AP",
-   "at": "2026-08-30T21:32:30.036880+00:00"
-  },
   {
    "fp": "common deal prevails sacramento sense wildfire",
    "title": "Common sense prevails in Sacramento wildfire deal",
@@ -3201,13 +3177,33 @@
    "title": "Jaguar Land Rover will cut 4,000 jobs to reduce costs and compete with China",
    "source": "AP",
    "at": "2026-09-07T17:20:49.924898+00:00"
+  },
+  {
+   "fp": "amazon breathing cops crash dramatic find footage mangled moment plane shows stunned survivor",
+   "title": "Dramatic footage shows moment stunned cops find survivor in mangled car after Amazon plane crash: \u2018We\u2019ve got one breathing!\u2019",
+   "source": "New York Post",
+   "at": "2026-09-07T17:54:09.049990+00:00"
+  },
+  {
+   "fp": "continues death efforts flood grieving hindu mourning nepal search surpasses toll",
+   "title": "Grieving Nepal continues flood search efforts on Hindu day of mourning as death toll surpasses 1,380",
+   "source": "New York Post",
+   "at": "2026-09-07T17:54:10.794857+00:00"
+  },
+  {
+   "fp": "arambur begun fatal federico former mart paris player rugby shooting trial",
+   "title": "Paris trial into the fatal shooting of former rugby player Federico Mart\u00edn Arambur\u00fa has begun",
+   "source": "AP",
+   "at": "2026-09-07T17:54:12.762333+00:00"
+  },
+  {
+   "fp": "been completed nuclear reactor syrian used weapons",
+   "title": "Syrian reactor could have been used for nuclear weapons if completed, UN says",
+   "source": "Guardian World",
+   "at": "2026-09-07T17:54:14.454822+00:00"
   }
  ],
  "titles": [
-  "attack iranian island known larak launchers strikes weeks",
-  "ahead aims avert hill house measure midterms pass shutdown week",
-  "attack guards iran island larak response revolutionary",
-  "canyon colorado creek dozens evacuated flash flood grand hits leading river",
   "common deal prevails sacramento sense wildfire",
   "agency explosion fars heard iran island larak near news reports",
   "colombia dissident killed leader president soldiers",
@@ -3603,6 +3599,10 @@
   "beneath centuries convent discovery field lost massive medieval reveals soccer",
   "candidate election german musk party right state thanks",
   "cannot election german happened merz move past result shock simply state victory",
-  "china compete costs jaguar jobs land reduce rover"
+  "china compete costs jaguar jobs land reduce rover",
+  "amazon breathing cops crash dramatic find footage mangled moment plane shows stunned survivor",
+  "continues death efforts flood grieving hindu mourning nepal search surpasses toll",
+  "arambur begun fatal federico former mart paris player rugby shooting trial",
+  "been completed nuclear reactor syrian used weapons"
  ]
 }
