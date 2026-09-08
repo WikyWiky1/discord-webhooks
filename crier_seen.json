@@ -1,12 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40484852",
-  "https://www.theguardian.com/us-news/2026/aug/24/supreme-court-trump-mail-in-voting",
-  "https://www.washingtonexaminer.com/?p=4698689",
-  "https://thehill.com/?p=6047644",
-  "CBMitgFBVV95cUxPN1FCbF8tMGp1Nm9sTWNVRlZ6UzhuRmxPTmZSZ2MtMFdFLXpMY1JyZHY5cjcweXlYVlpPWk5BUkRoTFk1em1pRllfd2tiRHZVbUk3ektpSXJWTnVfYW8zdjVhNDVKNDlDVHNzbE40aF9pdTZjOC1EdmVKMkVEVUhlRXpHY3FOa1VRSXEwSkdtS1BlQnRmb1JpNWNmX2htTTJBd3I2YmZXdDY4YjRhVjVrTnUwbTRaUQ",
-  "CBMipAFBVV95cUxQamItZlRKUTR0azhhN2RjbktNQ2RLT25nQ1ByMTNZUWxCdkpCbXpRQXZqd3lJdTVCaE12NFNLZE5xd0I0dTB1NE9tQ05vSXRuUHBXUnZBTS1zNkhvYkozcFV3Yk1TcDZzRnktMHN2VFdvZUVUQkxZcVVzMzVmQmxNVlVUZi02dTR2OV83Wlc1VEpvc2NXdXZfWWdhRWd6ZlhVbHE1UA",
-  "CBMilwFBVV95cUxQSC0tOFk5TW5xR3poaFFxWDVvUjlfLTBaM2xEVFZtMmFZaDhTOHZ6ZC1XdEwxcTRTSi1XT3Z3NjJMbHBkSlk2Y0RVVVMtNVdnbFU1N0hxT28zZURaTmx1RWdVQmNVUGpNd2VUSEcyWlFpaHMwZHlnRlF4M2FXRWZmZ1Jla1hwQzJTaW5qQlpFdU1YMks0V3BB",
   "https://nypost.com/?post_type=article&p=40487523",
   "https://nypost.com/?post_type=article&p=40489912",
   "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
@@ -799,51 +792,16 @@
   "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
   "https://thehill.com/?p=6075328",
   "https://www.washingtonexaminer.com/?p=4716412",
-  "CBMiuwFBVV95cUxNeEp6RlN2a3RNRXNfNW9NT3NycUxmZlVmMGpMWDZVaWdzUVBjMDFTMEtBOXQ3dTdoX2o5cldUVzl0ejNaUjRsQm5Eczh1MWdPQ1FISFROQzlNRXV6cE1fRG85S1QtLXJQRXcyOHFJbV9iUl9KTWVSclJUY0Z5TGhseUdRdGZsOVk0UHhncWU4SDV0OHd4MTRJNDkteGwxcGZPdnBiYjNsSE43eURvTE9yUTV6c0V5SkxoR2p3"
+  "CBMiuwFBVV95cUxNeEp6RlN2a3RNRXNfNW9NT3NycUxmZlVmMGpMWDZVaWdzUVBjMDFTMEtBOXQ3dTdoX2o5cldUVzl0ejNaUjRsQm5Eczh1MWdPQ1FISFROQzlNRXV6cE1fRG85S1QtLXJQRXcyOHFJbV9iUl9KTWVSclJUY0Z5TGhseUdRdGZsOVk0UHhncWU4SDV0OHd4MTRJNDkteGwxcGZPdnBiYjNsSE43eURvTE9yUTV6c0V5SkxoR2p3",
+  "https://thehill.com/?p=6076108",
+  "https://www.theguardian.com/us-news/2026/sep/08/amazon-cargo-plane-crash-victims",
+  "CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c",
+  "CBMiogFBVV95cUxOTXZQUmJ5bWx1T1JUZ25VWmVWejd4RG1mR2lCYkZiTTRyamRIM1RybXFTMm82dExOTkNwZzZMdkFaWm4ySzVuSVBwZVlaeE9BMzFRd2hoRkpvczdXekRYOFpjQTRJQ04zWm04VTZ2YWpTLUxKQU91d0pZblQ3WWJtSFFGanY1ZGs4aXFxRGVSSHBKOXBuR1BhLXVKNG1ZTmtKYXc",
+  "CBMipwFBVV95cUxOWDB4OHhldzNIcmo3OUI5Z0UxbEFQNmJVM05uQVdCRzBKVmpCZGZ1ekR6MU56Nmw2Nmxta0hjUFNmZjc5LS1RSnFCS3llS29OcWstUV9IOEZYRWdQUElzdWtHb2tRRTltRU5uMVdQSFVGdTROMEpSOG9NbjgtelBfa1JzQmJvUVdHN09VekN2bFlrdk1ETDl3aGRQX1FVUVBmZmNpbkxYMA",
+  "CBMirwFBVV95cUxPbHhqMGdpaWtLcy1Pb3ExcFhZSmd4MUtieGtkb0tiLUtpeWhGZVNwRVJOR2FSTnBCLWFVSDdRSUpaS083WHNWZUk2ZDQ4SU1sSG9UNDFIYW9wSk5RUW1PRlhud3plZFdUdjBPeVRPRDVGWm5RYzh1d05lRnltVmNneXBNbkpUaFZwRzJaX0dvYWxSY1V1bkFibzcyRFkzWDBPV1U1ZDZ2blB1NkZObUZJ",
+  "CBMipgFBVV95cUxQMHNubDc4UW1FRnNvVkh2WFF0U1lEM09uNmlraEtqMWxubHlJcEVqa2twTEE1VHpfdzJINkdMWjB0MFlzZk5oQ0txZ01OWS1BTGtOV2w0dnBJRGlaSXFkZjE5eEVMLTJWZEszSUZTOTdVaVQtaTBIZk1KbmVOOUVOWUNibUtHV044d3I4SEs4UEZtRmFmQnNKbjBRUkExcmNPMTNuYTZn"
  ],
  "posts": [
-  {
-   "fp": "apology attack hosts members michigan rally sayed synagogue vance",
-   "title": "Vance hosts members from Michigan synagogue attack at rally after el Sayed apology",
-   "source": "Washington Examiner",
-   "at": "2026-08-31T21:54:51.293424+00:00"
-  },
-  {
-   "fp": "boasts canyon deadly fabled flash flood grand history lodge remote",
-   "title": "Remote Grand Canyon lodge hit by deadly flash flood boasts fabled history",
-   "source": "Guardian World",
-   "at": "2026-08-31T21:54:53.033049+00:00"
-  },
-  {
-   "fp": "bunker exposes hide intact iranian nuclear ongoing regime report work",
-   "title": "New report exposes intact Iranian bunker that may hide regime's ongoing nuclear work",
-   "source": "Fox News World",
-   "at": "2026-08-31T21:54:54.840760+00:00"
-  },
-  {
-   "fp": "congress demands disaster hollywood incentives pass trump",
-   "title": "Trump demands Congress pass tax incentives to fix Hollywood \u2018disaster\u2019",
-   "source": "Washington Examiner",
-   "at": "2026-09-01T00:24:12.494419+00:00"
-  },
-  {
-   "fp": "closes gains indexes jump lower monthly notch prices street wall",
-   "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
-   "source": "Reuters",
-   "at": "2026-09-01T00:24:14.369471+00:00"
-  },
-  {
-   "fp": "edges michigan poll rogers sayed senate",
-   "title": "El-Sayed edges Rogers in Michigan Senate poll",
-   "source": "The Hill",
-   "at": "2026-09-01T00:24:16.448237+00:00"
-  },
-  {
-   "fp": "canada hole sayed starting trade",
-   "title": "El-Sayed: If you're starting a trade war with Canada, 'you're the a\u2011\u2011hole'",
-   "source": "The Hill",
-   "at": "2026-09-01T00:24:18.251773+00:00"
-  },
   {
    "fp": "deadly fatally near police shoot square stabbing suspect times",
    "title": "Police fatally shoot suspect in deadly stabbing near Times Square",
@@ -3201,16 +3159,51 @@
    "title": "Copper Scales New Heights on U.S. Tariff Fears, Supply Challenges",
    "source": "WSJ",
    "at": "2026-09-08T16:05:25.432238+00:00"
+  },
+  {
+   "fp": "airport amazon cargo closed crash miami plane runways still",
+   "title": "2 Miami airport runways still closed after Amazon cargo plane crash",
+   "source": "The Hill",
+   "at": "2026-09-08T18:13:32.514699+00:00"
+  },
+  {
+   "fp": "amazon cargo crash critical deadly identified plane remain victims",
+   "title": "Victims of deadly Amazon cargo plane crash identified, as two more remain critical",
+   "source": "Guardian World",
+   "at": "2026-09-08T18:13:34.644670+00:00"
+  },
+  {
+   "fp": "attack backed cities east expansion four houthis hurt iran middle saudi",
+   "title": "Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt",
+   "source": "Reuters",
+   "at": "2026-09-08T18:13:36.476326+00:00"
+  },
+  {
+   "fp": "attack club elina padel russian svitolina",
+   "title": "Elina Svitolina\u2019s padel club hit by Russian attack",
+   "source": "Telegraph",
+   "at": "2026-09-08T18:13:38.378173+00:00"
+  },
+  {
+   "fp": "earthquake emsc magnitude strikes tibet",
+   "title": "Magnitude 5.3 earthquake strikes Tibet, EMSC says",
+   "source": "Reuters",
+   "at": "2026-09-08T18:13:40.453161+00:00"
+  },
+  {
+   "fp": "iran legislation nuclear programme publishes sanctions tougher",
+   "title": "UK publishes legislation for tougher sanctions on Iran over nuclear programme",
+   "source": "Reuters",
+   "at": "2026-09-08T18:13:42.423731+00:00"
+  },
+  {
+   "fp": "billion fall holtec kicks nuclear targets valuation window",
+   "title": "Holtec Nuclear targets $10.2 billion valuation in US IPO as fall window kicks off",
+   "source": "Reuters",
+   "at": "2026-09-08T18:13:44.130781+00:00"
   }
  ],
  "titles": [
-  "apology attack hosts members michigan rally sayed synagogue vance",
-  "boasts canyon deadly fabled flash flood grand history lodge remote",
-  "bunker exposes hide intact iranian nuclear ongoing regime report work",
-  "congress demands disaster hollywood incentives pass trump",
-  "closes gains indexes jump lower monthly notch prices street wall",
-  "edges michigan poll rogers sayed senate",
-  "canada hole sayed starting trade",
   "deadly fatally near police shoot square stabbing suspect times",
   "americans disaster himalayan kills officials roughly still unaccounted",
   "cameras challenger flock invasion josh pennsylvania privacy shapiro supports",
@@ -3603,6 +3596,13 @@
   "close consulate illegal israel jerusalem live politics sanctions settlements",
   "christian congress nationalism takeover",
   "2028 because election marco rubio thinks unwinnable",
-  "challenges copper fears heights scales supply tariff"
+  "challenges copper fears heights scales supply tariff",
+  "airport amazon cargo closed crash miami plane runways still",
+  "amazon cargo crash critical deadly identified plane remain victims",
+  "attack backed cities east expansion four houthis hurt iran middle saudi",
+  "attack club elina padel russian svitolina",
+  "earthquake emsc magnitude strikes tibet",
+  "iran legislation nuclear programme publishes sanctions tougher",
+  "billion fall holtec kicks nuclear targets valuation window"
  ]
 }
