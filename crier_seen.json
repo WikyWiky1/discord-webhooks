@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4698304",
-  "https://www.washingtonexaminer.com/?p=4698280",
-  "CBMivwFBVV95cUxQZHBZd3V0b2sySFhUajY0b2NBeVcwZzFLdGpNMENHWGRyMHEtX0NqYi1fUXU2a1E4UGVqS25vS3hpTkd2MW5xLVRtTi1pSnZ3R1VpZDBxY1lLLW9WbEdKdzFZbTlzbjZMRlJGQmt1OS1kTlBpZkhkbVJXYWd4elhfRTV5SENBRG80WHlhbURPeGZRYWt5TmxoN0FlSHVZb2QweFJlQWtkemoyQnRhak5ncnl6S29SWHdadjRUamdRdw",
   "https://thehill.com/?p=6047160",
   "https://thehill.com/?p=6046040",
   "CBMilwFBVV95cUxQM1dReDZpZnhwWEQySC1XMWxPbjNmY2Zaa3pEbUJESmZHWkVJd21EelRubnpIY2d4Ulh0QTRRY05wQ1hGRkliWTdlbGVqSjlGMUFmRUgtZXY5ZnBXVVI3clJFcGZVQU5wclptaUlUTmdaNTJ5Q1p4bFB6V1hJVEtJZDRyZ1NmNjZRejdFNDNWQV9oMlhaRnNN",
@@ -799,21 +796,12 @@
   "CBMiYkFVX3lxTFBONWNlNURJaXJ6SmtjNTRZRHRWdU9TU19qRDlFb1ZfNVFrb1l2V3ZSOWFGdEZpTzBQeDMxY3FzN0VmMkVFTFI0QjdiQmR0SDF6Vy0wN3ZPNW13eXkwWGphUUtR",
   "https://thehill.com/?p=6072623",
   "CBMirwFBVV95cUxPaWYxUEVxZGF0SE93SUFlN2h6YTlOdURQMy1oWVhrc29fOFp3ZDJGeGY3VFlOdVprUnNDeUpLNy0zLXJ5el95TXZIeGZ1Ni1rQ2RRTEhvSDZjNV80dHNSWXBqblFWTFcwa1ppQ0Q1ellKdDJ6cDlZVng1ZjJxRi16eXhmNDltZUhNVFplekhYWGJncDYtQ05zOWRoRU9TQkJ4RktWM0ZsYkRhWTFEUUNB",
-  "https://nypost.com/?post_type=article&p=40697504"
+  "https://nypost.com/?post_type=article&p=40697504",
+  "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o#0",
+  "https://www.washingtonexaminer.com/?p=4716300",
+  "https://www.bbc.co.uk/news/articles/ce8e32n8epeo#1"
  ],
  "posts": [
-  {
-   "fp": "boats drug kill narco pentagon pics reveals smuggling traffickers warns",
-   "title": "Pentagon warns narco-traffickers as it reveals pics of drug-smuggling boats: \u2018We will kill you\u2019",
-   "source": "New York Post",
-   "at": "2026-08-31T17:05:22.621794+00:00"
-  },
-  {
-   "fp": "ammo depot kills least russian strike ukraine",
-   "title": "Russian Strike on Ukraine Ammo Depot Kills at Least 37",
-   "source": "WSJ",
-   "at": "2026-08-31T17:05:24.429320+00:00"
-  },
   {
    "fp": "canyon flash flood grand killed least missing others people possible storms where",
    "title": "More storms possible at Grand Canyon where a flash flood killed at least 2 people, others missing",
@@ -3179,12 +3167,6 @@
    "at": "2026-09-08T05:59:34.006735+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-09-08T10:41:32.083179+00:00"
-  },
-  {
    "fp": "governor hampshire island lose primaries race rhode senate tightens track watch",
    "title": "New Hampshire Senate race tightens, Rhode Island governor on track to lose: 5 primaries to watch",
    "source": "The Hill",
@@ -3201,11 +3183,27 @@
    "title": "Trumponomics triumphs in US jobs report \u2014 just in time for the midterms",
    "source": "New York Post",
    "at": "2026-09-08T10:41:37.436455+00:00"
+  },
+  {
+   "fp": "dead kyiv least people russian strikes",
+   "title": "At least two people dead after Russian strikes on Kyiv",
+   "source": "BBC World",
+   "at": "2026-09-08T10:57:16.312252+00:00"
+  },
+  {
+   "fp": "attack complex deadly launches massive russia ukraine",
+   "title": "Russia launches massive, deadly, and \u2018complex\u2019 attack against Ukraine",
+   "source": "Washington Examiner",
+   "at": "2026-09-08T10:57:17.944923+00:00"
+  },
+  {
+   "fp": "crash five ground investigators killed miami plane vehicles",
+   "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+   "source": "BBC World",
+   "at": "2026-09-08T10:57:19.619759+00:00"
   }
  ],
  "titles": [
-  "boats drug kill narco pentagon pics reveals smuggling traffickers warns",
-  "ammo depot kills least russian strike ukraine",
   "canyon flash flood grand killed least missing others people possible storms where",
   "canyon dead flash floods grand haunting hiker missing photo vanished",
   "breaking deadlock deal elect kosovo parties president strike",
@@ -3600,9 +3598,11 @@
   "accused employee fire girl jimmy john opening police shooting year",
   "alongside basketball college crash indiana killed play player sister transferring weeks younger",
   "cause expected hawaiian hurricane island lowell major near pass rains statewide",
-  "edition journal print street wall",
   "governor hampshire island lose primaries race rhode senate tightens track watch",
   "comments ease fears rate rise stocks waller weigh yields",
-  "jobs just midterms report time triumphs trumponomics"
+  "jobs just midterms report time triumphs trumponomics",
+  "dead kyiv least people russian strikes",
+  "attack complex deadly launches massive russia ukraine",
+  "crash five ground investigators killed miami plane vehicles"
  ]
 }
