@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4698749",
-  "https://thehill.com/?p=6047832",
-  "https://nypost.com/?post_type=article&p=40492646",
-  "https://www.washingtonexaminer.com/?p=4698920",
-  "CBMiuAFBVV95cUxORld4THVaUUFJWlFtRmRFeTI5SlliZ2ladnZNa2htLS1yeXBwcGY2UjFSVE5heHlycC11ay1KR0pLRTJKVGk4bUp2cVVwcXZsUE5kR0JCM0hTRGlRZk5WT1pDWnhfd0JKcjFkbUhlNHVRd3lpWkV4bmtDUG9CSGJCWFhuTFFfY04yb2FIOGtNYkxhS1N0SlJVaXhFTVN1ak51Z1lvaDVSaEVsb2J0UEFjM2w4THk1SzdY",
-  "CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE",
   "https://nypost.com/?post_type=article&p=40494369",
   "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
   "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
@@ -799,45 +793,15 @@
   "CBMipAFBVV95cUxQTVBoVVVGSHJfcDVhZWx1TGw2VWFfOWozemQ4MzNpZ3hvbTRTZkpkd0ZoQks5NEVMRUtYVFRMU0psaGtKUjlkZWdTZHhRUUJ4TGdqTEJ5NndNSmVlWmZYMTNuY2hNZi1LTVJnZ2ZQT25veVQ2WXdLeWMwcmMxRVllcks2OUF3aEpQNHBWOG9sTDl4SHJoQ3lYRG81S3BIVllOMVRYXw",
   "https://nypost.com/?post_type=article&p=40718968",
   "https://nypost.com/?post_type=article&p=40716794",
-  "https://www.theguardian.com/us-news/2026/sep/08/hawaii-hurricane-lowell"
+  "https://www.theguardian.com/us-news/2026/sep/08/hawaii-hurricane-lowell",
+  "https://www.washingtonexaminer.com/?p=4717494",
+  "https://thehill.com/?p=6077588",
+  "https://www.washingtonexaminer.com/?p=4717141",
+  "CBMikwFBVV95cUxON1VSSFpfdWZ5ejZ2WURVTGNWUlFxTm41VjAxRzRkbncwSFAydTdCVGt1SkY5Q1B0cWxIQWIzdm9mRWwtRUhOWW5PblRNeGN6WnpvdndhY2c0UkNyZnpKYVRsVWt0dFQ4RWVlRzZ3aU1hVER2Z0ZZWXJ3N0RJUTdoS0tlVHR3MlFOZWg4WnVpdFRFLU0",
+  "CBMimAFBVV95cUxQcy1XSG01SGxrWEV0U1NoLWFmQ0pnRFJ2YnJBNTZsbFF2N3hVeWt3MHR2ZHJ1MzR1bVNpWDc3djBGZDhtc2xQN0FVczV5Q3FtOGU4aERld2x2N3NRdnZBSjRpMEhjUEpTUEhFYjV5dlVsd2xOSEJfdXNFb2ZfYWJEbkNtYWlzSWdBU1BtaEpsMms5ZGNZTVh4bw",
+  "https://thehill.com/?p=6075462"
  ],
  "posts": [
-  {
-   "fp": "detained opponent president second sworn term zambia",
-   "title": "Zambia's president to be sworn in for second term while opponent detained",
-   "source": "BBC World",
-   "at": "2026-09-01T08:20:44.293767+00:00"
-  },
-  {
-   "fp": "currency despite enough foreign iran sanctions",
-   "title": "Iran says it has enough foreign currency despite US sanctions",
-   "source": "Reuters",
-   "at": "2026-09-01T08:20:46.344117+00:00"
-  },
-  {
-   "fp": "bernie claims democrats lose nominee sanders senate want",
-   "title": "Bernie Sanders claims some Democrats may want their own Senate nominee to lose",
-   "source": "New York Post",
-   "at": "2026-09-01T08:20:48.488000+00:00"
-  },
-  {
-   "fp": "budget corporate pressure putting",
-   "title": "AI Is Putting Pressure on the Corporate IT Budget",
-   "source": "WSJ",
-   "at": "2026-09-01T08:20:50.209016+00:00"
-  },
-  {
-   "fp": "british buying pensions street wall",
-   "title": "Wall Street is buying up British pensions",
-   "source": "Telegraph",
-   "at": "2026-09-01T08:20:51.903241+00:00"
-  },
-  {
-   "fp": "arrests four gaza hamas israeli kill militant military strikes",
-   "title": "Israeli strikes kill four in Gaza as military says it arrests Hamas militant",
-   "source": "Reuters",
-   "at": "2026-09-01T11:17:18.934534+00:00"
-  },
   {
    "fp": "dead kyiv least leaves region russian sixth straight strikes",
    "title": "Sixth straight day of Russian strikes leaves at least 12 dead in Kyiv region",
@@ -3201,15 +3165,45 @@
    "title": "Hurricane Lowell\u2019s fierce winds and rains knocks out power on Hawaii\u2019s Kauai",
    "source": "Guardian World",
    "at": "2026-09-08T21:12:12.287908+00:00"
+  },
+  {
+   "fp": "endorses former james paxton race senate talarico texas",
+   "title": "Ken Paxton\u2019s former \u2018top cop\u2019 endorses James Talarico in Texas Senate race",
+   "source": "Washington Examiner",
+   "at": "2026-09-08T23:12:34.075236+00:00"
+  },
+  {
+   "fp": "case court declines exemption intervene religious supreme vaccine york",
+   "title": "Supreme Court declines to intervene in New York religious vaccine exemption case",
+   "source": "The Hill",
+   "at": "2026-09-08T23:12:35.975927+00:00"
+  },
+  {
+   "fp": "ahead blame denies dominates election israeli massacre netanyahu season warned",
+   "title": "Netanyahu denies UAE warned him ahead of Oct. 7 as blame for massacre dominates Israeli election season",
+   "source": "Washington Examiner",
+   "at": "2026-09-08T23:12:37.684660+00:00"
+  },
+  {
+   "fp": "near stellar stocks threatens",
+   "title": "Oil Near $100 Threatens U.S. Stocks\u2019 Stellar Run",
+   "source": "WSJ",
+   "at": "2026-09-08T23:12:39.559234+00:00"
+  },
+  {
+   "fp": "facilities fall saudi stocks",
+   "title": "U.S. Stocks Fall After Saudi Oil Facilities Hit",
+   "source": "WSJ",
+   "at": "2026-09-08T23:12:41.271762+00:00"
+  },
+  {
+   "fp": "canadian court denies grow live missouri suit supreme tariffs threats trade trump updates",
+   "title": "Live updates: Supreme Court denies GOP on Missouri map suit; Canadian tariffs, Trump threats grow trade war",
+   "source": "The Hill",
+   "at": "2026-09-08T23:12:43.406129+00:00"
   }
  ],
  "titles": [
-  "detained opponent president second sworn term zambia",
-  "currency despite enough foreign iran sanctions",
-  "bernie claims democrats lose nominee sanders senate want",
-  "budget corporate pressure putting",
-  "british buying pensions street wall",
-  "arrests four gaza hamas israeli kill militant military strikes",
   "dead kyiv least leaves region russian sixth straight strikes",
   "avoid bill funding government house lawmakers live politics scramble shutdown stopgap vote",
   "city fire gaza israeli kills medics raid reported three",
@@ -3603,6 +3597,12 @@
   "chief endanger jews miliband rabbi sanctions",
   "chemical leak lockdown neighborhood socal",
   "beachfront dana destroyed force hurricane mansions point strike waves",
-  "fierce hawaii hurricane kauai knocks lowell power rains winds"
+  "fierce hawaii hurricane kauai knocks lowell power rains winds",
+  "endorses former james paxton race senate talarico texas",
+  "case court declines exemption intervene religious supreme vaccine york",
+  "ahead blame denies dominates election israeli massacre netanyahu season warned",
+  "near stellar stocks threatens",
+  "facilities fall saudi stocks",
+  "canadian court denies grow live missouri suit supreme tariffs threats trade trump updates"
  ]
 }
