@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/24/food-poisoning-alfalfa-sprouts",
   "CBMinwFBVV95cUxOQ2VIdjNEMzF2WHBMenNkYTNTZVBlQUZTV0lQVElSb3kyS1dCSzVVX0dxclJGT1VhZURQOGJNel9uSERVSWpWR3lvYThvNDFUenZGby1SZzJ0MW9Oci14Tms3Tmk0aUFEUzA5MVhWaldFc001dEFOZWJUMGFET20yV3I5YlpRYmFmeng5LVdRb2lEVEFPYXlLYV9yUVNFWGc",
   "https://pagesix.com/?post_type=article&p=9130184",
   "CBMihgFBVV95cUxQYnZIRG4waHhDYkd6Z2N3Q09EOFRnYUtSMmtmR25CS01JZF9sSGlqendya2lBdEFSUF9oV0FvRTU2czhVLWxKRzE1WWlmNVVKNkw0bzBhNVFDRVdHTGducWpOV0p6SkNQOEtfSm1QVWphOHhDTWhTZjV5WUdKLVN4MFA0X0diUQ",
@@ -799,15 +798,10 @@
   "CBMiogFBVV95cUxQQjZpdk5lamRFN2N3Zzhram5OR2c3R0NwYno1dTZ6TnoyTnpZalJzanpYTXlBNGZzTHBKU25PZm5rTGlLUS1CRjVZZ1hKeHpoMGlMWjMxQ1Fta0hsdEFKNnBTaWVtNER4NUE3THprSmp1VWpUV2w0QU5GbDJZTXdUUF9zYjZLUDI5aDFYeXNHQXdJdTV3UWsycXRmRG1Nb0Y1b0E",
   "https://www.washingtonexaminer.com/?p=4716460",
   "CBMipAFBVV95cUxONHpNbmd5V0UxVFA0a3lMMmZWdUhzSUJheUlXVWN1UWZ2YzBmRzdQVlphQUJPd2FmcmZXcE90RjFCWHhsUVlWajdLcEZKamU0WDJ1ZDE0OWF4RDQwTDhGNk1kSmoyRXhwZHlORWVBeFF0UHNwMjkybng0NGJNQy1xV1QxZVNnQ2w4NmpndmVzRnVPeFlBYWJwMFcwNVg2MmxzWmVlVA",
-  "CBMioAFBVV95cUxPYjNkYUEtZmEwQTZjV3RrWFY3RDB0SW91SmptQTZmVlZ4VkhJd2pIZ25UQWpTMWFpSXBmcFNGMklpTFpXTDNnTDZhRVR6Y3g5UHF2ekhUekMwNTMxdXU5X3JfYWV6ZnVGc0Q3TklyNG5XVUhTcTRYWGI1YmllWFJVWDRMbTNoVk1udEZmNXJxSG5ST3puTzEwcV8tcVNPeGs4"
+  "CBMioAFBVV95cUxPYjNkYUEtZmEwQTZjV3RrWFY3RDB0SW91SmptQTZmVlZ4VkhJd2pIZ25UQWpTMWFpSXBmcFNGMklpTFpXTDNnTDZhRVR6Y3g5UHF2ekhUekMwNTMxdXU5X3JfYWV6ZnVGc0Q3TklyNG5XVUhTcTRYWGI1YmllWFJVWDRMbTNoVk1udEZmNXJxSG5ST3puTzEwcV8tcVNPeGs4",
+  "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos"
  ],
  "posts": [
-  {
-   "fp": "bill capitol hill hope house lawmakers live pass republicans return spending stopgap",
-   "title": "House lawmakers return to Capitol Hill as Republicans hope to pass stopgap spending bill \u2013 live",
-   "source": "Guardian World",
-   "at": "2026-08-31T20:40:21.256583+00:00"
-  },
   {
    "fp": "away bessent canada carney chose deal trade walk",
    "title": "Bessent on trade war with Canada: Carney \u2018chose to walk away\u2019 from a deal",
@@ -3201,10 +3195,15 @@
    "title": "UAE warned Netanyahu of major Hamas operation days before Oct. 7 attack, news report says",
    "source": "AP",
    "at": "2026-09-08T14:53:35.541055+00:00"
+  },
+  {
+   "fp": "chaos exploit hijacking pirates regional return seas somalia",
+   "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+   "source": "Guardian World",
+   "at": "2026-09-08T15:00:51.684770+00:00"
   }
  ],
  "titles": [
-  "bill capitol hill hope house lawmakers live pass republicans return spending stopgap",
   "away bessent canada carney chose deal trade walk",
   "branch campaign community hire jewish liaison olive sayed senate",
   "canyon dead flash flood grand park service",
@@ -3603,6 +3602,7 @@
   "cyclospora declining followed foreign inspections outbreak years",
   "billion closes iowa loan nuclear plant power restart trump",
   "attack been death nottingham prevented victim",
-  "attack days hamas major netanyahu news operation report warned"
+  "attack days hamas major netanyahu news operation report warned",
+  "chaos exploit hijacking pirates regional return seas somalia"
  ]
 }
