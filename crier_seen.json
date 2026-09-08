@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40494369",
-  "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
-  "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
   "CBMiR0FVX3lxTE9XNkpfcFJnQjhBMTM1V1NKWWx5SDA2Q2xwMHRJOGRSS25rTGxOaTNFUmhybHdBVzJXOC15M2trTFBHWFQxNTVF",
   "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
   "CBMitAFBVV95cUxPa182VERRNl9ULTg3MXh0Z004aGNnVW9HQW9TLTI3R01YZzRMeWZEMFhramsxeHVLNGE1ZXAwYTRZcWxMbGF5YTB5dkl6OHVyT2FrTks2ODRFdlNPSTNmUE1MM0ZhaF9LT1JRZEdVX1ZJU2NMNlZiQWlQZ0toUWk1WmVSbXdYTWJva3NxTG92LVJrczhfQzVnLTZ4aE1yYTAwVHVucFNQbHRxSDN6OGJZcjZNVHo",
@@ -799,27 +796,12 @@
   "https://www.washingtonexaminer.com/?p=4717141",
   "CBMikwFBVV95cUxON1VSSFpfdWZ5ejZ2WURVTGNWUlFxTm41VjAxRzRkbncwSFAydTdCVGt1SkY5Q1B0cWxIQWIzdm9mRWwtRUhOWW5PblRNeGN6WnpvdndhY2c0UkNyZnpKYVRsVWt0dFQ4RWVlRzZ3aU1hVER2Z0ZZWXJ3N0RJUTdoS0tlVHR3MlFOZWg4WnVpdFRFLU0",
   "CBMimAFBVV95cUxQcy1XSG01SGxrWEV0U1NoLWFmQ0pnRFJ2YnJBNTZsbFF2N3hVeWt3MHR2ZHJ1MzR1bVNpWDc3djBGZDhtc2xQN0FVczV5Q3FtOGU4aERld2x2N3NRdnZBSjRpMEhjUEpTUEhFYjV5dlVsd2xOSEJfdXNFb2ZfYWJEbkNtYWlzSWdBU1BtaEpsMms5ZGNZTVh4bw",
-  "https://thehill.com/?p=6075462"
+  "https://thehill.com/?p=6075462",
+  "https://nypost.com/?post_type=article&p=40721477",
+  "https://nypost.com/?post_type=article&p=40714289",
+  "CBMiqgFBVV95cUxPRzhRUkhJNTh0V0lUSFlIMFVDVk9oeVdMUUJveE95Y2E2bGo3RW8tXzVXMTNiR3ptZ05XUmNwWVR5WklxMGNkamhORnRGQThOUENyR1NpbS03SUVvb2ZuLTk2ckFrQXRvSzN6X3A3RHprYnpQSmp3dnV5WGlNTHBubU9iNVczVVdXcVRiR0ZIRnBQdGJ3ZndBZEUyX2lpY2ItaE5ReThPTHVYZw"
  ],
  "posts": [
-  {
-   "fp": "dead kyiv least leaves region russian sixth straight strikes",
-   "title": "Sixth straight day of Russian strikes leaves at least 12 dead in Kyiv region",
-   "source": "New York Post",
-   "at": "2026-09-01T11:17:20.772082+00:00"
-  },
-  {
-   "fp": "avoid bill funding government house lawmakers live politics scramble shutdown stopgap vote",
-   "title": "House to vote on stopgap funding bill as lawmakers scramble to avoid government shutdown \u2013 US politics live",
-   "source": "Guardian World",
-   "at": "2026-09-01T11:17:22.510603+00:00"
-  },
-  {
-   "fp": "city fire gaza israeli kills medics raid reported three",
-   "title": "Israeli fire kills three in Gaza City during reported raid, medics say",
-   "source": "BBC World",
-   "at": "2026-09-01T11:17:25.128399+00:00"
-  },
   {
    "fp": "attack deadly hits kyiv rail russian strikes workers",
    "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
@@ -3201,12 +3183,27 @@
    "title": "Live updates: Supreme Court denies GOP on Missouri map suit; Canadian tariffs, Trump threats grow trade war",
    "source": "The Hill",
    "at": "2026-09-08T23:12:43.406129+00:00"
+  },
+  {
+   "fp": "across bullet cops flare including killed least overnight shot sources stray struck violence woman",
+   "title": "At least 4 shot across NYC \u2013 including man killed, woman struck by stray bullet \u2013 in flare-up of overnight violence: cops, sources",
+   "source": "New York Post",
+   "at": "2026-09-08T23:25:00.720527+00:00"
+  },
+  {
+   "fp": "agent attack california details exposing personal professors radical ready students urge",
+   "title": "Radical California professors urge students to \u2018get ready for war,\u2019 attack ICE agent \u2014 before exposing his personal details",
+   "source": "New York Post",
+   "at": "2026-09-08T23:25:02.555309+00:00"
+  },
+  {
+   "fp": "cargo cleaners crash killed miami plane used",
+   "title": "All 5 killed in Miami cargo jet crash were in a van used by plane cleaners",
+   "source": "AP",
+   "at": "2026-09-08T23:25:04.293019+00:00"
   }
  ],
  "titles": [
-  "dead kyiv least leaves region russian sixth straight strikes",
-  "avoid bill funding government house lawmakers live politics scramble shutdown stopgap vote",
-  "city fire gaza israeli kills medics raid reported three",
   "attack deadly hits kyiv rail russian strikes workers",
   "attack charged diego girl mosque murder recording teen",
   "brink dead experts iran nearing point real sign tehran trump",
@@ -3603,6 +3600,9 @@
   "ahead blame denies dominates election israeli massacre netanyahu season warned",
   "near stellar stocks threatens",
   "facilities fall saudi stocks",
-  "canadian court denies grow live missouri suit supreme tariffs threats trade trump updates"
+  "canadian court denies grow live missouri suit supreme tariffs threats trade trump updates",
+  "across bullet cops flare including killed least overnight shot sources stray struck violence woman",
+  "agent attack california details exposing personal professors radical ready students urge",
+  "cargo cleaners crash killed miami plane used"
  ]
 }
