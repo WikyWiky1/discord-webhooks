@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40498357",
-  "CBMizwFBVV95cUxQb1JWNEtvcUpQZmJnN0ZZWFVEa2VGc1g0X0dVNXdQWVhGeG44ZF9GZG1rV0R0V25NV1pGSjl4b3VpMEliUWdBRVJRTDlwNnhzV2pRQkRZUzhSWU5CXzZZT0VDVVZaYXNHNGhab3FJZE5kOGVBOWxjbXFvOGV0dUFPT0lUamxodjAzRWpVOEVSYl9ydDdOSVV4b09ldktMME9GNkVVdC1EQ2xYUU9aczJCNVFOdWh1UmJXci1zcGpNbEFWNFpfbGgyX2dsNjJOOGs",
   "https://nypost.com/?post_type=article&p=40500579",
   "https://www.theguardian.com/us-news/2026/aug/25/billings-montana-shooting-home-fire",
   "https://decider.com/2026/08/25/to-catch-a-cheater-who-killed-hannah-netflix-to-catch-a-cheater-movie-ending-explained/",
@@ -799,21 +797,11 @@
   "https://thehill.com/?p=6079918",
   "https://www.washingtonexaminer.com/?p=4718838",
   "CBMikgFBVV95cUxNZnNEUHIyS2lzSmJQbndlYkJTcnJtNEdnTlRVNU5rTGJUVU9zOTcxNU9keURpVE40eHgzSExCYzRxcTM4bDdzMVBLSmdtRVYwRWczZU4xbDEwN090dkhiMEF6OG1VMWtPcFdhX20xVTQ0QTBSLVJQZTNjVzN3dDRGTzlyeUlUV1JUMk9NOUhlZFFXUQ",
-  "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone"
+  "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone",
+  "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno#0",
+  "CBMigwFBVV95cUxQOGNTQ1h1U3BQb3BxYWNBRVFQZXk1NlBiRTRYemc4amNOejhJdTFWeUlub0dEVzB0MUhwVXNSRlRrNldhOFRwbWxXX0s0dWpoRERZb0lybDhLalpSY2ZWaVFmTEVfbk1kZ3NTaEtoVHJkbUVJWXpXQzBvUG5GZGgydnJlOA"
  ],
  "posts": [
-  {
-   "fp": "about chillingly crazed deadly killer months others posted rampage reason square stabbing times",
-   "title": "Crazed Times Square killer chillingly posted about \u2018stabbing others for no reason\u2019 months before deadly rampage",
-   "source": "New York Post",
-   "at": "2026-09-01T21:31:13.553101+00:00"
-  },
-  {
-   "fp": "arizona crime hate investigate police possible shooting tucson",
-   "title": "Tucson, Arizona, police investigate gay bar shooting as a possible hate crime",
-   "source": "AP",
-   "at": "2026-09-01T21:31:15.342082+00:00"
-  },
   {
    "fp": "captured chief four gaza hamas israel kill raid security strikes",
    "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
@@ -3201,11 +3189,21 @@
    "title": "Apple unveils folding iPhone Duo as new CEO takes center stage",
    "source": "Guardian World",
    "at": "2026-09-09T20:31:07.929431+00:00"
+  },
+  {
+   "fp": "compliance council iran nuclear referred security",
+   "title": "Iran referred to UN Security Council for nuclear non-compliance",
+   "source": "BBC World",
+   "at": "2026-09-09T21:32:17.036591+00:00"
+  },
+  {
+   "fp": "boards deploys emergency force moments slide trump",
+   "title": "Air Force One emergency slide deploys moments before Trump boards",
+   "source": "Telegraph",
+   "at": "2026-09-09T21:32:18.948573+00:00"
   }
  ],
  "titles": [
-  "about chillingly crazed deadly killer months others posted rampage reason square stabbing times",
-  "arizona crime hate investigate police possible shooting tucson",
   "captured chief four gaza hamas israel kill raid security strikes",
   "bankroll budget california carveout drivers gavin leaves newsom office security under",
   "ends higher lower mark prices rising september shaky start street wall yields",
@@ -3603,6 +3601,8 @@
   "congress kash next patel testify week",
   "blue chris courts democratic hampshire keep pappas seat senate socialist support",
   "apple called foldable including iphone latest lineup model unveils",
-  "apple center folding iphone stage takes unveils"
+  "apple center folding iphone stage takes unveils",
+  "compliance council iran nuclear referred security",
+  "boards deploys emergency force moments slide trump"
  ]
 }
