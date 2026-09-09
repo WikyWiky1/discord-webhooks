@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4699074",
   "CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK",
   "CBMigwFBVV95cUxNUExDUGZBbXhJOXZta0tiOEhmckJ2c1Viei1pMnk2ZEpwVVdieFUzVU54X194NW5LRmZ1NlNIaWhCWVFMNFpZN3hzSXJUcF80NFg2TVdfVGJmUzByWkIzQVV4ckE4N2xscjNVeHNiekZKRlBBNlBVVHVsc2NRVVhfQVdxVQ",
   "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
@@ -799,15 +798,10 @@
   "CBMiywFBVV95cUxPWEM0dzdnbGhzdFJRRUdQVkFya0g4SU5DQVp5d1dybVNBZlhoQnVCd2JLRUNsemJhOC1wd0JvYmE2a2thT2NFZ2w1clhSUy1MUHd4UkhmTm5VNXlLWUpaMmwxUUVZU0ZCTXRwMUNaNEhaV1ZNbWhtUXpwM1RtQVVTd3FJbXR3WThjM1lhOWVwRUN1NFY0SllLcHNraHByVGM1TXpnT29SN1h1TWJwaW1oSUNxU0dvakQ1dDNPdlRja2FSOFdyeXN5dlh1OA",
   "CBMi4gFBVV95cUxOVzVQbDljaXVGc3FMQ192cjE5aGJrZjIzWGdLd0pjcUdSQVRkS3pLRGRPdk5veFUyQV9EWldST1lZUXNicGROYWFMYlg5RXdvbDE1UlZMLXNwWUJVVEJpTzZCN2F1RkNSeWw5SFJkWG42dHItblBXMWlhTU1qZGlQbmgzbFF5RTNWdk1iUUt1RGc5YTF5SEJWQWNIbF9Ybi1qS2RDNTlCOHlLZWsyRjRIaWxyV296dS1FQXFuRHltMkUydlZsWnVTcGQxWkFSQTR5NklmVl85RVpsZWpjRUhLejZR",
   "https://www.bbc.co.uk/news/articles/c62mn90ppnro#1",
-  "https://nypost.com/?post_type=article&p=40725448"
+  "https://nypost.com/?post_type=article&p=40725448",
+  "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds"
  ],
  "posts": [
-  {
-   "fp": "bond global intensifies selloff slip stocks",
-   "title": "U.S. Stocks Slip as Global Bond Selloff Intensifies",
-   "source": "WSJ",
-   "at": "2026-09-01T18:10:33.927069+00:00"
-  },
   {
    "fp": "carney escalating mark serious start tells trade",
    "title": "Mark Carney tells US to \u2018start being serious\u2019 amid escalating trade war",
@@ -3201,10 +3195,15 @@
    "title": "\u2018Devil\u2019 ringleader who tortured, killed transgender man Sam Nordquist held captive in NY motel sentenced to life in prison",
    "source": "New York Post",
    "at": "2026-09-09T11:49:30.212608+00:00"
+  },
+  {
+   "fp": "anaemic babies born brains finds mothers smaller study",
+   "title": "Babies born to anaemic mothers have smaller brains, study finds",
+   "source": "Guardian World",
+   "at": "2026-09-09T15:03:29.988653+00:00"
   }
  ],
  "titles": [
-  "bond global intensifies selloff slip stocks",
   "carney escalating mark serious start tells trade",
   "clash democratic generational markey massachusetts moulton primary seth targets",
   "angels arte breaking buys kroenke moreno owner price rams record stan",
@@ -3603,6 +3602,7 @@
   "beware commentary dolan economic financial global heatwave mike wildfires",
   "bangladesh fights fuel gaps measles outbreak spread vaccination world worst",
   "call d4vd death family killed penalty teen trial",
-  "captive devil held killed life motel nordquist prison ringleader sentenced tortured transgender"
+  "captive devil held killed life motel nordquist prison ringleader sentenced tortured transgender",
+  "anaemic babies born brains finds mothers smaller study"
  ]
 }
