@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK",
-  "CBMigwFBVV95cUxNUExDUGZBbXhJOXZta0tiOEhmckJ2c1Viei1pMnk2ZEpwVVdieFUzVU54X194NW5LRmZ1NlNIaWhCWVFMNFpZN3hzSXJUcF80NFg2TVdfVGJmUzByWkIzQVV4ckE4N2xscjNVeHNiekZKRlBBNlBVVHVsc2NRVVhfQVdxVQ",
   "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
   "CBMipAFBVV95cUxPX28xVzhGSE02dFlOSGw0WlBnSTdWMUw0YTh4SENuc1NCOHhLQU00bDlaRDBXZUgtd05Ua2J3Z1VyRG5vd2RhbVZOaUNCRDdMX04weTJLSFJkTmFqOEVhMmx6MFVURDdadG5xYzM5c1BMVVFxek83MWJzZVJBcTdLYXNJeXNKaHd1UlNWT29EUVFXcGUyOTlsNDR4VXhWY20tQTFqSg",
   "https://www.theguardian.com/us-news/2026/aug/25/mother-daughter-killed-lightning-florida",
@@ -799,21 +797,11 @@
   "CBMi4gFBVV95cUxOVzVQbDljaXVGc3FMQ192cjE5aGJrZjIzWGdLd0pjcUdSQVRkS3pLRGRPdk5veFUyQV9EWldST1lZUXNicGROYWFMYlg5RXdvbDE1UlZMLXNwWUJVVEJpTzZCN2F1RkNSeWw5SFJkWG42dHItblBXMWlhTU1qZGlQbmgzbFF5RTNWdk1iUUt1RGc5YTF5SEJWQWNIbF9Ybi1qS2RDNTlCOHlLZWsyRjRIaWxyV296dS1FQXFuRHltMkUydlZsWnVTcGQxWkFSQTR5NklmVl85RVpsZWpjRUhLejZR",
   "https://www.bbc.co.uk/news/articles/c62mn90ppnro#1",
   "https://nypost.com/?post_type=article&p=40725448",
-  "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds"
+  "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+  "https://thehill.com/?p=6078397",
+  "https://www.theguardian.com/us-news/2026/sep/09/large-sinkhole-malibu-california"
  ],
  "posts": [
-  {
-   "fp": "carney escalating mark serious start tells trade",
-   "title": "Mark Carney tells US to \u2018start being serious\u2019 amid escalating trade war",
-   "source": "Guardian World",
-   "at": "2026-09-01T18:10:35.704630+00:00"
-  },
-  {
-   "fp": "clash democratic generational markey massachusetts moulton primary seth targets",
-   "title": "Massachusetts Democratic primary is a generational clash as Rep. Seth Moulton targets Sen. Ed Markey",
-   "source": "AP",
-   "at": "2026-09-01T18:10:37.767245+00:00"
-  },
   {
    "fp": "angels arte breaking buys kroenke moreno owner price rams record stan",
    "title": "Rams owner Stan Kroenke buys Angels from Arte Moreno for record-breaking price",
@@ -3201,11 +3189,21 @@
    "title": "Babies born to anaemic mothers have smaller brains, study finds",
    "source": "Guardian World",
    "at": "2026-09-09T15:03:29.988653+00:00"
+  },
+  {
+   "fp": "accuses anecdote attack lying newsom response trump",
+   "title": "Newsom accuses Trump of lying during his 9/11 attack response anecdote",
+   "source": "The Hill",
+   "at": "2026-09-09T15:42:32.036285+00:00"
+  },
+  {
+   "fp": "cage evacuation home malibu nicolas owned prompts reportedly sinkhole",
+   "title": "Sinkhole at Malibu home reportedly owned by Nicolas Cage prompts evacuation",
+   "source": "Guardian World",
+   "at": "2026-09-09T15:42:33.858709+00:00"
   }
  ],
  "titles": [
-  "carney escalating mark serious start tells trade",
-  "clash democratic generational markey massachusetts moulton primary seth targets",
   "angels arte breaking buys kroenke moreno owner price rams record stan",
   "avoid bill democrats election funding help house passes shutdown stopgap",
   "bofa killed president square stabbing times vice",
@@ -3603,6 +3601,8 @@
   "bangladesh fights fuel gaps measles outbreak spread vaccination world worst",
   "call d4vd death family killed penalty teen trial",
   "captive devil held killed life motel nordquist prison ringleader sentenced tortured transgender",
-  "anaemic babies born brains finds mothers smaller study"
+  "anaemic babies born brains finds mothers smaller study",
+  "accuses anecdote attack lying newsom response trump",
+  "cage evacuation home malibu nicolas owned prompts reportedly sinkhole"
  ]
 }
