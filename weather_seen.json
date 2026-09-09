@@ -987,8 +987,17 @@
    "message_id": "1547263063294615634",
    "event": "Extreme Heat Warning",
    "area": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Northwest Deserts; Death Valley National Park; Cadiz Basin; San Bernardino County-Upper Colorado River Valley; Northeast Clark County; Western Clark and Southern Nye County; Las Vegas Valley; Lake Mead - NV side; Lake Mohave - NV side",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-09-09T15:11:01+00:00",
+   "expired_at": "2026-09-09T23:20:41+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.e30eb6d73ddbef4e05294c2922b99880c92ec22a.001.1",
+   "message_id": "1547386287022149743",
+   "event": "Extreme Heat Warning",
+   "area": "Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Northwest Deserts; Death Valley National Park; Cadiz Basin; San Bernardino County-Upper Colorado River Valley; Northeast Clark County; Western Clark and Southern Nye County; Las Vegas Valley; Lake Mead - NV side; Lake Mohave - NV side",
+   "expired": false,
+   "posted_at": "2026-09-09T23:20:40+00:00",
    "expired_at": null
   }
  ]
