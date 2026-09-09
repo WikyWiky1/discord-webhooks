@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4699045",
-  "CBMirgFBVV95cUxOVURnQUFXanROYkZmLWtxTnpMZUxpRjB5b0pBVmZYalpuSEpjTlVoYlVya1hubUFzRDZ6eS1iYUN3X1BXcUVfUElnSHRwNE83TlEtanF6M0JyR3p6RmhCbE50SWV2TEhpd0hVamVWRl9mSzhEeE8wNXJ5T0dIdkQ5Rk91Qkxnd3o4a0pvdXdJMjhQZ1NkbHozaTlFc0Y0SlR0TElwTzBmNTgwVUVFNEE",
-  "https://www.theguardian.com/world/2026/aug/24/the-whitewashing-of-the-green-indian-mission",
   "CBMirwFBVV95cUxOWlF5b1c1NE5GRGRaM2RmUy01MUExOEdPY2JJam9sYUlCaVp5QzgzRzZvNWgxVmZlbHdlOXM5RFh5UXA0aVF6WW5kOVdnQmhhazV5blJqTlpYZVdpX3R1TTNHMUVwd1BXMG93QktBMkZONzZjT2pBMlN5ZTBzOWhrSmRtcDlpdG5oUzFPSUJ4ZUZTS25QZW1ES3Q1aXBqMHlod3RBT0hoczVodm9nZ0JN",
   "CBMiYkFVX3lxTE5pdVJZQmZCaVNHNG4xamxEdmRvXzI0SVNYV0g4eEJNQ3h4MUR5andvZklEUVV4ZTMxODVuYU1lODVEZ3lac1h6eVItUUNEYlZqcmVrRVBwb0o0SUZFc1JISjZB",
   "CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6077243",
   "https://www.bbc.co.uk/news/articles/c4g7zen0vveo#0",
   "https://www.theguardian.com/australia-news/2026/sep/09/australia-considers-new-israel-sanctions-but-wont-join-uk-in-banning-trade-with-settler-terrorists-ntwnfb",
-  "https://www.washingtonexaminer.com/?p=4717890"
+  "https://www.washingtonexaminer.com/?p=4717890",
+  "https://nypost.com/?post_type=article&p=40725019",
+  "https://www.theguardian.com/politics/2026/sep/09/zack-polanski-calls-report-ecosystem-collapse-published-greens",
+  "https://nypost.com/?post_type=article&p=40724379"
  ],
  "posts": [
-  {
-   "fp": "congress great johnson member miller reelection supports",
-   "title": "Johnson says he supports Max Miller's reelection bid: 'Great member of Congress'",
-   "source": "The Hill",
-   "at": "2026-09-01T13:56:59.879787+00:00"
-  },
-  {
-   "fp": "finale grand incumbents massachusetts primary reaches season tough",
-   "title": "Tough primary season for incumbents reaches grand finale in Massachusetts",
-   "source": "The Hill",
-   "at": "2026-09-01T13:57:01.818843+00:00"
-  },
-  {
-   "fp": "campaign election ends france heating macron replace season summer vacation",
-   "title": "The election campaign to replace Macron in France is heating up as the summer vacation season ends",
-   "source": "AP",
-   "at": "2026-09-01T13:57:03.665453+00:00"
-  },
   {
    "fp": "appalachian hiker oldest photos reclaiming record show trail",
    "title": "Photos show oldest hiker reclaiming Appalachian Trail record at 91",
@@ -3201,12 +3183,27 @@
    "title": "Trump lauds far-right German AfD party after election win: \u2018THEY ARE ON THE RISE\u2019",
    "source": "Washington Examiner",
    "at": "2026-09-09T03:22:01.109639+00:00"
+  },
+  {
+   "fp": "amazon braking crash data deadly deploy miami ntsb shows systems",
+   "title": "Data shows Amazon jet\u2019s key braking systems did not deploy during deadly Miami crash: NTSB",
+   "source": "New York Post",
+   "at": "2026-09-09T06:38:02.345167+00:00"
+  },
+  {
+   "fp": "calls collapse ecosystem full polanski published report",
+   "title": "Polanski calls for report on ecosystem collapse to be published in full",
+   "source": "Guardian World",
+   "at": "2026-09-09T06:38:04.143637+00:00"
+  },
+  {
+   "fp": "break cars charged home homeowner indiana shooting suspicious trying various",
+   "title": "Indiana homeowner charged after shooting \u2018suspicious\u2019 man trying to break into his home, various cars",
+   "source": "New York Post",
+   "at": "2026-09-09T06:38:05.924205+00:00"
   }
  ],
  "titles": [
-  "congress great johnson member miller reelection supports",
-  "finale grand incumbents massachusetts primary reaches season tough",
-  "campaign election ends france heating macron replace season summer vacation",
   "appalachian hiker oldest photos reclaiming record show trail",
   "china claims deadly floods given nepal rebuts warning",
   "american coach dead everything former jerry stovall",
@@ -3603,6 +3600,9 @@
   "democrats hampshire must pappas race senate showdown sununu takeaways",
   "announces bank furious israeli prompting response sanctions settlements west",
   "australia banning considers israel join sanctions settler terrorists trade",
-  "election german lauds party right rise trump"
+  "election german lauds party right rise trump",
+  "amazon braking crash data deadly deploy miami ntsb shows systems",
+  "calls collapse ecosystem full polanski published report",
+  "break cars charged home homeowner indiana shooting suspicious trying various"
  ]
 }
