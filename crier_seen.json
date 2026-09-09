@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/politics/2026/aug/25/kemi-badenoch-rishi-sunak-conservatives-anthony-seldon-book",
-  "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017",
-  "https://thehill.com/?p=6049018",
-  "CBMilwFBVV95cUxQSXdSdlFiakVvQjB2SzhmWFlya0NreVVMMURCSVdtZS1VLVZtaEcxanRSb3VfNEV0TmxQcnlkaUNnSlFscVZUblBtelJrZXBhMWtQQjBHallLMjJVX2JtaDZiQ3NWbUlTeVhCOWdEMTAwZkFpWFRaOEI0em13YjF2R3BCd091X0xhQjRtaTNkSXM2SkczaWJr",
-  "https://thehill.com/?p=6049271",
-  "https://nypost.com/?post_type=article&p=40500063",
   "https://nypost.com/?post_type=article&p=40498357",
   "CBMizwFBVV95cUxQb1JWNEtvcUpQZmJnN0ZZWFVEa2VGc1g0X0dVNXdQWVhGeG44ZF9GZG1rV0R0V25NV1pGSjl4b3VpMEliUWdBRVJRTDlwNnhzV2pRQkRZUzhSWU5CXzZZT0VDVVZaYXNHNGhab3FJZE5kOGVBOWxjbXFvOGV0dUFPT0lUamxodjAzRWpVOEVSYl9ydDdOSVV4b09ldktMME9GNkVVdC1EQ2xYUU9aczJCNVFOdWh1UmJXci1zcGpNbEFWNFpfbGgyX2dsNjJOOGs",
   "https://nypost.com/?post_type=article&p=40500579",
@@ -799,45 +793,15 @@
   "https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates",
   "CBMiogFBVV95cUxNN3lJSHppY0liT3lJTDhwYml2Z3BTT3NNVW1WN3BPdVdlc3lJcXM4dTBKZ2sya2l2cVRaOHdIOGlwd3N5SVVtR0JfN3ZRbVk2bnVHbExwcmVNdG1iMkk1NHRUQ2FoZFVTVnpFY09DY1BNeDZ6dS1DdGtRS3JXOXpUSTlkYVg2V0FhclZFSXBpTzN3S28zbkE4MEhNdG9zRzdhLWc",
   "https://www.npr.org/2026/09/09/nx-s1-5962899/special-education-kelly-rogers-resigns",
-  "https://thehill.com/?p=6079443"
+  "https://thehill.com/?p=6079443",
+  "https://thehill.com/?p=6079649",
+  "https://www.washingtonexaminer.com/?p=4718355",
+  "https://thehill.com/?p=6079918",
+  "https://www.washingtonexaminer.com/?p=4718838",
+  "CBMikgFBVV95cUxNZnNEUHIyS2lzSmJQbndlYkJTcnJtNEdnTlRVNU5rTGJUVU9zOTcxNU9keURpVE40eHgzSExCYzRxcTM4bDdzMVBLSmdtRVYwRWczZU4xbDEwN090dkhiMEF6OG1VMWtPcFdhX20xVTQ0QTBSLVJQZTNjVzN3dDRGTzlyeUlUV1JUMk9NOUhlZFFXUQ",
+  "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone"
  ],
  "posts": [
-  {
-   "fp": "deadly enters network phase rail russia targets ukraine",
-   "title": "Russia targets Ukraine\u2019s rail network as war enters deadly new phase",
-   "source": "Guardian World",
-   "at": "2026-09-01T18:47:53.945972+00:00"
-  },
-  {
-   "fp": "attack brandenburg german grid minister power sabotage target",
-   "title": "German minister says Brandenburg power grid target of sabotage attack",
-   "source": "Reuters",
-   "at": "2026-09-01T18:47:55.727432+00:00"
-  },
-  {
-   "fp": "approves avoid funding house iran live shutdown strikes targets updates",
-   "title": "Live updates: House approves funding to avoid shutdown; US strikes Iran targets",
-   "source": "The Hill",
-   "at": "2026-09-01T18:47:57.919814+00:00"
-  },
-  {
-   "fp": "driscoll further hegseth intensifies questions resignation surrounding",
-   "title": "Driscoll\u2019s resignation further intensifies questions surrounding Hegseth",
-   "source": "Washington Examiner",
-   "at": "2026-09-01T21:31:07.824403+00:00"
-  },
-  {
-   "fp": "four iran killed media party reports state strikes wedding",
-   "title": "US strikes Iran as state media reports four killed at wedding party",
-   "source": "BBC World",
-   "at": "2026-09-01T21:31:09.604571+00:00"
-  },
-  {
-   "fp": "arizona chance collapse hockey matthew mayich recovery star state workout zero",
-   "title": "Arizona State hockey star Matthew Mayich has \u2018zero chance of recovery\u2019 after workout collapse",
-   "source": "New York Post",
-   "at": "2026-09-01T21:31:11.357292+00:00"
-  },
   {
    "fp": "about chillingly crazed deadly killer months others posted rampage reason square stabbing times",
    "title": "Crazed Times Square killer chillingly posted about \u2018stabbing others for no reason\u2019 months before deadly rampage",
@@ -3201,15 +3165,45 @@
    "title": "Smithsonian head to resign after Trump admin threats to cut off support",
    "source": "The Hill",
    "at": "2026-09-09T18:59:35.042973+00:00"
+  },
+  {
+   "fp": "back driven journal lewandowski politically pushes report street wall",
+   "title": "Lewandowski pushes back on 'politically driven' Wall Street Journal report",
+   "source": "The Hill",
+   "at": "2026-09-09T20:30:59.242324+00:00"
+  },
+  {
+   "fp": "countries house israeli leads other quiet sanctions settler stays terrorists white",
+   "title": "White House stays quiet as UK leads 11 other countries with sanctions on Israeli \u2018settler terrorists\u2019",
+   "source": "Washington Examiner",
+   "at": "2026-09-09T20:31:00.950930+00:00"
+  },
+  {
+   "fp": "congress kash next patel testify week",
+   "title": "Kash Patel to testify before Congress next week",
+   "source": "The Hill",
+   "at": "2026-09-09T20:31:02.763085+00:00"
+  },
+  {
+   "fp": "blue chris courts democratic hampshire keep pappas seat senate socialist support",
+   "title": "Chris Pappas courts Democratic socialist support to keep New Hampshire Senate seat blue",
+   "source": "Washington Examiner",
+   "at": "2026-09-09T20:31:04.493214+00:00"
+  },
+  {
+   "fp": "apple called foldable including iphone latest lineup model unveils",
+   "title": "New Apple CEO unveils latest iPhone lineup, including a foldable model called Duo",
+   "source": "AP",
+   "at": "2026-09-09T20:31:06.279061+00:00"
+  },
+  {
+   "fp": "apple center folding iphone stage takes unveils",
+   "title": "Apple unveils folding iPhone Duo as new CEO takes center stage",
+   "source": "Guardian World",
+   "at": "2026-09-09T20:31:07.929431+00:00"
   }
  ],
  "titles": [
-  "deadly enters network phase rail russia targets ukraine",
-  "attack brandenburg german grid minister power sabotage target",
-  "approves avoid funding house iran live shutdown strikes targets updates",
-  "driscoll further hegseth intensifies questions resignation surrounding",
-  "four iran killed media party reports state strikes wedding",
-  "arizona chance collapse hockey matthew mayich recovery star state workout zero",
   "about chillingly crazed deadly killer months others posted rampage reason square stabbing times",
   "arizona crime hate investigate police possible shooting tucson",
   "captured chief four gaza hamas israel kill raid security strikes",
@@ -3603,6 +3597,12 @@
   "address check convention delayed emergency gifted live midterm plane qatar slide trump",
   "board council iran nuclear reports security time watchdog years",
   "abruptly department education head resigns special",
-  "admin head resign smithsonian support threats trump"
+  "admin head resign smithsonian support threats trump",
+  "back driven journal lewandowski politically pushes report street wall",
+  "countries house israeli leads other quiet sanctions settler stays terrorists white",
+  "congress kash next patel testify week",
+  "blue chris courts democratic hampshire keep pappas seat senate socialist support",
+  "apple called foldable including iphone latest lineup model unveils",
+  "apple center folding iphone stage takes unveils"
  ]
 }
