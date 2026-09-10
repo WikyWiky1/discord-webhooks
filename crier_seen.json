@@ -1,12 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6030474",
-  "CBMixwFBVV95cUxOQkoxdV83WXpiYW1YUTFfYUZSVTU5SG9oc3FkZ1N2aGozRmNqNXRwbk1XaEVWZDIza0YwTFc0R1FEckd6ZWtRMG1QTkdCZE9jUURDcl9laXZRazFRTnZiZFJ5cEtBU2xhODhhenVhSTBtYkFPVDNnTEVPRjFudzVIUGoxRF9YZzBSa3B4QTlMTHJWaW1oODlITE9aYUd1SWhoV3BCUlZpTkU3LVZncVEyMmFPenFlMmpFS0hKR290UGlsMDcyVmdR",
-  "CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c",
-  "CBMinwFBVV95cUxPR3JfY3FOQ2VaYVhZd2JnaFdSZDAwNzhfc3hxbm5ibDR5dzRMcGwtNnZTX0tLY2R1U3RfNnRqd0V6eHVGX0hHNzVGdWJ4allUbzhnaU5sd3hHZzctZkwxS1dhS2N6QVFfcUtyRkd4WXdSYTdkWEVicWJObFMza2R5NEFaRWo4YnRWZURDbWZaa19VMGJRWEFualEyemFleVk",
-  "https://nypost.com/?post_type=article&p=40505985",
-  "https://nypost.com/?post_type=article&p=40506656",
-  "https://nypost.com/?post_type=article&p=40488314",
   "https://thehill.com/?p=6050130",
   "CBMipwFBVV95cUxOOHh2dmcyaWU3UlA2RXhCUnJKNTFucVk5Q0ZsQXMyMWowekZxbC1YOVViTk1uWnJKbXE1VHZ0UHk1c2JHMzNIRThYdU1fNzVOMEotcUZBRThDQ3NvNTRWTmRIQm9uZDJMbllocDBlOENVcjgwYjBCZDBzUkp1S0J5NThTT0RVR05jRnZWaDRNOG5jaHo1b21Gd3JGMVVCQ3dYWElpRFcwYw",
   "https://nypost.com/?post_type=article&p=40500785",
@@ -799,51 +792,16 @@
   "CBMirgFBVV95cUxOaEFFd19FaHhIWU1ueFQwa1lDUWZMNTBZR1drTW1lRUV3a0Q1eUhYbFZJYjdmX3BEbWJudThqUFpldmNoODNhS2NubGw2Q3o0aC1TU3AwQnc0bXdsUDJPSk9oX3l2anhGMkRXTDIzYnppLVB2eTZMUExKbnh5R1VMY0FOOC12NTI3R3kyOUdvTXI1SHdRQTFWNnB5QzFfU0JiQ3d4Tkt1aDllRjA2R1E",
   "https://nypost.com/?post_type=article&p=40742327",
   "https://www.theguardian.com/us-news/2026/sep/09/rhode-island-primary-results-dan-mckee",
-  "CBMiuAFBVV95cUxPT0E2N2pTdEt3TWIyYkJGazk5TVBEekVhcEMwaFNNZ3Rxa0xqcVJOaVNpNlV2UHV6akhlU3Nnd3FpaDB2M3ZKMmwxX0FlWjZlVFFxbUlDUkxuSFhyY05rWTQ2Wmk2N0tTREtiT3gzdTRodGgtR3h2c2lTeUVHT0M3UWZ4bENqdmZKOW1Jdy1SS2pWRVVaWDRaRGJ1ZVBDUEh5a0dLQ2RmNHlDX3ZGZlB3amZRMDlaZlNl"
+  "CBMiuAFBVV95cUxPT0E2N2pTdEt3TWIyYkJGazk5TVBEekVhcEMwaFNNZ3Rxa0xqcVJOaVNpNlV2UHV6akhlU3Nnd3FpaDB2M3ZKMmwxX0FlWjZlVFFxbUlDUkxuSFhyY05rWTQ2Wmk2N0tTREtiT3gzdTRodGgtR3h2c2lTeUVHT0M3UWZ4bENqdmZKOW1Jdy1SS2pWRVVaWDRaRGJ1ZVBDUEh5a0dLQ2RmNHlDX3ZGZlB3amZRMDlaZlNl",
+  "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o#0",
+  "https://www.washingtonexaminer.com/?p=4720561",
+  "https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing",
+  "CBMiigFBVV95cUxQQ3Ytd2I5UDhvbzQ1MnhiUUtUZFVJQ3BaTXpUaGhhZDMwQ2RHS2EwR19SSkNKaWZXYXlnUWI2WmU1cTEzcHFWcjExSW9sQ1NRTlJhdHdvTExQRW1EOGM1LWxGOF9qSEk5QXBCQTFqN2NhQm9EWnJRaDZfNUttR0gyckdYOHBXZVVBNHc",
+  "https://www.theguardian.com/world/2026/sep/10/north-korea-has-built-new-uranium-facility-to-expand-nuclear-arsenal-un-agency-says",
+  "https://nypost.com/?post_type=article&p=40742626",
+  "https://nypost.com/?post_type=article&p=40742198"
  ],
  "posts": [
-  {
-   "fp": "backed congress elections excluding nicaraguan opposition ortega passes reform",
-   "title": "Nicaraguan Congress passes Ortega-backed reform excluding opposition from elections",
-   "source": "Reuters",
-   "at": "2026-09-02T03:09:40.277366+00:00"
-  },
-  {
-   "fp": "area crash egyptian killed people popular sixteen tourists",
-   "title": "Sixteen people killed in bus crash in Egyptian area popular with tourists",
-   "source": "Sky News",
-   "at": "2026-09-02T06:23:07.217473+00:00"
-  },
-  {
-   "fp": "accused affair allegedly exposed girlfriend illegal immigrant killed salvadoran stabbing virginia worker",
-   "title": "Salvadoran illegal immigrant accused of stabbing Virginia co-worker allegedly killed her after she exposed their affair to his girlfriend",
-   "source": "New York Post",
-   "at": "2026-09-02T06:23:08.990000+00:00"
-  },
-  {
-   "fp": "angels attack balanced loss rebound ugly yankees",
-   "title": "Yankees rebound from ugly loss with balanced attack in win over Angels",
-   "source": "New York Post",
-   "at": "2026-09-02T06:23:10.772223+00:00"
-  },
-  {
-   "fp": "choose democrats leftism markey primary shows youth",
-   "title": "Ed Markey\u2019s big primary win shows Democrats choose leftism over youth",
-   "source": "Washington Examiner",
-   "at": "2026-09-02T10:44:40.996314+00:00"
-  },
-  {
-   "fp": "covid doctor fauci force oath physician push shutdowns tells vaccine violated",
-   "title": "Fauci \u2018violated\u2019 physician oath with COVID shutdowns, vaccine push, top doctor tells Pod Force One",
-   "source": "New York Post",
-   "at": "2026-09-02T10:44:42.805222+00:00"
-  },
-  {
-   "fp": "election firewall germany right state tests",
-   "title": "A state election tests Germany\u2019s far-right firewall",
-   "source": "Washington Examiner",
-   "at": "2026-09-02T10:44:44.653580+00:00"
-  },
   {
    "fp": "agenda balloons congress duck election lame priorities punts until",
    "title": "Lame-duck agenda balloons as Congress punts priorities until after election",
@@ -3201,16 +3159,51 @@
    "title": "U.S. Stocks Fall as Robust August Jobs Data Spurs Yields, Rate-Hike Bets",
    "source": "WSJ",
    "at": "2026-09-10T03:20:58.858107+00:00"
+  },
+  {
+   "fp": "breaks dead ferry fire five heartbreaking missing philippines",
+   "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+   "source": "BBC World",
+   "at": "2026-09-10T06:36:47.884035+00:00"
+  },
+  {
+   "fp": "caribbean forces killed military narco terrorists three",
+   "title": "Three \u2018narco-terrorists\u2019 killed in the Caribbean by US military forces",
+   "source": "Washington Examiner",
+   "at": "2026-09-10T06:36:49.610819+00:00"
+  },
+  {
+   "fp": "deadly ferry fire missing philippines scores search triggers",
+   "title": "Deadly Philippines ferry fire triggers search for scores of missing",
+   "source": "Guardian World",
+   "at": "2026-09-10T06:36:51.461125+00:00"
+  },
+  {
+   "fp": "dead dozens ferry fire least leaves missing passenger philippines",
+   "title": "Fire on passenger ferry in Philippines leaves dozens missing and at least 5 dead",
+   "source": "AP",
+   "at": "2026-09-10T06:36:53.251831+00:00"
+  },
+  {
+   "fp": "agency arsenal built expand facility korea north nuclear uranium",
+   "title": "North Korea has built new uranium facility to expand nuclear arsenal, UN agency says",
+   "source": "Guardian World",
+   "at": "2026-09-10T06:36:55.589862+00:00"
+  },
+  {
+   "fp": "accused driveway home killer landlord rent shooting tries victim",
+   "title": "Accused killer landlord tries to rent out victim\u2019s SF home after shooting him in driveway",
+   "source": "New York Post",
+   "at": "2026-09-10T06:36:57.312429+00:00"
+  },
+  {
+   "fp": "accused also clancy corie hanging husband kill lindsay obsessed plans prosecutors walsh year",
+   "title": "Lindsay Clancy-obsessed mom Corie Walsh, accused of hanging 2-year-old son, also had plans to kill her husband: prosecutors",
+   "source": "New York Post",
+   "at": "2026-09-10T06:36:59.249812+00:00"
   }
  ],
  "titles": [
-  "backed congress elections excluding nicaraguan opposition ortega passes reform",
-  "area crash egyptian killed people popular sixteen tourists",
-  "accused affair allegedly exposed girlfriend illegal immigrant killed salvadoran stabbing virginia worker",
-  "angels attack balanced loss rebound ugly yankees",
-  "choose democrats leftism markey primary shows youth",
-  "covid doctor fauci force oath physician push shutdowns tells vaccine violated",
-  "election firewall germany right state tests",
   "agenda balloons congress duck election lame priorities punts until",
   "electric launches price range rover starting vehicle",
   "edition journal print street wall",
@@ -3603,6 +3596,13 @@
   "adults election payout promises republicans trump",
   "discovers francisco girls invasive species",
   "anger bridge democratic governor island loses primary rhode",
-  "august bets data fall hike jobs rate robust spurs stocks yields"
+  "august bets data fall hike jobs rate robust spurs stocks yields",
+  "breaks dead ferry fire five heartbreaking missing philippines",
+  "caribbean forces killed military narco terrorists three",
+  "deadly ferry fire missing philippines scores search triggers",
+  "dead dozens ferry fire least leaves missing passenger philippines",
+  "agency arsenal built expand facility korea north nuclear uranium",
+  "accused driveway home killer landlord rent shooting tries victim",
+  "accused also clancy corie hanging husband kill lindsay obsessed plans prosecutors walsh year"
  ]
 }
