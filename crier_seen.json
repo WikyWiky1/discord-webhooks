@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40510678",
-  "https://nypost.com/?post_type=article&p=40504964",
   "https://pagesix.com/?post_type=article&p=9132666",
   "CBMisgFBVV95cUxQUEl5THY2cF9IamN1UHFWdEJ1VGxzajJhbXhSZm54b2loQURBYjZvdkVXUnljQTFEVC0zUHUwQlVONm0wVEZOQUhLOG9lRXhnR0lzUENXMTFtd1dLd29ad09MN3l4YW1BRGhGX2Y3RTJiVThDS2xueWYySVZyOGVURVlPY0xwUkp4NXFJSmkzVHBjaExNYTJFalhRR2NmYlRXRFdzRGVpZEdWWFR1UlJyYUxn",
   "https://nypost.com/?post_type=article&p=40494643",
@@ -799,15 +797,11 @@
   "https://pagesix.com/?post_type=article&p=9164232",
   "https://news.sky.com/story/at-least-20-people-killed-after-fire-breaks-out-on-cargo-ship-in-china-port-13583942",
   "https://www.washingtonexaminer.com/?p=4719754",
-  "CBMilAFBVV95cUxNcVB6Z3hSOEVoenV6SWFJa1hOWkxwQVBTdk5kS2VTQnlWUHZuUGdZU0cxU09ndDlMcnF6YjRtUndLRHpza09ETlhTbElNQ2RuQVNVZGtYUlRrQUQ3WmFPcHF4ZEhneW5XQnE3c3lwU2I2X0xJSm9UYktFeDFnWktPcHhDNlI2R2NmWXJpcXdXbi1oaGlr"
+  "CBMilAFBVV95cUxNcVB6Z3hSOEVoenV6SWFJa1hOWkxwQVBTdk5kS2VTQnlWUHZuUGdZU0cxU09ndDlMcnF6YjRtUndLRHpza09ETlhTbElNQ2RuQVNVZGtYUlRrQUQ3WmFPcHF4ZEhneW5XQnE3c3lwU2I2X0xJSm9UYktFeDFnWktPcHhDNlI2R2NmWXJpcXdXbi1oaGlr",
+  "CBMitAFBVV95cUxPSG1VMGJxTjFMWlJ4Ul9YSWlQSUZxNDdWcVBfSDhNRFJWWnBYbGs0c25qSkRWcHBzNU96UzRtRDZicmlXMXRIWS1Nb3dSOXREdkVzRXpJMHpmWEI2R0EzZHgyQm1IZnFSZ0dFLTJERW13aG5wcFlVaXh5NDFFRG5UdnhYRXJEeU9IQ0JyWGtZYzNPa2dWRFJ1SHRYdTJUcHVPV3FCMmliUVhlQzZHSFF3SWVheWM",
+  "https://www.bbc.co.uk/news/videos/ckgw3ngep09o#0"
  ],
  "posts": [
-  {
-   "fp": "impeachment inevitable kind looks third trump",
-   "title": "A third Trump impeachment looks inevitable, but what kind?",
-   "source": "The Hill",
-   "at": "2026-09-02T11:41:06.555570+00:00"
-  },
   {
    "fp": "again bill dead hits house roadblocks russia sanctions",
    "title": "Russia sanctions bill \u2018dead again\u2019 as it hits House roadblocks",
@@ -3201,10 +3195,15 @@
    "title": "Unpaid Ebola Workers Let Families Touch the Dead",
    "source": "WSJ",
    "at": "2026-09-10T11:46:49.282887+00:00"
+  },
+  {
+   "fp": "august hottest joint month record scientists world",
+   "title": "August was world's joint-hottest month on record, scientists say",
+   "source": "Reuters World",
+   "at": "2026-09-10T14:55:58.450411+00:00"
   }
  ],
  "titles": [
-  "impeachment inevitable kind looks third trump",
   "again bill dead hits house roadblocks russia sanctions",
   "bear family killed mexico pays person strong tribute",
   "dark evidence found matter scientists time",
@@ -3603,6 +3602,7 @@
   "cage drama escalates evacuate forced neighbors nicolas sinkhole",
   "breaks cargo china fire killed least people port ship",
   "assassination call charlie civility governor kirk renews utah year",
-  "dead ebola families touch unpaid workers"
+  "dead ebola families touch unpaid workers",
+  "august hottest joint month record scientists world"
  ]
 }
