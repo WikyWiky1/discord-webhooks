@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/26/alaska-dan-sullivan-senate",
-  "CBMisgFBVV95cUxPcDZFaTdpSWZyeEE4enZ6dXBXand2VjZua1ZvMUFKdl9HMVhTR1pFbjFlOVU5SGhvN1F3Ni1HWDV2VEk0LVJFUlI4YVNudTh5X2dtV2wtTDFZNWs1aGx2eTNpNzFWQTRGbUVuNkt4SmpSc1ZDQkdiTWhzTHF1cmI1X3JKUlhQZ3NOQnZtMFBub010V0loMWgtUmNuUDFzajhXMDZjeDhzWkdUX1VNTGpHcG53",
   "CBMingFBVV95cUxOcDFBLTNoRzBfUklOeE5RZDVndmoxRDN1aTFDT0JTX2JxZEVURnZJVHVpcUpYcUFubDdmTDhKamdRbnM2TW9xQ3pTOHh6MUVGelpfc1hwN05ERjNaMko3X3RQTVhnWmNZRVZ3R0doaS1NWGEyQWZGNEhQZV9iM1RuVFpOZjdEZmRRZVZkS25JWDFyYXpzTTNfLWhvcDB0dw",
   "CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw",
   "https://nypost.com/?post_type=article&p=40514387",
@@ -799,21 +797,11 @@
   "CBMimgFBVV95cUxPcC11dGVZOFhyS19xTy1ndTdoWklGeGNZcm80UXAwa3ZhRUk2emd5ejVqQlhmZzBFc3pfMC1uVkd2dXptaTBvS3F1TlhCS3B6bHBXd2dYemZpekpfTEpwUUFSeE1wNE1VWTRIcDdmTE81RV9aVkdwdFNSZEp6M0d2N0ZFVjFvVE1aNzhOOHJMOXcwSDZXYWQycGFB",
   "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o#0",
   "https://news.sky.com/story/at-least-26-students-killed-after-fire-sweeps-through-two-schools-in-dr-congo-13584135",
-  "https://www.bbc.co.uk/news/articles/c62jln7n2vvo#0"
+  "https://www.bbc.co.uk/news/articles/c62jln7n2vvo#0",
+  "CBMipAFBVV95cUxNVll3dmh0VHRTNnFTczJjTTdSbjlpMmlQT09DTENUem9CcVFrSVZ0TmxmTURVUjQ5bFRDck8xenNSZ21aNUNtS0M4SzE5ZDRBMFlSZDFEUHAya2gzWjFKdG12OFNwRXUyd2Y4ZXE5dmtGd1hibnVoaUlIMTBUd3FCbHBNcGVpOHpzZXNSeGJ5S2xaaGdOTUN2T21seUpFTEVIU2tJOA",
+  "https://thehill.com/?p=6083046"
  ],
  "posts": [
-  {
-   "fp": "finance know summit things",
-   "title": "5 things to know from G20 finance summit",
-   "source": "The Hill",
-   "at": "2026-09-02T23:00:17.624589+00:00"
-  },
-  {
-   "fp": "escalation gains iran rise stocks",
-   "title": "U.S. Stocks Rise as Oil Gains on Iran Escalation",
-   "source": "WSJ",
-   "at": "2026-09-02T23:00:19.530078+00:00"
-  },
   {
    "fp": "east fray middle rise stocks tensions",
    "title": "Stocks Rise As Middle East Tensions Fray",
@@ -3201,11 +3189,21 @@
    "title": "Man jailed after threatening to kill son's teacher in French village",
    "source": "BBC World",
    "at": "2026-09-10T21:19:58.806210+00:00"
+  },
+  {
+   "fp": "fall highs multiyear stocks tops yields",
+   "title": "U.S. Stocks Fall as Oil Tops $100, Yields Hit Multiyear Highs",
+   "source": "WSJ",
+   "at": "2026-09-10T22:56:57.287997+00:00"
+  },
+  {
+   "fp": "county paxton public records spacex sues texas",
+   "title": "SpaceX sues Paxton, Texas county over public records",
+   "source": "The Hill",
+   "at": "2026-09-10T22:56:59.216498+00:00"
   }
  ],
  "titles": [
-  "finance know summit things",
-  "escalation gains iran rise stocks",
   "east fray middle rise stocks tensions",
   "13th birthday california days driver drunk girl just killed struck suspected",
   "carla dead disney former jeffery star",
@@ -3603,6 +3601,8 @@
   "alpine coach crash killed several swiss village",
   "alps coach crash kills people several swiss",
   "congo dead fire least school students",
-  "french jailed kill teacher threatening village"
+  "french jailed kill teacher threatening village",
+  "fall highs multiyear stocks tops yields",
+  "county paxton public records spacex sues texas"
  ]
 }
