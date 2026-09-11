@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40518793",
-  "https://pagesix.com/?post_type=article&p=9135585",
-  "CBMivwFBVV95cUxNZHFjR1VnNGUzMW01QXQyZ3ZZVkExbzZWd3BEbmQ1OEpvTUk0anptWk5tQkpndWhrcEdFVWcyX3ctZnB0YnNNc0pxanVXUlV3bVlzenhUOEJfQ0M5b3N5MzlVZXlGTTcyNEJtNXBkMmdub3BlZmhhWDNrekxkOTFxU2VFVk83UllpdzYtcVFEZ1ZfVTNlTjVDNU1DMTlqTlNRbWtGRkZqeENXa2xIT0puYmdieUNkaXlldjV3UDVKOA",
   "https://thehill.com/?p=6052091",
   "https://www.theguardian.com/politics/2026/aug/26/robert-jenrick-personal-attack-kemi-badenoch-lies",
   "https://www.washingtonexaminer.com/?p=4700780",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6085207",
   "https://www.washingtonexaminer.com/?p=4724340",
   "https://thehill.com/?p=6085321",
-  "https://thehill.com/?p=6085116"
+  "https://thehill.com/?p=6085116",
+  "CBMiuAFBVV95cUxNOERxUkxITTVtMGU4WGxDNk91MGNobEt6d1diX0xsbDR3VFM2V3d4bGFUWjBReVM4clZtMF9LalEzQWdPdG9qUEV2UGNCeWYtNFZaSHg3aU1BU2lpd2hYQmZBVDNZNGJTRE80dXE2bWlqYmtMeGowbUdGU2NTRFFGcUg5OW9hSWhDa29CaHAxYlRydTFUUGF4b2V0MUVIbmpydXVfMjZsa0h6U2FlWTdZenNPYVcwQkRF",
+  "CBMi0wFBVV95cUxOTUE5VzJ4UlRBQW9YbVRrSVhaR1RxX29aNEZKWXg1VFczOFI5M2NTNmtDcWVrSC1Gc0R2Yk5oeFN4YzJadmhiaUwtS0hvMHdoM3BNY2VNb1R1Z2NvY1NoMkZac2tTRHpJV1dUX1A3UzM0YUNyS2l0c0VEMlU2X2s4WklSUklyeGdQc29rSlJDX3doWEFCT1A4Ty1teUlBYVJzZ3JJb1Jrbi0tUmt0SS1OTGRXMXd2MW90Z2JDYkNLMmNCY2N2SDJPSnJFLXRUOEZuMDA0",
+  "CBMizgFBVV95cUxNdEMtMktXeWhtUy1IVGR0cHJrVWRtYWluRk0tcFZETjJEaWh6QV9ScWhlaHZjbnYzQmhxOWNadVJYbm9pN2Z5b0tfcHBLMzFwUG9hRHcxM2pRU0hhWXlzV1V3RmlUa1FnM1llcTVBQ0hNSW9DR0xDN2cxYjJHYUVCYjFyeTNiR2MzVTJtQnFJN2N0V1d5bXhxVDh3WmM3b0NpOGJmX05OUWtWZEpFdzNWa3dPVkxXV0tXUDNMUUVUM2g4MkhTU0MtWktXNzdfdw"
  ],
  "posts": [
-  {
-   "fp": "dead including investigators left minneapolis scene scour shooting suspect",
-   "title": "Investigators scour scene of Minneapolis shooting that left 3 dead, including suspect",
-   "source": "AP",
-   "at": "2026-09-03T19:24:58.974196+00:00"
-  },
-  {
-   "fp": "chance deal east escalation investors middle mixed peace prices russia ukraine weigh",
-   "title": "Oil prices mixed as investors weigh Middle East escalation, chance of Russia-Ukraine peace deal",
-   "source": "Reuters",
-   "at": "2026-09-03T20:34:04.191998+00:00"
-  },
-  {
-   "fp": "another business endorse leader senate term thune vance",
-   "title": "Vance: \u2018It\u2019s not my business\u2019 to endorse Thune for another term as Senate leader",
-   "source": "Washington Examiner",
-   "at": "2026-09-03T20:34:05.875197+00:00"
-  },
   {
    "fp": "comer james labor mcconnell mitch return senate",
    "title": "Mitch McConnell set to return to Senate after Labor Day, James Comer says",
@@ -3201,12 +3183,27 @@
    "title": "Health officials declare end to largest cyclospora outbreak in history",
    "source": "The Hill",
    "at": "2026-09-11T21:14:40.087404+00:00"
+  },
+  {
+   "fp": "cheers clarity even higher means outlook rates street wall",
+   "title": "Wall Street Cheers Clarity on Fed Outlook\u2014Even if It Means Higher Rates",
+   "source": "WSJ",
+   "at": "2026-09-11T22:59:55.511178+00:00"
+  },
+  {
+   "fp": "climb hike investors possible rate stocks welcome",
+   "title": "U.S. Stocks Climb as Investors Welcome Possible Rate Hike",
+   "source": "WSJ",
+   "at": "2026-09-11T22:59:57.219828+00:00"
+  },
+  {
+   "fp": "bolsonaro brazil court eduardo justice push sanctions supreme visit washington",
+   "title": "Brazil's Eduardo Bolsonaro to push for U.S. sanctions against Supreme Court Justice during Washington visit",
+   "source": "Reuters",
+   "at": "2026-09-11T22:59:58.920396+00:00"
   }
  ],
  "titles": [
-  "dead including investigators left minneapolis scene scour shooting suspect",
-  "chance deal east escalation investors middle mixed peace prices russia ukraine weigh",
-  "another business endorse leader senate term thune vance",
   "comer james labor mcconnell mitch return senate",
   "automakers banning cars chinese congress pass quickly urge",
   "federal hike later month muddies outlook rates reserve waller",
@@ -3603,6 +3600,9 @@
   "coal court federal keeping michigan order plant rules running trump",
   "almost breaking cases cyclosporiasis declares outbreak record",
   "attack bush george learned moment painting shares",
-  "cyclospora declare health history largest officials outbreak"
+  "cyclospora declare health history largest officials outbreak",
+  "cheers clarity even higher means outlook rates street wall",
+  "climb hike investors possible rate stocks welcome",
+  "bolsonaro brazil court eduardo justice push sanctions supreme visit washington"
  ]
 }
