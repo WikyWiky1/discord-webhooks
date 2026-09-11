@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://news.sky.com/story/at-least-eight-dead-in-nepal-after-avalanche-sparks-flash-floods-13577332",
-  "CBMijwFBVV95cUxNQ2taZjdPSThOUDBUcE95cXVCWkgxbHN2NVVNdHBfdE1UV0VMcHNHczIxUWttV0hvSmloeHZSRW9TTTdSTVJvLVI1X2NGaTRMZ2FoUDZKV09zcVV3MFAxeW85ZDlBQnU1c0E0aDA2TmtWTVJGZTI0NEI1MzlNN0RtRnE2aWVXTDdBTXNxeExMOA",
-  "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
-  "CBMimAFBVV95cUxNYWZwTFhBM1dBcUQ2WFBWazRIOXpBMHI5R3p1blpsYTdIV2tHQ25mOHo0RGNZNFJOM2hNTEFhbEdaSlNhX1FMRHk2V3lkQkdESmtkTXd0RDR3UUlVaWo5YmoydndfWkVmLW5uZW1ubm02MzZaVHpUTG1ocVF4cmxJZ2ZwUThuVHp5T1ZmTXY4eno0Y0xXbnlHTw",
   "https://www.washingtonexaminer.com/?p=4692793",
   "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
   "CBMirAFBVV95cUxQQklUWjc0SG1rbFBXYVFmb19naTdBTm1jRXZ3UmhzWFFzb1FVZzI4eC1QTENvekY0U1BxV3NRekt4U0RrR0JXUm5zaDMtSkF4by1JZnQwdEV6STY3eV9tcG5jUmU1aml6ZDFheE45OXlYa3I4SnNmRHc4SlIxanQwcXB0Rl9OLTN3VmxGdlNnUWhZMlJsU1BOZ2xkbm9xRnpzTk1zV0J1dldDdDF0",
@@ -799,33 +795,13 @@
   "https://nypost.com/?post_type=article&p=40665826",
   "https://nypost.com/?post_type=article&p=40757803",
   "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates",
-  "https://www.theguardian.com/us-news/2026/sep/11/tyrannosaurus-rex-footprints-north-dakota"
+  "https://www.theguardian.com/us-news/2026/sep/11/tyrannosaurus-rex-footprints-north-dakota",
+  "https://nypost.com/?post_type=article&p=40768138",
+  "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live",
+  "CBMiogFBVV95cUxNaFdzN2ttSjFlZmFSeEFqTW1xaW5ETmw0Q0JqTjBTVGg2aTlVejNjTkxCSWl0NzdfUml2cWRJQmtkaWplZmF1X0l0Ni10X2VUOHZDclRYclJZLXI4ZWNKMGc2NVlydEJLR3hzMDdIUGhCb3V2cFNvaHZhTkhoY1Q2TlBQTzc0aWxjMnFtdkludWdiSEJTQVlRUmlMay1CbnZQNmc",
+  "CBMiigFBVV95cUxPUFA4WnduS2g3anpMT21ZQklRTGVYNXg2X0ppU3VNOHVHQ2ltT2FRMFBZaDdWOWptSkVickJ5cXljTUw5S3Z3MzY1LXV0VGlfUzdLMThEamVhM0RQU012WVl5M2xEMUlsVWQxZEFLa1dyS2VWWnpqSDV6ZFFMbC0xOUZqMEpENnQzb1E"
  ],
  "posts": [
-  {
-   "fp": "about boat canaria confirmed dead difficulty gets gran migrant",
-   "title": "About 80 confirmed dead after migrant boat gets into difficulty off Gran Canaria",
-   "source": "Sky News",
-   "at": "2026-09-03T12:14:21.439031+00:00"
-  },
-  {
-   "fp": "boat canary dead feared islands migrants rescued",
-   "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-   "source": "BBC World",
-   "at": "2026-09-03T12:14:23.290750+00:00"
-  },
-  {
-   "fp": "bowler breaking century reaches record",
-   "title": "Bowler reaches century with \u2018record-breaking\u2019 run-up",
-   "source": "Telegraph",
-   "at": "2026-09-03T14:55:48.770821+00:00"
-  },
-  {
-   "fp": "congress epstein friend instead sues testifying",
-   "title": "Epstein\u2019s friend sues US congress instead of testifying",
-   "source": "Telegraph",
-   "at": "2026-09-03T15:52:39.706053+00:00"
-  },
   {
    "fp": "about losing majority republicans risk senate thune worry",
    "title": "Thune says Republicans at risk of losing Senate majority: \u2018I worry about that\u2019",
@@ -3201,13 +3177,33 @@
    "title": "One giant step: first known T rex footprints found in North Dakota",
    "source": "Guardian World",
    "at": "2026-09-11T14:55:58.053457+00:00"
+  },
+  {
+   "fp": "beach california crisis erosion explodes hurricane iconic leaves marie nearly unrecognizable",
+   "title": "Hurricane Marie leaves iconic California beach nearly unrecognizable as erosion crisis explodes",
+   "source": "New York Post",
+   "at": "2026-09-11T15:10:28.453275+00:00"
+  },
+  {
+   "fp": "attack commemorate defend families iran live memorial speech trump uses victims",
+   "title": "Trump uses 9/11 memorial speech to defend Iran war as families commemorate victims of attack \u2013 live",
+   "source": "Guardian World",
+   "at": "2026-09-11T15:10:30.284682+00:00"
+  },
+  {
+   "fp": "attack blood heathrow passengers tear vomited",
+   "title": "Heathrow passengers \u2018vomited blood\u2019 after tear gas attack",
+   "source": "Telegraph",
+   "at": "2026-09-11T15:10:32.047596+00:00"
+  },
+  {
+   "fp": "bodies death ferry fire philippine recovered rises toll",
+   "title": "Death toll in Philippine ferry fire rises to 35 as more bodies are recovered",
+   "source": "AP",
+   "at": "2026-09-11T15:10:33.886254+00:00"
   }
  ],
  "titles": [
-  "about boat canaria confirmed dead difficulty gets gran migrant",
-  "boat canary dead feared islands migrants rescued",
-  "bowler breaking century reaches record",
-  "congress epstein friend instead sues testifying",
   "about losing majority republicans risk senate thune worry",
   "congress contempt mixed results yields",
   "california clean congress court effort halts help overturn rules trump",
@@ -3603,6 +3599,10 @@
   "days detectives early hero morgue recall remain unidentified victims",
   "coast firefighter ground guard honor killed names ship stand vance zero",
   "accused attacks civilian europe five growing infrastructure killed live rapidly russia ukraine",
-  "dakota footprints found giant known north step"
+  "dakota footprints found giant known north step",
+  "beach california crisis erosion explodes hurricane iconic leaves marie nearly unrecognizable",
+  "attack commemorate defend families iran live memorial speech trump uses victims",
+  "attack blood heathrow passengers tear vomited",
+  "bodies death ferry fire philippine recovered rises toll"
  ]
 }
