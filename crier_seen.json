@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40493083",
-  "https://nypost.com/?post_type=article&p=40515236",
-  "https://nypost.com/?post_type=article&p=40514981",
   "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
   "https://news.sky.com/story/at-least-eight-dead-in-nepal-after-avalanche-sparks-flash-floods-13577332",
   "CBMijwFBVV95cUxNQ2taZjdPSThOUDBUcE95cXVCWkgxbHN2NVVNdHBfdE1UV0VMcHNHczIxUWttV0hvSmloeHZSRW9TTTdSTVJvLVI1X2NGaTRMZ2FoUDZKV09zcVV3MFAxeW85ZDlBQnU1c0E0aDA2TmtWTVJGZTI0NEI1MzlNN0RtRnE2aWVXTDdBTXNxeExMOA",
@@ -799,27 +796,12 @@
   "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
   "CBMiiwFBVV95cUxQRW5KdmFoUTVINlpJbHVoUWdhd1IyR1VZMk1oQkkzRFJITWk3bWpRY2QtOVdlaEhKLXg4SG53aUduNkhxcmVIODdXWVY5cnlLVFh5dVE4NVYwUHh3WHdFZ0JOY0hyZWJQWDl4RTNJeFZvYU9wUTlJUy1RTEpWZjZqaVRveTlWWE5SeGRF",
   "CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE",
-  "CBMikAFBVV95cUxOY0dMUHdSQ3JRaVpndXNPR3ZGTzNYdGdaX0tqWFhpblNMMkxYVTU2Q3kzX2lQLVZUSS1KeE4wRFlLMzBjbXNqT1N3bmhKQjYxZlQ5MEhXdlY0dE5GZ3dEYmNTZkRCWmMzVTV3YWRJUkNrbjA0bTZCaC1VRkRVbDFmbS1ValhFRFlOdkFUOHlxR2Y"
+  "CBMikAFBVV95cUxOY0dMUHdSQ3JRaVpndXNPR3ZGTzNYdGdaX0tqWFhpblNMMkxYVTU2Q3kzX2lQLVZUSS1KeE4wRFlLMzBjbXNqT1N3bmhKQjYxZlQ5MEhXdlY0dE5GZ3dEYmNTZkRCWmMzVTV3YWRJUkNrbjA0bTZCaC1VRkRVbDFmbS1ValhFRFlOdkFUOHlxR2Y",
+  "https://nypost.com/?post_type=article&p=40665826",
+  "https://nypost.com/?post_type=article&p=40757803",
+  "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
  ],
  "posts": [
-  {
-   "fp": "ahead bonds comments data gain rallies stocks",
-   "title": "Stocks, bonds gain ahead of US data, Fed comments; yen rallies",
-   "source": "Reuters World",
-   "at": "2026-09-03T10:45:49.444102+00:00"
-  },
-  {
-   "fp": "asian edge gains lower prices rise shares street tracking wall",
-   "title": "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains",
-   "source": "AP",
-   "at": "2026-09-03T10:45:51.131361+00:00"
-  },
-  {
-   "fp": "catalina deer island judge killed native plant rules save species",
-   "title": "Judge rules 2,000 Catalina Island deer can be killed to save native plant species",
-   "source": "Guardian World",
-   "at": "2026-09-03T12:14:16.962381+00:00"
-  },
   {
    "fp": "across asia east haze intensifies south spreads super toxic wildfire",
    "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Ni\u00f1o intensifies",
@@ -3201,12 +3183,27 @@
    "title": "European Indexes Slide as Higher Oil Weighs on Defense Stocks, Banks",
    "source": "WSJ",
    "at": "2026-09-11T10:42:22.871927+00:00"
+  },
+  {
+   "fp": "days detectives early hero morgue recall remain unidentified victims",
+   "title": "Hero detectives recall early days of the morgue at 9/11 as 40% of victims remain unidentified",
+   "source": "New York Post",
+   "at": "2026-09-11T11:26:13.839508+00:00"
+  },
+  {
+   "fp": "coast firefighter ground guard honor killed names ship stand vance zero",
+   "title": "Vance will stand at Ground Zero with son of firefighter killed on 9/11 \u2014 as Coast Guard names ship in his honor",
+   "source": "New York Post",
+   "at": "2026-09-11T11:26:15.606790+00:00"
+  },
+  {
+   "fp": "accused attacks civilian europe five growing infrastructure killed live rapidly russia ukraine",
+   "title": "Russia accused of \u2018rapidly growing\u2019 attacks on civilian infrastructure after five killed in Ukraine \u2013 Europe live",
+   "source": "Guardian World",
+   "at": "2026-09-11T11:26:17.428148+00:00"
   }
  ],
  "titles": [
-  "ahead bonds comments data gain rallies stocks",
-  "asian edge gains lower prices rise shares street tracking wall",
-  "catalina deer island judge killed native plant rules save species",
   "across asia east haze intensifies south spreads super toxic wildfire",
   "about boat canaria confirmed dead difficulty gets gran migrant",
   "boat canary dead feared islands migrants rescued",
@@ -3603,6 +3600,9 @@
   "bracing canada higher michigan prices swing trade voters",
   "banks european fall gain indexes rise software stocks",
   "asian decline falls losses prices shares street tracking wall",
-  "banks defense european higher indexes slide stocks weighs"
+  "banks defense european higher indexes slide stocks weighs",
+  "days detectives early hero morgue recall remain unidentified victims",
+  "coast firefighter ground guard honor killed names ship stand vance zero",
+  "accused attacks civilian europe five growing infrastructure killed live rapidly russia ukraine"
  ]
 }
