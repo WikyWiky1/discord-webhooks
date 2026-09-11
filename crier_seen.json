@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/26/ice-agent-shooting-texas-minnesota-extradition",
-  "https://nypost.com/?post_type=article&p=40517792",
-  "https://nypost.com/?post_type=article&p=40517177",
   "https://nypost.com/?post_type=article&p=40518793",
   "https://pagesix.com/?post_type=article&p=9135585",
   "CBMivwFBVV95cUxNZHFjR1VnNGUzMW01QXQyZ3ZZVkExbzZWd3BEbmQ1OEpvTUk0anptWk5tQkpndWhrcEdFVWcyX3ctZnB0YnNNc0pxanVXUlV3bVlzenhUOEJfQ0M5b3N5MzlVZXlGTTcyNEJtNXBkMmdub3BlZmhhWDNrekxkOTFxU2VFVk83UllpdzYtcVFEZ1ZfVTNlTjVDNU1DMTlqTlNRbWtGRkZqeENXa2xIT0puYmdieUNkaXlldjV3UDVKOA",
@@ -799,27 +796,12 @@
   "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
   "CBMivwFBVV95cUxOaFFPLU1nTmZ4YVltTnMwSmhpNE1fVHFGZ0puQlY0XzJkUWNER252RjhzNkFMczFoNFk5M3gtalBkRGcwTklDVUN0alZMWngzZVZVX2wtYTl5Rl80eDlKaDlncHhnM1p0Y251RFJnbm1MOHlteHpTRy1pd2ZaSnVaMVd1T3JPYjdRVFp4S0xldG9DYTRpcGNVVkJ5TVhSR2RBR3BneXNqZVdOdy01ZGxtWU9VbnN6TEhLTUxwdEJGYw",
   "https://www.washingtonexaminer.com/?p=4724144",
-  "https://thehill.com/?p=6085207"
+  "https://thehill.com/?p=6085207",
+  "https://www.washingtonexaminer.com/?p=4724340",
+  "https://thehill.com/?p=6085321",
+  "https://thehill.com/?p=6085116"
  ],
  "posts": [
-  {
-   "fp": "attack blakeman blasts bruce hijab hochul ramping reprehensible",
-   "title": "NY Gov Hochul blasts Bruce Blakeman for ramping up \u2018hijab Hochul\u2019 attack: \u2018Reprehensible\u2019",
-   "source": "New York Post",
-   "at": "2026-09-03T19:24:53.888185+00:00"
-  },
-  {
-   "fp": "coast cringeworthy emergency guard kristi landing markwayne mullin noem offers plane take",
-   "title": "Kristi Noem offers cringeworthy take on Markwayne Mullin\u2019s emergency landing in Coast Guard plane",
-   "source": "New York Post",
-   "at": "2026-09-03T19:24:55.560132+00:00"
-  },
-  {
-   "fp": "charges faces federal immigrant lying officer shooting venezuelan",
-   "title": "ICE officer faces federal charges for lying over shooting of Venezuelan immigrant",
-   "source": "NPR News",
-   "at": "2026-09-03T19:24:57.265978+00:00"
-  },
   {
    "fp": "dead including investigators left minneapolis scene scour shooting suspect",
    "title": "Investigators scour scene of Minneapolis shooting that left 3 dead, including suspect",
@@ -3201,12 +3183,27 @@
    "title": "Federal court rules against Trump order keeping Michigan coal plant running",
    "source": "The Hill",
    "at": "2026-09-11T20:32:32.799013+00:00"
+  },
+  {
+   "fp": "almost breaking cases cyclosporiasis declares outbreak record",
+   "title": "CDC declares record-breaking cyclosporiasis outbreak over after almost 13,000 cases",
+   "source": "Washington Examiner",
+   "at": "2026-09-11T21:14:36.689513+00:00"
+  },
+  {
+   "fp": "attack bush george learned moment painting shares",
+   "title": "George W. Bush shares painting of moment he learned of 9/11 attack",
+   "source": "The Hill",
+   "at": "2026-09-11T21:14:38.379394+00:00"
+  },
+  {
+   "fp": "cyclospora declare health history largest officials outbreak",
+   "title": "Health officials declare end to largest cyclospora outbreak in history",
+   "source": "The Hill",
+   "at": "2026-09-11T21:14:40.087404+00:00"
   }
  ],
  "titles": [
-  "attack blakeman blasts bruce hijab hochul ramping reprehensible",
-  "coast cringeworthy emergency guard kristi landing markwayne mullin noem offers plane take",
-  "charges faces federal immigrant lying officer shooting venezuelan",
   "dead including investigators left minneapolis scene scour shooting suspect",
   "chance deal east escalation investors middle mixed peace prices russia ukraine weigh",
   "another business endorse leader senate term thune vance",
@@ -3603,6 +3600,9 @@
   "iranians jobs losing many sanctions struggling",
   "alleged banco bolsonaro brazil case challenger corruption election investigation master under",
   "final flight marker memorial shapiro trail unveils",
-  "coal court federal keeping michigan order plant rules running trump"
+  "coal court federal keeping michigan order plant rules running trump",
+  "almost breaking cases cyclosporiasis declares outbreak record",
+  "attack bush george learned moment painting shares",
+  "cyclospora declare health history largest officials outbreak"
  ]
 }
