@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40515786",
-  "https://www.foxnews.com/world/least-14-newborns-killed-pakistan-nursery-hospital-fire",
   "https://www.bbc.co.uk/news/articles/czdz13elezlo#0",
   "https://nypost.com/?post_type=article&p=40515378",
   "https://www.washingtonexaminer.com/?p=4693054",
@@ -799,21 +797,11 @@
   "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
   "CBMirAFBVV95cUxOVFAxREMtVW5qaWVJY2JtNVowUjlwSmlkal9XMW1LLW5HYTVXMUNqempxWFZjeWszdEd0UmFzV2NWNjhxczhiRXpjbjlpTUd5VkI2NzNTeVA5X3BfcXZTUFRGOWUtMDZmbDVDYXJQc2hUa0pxUGVzM2ZKMHMxbUs2WGxDcmxlOFN0Q1lBYUJyXzFoNk9MTEplWm9TdFozNFZkUkwxSkQwUVM0dFZs",
   "CBMi1AFBVV95cUxQeDdUSXMwLWNhY0JhRXAtUjVJamcyeFhTckRjbWNfelI0ajc1THAweTBRbW9faGR3cHVTeGI5RnNnbDhDSjZ3YzFQMEtzZnZaaGlBU1Y1UGFXSHE4NGwtRkFwV1VMWDlQSkpRakVHVlNVcU9qRHp6bm5JeDF2VlliM0VOeFNsaEwzX3FEWTMtUnM5d2lEUVRUdjZETzY1YXloWi1sbEt1dGRSTzNYM1VkaUtpcTZCcTZmNDFhYjd2bjdtQTNSeVlJMkZJR1A2Mm82WTVoNg",
-  "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions"
+  "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions",
+  "CBMilgFBVV95cUxOR2pqczFpS3lxb0czam90bVFGUTBiQUdjTEoxS09JalpvV3MtUklXSDlDRUJ4TFVsUTZ1OHdibmxkSVV4azAwUUQyUkEzVUgyNUwxdy1PUUV3dWh4OWZUa2Y2WmI4eldXMXNYWEdyc3NqX3dlTG1SR0tNMHpXUHQ2cFZYc2lDTlVvMU5PRUFvTjR1Ni1feXc",
+  "https://www.washingtonexaminer.com/?p=4718773"
  ],
  "posts": [
-  {
-   "fp": "complication diarrhea expected explosive outbreak",
-   "title": "The No. 2 complication of the explosive diarrhea outbreak isn\u2019t what we expected",
-   "source": "New York Post",
-   "at": "2026-09-03T16:28:26.026025+00:00"
-  },
-  {
-   "fp": "attack bank killed officials palestinian settler teens village west",
-   "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-   "source": "BBC World",
-   "at": "2026-09-03T16:28:27.754985+00:00"
-  },
   {
    "fp": "milk odor recall taste unpleasant warns",
    "title": "Milk recall warns of unpleasant taste, odor",
@@ -3201,11 +3189,21 @@
    "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
    "source": "Fox News World",
    "at": "2026-09-11T15:57:51.461792+00:00"
+  },
+  {
+   "fp": "congo ebola outbreak province spreads",
+   "title": "Ebola outbreak in Congo spreads to a 7th province",
+   "source": "AP",
+   "at": "2026-09-11T18:35:55.177988+00:00"
+  },
+  {
+   "fp": "alleged attack christians court documents groups inspiring plans satanist show teenager",
+   "title": "Court documents show groups inspiring \u2018satanist\u2019 teenager\u2019s alleged plans to attack Christians",
+   "source": "Washington Examiner",
+   "at": "2026-09-11T18:35:56.818281+00:00"
   }
  ],
  "titles": [
-  "complication diarrhea expected explosive outbreak",
-  "attack bank killed officials palestinian settler teens village west",
   "milk odor recall taste unpleasant warns",
   "ability defend doubt finds invasion official remains report",
   "aftermath conditions deadly floods hampered nepal operations thing",
@@ -3603,6 +3601,8 @@
   "center data davidson harley patagonia role trade",
   "agree brics india modi partnership putin russia strengthen summit",
   "bilateral deal elections mexico sprint toward trade washington",
-  "brics descend escalating global high india iran pezeshkian putin stakes summit tensions"
+  "brics descend escalating global high india iran pezeshkian putin stakes summit tensions",
+  "congo ebola outbreak province spreads",
+  "alleged attack christians court documents groups inspiring plans satanist show teenager"
  ]
 }
