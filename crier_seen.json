@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40517836",
-  "https://thehill.com/?p=6052232",
-  "https://thehill.com/?p=6052070",
   "CBMiugFBVV95cUxPNWZiUFZqM2pSUlNEQmtJVEllRGF1a04tVG43Q0s2ZDYzME5GRlNsVEdaaW9ScDFDZFhyWElFbEVtQ1JGamZsMDRoaDhtRTJaQUNKaVh0VlpLYTBCVVRHUGtiWEZMdFBTTzBMdU5lV2tVUU11SUxubVVPcTNZVzRDM0Z4TGdDVVp4M085bXdmT1ZiV0Jvcjg3OC1QY0tYT1MtT0pxX3hIa0RZMFRLTTVuMElMY1I0VmFSY2c",
   "CBMixAFBVV95cUxPXzdqaU0yaU4zd3FTdmRMaDJtR3ZRT0prZGtsZEVOVzVlYnFIeVdvZmRxYU5Cb1FJam96bUpOOU9UVy04ejhFd0FaSGQ4VkJQUi03MDBuRjVPVlBxUjJHTkx1Wm5SNGVpbGZ5OFpXVlcwWmRlZnQ4a29HRFUyUTZobm84MWRtcUhXT1U0U1pValc0WDRINno5OV95dWVqUVZoektOQTI4VGl1TEJYOVhfNWEwNkJOTDlMVDZjS3R1REZSZ1dO",
   "https://nypost.com/?post_type=article&p=40518059",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6085623",
   "https://www.theguardian.com/us-news/2026/sep/11/legionnaires-disease-outbreak-south-bronx",
   "CBMingFBVV95cUxNRnJJYUZBT2xTV19JSy1IbWc1dG8xSlliS2FDQjFDUnExTklKWmI4bllmaWVjRGhjNzhQUTFuMTNBbXd1NUl0UWZnSXl4MjZ3VzZkSnFJMXdseERhNkpCc0xWVy1PNlcyeDdKWnp5aXJfQkhjLUpXa2J3eWM1bzdRV1VOY3BMSTktV0VDOU0yY1lvaG1tWV84QUg0cGRRQQ",
-  "https://news.sky.com/story/twenty-people-injured-after-train-derails-in-northern-france-13584124"
+  "https://news.sky.com/story/twenty-people-injured-after-train-derails-in-northern-france-13584124",
+  "https://nypost.com/?post_type=article&p=40774597",
+  "https://nypost.com/?post_type=article&p=40778755",
+  "https://nypost.com/?post_type=article&p=40781295"
  ],
  "posts": [
-  {
-   "fp": "aliassime auger collapses felix open winning",
-   "title": "Felix Auger-Aliassime collapses at US Open after winning first set",
-   "source": "New York Post",
-   "at": "2026-09-03T21:52:06.672286+00:00"
-  },
-  {
-   "fp": "autopilot busy driver ends giant halts highway kills rear tesla truck",
-   "title": "Tesla on autopilot halts on busy highway before giant F-350 truck rear-ends and kills driver",
-   "source": "New York Post",
-   "at": "2026-09-03T21:52:08.645586+00:00"
-  },
-  {
-   "fp": "football investigation lombardi mike resigns",
-   "title": "Mike Lombardi resigns as UNC football GM amid investigation",
-   "source": "New York Post",
-   "at": "2026-09-03T21:52:10.461596+00:00"
-  },
   {
    "fp": "alleged arrested arson attack defence firm german people police",
    "title": "Two people arrested by German police over alleged arson attack on defence firm",
@@ -3201,12 +3183,27 @@
    "title": "Train derails in northern France, injuring 44 people",
    "source": "Reuters",
    "at": "2026-09-11T23:17:45.941441+00:00"
+  },
+  {
+   "fp": "forget generation killed loved never next ones pledges",
+   "title": "Next generation who never met loved ones killed in 9/11 pledges to \u2018Never forget\u2019",
+   "source": "New York Post",
+   "at": "2026-09-12T01:12:07.844965+00:00"
+  },
+  {
+   "fp": "couple dead down family found gunning murderous",
+   "title": "Murderous NC couple found dead after gunning down family",
+   "source": "New York Post",
+   "at": "2026-09-12T01:12:09.545067+00:00"
+  },
+  {
+   "fp": "bouncy castle hospital kids outbreak report reveals sent sickened superbug",
+   "title": "Bouncy castle \u2018superbug\u2019 outbreak sickened 48 kids, sent 15 to hospital, report reveals",
+   "source": "New York Post",
+   "at": "2026-09-12T01:12:11.378614+00:00"
   }
  ],
  "titles": [
-  "aliassime auger collapses felix open winning",
-  "autopilot busy driver ends giant halts highway kills rear tesla truck",
-  "football investigation lombardi mike resigns",
   "alleged arrested arson attack defence firm german people police",
   "bunny career expose feminist gloria iconic killed launched nearly playboy steinem undercover",
   "airstrike four happen iran killed reacts things vance wedding",
@@ -3603,6 +3600,9 @@
   "cyclosporiasis declares largest outbreak recorded",
   "cyclospora declares outbreak",
   "bronx disease infects kills legionnaires others outbreak south",
-  "derails france injuring northern people train"
+  "derails france injuring northern people train",
+  "forget generation killed loved never next ones pledges",
+  "couple dead down family found gunning murderous",
+  "bouncy castle hospital kids outbreak report reveals sent sickened superbug"
  ]
 }
