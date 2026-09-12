@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40522738",
-  "CBMiyAFBVV95cUxOVjRTWmx5dXpiRHlYazhDWjAtUFhuY0o4RUFXclFzYnRaNjZFck9vWHJSRkdJVWF6VzNfSjhDMFlGNVhISVVqOXRBU0lTd3NqZzdnTjNvMkxBNDdUb3puVnlzUU9vc0UxWW9DTmh4bUhqZUVSYnhBU05TeTM0bUd4b0VTZ0l3c2tlLVZlbmhOa1hwQ2RQMFlERVpWWVVmZ3AwS3dKcFhmdThnNzM5d0FVYWJvZldRSmlRVEw2M1hZbzN1R25FOWxmdg",
-  "https://thehill.com/?p=6052692",
   "CBMiqwFBVV95cUxOS2h1Y0s3bjNIVDJreWdVLTUtUEV4ZV8yaXl1aUg3eU5PYlRRLXZ2VFozODMwSEM0NHFiMmo0alQ2cEtBREVLUU5VOXRYbzV3SG05UDB2MEw1T3VKY0VGbWtQY1VrODFONmROT0w5bmJ2LWNIUkRmZEEyeGJlbGVoQl9EM1VGTjU5YUNWVnZMMGdEVG9sV2oxcWJaRFZlU1didGdDNi0tYTB1TUk",
   "CBMi0AFBVV95cUxNNGxKTWY4NXdob1VndXB5N2ZlYUxGZ1VhVU9VNWM1M29rSHlrN0ZsX2c3QXVpalk0UlJQb1FqRElrU2dJcXFEcnpnS0NPYTdlSmdidHMwdXNqc25oMXhyUF81UzZ0OGlhamRVRDJrUmtXMFpCNEVzM2tnSnJUcmtSWFEwNWs0ODJpWEVUX0tGVUhzNlJfbFQ4alNFbm9oeTlySWVRUVJMLUJlZEp6MmJTbEJFYTgzTDh3Z3AxUEdCN2FGZUZIWG1qMlIzU0psSE5l",
   "https://thehill.com/?p=6052870",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40784007",
   "https://nypost.com/?post_type=article&p=40784382",
   "CBMisAFBVV95cUxQcmtmVGN5eUltdWZYNEJjUzdtRDd2SjFQZ2xwOVp3cDJFRnlzWVpHZ2NNY0ZndWxhZ0Y3bGRjcnRXVnc5UWF6V1R4STJqNVNrbEVPU2lwd1FnYmFKQjlabXlPRHh6Vmw5WVlDN1dSTkx5WHJsYjUxWi1kTDdmVGxySHRJaVdVT2ZLRHFDQUpNZURtamJsZHNRaHF4VU9HbjVSdExVVVEzdmF2clRjSi1iXw",
-  "https://nypost.com/?post_type=article&p=40784934"
+  "https://nypost.com/?post_type=article&p=40784934",
+  "https://www.washingtonexaminer.com/?p=4718803",
+  "CBMiyAFBVV95cUxNb0hxYi1hRXRlN01ldlJFSmk4ZDVnS1c0NE8xMm5PWXJFT3Vpd2prTWI4TGl5UTd6c1JKS24xVXpvOGpRY1VsYUUxQVk0TDVmNElEMUxLYnB4c2NfUWxmQWN0N21LWUY1TkZNc1pQWHczRUdhYTVJbEpiZXZPVi16SnZCdVN5eWotZ2dJaGt3UkNFdGF2NzUtTTFMU1dsR2EzcEpiQVRvRFFmaE1HdWZXSko1bVl3d2YyTGZPRUpGTEE5MW92SjJJNA",
+  "CBMirAFBVV95cUxPaFlybEpEZWtDbThQdk9OMFR0bFA0dmZtcUZLSEo2a0djT2xmanVSRlFRWVBRelg3dEUxTUJ1VW5zSWpFZDhGVzJHQWtxS2JkNm9XQUFFSUVTZjRDVTZ4RWd2YzZZZmZYNVAzOGdLWE9ZUzFBb0VKMXRTVXVtdjIyRFlORkZvaUc0ODBxcWRuVDhOTjc0WmdWamtZcmRPQmZoUi1jTmYxa0o4UUtD"
  ],
  "posts": [
-  {
-   "fp": "paxton race rove running senate texas time",
-   "title": "Rove: 'Time is running out' for Paxton in Texas Senate race",
-   "source": "The Hill",
-   "at": "2026-09-03T22:59:21.573945+00:00"
-  },
-  {
-   "fp": "analysis deadly direct iranian likely munition shows strike wedding",
-   "title": "Deadly strike on Iranian wedding was likely a direct hit by a US munition, analysis shows",
-   "source": "Reuters",
-   "at": "2026-09-03T23:43:27.409170+00:00"
-  },
-  {
-   "fp": "acting announces army driscoll following resignation secretary telle trump",
-   "title": "Trump announces Telle as acting Army Secretary following Driscoll's resignation",
-   "source": "The Hill",
-   "at": "2026-09-03T23:43:29.132331+00:00"
-  },
   {
    "fp": "attack extremely iran reports skeptical vance wedding",
    "title": "Vance 'extremely skeptical' of Iran wedding attack reports",
@@ -3201,12 +3183,27 @@
    "title": "More than 500,000 Russian troops killed in Ukraine, UK defense chief says",
    "source": "New York Post",
    "at": "2026-09-12T09:53:19.396440+00:00"
+  },
+  {
+   "fp": "2027 election needs presidential venezuela",
+   "title": "Venezuela needs a presidential election in 2027",
+   "source": "Washington Examiner",
+   "at": "2026-09-12T10:11:21.620946+00:00"
+  },
+  {
+   "fp": "agrees brics declaration delhi joint sources summit",
+   "title": "BRICS agrees on joint declaration before New Delhi summit, sources say",
+   "source": "Reuters",
+   "at": "2026-09-12T10:11:23.471094+00:00"
+  },
+  {
+   "fp": "brics china delhi lands modi summit talks",
+   "title": "China's Xi lands in Delhi for BRICS summit and talks with Modi",
+   "source": "Reuters",
+   "at": "2026-09-12T10:11:25.213091+00:00"
   }
  ],
  "titles": [
-  "paxton race rove running senate texas time",
-  "analysis deadly direct iranian likely munition shows strike wedding",
-  "acting announces army driscoll following resignation secretary telle trump",
   "attack extremely iran reports skeptical vance wedding",
   "buildings coming dead derelict expert landlord mamdani property sale takes transfers victory warns",
   "argentine face falklands firms leader sanctions working",
@@ -3603,6 +3600,9 @@
   "attack close death engineer hosts news park random report stabbed texas ties",
   "breaking brewing finally malaise right time yankees",
   "about ford fuel issues recall tank vehicles",
-  "chief defense killed russian troops ukraine"
+  "chief defense killed russian troops ukraine",
+  "2027 election needs presidential venezuela",
+  "agrees brics declaration delhi joint sources summit",
+  "brics china delhi lands modi summit talks"
  ]
 }
