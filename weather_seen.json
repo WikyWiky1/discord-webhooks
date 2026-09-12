@@ -1041,8 +1041,17 @@
    "message_id": "1548403972363124919",
    "event": "Red Flag Warning",
    "area": "Esmeralda and Nye County Deserts/CNC Dispatch; Nye County Deserts/Las Vegas Dispatch; Sheep Range; Spring Mountains; Clark and SW Lincoln County Deserts/Las Vegas Dispatch",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-09-12T18:44:35+00:00",
+   "expired_at": "2026-09-12T21:01:51+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.81078a7af6daae60370c74989f832dd2c06da884.001.1",
+   "message_id": "1548438509851779136",
+   "event": "Red Flag Warning",
+   "area": "Esmeralda and Nye County Deserts/CNC Dispatch; Nye County Deserts/Las Vegas Dispatch; Sheep Range; Spring Mountains; Clark and SW Lincoln County Deserts/Las Vegas Dispatch",
+   "expired": false,
+   "posted_at": "2026-09-12T21:01:49+00:00",
    "expired_at": null
   }
  ]
