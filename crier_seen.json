@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war",
   "https://www.theguardian.com/uk-news/2026/aug/26/us-issues-sanctions-uk-based-palestine-action",
   "CBMiqgFBVV95cUxPUF8yaDBvRG1xWDZ2R2Fzc1FWelZmMi1rR0c4aE1zdks4MFgxR0NpdVV0dVk2TlNpMGVYUzhodDZOTDV1aWltZjlFdUw0dUczUFNoZFE5R2pzSTAyV3FYRVprbzV3dHU3bU5TZXdSWENFbS1IczY2QV9FOU1FcnNlamVoYmRjcHBHX2pWU1QyNUJDVi1sRlJDZGR6T3F1Mk1DNEtIR0tBZzhHQQ",
   "CBMinwFBVV95cUxOZjJiRnkwSUhxTUVXdTJVVWZjZE5NYTgxR2FrTTQzSkU0ZllYZzVPOFJsOWlBSTUyOU5uRW1USXhka0hGdXVsSHFWLWtTZlhPemw5bkdPeWwwRzlnaHRhYzRzQ1dQUWl1bTBsY0JGd0psZHFYZkxKcFhMb2NJTFJoVnhLTURKZkVjdGNuMmxGLThFLUctNDlhb1dPWVlKeTQ",
@@ -799,15 +798,10 @@
   "CBMirAFBVV95cUxPaFlybEpEZWtDbThQdk9OMFR0bFA0dmZtcUZLSEo2a0djT2xmanVSRlFRWVBRelg3dEUxTUJ1VW5zSWpFZDhGVzJHQWtxS2JkNm9XQUFFSUVTZjRDVTZ4RWd2YzZZZmZYNVAzOGdLWE9ZUzFBb0VKMXRTVXVtdjIyRFlORkZvaUc0ODBxcWRuVDhOTjc0WmdWamtZcmRPQmZoUi1jTmYxa0o4UUtD",
   "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo#0",
   "CBMilgFBVV95cUxNTXFjaTAzbzF5OENhS0txZjFxd1dGYXJkT1h2V3ZnR3EtMi11Zk45YWZ0eXFhWmo2NmticUpJM3lqdnZ3WWtwcE51NEF0c2J2VzNuMmVONGxGVVNCbUU1b0hsNTlDYWctb1NlU1dRdFhKb2hPb2UxenZUZFMwNkxzRDF2SmtMYXpxRy1FdWthUkkzWkJRaXc",
-  "https://www.washingtonexaminer.com/?p=4717509"
+  "https://www.washingtonexaminer.com/?p=4717509",
+  "https://www.theguardian.com/australia-news/2026/sep/12/dementia-patients-warned-applying-algorithm-aged-care-funding"
  ],
  "posts": [
-  {
-   "fp": "argentina drilling falklands impose sanctions",
-   "title": "Argentina to impose sanctions on oil drilling off Falklands",
-   "source": "Telegraph",
-   "at": "2026-09-04T03:09:55.823351+00:00"
-  },
   {
    "fp": "court midterms missouri redrawn rules state supreme",
    "title": "Missouri Supreme Court Rules State Can\u2019t Use Redrawn Map in Midterms",
@@ -3201,10 +3195,15 @@
    "title": "When the grid collapses, your $1,000 iPhone is just a paperweight: Long live local radio",
    "source": "Washington Examiner",
    "at": "2026-09-12T13:17:15.450336+00:00"
+  },
+  {
+   "fp": "aged algorithm australia care case cuts dementia funding home patients seeking warned",
+   "title": "Dementia patients warned off seeking home care in case Australia\u2019s aged care algorithm cuts funding",
+   "source": "Guardian World",
+   "at": "2026-09-12T13:56:21.851941+00:00"
   }
  ],
  "titles": [
-  "argentina drilling falklands impose sanctions",
   "court midterms missouri redrawn rules state supreme",
   "crises cuba hits island multiply sanctions",
   "albanese anthony australia condolences deadly deepest extends fire floods greater live nepal news saturday sydney total",
@@ -3603,6 +3602,7 @@
   "brics china delhi lands modi summit talks",
   "derails france injured least leaving passenger train",
   "europe killed putin russian sending strikes troops ukraine warns",
-  "collapses grid iphone just live local long paperweight radio"
+  "collapses grid iphone just live local long paperweight radio",
+  "aged algorithm australia care case cuts dementia funding home patients seeking warned"
  ]
 }
