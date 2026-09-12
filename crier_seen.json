@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40530584",
   "https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods",
   "https://thehill.com/?p=6053832",
   "https://www.npr.org/2026/08/27/g-s1-140414/up-first-newsletter-meta-settlement-mail-in-voting-nrc-regulations-nepal-tibet-flooding",
@@ -799,15 +798,10 @@
   "CBMixwFBVV95cUxQcjF5NXdIeXlKQWY5RXRJTmlfVjFfWlNwZm9TOVNOREUxcmUwTk9MRmFUbWZzQnhNZTY1V3d2R2hBZGhlU1ZOT1licGJRdzUwcXhEbmJGTEdkNi1xRUlQUGJ0VnN0MjFLMWJGem1Ta0hGZ21ILXQybi1nS0xuUGo0Wjkta0dzZjhNOUVGTFZNcWJqTURPRzI2bngtdjg1dnZSVUZ4WjZLeF9DWU91M1ZlQjRUZ1FaMjNBc0pEMUhTMnR2Mnh1b0dZ",
   "CBMilgFBVV95cUxNTHlPRWlqWnNoeGVWYXY4M19uaEFFalItSV81V1pWZmthSDE3Q2JxeHdmR3dBUHlsTmtMWGQ5WXBkQjdsTFI1SDBNMkZZRTRoNURyTWQ3T09uU2xIY2ZVZnJXRVNfTzNodG5weFdwY2JoZDlPRFdEblI5a0NFRG15akxWWGx2LTdnSERIeVY5S3lTTm9fNUE",
   "https://nypost.com/?post_type=article&p=40786483",
-  "https://nypost.com/?post_type=article&p=40787985"
+  "https://nypost.com/?post_type=article&p=40787985",
+  "https://www.washingtonexaminer.com/?p=4725020"
  ],
  "posts": [
-  {
-   "fp": "already didn hurt iran once sanctions tried trump work",
-   "title": "Trump already tried to hurt Iran with sanctions once - and it didn't work",
-   "source": "NPR News",
-   "at": "2026-09-04T10:43:38.380698+00:00"
-  },
   {
    "fp": "attack clip customer frightening kung launches robot warned wild",
    "title": "\u2018We were warned\u2019: Robot launches wild kung-fu attack against customer in frightening clip",
@@ -3201,10 +3195,15 @@
    "title": "Earthquake rocks Bay Area overnight",
    "source": "New York Post",
    "at": "2026-09-12T18:42:40.331385+00:00"
+  },
+  {
+   "fp": "agrees andrews annie carolina debate graham race senate south",
+   "title": "Graham agrees to debate Annie Andrews in South Carolina Senate race",
+   "source": "Washington Examiner",
+   "at": "2026-09-12T20:15:21.892861+00:00"
   }
  ],
  "titles": [
-  "already didn hurt iran once sanctions tried trump work",
   "attack clip customer frightening kung launches robot warned wild",
   "bond casualty market mortgage revolting",
   "attacks expected kill least russian talks ukraine",
@@ -3603,6 +3602,7 @@
   "attacks dozens hits injure kill moscow plants russian ships ukraine",
   "attack delays labour ordering submarines",
   "bullets killed playground police shot",
-  "area earthquake overnight rocks"
+  "area earthquake overnight rocks",
+  "agrees andrews annie carolina debate graham race senate south"
  ]
 }
