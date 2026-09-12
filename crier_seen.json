@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4701161",
-  "https://thehill.com/?p=6053835",
   "CBMioAFBVV95cUxQYVlsa1lmZEZNUjJReU4wWWtWbDA0aFBEbWxqd1BKMXBxSXoxWHllbnpFZWRqUUx3c0hUeTRwd212dU4xTHJrTjY5RndKMmlUZVBhVjdQamxWNlo2SHoydzg0VzhqdVk2SmF4VER4bjlNX1ZDV2lXUi0wUFVxRW5raEJaNjRlODZEczVURk04OXNiSzVrVEc3N0s1R0VteVNv",
   "https://www.washingtonexaminer.com/?p=4701831",
   "https://thehill.com/?p=6053694",
@@ -799,15 +797,11 @@
   "CBMiYkFVX3lxTE5LdGN5d0RuV2FJZnlUdHJHNUxqcGxSTFd4R3BrdFVhelhEYU5oaVhocEZqZ3lHRVhOdVRkWnU1OTRMTi0zOExSUTdLLXdEeVJ3ZlBhSExCSFZiVmtXRVBWdW1B",
   "https://nypost.com/?post_type=article&p=40769290",
   "CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045",
-  "CBMilAFBVV95cUxQMmtydk5pTmlvb1R5TklLWGJ4MG1PRjN0amoteHNYRkl0TUZDM2VqV1BLeFhqcmlleDBJNjlNcG9EbU1ha3VxVkZtaXZDUTFlemxhVWdGYnFaaERyb0xZVFdzT0tHa29NbGhUYjRlNW93MEtvd3FZekJWOXcyYl9qR0JSc3NhUHpjYVZBV29vT21TTXJP"
+  "CBMilAFBVV95cUxQMmtydk5pTmlvb1R5TklLWGJ4MG1PRjN0amoteHNYRkl0TUZDM2VqV1BLeFhqcmlleDBJNjlNcG9EbU1ha3VxVkZtaXZDUTFlemxhVWdGYnFaaERyb0xZVFdzT0tHa29NbGhUYjRlNW93MEtvd3FZekJWOXcyYl9qR0JSc3NhUHpjYVZBV29vT21TTXJP",
+  "https://www.bbc.co.uk/news/articles/c33kp533nn6o#0",
+  "CBMikgFBVV95cUxPY0hKblZsWDdXODVsQUN2V2V6c3dSODhwQm9pVHlwTmxpX3dQRnEyM3BLNTdBYy1OV2ZqNTE3M2pfQ1pKLWI2ZEdxZXE5QU1vWUR5WnI5bkdDalpxeVRtU3l6Zmp3UnVCUFFMbVdLQUR3RlFqQThBOUQ0UWZDYWozV1RSLWhWWUdTcEgyV2g5dUs3QQ"
  ],
  "posts": [
-  {
-   "fp": "admitted allegedly blackout cheating girlfriend kids killed rage vegas",
-   "title": "Vegas man allegedly killed girlfriend, her 2 kids in \u2018blackout\u2019 rage after she admitted cheating on him",
-   "source": "New York Post",
-   "at": "2026-09-04T07:24:11.560731+00:00"
-  },
   {
    "fp": "election germany poised power right state",
    "title": "Germany's far-right poised for power in state election",
@@ -3179,12 +3173,6 @@
    "at": "2026-09-12T13:56:21.851941+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-09-12T15:05:59.568420+00:00"
-  },
-  {
    "fp": "battleground canada claim experts jeopardizing senate states trade",
    "title": "Canada trade war jeopardizing key Senate battleground states for GOP, experts claim",
    "source": "New York Post",
@@ -3201,10 +3189,21 @@
    "title": "Why Canada? America\u2019s northern neighbor seems an unlikely target for a trade war",
    "source": "AP",
    "at": "2026-09-12T15:06:04.789525+00:00"
+  },
+  {
+   "fp": "caused derailment french investigate malicious officials train",
+   "title": "French officials investigate if malicious act caused train derailment",
+   "source": "BBC World",
+   "at": "2026-09-12T16:21:50.639196+00:00"
+  },
+  {
+   "fp": "attack backed blamed iran iraq militias pipeline saudi",
+   "title": "Attack on key Saudi pipeline is blamed on Iran-backed militias in Iraq",
+   "source": "AP",
+   "at": "2026-09-12T16:21:52.356976+00:00"
   }
  ],
  "titles": [
-  "admitted allegedly blackout cheating girlfriend kids killed rage vegas",
   "election germany poised power right state",
   "begun cancer gold picks race rush shovels vaccine",
   "battleground candidates debate never senate share stage",
@@ -3600,9 +3599,10 @@
   "europe killed putin russian sending strikes troops ukraine warns",
   "collapses grid iphone just live local long paperweight radio",
   "aged algorithm australia care case cuts dementia funding home patients seeking warned",
-  "edition journal print street wall",
   "battleground canada claim experts jeopardizing senate states trade",
   "brics concern condemn east india leaders middle sanctions summit unilateral voice",
-  "america canada neighbor northern seems target trade unlikely"
+  "america canada neighbor northern seems target trade unlikely",
+  "caused derailment french investigate malicious officials train",
+  "attack backed blamed iran iraq militias pipeline saudi"
  ]
 }
