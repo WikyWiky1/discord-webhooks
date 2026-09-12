@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiswFBVV95cUxOSUt6czJJdnVzWl81cWItbHE0NGhlWDBCX1dqNTVUUWI5SGRoQU5SeUs0LWxzVk0zNzFfUU5PNUpOVXo2WThZVTFkYXNjYmU1ZDhrellGcUNwWTVGMFZNdk9UUHJpZEUya3BXckZEY0Zfa1g0QVNKSVFrTEhzay01SlBQLVgtTTd3eS11QmdjeUMwVU00NndPcDY2NmxxWVl4UjhNRFRMLTlQd2hrRWoyZzMxcw",
-  "https://www.bbc.co.uk/news/articles/cd948kn02e5o#0",
   "https://www.bbc.co.uk/news/articles/cly464k252yo#0",
   "https://www.theguardian.com/world/2026/aug/27/what-caused-nepal-flash-flood-glacial-collapse-tibet-border",
   "https://www.theguardian.com/uk-news/2026/aug/27/middlesbrough-grangetown-house-fire-aunt-niece-killed-mother",
@@ -799,21 +797,11 @@
   "https://www.bbc.co.uk/news/articles/cy4zpp20w77o#0",
   "https://thehill.com/?p=6086287",
   "https://thehill.com/?p=6086408",
-  "CBMiYkFVX3lxTE9GWTlJM0dPSlpGYXdoVDAteFphRFBLVE0yYTlUdmhvaG5DWFFQYjFBT1dESXAwTUkyUUxDWjYxLXNfOXlzQzAzZjc2NlltVVRib2dBY1IzMGJXOEkyNXZfT0VR"
+  "CBMiYkFVX3lxTE9GWTlJM0dPSlpGYXdoVDAteFphRFBLVE0yYTlUdmhvaG5DWFFQYjFBT1dESXAwTUkyUUxDWjYxLXNfOXlzQzAzZjc2NlltVVRib2dBY1IzMGJXOEkyNXZfT0VR",
+  "https://nypost.com/?post_type=article&p=40789110",
+  "CBMirwFBVV95cUxONEdJUjhTN0ZoaHN2R1U0eEZvV2pOb2tOTGVjX2NxbjF6RTg5SDFyLXRhVlF2enBCV2ctSXFjVEZaeXdqTjNSeXVjcEszem9kUTRxaFR1T0pUQ3M4aEVaT2NwMjl3WC1mbi01bTVIZmRMWXJSUml4X3QyM0tYamRXbDc2T3h3dG9JbGtZZHVyZVBRMTVvaHFSdGhCci1jLXBMTnRnYWlZNHRnTzRjTGMw"
  ],
  "posts": [
-  {
-   "fp": "climb fall jobs report stocks strong treasury yields",
-   "title": "U.S. Stocks Fall, Treasury Yields Climb After Strong Jobs Report",
-   "source": "WSJ",
-   "at": "2026-09-04T15:51:00.607983+00:00"
-  },
-  {
-   "fp": "august higher jobs report sends strong yields",
-   "title": "Strong August jobs report sends yields higher",
-   "source": "Reuters",
-   "at": "2026-09-04T15:51:04.343773+00:00"
-  },
   {
    "fp": "appeal asks clancy emergency lawyer mistrial murder trial",
    "title": "Not a mistrial, yet. Clancy's lawyer asks for emergency appeal in her murder trial",
@@ -3201,11 +3189,21 @@
    "title": "US Federal Budget - Latest News and Updates",
    "source": "WSJ",
    "at": "2026-09-12T22:51:39.072943+00:00"
+  },
+  {
+   "fp": "beautiful coast dead found identified malibu musician voice",
+   "title": "Musician with \u2018beautiful\u2019 voice identified as man found dead off Malibu coast",
+   "source": "New York Post",
+   "at": "2026-09-12T23:03:58.205208+00:00"
+  },
+  {
+   "fp": "attack iraq mideast news originated other pipeline saudi territory",
+   "title": "Iraq says Saudi pipeline attack originated from its territory, and other Mideast news",
+   "source": "AP",
+   "at": "2026-09-12T23:03:59.945365+00:00"
   }
  ],
  "titles": [
-  "climb fall jobs report stocks strong treasury yields",
-  "august higher jobs report sends strong yields",
   "appeal asks clancy emergency lawyer mistrial murder trial",
   "attack drone headquarters hits russia security ukrainian zelensky",
   "dead encircle israelis palestinian settlers shoot teenagers village",
@@ -3603,6 +3601,8 @@
   "chile fire home kills nursing residents",
   "attack calls canceled cowards democrat maher politicians referencing sept show take",
   "backtracks debate dividend kansas marshall senate support trump",
-  "budget federal latest news updates"
+  "budget federal latest news updates",
+  "beautiful coast dead found identified malibu musician voice",
+  "attack iraq mideast news originated other pipeline saudi territory"
  ]
 }
