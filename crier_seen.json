@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4700909",
-  "https://www.washingtonexaminer.com/?p=4700872",
-  "https://www.theguardian.com/world/2026/aug/26/escape-wizard-albanian-fugitive-toma-taulant-arrested-spain-after-breaking-out-of-four-jails",
-  "https://nypost.com/?post_type=article&p=40517101",
-  "https://thehill.com/?p=6052333",
   "https://thehill.com/?p=6052354/",
   "https://www.washingtonexaminer.com/?p=4701325",
   "https://nypost.com/?post_type=article&p=40522738",
@@ -799,39 +794,14 @@
   "https://nypost.com/?post_type=article&p=40781295",
   "https://www.washingtonexaminer.com/?p=4724608",
   "CBMifkFVX3lxTE5WZnFBLVh4VmRjWnhCTUFNUEgyUVMtd056Um5aVDZ5clZnUy1mQ3dneE1HVjNRUjZfRXBwb210V3ZSeDFlRXpNU1EzSTk2RmpyeHlGT3pONEF4bGE3aEVPSjRJb0I3Ml9vQk9ZV1ZZV0l1Tm1BN0Rrc0RQRHdPZw",
-  "CBMizAFBVV95cUxPd3lnc0dxM1pHVFpORTloY08tT2k2aFdDMkRJSHBTZkFSWGNGOGk0SnRrQi1uVTB3VHhoeVh5WGZpdk90ZzdyRjUzRDJCM3NuQ29UX1l6d2QxTUg5R1F5T1JiUjBJZm1NZlozelR1SElNdFc3ekVreC00ajJ6T3NTeWxMYmZwS21zNTFiYTZSUW5VLXNyMWlMRXFoTVlwbk1IRGxhbG50cmhpZmw4OXN3dHIxVUNhekh0Z3ctdmJ0TmZjZDhJUDFZN0lzNXk"
+  "CBMizAFBVV95cUxPd3lnc0dxM1pHVFpORTloY08tT2k2aFdDMkRJSHBTZkFSWGNGOGk0SnRrQi1uVTB3VHhoeVh5WGZpdk90ZzdyRjUzRDJCM3NuQ29UX1l6d2QxTUg5R1F5T1JiUjBJZm1NZlozelR1SElNdFc3ekVreC00ajJ6T3NTeWxMYmZwS21zNTFiYTZSUW5VLXNyMWlMRXFoTVlwbk1IRGxhbG50cmhpZmw4OXN3dHIxVUNhekh0Z3ctdmJ0TmZjZDhJUDFZN0lzNXk",
+  "https://www.theguardian.com/world/2026/sep/12/death-toll-from-philippines-ferry-fire-rises-to-35-as-officials-warn-toll-will-grow",
+  "https://www.bbc.co.uk/news/articles/c62m933465eo#0",
+  "https://www.theguardian.com/australia-news/2026/sep/12/alleged-drone-operator-charged-murder-mistaken-identity-shooting-western-sydney-ntwnfb",
+  "https://nypost.com/?post_type=article&p=40784007",
+  "https://nypost.com/?post_type=article&p=40784382"
  ],
  "posts": [
-  {
-   "fp": "about agent charged crackdown lying shooting venezuelan",
-   "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-   "source": "BBC World",
-   "at": "2026-09-03T21:52:18.037853+00:00"
-  },
-  {
-   "fp": "delivery erased fight hawaiians mail razed restore usps wildfire",
-   "title": "Razed by wildfire, erased by USPS: Hawaiians fight to restore mail delivery",
-   "source": "Guardian World",
-   "at": "2026-09-03T21:52:19.842080+00:00"
-  },
-  {
-   "fp": "evasion exclusive island paradise russian sanctions secret",
-   "title": "Exclusive | The Island Paradise That Is a Secret Hub for Russian Sanctions Evasion",
-   "source": "WSJ",
-   "at": "2026-09-03T22:59:12.256206+00:00"
-  },
-  {
-   "fp": "accused candidate cocaine house missouri opponent plant primary trying",
-   "title": "Missouri House candidate accused of trying to plant cocaine on primary opponent",
-   "source": "New York Post",
-   "at": "2026-09-03T22:59:14.066795+00:00"
-  },
-  {
-   "fp": "both chance cites countries deal negotiators peace putin visit zelenskiy",
-   "title": "Putin cites chance of peace deal, Zelenskiy says US negotiators to visit both countries",
-   "source": "Reuters",
-   "at": "2026-09-03T22:59:16.068410+00:00"
-  },
   {
    "fp": "firms house paris pressures skip sources space summit white",
    "title": "White House pressures US space firms to skip Paris space summit, sources say",
@@ -3201,14 +3171,39 @@
    "title": "AI startup Discovery Loop seeks around $50 billion valuation, Business Insider reports",
    "source": "Reuters",
    "at": "2026-09-12T03:22:29.936998+00:00"
+  },
+  {
+   "fp": "death ferry fire grow officials philippines rises toll warn",
+   "title": "Death toll from Philippines ferry fire rises to 35, as officials warn toll will grow",
+   "source": "Guardian World",
+   "at": "2026-09-12T05:50:56.923303+00:00"
+  },
+  {
+   "fp": "arabia attack drone iraq launched pipeline saudi shuts",
+   "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+   "source": "BBC World",
+   "at": "2026-09-12T05:50:58.677348+00:00"
+  },
+  {
+   "fp": "alleged charged drone identity mistaken murder operator shooting sydney",
+   "title": "Alleged drone operator charged with murder after mistaken identity shooting in Sydney",
+   "source": "Guardian World",
+   "at": "2026-09-12T05:51:00.419695+00:00"
+  },
+  {
+   "fp": "attack close death engineer hosts news park random report stabbed texas ties",
+   "title": "Engineer with close ties to Fox News hosts stabbed to death in random attack in Texas park: report",
+   "source": "New York Post",
+   "at": "2026-09-12T05:51:02.266277+00:00"
+  },
+  {
+   "fp": "breaking brewing finally malaise right time yankees",
+   "title": "After brewing for a bit, Yankees are finally breaking out of malaise at right time",
+   "source": "New York Post",
+   "at": "2026-09-12T05:51:04.091057+00:00"
   }
  ],
  "titles": [
-  "about agent charged crackdown lying shooting venezuelan",
-  "delivery erased fight hawaiians mail razed restore usps wildfire",
-  "evasion exclusive island paradise russian sanctions secret",
-  "accused candidate cocaine house missouri opponent plant primary trying",
-  "both chance cites countries deal negotiators peace putin visit zelenskiy",
   "firms house paris pressures skip sources space summit white",
   "bonds comments dovish rally stocks",
   "paxton race rove running senate texas time",
@@ -3603,6 +3598,11 @@
   "bouncy castle hospital kids outbreak report reveals sent sickened superbug",
   "25th anniversary attacks coin dollar half mint special terrorist unveils",
   "2026 governor hampshire house primary results senate",
-  "around billion business discovery insider loop reports seeks startup valuation"
+  "around billion business discovery insider loop reports seeks startup valuation",
+  "death ferry fire grow officials philippines rises toll warn",
+  "arabia attack drone iraq launched pipeline saudi shuts",
+  "alleged charged drone identity mistaken murder operator shooting sydney",
+  "attack close death engineer hosts news park random report stabbed texas ties",
+  "breaking brewing finally malaise right time yankees"
  ]
 }
