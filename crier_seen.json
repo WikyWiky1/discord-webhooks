@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods",
-  "https://thehill.com/?p=6053832",
-  "https://www.npr.org/2026/08/27/g-s1-140414/up-first-newsletter-meta-settlement-mail-in-voting-nrc-regulations-nepal-tibet-flooding",
-  "https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods",
-  "CBMirwFBVV95cUxQWTRiakhGUy1IMDZwSGk4Zld5ZmdZQUNmMzZWMVZ3cHo3TkF2alg4YjIybVZaN0lFV3plMUdWc285NU1GS0dXZ085M1hzcWdwZGZ2RV90dDZGSDF5b3dNZ0h6MHZMV3JEU1dqS1Y1WlpNelU2cXhCVm53U0ZyNUJkcl9mcnRBM1Z2ZHl3WGhFRUNnUHB3eURyc2c5QzVpelN1UFRyZGY0eF9WakdnbWtJ",
   "https://nypost.com/?post_type=article&p=40533962",
   "CBMihgFBVV95cUxPblNReGptY2NxVTdOcVl2emZjOXZ1MjZmc2dyTVVrZThfc2F1VlhVUlZwOEVJTldGVFBDSEhsQ05zMktKSm5kaW4zTFNoM0xza1FDanZ1M3VxaXBOUWswbHV5Q2dia3B4LXQ3NWhjdTluREhBRG02MVdkOXFZRTZodTV6b3RkQQ",
   "CBMiswFBVV95cUxOSUt6czJJdnVzWl81cWItbHE0NGhlWDBCX1dqNTVUUWI5SGRoQU5SeUs0LWxzVk0zNzFfUU5PNUpOVXo2WThZVTFkYXNjYmU1ZDhrellGcUNwWTVGMFZNdk9UUHJpZEUya3BXckZEY0Zfa1g0QVNKSVFrTEhzay01SlBQLVgtTTd3eS11QmdjeUMwVU00NndPcDY2NmxxWVl4UjhNRFRMLTlQd2hrRWoyZzMxcw",
@@ -799,39 +794,14 @@
   "CBMilgFBVV95cUxNTHlPRWlqWnNoeGVWYXY4M19uaEFFalItSV81V1pWZmthSDE3Q2JxeHdmR3dBUHlsTmtMWGQ5WXBkQjdsTFI1SDBNMkZZRTRoNURyTWQ3T09uU2xIY2ZVZnJXRVNfTzNodG5weFdwY2JoZDlPRFdEblI5a0NFRG15akxWWGx2LTdnSERIeVY5S3lTTm9fNUE",
   "https://nypost.com/?post_type=article&p=40786483",
   "https://nypost.com/?post_type=article&p=40787985",
-  "https://www.washingtonexaminer.com/?p=4725020"
+  "https://www.washingtonexaminer.com/?p=4725020",
+  "https://nypost.com/?post_type=article&p=40789628",
+  "https://nypost.com/?post_type=article&p=40759039",
+  "https://pagesix.com/?post_type=article&p=9169965",
+  "https://www.bbc.co.uk/news/articles/cy4zpp20w77o#0",
+  "https://thehill.com/?p=6086287"
  ],
  "posts": [
-  {
-   "fp": "attack clip customer frightening kung launches robot warned wild",
-   "title": "\u2018We were warned\u2019: Robot launches wild kung-fu attack against customer in frightening clip",
-   "source": "New York Post",
-   "at": "2026-09-04T12:14:51.415212+00:00"
-  },
-  {
-   "fp": "bond casualty market mortgage revolting",
-   "title": "The bond market is revolting \u2014 and your mortgage is the first casualty",
-   "source": "Washington Examiner",
-   "at": "2026-09-04T12:14:53.254948+00:00"
-  },
-  {
-   "fp": "attacks expected kill least russian talks ukraine",
-   "title": "Russian attacks kill at least 3 in Ukraine as US talks on the war are expected",
-   "source": "AP",
-   "at": "2026-09-04T12:14:55.022244+00:00"
-  },
-  {
-   "fp": "airport controllers exclusive fatigue flagged high involved miss near records risk show sydney",
-   "title": "EXCLUSIVE: Sydney airport near-miss involved controllers flagged as high-fatigue risk, records show",
-   "source": "Reuters",
-   "at": "2026-09-04T14:52:55.671118+00:00"
-  },
-  {
-   "fp": "countries federal halt interest live lowers politics rates reserve threatens trade trump unless",
-   "title": "Trump threatens to halt trade with some countries unless the Federal Reserve lowers interest rates \u2013 US politics live",
-   "source": "Guardian World",
-   "at": "2026-09-04T15:50:55.524873+00:00"
-  },
   {
    "fp": "america china huawei pitch sales sanctions",
    "title": "America\u2019s sanctions are now China\u2019s Huawei sales pitch",
@@ -3201,14 +3171,39 @@
    "title": "Graham agrees to debate Annie Andrews in South Carolina Senate race",
    "source": "Washington Examiner",
    "at": "2026-09-12T20:15:21.892861+00:00"
+  },
+  {
+   "fp": "california farm fears issues recall salmonella urgent",
+   "title": "California farm issues urgent egg recall over salmonella fears",
+   "source": "New York Post",
+   "at": "2026-09-12T21:12:51.665215+00:00"
+  },
+  {
+   "fp": "bipolar case clancy eerily irish kids killed killer lindsay mass nurse similar years",
+   "title": "Lindsay Clancy case eerily similar to bipolar Irish nurse who killed her kids 3 years to the day before Mass. killer mom",
+   "source": "New York Post",
+   "at": "2026-09-12T21:12:53.747463+00:00"
+  },
+  {
+   "fp": "beloved brian country dead duckworth music nashville singer",
+   "title": "Beloved country music singer Brian \u2018Nashville\u2019 Duckworth, dead at 56",
+   "source": "New York Post",
+   "at": "2026-09-12T21:12:55.484158+00:00"
+  },
+  {
+   "fp": "chile fire home kills nursing residents",
+   "title": "Fire at nursing home in Chile kills 16 residents",
+   "source": "BBC World",
+   "at": "2026-09-12T21:12:57.184091+00:00"
+  },
+  {
+   "fp": "attack calls canceled cowards democrat maher politicians referencing sept show take",
+   "title": "Maher calls Democrat politicians 'cowards,' referencing take on the Sept. 11 attack that got his old show canceled",
+   "source": "The Hill",
+   "at": "2026-09-12T21:12:59.184130+00:00"
   }
  ],
  "titles": [
-  "attack clip customer frightening kung launches robot warned wild",
-  "bond casualty market mortgage revolting",
-  "attacks expected kill least russian talks ukraine",
-  "airport controllers exclusive fatigue flagged high involved miss near records risk show sydney",
-  "countries federal halt interest live lowers politics rates reserve threatens trade trump unless",
   "america china huawei pitch sales sanctions",
   "bets fuels hike jobs rate report slide",
   "climb fall jobs report stocks strong treasury yields",
@@ -3603,6 +3598,11 @@
   "attack delays labour ordering submarines",
   "bullets killed playground police shot",
   "area earthquake overnight rocks",
-  "agrees andrews annie carolina debate graham race senate south"
+  "agrees andrews annie carolina debate graham race senate south",
+  "california farm fears issues recall salmonella urgent",
+  "bipolar case clancy eerily irish kids killed killer lindsay mass nurse similar years",
+  "beloved brian country dead duckworth music nashville singer",
+  "chile fire home kills nursing residents",
+  "attack calls canceled cowards democrat maher politicians referencing sept show take"
  ]
 }
