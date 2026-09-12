@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40533962",
-  "CBMihgFBVV95cUxPblNReGptY2NxVTdOcVl2emZjOXZ1MjZmc2dyTVVrZThfc2F1VlhVUlZwOEVJTldGVFBDSEhsQ05zMktKSm5kaW4zTFNoM0xza1FDanZ1M3VxaXBOUWswbHV5Q2dia3B4LXQ3NWhjdTluREhBRG02MVdkOXFZRTZodTV6b3RkQQ",
   "CBMiswFBVV95cUxOSUt6czJJdnVzWl81cWItbHE0NGhlWDBCX1dqNTVUUWI5SGRoQU5SeUs0LWxzVk0zNzFfUU5PNUpOVXo2WThZVTFkYXNjYmU1ZDhrellGcUNwWTVGMFZNdk9UUHJpZEUya3BXckZEY0Zfa1g0QVNKSVFrTEhzay01SlBQLVgtTTd3eS11QmdjeUMwVU00NndPcDY2NmxxWVl4UjhNRFRMLTlQd2hrRWoyZzMxcw",
   "https://www.bbc.co.uk/news/articles/cd948kn02e5o#0",
   "https://www.bbc.co.uk/news/articles/cly464k252yo#0",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40759039",
   "https://pagesix.com/?post_type=article&p=9169965",
   "https://www.bbc.co.uk/news/articles/cy4zpp20w77o#0",
-  "https://thehill.com/?p=6086287"
+  "https://thehill.com/?p=6086287",
+  "https://thehill.com/?p=6086408",
+  "CBMiYkFVX3lxTE9GWTlJM0dPSlpGYXdoVDAteFphRFBLVE0yYTlUdmhvaG5DWFFQYjFBT1dESXAwTUkyUUxDWjYxLXNfOXlzQzAzZjc2NlltVVRib2dBY1IzMGJXOEkyNXZfT0VR"
  ],
  "posts": [
-  {
-   "fp": "america china huawei pitch sales sanctions",
-   "title": "America\u2019s sanctions are now China\u2019s Huawei sales pitch",
-   "source": "Washington Examiner",
-   "at": "2026-09-04T15:50:57.192623+00:00"
-  },
-  {
-   "fp": "bets fuels hike jobs rate report slide",
-   "title": "S&P 500, Dow slide after jobs report fuels rate-hike bets",
-   "source": "Reuters",
-   "at": "2026-09-04T15:50:58.944221+00:00"
-  },
   {
    "fp": "climb fall jobs report stocks strong treasury yields",
    "title": "U.S. Stocks Fall, Treasury Yields Climb After Strong Jobs Report",
@@ -3201,11 +3189,21 @@
    "title": "Maher calls Democrat politicians 'cowards,' referencing take on the Sept. 11 attack that got his old show canceled",
    "source": "The Hill",
    "at": "2026-09-12T21:12:59.184130+00:00"
+  },
+  {
+   "fp": "backtracks debate dividend kansas marshall senate support trump",
+   "title": "Marshall backtracks on support for $5,000 Trump dividend in Kansas Senate debate",
+   "source": "The Hill",
+   "at": "2026-09-12T22:51:37.259044+00:00"
+  },
+  {
+   "fp": "budget federal latest news updates",
+   "title": "US Federal Budget - Latest News and Updates",
+   "source": "WSJ",
+   "at": "2026-09-12T22:51:39.072943+00:00"
   }
  ],
  "titles": [
-  "america china huawei pitch sales sanctions",
-  "bets fuels hike jobs rate report slide",
   "climb fall jobs report stocks strong treasury yields",
   "august higher jobs report sends strong yields",
   "appeal asks clancy emergency lawyer mistrial murder trial",
@@ -3603,6 +3601,8 @@
   "bipolar case clancy eerily irish kids killed killer lindsay mass nurse similar years",
   "beloved brian country dead duckworth music nashville singer",
   "chile fire home kills nursing residents",
-  "attack calls canceled cowards democrat maher politicians referencing sept show take"
+  "attack calls canceled cowards democrat maher politicians referencing sept show take",
+  "backtracks debate dividend kansas marshall senate support trump",
+  "budget federal latest news updates"
  ]
 }
