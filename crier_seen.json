@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6052354/",
-  "https://www.washingtonexaminer.com/?p=4701325",
   "https://nypost.com/?post_type=article&p=40522738",
   "CBMiyAFBVV95cUxOVjRTWmx5dXpiRHlYazhDWjAtUFhuY0o4RUFXclFzYnRaNjZFck9vWHJSRkdJVWF6VzNfSjhDMFlGNVhISVVqOXRBU0lTd3NqZzdnTjNvMkxBNDdUb3puVnlzUU9vc0UxWW9DTmh4bUhqZUVSYnhBU05TeTM0bUd4b0VTZ0l3c2tlLVZlbmhOa1hwQ2RQMFlERVpWWVVmZ3AwS3dKcFhmdThnNzM5d0FVYWJvZldRSmlRVEw2M1hZbzN1R25FOWxmdg",
   "https://thehill.com/?p=6052692",
@@ -799,21 +797,11 @@
   "https://www.bbc.co.uk/news/articles/c62m933465eo#0",
   "https://www.theguardian.com/australia-news/2026/sep/12/alleged-drone-operator-charged-murder-mistaken-identity-shooting-western-sydney-ntwnfb",
   "https://nypost.com/?post_type=article&p=40784007",
-  "https://nypost.com/?post_type=article&p=40784382"
+  "https://nypost.com/?post_type=article&p=40784382",
+  "CBMisAFBVV95cUxQcmtmVGN5eUltdWZYNEJjUzdtRDd2SjFQZ2xwOVp3cDJFRnlzWVpHZ2NNY0ZndWxhZ0Y3bGRjcnRXVnc5UWF6V1R4STJqNVNrbEVPU2lwd1FnYmFKQjlabXlPRHh6Vmw5WVlDN1dSTkx5WHJsYjUxWi1kTDdmVGxySHRJaVdVT2ZLRHFDQUpNZURtamJsZHNRaHF4VU9HbjVSdExVVVEzdmF2clRjSi1iXw",
+  "https://nypost.com/?post_type=article&p=40784934"
  ],
  "posts": [
-  {
-   "fp": "firms house paris pressures skip sources space summit white",
-   "title": "White House pressures US space firms to skip Paris space summit, sources say",
-   "source": "Reuters",
-   "at": "2026-09-03T22:59:17.838308+00:00"
-  },
-  {
-   "fp": "bonds comments dovish rally stocks",
-   "title": "Stocks, Bonds Rally After Dovish Fed Comments",
-   "source": "WSJ",
-   "at": "2026-09-03T22:59:19.595999+00:00"
-  },
   {
    "fp": "paxton race rove running senate texas time",
    "title": "Rove: 'Time is running out' for Paxton in Texas Senate race",
@@ -3201,11 +3189,21 @@
    "title": "After brewing for a bit, Yankees are finally breaking out of malaise at right time",
    "source": "New York Post",
    "at": "2026-09-12T05:51:04.091057+00:00"
+  },
+  {
+   "fp": "about ford fuel issues recall tank vehicles",
+   "title": "Ford to recall about 223,500 US vehicles over fuel tank issues",
+   "source": "Reuters World",
+   "at": "2026-09-12T09:53:16.597397+00:00"
+  },
+  {
+   "fp": "chief defense killed russian troops ukraine",
+   "title": "More than 500,000 Russian troops killed in Ukraine, UK defense chief says",
+   "source": "New York Post",
+   "at": "2026-09-12T09:53:19.396440+00:00"
   }
  ],
  "titles": [
-  "firms house paris pressures skip sources space summit white",
-  "bonds comments dovish rally stocks",
   "paxton race rove running senate texas time",
   "analysis deadly direct iranian likely munition shows strike wedding",
   "acting announces army driscoll following resignation secretary telle trump",
@@ -3603,6 +3601,8 @@
   "arabia attack drone iraq launched pipeline saudi shuts",
   "alleged charged drone identity mistaken murder operator shooting sydney",
   "attack close death engineer hosts news park random report stabbed texas ties",
-  "breaking brewing finally malaise right time yankees"
+  "breaking brewing finally malaise right time yankees",
+  "about ford fuel issues recall tank vehicles",
+  "chief defense killed russian troops ukraine"
  ]
 }
