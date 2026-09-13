@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40544202",
   "https://nypost.com/?post_type=article&p=40545456",
   "https://nypost.com/?post_type=article&p=40545632",
   "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
   "https://www.theguardian.com/us-news/2026/sep/13/new-orleans-lawyer-hurricane-ida-insurance-fraud",
   "CBMipwFBVV95cUxQLURQSmFta1pLUy0xa1BESzZtelFyNWktdmJtQUIxaFh3SXBpQjMyVVJ2WTdXZnl1VGdTeC10cDQ3eVJGVHB4OExyUGJ0bzh0UTc5V3Rka0c4MnA1bk9nd3lkSm00Q0k0V0padWhadmF4Wi1sMmE3ZDdDdlUySkhPLVZESDNNZWFFR0dmcmtLNzA5TkFjejJLb2Q1YUJyV2EwQzRPYXdiOA",
-  "CBMiwgFBVV95cUxOUGctZFpGTW5Zd0h2OFl3V0FMR3o0MHVxNW5uSmN6cHpfNWRYRS1Sd0dibnUwUDRCY3VHejJlbUdNVkx6VmN3WTJQVGYtRjRHX1dWQllyQWl3TzEyWWoxY0JRaU45U0RMUTd0SHBvYmRLZmN4bjl3VF82emtKY1JiQzlsN3NqLThWcDk0UEdmaTlHWjJWd0k1b1VtVmVVUFpSZnFhSEZPUk9oeFlTeU5ZcTJKUlJUZjd6d3d2QWJiYmR2UQ"
+  "CBMiwgFBVV95cUxOUGctZFpGTW5Zd0h2OFl3V0FMR3o0MHVxNW5uSmN6cHpfNWRYRS1Sd0dibnUwUDRCY3VHejJlbUdNVkx6VmN3WTJQVGYtRjRHX1dWQllyQWl3TzEyWWoxY0JRaU45U0RMUTd0SHBvYmRLZmN4bjl3VF82emtKY1JiQzlsN3NqLThWcDk0UEdmaTlHWjJWd0k1b1VtVmVVUFpSZnFhSEZPUk9oeFlTeU5ZcTJKUlJUZjd6d3d2QWJiYmR2UQ",
+  "https://www.theguardian.com/australia-news/2026/sep/13/first-h5-bird-flu-death-of-endangered-australian-sea-lion-kangaroo-island"
  ],
  "posts": [
-  {
-   "fp": "august blow expectations nonfarm past payrolls rate steady unemployment",
-   "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%",
-   "source": "Reuters",
-   "at": "2026-09-04T22:47:35.387461+00:00"
-  },
   {
    "fp": "burning dead down festival found hazard locked weather",
    "title": "Man found dead at Burning Man as festival locked down over weather hazard",
@@ -3201,10 +3195,15 @@
    "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
    "source": "Reuters",
    "at": "2026-09-13T11:56:40.744013+00:00"
+  },
+  {
+   "fp": "australian bird death endangered fears lion population recorded small",
+   "title": "First H5 bird flu death of endangered Australian sea lion recorded amid fears for small population",
+   "source": "Guardian World",
+   "at": "2026-09-13T14:52:31.020381+00:00"
   }
  ],
  "titles": [
-  "august blow expectations nonfarm past payrolls rate steady unemployment",
   "burning dead down festival found hazard locked weather",
   "california chemical club dangerous emergency golf hazmat hospitalized mixture person ritzy",
   "attack gold grandmother heart home island killed long violent",
@@ -3603,6 +3602,7 @@
   "attack base claim fighting flares forces houthis saudi yemeni",
   "alleged charged fraud guilty hurricane insurance lawyer plead poised",
   "associate canada collapse member seeks status talks trade",
-  "attack fans fears hormuz report shipping strait supplies threats"
+  "attack fans fears hormuz report shipping strait supplies threats",
+  "australian bird death endangered fears lion population recorded small"
  ]
 }
