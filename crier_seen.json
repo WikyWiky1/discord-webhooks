@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6054250",
-  "https://www.washingtonexaminer.com/?p=4701912",
-  "CBMiqgFBVV95cUxQaHQ2RnFRV2UzQ2llWXFqS0xnRy1rbks3Vkdxd0pRTFhnY3RyMEhGMkYwMTZSLThVc0ZwS2M3Y0F0V19kSHZYbkVBakNidXhCZ2hSRlN1TjR3bFBlVkxPdGxaOVcwLTF1TFo4bHpuaGVyRnozYXpDSHIxYWEtZkRUWFpTd1BvXzRucXRmWkEwSzFlSEVSSW12aGN1aU1KMUJHbGNUTUM4Z2o1QQ",
-  "CBMiwwFBVV95cUxON2lybm5sQ0tLOHRrVGk4T29aQVNHWUVCS2o4Y0NGazRhWkFEQndRZFhDZGpqVC1vYVRGdHpFODR5SlRtXzQ1ZjgxY2hMVXJxaGtMaE1FV3BlU3REaTBPb2FDQ2lrWUZpOXkwbms4UmxhdHQzY1ZodnFPeWV3TW9IM1lmUnV5UnltUmpFV0dNWDRmd28xZjRWRjk1dzVVN2xMM3NpNnVNY2dLVzdqY1dRZ2dvNDJxUHEyeEtWanNiYk5ueXc",
   "https://nypost.com/?post_type=article&p=40544202",
   "https://nypost.com/?post_type=article&p=40545456",
   "https://nypost.com/?post_type=article&p=40545632",
@@ -799,33 +795,13 @@
   "https://nypost.com/?post_type=article&p=40793897",
   "CBMi6wFBVV95cUxQTnFtbEFndjZkSHlQblNaSFQ2UXhvcWt1a2Fxcnl0M0NWZEJxQ2JjNVdKamlLcmp2VUp2THRpMWg2Tldxa2lOZzNaekZxWF9qU25TbXh1VmxTVHdSbWFPSFpzNXpXOXZ0WVFBTWFxSWExZjdWemNUOFJPRTlUcFFGdkt4RG4ydUxaN0RqSUVJQnJSRUg5dnRQN1FVaVVGSXBRdzRhVUlvTlpwanVUSVdkMWlqNU93MGY3cWM0ME1oV3FIcXM4di12MVNJYW9xeEZ3bUdzR2t3aTg5MF9vVWlGbExJWHNEaDBxYmdF",
   "https://www.foxnews.com/world/sweden-votes-migration-crime-economy-dominate-high-stakes-election",
-  "https://www.washingtonexaminer.com/?p=4724268"
+  "https://www.washingtonexaminer.com/?p=4724268",
+  "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
+  "https://www.theguardian.com/us-news/2026/sep/13/new-orleans-lawyer-hurricane-ida-insurance-fraud",
+  "CBMipwFBVV95cUxQLURQSmFta1pLUy0xa1BESzZtelFyNWktdmJtQUIxaFh3SXBpQjMyVVJ2WTdXZnl1VGdTeC10cDQ3eVJGVHB4OExyUGJ0bzh0UTc5V3Rka0c4MnA1bk9nd3lkSm00Q0k0V0padWhadmF4Wi1sMmE3ZDdDdlUySkhPLVZESDNNZWFFR0dmcmtLNzA5TkFjejJLb2Q1YUJyV2EwQzRPYXdiOA",
+  "CBMiwgFBVV95cUxOUGctZFpGTW5Zd0h2OFl3V0FMR3o0MHVxNW5uSmN6cHpfNWRYRS1Sd0dibnUwUDRCY3VHejJlbUdNVkx6VmN3WTJQVGYtRjRHX1dWQllyQWl3TzEyWWoxY0JRaU45U0RMUTd0SHBvYmRLZmN4bjl3VF82emtKY1JiQzlsN3NqLThWcDk0UEdmaTlHWjJWd0k1b1VtVmVVUFpSZnFhSEZPUk9oeFlTeU5ZcTJKUlJUZjd6d3d2QWJiYmR2UQ"
  ],
  "posts": [
-  {
-   "fp": "calls democrat leader phone senate state virginia wiretapped",
-   "title": "Virginia Democrat says DOJ wiretapped phone calls with state Senate leader",
-   "source": "The Hill",
-   "at": "2026-09-04T20:21:20.226866+00:00"
-  },
-  {
-   "fp": "appeal court emergency grants midterms rates republican supreme",
-   "title": "Supreme Court grants Republican emergency appeal on TV ad rates before midterms",
-   "source": "AP",
-   "at": "2026-09-04T21:31:28.678139+00:00"
-  },
-  {
-   "fp": "fall hike interest jobs prospects raises rate report stocks strong surprisingly",
-   "title": "Stocks fall after a surprisingly strong jobs report raises prospects of an interest rate hike",
-   "source": "AP",
-   "at": "2026-09-04T22:47:31.660695+00:00"
-  },
-  {
-   "fp": "democrats halt mail postal rules senate service urge voting work",
-   "title": "US Senate Democrats urge Postal Service to halt work on mail-in voting rules",
-   "source": "Reuters World",
-   "at": "2026-09-04T22:47:33.552939+00:00"
-  },
   {
    "fp": "august blow expectations nonfarm past payrolls rate steady unemployment",
    "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%",
@@ -3201,13 +3177,33 @@
    "title": "Trump faces major test over appointing US attorneys without Senate approval",
    "source": "Washington Examiner",
    "at": "2026-09-13T11:10:58.022953+00:00"
+  },
+  {
+   "fp": "attack base claim fighting flares forces houthis saudi yemeni",
+   "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
+   "source": "Guardian World",
+   "at": "2026-09-13T11:56:35.472725+00:00"
+  },
+  {
+   "fp": "alleged charged fraud guilty hurricane insurance lawyer plead poised",
+   "title": "Lawyer charged over alleged insurance fraud after Hurricane Ida poised to plead guilty",
+   "source": "Guardian World",
+   "at": "2026-09-13T11:56:37.318383+00:00"
+  },
+  {
+   "fp": "associate canada collapse member seeks status talks trade",
+   "title": "Canada Seeks EU \u2018Associate Member\u2019 Status as U.S. Trade Talks Collapse",
+   "source": "WSJ",
+   "at": "2026-09-13T11:56:39.047003+00:00"
+  },
+  {
+   "fp": "attack fans fears hormuz report shipping strait supplies threats",
+   "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
+   "source": "Reuters",
+   "at": "2026-09-13T11:56:40.744013+00:00"
   }
  ],
  "titles": [
-  "calls democrat leader phone senate state virginia wiretapped",
-  "appeal court emergency grants midterms rates republican supreme",
-  "fall hike interest jobs prospects raises rate report stocks strong surprisingly",
-  "democrats halt mail postal rules senate service urge voting work",
   "august blow expectations nonfarm past payrolls rate steady unemployment",
   "burning dead down festival found hazard locked weather",
   "california chemical club dangerous emergency golf hazmat hospitalized mixture person ritzy",
@@ -3603,6 +3599,10 @@
   "charged daughter death front killed murder year",
   "biotech breakthrough cancer fueled last rally vaccine",
   "crime dominate economy election high migration stakes sweden votes",
-  "appointing approval attorneys faces major senate test trump without"
+  "appointing approval attorneys faces major senate test trump without",
+  "attack base claim fighting flares forces houthis saudi yemeni",
+  "alleged charged fraud guilty hurricane insurance lawyer plead poised",
+  "associate canada collapse member seeks status talks trade",
+  "attack fans fears hormuz report shipping strait supplies threats"
  ]
 }
