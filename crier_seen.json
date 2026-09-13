@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40551611",
-  "https://nypost.com/?post_type=article&p=40541764",
-  "CBMiYkFVX3lxTFBOMUFKLWN6OUpOX0FlVXl0aDA1a2RiYUVUaGpFb3hnRGdSeF82eHF5UlQ0MVdVZHNXOWFjX3hZV1FlRnN3NmJGREtLWWM2S29SbUZZWlhTckIwamVMTHljRTJB",
-  "CBMisgFBVV95cUxON3U2T2hraFJtLWM5TnJsb1dETjI5OHludjJQUkw3a0E3ZnJvam5jdy1yU2FoM0dTVmIwQU4xcndQVHloaFpkZ0c4d1VGOUFDMEFaZ3M4V0poWnlWeUNnNXpRendMVDBSajZJMHdjazByXzZ6SmRMTFJ0dkcwREVyODBLRVpLTlIyMlB3ODVrNlZRUW81VF80eGZQWk9qYUhGbEZrcVlGb0ZJU0tLTkVvTEdB",
-  "CBMioAFBVV95cUxQeHZtOVhmU3FNMTR6T0JHMHFGblR2My1FNmhGVFVrb0NxMTlqOWNVdG9MVGl5Y1lUdGFVSHJUV3lBWk5UVkxpUjJqYmRXSEdOZU9PNXBQa0JDM3FDZFZkQm5fcFJoc04tdXo3Vl92STRTT01qWnBZeWxxMHJBLTd4UTc0SDVTYmdURXdRYnlRdnMzVlUzNDJJQUM4NHJ1b0dC",
-  "CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ",
   "https://www.theguardian.com/us-news/2026/aug/28/vaccine-misinformation-rfk-jr-measles-deaths-pennsylvania",
   "https://nypost.com/?post_type=article&p=40557462",
   "CBMitwFBVV95cUxQNTU5TmV6N2N0dHN6Q293S0JVZjRwbGtkQ2lyV1ZpTUt0eTBTNDJvVkI1Qk5mTWFlM25yOUFQVG1VQWZqbjhrLVNRQU81UjBhakxqRmlETF9rVDNCUm4zUzVrY1dTaWlsMkoxeGpHYUREcjJvdldPX2hTTk5HVlU3anBIbGlQMlpuODB4OUdDNmJVSUdCeHQwZmMzd3pVRDFSRVFxeTBpWU9fZWh2NEhtbFJhT0pwUVE",
@@ -799,45 +793,15 @@
   "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
   "https://www.theguardian.com/us-news/2026/sep/13/pennsylvania-third-measles-death-outbreak",
   "CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs",
-  "https://www.theguardian.com/us-news/2026/sep/13/louisiana-stabbing-spree-deaths"
+  "https://www.theguardian.com/us-news/2026/sep/13/louisiana-stabbing-spree-deaths",
+  "https://thehill.com/?p=6085057",
+  "https://thehill.com/?p=6087028",
+  "CBMinwFBVV95cUxQMXRfMWRzLWtaTEtyejBKWURMbDZyVFI3Mm5Ud1BucVVDVkctM0pHQmtFWjVYUnVNeVAxWW95dlJ1eDAzU1pON0ZNNmg2SnczT0R3ZHRfOWhLYXp4NmFxR21CWEtaVGNLYkRmOW9ObHoyTVA4cndXREZNOHpOaDZqb1Rjazh3MGJEdlk4RlllV1FvUlBqZVRsR1cwaThQYVk",
+  "CBMiowFBVV95cUxQd1VBMmEzZldmZWJscDBPb3hwTERGU2hNYVhFOUh1b0Q1NjhDYXlMRWlRUDFZNXdWdjR6bmZkR0UxTGs0MFlvcXViM1F1aTdzSjdpUEFGMldoRHhvRE5PYkVad19FLU15RHNUdHhpYy1KUHp6d3hiX0w3T2puNnRtNlNNNzlVb0x5cWs2eHZHLW5yckJJV2p0cnlLTDFxWTZpTGx3",
+  "CBMikAFBVV95cUxQbGxnLXB4NGxDZEpHdHRsSGVZaTlqTTJZYkRJc3NSLVFkQmJRNUxDTmxfSC1lR2FIWW5RRUlkckN1OExobThVWkdxLVZGU3FwblBxci1qWFVyR3NxOHFBZVJxbFRZVjcwSGx4MjJla0VySTlPWmVWdkNLbkdGUkYwTmNIMk0wX2VvWDl5dGwtdUk",
+  "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government"
  ],
  "posts": [
-  {
-   "fp": "care checks chimpanzees health long once part research term used vaccine",
-   "title": "Chimpanzees once used for vaccine research get health checks as part of long-term care",
-   "source": "AP",
-   "at": "2026-09-05T14:41:25.262778+00:00"
-  },
-  {
-   "fp": "familiar features fine hampshire names past primary voters",
-   "title": "New Hampshire's GOP primary features two familiar names from the past, and voters are fine with that",
-   "source": "AP",
-   "at": "2026-09-05T14:41:27.133947+00:00"
-  },
-  {
-   "fp": "battle bruce campbell cancer dead dying evil live reveals star years",
-   "title": "\u2018Evil Dead\u2019 star Bruce Campbell reveals he has 5 years to live amid cancer battle: I\u2019m a \u2018guy who\u2019s dying\u2019",
-   "source": "New York Post",
-   "at": "2026-09-05T16:06:04.597354+00:00"
-  },
-  {
-   "fp": "attack business deangelis foods jackie star sues vicious whole",
-   "title": "Fox Business star Jackie DeAngelis sues Whole Foods after vicious NYC dog attack",
-   "source": "New York Post",
-   "at": "2026-09-05T16:06:06.491727+00:00"
-  },
-  {
-   "fp": "american attack came iranian military missile struck tankers three under warships",
-   "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
-   "source": "Guardian World",
-   "at": "2026-09-05T16:06:08.238651+00:00"
-  },
-  {
-   "fp": "athens crashes dead greek near pilots show sources",
-   "title": "Greek F-4 crashes during air show near Athens, two pilots dead, sources say",
-   "source": "Reuters",
-   "at": "2026-09-05T16:06:09.978940+00:00"
-  },
   {
    "fp": "dead fire kinshasa least leaves officials party wedding",
    "title": "A wedding party fire in Kinshasa leaves at least 22 dead, officials say",
@@ -3201,15 +3165,45 @@
    "title": "Four dead in Louisiana stabbing spree as police arrest person of interest",
    "source": "Guardian World",
    "at": "2026-09-13T18:19:36.455228+00:00"
+  },
+  {
+   "fp": "canada finds industry itself lobster maine sides squeezed trade",
+   "title": "Maine\u2019s lobster industry finds itself squeezed on all sides amid Canada trade war",
+   "source": "The Hill",
+   "at": "2026-09-13T20:23:58.635762+00:00"
+  },
+  {
+   "fp": "back bring congress discuss johnson urges",
+   "title": "Dem rep urges Johnson: 'Bring us back to Congress' to discuss AI",
+   "source": "The Hill",
+   "at": "2026-09-13T20:24:00.381051+00:00"
+  },
+  {
+   "fp": "budget calls easy federal payouts trump",
+   "title": "Trump calls $5,000 payouts 'easy' to fit into federal budget",
+   "source": "Reuters",
+   "at": "2026-09-13T20:24:02.372931+00:00"
+  },
+  {
+   "fp": "former imposes press sanctions secretary ukraine zelenskiy",
+   "title": "Ukraine's Zelenskiy imposes sanctions on former press secretary",
+   "source": "Reuters",
+   "at": "2026-09-13T20:24:04.085779+00:00"
+  },
+  {
+   "fp": "irish plans remove tariff trump whiskey",
+   "title": "Trump says he plans to remove a 10% tariff on Irish whiskey",
+   "source": "AP",
+   "at": "2026-09-13T20:24:06.122131+00:00"
+  },
+  {
+   "fp": "bloc centre election exit left looks polls power show swedish take",
+   "title": "Swedish election: centre-left bloc looks set to take power, exit polls show",
+   "source": "Guardian World",
+   "at": "2026-09-13T20:24:07.929587+00:00"
   }
  ],
  "titles": [
-  "care checks chimpanzees health long once part research term used vaccine",
-  "familiar features fine hampshire names past primary voters",
-  "battle bruce campbell cancer dead dying evil live reveals star years",
-  "attack business deangelis foods jackie star sues vicious whole",
-  "american attack came iranian military missile struck tankers three under warships",
-  "athens crashes dead greek near pilots show sources",
   "dead fire kinshasa least leaves officials party wedding",
   "boredom dead golf hypocrisy saved sport",
   "attack destroys failed iranian naval ships tankers three",
@@ -3603,6 +3597,12 @@
   "congressman emergency landing plane safety survives swims wisconsin",
   "apparent death measles outbreak pennsylvania related reports third",
   "cargo hormuz iranian kills media ship strait strike",
-  "arrest dead four interest louisiana person police spree stabbing"
+  "arrest dead four interest louisiana person police spree stabbing",
+  "canada finds industry itself lobster maine sides squeezed trade",
+  "back bring congress discuss johnson urges",
+  "budget calls easy federal payouts trump",
+  "former imposes press sanctions secretary ukraine zelenskiy",
+  "irish plans remove tariff trump whiskey",
+  "bloc centre election exit left looks polls power show swedish take"
  ]
 }
