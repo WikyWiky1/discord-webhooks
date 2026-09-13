@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cly464k252yo#0",
-  "https://www.theguardian.com/world/2026/aug/27/what-caused-nepal-flash-flood-glacial-collapse-tibet-border",
   "https://www.theguardian.com/uk-news/2026/aug/27/middlesbrough-grangetown-house-fire-aunt-niece-killed-mother",
   "CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ",
   "https://nypost.com/?post_type=article&p=40533610",
@@ -799,21 +797,11 @@
   "https://thehill.com/?p=6086408",
   "CBMiYkFVX3lxTE9GWTlJM0dPSlpGYXdoVDAteFphRFBLVE0yYTlUdmhvaG5DWFFQYjFBT1dESXAwTUkyUUxDWjYxLXNfOXlzQzAzZjc2NlltVVRib2dBY1IzMGJXOEkyNXZfT0VR",
   "https://nypost.com/?post_type=article&p=40789110",
-  "CBMirwFBVV95cUxONEdJUjhTN0ZoaHN2R1U0eEZvV2pOb2tOTGVjX2NxbjF6RTg5SDFyLXRhVlF2enBCV2ctSXFjVEZaeXdqTjNSeXVjcEszem9kUTRxaFR1T0pUQ3M4aEVaT2NwMjl3WC1mbi01bTVIZmRMWXJSUml4X3QyM0tYamRXbDc2T3h3dG9JbGtZZHVyZVBRMTVvaHFSdGhCci1jLXBMTnRnYWlZNHRnTzRjTGMw"
+  "CBMirwFBVV95cUxONEdJUjhTN0ZoaHN2R1U0eEZvV2pOb2tOTGVjX2NxbjF6RTg5SDFyLXRhVlF2enBCV2ctSXFjVEZaeXdqTjNSeXVjcEszem9kUTRxaFR1T0pUQ3M4aEVaT2NwMjl3WC1mbi01bTVIZmRMWXJSUml4X3QyM0tYamRXbDc2T3h3dG9JbGtZZHVyZVBRMTVvaHFSdGhCci1jLXBMTnRnYWlZNHRnTzRjTGMw",
+  "CBMiVkFVX3lxTE01dG5CT1RIVzhqSG1LVkZkNm5EZ01wVktrNlZvTzhRaTYtcWwwWlYwdVM3X2RwejR5alIzYTM2ZFF3dzJqelVYMGZWVW12U25FWE5Sd1l3",
+  "CBMisgFBVV95cUxQZnVER1ZkMGJZRERjcmI4MDdhUE4tX29PYlEzTkt4cHFmOHpMVktaOXhQVVNsd21oNkplc2JUOWxaS3NmTmFJTVNpWW5ydnRVTll5dzljNlZPOVQtVHNzVmpmMVNPMTFBYVJCdFVwYW54RXd1ckJEVHlWcEQ1NHoyMWJDdHp6QmVPLWx4OElKVG44RVpfRVZhRG8zVng1V1BxOF9Nd3k1SmdsY2t0WFlYaXR3"
  ],
  "posts": [
-  {
-   "fp": "appeal asks clancy emergency lawyer mistrial murder trial",
-   "title": "Not a mistrial, yet. Clancy's lawyer asks for emergency appeal in her murder trial",
-   "source": "NPR News",
-   "at": "2026-09-04T16:24:26.542624+00:00"
-  },
-  {
-   "fp": "attack drone headquarters hits russia security ukrainian zelensky",
-   "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-   "source": "BBC World",
-   "at": "2026-09-04T16:24:28.263934+00:00"
-  },
   {
    "fp": "dead encircle israelis palestinian settlers shoot teenagers village",
    "title": "Israelis shoot dead two Palestinian teenagers after settlers encircle village",
@@ -3201,11 +3189,21 @@
    "title": "Iraq says Saudi pipeline attack originated from its territory, and other Mideast news",
    "source": "AP",
    "at": "2026-09-12T23:03:59.945365+00:00"
+  },
+  {
+   "fp": "2026 archive journal news september street wall",
+   "title": "The Wall Street Journal's News Archive for September 13, 2026 - WSJ.com",
+   "source": "WSJ",
+   "at": "2026-09-13T03:27:53.507077+00:00"
+  },
+  {
+   "fp": "election government right swedes usher vote",
+   "title": "Swedes vote in election that could usher far right into government",
+   "source": "Reuters",
+   "at": "2026-09-13T03:27:55.264161+00:00"
   }
  ],
  "titles": [
-  "appeal asks clancy emergency lawyer mistrial murder trial",
-  "attack drone headquarters hits russia security ukrainian zelensky",
   "dead encircle israelis palestinian settlers shoot teenagers village",
   "california cases college elite rabid surge town urgent warning",
   "bypass emergency pawn staple stars surgery undergoes",
@@ -3603,6 +3601,8 @@
   "backtracks debate dividend kansas marshall senate support trump",
   "budget federal latest news updates",
   "beautiful coast dead found identified malibu musician voice",
-  "attack iraq mideast news originated other pipeline saudi territory"
+  "attack iraq mideast news originated other pipeline saudi territory",
+  "2026 archive journal news september street wall",
+  "election government right swedes usher vote"
  ]
 }
