@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40573934",
-  "https://www.washingtonexaminer.com/?p=4705409",
-  "CBMi3gFBVV95cUxPMDZ0M25LQzd4Y0NlQUxmUERXTE9tWkNiZjRvdUdORjJYcVdQX3VmWXJQdFFQV1dVaElRLXV6Vmo0X0taNGJEU0xQV1dyYmxsWFU3c3FUME5FcGI5N3JYc2prYnpYM2xzS1JjdHdGald0QXZsYUZ1ZEdtRGg3ZHdkTGpMT0ZaV2J2U0JQLVI4Qk9MZ2RmNmhPcHpPdUZCckI4LU96TWVxcnJUbW1ROGlfWjRrYXpDZVFIVjNraWlLeUtpbEd0TXBJVzZOZGY4a1pJakdOZjJTaS1jLWF4RFE",
-  "https://nypost.com/?post_type=article&p=40577532",
-  "CBMingFBVV95cUxPSTVDSXBqWmc5cHhaV1VlM0NuSmdWbTR3SEtLXzZEUDY1VGJLcU5FdGJqVWlMQjFNTXBYX0lTcVI3N1ctLVVkVlJBWC1heVBhQm1hcUlJdTYydnJRY2l2cllnLWFBUmxoc0hNQVNVQVlqanRabld1Y05XVmpzMG9EWFpxY0VVY0MzUS1aVFNLVS02MDBfbGpESmNZOWp6Zw",
-  "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
   "https://nypost.com/?post_type=article&p=40576601",
   "CBMixgFBVV95cUxPQmlHWk9QRDdSRVVZVVR4UXdFaWthWkswNE5pVnRzZ3RzYW56TDBiSkRwM19UTF92YURMOVlZSDBpV1BLSzZfV3NoNFhnSUZjVVlQWms2SHQ2d0RheE9yR3VmQUl6U241ZEdzSldTZlNRelUtdXJaeGdLTW9YRUpoaXdQZG9VR2ZOcDNveVRFekxWMFpWZTZ4b0JpSFE4LWhXNms3UTNTX1VhdEYzTmlMa1lnWFBDZVVCT1BsNTQtQm13Z0ZxWlE",
   "CBMixAFBVV95cUxNdTBYQkFmZmRqbzlRSTg4V2ZjLUo4ZHFKN0JQYWpHUTVmeFJQUnYtY05OZEdWNEtESi04Mk0tQVA1UWdjNDJmSFA3T1ZVTnBpRFV0WmRmTG9jLVdUeDAyZHNmY1VZNzhLUGZNb1VHc2VqM3B0WWpKaXZGRzFQUWFqazlLcG9ZeUhSaEVfdjRCNTNneTR5eTBjTWc1Ml9lZ0xtNy1SeVMzeThuaDZxVVZHblE1QVRUZFlhVkNzNGV6Z0Z5NWxR",
@@ -799,45 +793,15 @@
   "CBMiyAFBVV95cUxPSXc0MkRtdlNRQUxNbjlDN3pHenA5cnEwdFBLU2ZPS3FBZDlpdXI4UDZ1WEZFQnZaemdZUVd6Q1JMOWNyc2s1QWZMU0YzWWVuSjl3V0hGS3BLTzFQWFZtalViVUZEcmduVElMUm0zU19oenVaUkdlRHAyUUF5TW9GelVoNlZyUktjV1FpQWNDbVRiOGdzNHg1X3JBNFRwZ0dDbGIyeWs2dWhVbERSVWJFYlhwLWtSSm00Z0ZIcDJtMXJ2U3dlY3pvZA",
   "CBMijwFBVV95cUxPcFBBQXlRRGo2WmhocHNGVnI4c2JURzg4Yy1mQUNCR1ZQZndPUFRaeExGQ09MSXVjdHBhSkJ6MHRUTmtqOHUtMFpyR09SbWxDZEdWN29aR2NWQmo0VXFRVm1rSzN6amtkajFnR0EwQUhxQ01YMURRTHVGU2tsSTE4bEpDRGhrY0piZDRsMWpLMA",
   "CBMingFBVV95cUxNajNGQWhPZUhzTDdRTVI3X29aMFdmWHpnQTNRYTBINTNPcFBBTTlzS2ZweVFpOEZ4QXp2c3lYWmdpNnZTRnlxTkdmVnBiTDBraHQ3UTczYXJ0ZGg2SFpFRjlGcnZKZmJCWWRMRzFqNWdIb1A5SUxJdXRmWHJacmJnZEhieVJ0ZC1GMFl4ZHZaMGN0Vl9pcUR1Y0tlemJOZw",
-  "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing"
+  "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
+  "CBMiuAFBVV95cUxPTUd0QXl4cFJlZFQ1SXRIdkhVMFVOZEZpNXpfNDgwbGU3ZTZlTV9vU0UyT0o1RUdsQm5HLTdsYm1hYmJSUVk3dURLSWFzTkY3QVkxX3hRWXpHYVhUeHUzWmRZNTJIWnRjRWo1RjYtT093aEQ5SmVRMmo1aldpcWk3Yk5DUG5TX2szYWlyUlpoVUlPeXNPQXNYRUFocld1NTZGNXc1OFFpV3FLem5sNU44YlB2RUtsNDBU",
+  "CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI",
+  "https://www.washingtonexaminer.com/?p=4725926",
+  "https://thehill.com/?p=6088483",
+  "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais",
+  "CBMisgFBVV95cUxQcDRfbFRjWnI3M0VQaXg2cUsyT3d4ME5RUXFySks1MFlkbnBiWDMyYU1jcy1sT3g3VGJpbU5uWDNZVTF6VEFmcnAyTnZiTHhVUGtqVEh3clNYYjh5MUdIcUgxaE56N2JydmRhQ3FGQjhFTlFFcUF2TTZncHMwWFMtbDl5UXZuR1RwQmlqS1hSdFA4LUpyX3NxeEZJcE9zODJIS1J4XzRrVEVNZF96eWx6dTVB"
  ],
  "posts": [
-  {
-   "fp": "election fifa gianni infantino president scandal sell stand",
-   "title": "Fifa president Gianni Infantino to stand for re-election after sell-off scandal",
-   "source": "Telegraph",
-   "at": "2026-09-06T15:00:27.862448+00:00"
-  },
-  {
-   "fp": "about america august hard madness primary reset",
-   "title": "How about a hard reset on America\u2019s August primary madness?",
-   "source": "Washington Examiner",
-   "at": "2026-09-06T15:00:29.575603+00:00"
-  },
-  {
-   "fp": "back canadian groups helping testy tourism trade visitors want",
-   "title": "US tourism groups want to win Canadian visitors back. A testy trade war isn\u2019t helping",
-   "source": "AP",
-   "at": "2026-09-06T15:00:31.426646+00:00"
-  },
-  {
-   "fp": "beach california flooding hurricane labor marie mass seal sparks weekend",
-   "title": "Hurricane Marie sparks mass flooding in Seal Beach in California on Labor Day weekend",
-   "source": "New York Post",
-   "at": "2026-09-06T15:55:34.080265+00:00"
-  },
-  {
-   "fp": "gaza israeli kills medics people strike",
-   "title": "Israeli strike kills two people in Gaza, medics say",
-   "source": "Reuters",
-   "at": "2026-09-06T15:55:35.739311+00:00"
-  },
-  {
-   "fp": "cape dead island least plunges ravine steep verde",
-   "title": "At least 25 dead after bus plunges into steep ravine on Cape Verde island",
-   "source": "Sky News",
-   "at": "2026-09-06T15:55:37.423036+00:00"
-  },
   {
    "fp": "andy butcher collapses dies ring williams wrestler",
    "title": "Pro-wrestler Andy \u2018The Butcher\u2019 Williams collapses in ring, dies at 48",
@@ -3201,15 +3165,45 @@
    "title": "Scientists find nine new sponge species in glimpse of Alaska\u2019s deep-sea diversity",
    "source": "Guardian World",
    "at": "2026-09-14T16:54:12.446490+00:00"
+  },
+  {
+   "fp": "ahead bill critical crypto release republicans senate text vote",
+   "title": "US Senate Republicans release new crypto bill text ahead of critical vote",
+   "source": "Reuters",
+   "at": "2026-09-14T17:57:34.178146+00:00"
+  },
+  {
+   "fp": "calls drop prices push rising slowdown stocks year yield",
+   "title": "AI stocks drop on calls for a slowdown as rising oil prices push the 10-year yield to 5%",
+   "source": "AP",
+   "at": "2026-09-14T17:57:35.951009+00:00"
+  },
+  {
+   "fp": "director election firing former having integrity missouri much secretary state sues",
+   "title": "Former Missouri election integrity director sues secretary of state after firing for having \u2018too much integrity\u2019",
+   "source": "Washington Examiner",
+   "at": "2026-09-14T17:57:37.847876+00:00"
+  },
+  {
+   "fp": "collins endorses maine manchin race senate",
+   "title": "Manchin endorses Collins in Maine Senate race",
+   "source": "The Hill",
+   "at": "2026-09-14T17:57:39.655984+00:00"
+  },
+  {
+   "fp": "bolsonaro brazil closes coin edge election flip inside knife lula",
+   "title": "\u2018A coin flip\u2019: inside Brazil\u2019s knife-edge election as Fl\u00e1vio Bolsonaro closes in on Lula",
+   "source": "Guardian World",
+   "at": "2026-09-14T17:57:42.137092+00:00"
+  },
+  {
+   "fp": "decline stocks surge touches treasury year yield",
+   "title": "Stocks Decline, 10-Year Treasury Yield Touches 5% Amid Oil Surge",
+   "source": "WSJ",
+   "at": "2026-09-14T17:57:43.924747+00:00"
   }
  ],
  "titles": [
-  "election fifa gianni infantino president scandal sell stand",
-  "about america august hard madness primary reset",
-  "back canadian groups helping testy tourism trade visitors want",
-  "beach california flooding hurricane labor marie mass seal sparks weekend",
-  "gaza israeli kills medics people strike",
-  "cape dead island least plunges ravine steep verde",
   "andy butcher collapses dies ring williams wrestler",
   "angeles earthquake hits overnight sunday",
   "agreement iran nuclear reach wright",
@@ -3603,6 +3597,12 @@
   "cleric dead gunmen iran iranian media senior shot southeast state sunni unidentified",
   "body dead door heatwave hospital left open propped public view",
   "attack early father freed jailed murderer",
-  "alaska deep diversity find glimpse nine scientists species sponge"
+  "alaska deep diversity find glimpse nine scientists species sponge",
+  "ahead bill critical crypto release republicans senate text vote",
+  "calls drop prices push rising slowdown stocks year yield",
+  "director election firing former having integrity missouri much secretary state sues",
+  "collins endorses maine manchin race senate",
+  "bolsonaro brazil closes coin edge election flip inside knife lula",
+  "decline stocks surge touches treasury year yield"
  ]
 }
