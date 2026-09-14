@@ -1,13 +1,5 @@
 {
  "ids": [
-  "CBMilgFBVV95cUxPYjh1azAyY1RaZDBNYlBwdmxheHZLd0gwT2NsLXlzNzZSWjZnWEtBYzBQbHNGRXhaTkFabkpJLThFc29mQnVwUTNJU29obTZTVDItbklsSEg0dGdoTm9tUmdBdzBBU0l2ZUExT0tRRXEyMWxMWlF0am9QOTdSNDZ5VkRZTEgzcHFWQjk0M3Z1ZFpTTThCUnc",
-  "https://news.sky.com/story/murder-arrest-after-man-found-dead-next-to-seriously-injured-child-in-northern-ireland-13578610",
-  "CBMiqAFBVV95cUxQR1NwTkhXU2w5YnIwdTFVRnVzZXQ2eFc5RGlkaGtxVGxweUh1ci00ekxtS3Nqa2VPU3JHZTJCZWxhakJ6UDdvZ3VhQkdsWURtaFg5WkRZNlo4SDNVMkNBYVlEbFlaUVJEWlBxdGNscndyM2VpQy1pQUVDUkJEdzhXbHZRRzROdHhNWi1FakVGZnhOTHNKd2ZBR0liSWczQ1FOYU1NSTdZaGU",
-  "https://www.theguardian.com/politics/2026/aug/29/james-cleverly-resigns-conservative-shadow-cabinet-london-mayor",
-  "https://www.foxnews.com/world/death-toll-mudslides-flooding-nepal-china-border-climbs-past-670-nearly-3000-missing",
-  "https://www.theguardian.com/us-news/2026/aug/29/michigan-senate-candidate-mike-rogers-osama-bin-laden",
-  "https://nypost.com/?post_type=article&p=40573917",
-  "CBMiywFBVV95cUxQeUNtSl8wSUhVN25USUY5OVJtUC1KdHd0UGUyUmMtb0VPNFFxaTY0Ymd0UUZGRU5xNngyYTRXNU5yQVdhbzRZSXpZNkNjTG5LQTgtMThuR01PN2xzcVBvUzBucXpNMl9rTlRyS2tQQ1JjOEFaWldtUFhTS0JjV0VqZFdtc0dfUmFkRjVtbVBMTjJXaVRhQzRWMVRpa21oLXBwUUtvVzlOdHZuOGhsT3BTa2ZwWUhZbWZQTTB0QkUwdWFFZXVOcVZ2RWVaVQ",
   "https://thehill.com/?p=6056562",
   "https://nypost.com/?post_type=article&p=40573934",
   "https://www.washingtonexaminer.com/?p=4705409",
@@ -799,51 +791,17 @@
   "CBMizgFBVV95cUxNM2FrdTNOUERBcDBKS0tGTDlUaXY2aElSVmNxVWFmSGtKUXhSMWxEZndCQTJ6aXcwVzFNeTNXakFGR0lNaG5Fb2Jsb1luM3F1UkRPRTlMYXhNNGp6SjJFNmd0VVhZd2sybm9vRzl0dFlTcDJmZVluSXZueFFpMTFveG9PTTh6NHpIeG5YMU5mNlVGb2xKdW1LaWpLdzFORlp3SXFDS0dNa19hWXRxR1RCUzd4bzNIWV9INjRvY2pQOC10T0ppSEdWSjVLUjFNUQ",
   "https://thehill.com/?p=6087544",
   "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-  "CBMiYkFVX3lxTFB1aDZFdTVFUm1wSUlEV0F2cGJ1RnRXZmU0d3B1bElhQzFESDU1cGZTZ3gzVU1kZk4zWm1EWTU2T0Q5dEdZMHAybWcySGtqVjdiWWVlV1hXT2hIaDByQ1FHek9n"
+  "CBMiYkFVX3lxTFB1aDZFdTVFUm1wSUlEV0F2cGJ1RnRXZmU0d3B1bElhQzFESDU1cGZTZ3gzVU1kZk4zWm1EWTU2T0Q5dEdZMHAybWcySGtqVjdiWWVlV1hXT2hIaDByQ1FHek9n",
+  "https://www.washingtonexaminer.com/?p=4725839",
+  "CBMiqwFBVV95cUxOeE5xdUNsUUxXZ3ByWXhWYV9aV0ZkRXB1NElaOTlaRXMtcXdPb2xXRGhpTlFMV0ctYnpYVVJqV1VDX25FemN2cnV2eXZNNDktcFdaNTNoT0plNjJOdWNHeHItTjR1cGcwZmRqbzBsWk1iTks4MGo4c09jblBGcW0zRFFzY0stUk1zME54YXdxdkRhMjNJelNkaTBPdE1fcHZQOW1lSmUwNmI0bE0",
+  "https://pagesix.com/?post_type=article&p=9172070",
+  "https://www.theguardian.com/uk-news/2026/sep/14/uk-armed-forces-member-killed-in-crash-ukraine",
+  "https://thehill.com/?p=6088200",
+  "CBMiyAFBVV95cUxPSXc0MkRtdlNRQUxNbjlDN3pHenA5cnEwdFBLU2ZPS3FBZDlpdXI4UDZ1WEZFQnZaemdZUVd6Q1JMOWNyc2s1QWZMU0YzWWVuSjl3V0hGS3BLTzFQWFZtalViVUZEcmduVElMUm0zU19oenVaUkdlRHAyUUF5TW9GelVoNlZyUktjV1FpQWNDbVRiOGdzNHg1X3JBNFRwZ0dDbGIyeWs2dWhVbERSVWJFYlhwLWtSSm00Z0ZIcDJtMXJ2U3dlY3pvZA",
+  "CBMijwFBVV95cUxPcFBBQXlRRGo2WmhocHNGVnI4c2JURzg4Yy1mQUNCR1ZQZndPUFRaeExGQ09MSXVjdHBhSkJ6MHRUTmtqOHUtMFpyR09SbWxDZEdWN29aR2NWQmo0VXFRVm1rSzN6amtkajFnR0EwQUhxQ01YMURRTHVGU2tsSTE4bEpDRGhrY0piZDRsMWpLMA",
+  "CBMingFBVV95cUxNajNGQWhPZUhzTDdRTVI3X29aMFdmWHpnQTNRYTBINTNPcFBBTTlzS2ZweVFpOEZ4QXp2c3lYWmdpNnZTRnlxTkdmVnBiTDBraHQ3UTczYXJ0ZGg2SFpFRjlGcnZKZmJCWWRMRzFqNWdIb1A5SUxJdXRmWHJacmJnZEhieVJ0ZC1GMFl4ZHZaMGN0Vl9pcUR1Y0tlemJOZw"
  ],
  "posts": [
-  {
-   "fp": "james paxton pours race senate super talarico texas trump",
-   "title": "Trump\u2019s super PAC pours $10M into Ken Paxton\u2019s Texas Senate race against James Talarico",
-   "source": "New York Post",
-   "at": "2026-09-06T10:22:00.071767+00:00"
-  },
-  {
-   "fp": "agency cape crash fogo island killed least verde",
-   "title": "At least 25 killed in bus crash on Cape Verde's Fogo island, agency says",
-   "source": "Reuters World",
-   "at": "2026-09-06T12:54:09.173921+00:00"
-  },
-  {
-   "fp": "cape deadly gangs mandela party taking town",
-   "title": "Cape Town is taking on deadly gangs... but Mandela\u2019s party is in its way",
-   "source": "Telegraph",
-   "at": "2026-09-06T12:54:10.928869+00:00"
-  },
-  {
-   "fp": "bill children fight killed mark safety saved should zuckerberg",
-   "title": "Mark Zuckerberg killed the bill that could have saved my son. He should fight for children\u2019s safety",
-   "source": "Washington Examiner",
-   "at": "2026-09-06T12:54:12.875864+00:00"
-  },
-  {
-   "fp": "commercial europe german launch orbit reaches rocket space",
-   "title": "German space rocket reaches orbit in Europe's first commercial launch",
-   "source": "Reuters",
-   "at": "2026-09-06T14:03:09.603148+00:00"
-  },
-  {
-   "fp": "2027 election fifa infantino march president seek",
-   "title": "President Infantino will seek re-election in March 2027, FIFA says",
-   "source": "Reuters World",
-   "at": "2026-09-06T15:00:21.867345+00:00"
-  },
-  {
-   "fp": "gulf iran linger mixed stocks tensions",
-   "title": "Gulf stocks end mixed as US-Iran tensions linger",
-   "source": "Reuters World",
-   "at": "2026-09-06T15:00:23.828566+00:00"
-  },
   {
    "fp": "bailouts cuts jaguar land minister reports rover thousands",
    "title": "No bailouts for Jaguar Land Rover amid reports of thousands of job cuts, says minister",
@@ -3197,20 +3155,55 @@
    "at": "2026-09-14T11:57:16.862604+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
+   "fp": "agreed ceasefire energy russia target trump ukraine",
+   "title": "Trump says Ukraine and Russia have agreed to energy target ceasefire",
+   "source": "Washington Examiner",
+   "at": "2026-09-14T16:45:45.276110+00:00"
+  },
+  {
+   "fp": "also china kill match thinks wants",
+   "title": "China Also Thinks AI Could Kill Us. But First, It Wants to Match the U.S.",
    "source": "WSJ",
-   "at": "2026-09-14T11:57:18.563784+00:00"
+   "at": "2026-09-14T16:45:47.215139+00:00"
+  },
+  {
+   "fp": "burnett carol cher dead designer diana iconic mackie ross worked",
+   "title": "Bob Mackie, iconic designer who worked with Cher, Carol Burnett and Diana Ross, dead at 87",
+   "source": "New York Post",
+   "at": "2026-09-14T16:45:48.987706+00:00"
+  },
+  {
+   "fp": "armed crash forces killed member ukraine",
+   "title": "UK armed forces member killed in crash in Ukraine",
+   "source": "Guardian World",
+   "at": "2026-09-14T16:45:50.815543+00:00"
+  },
+  {
+   "fp": "blanche charges covid emergency fraud live loans tied unveil vance watch",
+   "title": "Watch live: Vance, Blanche unveil fraud charges tied to COVID-era emergency loans",
+   "source": "The Hill",
+   "at": "2026-09-14T16:45:52.743842+00:00"
+  },
+  {
+   "fp": "cleric dead gunmen iran iranian media senior shot southeast state sunni unidentified",
+   "title": "Senior Sunni cleric shot dead by unidentified gunmen in southeast Iran - Iranian state media",
+   "source": "Reuters",
+   "at": "2026-09-14T16:45:54.571097+00:00"
+  },
+  {
+   "fp": "body dead door heatwave hospital left open propped public view",
+   "title": "Dead body left in public view after hospital propped door open in heatwave",
+   "source": "Telegraph",
+   "at": "2026-09-14T16:45:56.373077+00:00"
+  },
+  {
+   "fp": "attack early father freed jailed murderer",
+   "title": "Murderer freed early is jailed for attack on his father",
+   "source": "Telegraph",
+   "at": "2026-09-14T16:45:59.764419+00:00"
   }
  ],
  "titles": [
-  "james paxton pours race senate super talarico texas trump",
-  "agency cape crash fogo island killed least verde",
-  "cape deadly gangs mandela party taking town",
-  "bill children fight killed mark safety saved should zuckerberg",
-  "commercial europe german launch orbit reaches rocket space",
-  "2027 election fifa infantino march president seek",
-  "gulf iran linger mixed stocks tensions",
   "bailouts cuts jaguar land minister reports rover thousands",
   "election fifa gianni infantino president scandal sell stand",
   "about america august hard madness primary reset",
@@ -3603,6 +3596,13 @@
   "congress doomsday morning report risk suddenly threat waking",
   "congress faces fears frenzy loose monster",
   "bosses call development fall linked reckless slowdown stocks tech",
-  "edition journal print street wall"
+  "agreed ceasefire energy russia target trump ukraine",
+  "also china kill match thinks wants",
+  "burnett carol cher dead designer diana iconic mackie ross worked",
+  "armed crash forces killed member ukraine",
+  "blanche charges covid emergency fraud live loans tied unveil vance watch",
+  "cleric dead gunmen iran iranian media senior shot southeast state sunni unidentified",
+  "body dead door heatwave hospital left open propped public view",
+  "attack early father freed jailed murderer"
  ]
 }
