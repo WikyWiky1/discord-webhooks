@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40576601",
-  "CBMixgFBVV95cUxPQmlHWk9QRDdSRVVZVVR4UXdFaWthWkswNE5pVnRzZ3RzYW56TDBiSkRwM19UTF92YURMOVlZSDBpV1BLSzZfV3NoNFhnSUZjVVlQWms2SHQ2d0RheE9yR3VmQUl6U241ZEdzSldTZlNRelUtdXJaeGdLTW9YRUpoaXdQZG9VR2ZOcDNveVRFekxWMFpWZTZ4b0JpSFE4LWhXNms3UTNTX1VhdEYzTmlMa1lnWFBDZVVCT1BsNTQtQm13Z0ZxWlE",
-  "CBMixAFBVV95cUxNdTBYQkFmZmRqbzlRSTg4V2ZjLUo4ZHFKN0JQYWpHUTVmeFJQUnYtY05OZEdWNEtESi04Mk0tQVA1UWdjNDJmSFA3T1ZVTnBpRFV0WmRmTG9jLVdUeDAyZHNmY1VZNzhLUGZNb1VHc2VqM3B0WWpKaXZGRzFQUWFqazlLcG9ZeUhSaEVfdjRCNTNneTR5eTBjTWc1Ml9lZ0xtNy1SeVMzeThuaDZxVVZHblE1QVRUZFlhVkNzNGV6Z0Z5NWxR",
-  "CBMipwFBVV95cUxNVExIWW1kRXlDMzJSRlNJRE1Id0pSTmJUUUxzc09oUmlxQVdhb3hHbWRZcTdkRFJPOFlCS1daejVwai1mWVBmTHRuMTlEU0tZTGp2UlRKWDFmTGYwYVNsTUZBMmxIdlEyQ2ZCcnJDSVBiMzBqLUo5bmt5MGhYeTFvd3pCSXNfdHhmUWVnaHRpZ3FLbGpZb3ZyUklmVVZkNXRxYWxPNlE1aw",
   "CBMitwFBVV95cUxNS2VpLUNnZjlTT2VucDZLNWdOLXJ6WHVheVdDMGNGQVg5clBoTUgwZVdydW5nekszTFMzemt2WTdkN2R5T280ZmNrSjJ2YzctaUpFUzVuSEJ1Um8wdUdCVUViMVpBZ0MxZEZIN21Ub1NqdERYTm5vUF9iT01xMmI3dGNGdHFrSE9NWU5GdDVZN01HaU9yNC1uZUZOYmVJM3JWQXg1czkwaU56Vjh6a3ZtNVFNX1Y0R1U",
   "https://www.bbc.co.uk/news/articles/c9qr750je1go#0",
   "CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw",
@@ -799,33 +795,13 @@
   "https://www.washingtonexaminer.com/?p=4725926",
   "https://thehill.com/?p=6088483",
   "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais",
-  "CBMisgFBVV95cUxQcDRfbFRjWnI3M0VQaXg2cUsyT3d4ME5RUXFySks1MFlkbnBiWDMyYU1jcy1sT3g3VGJpbU5uWDNZVTF6VEFmcnAyTnZiTHhVUGtqVEh3clNYYjh5MUdIcUgxaE56N2JydmRhQ3FGQjhFTlFFcUF2TTZncHMwWFMtbDl5UXZuR1RwQmlqS1hSdFA4LUpyX3NxeEZJcE9zODJIS1J4XzRrVEVNZF96eWx6dTVB"
+  "CBMisgFBVV95cUxQcDRfbFRjWnI3M0VQaXg2cUsyT3d4ME5RUXFySks1MFlkbnBiWDMyYU1jcy1sT3g3VGJpbU5uWDNZVTF6VEFmcnAyTnZiTHhVUGtqVEh3clNYYjh5MUdIcUgxaE56N2JydmRhQ3FGQjhFTlFFcUF2TTZncHMwWFMtbDl5UXZuR1RwQmlqS1hSdFA4LUpyX3NxeEZJcE9zODJIS1J4XzRrVEVNZF96eWx6dTVB",
+  "https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania",
+  "CBMiwAFBVV95cUxOeDdvckhVQlJKZzN2eU90TEg3YU9vRmhZdTdjdkZ1cExSOUd4N09GVEktMTBVT012ZUdGWUdtc2JLaDdIWDJWWFdpUmlJU3pMVWt3MXR2bXRyUXlnSHJTVDJ2Vzg1bmx1ZFptX3ZoVmlMZS1EODlaM3FHbGFJTHFUM0I5YkE5WVRGcEs0UlNkZjdsdXhzdHF6dXFqbHV0bFFZRmRCNDF1WHpQOGZLeGJCdkJIRmNOa1Bzb1FKNU9fcGc",
+  "CBMihwFBVV95cUxOR0tkcjY4clJ2LVBZNnBiYy1QRFZ5WmxoRXp1Ym1HYlRMdTZsc0J4c0dvdWJpYzJ0aGh3Yy1wZ2xRRU9yRFVncGtPN0VRdi1LNFNfTEVpdkM3STBZRzhHcGRBVTg3VVhaNzV1RHVmVFNTb3Fqdlc4RlJZMWc2alhqeUYtWVdKOGM",
+  "https://www.washingtonexaminer.com/?p=4726416"
  ],
  "posts": [
-  {
-   "fp": "andy butcher collapses dies ring williams wrestler",
-   "title": "Pro-wrestler Andy \u2018The Butcher\u2019 Williams collapses in ring, dies at 48",
-   "source": "New York Post",
-   "at": "2026-09-06T15:55:39.182377+00:00"
-  },
-  {
-   "fp": "angeles earthquake hits overnight sunday",
-   "title": "Earthquake hits Los Angeles overnight Sunday",
-   "source": "New York Post",
-   "at": "2026-09-06T15:55:40.871489+00:00"
-  },
-  {
-   "fp": "agreement iran nuclear reach wright",
-   "title": "Wright: US 'may not' reach nuclear agreement with Iran",
-   "source": "The Hill",
-   "at": "2026-09-06T15:55:42.578340+00:00"
-  },
-  {
-   "fp": "building collapsed delhi dozens feared trapped",
-   "title": "Dozens feared trapped in collapsed building in Delhi",
-   "source": "BBC World",
-   "at": "2026-09-06T15:55:44.314424+00:00"
-  },
   {
    "fp": "bill california down fail lawmakers pass surprise twist watered wildfire",
    "title": "In Surprise Twist, California Lawmakers Fail to Pass Watered-Down Wildfire Bill",
@@ -3201,13 +3177,33 @@
    "title": "Stocks Decline, 10-Year Treasury Yield Touches 5% Amid Oil Surge",
    "source": "WSJ",
    "at": "2026-09-14T17:57:43.924747+00:00"
+  },
+  {
+   "fp": "administration changes counts deaths measles outbreak pennsylvania trump",
+   "title": "Trump administration changes how it counts measles deaths amid Pennsylvania outbreak",
+   "source": "Guardian World",
+   "at": "2026-09-14T20:42:46.249067+00:00"
+  },
+  {
+   "fp": "attack east export pipeline prices rise routes saudi threatens west",
+   "title": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes",
+   "source": "WSJ",
+   "at": "2026-09-14T20:42:48.057657+00:00"
+  },
+  {
+   "fp": "collapsed construction crane hospitalized miami officials people site",
+   "title": "Officials say 4 people were hospitalized after a crane collapsed at a Miami construction site",
+   "source": "AP",
+   "at": "2026-09-14T20:42:49.839072+00:00"
+  },
+  {
+   "fp": "concha democrats down industry kill slogan slow",
+   "title": "Democrats\u2019 \u2018AI could kill us all\u2019 slogan won\u2019t slow down industry: Joe Concha",
+   "source": "Washington Examiner",
+   "at": "2026-09-14T20:42:51.786369+00:00"
   }
  ],
  "titles": [
-  "andy butcher collapses dies ring williams wrestler",
-  "angeles earthquake hits overnight sunday",
-  "agreement iran nuclear reach wright",
-  "building collapsed delhi dozens feared trapped",
   "bill california down fail lawmakers pass surprise twist watered wildfire",
   "administration deal delayed iran next nuclear tehran until wright",
   "causes chaos crash driver head island kills labor long traffic wrong",
@@ -3603,6 +3599,10 @@
   "director election firing former having integrity missouri much secretary state sues",
   "collins endorses maine manchin race senate",
   "bolsonaro brazil closes coin edge election flip inside knife lula",
-  "decline stocks surge touches treasury year yield"
+  "decline stocks surge touches treasury year yield",
+  "administration changes counts deaths measles outbreak pennsylvania trump",
+  "attack east export pipeline prices rise routes saudi threatens west",
+  "collapsed construction crane hospitalized miami officials people site",
+  "concha democrats down industry kill slogan slow"
  ]
 }
