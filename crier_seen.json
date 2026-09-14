@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6056562",
   "https://nypost.com/?post_type=article&p=40573934",
   "https://www.washingtonexaminer.com/?p=4705409",
   "CBMi3gFBVV95cUxPMDZ0M25LQzd4Y0NlQUxmUERXTE9tWkNiZjRvdUdORjJYcVdQX3VmWXJQdFFQV1dVaElRLXV6Vmo0X0taNGJEU0xQV1dyYmxsWFU3c3FUME5FcGI5N3JYc2prYnpYM2xzS1JjdHdGald0QXZsYUZ1ZEdtRGg3ZHdkTGpMT0ZaV2J2U0JQLVI4Qk9MZ2RmNmhPcHpPdUZCckI4LU96TWVxcnJUbW1ROGlfWjRrYXpDZVFIVjNraWlLeUtpbEd0TXBJVzZOZGY4a1pJakdOZjJTaS1jLWF4RFE",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6088200",
   "CBMiyAFBVV95cUxPSXc0MkRtdlNRQUxNbjlDN3pHenA5cnEwdFBLU2ZPS3FBZDlpdXI4UDZ1WEZFQnZaemdZUVd6Q1JMOWNyc2s1QWZMU0YzWWVuSjl3V0hGS3BLTzFQWFZtalViVUZEcmduVElMUm0zU19oenVaUkdlRHAyUUF5TW9GelVoNlZyUktjV1FpQWNDbVRiOGdzNHg1X3JBNFRwZ0dDbGIyeWs2dWhVbERSVWJFYlhwLWtSSm00Z0ZIcDJtMXJ2U3dlY3pvZA",
   "CBMijwFBVV95cUxPcFBBQXlRRGo2WmhocHNGVnI4c2JURzg4Yy1mQUNCR1ZQZndPUFRaeExGQ09MSXVjdHBhSkJ6MHRUTmtqOHUtMFpyR09SbWxDZEdWN29aR2NWQmo0VXFRVm1rSzN6amtkajFnR0EwQUhxQ01YMURRTHVGU2tsSTE4bEpDRGhrY0piZDRsMWpLMA",
-  "CBMingFBVV95cUxNajNGQWhPZUhzTDdRTVI3X29aMFdmWHpnQTNRYTBINTNPcFBBTTlzS2ZweVFpOEZ4QXp2c3lYWmdpNnZTRnlxTkdmVnBiTDBraHQ3UTczYXJ0ZGg2SFpFRjlGcnZKZmJCWWRMRzFqNWdIb1A5SUxJdXRmWHJacmJnZEhieVJ0ZC1GMFl4ZHZaMGN0Vl9pcUR1Y0tlemJOZw"
+  "CBMingFBVV95cUxNajNGQWhPZUhzTDdRTVI3X29aMFdmWHpnQTNRYTBINTNPcFBBTTlzS2ZweVFpOEZ4QXp2c3lYWmdpNnZTRnlxTkdmVnBiTDBraHQ3UTczYXJ0ZGg2SFpFRjlGcnZKZmJCWWRMRzFqNWdIb1A5SUxJdXRmWHJacmJnZEhieVJ0ZC1GMFl4ZHZaMGN0Vl9pcUR1Y0tlemJOZw",
+  "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing"
  ],
  "posts": [
-  {
-   "fp": "bailouts cuts jaguar land minister reports rover thousands",
-   "title": "No bailouts for Jaguar Land Rover amid reports of thousands of job cuts, says minister",
-   "source": "Guardian World",
-   "at": "2026-09-06T15:00:25.735938+00:00"
-  },
   {
    "fp": "election fifa gianni infantino president scandal sell stand",
    "title": "Fifa president Gianni Infantino to stand for re-election after sell-off scandal",
@@ -3201,10 +3195,15 @@
    "title": "Murderer freed early is jailed for attack on his father",
    "source": "Telegraph",
    "at": "2026-09-14T16:45:59.764419+00:00"
+  },
+  {
+   "fp": "alaska deep diversity find glimpse nine scientists species sponge",
+   "title": "Scientists find nine new sponge species in glimpse of Alaska\u2019s deep-sea diversity",
+   "source": "Guardian World",
+   "at": "2026-09-14T16:54:12.446490+00:00"
   }
  ],
  "titles": [
-  "bailouts cuts jaguar land minister reports rover thousands",
   "election fifa gianni infantino president scandal sell stand",
   "about america august hard madness primary reset",
   "back canadian groups helping testy tourism trade visitors want",
@@ -3603,6 +3602,7 @@
   "blanche charges covid emergency fraud live loans tied unveil vance watch",
   "cleric dead gunmen iran iranian media senior shot southeast state sunni unidentified",
   "body dead door heatwave hospital left open propped public view",
-  "attack early father freed jailed murderer"
+  "attack early father freed jailed murderer",
+  "alaska deep diversity find glimpse nine scientists species sponge"
  ]
 }
