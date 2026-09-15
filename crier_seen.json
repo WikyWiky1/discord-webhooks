@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40583871",
-  "CBMiugFBVV95cUxNOEZiQmZKRnEwR0dLWDhRS3BJejh5REVwOVBSQlUtRW1FZHBFRmtPejlJcGFGMU1OT0E0NEhVMXIweFdTVmVsQVo3cGhUbWtDOVp3eWNLaVJ2cXNHTTRDdFBsWXpjRk14TlJHYVZhNXVPZ3VSRXpqZ05rQXdHNDZXdy1YeVNxVDBSMktqZ2VKeUtxRUstSEdaQ0FGMHFIdUF6S0l3NmQ3aUNaRDZNdEZzb0JMQ2ZYQi1YQ2c",
-  "CBMiqgFBVV95cUxOeFlpc0Q3UkFpOWJPOGdvaWlYN2JZdzlJN2ZURHZOMmV6Mm14bnVOaHhrVzBQZ21GN1VCWVl0czkycHN5ZGVyZUc2bm9YY3c5RGJqeFpNdDdHaTNMWkpmZ05mWlR1MjZ5Sl84clBReTUxZFJ2SkpYbDJ5aW1yTXVNX3pjWU1mTkRCNVQxQnRHT25tbzVmaV9rTHZyRGF6MF9nb1ZtVmcyb0t1UQ",
-  "https://nypost.com/?post_type=article&p=40585896",
   "CBMisAFBVV95cUxQdFVsaWJuRXg4VC12SlpXZnZoVXZ6X3pKQTRMbVJhTk9EMTNOdlJzb281RjJNNFl3UmpqRUxIMkdxVnZxV0c2S0RJeXQ4MTZzSUtLU0hqXzFLeUE3WkdPLXRTTnBRSm5OUWJxcklBZk1pdDlndU1xcUhPNXdnTmI0SHdnTU1tTGVJc0xxc19zN21wLUlDYlE3U0JLOGdNblJVcy1NUkV4bk1maFlDYzctVw",
   "https://nypost.com/?post_type=article&p=40583121",
   "https://thehill.com/?p=6060059",
@@ -799,33 +795,13 @@
   "https://www.washingtonexaminer.com/?p=4727591",
   "CBMimwFBVV95cUxONUloclV5WTB4VVNxb0dYYl9wMF9aQVBuRzdUbFV5b1F5clFfRVBNQjZxVTA5Z29qN1dkV1pwRm9MWnF3V3ByRnBXU01VTGtZakdNRUdLWHU5WjdMWmF1Vy1ESW1yX3JzdkR3em5vb2UxV2JZZ2NHenNQeGJ6UkVZMkcyWkFMYXc5VnBWTTNHd0VCbTJyVkpabW9kYw",
   "https://www.theguardian.com/business/2026/sep/15/uk-retailers-breaking-law-not-refunding-customers-returned-goods-which",
-  "https://www.theguardian.com/environment/2026/sep/15/indonesia-wildfires-threaten-leading-orangutan-research-site-borneo-cabang-panti"
+  "https://www.theguardian.com/environment/2026/sep/15/indonesia-wildfires-threaten-leading-orangutan-research-site-borneo-cabang-panti",
+  "https://nypost.com/?post_type=article&p=40829159",
+  "https://nypost.com/?post_type=article&p=40828047",
+  "https://www.washingtonexaminer.com/?p=4728300",
+  "https://thehill.com/?p=6091227"
  ],
  "posts": [
-  {
-   "fp": "empowered excuses hasan make media nominee piker senate",
-   "title": "The media make excuses for the Senate nominee who empowered Hasan Piker",
-   "source": "The Hill",
-   "at": "2026-09-07T11:42:58.027963+00:00"
-  },
-  {
-   "fp": "airstrikes israeli kill lebanon people southern village wound",
-   "title": "Israeli airstrikes on a village in southern Lebanon kill 9 people, wound 13",
-   "source": "AP",
-   "at": "2026-09-07T12:39:17.441654+00:00"
-  },
-  {
-   "fp": "airport crash dead election germany miami right state wins",
-   "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
-   "source": "NPR News",
-   "at": "2026-09-07T12:39:19.313509+00:00"
-  },
-  {
-   "fp": "floods holds kill least mourning nepal people",
-   "title": "Nepal holds a day of mourning after floods kill at least 1,300 people",
-   "source": "AP",
-   "at": "2026-09-07T12:39:21.011889+00:00"
-  },
   {
    "fp": "2023 data fall house lloyds november prices shows since time",
    "title": "UK house prices fall for first time since November 2023, Lloyds data shows",
@@ -3201,13 +3177,33 @@
    "title": "Indonesian wildfires threaten leading orangutan research site in Borneo",
    "source": "Guardian World",
    "at": "2026-09-15T17:25:51.513932+00:00"
+  },
+  {
+   "fp": "academy capture collapsed daughter funeral heartwrenching nypd photos police recruit tearful young",
+   "title": "Heartwrenching funeral photos capture tearful young daughter of NYPD recruit who collapsed during run at Police Academy",
+   "source": "New York Post",
+   "at": "2026-09-15T20:25:18.332108+00:00"
+  },
+  {
+   "fp": "chilling deepmind google kill quits researcher warning",
+   "title": "Google DeepMind researcher quits with chilling AI warning: It could \u2018kill us all\u2019",
+   "source": "New York Post",
+   "at": "2026-09-15T20:25:20.126212+00:00"
+  },
+  {
+   "fp": "charges eight hegseth impeachment massie pete read thomas",
+   "title": "Read Thomas Massie\u2019s eight impeachment charges against Pete Hegseth",
+   "source": "Washington Examiner",
+   "at": "2026-09-15T20:25:21.810051+00:00"
+  },
+  {
+   "fp": "asked blanche digenova dodges question resignation whether",
+   "title": "Blanche dodges question on whether he asked for DiGenova's resignation",
+   "source": "The Hill",
+   "at": "2026-09-15T20:25:23.743134+00:00"
   }
  ],
  "titles": [
-  "empowered excuses hasan make media nominee piker senate",
-  "airstrikes israeli kill lebanon people southern village wound",
-  "airport crash dead election germany miami right state wins",
-  "floods holds kill least mourning nepal people",
   "2023 data fall house lloyds november prices shows since time",
   "beneath centuries convent discovery field lost massive medieval reveals soccer",
   "candidate election german musk party right state thanks",
@@ -3603,6 +3599,10 @@
   "altered assassination attempt biden butler claims corrupted information trump",
   "arrested assault leader reform resigns wales",
   "breaking customers finds goods leading refunding retailers returned",
-  "borneo indonesian leading orangutan research site threaten wildfires"
+  "borneo indonesian leading orangutan research site threaten wildfires",
+  "academy capture collapsed daughter funeral heartwrenching nypd photos police recruit tearful young",
+  "chilling deepmind google kill quits researcher warning",
+  "charges eight hegseth impeachment massie pete read thomas",
+  "asked blanche digenova dodges question resignation whether"
  ]
 }
