@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40583393",
-  "https://nypost.com/?post_type=article&p=40584672",
-  "CBMinAFBVV95cUxPeWlzWHR1Sm52STN1RWRoY1dpTFhjaUZiWHlBdm1UaVRDTnUxb3pGSURlRDVxcm1rcmIzSWx1eS1YRGVzcjFuVDZtSjRzR3dSa1pFNTA1MjM4RmpvYXMzMzBjdEpRN3VVNFZrR3BkWDhUWmNqeGhOMmhReDNyYXZSOTJ4MzRyeGwyWDdEa3hvY2w4TENVRzdoRUh2TGs",
-  "CBMi3AFBVV95cUxQWmk4SG1MMEZIeXUxQlVKYnk0T1o0UEpJYW5OOXJYWUR1M09wTWNmWHY3RXNzbWFVTUFYcnduNDZGX0t1M1VqUEFycTlQRkQ2VVNrNEpjb2VCQkFyX3hLR3k0bVBpYm5OQnFKUWhJYW4tM2tvR1F2V1NHVnEwcmFMN2U5b09iWWwzcnZaclpaX21xUE9zMTh3WjVUaUhwdzZ4aDI2UmdpbUFQVENyME1lNFVmUzE1dVgyZUhQUWJuV1IxSjlhWDJFd0ZqbEkySkhsZXhsVV9Mc3VXSG5T",
-  "CBMipAFBVV95cUxPcGZlT2ktUGhpX2hYdG00bmxpRkFjSHdnS0NYZHFwNkxLX0ZBM3YyOGJyYkxnV1BzTEV1NEp2YTZtMVp0OXAybHBIaGhYZFZaSmtPSXVtVnNnaXo5NFdmamg0TUZTSGRCZVlScEVvRldxNTRIaTdxUU1oRzF2cXJqaXkySE01OGdlREhrc3I5NFZxZWFkTkIwTFNxYk9oUFBEcHRjYQ",
-  "CBMiiwFBVV95cUxQTDYxdXhHVE5MSXpwbE1FbFBLenUxSGpFWjNYU0x2QVg1TVhZcTRJTTgzdnZMUzRLWmt5TWVPWDRMWUlaNjMxSDRQYkR5QXpDN1BoNXZPYlpyQnpOWjJJekg2YzJZNHZPNDZEQlJ2M2t4Y2k2N0tfU1lOQlQ3UVBHeG1rM0MtbkRLNF9N",
   "CBMiuAFBVV95cUxORVQzSG1hcjZUa3F4dlBHbmczSFliQ3d6ZVgtWjl6RzgtYjE4cGtXNjhpRHhmU0pBb1FSQl9iUHN5b0FUZHFMX0JDSFNONERPQ0c0T2Z6ejBFWE9jUldMUU9sVzJKT1Z0R0JaWGFUaHZUdnNtcVEwclRIZ29vZnpqd1JJOHg1Qmx2cHZ0TVMtVEtjWEdNbE1kZDY4cGxUNlRxYkpsVm1UUnZ3RjE2Z3cwRlQ3WVRWU0hO",
   "https://www.washingtonexaminer.com/?p=4704966",
   "https://nypost.com/?post_type=article&p=40588814",
@@ -799,45 +793,15 @@
   "https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit",
   "CBMiogFBVV95cUxQeXdoSFh5N1BoSHFEVHJRVUVnRXpXV1ZaMG1aMHJnT3lFczVCZHU1Y2tuclFOVWtQangxbVVXZEpLc3p3MWZYc2ROZnpiaFlvcFhkbGI5dzhrMG44UUF0bnQ5am1GXzFwVkJFeUo3Qm5kNGcwM05tbGdpVi15QUtHSW9vXy1uTjgyLWpjVEEtaTA3Uml3VGJ2R2xmbzhqWlExMHc",
   "CBMiiAFBVV95cUxOSlVudVlJaVNXS1VsYmhrcERoX0RMS3hueWJDektSZXlfVW5YRUdUSm5HUS1WVElHUEc1SjgyOUhyQm5MSVpxOXFOVnFhUEVnZkdkenE0bDAtV29OS1lFNG5iZl9wTENjQUZkOURzeHV3LXRRejYySEZVM1pxcVI0WkcwTDIwTThK",
-  "https://nypost.com/?post_type=article&p=40832960"
+  "https://nypost.com/?post_type=article&p=40832960",
+  "https://thehill.com/?p=6091812",
+  "https://thehill.com/?p=6091791",
+  "https://www.washingtonexaminer.com/?p=4728714",
+  "CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA",
+  "https://www.theguardian.com/us-news/2026/sep/15/leon-black-epstein-house-contempt-vote",
+  "CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn"
  ],
  "posts": [
-  {
-   "fp": "arambur begun fatal federico former mart paris player rugby shooting trial",
-   "title": "Paris trial into the fatal shooting of former rugby player Federico Mart\u00edn Arambur\u00fa has begun",
-   "source": "AP",
-   "at": "2026-09-07T17:54:12.762333+00:00"
-  },
-  {
-   "fp": "been completed nuclear reactor syrian used weapons",
-   "title": "Syrian reactor could have been used for nuclear weapons if completed, UN says",
-   "source": "Guardian World",
-   "at": "2026-09-07T17:54:14.454822+00:00"
-  },
-  {
-   "fp": "attack jonah marlins mets persists tong topples",
-   "title": "Jonah Tong persists as Mets\u2019 16-hit attack topples Marlins in win",
-   "source": "New York Post",
-   "at": "2026-09-07T20:57:58.655432+00:00"
-  },
-  {
-   "fp": "amazon cargo dead feds landed late leaving miami probe safely stop whether",
-   "title": "Feds probe whether Amazon cargo jet landed too late to stop safely, leaving 5 dead in Miami",
-   "source": "New York Post",
-   "at": "2026-09-07T20:58:00.420159+00:00"
-  },
-  {
-   "fp": "commander former nato nuclear quieter russia submarines threaten warns",
-   "title": "Russia\u2019s quieter nuclear submarines threaten NATO, former commander warns",
-   "source": "Fox News World",
-   "at": "2026-09-07T20:58:02.399774+00:00"
-  },
-  {
-   "fp": "academy collapsing dies nypd police recruit suddenly tragically",
-   "title": "NYPD recruit tragically dies after suddenly collapsing at police academy",
-   "source": "New York Post",
-   "at": "2026-09-07T20:58:04.407765+00:00"
-  },
   {
    "fp": "airport amazon briefs cargo crash live miami ntsb plane press watch",
    "title": "WATCH LIVE: NTSB briefs press on Amazon Air cargo plane crash at Miami airport",
@@ -3201,15 +3165,45 @@
    "title": "Grandmother found dead with suspicious head wound on couch of NYC apartment",
    "source": "New York Post",
    "at": "2026-09-15T23:09:03.799249+00:00"
+  },
+  {
+   "fp": "debate favoritism michigan outlet rogers sayed senate skip toward",
+   "title": "Rogers set to skip Michigan Senate debate over outlet's 'favoritism' toward El-Sayed",
+   "source": "The Hill",
+   "at": "2026-09-15T23:25:47.899710+00:00"
+  },
+  {
+   "fp": "advance athlete bill college compensation regulate senate sports votes",
+   "title": "Senate votes to advance bill to regulate college sports, athlete compensation",
+   "source": "The Hill",
+   "at": "2026-09-15T23:25:49.667059+00:00"
+  },
+  {
+   "fp": "bill centrist defy democrats force leadership russia sanctions second time vote",
+   "title": "Centrist Democrats defy leadership for second time to force vote on Russia sanctions bill",
+   "source": "Washington Examiner",
+   "at": "2026-09-15T23:25:51.366268+00:00"
+  },
+  {
+   "fp": "allies aren congress gains push regulation trump unlikely",
+   "title": "The push for AI regulation gains unlikely allies. Trump and Congress aren\u2019t among them",
+   "source": "AP",
+   "at": "2026-09-15T23:25:53.148805+00:00"
+  },
+  {
+   "fp": "black committee congress contempt epstein held house inquiry leon recommends subpoenas",
+   "title": "House committee recommends Leon Black be held in contempt of Congress over Epstein inquiry subpoenas",
+   "source": "Guardian World",
+   "at": "2026-09-15T23:25:54.936845+00:00"
+  },
+  {
+   "fp": "benchmark breaches ends lower spikes street treasury wall yield",
+   "title": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
+   "source": "Reuters",
+   "at": "2026-09-15T23:25:56.735209+00:00"
   }
  ],
  "titles": [
-  "arambur begun fatal federico former mart paris player rugby shooting trial",
-  "been completed nuclear reactor syrian used weapons",
-  "attack jonah marlins mets persists tong topples",
-  "amazon cargo dead feds landed late leaving miami probe safely stop whether",
-  "commander former nato nuclear quieter russia submarines threaten warns",
-  "academy collapsing dies nypd police recruit suddenly tragically",
   "airport amazon briefs cargo crash live miami ntsb plane press watch",
   "amazon cargo cause crash federal five investigators killed search",
   "fall jobs report stocks",
@@ -3603,6 +3597,12 @@
   "bannon bernie call curbs human sanders steve summit",
   "back blocks cryptocurrency democrats investments push regulation senate trump",
   "budget cost iran office",
-  "apartment couch dead found grandmother head suspicious wound"
+  "apartment couch dead found grandmother head suspicious wound",
+  "debate favoritism michigan outlet rogers sayed senate skip toward",
+  "advance athlete bill college compensation regulate senate sports votes",
+  "bill centrist defy democrats force leadership russia sanctions second time vote",
+  "allies aren congress gains push regulation trump unlikely",
+  "black committee congress contempt epstein held house inquiry leon recommends subpoenas",
+  "benchmark breaches ends lower spikes street treasury wall yield"
  ]
 }
