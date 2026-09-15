@@ -1059,9 +1059,9 @@
    "message_id": "1549514897522692178",
    "event": "Severe Thunderstorm Warning",
    "area": "Butler, KS; Sedgwick, KS",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-09-15T20:19:00+00:00",
-   "expired_at": null
+   "expired_at": "2026-09-15T22:59:27+00:00"
   }
  ]
 }
