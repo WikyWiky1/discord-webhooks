@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4705499",
   "https://www.foxnews.com/world/uss-george-washington-captain-says-morale-high-new-mideast-mission",
   "https://www.bbc.co.uk/news/articles/c770jyd4l7lo#0",
   "https://nypost.com/?post_type=article&p=40582380",
@@ -799,15 +798,10 @@
   "CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA",
   "CBMiYkFVX3lxTE1Zc05HcF9ULUJERzBJRVAtTUx0VGhUOVNFTkpmd3I3eV9BX0NYMVVQeTBldmc5ajYxOXZsMU5iRGFhdEFmUENaQXZlUzY2ZUdVYmNjSHNraExBVVkxNHduZ2Fn",
   "CBMinAFBVV95cUxOV01GUmI4UWMzUkZyNWJkbnBucjJXZlo1anh0LW1LLUl0X0E1dFBUX3ZjOHJLZk5TcVFLTTRCQjNOYXJYRjhFOTBNdEc3OEIzd0tTLWtfVzY1NUVZWkFlQzNGeFgxbHY1TFBXcjRpNDlKVFZXU0poLTBtTmJWREh0UUttQ1RLYnpXU3hrZ3BIU09SM2tVcnd3d0V2dEo",
-  "https://www.washingtonexaminer.com/?p=4725273"
+  "https://www.washingtonexaminer.com/?p=4725273",
+  "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions"
  ],
  "posts": [
-  {
-   "fp": "bullet club doing inventory kills rips through wall worker",
-   "title": "Bullet rips through Sam\u2019s Club wall and kills worker doing inventory",
-   "source": "New York Post",
-   "at": "2026-09-06T23:26:41.651401+00:00"
-  },
   {
    "fp": "billion california cuts democrats fight liability panic planned spending wildfire",
    "title": "California Democrats panic as PG&E cuts $2 billion in planned spending over wildfire liability fight",
@@ -3201,10 +3195,15 @@
    "title": "Netanyahu lets journalists blame him for Oct. 7 \u2014 Iran kills citizens for honking horns. Guess who \u2018progressives\u2019 back?",
    "source": "Washington Examiner",
    "at": "2026-09-15T12:42:28.578274+00:00"
+  },
+  {
+   "fp": "engineers future labs missions nasa risks rushed space",
+   "title": "NASA rushed engineers out of their labs. They say it risks future space missions",
+   "source": "NPR Science",
+   "at": "2026-09-15T15:30:08.258370+00:00"
   }
  ],
  "titles": [
-  "bullet club doing inventory kills rips through wall worker",
   "billion california cuts democrats fight liability panic planned spending wildfire",
   "dead five miami overshoots people plane runway",
   "crash dead five least miami officials people plane",
@@ -3603,6 +3602,7 @@
   "benchmark beyond bond drives rattled selloff stocks",
   "buying calling keeps leaders slowdown street wall",
   "global lower mostly shares sink stocks street trade wall",
-  "back blame citizens guess honking horns iran journalists kills lets netanyahu progressives"
+  "back blame citizens guess honking horns iran journalists kills lets netanyahu progressives",
+  "engineers future labs missions nasa risks rushed space"
  ]
 }
