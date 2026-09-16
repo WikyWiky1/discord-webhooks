@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6062189",
-  "https://thehill.com/?p=6062022",
-  "https://www.washingtonexaminer.com/?p=4707168",
-  "https://www.foxnews.com/world/roughly-80-americans-still-unaccounted-after-himalayan-disaster-kills-903-officials-say",
-  "https://www.washingtonexaminer.com/?p=4707249",
   "https://www.theguardian.com/australia-news/2026/sep/01/man-shot-killed-glen-alpine-sydney-home-invasion-nsw-police-ntwnfb",
   "CBMipAFBVV95cUxNQ3oxRjcxVHpScnp6YnY4MUdXNTVYaWZmTXRZXzJ0RkU1N3dDTy1meElGQW8xeDdVZG0ySTN3WVFSOHcxVnRTQk5GeWZjMi1BM3RhTVNRV2hfaWNLOUVoTTlmaGlLbWg2Ymx2OEhueVlsUHRfRld3cEJjUzAwbm15b2QwT2o2eTZtUkQtbWJnUXIyWUpSaWlMMTF0TGJ6Z0p0YTJQMg",
   "CBMikgFBVV95cUxQelVDMjdEdlZZelFzaEhFeFJxRXpLVEFURnhuUkM4U0Y0SnFaZHhxdEhPa0llNEhERmlZT0pobnNBYmxuV3BQMlpUR0pkVExmeGVEU25SdGNuZDktT0NHUXgzNFFOX29fYThmT3VMem5uel8yajE1MDl4WGRMeEtSX0R3YzRKNjZLbXBkTDJDSU5DUQ",
@@ -799,39 +794,14 @@
   "CBMilgFBVV95cUxPa2t6dWdxN3FocnRRQjRfY0REUlZhMm1NdWw1WnRSTmRrVzJVU09uMUFCeXQ2QnBtRkM5Uy13QTRUSXU1R0xRbVlKY25PODczeVlZd2Z5QW03NXRQNGVwOWlEUUFNSDFORXl5YlEyVElBT1lqX0llRVlVQzVlQXdzdmRpdVA5V2plUGhMeE1vVWVGaGJKdUE",
   "https://thehill.com/?p=6091794",
   "https://thehill.com/?p=6092827",
-  "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa"
+  "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
+  "https://www.washingtonexaminer.com/?p=4729638",
+  "https://www.washingtonexaminer.com/?p=4729292",
+  "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo#0",
+  "CBMimAFBVV95cUxQV3lqZkMxREp6UW9yYVJuODAxQW96LXRiejVPakNpNXFxc2ZTWmItNEVhQW5UeWdaWTNlN19QaVRqOXh5T1hETXp3cW0td3Q4QU96UEIwQjNuSjE4ZkZLcDVFQmxTMDZLVVlMWHlqSmFIWjdBeE5BbHdUNWtIMS1Nemd5NzRJeWVuTzFTM2ZMRmpfaVhLWDVXbA",
+  "CBMikgFBVV95cUxQMVRMMTctbWVyZGhDanVqT0diOHdvcGtHRE91bTN6YUFDaE13Q1Q3S29LMC1UTWZ2ZlpnSzdnRVQ0RG1nbEdwREp5VXNqMzZtWE1kRm0xZzlDZUJ3UkhGWEtwYU1leVNVdU5XRlJmZU05c0RrYmxmSUxROVhHd0dZbkdVUko5M1pzQ1FvTUlHR2luUQ"
  ],
  "posts": [
-  {
-   "fp": "attack days hamas major netanyahu news operation report warned",
-   "title": "UAE warned Netanyahu of major Hamas operation days before Oct. 7 attack, news report says",
-   "source": "AP",
-   "at": "2026-09-08T14:53:35.541055+00:00"
-  },
-  {
-   "fp": "chaos exploit hijacking pirates regional return seas somalia",
-   "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
-   "source": "Guardian World",
-   "at": "2026-09-08T15:00:51.684770+00:00"
-  },
-  {
-   "fp": "fresh iran issues related sanctions shows treasury website",
-   "title": "US issues fresh Iran-related sanctions, Treasury website shows",
-   "source": "Reuters",
-   "at": "2026-09-08T16:05:16.293027+00:00"
-  },
-  {
-   "fp": "bank date farmers impact israeli sanctions settlers weigh west",
-   "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-   "source": "BBC World",
-   "at": "2026-09-08T16:05:18.378959+00:00"
-  },
-  {
-   "fp": "close consulate illegal israel jerusalem live politics sanctions settlements",
-   "title": "Israel to close UK consulate in Jerusalem after sanctions against illegal settlements \u2013 UK politics live",
-   "source": "Guardian World",
-   "at": "2026-09-08T16:05:20.099250+00:00"
-  },
   {
    "fp": "christian congress nationalism takeover",
    "title": "The Christian nationalism takeover of Congress",
@@ -3201,14 +3171,39 @@
    "title": "\u2018We are prey\u2019: discovery of seven women\u2019s bodies fuels anger over femicide in South Africa",
    "source": "Guardian World",
    "at": "2026-09-16T16:14:57.160259+00:00"
+  },
+  {
+   "fp": "articles hegseth impeachment johnson pete publicity slams stunt",
+   "title": "Johnson slams Pete Hegseth impeachment articles: \u2018It\u2019s a publicity stunt\u2019",
+   "source": "Washington Examiner",
+   "at": "2026-09-16T17:01:32.024320+00:00"
+  },
+  {
+   "fp": "help kill mandated regulate switch",
+   "title": "How a mandated \u2018kill switch\u2019 could help regulate AI",
+   "source": "Washington Examiner",
+   "at": "2026-09-16T17:01:33.870952+00:00"
+  },
+  {
+   "fp": "alleges charlie failures family kirk officials shooting stunning utah",
+   "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
+   "source": "BBC World",
+   "at": "2026-09-16T17:01:35.655504+00:00"
+  },
+  {
+   "fp": "building collapses conditions damaged gaza killing living perilous persist strikes",
+   "title": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist",
+   "source": "AP",
+   "at": "2026-09-16T17:01:37.503746+00:00"
+  },
+  {
+   "fp": "collision covering crashes helicopter killed news people telemundo",
+   "title": "3 people killed when NBC and Telemundo news helicopter crashes while covering LA bus collision",
+   "source": "AP",
+   "at": "2026-09-16T17:01:39.498292+00:00"
   }
  ],
  "titles": [
-  "attack days hamas major netanyahu news operation report warned",
-  "chaos exploit hijacking pirates regional return seas somalia",
-  "fresh iran issues related sanctions shows treasury website",
-  "bank date farmers impact israeli sanctions settlers weigh west",
-  "close consulate illegal israel jerusalem live politics sanctions settlements",
   "christian congress nationalism takeover",
   "2028 because election marco rubio thinks unwinnable",
   "challenges copper fears heights scales supply tariff",
@@ -3603,6 +3598,11 @@
   "cars election italy meloni nears road scraps",
   "abolish debate ends extended justify means senate",
   "claim come hoax republican senate threat trump",
-  "africa anger bodies discovery femicide fuels prey seven south women"
+  "africa anger bodies discovery femicide fuels prey seven south women",
+  "articles hegseth impeachment johnson pete publicity slams stunt",
+  "help kill mandated regulate switch",
+  "alleges charlie failures family kirk officials shooting stunning utah",
+  "building collapses conditions damaged gaza killing living perilous persist strikes",
+  "collision covering crashes helicopter killed news people telemundo"
  ]
 }
