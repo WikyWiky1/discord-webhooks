@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40596809",
   "https://www.washingtonexaminer.com/?p=4706890",
   "https://www.washingtonexaminer.com/?p=4706887",
   "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-flash-flood-phantom-ranch",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40833272",
   "https://www.theguardian.com/world/2026/sep/16/datacenters-pollution-electronics",
   "CBMiygFBVV95cUxPajdBSGppODJmQklfVWJDc0xQcGkzOHlBbEV1NnJ1TkNBZmtsWFN4NHhXN3JXLUNZZjdFUVZ2ZHVRLXRwRVBlNVpweUl4YVl1eWNqZ2NueEI5RURlVTQ5X04zV0xoMEtFRzdVS2liZElfYVR4WlNuTlIxWWVqUjNmLUpMQ3VHOHZvVGtXcHYxanNMSVFjU3I0TFpKcnhEMkowcVFpUTlMa1ZzRE9HTTJ4czlReUsxb09oU3ZQWjZiYlpBMXAxWG02UUhB",
-  "CBMipAFBVV95cUxNNkFPWXV5ejJIcnZYZEdJUHRDSVRIZk5Tbzd6SWlNSS1IOGc3MGVCMkNhdFZXU3RlcWxLa3ljMkt6M0hJWlpXSmlFQjU5cDV2S284bVN6ZXd3X2dEOWVhclRLVW5YT2tQRXFiMV96Q19HRDM1bGZhNzlJc0Rxak00eVVTRnN3SVU0aXY1Wm93QWtwN0dBdzU4V1RRZnlkczRva2NrYg"
+  "CBMipAFBVV95cUxNNkFPWXV5ejJIcnZYZEdJUHRDSVRIZk5Tbzd6SWlNSS1IOGc3MGVCMkNhdFZXU3RlcWxLa3ljMkt6M0hJWlpXSmlFQjU5cDV2S284bVN6ZXd3X2dEOWVhclRLVW5YT2tQRXFiMV96Q19HRDM1bGZhNzlJc0Rxak00eVVTRnN3SVU0aXY1Wm93QWtwN0dBdzU4V1RRZnlkczRva2NrYg",
+  "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics"
  ],
  "posts": [
-  {
-   "fp": "edinburgh hunt killed people police three woman",
-   "title": "Police hunt three people after woman killed in Edinburgh hit-and-run",
-   "source": "Telegraph",
-   "at": "2026-09-08T14:53:22.340563+00:00"
-  },
   {
    "fp": "dead former mcdonald mets seaver traded",
    "title": "Former Mets GM Joe McDonald, who traded Tom Seaver, dead at 97",
@@ -3201,10 +3195,15 @@
    "title": "Saudi Arabia calls attempted attack on Mecca a 'red line' as Iran-backed Houthis deny they did it",
    "source": "AP",
    "at": "2026-09-16T12:02:45.406417+00:00"
+  },
+  {
+   "fp": "brain cells disease ethicists human mice next offer study tool",
+   "title": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
+   "source": "NPR Science",
+   "at": "2026-09-16T15:22:33.191622+00:00"
   }
  ],
  "titles": [
-  "edinburgh hunt killed people police three woman",
   "dead former mcdonald mets seaver traded",
   "leave next nuclear opposition panic power yesterday",
   "arabia attack cities energy facilities houthis respond saudi vows",
@@ -3603,6 +3602,7 @@
   "anthropic babylon best boasts humanity kill openai",
   "create datacenter discarded electronics report rush tsunami",
   "building collapses damaged gaza inside killing people seeking shelter",
-  "arabia attack attempted backed calls deny houthis iran line mecca saudi"
+  "arabia attack attempted backed calls deny houthis iran line mecca saudi",
+  "brain cells disease ethicists human mice next offer study tool"
  ]
 }
