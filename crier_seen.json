@@ -1,11 +1,5 @@
 {
  "ids": [
-  "CBMilAFBVV95cUxNSG5GUjYteUdFY0RwSjFFeThUbEw0YnRXU0NSSGZBTnVGY0xMZGxjV2xTS3MtWVNaN0lVVmxMRDB2RHRCUFh2VHBQX3NwVkc0bXgxNGFIMjhBczR3cGZDMnlmalJGSVVYZXQ5TmdKSXNvSS1hWHFmWWZqZWRQMFJ3cDF4SzBIcWxfVU9Mb04xOGhUa2Np",
-  "CBMiowFBVV95cUxQNFlSQ3BWNkRSMFJZT3VhVWxPUnJTNHNnMHNKT3FJZERPOTlDXzJIdTZqV2hXYVc2QXJwU1dUSHVucXVpeV9wOGdFMkljRmo4ZDZEZ0wtYU5kUkZlRE9kVDZkMzRzejdYN0Q5VUNSendtdzNZZWptREUzNDlQU3ZhUHdDeXlMTjBUZHNTSWNpTnJ3WlAxOHN0NWIzMWhwRTFmNENV",
-  "CBMiwwFBVV95cUxPS1dvY08wWUVmMGNwR3hXbVR4anpDeXoxcndHakhnUzRqNk9Ub3ZqcEhsUUdHTTM3dGxuODQ4bXpNRGkxQjhyTmR5QkVFR2FKVTVaOEhwUi1PTTVSal9xZjd2ME4yUjhleFFSMUFHc1RmNVBUSjBtNUhpRndqb25sVi1HaDBmYmpyR0xFY1lKTVgyd2pSdlBJMEYtb1lMTTVkU2Vya1FjSjR3ZjZnQmlEbnlHeW1ZSmc5eURPTHFNSndsVEk",
-  "https://nypost.com/?post_type=article&p=40604599",
-  "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
-  "https://www.bbc.co.uk/news/articles/c1wxex4vg35o#0",
   "https://www.bbc.co.uk/news/articles/cx2zmdgry3do#0",
   "https://www.bbc.co.uk/news/articles/c2dw3wn972no#0",
   "https://www.foxnews.com/world/trump-says-iran-dead-experts-point-real-sign-tehran-nearing-brink",
@@ -799,45 +793,15 @@
   "CBMiqwFBVV95cUxPT1AxLWRXSFlmQVQxVklrZnNJMFBwNGIzYjdaRWlhUndZR3RVb3JXdmprUDZDOTFORU5Qa3RlZ3pwWGJKY1ZfNDRMNkNQZTlvTlhOVDNlUzQ0TGVUdEd2LWhkazlIRXhGUVNFOFc4RUViaGZocWJjTEJKMnp2a2w3d2Y0VGhjVmNDN2poSnZJanRxMjh1bGQ2QXNGMGFxREpZRlB5b2VmTG1wS0U",
   "https://thehill.com/?p=6093687",
   "CBMijAFBVV95cUxQUTV0MWN1N3V1UXd0eWU3bUVhQ0Z4REJ2eDJkalhtMHgwTkRZNU1SSkpmRWRIaHprV1VvX29qWWFiQzF5TGJnaWE2SkQtczhmRzUyNXhzSC1qSV9iNm4xUF9yU093aHYwTl96MXpCU1RWUU1VVDRPYnlSRUhPUEhPU1ZXN2xhSGM5Vkpjcw",
-  "CBMingFBVV95cUxPVlB2TmNqY1dILUtfRTFBQ0JPSk53elRnU1QzdmhIQ3VvTWlkelRTd3haWHJ4bmxiY2ZOcGhvd09wMTllVkVLQzk5NkdKZzNPeHpaZTRHQ242Ynd2Q1ZIUU50cUp1N2JYd1lCQndZQlhMUTZFekFZWWNueUxNbmRiUHdBZ2dWbDgzNlhmejZneHptaFhGbDI1M0JPbk8zZw"
+  "CBMingFBVV95cUxPVlB2TmNqY1dILUtfRTFBQ0JPSk53elRnU1QzdmhIQ3VvTWlkelRTd3haWHJ4bmxiY2ZOcGhvd09wMTllVkVLQzk5NkdKZzNPeHpaZTRHQ242Ynd2Q1ZIUU50cUp1N2JYd1lCQndZQlhMUTZFekFZWWNueUxNbmRiUHdBZ2dWbDgzNlhmejZneHptaFhGbDI1M0JPbk8zZw",
+  "https://nypost.com/?post_type=article&p=40849725",
+  "https://www.theguardian.com/australia-news/2026/sep/17/teenage-boys-charged-with-murder-university-student-ntwnfb",
+  "https://nypost.com/?post_type=article&p=40852042",
+  "https://nypost.com/?post_type=article&p=40846310",
+  "https://thehill.com/?p=6094142",
+  "CBMitgFBVV95cUxOT0ZnRDBfRTF4ZWMwT0J3U05MdzA5QUF5VTd2cHNaaU53dWd0MzBiN0Y2S3doRjh5QmFDV1ZXNml0Q2tyRVJLZDlKOHdDY0tDNVFZSkxxTWtleXdGb3B4LVpyZ2l5U2REWGQ0YzZaRndsZ3NLUHlFRTVXTFgtNmlGTjdQS2lwVld0ZmZTNFJ3NzB4MDNJU2ltTnZwMDdCbWp1VWZuX0F2LUFxWW50b2Y3OTdhZTZOQQ"
  ],
  "posts": [
-  {
-   "fp": "billion fall holtec kicks nuclear targets valuation window",
-   "title": "Holtec Nuclear targets $10.2 billion valuation in US IPO as fall window kicks off",
-   "source": "Reuters",
-   "at": "2026-09-08T18:13:44.130781+00:00"
-  },
-  {
-   "fp": "battle hampshire kicks nation open primary seats senate",
-   "title": "New Hampshire primary kicks off battle for one of nation's key open Senate seats",
-   "source": "Reuters",
-   "at": "2026-09-08T20:46:41.926614+00:00"
-  },
-  {
-   "fp": "backfire israel miliband sanctions",
-   "title": "How Miliband\u2019s Israel sanctions could backfire",
-   "source": "Telegraph",
-   "at": "2026-09-08T20:46:44.010001+00:00"
-  },
-  {
-   "fp": "keep prices rising street wall weigh",
-   "title": "Oil prices keep rising and weigh on Wall Street",
-   "source": "AP",
-   "at": "2026-09-08T20:46:45.699689+00:00"
-  },
-  {
-   "fp": "appeals court data rules sharing violated",
-   "title": "IRS\u2019s Data Sharing With ICE Violated Law, Appeals Court Rules",
-   "source": "WSJ",
-   "at": "2026-09-08T20:46:47.405653+00:00"
-  },
-  {
-   "fp": "ballon gets haaland kane messi nomination shortlist vozinha yashin",
-   "title": "Kane, Haaland, Messi on Ballon d'Or shortlist, Vozinha gets Yashin nomination",
-   "source": "Reuters",
-   "at": "2026-09-08T20:46:49.128778+00:00"
-  },
   {
    "fp": "chief endanger jews miliband rabbi sanctions",
    "title": "Chief Rabbi: Miliband\u2019s sanctions will endanger Jews",
@@ -3201,15 +3165,45 @@
    "title": "Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut",
    "source": "AP",
    "at": "2026-09-16T20:55:58.217522+00:00"
+  },
+  {
+   "fp": "chopper deadly decision famed five helicopter pilot reveals second tragedy",
+   "title": "Famed LA helicopter pilot reveals five-second decision that may have led to deadly NBC chopper tragedy",
+   "source": "New York Post",
+   "at": "2026-09-16T22:58:18.377065+00:00"
+  },
+  {
+   "fp": "alleged boys charged death identity mistaken murder shooting student sydney teenage",
+   "title": "Two teenage boys charged with murder after alleged mistaken identity shooting death of Sydney student",
+   "source": "Guardian World",
+   "at": "2026-09-16T22:58:19.961570+00:00"
+  },
+  {
+   "fp": "bangs california couple daughter dead found heard home loud neighbors year",
+   "title": "Couple and 11-year-old daughter found dead in $1M California home after neighbors heard \u2018loud bangs\u2019",
+   "source": "New York Post",
+   "at": "2026-09-16T22:58:21.821703+00:00"
+  },
+  {
+   "fp": "brooklyn cats coward elephant enough kills poison racoons take",
+   "title": "Brooklyn coward kills 18 cats, 3 racoons with enough poison to \u2018take out an elephant\u2019",
+   "source": "New York Post",
+   "at": "2026-09-16T22:58:23.505635+00:00"
+  },
+  {
+   "fp": "clash floor kill republicans senate switch",
+   "title": "Republicans clash on Senate floor over AI kill switch",
+   "source": "The Hill",
+   "at": "2026-09-16T22:58:25.211067+00:00"
+  },
+  {
+   "fp": "early hegseth house impeachment johnson massie pushes recesses speaker thomas",
+   "title": "Speaker Johnson recesses the House early as Rep. Thomas Massie pushes Hegseth impeachment",
+   "source": "AP",
+   "at": "2026-09-16T22:58:27.011673+00:00"
   }
  ],
  "titles": [
-  "billion fall holtec kicks nuclear targets valuation window",
-  "battle hampshire kicks nation open primary seats senate",
-  "backfire israel miliband sanctions",
-  "keep prices rising street wall weigh",
-  "appeals court data rules sharing violated",
-  "ballon gets haaland kane messi nomination shortlist vozinha yashin",
   "chief endanger jews miliband rabbi sanctions",
   "chemical leak lockdown neighborhood socal",
   "beachfront dana destroyed force hurricane mansions point strike waves",
@@ -3603,6 +3597,12 @@
   "faces general nicole pick questions saphier senate stance surgeon trump vaccine",
   "black congress contempt epstein hold house interview leon moves",
   "centre election left sweden wins",
-  "defying demands federal hikes rate reserve time trump years"
+  "defying demands federal hikes rate reserve time trump years",
+  "chopper deadly decision famed five helicopter pilot reveals second tragedy",
+  "alleged boys charged death identity mistaken murder shooting student sydney teenage",
+  "bangs california couple daughter dead found heard home loud neighbors year",
+  "brooklyn cats coward elephant enough kills poison racoons take",
+  "clash floor kill republicans senate switch",
+  "early hegseth house impeachment johnson massie pushes recesses speaker thomas"
  ]
 }
