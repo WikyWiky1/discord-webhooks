@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cx2zmdgry3do#0",
-  "https://www.bbc.co.uk/news/articles/c2dw3wn972no#0",
-  "https://www.foxnews.com/world/trump-says-iran-dead-experts-point-real-sign-tehran-nearing-brink",
-  "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
-  "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
-  "CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc",
   "CBMiowFBVV95cUxQaENIRDN5eTk1UUZFcTN0SlVpS1V2TjRYakpqSUxKNlRZb3dIZ1BlZHlWeFRJSUJleERyMnJNc240LTNEYV8yMzRvZV80OUc3YW43czRELUFSSzRyZ2NOMmhsUFRVWFEyalBIT3daRTVLMkhsZVFKSU1kOG43TW9xWklFRlBqRDJ1eURESHkyQmlNeFVYcUViNWFBYzJvTUNrVExn",
   "CBMiYkFVX3lxTE1oTnRndlYxR1lDOC1YWlVFaVlCdzdqQmZkNFJoLTJ3R0ZpWVAwSHcxUXFHTXZNdWViN1ZQcGVrU3dXSW9PYU0wMWVVNS1Ndm9rNUwzUGhubEo3X0F0ZFdBd3J3",
   "CBMitgFBVV95cUxPaWZjU0g0TmRIVUt5RlNtTUIxLVBDZmJlS2ljODlldVpZSW9rVm1WeHJOcnU0ZHFOMTB0QlhoR1FXV1d0Q2N6MC1aek9NLWN5QmxvYmpCQjZmUGtqRkpZUmx6Qk42YkIxZzQzR3pnU3Q3eE5BZjdadVI5UThGSUZrZ0RSS0hlUjJSNmhEN3RUcWRQZzJHaUtrOWtLZUthRkxDenNDWVZ0Wk5RSTRsYjJhQjJTTkgxQQ",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=40852042",
   "https://nypost.com/?post_type=article&p=40846310",
   "https://thehill.com/?p=6094142",
-  "CBMitgFBVV95cUxOT0ZnRDBfRTF4ZWMwT0J3U05MdzA5QUF5VTd2cHNaaU53dWd0MzBiN0Y2S3doRjh5QmFDV1ZXNml0Q2tyRVJLZDlKOHdDY0tDNVFZSkxxTWtleXdGb3B4LVpyZ2l5U2REWGQ0YzZaRndsZ3NLUHlFRTVXTFgtNmlGTjdQS2lwVld0ZmZTNFJ3NzB4MDNJU2ltTnZwMDdCbWp1VWZuX0F2LUFxWW50b2Y3OTdhZTZOQQ"
+  "CBMitgFBVV95cUxOT0ZnRDBfRTF4ZWMwT0J3U05MdzA5QUF5VTd2cHNaaU53dWd0MzBiN0Y2S3doRjh5QmFDV1ZXNml0Q2tyRVJLZDlKOHdDY0tDNVFZSkxxTWtleXdGb3B4LVpyZ2l5U2REWGQ0YzZaRndsZ3NLUHlFRTVXTFgtNmlGTjdQS2lwVld0ZmZTNFJ3NzB4MDNJU2ltTnZwMDdCbWp1VWZuX0F2LUFxWW50b2Y3OTdhZTZOQQ",
+  "https://www.washingtonexaminer.com/?p=4728444",
+  "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
+  "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb",
+  "CBMivwFBVV95cUxQdGtKVXRwQXN1c3J1bnpHcXNvRzJEbE9DVEVqV3JOQWttNmNhbHR3ekdVNWhKY1VUSHVuUmZvLXJILXNXRWI1bWhpSnJNV1BqUGhESUl0dGFpUUJDVmtvTmZpeV9ZR3F3bUhJZGFfNllUdENsemJHd0xubFBzUy0yanFES0xxX0FPc1p4UHpNQnh6VU1NSmhwOHp1ZHdka0ItUGlKN0NlcE1Id2J1RjVpcUVZLVZlcFZ6bnd1R0FMVQ",
+  "CBMipwFBVV95cUxPQnh0S0FWVVRkVmxPNVBfeTlCSnlsSHBOM0VzZWRjYU5mSVNORWd1UnpBSmhFT2V6aktBMHc3V0lOVGpiUHlBUFFDV1RYRE1pYWFsNHgtd0xlZFcybFA3ODF3LVVFSzEyaUN6WmJtclE5ZEJUSUF6U0F1cUpWbWJndENiaTRuSEtaWU4yTEs0dmJ1b1I1a2UzMXpNRm5nWjUtZV95c09Lbw",
+  "https://nypost.com/?post_type=article&p=40849513"
  ],
  "posts": [
-  {
-   "fp": "chief endanger jews miliband rabbi sanctions",
-   "title": "Chief Rabbi: Miliband\u2019s sanctions will endanger Jews",
-   "source": "Telegraph",
-   "at": "2026-09-08T20:46:51.030993+00:00"
-  },
-  {
-   "fp": "chemical leak lockdown neighborhood socal",
-   "title": "SoCal neighborhood on lockdown after chemical leak",
-   "source": "New York Post",
-   "at": "2026-09-08T21:12:08.422056+00:00"
-  },
-  {
-   "fp": "beachfront dana destroyed force hurricane mansions point strike waves",
-   "title": "Dana Point beachfront mansions destroyed as hurricane-force waves strike",
-   "source": "New York Post",
-   "at": "2026-09-08T21:12:10.394055+00:00"
-  },
-  {
-   "fp": "fierce hawaii hurricane kauai knocks lowell power rains winds",
-   "title": "Hurricane Lowell\u2019s fierce winds and rains knocks out power on Hawaii\u2019s Kauai",
-   "source": "Guardian World",
-   "at": "2026-09-08T21:12:12.287908+00:00"
-  },
-  {
-   "fp": "endorses former james paxton race senate talarico texas",
-   "title": "Ken Paxton\u2019s former \u2018top cop\u2019 endorses James Talarico in Texas Senate race",
-   "source": "Washington Examiner",
-   "at": "2026-09-08T23:12:34.075236+00:00"
-  },
-  {
-   "fp": "case court declines exemption intervene religious supreme vaccine york",
-   "title": "Supreme Court declines to intervene in New York religious vaccine exemption case",
-   "source": "The Hill",
-   "at": "2026-09-08T23:12:35.975927+00:00"
-  },
   {
    "fp": "ahead blame denies dominates election israeli massacre netanyahu season warned",
    "title": "Netanyahu denies UAE warned him ahead of Oct. 7 as blame for massacre dominates Israeli election season",
@@ -3201,15 +3165,45 @@
    "title": "Speaker Johnson recesses the House early as Rep. Thomas Massie pushes Hegseth impeachment",
    "source": "AP",
    "at": "2026-09-16T22:58:27.011673+00:00"
+  },
+  {
+   "fp": "bill center costs data energy house households passes shield",
+   "title": "House passes bill to shield households from data center energy costs",
+   "source": "Washington Examiner",
+   "at": "2026-09-16T23:33:52.041233+00:00"
+  },
+  {
+   "fp": "blasts board claims decision federal hostile interest live made only political rate reasons reserve trump uptick",
+   "title": "Trump blasts interest rate uptick and claims \u2018hostile\u2019 Federal Reserve board made decision \u2018only for political reasons\u2019 \u2013 live",
+   "source": "Guardian World",
+   "at": "2026-09-16T23:33:54.022099+00:00"
+  },
+  {
+   "fp": "amelia australian brethren burke canavan church defends dubs earhart election greatest involvement joyce live politics show since",
+   "title": "Australian politics live: Joyce dubs Burke \u2018greatest no-show since Amelia Earhart\u2019; Canavan defends Brethren church election involvement",
+   "source": "Guardian World",
+   "at": "2026-09-16T23:33:55.936553+00:00"
+  },
+  {
+   "fp": "bill championed graham house late passes russia sanctions senator",
+   "title": "US House passes Russia sanctions bill championed by late Senator Graham",
+   "source": "Reuters",
+   "at": "2026-09-16T23:33:57.736049+00:00"
+  },
+  {
+   "fp": "approves bill house russia sanctions sending sweeping trump",
+   "title": "House approves sweeping Russia sanctions bill, sending it to Trump",
+   "source": "AP",
+   "at": "2026-09-16T23:33:59.615266+00:00"
+  },
+  {
+   "fp": "blakeman bruce budget cops hike nassau pitches",
+   "title": "Bruce Blakeman pitches Nassau budget with no tax hike, more cops",
+   "source": "New York Post",
+   "at": "2026-09-16T23:34:01.518475+00:00"
   }
  ],
  "titles": [
-  "chief endanger jews miliband rabbi sanctions",
-  "chemical leak lockdown neighborhood socal",
-  "beachfront dana destroyed force hurricane mansions point strike waves",
-  "fierce hawaii hurricane kauai knocks lowell power rains winds",
-  "endorses former james paxton race senate talarico texas",
-  "case court declines exemption intervene religious supreme vaccine york",
   "ahead blame denies dominates election israeli massacre netanyahu season warned",
   "near stellar stocks threatens",
   "facilities fall saudi stocks",
@@ -3603,6 +3597,12 @@
   "bangs california couple daughter dead found heard home loud neighbors year",
   "brooklyn cats coward elephant enough kills poison racoons take",
   "clash floor kill republicans senate switch",
-  "early hegseth house impeachment johnson massie pushes recesses speaker thomas"
+  "early hegseth house impeachment johnson massie pushes recesses speaker thomas",
+  "bill center costs data energy house households passes shield",
+  "blasts board claims decision federal hostile interest live made only political rate reasons reserve trump uptick",
+  "amelia australian brethren burke canavan church defends dubs earhart election greatest involvement joyce live politics show since",
+  "bill championed graham house late passes russia sanctions senator",
+  "approves bill house russia sanctions sending sweeping trump",
+  "blakeman bruce budget cops hike nassau pitches"
  ]
 }
