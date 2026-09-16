@@ -1068,9 +1068,9 @@
    "message_id": "1549666678068220057",
    "event": "Flood Warning",
    "area": "Butler, KS; Sedgwick, KS; Sumner, KS",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-09-16T06:22:07+00:00",
-   "expired_at": null
+   "expired_at": "2026-09-16T11:55:15+00:00"
   }
  ]
 }
