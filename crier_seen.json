@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6061278",
-  "https://nypost.com/?post_type=article&p=40591446",
-  "https://nypost.com/?post_type=article&p=40591076",
   "CBMilgFBVV95cUxNTVo4VEZXS3pPenl5TjZqdHlwWTlrZXkyX3NMM3BKakgzRWJaZTZQWkM3WFUtWlc1aDVCS2NVejlVM0xGNk1YbVhlNU5hc1hVNXMwVTFYaWo5bHREWDVFcTBCZFptUGhYM0xTQ3hTSU5nOGxwREtZMHB2dTk3TkxLWE5xb1YwX0RSdkhyTERPQll3dldkMlE",
   "CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc",
   "https://nypost.com/?post_type=article&p=40590683",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40836946",
   "CBMiVkFVX3lxTE9yQWhteHBPT1dVX2xSX3JCaUUtcC1KSHVjbWZBVXpNRWg4MnNZQ3dnTnZWTnFjd3R0YVRxdldKcDdxdjk5N2VuVjFUTDhhZERSanlVQjdB",
   "https://thehill.com/?p=6091263",
-  "CBMiwAFBVV95cUxOZlRsdXdHb2dDYTBpODY1eVIyc09aQkY5UjZpajFnaTFUZnIxeEM3cmNVVG14TEVaazRtaHpkRDd6bUhISzluUU9ZMW5VU1dFQkJ0aXZqZXB3cXdjd3NacmFELVAzRXlWNDZMeVNNVHVlX0hMVzNRWDlmV0lXUEh2d2tOR3pwT1VEVFJ5cURIZFdjb0p1bTlVY2dOWVRDSi1Yb29WU25TMldYeTJKMTl4aVd6cERhd0JjNVpkTkljaDI"
+  "CBMiwAFBVV95cUxOZlRsdXdHb2dDYTBpODY1eVIyc09aQkY5UjZpajFnaTFUZnIxeEM3cmNVVG14TEVaazRtaHpkRDd6bUhISzluUU9ZMW5VU1dFQkJ0aXZqZXB3cXdjd3NacmFELVAzRXlWNDZMeVNNVHVlX0hMVzNRWDlmV0lXUEh2d2tOR3pwT1VEVFJ5cURIZFdjb0p1bTlVY2dOWVRDSi1Yb29WU25TMldYeTJKMTl4aVd6cERhd0JjNVpkTkljaDI",
+  "https://nypost.com/?post_type=article&p=40837510",
+  "CBMipAFBVV95cUxPZFNDc1d1dC1Td3ZsVjlqaWliVGotZkNWelNzbkxoVkZDdEpxQ0tDVXYzVGFHUlJLY0FUaS1ldU1zNklNaWtHanlYYUpscFJ3X2JsZmpWNVpEcFlEZ0YtbkkwR3VDbkFwTjRscjZuLTNqZWxtVm1ESkE2SGtmVDdpcWZXcV9TTExVTEx4dnlBNWt1M0xhRFgyM0pNQmVTMGx2V002dg",
+  "https://nypost.com/?post_type=article&p=40837942"
  ],
  "posts": [
-  {
-   "fp": "amazon cargo crash devastating flight plane recorders recovered",
-   "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-   "source": "BBC World",
-   "at": "2026-09-07T23:18:26.054282+00:00"
-  },
-  {
-   "fp": "airport amazon chief crash deadly details devastation miami ntsb utter",
-   "title": "NTSB chief details \u2018utter devastation\u2019 in deadly Amazon Air crash at Miami airport",
-   "source": "Washington Examiner",
-   "at": "2026-09-07T23:18:27.994699+00:00"
-  },
-  {
-   "fp": "california crash dies leaving orphaned plane survivor teens",
-   "title": "Survivor of California plane crash dies \u2014 leaving two teens orphaned",
-   "source": "New York Post",
-   "at": "2026-09-07T23:18:29.738494+00:00"
-  },
   {
    "fp": "call centre chief corruption prosecutor resigns scandal ukraine",
    "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
@@ -3201,12 +3183,27 @@
    "title": "New Zealand parliament passes India trade deal, cutting tariffs on most exports",
    "source": "Reuters",
    "at": "2026-09-16T03:36:14.677286+00:00"
+  },
+  {
+   "fp": "board crash fiery helicopter killed longtime pilot reporter veteran victims",
+   "title": "Victims on board NBC helicopter ID\u2019d as longtime reporter, veteran pilot after fiery crash that killed 3",
+   "source": "New York Post",
+   "at": "2026-09-16T06:40:10.555745+00:00"
+  },
+  {
+   "fp": "breaking forcing hijabs primary pupils school wear",
+   "title": "Primary school forcing pupils to wear hijabs is \u2018breaking the law\u2019",
+   "source": "Telegraph",
+   "at": "2026-09-16T06:40:12.627998+00:00"
+  },
+  {
+   "fp": "assessment audio crash deadly grim helicopter offers pilot reviewing veteran",
+   "title": "Veteran TV helicopter pilot offers grim assessment of deadly NBC LA crash after reviewing audio",
+   "source": "New York Post",
+   "at": "2026-09-16T06:40:14.348564+00:00"
   }
  ],
  "titles": [
-  "amazon cargo crash devastating flight plane recorders recovered",
-  "airport amazon chief crash deadly details devastation miami ntsb utter",
-  "california crash dies leaving orphaned plane survivor teens",
   "call centre chief corruption prosecutor resigns scandal ukraine",
   "cash daughter emergency johnny medical postpones rosanne shows unexpected",
   "asia iran retaliation stocks surges warns waver",
@@ -3603,6 +3600,9 @@
   "appoint california elected fill governor hilton seat senate steve",
   "2026 archive journal news september street wall",
   "blue coons delaware face katz race senate solid",
-  "cutting deal exports india parliament passes tariffs trade zealand"
+  "cutting deal exports india parliament passes tariffs trade zealand",
+  "board crash fiery helicopter killed longtime pilot reporter veteran victims",
+  "breaking forcing hijabs primary pupils school wear",
+  "assessment audio crash deadly grim helicopter offers pilot reviewing veteran"
  ]
 }
