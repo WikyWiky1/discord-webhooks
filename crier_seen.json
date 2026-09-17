@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6062732",
-  "CBMioAFBVV95cUxQVXkxRl9lRU9YZm55bWJweE5fNWYtcG9uNHRiTFFGcWdUVW1lNlVxb1duUG00RDE4VFNGSXR0WHVvSEl5ekJKNV9oUkZGWnV5UGw2OFZNMG5KYXUzb01FZms5cExhdFFxVWhLWGZWY1RrSldLLW1oWk9jUjV6eWFzNWxKdmZ2YnVsaGNRNzBPMUtTMklJSmFBWWkybHJTU2pl",
-  "CBMiyAFBVV95cUxQa0lZNU9PT200a2JXbkZCT3pQUmNqeXdwek9XbC04c3hMZVJkTDIyMEtDbkYtMzBMbnBDdkJBekFsUV9oUklUV0l4TjdCd05QMncwSXFhMTJXT2lIbFh5X1A4VXd4QWpvcVlKeGNtRURGamUyTWZOLWRjYVNyZTJMeG1xcks5U0Z4Q3VJai1kQkxabmZ3OHdaclQ4UXRmQ0RsRG1MZDVLMTUwMjBEVnhfemx3d0c3RHdDRk5CYTJpSnhlNDdabEJPRg",
-  "CBMilgFBVV95cUxPUTBLa0QyeXFtbXJnNW42SkVOTXNONVFzUzBwTzByaVkyNGhjNVQ1ZWdJV3FDc19NR3llMnQzYUVEQjhNMW1kUWhBNkhSaU1La1gyRFBkOHRpZkZPeFlxalhHbzZlZzhqdGFvcFlJREJsVWZhOWtIX0hBTGFrbkN0Y1hZWUxMby14SGlSRWNQUnFrMmRkYnc",
   "https://nypost.com/?post_type=article&p=40607200",
   "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo#1",
   "https://www.washingtonexaminer.com/?p=4707663",
@@ -799,33 +795,13 @@
   "https://pagesix.com/?post_type=article&p=9180727",
   "https://nypost.com/?post_type=article&p=40851854",
   "https://www.theguardian.com/us-news/2026/sep/16/texas-georgia-executions",
-  "https://www.washingtonexaminer.com/?p=4730945"
+  "https://www.washingtonexaminer.com/?p=4730945",
+  "https://www.washingtonexaminer.com/?p=4731013",
+  "https://thehill.com/?p=6094443",
+  "CBMipAFBVV95cUxPbzhkTDFXU3poM1FabHZkbzNULWhJRDdtSVNuLUIxemdUZ1Y5dldzRTl4S0YzTmJLWE83N0ZsX08ya2V0ci16Zkt0c2NpNVBhbEZqcnNEeUtfQjNJRlVjb3hVVE5tN2ZGcWZzZThGRnlSVmoybnlBSzR5OTFIUTFmT2xrVGhVNDFxNFZyT3B3UkJWUEFDWU53WkFhSUhVem90akRDQw",
+  "CBMisgFBVV95cUxQWDZ0ZkI2a1psbXBpT2RZaHREUVNnaUFzazhVQTRYWjhXNHpUSjAwaEw4MEVLSm5oZVc3Y08xZ082OWljdDVUbEZBaUpDd0N0Z05JR0oxeDNHYm53aWUwWm05M09kdm82V0pZLUMyZVZIZmVoQVZIdkJkVVR1bzJEcVFqSS0xMVlxbDJXM3Q0eEVjSDcwT1JfMUpCTmVpdS16VzZaelNTSGs0cGl1bmVuaFBn"
  ],
  "posts": [
-  {
-   "fp": "agent attack california details exposing personal professors radical ready students urge",
-   "title": "Radical California professors urge students to \u2018get ready for war,\u2019 attack ICE agent \u2014 before exposing his personal details",
-   "source": "New York Post",
-   "at": "2026-09-08T23:25:02.555309+00:00"
-  },
-  {
-   "fp": "cargo cleaners crash killed miami plane used",
-   "title": "All 5 killed in Miami cargo jet crash were in a van used by plane cleaners",
-   "source": "AP",
-   "at": "2026-09-08T23:25:04.293019+00:00"
-  },
-  {
-   "fp": "crashes deadly following fraud illegal launching migrants report series tipline",
-   "title": "ICE launching tipline to report CDL fraud following series of deadly crashes by illegal migrants",
-   "source": "New York Post",
-   "at": "2026-09-09T01:29:11.427458+00:00"
-  },
-  {
-   "fp": "amazon career cargo crash deadly distressed exclaimed moments pilot reportedly wreck",
-   "title": "Distressed pilot of deadly Amazon cargo jet wreck reportedly exclaimed \u2018My career is over\u2019 moments after crash",
-   "source": "New York Post",
-   "at": "2026-09-09T01:29:13.092195+00:00"
-  },
   {
    "fp": "bering boat capsized clinging dead found side survivor teen",
    "title": "2 dead in Bering Sea as teen survivor found clinging to side of capsized boat",
@@ -3201,13 +3177,33 @@
    "title": "GOP AI \u2018kill switch\u2019 bill killed by Rand Paul",
    "source": "Washington Examiner",
    "at": "2026-09-17T01:06:54.192540+00:00"
+  },
+  {
+   "fp": "board defends hike hostile interest rate rips trump warsh",
+   "title": "Trump rips \u2018hostile\u2019 Fed board after interest rate hike but defends Warsh",
+   "source": "Washington Examiner",
+   "at": "2026-09-17T03:41:05.983762+00:00"
+  },
+  {
+   "fp": "credits election past rally record setting trump whatley wins",
+   "title": "Trump credits Whatley for GOP's past 'record setting' election wins in NC rally",
+   "source": "The Hill",
+   "at": "2026-09-17T03:41:07.727668+00:00"
+  },
+  {
+   "fp": "aggressive agrees election house russia sanctions since trump",
+   "title": "House agrees most aggressive sanctions on Russia since Trump\u2019s re-election",
+   "source": "Telegraph",
+   "at": "2026-09-17T03:41:09.490463+00:00"
+  },
+  {
+   "fp": "administration carolina contest double down north record senate trump whatley",
+   "title": "Trump and Whatley double down on the administration's record in North Carolina Senate contest",
+   "source": "AP",
+   "at": "2026-09-17T03:41:11.295078+00:00"
   }
  ],
  "titles": [
-  "agent attack california details exposing personal professors radical ready students urge",
-  "cargo cleaners crash killed miami plane used",
-  "crashes deadly following fraud illegal launching migrants report series tipline",
-  "amazon career cargo crash deadly distressed exclaimed moments pilot reportedly wreck",
   "bering boat capsized clinging dead found side survivor teen",
   "beyond canada here know tariffs trade trump widens",
   "alcohol banning canada dairy growing motorcycles products trade",
@@ -3603,6 +3599,10 @@
   "dead ever found voice winner",
   "adult burned diego police shooting store suspect torch tries",
   "execution fifth injection kills lethal state texas year",
-  "bill kill killed paul rand switch"
+  "bill kill killed paul rand switch",
+  "board defends hike hostile interest rate rips trump warsh",
+  "credits election past rally record setting trump whatley wins",
+  "aggressive agrees election house russia sanctions since trump",
+  "administration carolina contest double down north record senate trump whatley"
  ]
 }
