@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase",
-  "CBMiuwFBVV95cUxPNW1ldHZCdU9GenhqU1k3d0M5b2pYdml2MXl2UVZqNWpUUkhJN01hN1lTczFrZmItQXNnalE1RFN5a3c5YTZIdjBqMy01SU9PdW4zSzd5RHZTZk0ybmVlMzVRRVVvU3dSTC0wb2tUenJERXducXNiNGRIM2lCdWF5eTZTWDBhRXZTWmljRXV5VmFfck1WVzRETGg5VDNMYnZZQWxnbjg5LTdhMVNUTlVVd2pTcVhzWklSVk13",
-  "https://thehill.com/?p=6062462",
-  "https://www.washingtonexaminer.com/?p=4708253",
-  "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo#0",
   "https://nypost.com/?post_type=article&p=40612761",
   "https://nypost.com/?post_type=article&p=40614998",
   "CBMimgFBVV95cUxNLUtTMTg0U3B2RkpfQzV6V1lkTWtxZ3paRTk1OTFwYUdyd1pGS2ZFNWdUcy1MTGR1Y2p2T0QwcG4xbWV4VC1HdXhvdENSam5qUFV6ZkV1Q28yRzBpRWdPLVBaWTJpN2NZQkdiaC02Sk5QZDlpdzdYUG9HQWx2NTZTMkxMYXM0dUdnaUF1Y1p6SGRFY3pucnVSYVFn",
@@ -799,39 +794,14 @@
   "https://www.washingtonexaminer.com/?p=4731334",
   "https://thehill.com/?p=6095497",
   "CBMiswFBVV95cUxPeldsTHlCcnB3M2w2Rld4RVluS2Q0WFdRaVlCMTluMWc0WkhhLXJOM0JkSC1EQ3FNekMyOXRzMXEzTnpJRmJkZUFTVXE1Mklyanh2SUZVVTZSMHdIaTJsR19SY2dfc2M1TERFOUlKTWhXVk1wRjdjUnIxNlQ3WjhLYjdyM3ZTaGY3UnNacUFIYlhxRC1HR2FsQUdKR09OSmZHUVF4WkxIMzNqVXY3OHJhTVlvNA",
-  "CBMirwFBVV95cUxPWTZhczMzcDJoM1d6MDJwS0x4NnVqbElMSklWU1ZVem1FWkNuMFRDQ1FnVEhDVVJSSE1rRDktY29hVzZVaVJkS3J3dTRQR1BqeEs1Mk1UUEU4a0hyd3hyZnRzZk0zWE81V1ZYZ0hVWEwxNjBsRW5JUmItUFNmLU93NlItTWZhOXIxa2ZWcUxiV3paVFhsMUFGbm1Td3dqcDI0S3JfTDdCLVZMTl9YNUtV"
+  "CBMirwFBVV95cUxPWTZhczMzcDJoM1d6MDJwS0x4NnVqbElMSklWU1ZVem1FWkNuMFRDQ1FnVEhDVVJSSE1rRDktY29hVzZVaVJkS3J3dTRQR1BqeEs1Mk1UUEU4a0hyd3hyZnRzZk0zWE81V1ZYZ0hVWEwxNjBsRW5JUmItUFNmLU93NlItTWZhOXIxa2ZWcUxiV3paVFhsMUFGbm1Td3dqcDI0S3JfTDdCLVZMTl9YNUtV",
+  "https://nypost.com/?post_type=article&p=40859212",
+  "https://nypost.com/?post_type=article&p=40866664",
+  "https://nypost.com/?post_type=article&p=40866546",
+  "https://www.theguardian.com/us-news/2026/sep/17/oregon-jesse-calhoun-charged-killings",
+  "https://www.foxnews.com/world/fresh-activity-emerges-irans-deeply-buried-nuclear-site-trump-warns-iran-not-get-cute"
  ],
  "posts": [
-  {
-   "fp": "accuses anecdote attack lying newsom response trump",
-   "title": "Newsom accuses Trump of lying during his 9/11 attack response anecdote",
-   "source": "The Hill",
-   "at": "2026-09-09T15:42:32.036285+00:00"
-  },
-  {
-   "fp": "cage evacuation home malibu nicolas owned prompts reportedly sinkhole",
-   "title": "Sinkhole at Malibu home reportedly owned by Nicolas Cage prompts evacuation",
-   "source": "Guardian World",
-   "at": "2026-09-09T15:42:33.858709+00:00"
-  },
-  {
-   "fp": "chris election general liar negative pappas republicans senate",
-   "title": "Senate Republicans pin Chris Pappas as a \u2018liar\u2019 in first negative ad of general election",
-   "source": "Washington Examiner",
-   "at": "2026-09-09T16:00:07.393427+00:00"
-  },
-  {
-   "fp": "deadlocked michigan race rogers sayed senate survey",
-   "title": "Rogers, El-Sayed deadlocked in Michigan Senate race: Survey",
-   "source": "The Hill",
-   "at": "2026-09-09T16:00:09.173363+00:00"
-  },
-  {
-   "fp": "back burnham israel push sanctions trump",
-   "title": "Trump did not push back on Burnham\u2019s Israel sanctions",
-   "source": "Telegraph",
-   "at": "2026-09-09T16:00:10.879016+00:00"
-  },
   {
    "fp": "asset burnham electoral israeli sanctions sees settlements",
    "title": "Burnham sees sanctions against Israeli settlements as an electoral asset",
@@ -3201,14 +3171,39 @@
    "title": "Tokenized Stocks Get U.S. Regulator\u2019s Green Light to Come Ashore",
    "source": "WSJ",
    "at": "2026-09-17T16:21:25.423622+00:00"
+  },
+  {
+   "fp": "accused middle school shooting street teacher year",
+   "title": "Middle school\u2019s \u2018Teacher of the Year\u2019 accused of shooting two men in the street",
+   "source": "New York Post",
+   "at": "2026-09-17T19:37:51.589026+00:00"
+  },
+  {
+   "fp": "crash family fiery heartbreak helicopter killed public reporter shares since statement tragedy",
+   "title": "Family of NBC reporter killed in fiery helicopter crash shares heartbreak in first public statement since tragedy",
+   "source": "New York Post",
+   "at": "2026-09-17T19:37:53.263361+00:00"
+  },
+  {
+   "fp": "boat bridge dead gate golden hits injured rocks seriously under",
+   "title": "One dead, two seriously injured as boat hits rocks under Golden Gate Bridge",
+   "source": "New York Post",
+   "at": "2026-09-17T19:37:54.899585+00:00"
+  },
+  {
+   "fp": "accused connection death indicted killer oregon sixth woman",
+   "title": "Accused Oregon killer indicted in connection with death of sixth woman",
+   "source": "Guardian World",
+   "at": "2026-09-17T19:37:56.669625+00:00"
+  },
+  {
+   "fp": "activity buried cute deeply emerges fresh iran nuclear site trump warns",
+   "title": "Fresh activity emerges at Iran\u2019s deeply buried nuclear site as Trump warns Iran not to \u2018get cute\u2019",
+   "source": "Fox News World",
+   "at": "2026-09-17T19:37:58.352698+00:00"
   }
  ],
  "titles": [
-  "accuses anecdote attack lying newsom response trump",
-  "cage evacuation home malibu nicolas owned prompts reportedly sinkhole",
-  "chris election general liar negative pappas republicans senate",
-  "deadlocked michigan race rogers sayed senate survey",
-  "back burnham israel push sanctions trump",
   "asset burnham electoral israeli sanctions sees settlements",
   "above barrel escalates fall iran jump prices stocks street wall",
   "fearless loom market midterms shocks stock vulnerable",
@@ -3603,6 +3598,11 @@
   "bilateral china deals enforce house others pressure seeks tariff trade white",
   "aarp alaska contest peltola poll senate sullivan trails",
   "climb markets moves post retrace stocks",
-  "ashore come green light regulator stocks tokenized"
+  "ashore come green light regulator stocks tokenized",
+  "accused middle school shooting street teacher year",
+  "crash family fiery heartbreak helicopter killed public reporter shares since statement tragedy",
+  "boat bridge dead gate golden hits injured rocks seriously under",
+  "accused connection death indicted killer oregon sixth woman",
+  "activity buried cute deeply emerges fresh iran nuclear site trump warns"
  ]
 }
