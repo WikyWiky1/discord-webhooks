@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6041275",
-  "https://nypost.com/?post_type=article&p=40614732",
-  "https://www.washingtonexaminer.com/?p=4708539",
   "https://thehill.com/?p=6064658",
   "https://www.theguardian.com/us-news/2026/sep/01/dan-driscoll-resignation-hegseth",
   "https://nypost.com/?post_type=article&p=40618702",
@@ -799,27 +796,12 @@
   "CBMirgFBVV95cUxPdGlncW0zTjdUbEstT1lTWW5jemZSekdXX0dPQ1pEbnZQRmpkQUhRSnRONm5wd20tY0dreWVRamFIdU1icnZhaWE0am5OVFluMmI4WFNtRTNtR2tQWWkxUnE3RWZQelZFUXFzQVpFdkx2Rmx6bkxwc1dkT0Y0NkhQNUNZdWtocUlJcDRSR0xQWlhLQkkyTTd3SVRJQlk2Z0xFaGh6TXhHZUVMWk82Smc",
   "https://thehill.com/?p=6096824",
   "https://nypost.com/?post_type=article&p=40865362",
-  "CBMiugFBVV95cUxOd0dpUG1TcEl2NGx2R3BXeGxSaXhrUkJHdnB6clVuSnF0Z3FIMW90U2k3TE5keG9BYzJKbXJUOHRzVk9STTA3TjFpaXo4MExwdDd3dXVkUTkyMGJZM3REOFNYVzQ5U1ZPb0ZXT2tBWmtZVGxSTTZqWDFUWVhsMGRxZkFxelpZeDVsNzhWMzgyRVdBT1dIeWszalB4YnRpQm9NQkNJY2lLU3ZqMFowWFk0eWRIZVBaeXd4R2c"
+  "CBMiugFBVV95cUxOd0dpUG1TcEl2NGx2R3BXeGxSaXhrUkJHdnB6clVuSnF0Z3FIMW90U2k3TE5keG9BYzJKbXJUOHRzVk9STTA3TjFpaXo4MExwdDd3dXVkUTkyMGJZM3REOFNYVzQ5U1ZPb0ZXT2tBWmtZVGxSTTZqWDFUWVhsMGRxZkFxelpZeDVsNzhWMzgyRVdBT1dIeWszalB4YnRpQm9NQkNJY2lLU3ZqMFowWFk0eWRIZVBaeXd4R2c",
+  "https://thehill.com/?p=6097014",
+  "https://thehill.com/?p=6096884",
+  "CBMiowFBVV95cUxPaDhQS1NjaUc0ZHlncjlOZGlZQm8xM1RwY3FPbFplOUZFMnJMQWFiN2FLbTAyeUFXUlFic2duZUJqaFdPVUJXbVNTeWRsclFLMDZUWHlSMkpOY01kTXVBczFMd2tmRHAyb2o2cEt4MzdrbE04bm9BU2ltZjA2WWRMUERqRVM0R2FyMklvcjlUY2NfYlY5ZXBGT2doM3V2d2lsUEJB"
  ],
  "posts": [
-  {
-   "fp": "countries house israeli leads other quiet sanctions settler stays terrorists white",
-   "title": "White House stays quiet as UK leads 11 other countries with sanctions on Israeli \u2018settler terrorists\u2019",
-   "source": "Washington Examiner",
-   "at": "2026-09-09T20:31:00.950930+00:00"
-  },
-  {
-   "fp": "congress kash next patel testify week",
-   "title": "Kash Patel to testify before Congress next week",
-   "source": "The Hill",
-   "at": "2026-09-09T20:31:02.763085+00:00"
-  },
-  {
-   "fp": "blue chris courts democratic hampshire keep pappas seat senate socialist support",
-   "title": "Chris Pappas courts Democratic socialist support to keep New Hampshire Senate seat blue",
-   "source": "Washington Examiner",
-   "at": "2026-09-09T20:31:04.493214+00:00"
-  },
   {
    "fp": "apple called foldable including iphone latest lineup model unveils",
    "title": "New Apple CEO unveils latest iPhone lineup, including a foldable model called Duo",
@@ -3201,12 +3183,27 @@
    "title": "\u2018American Hostage\u2019 Review: Jon Hamm Plays Radio Host to a Kidnapping",
    "source": "WSJ",
    "at": "2026-09-17T22:24:58.442954+00:00"
+  },
+  {
+   "fp": "anti concerns event fans injury kennedy vaccine",
+   "title": "Kennedy fans vaccine injury concerns at anti-vaccine event",
+   "source": "The Hill",
+   "at": "2026-09-17T23:30:13.827899+00:00"
+  },
+  {
+   "fp": "anti friend group house vaccine white",
+   "title": "RFK Jr. says anti-vaccine group has a 'friend at the White House'",
+   "source": "The Hill",
+   "at": "2026-09-17T23:30:15.931125+00:00"
+  },
+  {
+   "fp": "biggest gains nasdaq post weeks",
+   "title": "The S&P 500 and Nasdaq Post Biggest Gains in Six Weeks",
+   "source": "WSJ",
+   "at": "2026-09-17T23:30:17.713457+00:00"
   }
  ],
  "titles": [
-  "countries house israeli leads other quiet sanctions settler stays terrorists white",
-  "congress kash next patel testify week",
-  "blue chris courts democratic hampshire keep pappas seat senate socialist support",
   "apple called foldable including iphone latest lineup model unveils",
   "apple center folding iphone stage takes unveils",
   "compliance council iran nuclear referred security",
@@ -3603,6 +3600,9 @@
   "ahead boosts brazil debt election eyes lula payments push relief welfare",
   "asks assistance clash emergency measles pennsylvania",
   "allegedly crash deadly drugs helicopter high killing metro slammed woman",
-  "american hamm host hostage kidnapping plays radio review"
+  "american hamm host hostage kidnapping plays radio review",
+  "anti concerns event fans injury kennedy vaccine",
+  "anti friend group house vaccine white",
+  "biggest gains nasdaq post weeks"
  ]
 }
