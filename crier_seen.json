@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4708581",
-  "https://thehill.com/?p=6064628",
-  "CBMirgFBVV95cUxPdlpGQ3FlMzUyZHVhZ0l3YnllVExLSV9ocF9TTzNVT0JlbEVCZldKX2U5dlZtSjVXSEN1NkMxVThhUjRQbGV2ZGpGb0FoMUtGMVZEemxsVGw0U3I3bFM5WnpCTFdvTTc2cnhsOHhXaHQ5eG54Q1pKMlA5b2xwVDZiZ3ZNQW1XNV9ESlhuZVNja1hPZU5pRDgzY2JDaGtodGtFV2NZMXZuWU5fS2VYZ3c",
   "https://thehill.com/?p=6041275",
   "https://nypost.com/?post_type=article&p=40614732",
   "https://www.washingtonexaminer.com/?p=4708539",
@@ -799,27 +796,12 @@
   "CBMikgFBVV95cUxQWjBFcjRLN3NaNmpvRkx5TFVsZ0h5YkpYVmh6V18xaVhiRDF0eVBDVFhjeTc3SmlOOVk1RTZveFozZVg1N1BlVWptZ0lNeG94SWhVNk5ha2JlcExLclZHQ3ctQVlRNktiOVJNbGVGVTZyWG4wRkRldF9wMjRmZncxNXdDMlBVRjNyZmVoZFljWU9CUQ",
   "https://www.washingtonexaminer.com/?p=4731983",
   "https://thehill.com/?p=6096398",
-  "CBMirgFBVV95cUxPdGlncW0zTjdUbEstT1lTWW5jemZSekdXX0dPQ1pEbnZQRmpkQUhRSnRONm5wd20tY0dreWVRamFIdU1icnZhaWE0am5OVFluMmI4WFNtRTNtR2tQWWkxUnE3RWZQelZFUXFzQVpFdkx2Rmx6bkxwc1dkT0Y0NkhQNUNZdWtocUlJcDRSR0xQWlhLQkkyTTd3SVRJQlk2Z0xFaGh6TXhHZUVMWk82Smc"
+  "CBMirgFBVV95cUxPdGlncW0zTjdUbEstT1lTWW5jemZSekdXX0dPQ1pEbnZQRmpkQUhRSnRONm5wd20tY0dreWVRamFIdU1icnZhaWE0am5OVFluMmI4WFNtRTNtR2tQWWkxUnE3RWZQelZFUXFzQVpFdkx2Rmx6bkxwc1dkT0Y0NkhQNUNZdWtocUlJcDRSR0xQWlhLQkkyTTd3SVRJQlk2Z0xFaGh6TXhHZUVMWk82Smc",
+  "https://thehill.com/?p=6096824",
+  "https://nypost.com/?post_type=article&p=40865362",
+  "CBMiugFBVV95cUxOd0dpUG1TcEl2NGx2R3BXeGxSaXhrUkJHdnB6clVuSnF0Z3FIMW90U2k3TE5keG9BYzJKbXJUOHRzVk9STTA3TjFpaXo4MExwdDd3dXVkUTkyMGJZM3REOFNYVzQ5U1ZPb0ZXT2tBWmtZVGxSTTZqWDFUWVhsMGRxZkFxelpZeDVsNzhWMzgyRVdBT1dIeWszalB4YnRpQm9NQkNJY2lLU3ZqMFowWFk0eWRIZVBaeXd4R2c"
  ],
  "posts": [
-  {
-   "fp": "abruptly department education head resigns special",
-   "title": "Special education head at Education Department abruptly resigns",
-   "source": "NPR News",
-   "at": "2026-09-09T18:59:33.362543+00:00"
-  },
-  {
-   "fp": "admin head resign smithsonian support threats trump",
-   "title": "Smithsonian head to resign after Trump admin threats to cut off support",
-   "source": "The Hill",
-   "at": "2026-09-09T18:59:35.042973+00:00"
-  },
-  {
-   "fp": "back driven journal lewandowski politically pushes report street wall",
-   "title": "Lewandowski pushes back on 'politically driven' Wall Street Journal report",
-   "source": "The Hill",
-   "at": "2026-09-09T20:30:59.242324+00:00"
-  },
   {
    "fp": "countries house israeli leads other quiet sanctions settler stays terrorists white",
    "title": "White House stays quiet as UK leads 11 other countries with sanctions on Israeli \u2018settler terrorists\u2019",
@@ -3201,12 +3183,27 @@
    "title": "Brazil's Lula boosts welfare payments, eyes new debt-relief push ahead of election",
    "source": "Reuters World",
    "at": "2026-09-17T20:59:29.178546+00:00"
+  },
+  {
+   "fp": "asks assistance clash emergency measles pennsylvania",
+   "title": "Pennsylvania asks CDC for emergency assistance amid RFK Jr. clash over measles",
+   "source": "The Hill",
+   "at": "2026-09-17T22:24:55.100187+00:00"
+  },
+  {
+   "fp": "allegedly crash deadly drugs helicopter high killing metro slammed woman",
+   "title": "Woman who slammed into LA Metro bus, killing 2 before deadly helicopter crash, was allegedly high on drugs",
+   "source": "New York Post",
+   "at": "2026-09-17T22:24:56.773550+00:00"
+  },
+  {
+   "fp": "american hamm host hostage kidnapping plays radio review",
+   "title": "\u2018American Hostage\u2019 Review: Jon Hamm Plays Radio Host to a Kidnapping",
+   "source": "WSJ",
+   "at": "2026-09-17T22:24:58.442954+00:00"
   }
  ],
  "titles": [
-  "abruptly department education head resigns special",
-  "admin head resign smithsonian support threats trump",
-  "back driven journal lewandowski politically pushes report street wall",
   "countries house israeli leads other quiet sanctions settler stays terrorists white",
   "congress kash next patel testify week",
   "blue chris courts democratic hampshire keep pappas seat senate socialist support",
@@ -3603,6 +3600,9 @@
   "ahead announces brazil election flagship increase lula payments welfare",
   "brics denies fell india jinping online overdrive rumors summit",
   "bill blocks center costs data democrat electricity house passed senate",
-  "ahead boosts brazil debt election eyes lula payments push relief welfare"
+  "ahead boosts brazil debt election eyes lula payments push relief welfare",
+  "asks assistance clash emergency measles pennsylvania",
+  "allegedly crash deadly drugs helicopter high killing metro slammed woman",
+  "american hamm host hostage kidnapping plays radio review"
  ]
 }
