@@ -1,15 +1,5 @@
 {
  "ids": [
-  "CBMirgFBVV95cUxQZEY5Z1hsMHdwMm1tT1QxU0JvSllPd1V0eFVXWTlTYlRHMHphTDFnbENycVpzeWcxUmFHZ3I3ZUhEdDNaYkJueWotd2h0ZUFySE9GUGthYzlfcFJxVzZiMlhGbXZSSDAwTlJiRlZEQXVCYks4UUUyVFdWSHItUDN0MDZLU1pKZzFFZ2l3X2dBVmVCNVpFRFFKS2lmNUxVeGdIcDBrbk90SDY1ZWNOM1E",
-  "CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw",
-  "CBMikAFBVV95cUxOSFU4SHdnZDYyX3lJNzFVWXpkZlRFQkM4MlBOX21NY3BCM3g5QXVOZ0RfNFNzVFlZLThoYTVtWW83bXNuVWk3NnYxS3JGZjBISVBtZF9kVE5SSk5KRWtFYXF3SldSXy1SU2RyM0xNdnFQcFAtYVJha3Ruc1JWN0VwT0ZjRzN1R0xLY0pSdXZOX2o",
-  "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
-  "CBMisgFBVV95cUxQY0dvaXJpTTBMYnMwa3BWRXNBLXJvWDhaSjhLMzMybld2OEdWVUljN3c1dDVOS2hfbndTcG9ZbmVlbHFHWXJBTFJnZE5YNW91Yy1XVGdadXlyQ29CbWRQT0J2bGxBWWZjblg2eGFXdXoxY255UDZtcUU5NS1sTWtCSVAxU2ptRkl4bjdnM2Z0aG9ZblNicEZoY01QZDgzMW9BdmJkdGVCbDYtdFgwY19iMFhn",
-  "https://nypost.com/?post_type=article&p=40611742",
-  "https://www.washingtonexaminer.com/?p=4708090",
-  "CBMivgFBVV95cUxOOXlqbHNRekhVbmlvR2JmZS1TazVKVGxRVFA4a0oxNjl4SHF1cUhaQmNqM1RySGlJYS1zUl9OYnBTOFRnb0JLTVdaZTJiN0ZQTDRqcHJmVVNaN21McWhUV0lTR19HWVF3LUc0d1dXVDJBaW9qYWpUeTRPVE9ETUVYS3FZenBqRWRHR2lGN1RRQzFYeEE2a3Mxb19GNlpObDVXZE8wSEx0UVpDTFlES3QxbjBaQlhkeTQ4OGR6NXFR",
-  "https://nypost.com/?post_type=article&p=40610534",
-  "https://nypost.com/?post_type=article&p=40611035",
   "https://thehill.com/?p=6063667",
   "https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms",
   "https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration",
@@ -799,69 +789,19 @@
   "CBMijwFBVV95cUxOQmk5STdRbWk1TXhDSGd0UjhZQWtoQU9FX1ZBSjU4SHQ4Ym5KV1F4Ynl5UGVkal9BbXBBamhOeGFyY0xtTzUxaXNzRzAtZjdBRERwY2JTLW9TU2tmWENIY3ZTX3Z5Vk1FLWhMVUl0bmFpaVIyQXZiQnI1dG5DN0xFbFlFMXpBdFFmSVV5dHdIYw",
   "https://thehill.com/?p=6094033",
   "https://nypost.com/?post_type=article&p=40856782",
-  "CBMikgFBVV95cUxQOVBNTThJNEVJaVhGN2VsV3VSQUx4ekwtVkVCblFFb1pjbWxqT19XUk9RX0RteVdWdXZ6UEFDMV9kOVhhMzJhSElRWE1JT3luRkJNQ2lwM1NRMjJYYzN1dEJINEhWLTZ3a3VFWnFsMHgzTkdLV0JfR2NBU2l6cTF1WFJjVEE4MUMyZU1tcEdSeWRjQQ"
+  "CBMikgFBVV95cUxQOVBNTThJNEVJaVhGN2VsV3VSQUx4ekwtVkVCblFFb1pjbWxqT19XUk9RX0RteVdWdXZ6UEFDMV9kOVhhMzJhSElRWE1JT3luRkJNQ2lwM1NRMjJYYzN1dEJINEhWLTZ3a3VFWnFsMHgzTkdLV0JfR2NBU2l6cTF1WFJjVEE4MUMyZU1tcEdSeWRjQQ",
+  "https://nypost.com/?post_type=article&p=40861246",
+  "https://www.washingtonexaminer.com/?p=4731554",
+  "CBMipAFBVV95cUxOeVg4T09kWkpmNnNZOWc0aWJ4bEw5RVdVYVlrU0JONmUzajR3VW1NMTdfdUgxbkhvVWlUbEdfVTZjMVNHOHdpOFVvWUFuYUQ0R20zenBsMEVVRkROazdDckZwRkx3RGN1c1QzU2l3MWY0Q0otM1h4Y084MllZT0pfNTlDa2pRWEE1UjI4My1KTHRtUUdCRHhjeHluZEZxOTJsMkN3Sw",
+  "https://thehill.com/?p=6095322",
+  "https://www.washingtonexaminer.com/?p=4728783",
+  "CBMiugFBVV95cUxOR040WVpTSC1HTG5WV0IwMzRWb2VMQmdJT1k3Ui1rVWlqV08xYkgzRzhBQ3lfUk4tSGNHWU54VXdhZnVfb1Rta3BVMnM5VUxGbUpRRnB6RXN1MmFXb1NEU1hTeW1uSnhKR25jVEdkNmNCYVBvblBFaU9Wc1dCdDNiQS1Xcm5FWkRqcG4yQm9DVTFHRE5TWWNhQzVqZEEwZ1Vtd3p1bktPQmptYVNKRmVXQ0g4M1Q1SHE1TWc",
+  "CBMipAFBVV95cUxQTlljY1Z6bkhtckJzX3o0Tno1Z2E0NjkwZVZNLU40RVBGaWZMdDBJSFFlWWJ0NTdhTElrY24zSW5vdnEyblRNNDd4ZWNuTzJ5NC03Wkg1RHE2VEV2SHVHQTJMZmdxbjduMlI1Y0lTQTFCYW9kQnZRRXhzS0lqZHJ4X2pHeWJudVJYbUI3bVp5SnI4dkl1WWpuSVRZVWdRSFlPdkw5cA",
+  "CBMilgFBVV95cUxPalVuVFgycG9Pb3YwMjUyakJsUXVlVmNrLWZ6aFNLVjN0ME0tMl9HbUkxYUhmdl9xSENfc0ZUcGdGYnRQMldMdU1fdnFwVzRjcm1pb3VNc3hPekctanpXazZPc0xDbVZDT3NFYzZCRHdUZWZGZzRTYUtUdGpvYjBfaEtnZEpSdnNyRVpRbW9tMHR5UDZQdGc",
+  "CBMisAFBVV95cUxOd3d4TzA5bGNMM1ZOUzA1VVFLQnJOSElocjlfNFBLY2NXRUg1VThkanZMcmE5c21ZdkRuRGtnY1dqZmhVbEFnRGhQbktlZFNqbmlmMFB1TVEtS0NvLWNqMlpEbFhsbDQ1Qk8ydXpRR2V0SVBqZHVEMjJVMFVIZXcxd2dXWWt1Qk1yUkhqYk9FaUpiQ3R4UGE4QzVUUjR5cS1nRGlmNDV4Z2ZWZmZsNU1sNg",
+  "https://thehill.com/?p=6095486"
  ],
  "posts": [
-  {
-   "fp": "back chief criticism defends israeli live miliband politics pushes rabbi sanctions settlements",
-   "title": "Miliband defends sanctions on Israeli settlements and pushes back against chief rabbi\u2019s criticism \u2013 UK politics live",
-   "source": "Guardian World",
-   "at": "2026-09-09T10:50:39.036855+00:00"
-  },
-  {
-   "fp": "attacks drop european fresh gulf stocks tops",
-   "title": "Oil tops $100, European stocks drop on fresh Gulf attacks",
-   "source": "Reuters",
-   "at": "2026-09-09T10:50:40.692105+00:00"
-  },
-  {
-   "fp": "answers bench buddy congress gormans needs",
-   "title": "Congress needs a \u2018buddy bench\u2019 \u2014 and answers for the Gormans",
-   "source": "Washington Examiner",
-   "at": "2026-09-09T10:50:43.117230+00:00"
-  },
-  {
-   "fp": "canada candidates escalation fight puts senate trump vice",
-   "title": "Trump\u2019s escalation of fight with Canada puts GOP Senate candidates in a vice",
-   "source": "The Hill",
-   "at": "2026-09-09T10:50:44.787729+00:00"
-  },
-  {
-   "fp": "control killed scaffolding smashes tesla",
-   "title": "One killed after out-of-control Tesla smashes into NYC scaffolding",
-   "source": "New York Post",
-   "at": "2026-09-09T11:49:12.432691+00:00"
-  },
-  {
-   "fp": "explosion hydroelectric injured plant seriously switzerland",
-   "title": "Two seriously injured in explosion at hydroelectric plant in Switzerland",
-   "source": "Reuters",
-   "at": "2026-09-09T11:49:14.219125+00:00"
-  },
-  {
-   "fp": "billion finland google infrastructure invest nuclear power",
-   "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland",
-   "source": "Reuters",
-   "at": "2026-09-09T11:49:16.198646+00:00"
-  },
-  {
-   "fp": "anyway attack couple destroys home hours marries russian ukrainian",
-   "title": "Hours after a Russian attack destroys their home, a Ukrainian couple marries anyway",
-   "source": "AP",
-   "at": "2026-09-09T11:49:17.852328+00:00"
-  },
-  {
-   "fp": "abruptly anthropic kill quits researcher warning",
-   "title": "Anthropic researcher abruptly quits, warning AI \u2018could kill us all\u2019",
-   "source": "New York Post",
-   "at": "2026-09-09T11:49:19.608189+00:00"
-  },
-  {
-   "fp": "amendment cameras dead flock letter making searches",
-   "title": "Flock cameras and TSA searches are making our 4th Amendment a dead letter",
-   "source": "The Hill",
-   "at": "2026-09-09T11:49:21.381997+00:00"
-  },
   {
    "fp": "border exchange killed moldova russia strikes ukraine",
    "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
@@ -3201,19 +3141,69 @@
    "title": "NASA spacecraft discovers a huge new crater on the moon",
    "source": "AP",
    "at": "2026-09-17T15:29:11.224915+00:00"
+  },
+  {
+   "fp": "court crash deadly driver helicopter hospitalized metro misses preceded remains tragedy",
+   "title": "Driver in deadly LA Metro crash that preceded NBC helicopter tragedy misses court as she remains hospitalized",
+   "source": "New York Post",
+   "at": "2026-09-17T15:59:29.997908+00:00"
+  },
+  {
+   "fp": "accused arrested minnesota officer shooting",
+   "title": "ICE officer accused of shooting man arrested in Minnesota",
+   "source": "Washington Examiner",
+   "at": "2026-09-17T15:59:31.624407+00:00"
+  },
+  {
+   "fp": "alps british crash killed millionaire plane swiss",
+   "title": "British millionaire killed in Swiss Alps plane crash",
+   "source": "Telegraph",
+   "at": "2026-09-17T15:59:33.537350+00:00"
+  },
+  {
+   "fp": "call center kennedy plaintiffs receivership resignations",
+   "title": "Kennedy Center plaintiffs call for resignations or receivership",
+   "source": "The Hill",
+   "at": "2026-09-17T15:59:35.346801+00:00"
+  },
+  {
+   "fp": "collapsing fourth independent july kept made sept",
+   "title": "July Fourth made us independent. Sept. 17 kept us from collapsing",
+   "source": "Washington Examiner",
+   "at": "2026-09-17T15:59:36.976040+00:00"
+  },
+  {
+   "fp": "agency asks deaths demands exclusive help measles outbreak pennsylvania recognize",
+   "title": "EXCLUSIVE: Pennsylvania asks for CDC help on measles outbreak, demands agency recognize measles deaths",
+   "source": "Reuters World",
+   "at": "2026-09-17T15:59:38.794126+00:00"
+  },
+  {
+   "fp": "belichick concludes conduct coordinator defensive football probe program resigns steve",
+   "title": "UNC defensive coordinator Steve Belichick resigns, probe into conduct in football program concludes",
+   "source": "AP",
+   "at": "2026-09-17T15:59:40.493188+00:00"
+  },
+  {
+   "fp": "civil debris defense drone falling houthi intercepted kills saudi",
+   "title": "Saudi civil defense says falling debris from intercepted Houthi drone kills 1",
+   "source": "AP",
+   "at": "2026-09-17T15:59:42.231861+00:00"
+  },
+  {
+   "fp": "arabia debris developments drone houthi intercepted killed mideast other saudi",
+   "title": "Saudi Arabia says debris from an intercepted Houthi drone killed 1, and other Mideast developments",
+   "source": "AP",
+   "at": "2026-09-17T15:59:43.999894+00:00"
+  },
+  {
+   "fp": "connected grounded measles outbreak reality shapiro slams",
+   "title": "Shapiro slams RFK Jr. as not \u2018connected or grounded in reality\u2019 on measles outbreak",
+   "source": "The Hill",
+   "at": "2026-09-17T15:59:45.986687+00:00"
   }
  ],
  "titles": [
-  "back chief criticism defends israeli live miliband politics pushes rabbi sanctions settlements",
-  "attacks drop european fresh gulf stocks tops",
-  "answers bench buddy congress gormans needs",
-  "canada candidates escalation fight puts senate trump vice",
-  "control killed scaffolding smashes tesla",
-  "explosion hydroelectric injured plant seriously switzerland",
-  "billion finland google infrastructure invest nuclear power",
-  "anyway attack couple destroys home hours marries russian ukrainian",
-  "abruptly anthropic kill quits researcher warning",
-  "amendment cameras dead flock letter making searches",
   "border exchange killed moldova russia strikes ukraine",
   "beware commentary dolan economic financial global heatwave mike wildfires",
   "bangladesh fights fuel gaps measles outbreak spread vaccination world worst",
@@ -3603,6 +3593,16 @@
   "boom decaying keep nuclear stock",
   "avoiding exit hegseth house impeachment races vote",
   "300m attack florida frenzied hospital nurse patient room unleashes",
-  "crater discovers huge moon nasa spacecraft"
+  "crater discovers huge moon nasa spacecraft",
+  "court crash deadly driver helicopter hospitalized metro misses preceded remains tragedy",
+  "accused arrested minnesota officer shooting",
+  "alps british crash killed millionaire plane swiss",
+  "call center kennedy plaintiffs receivership resignations",
+  "collapsing fourth independent july kept made sept",
+  "agency asks deaths demands exclusive help measles outbreak pennsylvania recognize",
+  "belichick concludes conduct coordinator defensive football probe program resigns steve",
+  "civil debris defense drone falling houthi intercepted kills saudi",
+  "arabia debris developments drone houthi intercepted killed mideast other saudi",
+  "connected grounded measles outbreak reality shapiro slams"
  ]
 }
