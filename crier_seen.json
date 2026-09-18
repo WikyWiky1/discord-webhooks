@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40627904",
-  "https://nypost.com/?post_type=article&p=40633605",
-  "CBMipgFBVV95cUxPOGxSOFZ1V3RUS3F2RjA0NzFGV3llLVd2RW5zblZkQkxGMHMtUlJSMTBfeWRwSXp2RS1TSHZSTHJpcGZCT3F6ZEpCeU1xWklqM2tmb1VPNXByT2FHUExUdW01T1E3ZkpCQjFZakpHNXphUXdFc2huN1BvOXF0ZEJ5cUVCdWcwZ2dWY2VFdzdzNTZRUTVMNWZZNENvR1NSNkE3Tl8zSXRB",
-  "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran",
-  "https://thehill.com/?p=6067615",
-  "https://www.washingtonexaminer.com/?p=4710772",
   "https://thehill.com/?p=6067626",
   "CBMilgFBVV95cUxNYlk4Zy16MWpXSTlja2xjZnBqUG1fMjJkelNVT2FYXzNzUndMc0tJUjRBcWIzeVUwMEFfZEY5akw1b0tIZ1kteWI5eVZwVmUxYWFfUlJUYTJwZHVmaGh5czBaQzRSMi1nLVpqeEtEWUJxdEZvclpzeUlSMXpDM3hZcWVCRERkcTNwNWpzRExuc0hiWkU2UVE",
   "CBMijAFBVV95cUxQM0s1M1JrT1cyeExIUzRmNldHeTduY19wVWRGOUNYVGtwTElHYWtKYkVVLXE3NFY2UEFSSGJCV3NyakVyek14dDRDN1BpY1RnUVBBRjJ2VVFuc3RhV0tScVNlck5LMFRKWi1QSEptSnlJcWlGQTV2QU94U2lWVk1ReEdjS21IRjVqR2pwcA",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=40889674",
   "https://nypost.com/?post_type=article&p=40887854",
   "https://www.theguardian.com/us-news/2026/sep/18/wyoming-truck-driver-stabbing-attack",
-  "https://www.theguardian.com/us-news/2026/sep/18/louisiana-woman-charges-cats-found-dead"
+  "https://www.theguardian.com/us-news/2026/sep/18/louisiana-woman-charges-cats-found-dead",
+  "https://www.theguardian.com/us-news/2026/sep/18/trump-signs-russia-sanctions-bill",
+  "CBMilwFBVV95cUxQMy1YSDBpRC13X2s4bG9Gcnc2aU9DTzVvTWM3VzBfaG9udlpTNVRIZ3dhYWlNNExxZmtZNXlRQl95OS15Qm1iWDlSUnlmRy1PRG15dmVMTW1CMU8zODAtSDA0NlUydWg4X0F4R1FEeERLMmhIRThfN3ZaY0Q4TDhXbEhpOWZxRXBYOVhtSlBGY251WGVvOGhV",
+  "CBMiqAFBVV95cUxNWEtRUVNvYVIwTTZqQ3pmak0zd0NlNjZEcmxxQ3FUWTJKVUZjTHdjUmt1SThTNVFmZWl5OXVLUmljaWJoSFRQbU5qVnZDUjcyWEhJNk5yWjZDOTNzazlrenItWHdvODFNbE5Ka3ZoMGF4ZFRGcEFFeVhlWF8tWGZYYU1XWWttR3BuR0hmdF9iY0Z2WGQwbFJfV2lOT2FwSExyT21yUE80ZVM",
+  "https://thehill.com/?p=6098979",
+  "CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ",
+  "https://thehill.com/?p=6098859"
  ],
  "posts": [
-  {
-   "fp": "cargo china east fire kills shipyard vessel",
-   "title": "Cargo vessel fire at east China shipyard kills 25",
-   "source": "Reuters",
-   "at": "2026-09-10T15:37:46.821920+00:00"
-  },
-  {
-   "fp": "breaking english expect heat record summer vintage winemakers year",
-   "title": "English winemakers expect \u2018vintage year\u2019 after record-breaking summer heat",
-   "source": "Guardian World",
-   "at": "2026-09-10T15:37:48.559918+00:00"
-  },
-  {
-   "fp": "back climb drag lower prices street wall where",
-   "title": "Oil prices climb back to where they were in May and drag Wall Street lower",
-   "source": "AP",
-   "at": "2026-09-10T15:54:56.515982+00:00"
-  },
-  {
-   "fp": "bond climbs jump slide stocks yields",
-   "title": "U.S. Stocks Slide as Bond Yields Jump and Oil Climbs",
-   "source": "WSJ",
-   "at": "2026-09-10T15:54:58.272955+00:00"
-  },
-  {
-   "fp": "control ddhq democrats discussion forecast live senate shows",
-   "title": "Could Democrats win Senate control? What the DDHQ forecast shows: Live discussion",
-   "source": "The Hill",
-   "at": "2026-09-10T15:55:00.167254+00:00"
-  },
-  {
-   "fp": "agree china date early hopes reductions tariff",
-   "title": "China says it hopes to agree with the US on tariff reductions at \u2018an early date\u2019",
-   "source": "AP",
-   "at": "2026-09-10T15:55:02.046106+00:00"
-  },
   {
    "fp": "admit betting cheating conservative couple election gambling",
    "title": "Conservative couple admit cheating at gambling over election betting",
@@ -3201,15 +3165,45 @@
    "title": "Louisiana woman faces charges after 17 cats found dead in extreme-heat conditions",
    "source": "Guardian World",
    "at": "2026-09-18T22:36:45.556674+00:00"
+  },
+  {
+   "fp": "bill giving imposing levy power russia sanctions signs tariffs trump",
+   "title": "Trump signs bill imposing sanctions on Russia and giving him more power to levy tariffs",
+   "source": "Guardian World",
+   "at": "2026-09-18T23:02:38.675486+00:00"
+  },
+  {
+   "fp": "ends finish quiet street volatile wall week",
+   "title": "Wall Street Ends Volatile Week with Quiet Finish",
+   "source": "WSJ",
+   "at": "2026-09-18T23:02:40.394784+00:00"
+  },
+  {
+   "fp": "bill gives powers russia sanctions sweeping tariff trump",
+   "title": "Russia sanctions bill gives Trump sweeping new tariff powers",
+   "source": "Reuters",
+   "at": "2026-09-18T23:02:42.120829+00:00"
+  },
+  {
+   "fp": "congress policy watch",
+   "title": "Who to watch in Congress on AI policy",
+   "source": "The Hill",
+   "at": "2026-09-18T23:02:43.862677+00:00"
+  },
+  {
+   "fp": "advance nasdaq page tumultuous turning week",
+   "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week",
+   "source": "Reuters",
+   "at": "2026-09-18T23:02:45.644030+00:00"
+  },
+  {
+   "fp": "decision defend federal reserve senators",
+   "title": "GOP senators defend Federal Reserve's decision",
+   "source": "The Hill",
+   "at": "2026-09-18T23:02:47.533927+00:00"
   }
  ],
  "titles": [
-  "cargo china east fire kills shipyard vessel",
-  "breaking english expect heat record summer vintage winemakers year",
-  "back climb drag lower prices street wall where",
-  "bond climbs jump slide stocks yields",
-  "control ddhq democrats discussion forecast live senate shows",
-  "agree china date early hopes reductions tariff",
   "admit betting cheating conservative couple election gambling",
   "broccoli linked multistate outbreak salmonella sprouts",
   "aboard busy cargo chinese dead fire five injured leaves people port repairs ship undergoing",
@@ -3603,6 +3597,12 @@
   "collapse crews emergency evacuations hills hillside hollywood rush scene triggers",
   "gavin good kill newsom persuasion policy ridiculous switch",
   "attack driver harrowing rest sikh stabbing stop survives truck wyoming",
-  "cats charges conditions dead extreme faces found heat louisiana woman"
+  "cats charges conditions dead extreme faces found heat louisiana woman",
+  "bill giving imposing levy power russia sanctions signs tariffs trump",
+  "ends finish quiet street volatile wall week",
+  "bill gives powers russia sanctions sweeping tariff trump",
+  "congress policy watch",
+  "advance nasdaq page tumultuous turning week",
+  "decision defend federal reserve senators"
  ]
 }
