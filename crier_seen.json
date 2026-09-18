@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/sep/02/new-mexico-man-fatal-bear-attack",
-  "CBMimgFBVV95cUxPWWNTU3lIOXZZYUxDX25PV2NXWWIwTExzeXZsRjZOYUtSaTJCUTFnaW9JbGlIcHUtdlJ3dUsxYm90WDNhRVBXeENvdWNzc0RVSzhTeGtrLWFSZVRYeG8yWnlLcmIwcFZjWnFLOG9iT0RrbE9UcW02NVlBREItNUVFWUN2ejJON1RnRTAzSVB1YjBSLWstUnZRblh3",
-  "https://nypost.com/?post_type=article&p=40624015",
-  "https://nypost.com/?post_type=article&p=40625292",
-  "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding",
-  "CBMiigFBVV95cUxQTWwzMVlmSnJ6aExaaEQ3bHlOSG96VnFTZEhpVlZiaDU0X0FranlVQWhHS2xNT0NXU3oySEoyMXp1bXdSUW5OZzZ6bjRwQzJoTTJVZWxMVGdacnhnSXVWR09pajZzQ1NEU0JydG1DQ1RackZnQTl6UkVnbmROYjNQcTdyZXE3aVhhVXc",
   "CBMimwFBVV95cUxNRlh1SmNWYWRRMVhwNms0SXo0YlJkVTRobFM4WWl2c0h4QWhEYmo5a2YtUExuOE1JYm9rNVI2dnlZT25rdDFHR0VKUEd3TUlVendUYmZHQXdBb0ZrbWxtM1hTSTg2SlpyOTlYWUR4OWpsU3hYYXdGQ0w5Nm1GMW94YjRQeUxrcnYxX3U2LURqQ1BDRXdhZFBuT2paWQ",
   "CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k",
   "https://thehill.com/?p=6066299",
@@ -799,39 +793,15 @@
   "CBMiYkFVX3lxTE4zV3dMWFZiRVlyYTJvdXI0TmMyZUR2bHdJblltWjhxaXFZdDBPUDBCekVRVjl4bWt4cXptMXRJTnh0Z1puSlJSbzhKT2tzckRBTnZ3VHZScFNEQlJGdnRUMm1n",
   "CBMiogFBVV95cUxPU3dsdnJRQWxScXlCVmMyMzM1ZWpJMDdzdHpTUzE0SHlVUWd0RmZtREZlejZFaDRWYzUzVndPd2VZam82R2ZOellod1NMaDZBbFNyeG42eWVOZEhGcFhYa19BcXNPTVVveVZxNFFEdHJjbFJ0Nm9wRklzRV96RnNtdF9RTk9INXdDSXFSQ256N0FnUnZOMUdCM292RGNDRmVRUUE",
   "CBMilAFBVV95cUxOc2VsMHJiektCOFpBYUVsRFBRYVlMamd4NVJkSlcyaEN4RkxxcE43a05zVkhhSS1YNGZraE1OVXY2Q0loUERISzVsRmRrd2tyZ2dLalhVRGpSMm5LN1c3TjlFbHpQYXU4Y3I1QXFPNkUxZHBwM1g4N3ZsMm0weEcxT2plQVQyNFZibVJQWHRZU1lQWGRz",
-  "CBMipAFBVV95cUxQYmpZN1BubmloZjk4OVc1X0s3VHdZUVpna3Q5Z19rSmZ1Z014MlMwbmlQc0hPX3lONHVtLWptbjhGWEFESS01cDdWQy1HU2tVbFE2MnZMMERkVG9pcGJ3M3JoOEttSmFoTTU1bzZLSWppS2sxbm9fMGE5LVNjYVJvZnlhejRTZ3ItVXdVSGd6X1dBM1ZtclplUzhKQlpnRmJaZFBEdA"
+  "CBMipAFBVV95cUxQYmpZN1BubmloZjk4OVc1X0s3VHdZUVpna3Q5Z19rSmZ1Z014MlMwbmlQc0hPX3lONHVtLWptbjhGWEFESS01cDdWQy1HU2tVbFE2MnZMMERkVG9pcGJ3M3JoOEttSmFoTTU1bzZLSWppS2sxbm9fMGE5LVNjYVJvZnlhejRTZ3ItVXdVSGd6X1dBM1ZtclplUzhKQlpnRmJaZFBEdA",
+  "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo#0",
+  "CBMipwFBVV95cUxPakxLN3FoOXlpQjF3aU5VdWVLazQwVndTSUkxeWdWUEw5OW1MaVlWS3gyTjYzUEdlNzJGcHR1SkFJWVM5NkMtMFhtOEIyaGJ4VzUwcHd5dVhvbUxJbXdnbm9WNmtSSVZRYjdTcHZRUVBBQjJudmRuSTBCQnNLUEhvSGZyeEZGTzFvVTByOFBMQ1NlLTFDNWs3WHBIY2hnaUF6SWlqaFhadw",
+  "CBMiuAFBVV95cUxOeWFTVVo0WXlybUpxZXR0c2IxVGpQYy11OVplMlVTTnY3WUt4VXBoU0xxRkRSaGVFdVYzeVZxVFVLSjJJdW1rTjBfeXJaNU5ZaHBlZ3ZaT3FQbGtiMWt0UlVlSmZaa1Voc21JTVN3WkJjSGdES3lFSzZlM2g2Sm1RUlNWeFB4OEVad3hURHpMZkNjbUltamx2NjhuUV8zVWo3UHJEN1lGcXhqcjVOdmVTTmVBb1luSkh3",
+  "https://www.washingtonexaminer.com/?p=4733402",
+  "CBMirAFBVV95cUxPR2dvaUVUUnduTlNRc0hqNUdBaTRDMEkwa1pGdzFWdTZsOFQxU2tjS2pSVnlxdXNUcjhFS2RFQUVpX2tRdnJKUU1vd1ZISkZGX3Y4OWhIUk9Lb0RmNTdHeC1vZnpGT1lWeWFfV2NTeFFWbFI4UGRFMW96S3AxSmxVWDB1NEE5bUNJUXQyWFBKTmU0LUozbXkzZnNoODhaYlZDYUs4Z0dxR3ltX1VE",
+  "CBMirAFBVV95cUxNMU5jUWdYTlpEYUh1T3FHcUs5ay14MUprQzN2SDNfT0dyaF9ydUdLY1VvMHVuTlo2TE03aXhPaTJheHlGdnZnOWx2MFJCVmZWbjZScEo0LWpBNmRMMDlPd0JQMlplOUJkTmduY0d5ZzNvZjNKWl9KbVlGSGJiRC1Od1RtUHc2bUQ0TjVoekRkWnRfRVJKdnBFYjIzT0xfOW9IV200Vk1QN1FDRXQz"
  ],
  "posts": [
-  {
-   "fp": "bigwig budget client contract covid czar hochul raked report schmoozed state",
-   "title": "Hochul\u2019s ex-budget czar schmoozed with bigwig as his client raked in $11M in state COVID contract: report",
-   "source": "New York Post",
-   "at": "2026-09-10T10:44:21.159550+00:00"
-  },
-  {
-   "fp": "airline defying expanding favored iranian regime sanctions",
-   "title": "Iranian Airline Favored by the Regime Is Defying Sanctions and Expanding",
-   "source": "WSJ",
-   "at": "2026-09-10T10:44:22.931169+00:00"
-  },
-  {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-09-10T10:44:24.660613+00:00"
-  },
-  {
-   "fp": "angola blocks discovery enters exploration flags totalenergies",
-   "title": "TotalEnergies flags new oil discovery, enters two exploration blocks in Angola",
-   "source": "Reuters",
-   "at": "2026-09-10T10:44:26.454892+00:00"
-  },
-  {
-   "fp": "convicts court deterring hong journal kong publisher reporter role street taking union wall",
-   "title": "Hong Kong court convicts Wall Street Journal publisher of deterring reporter from taking union role",
-   "source": "AP",
-   "at": "2026-09-10T10:44:28.733269+00:00"
-  },
   {
    "fp": "backtracks controversial hopeful james mark missed senate statements talarico texas woke",
    "title": "Texas Senate hopeful James Talarico says he \u2018missed the mark\u2019 as he backtracks on controversial woke statements",
@@ -3179,12 +3149,6 @@
    "at": "2026-09-18T15:55:36.692640+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-09-18T15:55:38.453031+00:00"
-  },
-  {
    "fp": "15bn breathing budget burnham shrinks space",
    "title": "Burnham\u2019s Budget breathing space \u2018shrinks by \u00a315bn\u2019",
    "source": "Telegraph",
@@ -3201,14 +3165,45 @@
    "title": "JD Vance returns to Iowa as Senate and governor races heat up",
    "source": "AP",
    "at": "2026-09-18T15:55:43.769467+00:00"
+  },
+  {
+   "fp": "explosives killed least loaded mosque pakistan rams vehicle",
+   "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+   "source": "BBC World",
+   "at": "2026-09-18T17:50:45.558957+00:00"
+  },
+  {
+   "fp": "build fossil fuels must nuclear perilously remaining short time",
+   "title": "We must use the remaining fossil fuels to build nuclear. Time is perilously short",
+   "source": "Telegraph",
+   "at": "2026-09-18T17:50:47.407329+00:00"
+  },
+  {
+   "fp": "blame collapse official pins regulators report",
+   "title": "New Report on SVB Collapse Pins Blame on Fed\u2019s Own Regulators, Fed Official Says",
+   "source": "WSJ",
+   "at": "2026-09-18T17:50:49.078969+00:00"
+  },
+  {
+   "fp": "building emergency engraved filed institute motion name peace stop trump",
+   "title": "Emergency motion filed to stop Trump\u2019s name from being engraved on Institute of Peace building",
+   "source": "Washington Examiner",
+   "at": "2026-09-18T17:50:50.753589+00:00"
+  },
+  {
+   "fp": "2035 europe france nuclear plans plants small",
+   "title": "France's EDF plans 10 small nuclear plants in Europe by 2035",
+   "source": "Reuters",
+   "at": "2026-09-18T17:50:52.458325+00:00"
+  },
+  {
+   "fp": "anti claims dead fund government judge plans swayed weaponization",
+   "title": "Judge isn't swayed by government's claims that plans for an 'anti-weaponization fund' are dead",
+   "source": "AP",
+   "at": "2026-09-18T17:50:54.160923+00:00"
   }
  ],
  "titles": [
-  "bigwig budget client contract covid czar hochul raked report schmoozed state",
-  "airline defying expanding favored iranian regime sanctions",
-  "edition journal print street wall",
-  "angola blocks discovery enters exploration flags totalenergies",
-  "convicts court deterring hong journal kong publisher reporter role street taking union wall",
   "backtracks controversial hopeful james mark missed senate statements talarico texas woke",
   "cargo china dead eastern fire least media report ship state",
   "amazon coming crash deadly fast pilots warned",
@@ -3600,9 +3595,14 @@
   "century discovered species time",
   "alleged candidates claims election health nation rolls supporters underworld unfounded victorian",
   "campaigning close layups oughta races republican senate state",
-  "edition journal print street wall",
   "15bn breathing budget burnham shrinks space",
   "begins congress control early elections flip midterm voting",
-  "governor heat iowa races returns senate vance"
+  "governor heat iowa races returns senate vance",
+  "explosives killed least loaded mosque pakistan rams vehicle",
+  "build fossil fuels must nuclear perilously remaining short time",
+  "blame collapse official pins regulators report",
+  "building emergency engraved filed institute motion name peace stop trump",
+  "2035 europe france nuclear plans plants small",
+  "anti claims dead fund government judge plans swayed weaponization"
  ]
 }
