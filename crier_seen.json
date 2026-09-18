@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40620996",
-  "https://www.washingtonexaminer.com/?p=4709133",
-  "https://nypost.com/?post_type=article&p=40612739",
-  "https://www.washingtonexaminer.com/?p=4707896",
-  "https://thehill.com/?p=6064611",
-  "https://www.theguardian.com/business/2026/sep/02/range-rover-launches-first-electric-vehicle",
   "CBMiYkFVX3lxTFBFMXVIcDBYcTd3ckJsQTJfUS1HMUtOZnY0eFdVVXJxUUdwQV9hSzkzU2dUSFVnVjdQc05sQU9mcnR3aC1pNGFNQ3FWY0hOVDZJdlhqdkszQUxyS0gtSWk5T0JB",
   "CBMiugFBVV95cUxPRzFCdE02NmRoUGVHUmVoUTMtbzRyV1VkSkN4OTR6U2pudFdXdlFqbFVmMldMX2RPZWxOSklmY2JCV0IwSmdOU3ktNjVVNXRubXlTWV9HcUI1OWNTMklxUDFSUlpXV3NOdEk0YUhFRlFjMUx6X3lmTHo3S29UR2hLSkVpNE1TeEQxY3ZvOS1KTkJpU3ZmY21nT2hydFBDeEJIV00yakNZc0R5NzFVbXN3a3R0cXdiU0JveHc",
   "https://nypost.com/?post_type=article&p=40621988",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=40876187",
   "https://www.theguardian.com/australia-news/2026/sep/18/icac-labor-sharangan-maheswaran-david-elliot-message-jean-nassif-ntwnfb",
   "CBMitAFBVV95cUxNYXg3VDFXcFI3Mll5M2lSVFA0dG1Kb0xIWDVKekhucE9GQnpkMUlLTGpZc3ZncnZxelhuZzFteU92Z0lwZmJrTGV6bDZSV0FBUzFSZFloMDBWN01PRlNsNlJ5Ynk3eFFReVdZdHh1VDhWWG9oTHZkekpTOFZPMU1ualZSVzdHNFBWckw0LWZXNlRaNm1XVjluVUduZ2hraGg4SVFVUnoycHFlSFR3SjNpYmVyVEo",
-  "https://nypost.com/?post_type=article&p=40876011"
+  "https://nypost.com/?post_type=article&p=40876011",
+  "https://www.foxnews.com/world/voters-get-choose-just-not-result-russias-parliamentary-election-reaches-occupied-ukraine",
+  "CBMirgFBVV95cUxOYUFqYVVGeUo1RkFUYXVSZVNtWU5wU0ViN1c3eE90aEJ4dHduTjRhazI0VWpscUJzTXUwQkNzVzl0UC0xMnlVa0c3azRCTmtqbFc3bldOWjQxOWxkbDFMaTUxb1AyTVFRMm9wVGoxcFZ1RVJhSDYxX0FLYzFNNVF6VHY1NkR2WF82QmozeGFXaFh2cjdHSWJaY0tub3lybVJ4c1FfME41ZUdoSUFCeHc",
+  "https://www.washingtonexaminer.com/?p=4731662",
+  "https://www.washingtonexaminer.com/?p=4731827",
+  "https://thehill.com/?p=6096719",
+  "https://thehill.com/?p=6096875"
  ],
  "posts": [
-  {
-   "fp": "common convention coup democrat midterms praises sense trump",
-   "title": "\u2018Common sense\u2019 Democrat praises Trump in coup at midterms convention",
-   "source": "Telegraph",
-   "at": "2026-09-10T01:24:52.757915+00:00"
-  },
-  {
-   "fp": "allies boat drug killed latest rubio stop strike three trafficking work",
-   "title": "Rubio says US will work with allies to stop drug-trafficking as three killed in latest boat strike",
-   "source": "Guardian World",
-   "at": "2026-09-10T01:24:54.535079+00:00"
-  },
-  {
-   "fp": "activist attack claim counterterrorism hosting lawyer lefties marks mastermind racist ucla",
-   "title": "UCLA marks 9/11 by hosting attack mastermind\u2019s activist lawyer and lefties who claim counterterrorism is \u2018racist\u2019",
-   "source": "New York Post",
-   "at": "2026-09-10T01:24:56.393007+00:00"
-  },
-  {
-   "fp": "briefly delayed deploys emergency force slide soiree texas trip trump",
-   "title": "Trump's trip to GOP soiree in Texas is briefly delayed after Air Force One's emergency slide deploys",
-   "source": "AP",
-   "at": "2026-09-10T01:24:58.169340+00:00"
-  },
-  {
-   "fp": "congress control convention keep midterm payments pledge republicans trump uses",
-   "title": "Trump uses midterm convention to pledge $5K payments if Republicans keep control of Congress",
-   "source": "AP",
-   "at": "2026-09-10T03:20:49.501331+00:00"
-  },
-  {
-   "fp": "congress dividend hold onto pledges republicans trump",
-   "title": "Trump pledges $5k 'Trump dividend' if Republicans hold onto Congress",
-   "source": "The Hill",
-   "at": "2026-09-10T03:20:51.373449+00:00"
-  },
   {
    "fp": "adults election payout promises republicans trump",
    "title": "Trump promises $5,000 payout to U.S. adults if Republicans win election",
@@ -3201,15 +3165,45 @@
    "title": "Tourist Chiara Jaconis\u2019 death probe reopened after she\u2019s killed by statue thrown from Italy balcony\u2014 as mom waits for justice",
    "source": "New York Post",
    "at": "2026-09-18T10:01:28.897570+00:00"
+  },
+  {
+   "fp": "choose election just occupied parliamentary reaches result russia ukraine voters",
+   "title": "\u2018Voters get to choose \u2014 just not the result\u2019: Russia\u2019s parliamentary election reaches occupied Ukraine",
+   "source": "Fox News World",
+   "at": "2026-09-18T10:39:52.639620+00:00"
+  },
+  {
+   "fp": "begin cement days election kremlin parliamentary power russians voting",
+   "title": "Russians begin 3 days of voting in a parliamentary election set to cement the Kremlin's power",
+   "source": "AP",
+   "at": "2026-09-18T10:39:54.463781+00:00"
+  },
+  {
+   "fp": "arctic double empire europe freeze game hole putin sanctions trump",
+   "title": "Trump\u2019s sanctions hole-in-one: How to freeze Putin\u2019s Arctic empire and end Europe\u2019s double game",
+   "source": "Washington Examiner",
+   "at": "2026-09-18T10:39:56.115236+00:00"
+  },
+  {
+   "fp": "anti boycott britain clash israel laws sanctions",
+   "title": "Britain\u2019s Israel sanctions clash with US anti-boycott laws",
+   "source": "Washington Examiner",
+   "at": "2026-09-18T10:39:57.801374+00:00"
+  },
+  {
+   "fp": "democrat kansas leads marshall poll race senate tight",
+   "title": "Democrat leads Marshall in tight Kansas Senate race: Poll",
+   "source": "The Hill",
+   "at": "2026-09-18T10:39:59.570737+00:00"
+  },
+  {
+   "fp": "congress players policy",
+   "title": "5 key players in Congress on AI policy",
+   "source": "The Hill",
+   "at": "2026-09-18T10:40:01.282704+00:00"
   }
  ],
  "titles": [
-  "common convention coup democrat midterms praises sense trump",
-  "allies boat drug killed latest rubio stop strike three trafficking work",
-  "activist attack claim counterterrorism hosting lawyer lefties marks mastermind racist ucla",
-  "briefly delayed deploys emergency force slide soiree texas trip trump",
-  "congress control convention keep midterm payments pledge republicans trump uses",
-  "congress dividend hold onto pledges republicans trump",
   "adults election payout promises republicans trump",
   "discovers francisco girls invasive species",
   "anger bridge democratic governor island loses primary rhode",
@@ -3603,6 +3597,12 @@
   "attack australian beach blood kills pool recall seeing shark swimmer witnesses",
   "councillor elliott former icac kill labor message questions something",
   "attack australia beach killed popular shark swimmer western",
-  "balcony chiara death italy jaconis justice killed probe reopened statue thrown tourist waits"
+  "balcony chiara death italy jaconis justice killed probe reopened statue thrown tourist waits",
+  "choose election just occupied parliamentary reaches result russia ukraine voters",
+  "begin cement days election kremlin parliamentary power russians voting",
+  "arctic double empire europe freeze game hole putin sanctions trump",
+  "anti boycott britain clash israel laws sanctions",
+  "democrat kansas leads marshall poll race senate tight",
+  "congress players policy"
  ]
 }
