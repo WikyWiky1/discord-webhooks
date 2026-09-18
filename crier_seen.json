@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6063438",
-  "https://thehill.com/?p=6061098",
   "https://www.washingtonexaminer.com/?p=4706948",
   "https://www.theguardian.com/us-news/2026/sep/01/massachusetts-senate-democratic-primary",
   "https://www.theguardian.com/us-news/2026/sep/01/trump-navy-secretary-hung-cao-nomination",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
   "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
   "https://nypost.com/?post_type=article&p=40872534",
-  "https://nypost.com/?post_type=article&p=40870649"
+  "https://nypost.com/?post_type=article&p=40870649",
+  "https://www.theguardian.com/politics/2026/sep/18/is-the-tie-dead-fashion-connoisseurs-house-of-lords-relaxes-rules",
+  "https://nypost.com/?post_type=slideshow&p=40875126"
  ],
  "posts": [
-  {
-   "fp": "continue escalation fall spike stocks",
-   "title": "U.S. Stocks Fall as War Escalation, Oil Spike Continue",
-   "source": "WSJ",
-   "at": "2026-09-09T22:58:02.045766+00:00"
-  },
-  {
-   "fp": "island live primary reed results rhode seeks senator sixth term",
-   "title": "Live results: Reed seeks sixth term as Rhode Island senator in primary",
-   "source": "The Hill",
-   "at": "2026-09-09T22:58:03.991557+00:00"
-  },
   {
    "fp": "candidate election labour picks refugee somali starmer",
    "title": "Labour picks Somali refugee as Starmer by-election candidate",
@@ -3201,11 +3189,21 @@
    "title": "Navy couple busted in California drug ring on military\u2019s flagship nuclear supercarrier after crew member overdoses",
    "source": "New York Post",
    "at": "2026-09-18T00:45:05.243334+00:00"
+  },
+  {
+   "fp": "connoisseurs dead fashion hope house lords relaxes rules",
+   "title": "Is the tie dead? Fashion connoisseurs hope not as House of Lords relaxes rules",
+   "source": "Guardian World",
+   "at": "2026-09-18T05:27:01.585065+00:00"
+  },
+  {
+   "fp": "come crash deadly helicopter lives lost metro mourners nbc4 news together vigil",
+   "title": "Mourners come together at LA vigil for lives lost in deadly Metro bus crash, NBC4 news helicopter crash",
+   "source": "New York Post",
+   "at": "2026-09-18T05:27:03.466182+00:00"
   }
  ],
  "titles": [
-  "continue escalation fall spike stocks",
-  "island live primary reed results rhode seeks senator sixth term",
   "candidate election labour picks refugee somali starmer",
   "apocalyptic doomsday experts kill play scenario warn",
   "airline amazon astros boss crane crash deadly houston involved owns plane",
@@ -3603,6 +3601,8 @@
   "antisemitism asio australia australians burgess chief disturbing iran jewish kill levels live mike news prominent want warns",
   "alcohol almost contain dead drinking methanol nigeria suspected",
   "belichick blasts following misinformation resignation speculation steve wife",
-  "busted california couple crew drug flagship member military navy nuclear overdoses ring supercarrier"
+  "busted california couple crew drug flagship member military navy nuclear overdoses ring supercarrier",
+  "connoisseurs dead fashion hope house lords relaxes rules",
+  "come crash deadly helicopter lives lost metro mourners nbc4 news together vigil"
  ]
 }
