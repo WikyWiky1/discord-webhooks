@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6064658",
-  "https://www.theguardian.com/us-news/2026/sep/01/dan-driscoll-resignation-hegseth",
-  "https://nypost.com/?post_type=article&p=40618702",
-  "https://nypost.com/?post_type=article&p=40613574",
-  "CBMiiAFBVV95cUxQODVvcmNHVFpnZlZ4Q2ItSllvVjJjVENYTURRQUU3VG9uU2x4QTNCamwyTWVhN2lxLUFZRDg1Vy0zelpKT1p6Y2s3cmFVZ0puNnlyWTBKSlo1SXc0cThBSU16cXhyZHo2aE81SUZnb3VOYXU1RnVEc0taOXNjR1ptRF9TMk80Zjkx",
   "https://thehill.com/?p=6063438",
   "https://thehill.com/?p=6061098",
   "https://www.washingtonexaminer.com/?p=4706948",
@@ -799,39 +794,14 @@
   "CBMiugFBVV95cUxOd0dpUG1TcEl2NGx2R3BXeGxSaXhrUkJHdnB6clVuSnF0Z3FIMW90U2k3TE5keG9BYzJKbXJUOHRzVk9STTA3TjFpaXo4MExwdDd3dXVkUTkyMGJZM3REOFNYVzQ5U1ZPb0ZXT2tBWmtZVGxSTTZqWDFUWVhsMGRxZkFxelpZeDVsNzhWMzgyRVdBT1dIeWszalB4YnRpQm9NQkNJY2lLU3ZqMFowWFk0eWRIZVBaeXd4R2c",
   "https://thehill.com/?p=6097014",
   "https://thehill.com/?p=6096884",
-  "CBMiowFBVV95cUxPaDhQS1NjaUc0ZHlncjlOZGlZQm8xM1RwY3FPbFplOUZFMnJMQWFiN2FLbTAyeUFXUlFic2duZUJqaFdPVUJXbVNTeWRsclFLMDZUWHlSMkpOY01kTXVBczFMd2tmRHAyb2o2cEt4MzdrbE04bm9BU2ltZjA2WWRMUERqRVM0R2FyMklvcjlUY2NfYlY5ZXBGT2doM3V2d2lsUEJB"
+  "CBMiowFBVV95cUxPaDhQS1NjaUc0ZHlncjlOZGlZQm8xM1RwY3FPbFplOUZFMnJMQWFiN2FLbTAyeUFXUlFic2duZUJqaFdPVUJXbVNTeWRsclFLMDZUWHlSMkpOY01kTXVBczFMd2tmRHAyb2o2cEt4MzdrbE04bm9BU2ltZjA2WWRMUERqRVM0R2FyMklvcjlUY2NfYlY5ZXBGT2doM3V2d2lsUEJB",
+  "https://nypost.com/?post_type=article&p=40870672",
+  "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
+  "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
+  "https://nypost.com/?post_type=article&p=40872534",
+  "https://nypost.com/?post_type=article&p=40870649"
  ],
  "posts": [
-  {
-   "fp": "apple called foldable including iphone latest lineup model unveils",
-   "title": "New Apple CEO unveils latest iPhone lineup, including a foldable model called Duo",
-   "source": "AP",
-   "at": "2026-09-09T20:31:06.279061+00:00"
-  },
-  {
-   "fp": "apple center folding iphone stage takes unveils",
-   "title": "Apple unveils folding iPhone Duo as new CEO takes center stage",
-   "source": "Guardian World",
-   "at": "2026-09-09T20:31:07.929431+00:00"
-  },
-  {
-   "fp": "compliance council iran nuclear referred security",
-   "title": "Iran referred to UN Security Council for nuclear non-compliance",
-   "source": "BBC World",
-   "at": "2026-09-09T21:32:17.036591+00:00"
-  },
-  {
-   "fp": "boards deploys emergency force moments slide trump",
-   "title": "Air Force One emergency slide deploys moments before Trump boards",
-   "source": "Telegraph",
-   "at": "2026-09-09T21:32:18.948573+00:00"
-  },
-  {
-   "fp": "forward health move nominees return senate trump",
-   "title": "Trump\u2019s health nominees set to move forward with Senate return",
-   "source": "The Hill",
-   "at": "2026-09-09T22:58:00.281564+00:00"
-  },
   {
    "fp": "continue escalation fall spike stocks",
    "title": "U.S. Stocks Fall as War Escalation, Oil Spike Continue",
@@ -3201,14 +3171,39 @@
    "title": "The S&P 500 and Nasdaq Post Biggest Gains in Six Weeks",
    "source": "WSJ",
    "at": "2026-09-17T23:30:17.713457+00:00"
+  },
+  {
+   "fp": "claims dead followed found investigating jeep missing moms police submerged",
+   "title": "Police investigating claims two missing moms were \u2018followed\u2019 before being found dead in submerged Jeep",
+   "source": "New York Post",
+   "at": "2026-09-18T00:44:55.554348+00:00"
+  },
+  {
+   "fp": "antisemitism asio australia australians burgess chief disturbing iran jewish kill levels live mike news prominent want warns",
+   "title": "Australia news live: Asio chief Mike Burgess says Iran may want to \u2018kill prominent Jewish Australians\u2019 and warns antisemitism at \u2018disturbing\u2019 levels",
+   "source": "Guardian World",
+   "at": "2026-09-18T00:44:57.376931+00:00"
+  },
+  {
+   "fp": "alcohol almost contain dead drinking methanol nigeria suspected",
+   "title": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
+   "source": "Guardian World",
+   "at": "2026-09-18T00:44:59.091280+00:00"
+  },
+  {
+   "fp": "belichick blasts following misinformation resignation speculation steve wife",
+   "title": "Steve Belichick\u2019s wife blasts the \u2018misinformation and speculation\u2019 following his UNC resignation",
+   "source": "New York Post",
+   "at": "2026-09-18T00:45:03.447290+00:00"
+  },
+  {
+   "fp": "busted california couple crew drug flagship member military navy nuclear overdoses ring supercarrier",
+   "title": "Navy couple busted in California drug ring on military\u2019s flagship nuclear supercarrier after crew member overdoses",
+   "source": "New York Post",
+   "at": "2026-09-18T00:45:05.243334+00:00"
   }
  ],
  "titles": [
-  "apple called foldable including iphone latest lineup model unveils",
-  "apple center folding iphone stage takes unveils",
-  "compliance council iran nuclear referred security",
-  "boards deploys emergency force moments slide trump",
-  "forward health move nominees return senate trump",
   "continue escalation fall spike stocks",
   "island live primary reed results rhode seeks senator sixth term",
   "candidate election labour picks refugee somali starmer",
@@ -3603,6 +3598,11 @@
   "american hamm host hostage kidnapping plays radio review",
   "anti concerns event fans injury kennedy vaccine",
   "anti friend group house vaccine white",
-  "biggest gains nasdaq post weeks"
+  "biggest gains nasdaq post weeks",
+  "claims dead followed found investigating jeep missing moms police submerged",
+  "antisemitism asio australia australians burgess chief disturbing iran jewish kill levels live mike news prominent want warns",
+  "alcohol almost contain dead drinking methanol nigeria suspected",
+  "belichick blasts following misinformation resignation speculation steve wife",
+  "busted california couple crew drug flagship member military navy nuclear overdoses ring supercarrier"
  ]
 }
