@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4706948",
-  "https://www.theguardian.com/us-news/2026/sep/01/massachusetts-senate-democratic-primary",
-  "https://www.theguardian.com/us-news/2026/sep/01/trump-navy-secretary-hung-cao-nomination",
-  "CBMiyAFBVV95cUxNczY1ckdkVjh3T3JHVXRVZHByZ0pRdlpCOURoYmN0dTB5NF9mUVMtVEVyUkxFbmFlU1hVV3NPMGZld2hJSEwtTkxDVWdST2ExTWJJRWw4YnVIOWdlRFZnMmdPb2dnSU5Jc1hYMjZaUWFza2thWnBQemhsSVdVekxYSW9RWlNYSGluRnRNTXJaZWZPNHAwbldITTIwUXVUbElMQjdYN2ZLVVFsRExKbDVpYVZEeURSN1JnUU01RlhSbzJpVjNSUWlPVA",
-  "https://news.sky.com/story/sixteen-people-killed-in-bus-crash-in-egypts-south-sinai-area-13580237",
-  "https://nypost.com/?post_type=article&p=40620743",
   "https://nypost.com/?post_type=article&p=40620996",
   "https://www.washingtonexaminer.com/?p=4709133",
   "https://nypost.com/?post_type=article&p=40612739",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=40872534",
   "https://nypost.com/?post_type=article&p=40870649",
   "https://www.theguardian.com/politics/2026/sep/18/is-the-tie-dead-fashion-connoisseurs-house-of-lords-relaxes-rules",
-  "https://nypost.com/?post_type=slideshow&p=40875126"
+  "https://nypost.com/?post_type=slideshow&p=40875126",
+  "https://nypost.com/?post_type=article&p=40876251",
+  "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o#0",
+  "https://nypost.com/?post_type=article&p=40876187",
+  "https://www.theguardian.com/australia-news/2026/sep/18/icac-labor-sharangan-maheswaran-david-elliot-message-jean-nassif-ntwnfb",
+  "CBMitAFBVV95cUxNYXg3VDFXcFI3Mll5M2lSVFA0dG1Kb0xIWDVKekhucE9GQnpkMUlLTGpZc3ZncnZxelhuZzFteU92Z0lwZmJrTGV6bDZSV0FBUzFSZFloMDBWN01PRlNsNlJ5Ynk3eFFReVdZdHh1VDhWWG9oTHZkekpTOFZPMU1ualZSVzdHNFBWckw0LWZXNlRaNm1XVjluVUduZ2hraGg4SVFVUnoycHFlSFR3SjNpYmVyVEo",
+  "https://nypost.com/?post_type=article&p=40876011"
  ],
  "posts": [
-  {
-   "fp": "candidate election labour picks refugee somali starmer",
-   "title": "Labour picks Somali refugee as Starmer by-election candidate",
-   "source": "Telegraph",
-   "at": "2026-09-09T22:58:05.754648+00:00"
-  },
-  {
-   "fp": "apocalyptic doomsday experts kill play scenario warn",
-   "title": "Experts warn AI could kill us all \u2014 this is how an apocalyptic doomsday scenario could play out",
-   "source": "New York Post",
-   "at": "2026-09-09T23:29:07.286495+00:00"
-  },
-  {
-   "fp": "airline amazon astros boss crane crash deadly houston involved owns plane",
-   "title": "Houston Astros boss Jim Crane owns airline involved in deadly Amazon plane crash",
-   "source": "New York Post",
-   "at": "2026-09-09T23:29:09.042740+00:00"
-  },
-  {
-   "fp": "accident aide ailing attack health prosecutors rikers stabbed wants woman",
-   "title": "Ailing NYC woman who stabbed health aide wants out of Rikers \u2014 but prosecutors say attack was no accident",
-   "source": "New York Post",
-   "at": "2026-09-09T23:29:10.995316+00:00"
-  },
-  {
-   "fp": "centre governor kills northern shopping strike sumy ukraine",
-   "title": "Strike on shopping centre in Sumy in northern Ukraine kills two, governor says",
-   "source": "Reuters World",
-   "at": "2026-09-09T23:29:12.756702+00:00"
-  },
-  {
-   "fp": "accidentally departs deploys emergency force gifted qatar slide trump",
-   "title": "Trump departs DC on Qatar-gifted Air Force One after emergency slide accidentally deploys",
-   "source": "Reuters",
-   "at": "2026-09-09T23:29:14.475999+00:00"
-  },
   {
    "fp": "common convention coup democrat midterms praises sense trump",
    "title": "\u2018Common sense\u2019 Democrat praises Trump in coup at midterms convention",
@@ -3201,15 +3165,45 @@
    "title": "Mourners come together at LA vigil for lives lost in deadly Metro bus crash, NBC4 news helicopter crash",
    "source": "New York Post",
    "at": "2026-09-18T05:27:03.466182+00:00"
+  },
+  {
+   "fp": "gunman including killed officials philippine school shooting students three",
+   "title": "Three students killed in Philippine school shooting, including gunman, officials say",
+   "source": "New York Post",
+   "at": "2026-09-18T10:01:20.264344+00:00"
+  },
+  {
+   "fp": "dead eight injured philippines school shooting three",
+   "title": "Three dead, eight injured in Philippines school shooting",
+   "source": "BBC World",
+   "at": "2026-09-18T10:01:22.018379+00:00"
+  },
+  {
+   "fp": "attack australian beach blood kills pool recall seeing shark swimmer witnesses",
+   "title": "Shark kills swimmer in attack off Australian beach as witnesses recall seeing \u2018pool of blood\u2019",
+   "source": "New York Post",
+   "at": "2026-09-18T10:01:23.709383+00:00"
+  },
+  {
+   "fp": "councillor elliott former icac kill labor message questions something",
+   "title": "\u2018We have something that will kill Elliott\u2019: Icac questions former Labor councillor over message",
+   "source": "Guardian World",
+   "at": "2026-09-18T10:01:25.431849+00:00"
+  },
+  {
+   "fp": "attack australia beach killed popular shark swimmer western",
+   "title": "Swimmer killed in shark attack at popular Western Australia beach",
+   "source": "Reuters",
+   "at": "2026-09-18T10:01:27.159376+00:00"
+  },
+  {
+   "fp": "balcony chiara death italy jaconis justice killed probe reopened statue thrown tourist waits",
+   "title": "Tourist Chiara Jaconis\u2019 death probe reopened after she\u2019s killed by statue thrown from Italy balcony\u2014 as mom waits for justice",
+   "source": "New York Post",
+   "at": "2026-09-18T10:01:28.897570+00:00"
   }
  ],
  "titles": [
-  "candidate election labour picks refugee somali starmer",
-  "apocalyptic doomsday experts kill play scenario warn",
-  "airline amazon astros boss crane crash deadly houston involved owns plane",
-  "accident aide ailing attack health prosecutors rikers stabbed wants woman",
-  "centre governor kills northern shopping strike sumy ukraine",
-  "accidentally departs deploys emergency force gifted qatar slide trump",
   "common convention coup democrat midterms praises sense trump",
   "allies boat drug killed latest rubio stop strike three trafficking work",
   "activist attack claim counterterrorism hosting lawyer lefties marks mastermind racist ucla",
@@ -3603,6 +3597,12 @@
   "belichick blasts following misinformation resignation speculation steve wife",
   "busted california couple crew drug flagship member military navy nuclear overdoses ring supercarrier",
   "connoisseurs dead fashion hope house lords relaxes rules",
-  "come crash deadly helicopter lives lost metro mourners nbc4 news together vigil"
+  "come crash deadly helicopter lives lost metro mourners nbc4 news together vigil",
+  "gunman including killed officials philippine school shooting students three",
+  "dead eight injured philippines school shooting three",
+  "attack australian beach blood kills pool recall seeing shark swimmer witnesses",
+  "councillor elliott former icac kill labor message questions something",
+  "attack australia beach killed popular shark swimmer western",
+  "balcony chiara death italy jaconis justice killed probe reopened statue thrown tourist waits"
  ]
 }
