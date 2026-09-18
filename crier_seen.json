@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6065382",
   "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko#0",
   "https://nypost.com/?post_type=article&p=40621874",
   "CBMiqAFBVV95cUxPVGRNWFdXclZxNGQxMGdIWFF3Q2E3UHdFM0lyU29mdnVqVGdKWFN1ZVZxVXFHNEl5dlRtbkxsa2FocHAwMFc4ME1MZndYUm9QSUVWelM4X2hLdWlRRUc2N18wd0FnelNDejNjSnl1bmZraVlDWXFvUWpHMThvZjc3ZU1KeFJVWlY3cTVFaWZ2RFJlN2UzMllBX1BVOEZBZHhqOTducWt3ZXo",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40877682",
   "CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc",
   "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
-  "CBMipAFBVV95cUxQOFhBdXVJMjdWZHcySEk4c0NweWZqMkl1M1F1Sk8tMHFfWTdXUExkYmZaMnQtbUZJcjI4N0pYRmhnbnJJX2gzcGlmV0RwMFdaMW1JbFBBVmVFMmVvVm9PdTE0Y2VNSGZiYUlvemhqZG5rTjZYS0puQU11Zlk3bUplQ1Q5a2FSSG9YNUNvTHZfUVVlYUI1Z3NzOWlTQ3lfNjRjOGw5QQ"
+  "CBMipAFBVV95cUxQOFhBdXVJMjdWZHcySEk4c0NweWZqMkl1M1F1Sk8tMHFfWTdXUExkYmZaMnQtbUZJcjI4N0pYRmhnbnJJX2gzcGlmV0RwMFdaMW1JbFBBVmVFMmVvVm9PdTE0Y2VNSGZiYUlvemhqZG5rTjZYS0puQU11Zlk3bUplQ1Q5a2FSSG9YNUNvTHZfUVVlYUI1Z3NzOWlTQ3lfNjRjOGw5QQ",
+  "CBMihwFBVV95cUxQWnVFR3dNMlpzM2dITFcyTUtlekMzRGx4ODF1LXhwQ2d2LVNYSGU5T194enpwam5UMFFmWjlJbGxmQVNONXo0dHU4eG83UXQzU1lOc25XRTlETU9Wc0g4c3hhVVIzeU1CWnVJcHIzbzNqeHFlM3RLNFFaUHliMFNKbUl4M09JazQ"
  ],
  "posts": [
-  {
-   "fp": "breaks dead ferry fire five heartbreaking missing philippines",
-   "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-   "source": "BBC World",
-   "at": "2026-09-10T06:36:47.884035+00:00"
-  },
   {
    "fp": "caribbean forces killed military narco terrorists three",
    "title": "Three \u2018narco-terrorists\u2019 killed in the Caribbean by US military forces",
@@ -3201,10 +3195,15 @@
    "title": "Shooting at high school in the Philippines leaves 2 students and gunman dead, several injured",
    "source": "AP",
    "at": "2026-09-18T14:32:13.864411+00:00"
+  },
+  {
+   "fp": "century discovered species time",
+   "title": "New cat species discovered for first time in a century",
+   "source": "Telegraph",
+   "at": "2026-09-18T14:52:56.307780+00:00"
   }
  ],
  "titles": [
-  "breaks dead ferry fire five heartbreaking missing philippines",
   "caribbean forces killed military narco terrorists three",
   "deadly ferry fire missing philippines scores search triggers",
   "dead dozens ferry fire least leaves missing passenger philippines",
@@ -3603,6 +3602,7 @@
   "emergency fdny getting nypd overtime police report response shows slashed slower times",
   "accused inglewood mayor photo pressured resign sickening teen",
   "berkshire buffett chairman down howard steps succeeds warren",
-  "dead gunman high injured leaves philippines school several shooting students"
+  "dead gunman high injured leaves philippines school several shooting students",
+  "century discovered species time"
  ]
 }
