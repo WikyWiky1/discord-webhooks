@@ -1,10 +1,5 @@
 {
  "ids": [
-  "CBMiYkFVX3lxTFBFMXVIcDBYcTd3ckJsQTJfUS1HMUtOZnY0eFdVVXJxUUdwQV9hSzkzU2dUSFVnVjdQc05sQU9mcnR3aC1pNGFNQ3FWY0hOVDZJdlhqdkszQUxyS0gtSWk5T0JB",
-  "CBMiugFBVV95cUxPRzFCdE02NmRoUGVHUmVoUTMtbzRyV1VkSkN4OTR6U2pudFdXdlFqbFVmMldMX2RPZWxOSklmY2JCV0IwSmdOU3ktNjVVNXRubXlTWV9HcUI1OWNTMklxUDFSUlpXV3NOdEk0YUhFRlFjMUx6X3lmTHo3S29UR2hLSkVpNE1TeEQxY3ZvOS1KTkJpU3ZmY21nT2hydFBDeEJIV00yakNZc0R5NzFVbXN3a3R0cXdiU0JveHc",
-  "https://nypost.com/?post_type=article&p=40621988",
-  "https://www.foxnews.com/world/explosion-near-german-train-station-injures-2-ukrainian-citizens",
-  "https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown",
   "https://thehill.com/?p=6065382",
   "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko#0",
   "https://nypost.com/?post_type=article&p=40621874",
@@ -799,33 +794,14 @@
   "https://www.washingtonexaminer.com/?p=4731662",
   "https://www.washingtonexaminer.com/?p=4731827",
   "https://thehill.com/?p=6096719",
-  "https://thehill.com/?p=6096875"
+  "https://thehill.com/?p=6096875",
+  "https://nypost.com/?post_type=article&p=40877913",
+  "https://nypost.com/?post_type=article&p=40877682",
+  "CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc",
+  "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
+  "CBMipAFBVV95cUxQOFhBdXVJMjdWZHcySEk4c0NweWZqMkl1M1F1Sk8tMHFfWTdXUExkYmZaMnQtbUZJcjI4N0pYRmhnbnJJX2gzcGlmV0RwMFdaMW1JbFBBVmVFMmVvVm9PdTE0Y2VNSGZiYUlvemhqZG5rTjZYS0puQU11Zlk3bUplQ1Q5a2FSSG9YNUNvTHZfUVVlYUI1Z3NzOWlTQ3lfNjRjOGw5QQ"
  ],
  "posts": [
-  {
-   "fp": "adults election payout promises republicans trump",
-   "title": "Trump promises $5,000 payout to U.S. adults if Republicans win election",
-   "source": "Reuters",
-   "at": "2026-09-10T03:20:53.206988+00:00"
-  },
-  {
-   "fp": "discovers francisco girls invasive species",
-   "title": "San Francisco discovers new invasive species: \u2018Hot girls\u2019",
-   "source": "New York Post",
-   "at": "2026-09-10T03:20:55.052135+00:00"
-  },
-  {
-   "fp": "anger bridge democratic governor island loses primary rhode",
-   "title": "Rhode Island\u2019s Democratic governor loses primary amid anger over bridge",
-   "source": "Guardian World",
-   "at": "2026-09-10T03:20:56.878878+00:00"
-  },
-  {
-   "fp": "august bets data fall hike jobs rate robust spurs stocks yields",
-   "title": "U.S. Stocks Fall as Robust August Jobs Data Spurs Yields, Rate-Hike Bets",
-   "source": "WSJ",
-   "at": "2026-09-10T03:20:58.858107+00:00"
-  },
   {
    "fp": "breaks dead ferry fire five heartbreaking missing philippines",
    "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
@@ -3201,13 +3177,33 @@
    "title": "5 key players in Congress on AI policy",
    "source": "The Hill",
    "at": "2026-09-18T10:40:01.282704+00:00"
+  },
+  {
+   "fp": "emergency fdny getting nypd overtime police report response shows slashed slower times",
+   "title": "NYPD, FDNY emergency response times getting slower \u2014 as NYC police overtime slashed, report shows",
+   "source": "New York Post",
+   "at": "2026-09-18T14:32:08.638735+00:00"
+  },
+  {
+   "fp": "accused inglewood mayor photo pressured resign sickening teen",
+   "title": "Inglewood mayor accused of sickening act during photo op with teen pressured to resign",
+   "source": "New York Post",
+   "at": "2026-09-18T14:32:10.343031+00:00"
+  },
+  {
+   "fp": "berkshire buffett chairman down howard steps succeeds warren",
+   "title": "Warren Buffett steps down as Berkshire chairman, son Howard succeeds",
+   "source": "Reuters",
+   "at": "2026-09-18T14:32:12.109400+00:00"
+  },
+  {
+   "fp": "dead gunman high injured leaves philippines school several shooting students",
+   "title": "Shooting at high school in the Philippines leaves 2 students and gunman dead, several injured",
+   "source": "AP",
+   "at": "2026-09-18T14:32:13.864411+00:00"
   }
  ],
  "titles": [
-  "adults election payout promises republicans trump",
-  "discovers francisco girls invasive species",
-  "anger bridge democratic governor island loses primary rhode",
-  "august bets data fall hike jobs rate robust spurs stocks yields",
   "breaks dead ferry fire five heartbreaking missing philippines",
   "caribbean forces killed military narco terrorists three",
   "deadly ferry fire missing philippines scores search triggers",
@@ -3603,6 +3599,10 @@
   "arctic double empire europe freeze game hole putin sanctions trump",
   "anti boycott britain clash israel laws sanctions",
   "democrat kansas leads marshall poll race senate tight",
-  "congress players policy"
+  "congress players policy",
+  "emergency fdny getting nypd overtime police report response shows slashed slower times",
+  "accused inglewood mayor photo pressured resign sickening teen",
+  "berkshire buffett chairman down howard steps succeeds warren",
+  "dead gunman high injured leaves philippines school several shooting students"
  ]
 }
