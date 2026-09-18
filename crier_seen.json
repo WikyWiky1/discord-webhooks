@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko#0",
-  "https://nypost.com/?post_type=article&p=40621874",
-  "CBMiqAFBVV95cUxPVGRNWFdXclZxNGQxMGdIWFF3Q2E3UHdFM0lyU29mdnVqVGdKWFN1ZVZxVXFHNEl5dlRtbkxsa2FocHAwMFc4ME1MZndYUm9QSUVWelM4X2hLdWlRRUc2N18wd0FnelNDejNjSnl1bmZraVlDWXFvUWpHMThvZjc3ZU1KeFJVWlY3cTVFaWZ2RFJlN2UzMllBX1BVOEZBZHhqOTducWt3ZXo",
-  "https://www.theguardian.com/australia-news/2026/sep/02/sydney-fatal-shooting-merrylands-west-possible-mistaken-identity-police-say-ntwnfb",
-  "https://thehill.com/?p=6062939",
-  "https://thehill.com/?p=6064417",
   "https://www.theguardian.com/us-news/2026/sep/02/new-mexico-man-fatal-bear-attack",
   "CBMimgFBVV95cUxPWWNTU3lIOXZZYUxDX25PV2NXWWIwTExzeXZsRjZOYUtSaTJCUTFnaW9JbGlIcHUtdlJ3dUsxYm90WDNhRVBXeENvdWNzc0RVSzhTeGtrLWFSZVRYeG8yWnlLcmIwcFZjWnFLOG9iT0RrbE9UcW02NVlBREItNUVFWUN2ejJON1RnRTAzSVB1YjBSLWstUnZRblh3",
   "https://nypost.com/?post_type=article&p=40624015",
@@ -799,45 +793,15 @@
   "CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc",
   "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
   "CBMipAFBVV95cUxQOFhBdXVJMjdWZHcySEk4c0NweWZqMkl1M1F1Sk8tMHFfWTdXUExkYmZaMnQtbUZJcjI4N0pYRmhnbnJJX2gzcGlmV0RwMFdaMW1JbFBBVmVFMmVvVm9PdTE0Y2VNSGZiYUlvemhqZG5rTjZYS0puQU11Zlk3bUplQ1Q5a2FSSG9YNUNvTHZfUVVlYUI1Z3NzOWlTQ3lfNjRjOGw5QQ",
-  "CBMihwFBVV95cUxQWnVFR3dNMlpzM2dITFcyTUtlekMzRGx4ODF1LXhwQ2d2LVNYSGU5T194enpwam5UMFFmWjlJbGxmQVNONXo0dHU4eG83UXQzU1lOc25XRTlETU9Wc0g4c3hhVVIzeU1CWnVJcHIzbzNqeHFlM3RLNFFaUHliMFNKbUl4M09JazQ"
+  "CBMihwFBVV95cUxQWnVFR3dNMlpzM2dITFcyTUtlekMzRGx4ODF1LXhwQ2d2LVNYSGU5T194enpwam5UMFFmWjlJbGxmQVNONXo0dHU4eG83UXQzU1lOc25XRTlETU9Wc0g4c3hhVVIzeU1CWnVJcHIzbzNqeHFlM3RLNFFaUHliMFNKbUl4M09JazQ",
+  "https://www.theguardian.com/australia-news/2026/sep/19/one-nation-victorian-election-candidates-michael-piastrino-elita-dabrowski-ben-lucas-ntwnfb",
+  "https://thehill.com/?p=6097894",
+  "CBMiYkFVX3lxTE4zV3dMWFZiRVlyYTJvdXI0TmMyZUR2bHdJblltWjhxaXFZdDBPUDBCekVRVjl4bWt4cXptMXRJTnh0Z1puSlJSbzhKT2tzckRBTnZ3VHZScFNEQlJGdnRUMm1n",
+  "CBMiogFBVV95cUxPU3dsdnJRQWxScXlCVmMyMzM1ZWpJMDdzdHpTUzE0SHlVUWd0RmZtREZlejZFaDRWYzUzVndPd2VZam82R2ZOellod1NMaDZBbFNyeG42eWVOZEhGcFhYa19BcXNPTVVveVZxNFFEdHJjbFJ0Nm9wRklzRV96RnNtdF9RTk9INXdDSXFSQ256N0FnUnZOMUdCM292RGNDRmVRUUE",
+  "CBMilAFBVV95cUxOc2VsMHJiektCOFpBYUVsRFBRYVlMamd4NVJkSlcyaEN4RkxxcE43a05zVkhhSS1YNGZraE1OVXY2Q0loUERISzVsRmRrd2tyZ2dLalhVRGpSMm5LN1c3TjlFbHpQYXU4Y3I1QXFPNkUxZHBwM1g4N3ZsMm0weEcxT2plQVQyNFZibVJQWHRZU1lQWGRz",
+  "CBMipAFBVV95cUxQYmpZN1BubmloZjk4OVc1X0s3VHdZUVpna3Q5Z19rSmZ1Z014MlMwbmlQc0hPX3lONHVtLWptbjhGWEFESS01cDdWQy1HU2tVbFE2MnZMMERkVG9pcGJ3M3JoOEttSmFoTTU1bzZLSWppS2sxbm9fMGE5LVNjYVJvZnlhejRTZ3ItVXdVSGd6X1dBM1ZtclplUzhKQlpnRmJaZFBEdA"
  ],
  "posts": [
-  {
-   "fp": "caribbean forces killed military narco terrorists three",
-   "title": "Three \u2018narco-terrorists\u2019 killed in the Caribbean by US military forces",
-   "source": "Washington Examiner",
-   "at": "2026-09-10T06:36:49.610819+00:00"
-  },
-  {
-   "fp": "deadly ferry fire missing philippines scores search triggers",
-   "title": "Deadly Philippines ferry fire triggers search for scores of missing",
-   "source": "Guardian World",
-   "at": "2026-09-10T06:36:51.461125+00:00"
-  },
-  {
-   "fp": "dead dozens ferry fire least leaves missing passenger philippines",
-   "title": "Fire on passenger ferry in Philippines leaves dozens missing and at least 5 dead",
-   "source": "AP",
-   "at": "2026-09-10T06:36:53.251831+00:00"
-  },
-  {
-   "fp": "agency arsenal built expand facility korea north nuclear uranium",
-   "title": "North Korea has built new uranium facility to expand nuclear arsenal, UN agency says",
-   "source": "Guardian World",
-   "at": "2026-09-10T06:36:55.589862+00:00"
-  },
-  {
-   "fp": "accused driveway home killer landlord rent shooting tries victim",
-   "title": "Accused killer landlord tries to rent out victim\u2019s SF home after shooting him in driveway",
-   "source": "New York Post",
-   "at": "2026-09-10T06:36:57.312429+00:00"
-  },
-  {
-   "fp": "accused also clancy corie hanging husband kill lindsay obsessed plans prosecutors walsh year",
-   "title": "Lindsay Clancy-obsessed mom Corie Walsh, accused of hanging 2-year-old son, also had plans to kill her husband: prosecutors",
-   "source": "New York Post",
-   "at": "2026-09-10T06:36:59.249812+00:00"
-  },
   {
    "fp": "bigwig budget client contract covid czar hochul raked report schmoozed state",
    "title": "Hochul\u2019s ex-budget czar schmoozed with bigwig as his client raked in $11M in state COVID contract: report",
@@ -3201,15 +3165,45 @@
    "title": "New cat species discovered for first time in a century",
    "source": "Telegraph",
    "at": "2026-09-18T14:52:56.307780+00:00"
+  },
+  {
+   "fp": "alleged candidates claims election health nation rolls supporters underworld unfounded victorian",
+   "title": "Alleged underworld supporters and unfounded health claims: One Nation rolls out more Victorian election candidates",
+   "source": "Guardian World",
+   "at": "2026-09-18T15:55:34.970281+00:00"
+  },
+  {
+   "fp": "campaigning close layups oughta races republican senate state",
+   "title": "Senate Republican on campaigning in 'close' red state races: 'These oughta be fat guy layups'",
+   "source": "The Hill",
+   "at": "2026-09-18T15:55:36.692640+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-09-18T15:55:38.453031+00:00"
+  },
+  {
+   "fp": "15bn breathing budget burnham shrinks space",
+   "title": "Burnham\u2019s Budget breathing space \u2018shrinks by \u00a315bn\u2019",
+   "source": "Telegraph",
+   "at": "2026-09-18T15:55:40.155350+00:00"
+  },
+  {
+   "fp": "begins congress control early elections flip midterm voting",
+   "title": "Early voting begins in US midterm elections that could flip control of Congress",
+   "source": "AP",
+   "at": "2026-09-18T15:55:41.883206+00:00"
+  },
+  {
+   "fp": "governor heat iowa races returns senate vance",
+   "title": "JD Vance returns to Iowa as Senate and governor races heat up",
+   "source": "AP",
+   "at": "2026-09-18T15:55:43.769467+00:00"
   }
  ],
  "titles": [
-  "caribbean forces killed military narco terrorists three",
-  "deadly ferry fire missing philippines scores search triggers",
-  "dead dozens ferry fire least leaves missing passenger philippines",
-  "agency arsenal built expand facility korea north nuclear uranium",
-  "accused driveway home killer landlord rent shooting tries victim",
-  "accused also clancy corie hanging husband kill lindsay obsessed plans prosecutors walsh year",
   "bigwig budget client contract covid czar hochul raked report schmoozed state",
   "airline defying expanding favored iranian regime sanctions",
   "edition journal print street wall",
@@ -3603,6 +3597,12 @@
   "accused inglewood mayor photo pressured resign sickening teen",
   "berkshire buffett chairman down howard steps succeeds warren",
   "dead gunman high injured leaves philippines school several shooting students",
-  "century discovered species time"
+  "century discovered species time",
+  "alleged candidates claims election health nation rolls supporters underworld unfounded victorian",
+  "campaigning close layups oughta races republican senate state",
+  "edition journal print street wall",
+  "15bn breathing budget burnham shrinks space",
+  "begins congress control early elections flip midterm voting",
+  "governor heat iowa races returns senate vance"
  ]
 }
