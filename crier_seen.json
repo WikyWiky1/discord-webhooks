@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMirAFBVV95cUxPclNRNzRxRWFiUU9JWldJUkRlREd5b0NHQlNwVTIzd1BvUWo1QUp5cnlfOC1xNUY3d3ZtS1V6MEE1SXYyaTJsVk5faEVPSDlGOWJrX1lnQVU1bmlOaU40Rm9VU3ZvWE52cUJTZHU3NnBLdnVreDlYTndwbjFxMmFZdkpRd3RzYjVzTndlTmF6Z0I3NFZvQVRsOGFLQXJhZUdqVkdUNmFGcXlIQTZt",
-  "https://nypost.com/?post_type=article&p=40643696",
-  "https://www.bbc.co.uk/news/articles/cj6482r6yl4o#0",
   "https://thehill.com/?p=6068588/",
   "https://www.theguardian.com/world/2026/sep/03/eu-defence-readiness-eca-auditors-us-reliance",
   "https://www.theguardian.com/us-news/2026/sep/03/first-thing-aid-operations-deadly-nepal-floods-hampered-conditions",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40896785",
   "https://nypost.com/?post_type=article&p=40894103",
   "https://www.theguardian.com/uk-news/2026/sep/19/hundreds-evacuated-fire-grand-burstin-hotel-folkestone-kent",
-  "CBMingFBVV95cUxOdjVHQUFXN1Zmc2RXN2hsOURHY1R3MVIwcUp1RUlHSjBXQ3FyYnRYMlpQYkVuOUE1d2M3VVpKSTlVQmZlTFZfbUZ6NXFjVERFVVlRWWltVjE0dGlqWjVESndJV0hnS1ZIbWZoWlg3R2FYUWZQSHhTakxkYjFJejBGS1FDZjZSNkFyQmg4RjFvaWRRejFqaHlOSHgySkVSZw"
+  "CBMingFBVV95cUxOdjVHQUFXN1Zmc2RXN2hsOURHY1R3MVIwcUp1RUlHSjBXQ3FyYnRYMlpQYkVuOUE1d2M3VVpKSTlVQmZlTFZfbUZ6NXFjVERFVVlRWWltVjE0dGlqWjVESndJV0hnS1ZIbWZoWlg3R2FYUWZQSHhTakxkYjFJejBGS1FDZjZSNkFyQmg4RjFvaWRRejFqaHlOSHgySkVSZw",
+  "https://thehill.com/?p=6099939",
+  "CBMikgFBVV95cUxOdldNN0llVjJVYnJfekk5ZGQ2ZHAwZGJjaWdhY2Q4QzhBV3FBc2EwUTZ4YTQzYzZSYnNJVThHS21JRFR1ZmpHV09BZnJNMHFfd3NNeGNxT29oRVNpTnV1WVp3cDExOVFaYnRFdjdEOWRZcnNsWkdPeVc2VjBDVDBmejNKWVgweHZjcHVyc1B5T3hjZw",
+  "https://www.washingtonexaminer.com/?p=4734698"
  ],
  "posts": [
-  {
-   "fp": "asian decline falls losses prices shares street tracking wall",
-   "title": "Oil prices falls to $105 and Asian shares decline, tracking Wall Street losses",
-   "source": "AP",
-   "at": "2026-09-11T10:42:20.785579+00:00"
-  },
-  {
-   "fp": "banks defense european higher indexes slide stocks weighs",
-   "title": "European Indexes Slide as Higher Oil Weighs on Defense Stocks, Banks",
-   "source": "WSJ",
-   "at": "2026-09-11T10:42:22.871927+00:00"
-  },
-  {
-   "fp": "days detectives early hero morgue recall remain unidentified victims",
-   "title": "Hero detectives recall early days of the morgue at 9/11 as 40% of victims remain unidentified",
-   "source": "New York Post",
-   "at": "2026-09-11T11:26:13.839508+00:00"
-  },
   {
    "fp": "coast firefighter ground guard honor killed names ship stand vance zero",
    "title": "Vance will stand at Ground Zero with son of firefighter killed on 9/11 \u2014 as Coast Guard names ship in his honor",
@@ -3201,12 +3183,27 @@
    "title": "Congo begins Ebola vaccinations for health workers in the epicenter of the outbreak",
    "source": "AP",
    "at": "2026-09-19T18:50:05.415687+00:00"
+  },
+  {
+   "fp": "governor nearly ohio poll races senate tied",
+   "title": "Ohio governor, Senate races nearly tied: Poll",
+   "source": "The Hill",
+   "at": "2026-09-19T20:07:36.651287+00:00"
+  },
+  {
+   "fp": "continues down shock stocks yield",
+   "title": "U.S. Stocks Down as Oil, Yield Shock Continues",
+   "source": "WSJ",
+   "at": "2026-09-19T20:07:38.315546+00:00"
+  },
+  {
+   "fp": "election freeze putin time trying",
+   "title": "Putin isn\u2019t trying to win an election. He\u2019s trying to freeze time",
+   "source": "Washington Examiner",
+   "at": "2026-09-19T20:07:39.971124+00:00"
   }
  ],
  "titles": [
-  "asian decline falls losses prices shares street tracking wall",
-  "banks defense european higher indexes slide stocks weighs",
-  "days detectives early hero morgue recall remain unidentified victims",
   "coast firefighter ground guard honor killed names ship stand vance zero",
   "accused attacks civilian europe five growing infrastructure killed live rapidly russia ukraine",
   "dakota footprints found giant known north step",
@@ -3603,6 +3600,9 @@
   "crash dead found pilot planes upstate york",
   "autistic frame infant jealous killed monster prosecutors rage then tried",
   "evacuate fire forced hotel hundreds kent suspicious treated",
-  "begins congo ebola epicenter health outbreak vaccinations workers"
+  "begins congo ebola epicenter health outbreak vaccinations workers",
+  "governor nearly ohio poll races senate tied",
+  "continues down shock stocks yield",
+  "election freeze putin time trying"
  ]
 }
