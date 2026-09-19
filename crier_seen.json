@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40633516",
   "https://nypost.com/?post_type=article&p=40647239",
   "https://www.npr.org/2026/09/03/nx-s1-5955654/justice-department-charges-castro-ice-officer",
   "CBMimwFBVV95cUxNRG5PSE1pWG01bkd3TURSUXl3NHlPWUZLYm8yRGdGemlGbjlXakdIem52a3FDdURhUXNKX0J3S3lKT1dVMEJHcWJHejNPbnBnWWQ3RXUxemREdXp3MHFYajlzQ0tidko0dGFjOGxTZ0FnSU1Wd1VUa3ZuZF9CUlZ5N0JiYUZqeXJhZGlDdDBSRU5YYllvRGozeTJHdw",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/2026/sep/19/israel-president-pardon-elor-azaria-wounded-palestinian-attacker",
   "CBMiiwFBVV95cUxQSkhLVXZNYXJXaEhjc19Ub1E2R2ZEbkhqcEhDQ1NfbjYyYWlzaG9LbDVOUGR6WVBETEQ5ZG5pZEJEMjAyVV9zd0JqeE9qc0s3bVlTVDA5dEJsWE1vY1U2Q0h1OWpVTkpreVgtYU50ZnRWQlBpM045eG1LTGhZYXZJMEVwVmJocm91a3Vz",
   "CBMiuAFBVV95cUxQTnNGakkyQ1l0eExtOVhaOVpNYVdqTFFrZUpYeEZiOUM2NDh2cVpzMzBuWE0tckNDTGsySFM2cXpKY3E4UmJuTXRWbmhOWXItNl83ZTY4TDYwRlN3YmdDc0xVSEJoSklueGZtZlY5b0xzQno0NThfOHc3SGVORDY4cXUzVUxCTDRSeW9UNEFCVW5UcGxWRWpwek5HSk9NTWRBUDd6cE9YYzBST3pyZENZakFKd29ZVUpa",
-  "https://nypost.com/?post_type=article&p=40895433"
+  "https://nypost.com/?post_type=article&p=40895433",
+  "CBMimgFBVV95cUxNRmlzTnd1RkxNeWcyaDBTMmdoY0FxdU9FVGFZd1NIWHFLWjRIZHR5Z083Tk1lUVlTNGJZRndfOERTXy0tVzUzcHdfU1BqeGw2SU0zRXJsbTBHQlIzbUtsdTFCRHFFbWRsM0xBT0Y4Uzl1S0FzYUpxMWpKRk5rVE5SS2ZHQ0RCWEw5NW9EaGo2LVN5RndVREN3eUtR"
  ],
  "posts": [
-  {
-   "fp": "bodies death ferry fire philippine recovered rises toll",
-   "title": "Death toll in Philippine ferry fire rises to 35 as more bodies are recovered",
-   "source": "AP",
-   "at": "2026-09-11T15:10:33.886254+00:00"
-  },
   {
    "fp": "been class congress down families letting political years",
    "title": "Congress and our political class have been letting 9/11 families down for 25 years",
@@ -3201,10 +3195,15 @@
    "title": "Dad mauled to death by shark in front of horrified friend as rare kill order issued for monster great white",
    "source": "New York Post",
    "at": "2026-09-19T21:12:36.506695+00:00"
+  },
+  {
+   "fp": "iranians laureate mohammadi narges nobel paying price repression tells",
+   "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians paying the price for war and repression",
+   "source": "AP",
+   "at": "2026-09-19T22:41:48.200361+00:00"
   }
  ],
  "titles": [
-  "bodies death ferry fire philippine recovered rises toll",
   "been class congress down families letting political years",
   "abdul america comments democratic himself hopeful rival sayed senate separated team",
   "center data davidson harley patagonia role trade",
@@ -3603,6 +3602,7 @@
   "attacker combat dead israeli medic palestinian pardons president shot wounded",
   "army attack camp captured claims deadly jnim linked mali qaida releases soldiers video",
   "attacker caused combat debate israel medic palestinian pardons president shooting whose",
-  "death friend front great horrified issued kill mauled monster order rare shark white"
+  "death friend front great horrified issued kill mauled monster order rare shark white",
+  "iranians laureate mohammadi narges nobel paying price repression tells"
  ]
 }
