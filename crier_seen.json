@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40647239",
-  "https://www.npr.org/2026/09/03/nx-s1-5955654/justice-department-charges-castro-ice-officer",
   "CBMimwFBVV95cUxNRG5PSE1pWG01bkd3TURSUXl3NHlPWUZLYm8yRGdGemlGbjlXakdIem52a3FDdURhUXNKX0J3S3lKT1dVMEJHcWJHejNPbnBnWWQ3RXUxemREdXp3MHFYajlzQ0tidko0dGFjOGxTZ0FnSU1Wd1VUa3ZuZF9CUlZ5N0JiYUZqeXJhZGlDdDBSRU5YYllvRGozeTJHdw",
   "CBMilAFBVV95cUxQUUpNcGxHMWt3cDdxdFVCZUNrdTBGRlZSUEpJOEg1ZENWVkRPN2lWbTZxMUU3WG56bkZScmlMM3hpOWtzOEtFcWJUaXNqUklwZU9KVlFxd2FxUEtVV2pwYnh3cXo2Y3dhZkJNUDBoSHcxN1dRM3ZCU25QdG02N1JCOHk2SjFzN2Z3UnhKc3hWbDNnWWFp",
   "https://www.washingtonexaminer.com/?p=4712418",
@@ -799,21 +797,11 @@
   "CBMiiwFBVV95cUxQSkhLVXZNYXJXaEhjc19Ub1E2R2ZEbkhqcEhDQ1NfbjYyYWlzaG9LbDVOUGR6WVBETEQ5ZG5pZEJEMjAyVV9zd0JqeE9qc0s3bVlTVDA5dEJsWE1vY1U2Q0h1OWpVTkpreVgtYU50ZnRWQlBpM045eG1LTGhZYXZJMEVwVmJocm91a3Vz",
   "CBMiuAFBVV95cUxQTnNGakkyQ1l0eExtOVhaOVpNYVdqTFFrZUpYeEZiOUM2NDh2cVpzMzBuWE0tckNDTGsySFM2cXpKY3E4UmJuTXRWbmhOWXItNl83ZTY4TDYwRlN3YmdDc0xVSEJoSklueGZtZlY5b0xzQno0NThfOHc3SGVORDY4cXUzVUxCTDRSeW9UNEFCVW5UcGxWRWpwek5HSk9NTWRBUDd6cE9YYzBST3pyZENZakFKd29ZVUpa",
   "https://nypost.com/?post_type=article&p=40895433",
-  "CBMimgFBVV95cUxNRmlzTnd1RkxNeWcyaDBTMmdoY0FxdU9FVGFZd1NIWHFLWjRIZHR5Z083Tk1lUVlTNGJZRndfOERTXy0tVzUzcHdfU1BqeGw2SU0zRXJsbTBHQlIzbUtsdTFCRHFFbWRsM0xBT0Y4Uzl1S0FzYUpxMWpKRk5rVE5SS2ZHQ0RCWEw5NW9EaGo2LVN5RndVREN3eUtR"
+  "CBMimgFBVV95cUxNRmlzTnd1RkxNeWcyaDBTMmdoY0FxdU9FVGFZd1NIWHFLWjRIZHR5Z083Tk1lUVlTNGJZRndfOERTXy0tVzUzcHdfU1BqeGw2SU0zRXJsbTBHQlIzbUtsdTFCRHFFbWRsM0xBT0Y4Uzl1S0FzYUpxMWpKRk5rVE5SS2ZHQ0RCWEw5NW9EaGo2LVN5RndVREN3eUtR",
+  "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo#2",
+  "CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE"
  ],
  "posts": [
-  {
-   "fp": "been class congress down families letting political years",
-   "title": "Congress and our political class have been letting 9/11 families down for 25 years",
-   "source": "The Hill",
-   "at": "2026-09-11T15:57:41.597118+00:00"
-  },
-  {
-   "fp": "abdul america comments democratic himself hopeful rival sayed senate separated team",
-   "title": "Democratic Senate hopeful Abdul El-Sayed \u2018separated himself from Team America\u2019 with 9/11 comments, GOP rival says",
-   "source": "New York Post",
-   "at": "2026-09-11T15:57:43.477511+00:00"
-  },
   {
    "fp": "center data davidson harley patagonia role trade",
    "title": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
@@ -3201,11 +3189,21 @@
    "title": "Nobel laureate Narges Mohammadi tells the AP that Iranians paying the price for war and repression",
    "source": "AP",
    "at": "2026-09-19T22:41:48.200361+00:00"
+  },
+  {
+   "fp": "everyone kill tech think workers",
+   "title": "Not all AI workers think the tech could kill everyone",
+   "source": "BBC World",
+   "at": "2026-09-19T23:09:38.217097+00:00"
+  },
+  {
+   "fp": "arabia attack capital developments houthis mideast other saudi tried",
+   "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
+   "source": "AP",
+   "at": "2026-09-19T23:09:39.846349+00:00"
   }
  ],
  "titles": [
-  "been class congress down families letting political years",
-  "abdul america comments democratic himself hopeful rival sayed senate separated team",
   "center data davidson harley patagonia role trade",
   "agree brics india modi partnership putin russia strengthen summit",
   "bilateral deal elections mexico sprint toward trade washington",
@@ -3603,6 +3601,8 @@
   "army attack camp captured claims deadly jnim linked mali qaida releases soldiers video",
   "attacker caused combat debate israel medic palestinian pardons president shooting whose",
   "death friend front great horrified issued kill mauled monster order rare shark white",
-  "iranians laureate mohammadi narges nobel paying price repression tells"
+  "iranians laureate mohammadi narges nobel paying price repression tells",
+  "everyone kill tech think workers",
+  "arabia attack capital developments houthis mideast other saudi tried"
  ]
 }
