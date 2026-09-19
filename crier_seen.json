@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6067788/",
-  "https://news.sky.com/story/britain-warned-its-in-deeply-uncomfortable-fiscal-position-ahead-of-challenging-budget-13580664",
-  "https://nypost.com/?post_type=article&p=40640523",
-  "CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ",
   "https://nypost.com/?post_type=article&p=40641007",
   "https://thehill.com/?p=6067538",
   "https://nypost.com/?post_type=article&p=40641012",
@@ -799,33 +795,13 @@
   "CBMiZ0FVX3lxTE5mR1hsU2VJeGxWWE9wLTBlYjhrTFhKSVljcXBOa2NyUXhWeV9HY3RGa3R5YkR1ejJLX2FFakxidEpRWFBUUm5Ka2ktVDVTYnpkXzFuTy1BaWUxWDhTbTJla0JPMnBBSkk",
   "CBMiuAFBVV95cUxOZzFqV0RWS1Zpc0I1QTc3YVZMSGJjVmRIX0wxTjd3UENCWFVfU19DVk1sSDVYenNZUnJfUWhhNzMxRUl1eDZ5MUJ2NHRLck9ILTF0NU5LMGNNUU1jTTBFRnhEX0FKSVdqelFNeDVTWkpoUi1sVnNBZVo5T016cHVTckl2NnpwYlJGd2w3NGkwSUxJNHdadzF3RlltcjBhYjdNSnNXb0ZuV3l2enVpWnc0UjdRV3BoODla",
   "CBMigwFBVV95cUxOVjZVR18xWU9Pbzl0WHRZdTV6NHYycnFRZDlCYTgtcTVaWjhNX2ZZb1NjcHJlOWxLdXF6X19LeWZ3bWUwVjNiODRXWS0yb3F3d1JxU1hmdlNxT0lGbTAwMkRORWhBbE80V3lDbmRRX1FoVUtIN29GT19tWmgxemV5ODJrZw",
-  "https://nypost.com/?post_type=article&p=40893614"
+  "https://nypost.com/?post_type=article&p=40893614",
+  "https://thehill.com/?p=6099069",
+  "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
+  "CBMiYkFVX3lxTE4wMnhPRlZZWmlDVWxKQXpDSUh5WWxubUlEeUVoT29TR0Z5aWRoNlNfNThVa0YteEhVRWpyZkdlLWdMYVFnZ2FCMGxCaTVOMW0tRlItcEMxa2thU0ZVYUJFVWhB",
+  "https://www.theguardian.com/politics/2026/sep/19/lib-dems-have-moral-responsibility-to-block-reform-says-ed-davey-as-party-gears-up-for-snap-election"
  ],
  "posts": [
-  {
-   "fp": "barge dead explosion fire island massive staten triggers",
-   "title": "One dead after explosion at Staten Island barge triggers massive fire",
-   "source": "New York Post",
-   "at": "2026-09-10T21:19:50.817904+00:00"
-  },
-  {
-   "fp": "alpine coach crash killed several swiss village",
-   "title": "Several killed in coach crash in Swiss Alpine village",
-   "source": "Reuters",
-   "at": "2026-09-10T21:19:52.638296+00:00"
-  },
-  {
-   "fp": "alps coach crash kills people several swiss",
-   "title": "Coach crash kills several people in Swiss Alps",
-   "source": "BBC World",
-   "at": "2026-09-10T21:19:54.458147+00:00"
-  },
-  {
-   "fp": "congo dead fire least school students",
-   "title": "At least 26 students dead after DR Congo school fire",
-   "source": "Sky News",
-   "at": "2026-09-10T21:19:57.038606+00:00"
-  },
   {
    "fp": "french jailed kill teacher threatening village",
    "title": "Man jailed after threatening to kill son's teacher in French village",
@@ -3201,13 +3177,33 @@
    "title": "3 killed in Navajo Nation flood include 7-year-old preparing for her birthday",
    "source": "New York Post",
    "at": "2026-09-19T09:16:54.798360+00:00"
+  },
+  {
+   "fp": "become election homestretch iowa midterm territory tricky",
+   "title": "Iowa has become tricky territory for GOP in midterm election homestretch",
+   "source": "The Hill",
+   "at": "2026-09-19T10:24:22.040319+00:00"
+  },
+  {
+   "fp": "actually answers ever interest rate wonder works",
+   "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
+   "source": "NPR News",
+   "at": "2026-09-19T10:24:23.683775+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-09-19T10:24:25.336050+00:00"
+  },
+  {
+   "fp": "block davey dems election gears moral party reform responsibility snap",
+   "title": "Lib Dems have \u2018moral responsibility\u2019 to block Reform, says Ed Davey as party gears up for snap election",
+   "source": "Guardian World",
+   "at": "2026-09-19T10:24:26.990928+00:00"
   }
  ],
  "titles": [
-  "barge dead explosion fire island massive staten triggers",
-  "alpine coach crash killed several swiss village",
-  "alps coach crash kills people several swiss",
-  "congo dead fire least school students",
   "french jailed kill teacher threatening village",
   "fall highs multiyear stocks tops yields",
   "county paxton public records spacex sues texas",
@@ -3603,6 +3599,10 @@
   "chase couple dreams gave license spacex",
   "approves billion bolivia congress deal threats triggering unrest",
   "2026 delaware election house live primary results",
-  "birthday flood include killed nation navajo preparing year"
+  "birthday flood include killed nation navajo preparing year",
+  "become election homestretch iowa midterm territory tricky",
+  "actually answers ever interest rate wonder works",
+  "edition journal print street wall",
+  "block davey dems election gears moral party reform responsibility snap"
  ]
 }
