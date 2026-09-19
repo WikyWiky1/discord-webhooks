@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/sep/03/catalina-island-deer-california",
-  "https://www.bbc.co.uk/news/articles/clyqw44w142o#0",
   "https://news.sky.com/story/about-80-confirmed-dead-after-migrant-boat-gets-into-difficulty-off-gran-canaria-13580794",
   "https://www.bbc.co.uk/news/articles/c33kzv7kly4o#0",
   "CBMipwFBVV95cUxNdTJqcjhocmNGR291QTJ6bnpDSGUxUWFzWk8xWm9PelRmQkF6MFlOcVpIQTlfTWhrTWo5cEV3eHljMHpjaTNwb3F3NGpUSzJocjhiLVNpRzlWeXZ0REZXaFdBclJiRjBQbnVZOEZSdTRTQzBNczNmWHZ4S1BvUXVsM3hQZ28xcDJDMVFLQUlJSGM4QzJVa3hhQkZHbkMwQzM3SlRCdmV4dw",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40792029",
   "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo#0",
   "https://www.theguardian.com/fashion/2026/sep/19/council-of-fashion-designers-of-america-ceo-steven-kolb-resigns-after-physically-restraining-animal-rights-activists",
-  "CBMiugFBVV95cUxNbEJIeGFNMGRJYVQzR3hPZWNpZXAwQ1B0RGhYVlhkUm9BSmVmR1FJQ3QxSWcxNkUtU2RaOTk0VWVMVUUxeklsQ19Tbmk4Y0tqYUpNTnNLdHl0NlB1QWhoYVVZUnczWVFTOUY1T0FxRGxqN2hVNVRlMmFpRFFjV2ZWcW1OS0pmQWtvdlRiTjBwa05ZOFRyMTZBNzk3a2R2RURBWHJleElrZU1wOUVoNzVRTllSRHA2OFE3LUE"
+  "CBMiugFBVV95cUxNbEJIeGFNMGRJYVQzR3hPZWNpZXAwQ1B0RGhYVlhkUm9BSmVmR1FJQ3QxSWcxNkUtU2RaOTk0VWVMVUUxeklsQ19Tbmk4Y0tqYUpNTnNLdHl0NlB1QWhoYVVZUnczWVFTOUY1T0FxRGxqN2hVNVRlMmFpRFFjV2ZWcW1OS0pmQWtvdlRiTjBwa05ZOFRyMTZBNzk3a2R2RURBWHJleElrZU1wOUVoNzVRTllSRHA2OFE3LUE",
+  "CBMirgFBVV95cUxOcG8wQ1BmSDZpcUlKbl9BRWVWbkhodjdvVkoxRHZWY0Y3MkhzR25jOHRVZ3g1S2x0LXB3Skp5el9BZ3pTOV9UQzJQeVN4UUdYWDQtUmpib3h2dUFVeEZQVmw0azRmOGFwdzZKWXUwbXl4WmpoZkhXQ2ZnX1lJam51N2h1elNEekwzOUpzU2E3ZFZzWXNRcmdmc0V5Y01FUjdRQms0MWxrcGpvZmNoZkE",
+  "CBMirAFBVV95cUxPX2VuQVU0UEZ6cFdxdmhrcERjaUtBTG43SS1yc2pCNlVUZTZEWFBCSU56RHZIdGoxdlItemFHUWd0QnRYdXg4elVFd2wxUGRZLXRLem45ZGx2Qk55TVRQR3pKejRHelhxMGZxV2RHVXRxa1p3NS0zM0RFMGZZZ2hSOURIZ3hRaW5ZMGJBaHlkcjFWVG5aaFFCYXN2YU1YWUlweW1GQVQzWDJtcDQy"
  ],
  "posts": [
-  {
-   "fp": "foes overseeing probe prosecutor resigns trump",
-   "title": "US prosecutor overseeing probe of Trump foes resigns",
-   "source": "Reuters",
-   "at": "2026-09-10T23:14:47.980393+00:00"
-  },
-  {
-   "fp": "brought foes investigation lead position prosecutor resigned tells trump",
-   "title": "Prosecutor brought in to lead investigation of Trump foes tells AP that he has resigned his position",
-   "source": "AP",
-   "at": "2026-09-10T23:14:49.889639+00:00"
-  },
   {
    "fp": "assassination charlie debated details harassment kirk right year",
    "title": "Man who debated Charlie Kirk right before assassination details 'year of harassment'",
@@ -3201,11 +3189,21 @@
    "title": "Poland concludes air operation with no airspace violations recorded",
    "source": "Reuters World",
    "at": "2026-09-19T14:15:33.699371+00:00"
+  },
+  {
+   "fp": "arrest consciousness election loses observer opposition party police russian",
+   "title": "Russian election observer loses consciousness during arrest by police, opposition party says",
+   "source": "AP",
+   "at": "2026-09-19T15:27:22.035431+00:00"
+  },
+  {
+   "fp": "brace buyers interest mortgage rate rises",
+   "title": "Buyers brace for \u00a31,000 mortgage hit from interest rate rises",
+   "source": "Telegraph",
+   "at": "2026-09-19T15:27:23.674680+00:00"
   }
  ],
  "titles": [
-  "foes overseeing probe prosecutor resigns trump",
-  "brought foes investigation lead position prosecutor resigned tells trump",
   "assassination charlie debated details harassment kirk right year",
   "costs declares emergency francisco housing mayor rent soar",
   "conspiracy differences grand hired opinion prosecutor reagan resigns trump",
@@ -3603,6 +3601,8 @@
   "attack caught desperately fights life scary stabs teacher teen video",
   "attack australia kill named order prompts rare shark victim western",
   "activists animal fashion physically resigns restraining rights",
-  "airspace concludes operation poland recorded violations"
+  "airspace concludes operation poland recorded violations",
+  "arrest consciousness election loses observer opposition party police russian",
+  "brace buyers interest mortgage rate rises"
  ]
 }
