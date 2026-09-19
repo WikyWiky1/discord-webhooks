@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40641007",
-  "https://thehill.com/?p=6067538",
-  "https://nypost.com/?post_type=article&p=40641012",
-  "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
-  "CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw",
   "CBMimAFBVV95cUxPRm1qUndzRGJ6NHpzRWZueGRlcTNFS0tCb2RQakc0ZWZnUlBjUkJJM2d5RGM3eEJOelBwc21LME4xazIxc1ktTzVPOVNjNWxrb3hYenFkemtuR1R2Q3Rvajk1Tmd1RDZLX2lnT1F2TGxldDBDXzFOM2plMmxPLWpUaVZJVEt6RHRYSGtVcVA1TGRqRjB3NWY0OA",
   "https://www.theguardian.com/us-news/2026/sep/03/catalina-island-deer-california",
   "https://www.bbc.co.uk/news/articles/clyqw44w142o#0",
@@ -799,39 +794,14 @@
   "https://thehill.com/?p=6099069",
   "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
   "CBMiYkFVX3lxTE4wMnhPRlZZWmlDVWxKQXpDSUh5WWxubUlEeUVoT29TR0Z5aWRoNlNfNThVa0YteEhVRWpyZkdlLWdMYVFnZ2FCMGxCaTVOMW0tRlItcEMxa2thU0ZVYUJFVWhB",
-  "https://www.theguardian.com/politics/2026/sep/19/lib-dems-have-moral-responsibility-to-block-reform-says-ed-davey-as-party-gears-up-for-snap-election"
+  "https://www.theguardian.com/politics/2026/sep/19/lib-dems-have-moral-responsibility-to-block-reform-says-ed-davey-as-party-gears-up-for-snap-election",
+  "https://www.washingtonexaminer.com/?p=4730307",
+  "https://nypost.com/?post_type=article&p=40841845",
+  "https://nypost.com/?post_type=article&p=40792029",
+  "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo#0",
+  "https://www.theguardian.com/fashion/2026/sep/19/council-of-fashion-designers-of-america-ceo-steven-kolb-resigns-after-physically-restraining-animal-rights-activists"
  ],
  "posts": [
-  {
-   "fp": "french jailed kill teacher threatening village",
-   "title": "Man jailed after threatening to kill son's teacher in French village",
-   "source": "BBC World",
-   "at": "2026-09-10T21:19:58.806210+00:00"
-  },
-  {
-   "fp": "fall highs multiyear stocks tops yields",
-   "title": "U.S. Stocks Fall as Oil Tops $100, Yields Hit Multiyear Highs",
-   "source": "WSJ",
-   "at": "2026-09-10T22:56:57.287997+00:00"
-  },
-  {
-   "fp": "county paxton public records spacex sues texas",
-   "title": "SpaceX sues Paxton, Texas county over public records",
-   "source": "The Hill",
-   "at": "2026-09-10T22:56:59.216498+00:00"
-  },
-  {
-   "fp": "abruptly calling digenova ethical foes investigating problems resigns trump",
-   "title": "Joe diGenova resigns abruptly from DOJ job investigating Trump foes, calling out \u2018ethical\u2019 problems on way out",
-   "source": "New York Post",
-   "at": "2026-09-10T23:14:42.894463+00:00"
-  },
-  {
-   "fp": "beloved boyfriend cops dead different grandmother island killed long police shot state",
-   "title": "Beloved Long Island grandmother, 62, was killed by ex-boyfriend \u2013 before he\u2019s shot dead by police in different state: cops",
-   "source": "New York Post",
-   "at": "2026-09-10T23:14:44.638533+00:00"
-  },
   {
    "fp": "alleged ally conspiracy inquiry leading post president resigns trump",
    "title": "Trump ally resigns from post leading inquiry into alleged conspiracy against president",
@@ -3201,14 +3171,39 @@
    "title": "Lib Dems have \u2018moral responsibility\u2019 to block Reform, says Ed Davey as party gears up for snap election",
    "source": "Guardian World",
    "at": "2026-09-19T10:24:26.990928+00:00"
+  },
+  {
+   "fp": "american confused dead dream guarantee just opportunity",
+   "title": "The American dream isn\u2019t dead. We just confused opportunity with a guarantee",
+   "source": "Washington Examiner",
+   "at": "2026-09-19T13:12:47.536966+00:00"
+  },
+  {
+   "fp": "bike footage getting horrifying killer serial shooting shows stray",
+   "title": "Horrifying footage shows serial cat killer shooting stray after getting off e-bike",
+   "source": "New York Post",
+   "at": "2026-09-19T13:12:49.429020+00:00"
+  },
+  {
+   "fp": "attack caught desperately fights life scary stabs teacher teen video",
+   "title": "Teen stabs teacher as she desperately fights for her life in scary, caught-on-video attack",
+   "source": "New York Post",
+   "at": "2026-09-19T13:12:51.353035+00:00"
+  },
+  {
+   "fp": "attack australia kill named order prompts rare shark victim western",
+   "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+   "source": "BBC World",
+   "at": "2026-09-19T13:12:53.090275+00:00"
+  },
+  {
+   "fp": "activists animal fashion physically resigns restraining rights",
+   "title": "US fashion CEO resigns after physically restraining animal rights activists",
+   "source": "Guardian World",
+   "at": "2026-09-19T13:12:54.908321+00:00"
   }
  ],
  "titles": [
-  "french jailed kill teacher threatening village",
-  "fall highs multiyear stocks tops yields",
-  "county paxton public records spacex sues texas",
-  "abruptly calling digenova ethical foes investigating problems resigns trump",
-  "beloved boyfriend cops dead different grandmother island killed long police shot state",
   "alleged ally conspiracy inquiry leading post president resigns trump",
   "foes overseeing probe prosecutor resigns trump",
   "brought foes investigation lead position prosecutor resigned tells trump",
@@ -3603,6 +3598,11 @@
   "become election homestretch iowa midterm territory tricky",
   "actually answers ever interest rate wonder works",
   "edition journal print street wall",
-  "block davey dems election gears moral party reform responsibility snap"
+  "block davey dems election gears moral party reform responsibility snap",
+  "american confused dead dream guarantee just opportunity",
+  "bike footage getting horrifying killer serial shooting shows stray",
+  "attack caught desperately fights life scary stabs teacher teen video",
+  "attack australia kill named order prompts rare shark victim western",
+  "activists animal fashion physically resigns restraining rights"
  ]
 }
