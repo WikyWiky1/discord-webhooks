@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6070144",
   "CBMixAFBVV95cUxQUEFXVU5xRXZGVUVkV3B2TUVQcTBseVZsSGd0blBwQktIaGlIc3R5TzMtNXFISkFTb1VOdlhWOXBmQ052RWFuT1pQaXJqQndNaXB3TmhLQTZPQXNQSFFXQ3JGY0NBdE1RY09razBPZFh2VnJiYmlBSld3akdLeHZxbVA5bWNqVWFycjFlUHFNd3VPdE4tYTFVaWxmdDBoOUlxUk80X0dkbkFqOV9SU3lxNkFsd0JGZnB5Qk9SV3JGWkxRWlhn",
   "https://thehill.com/?p=6070592",
   "https://thehill.com/?p=6070569",
@@ -799,15 +798,10 @@
   "CBMiZ0FVX3lxTE9NdHAtcVhEdF9wT3ZfUkk3OHpUYU5VbFJOMENDcFBWZzBzODByVkNwRDJHNl9SeUFOU29yb1RMNGZlSW1CZjRoUTIxWk5OeGN0WjkzSTUxZmttREYtX1oxRm5oN3Rtbnc",
   "https://www.washingtonexaminer.com/?p=4730609",
   "CBMiwAFBVV95cUxQdEkxYXMyV1VCY2lYSzZ3ZHR6eHlpOXhDdmtHSmliRVhLcWZ4UlVYdnhTTnRhdUJJYmY4UkpYLTQ1YjU2OUhvU1BSQjVZaHpBaGNPeVNuUE1mTW81SXk4aGFLUUlrRWRUTHhOUHdrVWtMTDJocEJabkdSbVRVYzh3akp5eDhlSWFCWF85b1FCRndDbUMyZzhIUXVnaHM0cjl1QlNNMm5Jb1FXSXVWbGhIdFFRQWE0Z2VxMkNwVnZUY0s",
-  "https://www.foxnews.com/world/exclusive-russian-document-reveals-sweeping-iran-plan-spanning-nuclear-finance-aviation"
+  "https://www.foxnews.com/world/exclusive-russian-document-reveals-sweeping-iran-plan-spanning-nuclear-finance-aviation",
+  "https://nypost.com/?post_type=article&p=40903611"
  ],
  "posts": [
-  {
-   "fp": "bronx disease infects kills legionnaires others outbreak south",
-   "title": "Legionnaires\u2019 disease outbreak kills one and infects others in the South Bronx",
-   "source": "Guardian World",
-   "at": "2026-09-11T23:17:44.158972+00:00"
-  },
   {
    "fp": "derails france injuring northern people train",
    "title": "Train derails in northern France, injuring 44 people",
@@ -3201,10 +3195,15 @@
    "title": "EXCLUSIVE: Russian document reveals sweeping Iran plan spanning nuclear, finance and aviation",
    "source": "Fox News World",
    "at": "2026-09-20T11:46:22.356580+00:00"
+  },
+  {
+   "fp": "brains every happened paste people tablespoons tomato",
+   "title": "What happened to people\u2019s brains when they ate 2 tablespoons of tomato paste every day",
+   "source": "New York Post",
+   "at": "2026-09-20T14:37:44.352731+00:00"
   }
  ],
  "titles": [
-  "bronx disease infects kills legionnaires others outbreak south",
   "derails france injuring northern people train",
   "forget generation killed loved never next ones pledges",
   "couple dead down family found gunning murderous",
@@ -3603,6 +3602,7 @@
   "attack deadly drone moscow region vote wartime",
   "collapsing college degree eyes value",
   "dead found lions poisoning reserve suspected tanzania wildlife",
-  "aviation document exclusive finance iran nuclear plan reveals russian spanning sweeping"
+  "aviation document exclusive finance iran nuclear plan reveals russian spanning sweeping",
+  "brains every happened paste people tablespoons tomato"
  ]
 }
