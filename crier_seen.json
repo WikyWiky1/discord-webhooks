@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
   "CBMiuwFBVV95cUxNanQ5UjZTU0dmaHB5RWh2dlFrMjYxTGNiOTdkUnZhUk84Y0NmVm1OMWFfZnF5c0Y0WXdsZzhFd1g1cklqQ2djTk92dFlfY1JGUWxLOHB6WFhoNUNnbEpVVldBRVpyNXdNRnAyUVBUN0dnc1FnMmhVdGVRRTg5eDlRWDRuTS1kV0dFeFhFeTZ4b2lmLWJFUnRkLTR6eDUzVE10SHdHYTNUNk43OXVES1E4dU1vcmQwNlJDNTdz",
   "https://www.washingtonexaminer.com/?p=4712550",
   "CBMizAFBVV95cUxNOW1RTE5RakU3UUFmYnRhbjVmVnlGcVBHWjJKQVluMmFsUmVKcDZrUEpTWm9CZlk3SHhxa3lQVGVzYUtQTjV0QnBRNVh4TjJqODR6RlpmbWRXRlItMmE5RUVIMkZOdGxlNUVqV25NaGJ6bjhWWTFyckRjN2tmYlNiWlZ0bEZNNXNWN0hQU3BKdEJUaWdRZjZfaDdjMmZMZnI2eGkwRWlNVVBySkl0cFBjcFZsT21qcXhkNTRwVWF5bDVSbWxCaTA5Z2NtYW4",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
   "CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y",
   "CBMirAFBVV95cUxOQ0s4QnlodnpxUF9FT09hSldHYzZHRUwwSG1IZG9pMDU0N0JsOUV6eE92SDNFcHNhYkVSbXlmWnBYV2VfUE5pdVdEVlJkVHJld2dVVEVYazRYWXhzS3g1SmNSYjgwWnhlMWRILS1HcWhhYkpBUlpZTW5vOUJ6YXUxN2xoSEkyeUdLZmp3UThwWHowWU5OWHRjVHVNVjhOX2tqMFRLbXY1LTRzRThl",
-  "CBMisAFBVV95cUxOZnFXQ1lvNTg5TnJvazhfY3VXa0hrVms4RW1mdVBpR0k4QXZkempjX0h4Y2JIaGNvSm04YVJkTHRDTWpESVFDakhJMExiNGZSSktLcVFsM3VlM3ZibDQwVlE3czF4OEdLdXdnU0FPaUN1aHFLVWN3cW9uVHRTTDdDU1BNaUNMd3NQMlY5VGZPYzA5ODlMQi1rcWVDXzhFZHJWUF9tQjJqUUtzQW1yc0tYNw"
+  "CBMisAFBVV95cUxOZnFXQ1lvNTg5TnJvazhfY3VXa0hrVms4RW1mdVBpR0k4QXZkempjX0h4Y2JIaGNvSm04YVJkTHRDTWpESVFDakhJMExiNGZSSktLcVFsM3VlM3ZibDQwVlE3czF4OEdLdXdnU0FPaUN1aHFLVWN3cW9uVHRTTDdDU1BNaUNMd3NQMlY5VGZPYzA5ODlMQi1rcWVDXzhFZHJWUF9tQjJqUUtzQW1yc0tYNw",
+  "CBMikAFBVV95cUxPclZzSE1lTGx5eHdrNy1tZUxJRlpITlBLd2daSkJQUG16ZXBWOFd5ZzNUcml6UXJSTEpOQ3VQWlpaUy1jT3Z2dnFDRjFqX2ZpUXZFblZSdXVFS3JESHh5MXAxNHVCWlppdjAxVkF2enRZWWZIQ0xTdm9BMnA3cHI1STVCWXVvbEhheEcwUFlaalA"
  ],
  "posts": [
-  {
-   "fp": "breaking brewing finally malaise right time yankees",
-   "title": "After brewing for a bit, Yankees are finally breaking out of malaise at right time",
-   "source": "New York Post",
-   "at": "2026-09-12T05:51:04.091057+00:00"
-  },
   {
    "fp": "about ford fuel issues recall tank vehicles",
    "title": "Ford to recall about 223,500 US vehicles over fuel tank issues",
@@ -3201,10 +3195,15 @@
    "title": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
    "source": "Reuters",
    "at": "2026-09-20T15:32:44.218165+00:00"
+  },
+  {
+   "fp": "fight killed pensioner sunbed",
+   "title": "Pensioner killed in fight for sunbed",
+   "source": "Telegraph",
+   "at": "2026-09-20T18:12:53.123722+00:00"
   }
  ],
  "titles": [
-  "breaking brewing finally malaise right time yankees",
   "about ford fuel issues recall tank vehicles",
   "chief defense killed russian troops ukraine",
   "2027 election needs presidential venezuela",
@@ -3603,6 +3602,7 @@
   "drones election final hundreds moscow russian targets ukraine",
   "assured dominance election kremlin parliamentary russia wartime wraps",
   "away bank business drive miliband sanctions west",
-  "attacks claim fall gulf houthis riyadh saudi stocks"
+  "attacks claim fall gulf houthis riyadh saudi stocks",
+  "fight killed pensioner sunbed"
  ]
 }
