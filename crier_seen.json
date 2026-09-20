@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMiYkFVX3lxTE5EOFB0RlpNQW81b3lWOTRRSG1PRWIwV3JhZ1hUSXNfSTQ0dUQ5bUtTeGNLWTR1TmxlV05EalVHaWhnSEpsYzJDdFAtQ1J4SGhOUjJWZl9PSVhtN3JITmxBbDVn",
-  "CBMimwFBVV95cUxNdTJNUkhrZnFtcjZwZmtHcGNSYTBCNkZKZFBlUy1IS3BiTlhBYzRNSm1VRWlLRFhHdmVjUEt4ajZmWFRHOGUzWHBKeFhWSlllYzdoc3g3dmFDVFpfLXQ5d19GRmtiT2UtT0gyV0d1cnpaQmY4RElYZzBBY0pfY2I5Q01HRjhxak1pOHo2c0JiUlJIWmdiX0NZX3Z1Zw",
-  "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
   "https://www.bbc.co.uk/news/articles/c5yep7y48x2o#0",
   "https://www.theguardian.com/world/2026/sep/03/israelis-shoot-dead-two-palestinian-teenagers-after-settlers-encircle-village",
   "https://nypost.com/?post_type=article&p=40665745",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
   "CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3",
   "https://nypost.com/?post_type=article&p=40908118",
-  "https://www.washingtonexaminer.com/?p=4735379"
+  "https://www.washingtonexaminer.com/?p=4735379",
+  "CBMiogFBVV95cUxOZzV1OGZScHpSaFBvZVZuV2RwNFJzdV9GOVNuT0s1b1N0dlU5RXVQdGh5ZHpneWloTWNOU01GMVgxZjlVTVFtTG5Ock0xZWcwQ21iaWVObjNKeTdBY3MzcDU0RGNNanRHNG1LbWlkeUh1RUY0QW5TM2JfbkJ5bFFwcmMzdDZkQTd0STVXRGJkMjA5bkZWVGN6Q3kteHJMZTQ1dnc",
+  "CBMivgFBVV95cUxQbzVOcmJ4eEtjbkl2RklqSHpWQUVfbHJWTE9fbl95b0ZaajRqbXJYLWxmUExfYUpBcDNuSEVlWGN3djQtbXNCbENmMkJqaDgyWjMtaElIcXpxNkpTdElHZTVNSkUtU3ZYSUdJLVF3WUszZUlSSXJSU1JYS19ZM05HOEJyLWlTZk10bEhYTWRGUGR3ZFlld0tVR0EyYThkaTBOWHRtbFBZUnVaTXZ5WEVPTzVTTXlFYTBDUUx0M1ZB",
+  "https://thehill.com/?p=6099111"
  ],
  "posts": [
-  {
-   "fp": "attack backed blamed iran iraq militias pipeline saudi",
-   "title": "Attack on key Saudi pipeline is blamed on Iran-backed militias in Iraq",
-   "source": "AP",
-   "at": "2026-09-12T16:21:52.356976+00:00"
-  },
-  {
-   "fp": "california issued massive northern spreads urgent warning wildfire",
-   "title": "Urgent warning issued as massive wildfire spreads in Northern California",
-   "source": "New York Post",
-   "at": "2026-09-12T18:42:32.953474+00:00"
-  },
-  {
-   "fp": "attacks dozens hits injure kill moscow plants russian ships ukraine",
-   "title": "Russian attacks kill six, injure dozens in Ukraine, Moscow says it hits ships, plants",
-   "source": "Reuters",
-   "at": "2026-09-12T18:42:34.734008+00:00"
-  },
   {
    "fp": "attack delays labour ordering submarines",
    "title": "Labour delays ordering new attack submarines",
@@ -3201,12 +3183,27 @@
    "title": "Man in \u2018serious but stable condition\u2019 after shooting in Austin involving ICE officer: Officials",
    "source": "Washington Examiner",
    "at": "2026-09-20T22:51:01.150055+00:00"
+  },
+  {
+   "fp": "disaster election germany leads merz postwar result rues state worst",
+   "title": "AfD leads as Merz rues 'disaster' in worst state election result in postwar Germany",
+   "source": "Reuters",
+   "at": "2026-09-20T23:01:45.991796+00:00"
+  },
+  {
+   "fp": "administration court criminal international prepares sanctions sources trump",
+   "title": "Trump administration prepares sanctions against International Criminal Court, sources say",
+   "source": "Reuters",
+   "at": "2026-09-20T23:01:47.984896+00:00"
+  },
+  {
+   "fp": "bill college eyes final hill passage senate sports week",
+   "title": "This week on the Hill: Senate eyes final passage on college sports bill",
+   "source": "The Hill",
+   "at": "2026-09-20T23:01:49.663334+00:00"
   }
  ],
  "titles": [
-  "attack backed blamed iran iraq militias pipeline saudi",
-  "california issued massive northern spreads urgent warning wildfire",
-  "attacks dozens hits injure kill moscow plants russian ships ukraine",
   "attack delays labour ordering submarines",
   "bullets killed playground police shot",
   "area earthquake overnight rocks",
@@ -3603,6 +3600,9 @@
   "2021 arrested assassination connection dozen haitian president",
   "attack drones ever fires including largest moscow russia ukraine",
   "alto breaking face mall menace neck palo planting taser zapped",
-  "austin condition involving officer officials serious shooting stable"
+  "austin condition involving officer officials serious shooting stable",
+  "disaster election germany leads merz postwar result rues state worst",
+  "administration court criminal international prepares sanctions sources trump",
+  "bill college eyes final hill passage senate sports week"
  ]
 }
