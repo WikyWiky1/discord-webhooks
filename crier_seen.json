@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR",
-  "CBMipgFBVV95cUxNWHlxUnZsQzNBY3Z1WUpoV1FFbkU2XzlfLUprd1kxS0JZem1ZeG9wR2JnOVRnblV1U21ZSF9URS04Y3M0MmFzMkRxQ2c2MzVWTGJYWERJU2MyaUprbHNtUll5cFFmUl92YmFGUGFDVHBReTQwUE51ZDNOdDZQNVUzaFNlU05DT3FjZk1ZUWRWUnNSYU5rRFY2M1VzalJnakV0c0Yxc0Z3",
   "CBMiYkFVX3lxTE5EOFB0RlpNQW81b3lWOTRRSG1PRWIwV3JhZ1hUSXNfSTQ0dUQ5bUtTeGNLWTR1TmxlV05EalVHaWhnSEpsYzJDdFAtQ1J4SGhOUjJWZl9PSVhtN3JITmxBbDVn",
   "CBMimwFBVV95cUxNdTJNUkhrZnFtcjZwZmtHcGNSYTBCNkZKZFBlUy1IS3BiTlhBYzRNSm1VRWlLRFhHdmVjUEt4ajZmWFRHOGUzWHBKeFhWSlllYzdoc3g3dmFDVFpfLXQ5d19GRmtiT2UtT0gyV0d1cnpaQmY4RElYZzBBY0pfY2I5Q01HRjhxak1pOHo2c0JiUlJIWmdiX0NZX3Z1Zw",
   "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40907428",
   "https://pagesix.com/?post_type=article&p=9187604",
   "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
-  "CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3"
+  "CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3",
+  "https://nypost.com/?post_type=article&p=40908118",
+  "https://www.washingtonexaminer.com/?p=4735379"
  ],
  "posts": [
-  {
-   "fp": "america canada neighbor northern seems target trade unlikely",
-   "title": "Why Canada? America\u2019s northern neighbor seems an unlikely target for a trade war",
-   "source": "AP",
-   "at": "2026-09-12T15:06:04.789525+00:00"
-  },
-  {
-   "fp": "caused derailment french investigate malicious officials train",
-   "title": "French officials investigate if malicious act caused train derailment",
-   "source": "BBC World",
-   "at": "2026-09-12T16:21:50.639196+00:00"
-  },
   {
    "fp": "attack backed blamed iran iraq militias pipeline saudi",
    "title": "Attack on key Saudi pipeline is blamed on Iran-backed militias in Iraq",
@@ -3201,11 +3189,21 @@
    "title": "Ukraine fires over 1,000 drones at Russia, including \u2018largest ever\u2019 attack on Moscow",
    "source": "AP",
    "at": "2026-09-20T20:52:04.248325+00:00"
+  },
+  {
+   "fp": "alto breaking face mall menace neck palo planting taser zapped",
+   "title": "Palo Alto mall menace is zapped with Taser before face planting and breaking his neck",
+   "source": "New York Post",
+   "at": "2026-09-20T22:50:59.420672+00:00"
+  },
+  {
+   "fp": "austin condition involving officer officials serious shooting stable",
+   "title": "Man in \u2018serious but stable condition\u2019 after shooting in Austin involving ICE officer: Officials",
+   "source": "Washington Examiner",
+   "at": "2026-09-20T22:51:01.150055+00:00"
   }
  ],
  "titles": [
-  "america canada neighbor northern seems target trade unlikely",
-  "caused derailment french investigate malicious officials train",
   "attack backed blamed iran iraq militias pipeline saudi",
   "california issued massive northern spreads urgent warning wildfire",
   "attacks dozens hits injure kill moscow plants russian ships ukraine",
@@ -3603,6 +3601,8 @@
   "buried collapse colleges commentary economic fast good hastens news other takes",
   "chad dead devastated found gilbert glory guitarist",
   "2021 arrested assassination connection dozen haitian president",
-  "attack drones ever fires including largest moscow russia ukraine"
+  "attack drones ever fires including largest moscow russia ukraine",
+  "alto breaking face mall menace neck palo planting taser zapped",
+  "austin condition involving officer officials serious shooting stable"
  ]
 }
