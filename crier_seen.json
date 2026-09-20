@@ -1,10 +1,5 @@
 {
  "ids": [
-  "CBMipwFBVV95cUxQUDVZZ0dqVmI3WTlWc0tiQTI4SzVMRXM4YjVlb0stNmFuX0dBYUFoZjBvQlBVMkFDMGd0U2NlbXBCN1NzMlEwT0tqbkpDdkZicmFRdFlvZXV1UjN6TUF3LWRzd2ZDbHhpNWdmb0VhOTRnWXg0RG5pRjhNeTdRcnVNbVVaZzNsQnFrUXlNR3Rfd0o3dlpfV0E1a0xaYTVXbWdaWm96YzZLWQ",
-  "CBMilwFBVV95cUxNVGNqanQzNkZWQXM4U1Q5SlhOR1pxckVDSXd5TDI2OWxndXlocno2WEpMalYtWjFROWJEU1duNmRmQk9qbUdBVEpjck5mSEJuRmt6Rlh1d3JwME5IVFJRczd2aVRpZUJuZWJXQ2FaeTl1UTJzQ0NUVHYyS2JOaE9nQzM5bklqdmlxU0d5RnpFZXJwckhPbnRJ",
-  "https://thehill.com/?p=6068925",
-  "https://nypost.com/?post_type=article&p=40653748",
-  "https://nypost.com/?post_type=article&p=40649578",
   "https://nypost.com/?post_type=article&p=40654371",
   "https://news.sky.com/story/two-people-arrested-by-german-police-over-alleged-arson-attack-on-defence-firm-13581055",
   "https://nypost.com/?post_type=article&p=40650890",
@@ -799,39 +794,14 @@
   "CBMimwFBVV95cUxQd3ZDNjluUlBlYTVDbFpkamRIZUdhVUNsTk5XUFZ0UzU5MmpUZ0NtZGs0NFNuWXJ6aUx1dnNsN2VMd1RuNGlfZTZUNklVQXRUa2R5a19wUGc0SmJ0SzlsSW9aRGRGTnExYkRYZXp3TGE5eThhekFRTlFKejdhZGRmbzRrdDYyM2dkNEFDMTl2bDNlX1pRUlUwTVZXQQ",
   "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport",
   "https://www.theguardian.com/us-news/2026/sep/19/gavin-newsom-elections-trump-administration-interference",
-  "https://thehill.com/?p=6100079"
+  "https://thehill.com/?p=6100079",
+  "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo#0",
+  "CBMisAFBVV95cUxNVVNJbGZEQXkzaEQ0UGs4U192Sks0X1UtRWtrYXhIbG0tdDhKLU4xYU1kZTFTY2g3VG4xSUE1b3MxVUNzLXlNUjZrSnRiQy1jeWo2bmJhNElYME1DUWxKdHBtbktxSUpNUkNJcjRkc1NMUmtkT2hKOWpZRGdfdDRiV0JaZVNnTWd5Sk1qbnA3N0oyWEFULTVBcllkZGsyOHZLenl4ZHNLbHRIX1B0RDRJdA",
+  "https://www.theguardian.com/australia-news/2026/sep/20/bondi-stabbing-90-year-old-woman-nsw-alleged-domestic-violence-killings-ntwnfb",
+  "https://nypost.com/?post_type=article&p=40902355",
+  "https://www.theguardian.com/australia-news/2026/sep/20/blue-mountains-stabbing-nsw-police-one-child-dead-and-two-children-and-woman-in-critical-condition-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "congo ebola outbreak province spreads",
-   "title": "Ebola outbreak in Congo spreads to a 7th province",
-   "source": "AP",
-   "at": "2026-09-11T18:35:55.177988+00:00"
-  },
-  {
-   "fp": "alleged attack christians court documents groups inspiring plans satanist show teenager",
-   "title": "Court documents show groups inspiring \u2018satanist\u2019 teenager\u2019s alleged plans to attack Christians",
-   "source": "Washington Examiner",
-   "at": "2026-09-11T18:35:56.818281+00:00"
-  },
-  {
-   "fp": "backed graham house late russia sanctions senator vote",
-   "title": "US House to vote on Russia sanctions backed by late Senator Graham",
-   "source": "Reuters",
-   "at": "2026-09-11T20:32:22.106559+00:00"
-  },
-  {
-   "fp": "delo election fair fight giving make millions next reform",
-   "title": "Ben Delo: I'm giving Reform millions to make the next election a fair fight",
-   "source": "Telegraph",
-   "at": "2026-09-11T20:32:24.126880+00:00"
-  },
-  {
-   "fp": "iranians jobs losing many sanctions struggling",
-   "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-   "source": "NPR News",
-   "at": "2026-09-11T20:32:26.047112+00:00"
-  },
   {
    "fp": "alleged banco bolsonaro brazil case challenger corruption election investigation master under",
    "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case",
@@ -3201,14 +3171,39 @@
    "title": "Trump's MAGA Inc. funnels another $5 million into Texas Senate race",
    "source": "The Hill",
    "at": "2026-09-20T03:40:35.262196+00:00"
+  },
+  {
+   "fp": "attack drone killed massive moscow region russia ukrainian",
+   "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+   "source": "BBC World",
+   "at": "2026-09-20T06:20:42.208544+00:00"
+  },
+  {
+   "fp": "capital dead drones moscow refinery region russian",
+   "title": "Two dead in Moscow region, drones hit oil refinery in Russian capital",
+   "source": "Reuters",
+   "at": "2026-09-20T06:20:43.881771+00:00"
+  },
+  {
+   "fp": "charged domestic incidents killed murders related separate three violence women",
+   "title": "Three men charged with domestic violence-related murders after three women killed in separate incidents in NSW",
+   "source": "Guardian World",
+   "at": "2026-09-20T06:20:45.621676+00:00"
+  },
+  {
+   "fp": "alleged boat caribbean drug killed military smuggling strike",
+   "title": "US military says it killed 4 in strike on alleged drug-smuggling boat in the Caribbean",
+   "source": "New York Post",
+   "at": "2026-09-20T06:20:47.305853+00:00"
+  },
+  {
+   "fp": "blue child children condition critical dead mountains stabbing woman",
+   "title": "One child dead and two children and woman in critical condition after Blue Mountains stabbing",
+   "source": "Guardian World",
+   "at": "2026-09-20T06:20:48.949317+00:00"
   }
  ],
  "titles": [
-  "congo ebola outbreak province spreads",
-  "alleged attack christians court documents groups inspiring plans satanist show teenager",
-  "backed graham house late russia sanctions senator vote",
-  "delo election fair fight giving make millions next reform",
-  "iranians jobs losing many sanctions struggling",
   "alleged banco bolsonaro brazil case challenger corruption election investigation master under",
   "final flight marker memorial shapiro trail unveils",
   "coal court federal keeping michigan order plant rules running trump",
@@ -3603,6 +3598,11 @@
   "caribbean four killed strike vessel",
   "airport attack capital claim houthis near riyadh saudi seen smoke thick",
   "bills election federal gavin interference newsom security signs thwart trump",
-  "another funnels maga million race senate texas trump"
+  "another funnels maga million race senate texas trump",
+  "attack drone killed massive moscow region russia ukrainian",
+  "capital dead drones moscow refinery region russian",
+  "charged domestic incidents killed murders related separate three violence women",
+  "alleged boat caribbean drug killed military smuggling strike",
+  "blue child children condition critical dead mountains stabbing woman"
  ]
 }
