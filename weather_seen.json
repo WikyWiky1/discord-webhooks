@@ -1077,9 +1077,9 @@
    "message_id": "1551010774686630021",
    "event": "Severe Thunderstorm Warning",
    "area": "Harper, KS; Sumner, KS",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-09-19T23:23:05+00:00",
-   "expired_at": null
+   "expired_at": "2026-09-20T01:25:27+00:00"
   }
  ]
 }
