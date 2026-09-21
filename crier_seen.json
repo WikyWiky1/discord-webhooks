@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://pagesix.com/?post_type=article&p=9156495",
-  "https://nypost.com/?post_type=article&p=40648120",
-  "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
-  "CBMiwAFBVV95cUxNWDhRUjlOUEk4X20tWWV0dzFUNXZGc0RyMzM2eEpqOS0xRnpfdXpxSUdWZXdoZkJZV3VpWlI1WEJCUFZiUWFvcEFMdmxFY1dDMkNDMDBBZmdzUmhXSlVxMndZdE5yUV9ST05BOHJjc3JvajRqVUlDYk1xTVdwX2d2bnBXRzVVVWg2TUxIUnpxTzUtZGpBUHp2OW1UTE5CbVlYS1lfTXNOVk9RSXotVjFSdDBnR3Jsa0MtSzlMbk44TnI",
-  "CBMihAFBVV95cUxPRm1Rc0Eta3VEZlAwYVVGdXBvSklLbk51di1LMG9JQXZKdFpuaGl5akgySFBkaTVjbUhCaDVBZV9CTmZnNE9EUC1UUW9yNmluNk43Q1E4ZnRMZ3VDWlZjbGhubnNsMGxybWdHV2ladnUwWmRIRHJES28wM2pmdDNLeDhyNDE",
-  "https://www.washingtonexaminer.com/?p=4710629",
   "https://www.washingtonexaminer.com/?p=4715074",
   "CBMiyAFBVV95cUxObm5KVldFcHBRMVJuMnJVbEUyZVJSOFZOcS1GNEFqa2dKanBhaHp0WjNubUg5NmZ3WFUwVS1fZHQwVjhUVFZ3LTV3UmY3VS1qUjBNbi1Kbm5QeVF0Mk1EQjRlSzhoX1VVaGVhUDBjTDRJS3ZLcHF4ZC05T0FNc0wzV1BqeWlOMGNsWXhoclMzWnM0QzMxUnNXUlIxVnhzTkFZR1E5d1ktVXZiVmE5bVRZOUlHTURvSU41Q2dNZHA4NVdmY0Z0MWpPcA",
   "https://nypost.com/?post_type=article&p=40622005",
@@ -799,45 +793,15 @@
   "https://www.washingtonexaminer.com/?p=4736059",
   "https://nypost.com/?post_type=article&p=40918053",
   "https://thehill.com/?p=6102198",
-  "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit"
+  "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit",
+  "CBMingFBVV95cUxPYk82V2poZ2xwNEFHSTczZlRZZ2NrZ2lCc0haNHBLeGsxWFpnM0tIOWhudGZ3bjlnckJ6UXFVSHljRTNQb3cwUGt5aFpmN0c5OGhiUkxMWTVISURneWFmQzJJa0xDQjlEMEh0TWRoXzNBSWxSZjZsY3JtdTU4Nlc2emFmWC02Qmp6Vk15bmtBR0g0RXdmMElPOUFRZWdsUQ",
+  "https://www.washingtonexaminer.com/?p=4736658",
+  "https://nypost.com/?post_type=article&p=40921003",
+  "https://www.theguardian.com/us-news/2026/sep/21/helicopter-pilots-killed-yosemite-wildfire",
+  "https://nypost.com/?post_type=article&p=40918778",
+  "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o#0"
  ],
  "posts": [
-  {
-   "fp": "australian bird death endangered fears lion population recorded small",
-   "title": "First H5 bird flu death of endangered Australian sea lion recorded amid fears for small population",
-   "source": "Guardian World",
-   "at": "2026-09-13T14:52:31.020381+00:00"
-  },
-  {
-   "fp": "emergency lake landing makes plane safety swims tiffany",
-   "title": "Rep. Tom Tiffany swims to safety after plane makes emergency lake landing",
-   "source": "Washington Examiner",
-   "at": "2026-09-13T15:34:12.084685+00:00"
-  },
-  {
-   "fp": "abdul absolutely backer hopeful lefty michigan nets right sayed senate surprising",
-   "title": "Lefty Michigan Senate hopeful Abdul El-Sayed nets surprising backer: \u2018Absolutely right\u2019 on 9/11",
-   "source": "New York Post",
-   "at": "2026-09-13T15:42:09.417450+00:00"
-  },
-  {
-   "fp": "13th bloody cardellini crystal friday lake linda mission pamela peacock prequel trailer voorhees",
-   "title": "Linda Cardellini Is On A Bloody Mission As Pamela Voorhees In First Trailer for \u2018Friday The 13th\u2019 Prequel \u2018Crystal Lake\u2019 From Peacock and A24",
-   "source": "New York Post",
-   "at": "2026-09-13T15:42:11.131185+00:00"
-  },
-  {
-   "fp": "congress jeffries safeguards should urgently",
-   "title": "Jeffries says Congress should 'act urgently' on AI safeguards",
-   "source": "The Hill",
-   "at": "2026-09-13T15:42:12.919122+00:00"
-  },
-  {
-   "fp": "backs congress freedom must trump",
-   "title": "Trump backs the freedom to fix. Now Congress must act",
-   "source": "Washington Examiner",
-   "at": "2026-09-13T15:42:14.705200+00:00"
-  },
   {
    "fp": "close election europe eyes general government live race right role sweden",
    "title": "Sweden general election: close race as far right eyes role in government \u2013 Europe live",
@@ -3201,15 +3165,45 @@
    "title": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
    "source": "NPR News",
    "at": "2026-09-21T19:52:51.845454+00:00"
+  },
+  {
+   "fp": "attempted convicts jury murder palestinian shooting students vermont",
+   "title": "Jury convicts Vermont man of attempted murder in shooting of 3 Palestinian students",
+   "source": "AP",
+   "at": "2026-09-21T21:06:08.680931+00:00"
+  },
+  {
+   "fp": "california crashes dead fighting fires helicopter yosemite",
+   "title": "Two dead after helicopter crashes fighting Yosemite fires in California, FAA says",
+   "source": "Washington Examiner",
+   "at": "2026-09-21T21:06:10.419857+00:00"
+  },
+  {
+   "fp": "100ft coast hiding megathrust shown simulation staggering threat tsunami west",
+   "title": "100ft megathrust tsunami threat hiding off the West Coast \u2014 shown in staggering simulation",
+   "source": "New York Post",
+   "at": "2026-09-21T21:06:13.148200+00:00"
+  },
+  {
+   "fp": "battling fires helicopter killed pilots yosemite",
+   "title": "Two helicopter pilots killed while battling Yosemite fires",
+   "source": "Guardian World",
+   "at": "2026-09-21T21:06:15.067557+00:00"
+  },
+  {
+   "fp": "accused arrive assassination covid fraud funding haitian plot president suspects",
+   "title": "Suspects in Haitian president\u2019s assassination arrive in US, accused of funding plot with COVID fraud",
+   "source": "New York Post",
+   "at": "2026-09-21T21:06:17.093575+00:00"
+  },
+  {
+   "fp": "dujuan evacuate hits japan millions powerful typhoon urged",
+   "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+   "source": "BBC World",
+   "at": "2026-09-21T21:06:19.325025+00:00"
   }
  ],
  "titles": [
-  "australian bird death endangered fears lion population recorded small",
-  "emergency lake landing makes plane safety swims tiffany",
-  "abdul absolutely backer hopeful lefty michigan nets right sayed senate surprising",
-  "13th bloody cardellini crystal friday lake linda mission pamela peacock prequel trailer voorhees",
-  "congress jeffries safeguards should urgently",
-  "backs congress freedom must trump",
   "close election europe eyes general government live race right role sweden",
   "australian budget coming friendly japan peaks travellers trips",
   "attacked endangered fuel head nuclear plant russian trucks ukraine zaporizhzhia",
@@ -3603,6 +3597,12 @@
   "carolina groups michael money north pulling race senate stumps vance weigh whatley",
   "help lots pied remain street terre units unlikely unsold wall",
   "bros discovery merger paramount settles states sued warner",
-  "billion bros concessions deal discovery makes paramount salvage warner"
+  "billion bros concessions deal discovery makes paramount salvage warner",
+  "attempted convicts jury murder palestinian shooting students vermont",
+  "california crashes dead fighting fires helicopter yosemite",
+  "100ft coast hiding megathrust shown simulation staggering threat tsunami west",
+  "battling fires helicopter killed pilots yosemite",
+  "accused arrive assassination covid fraud funding haitian plot president suspects",
+  "dujuan evacuate hits japan millions powerful typhoon urged"
  ]
 }
