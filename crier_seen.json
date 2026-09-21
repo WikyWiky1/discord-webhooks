@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c5y75dl0jpko#3",
-  "https://nypost.com/?post_type=article&p=40615627",
-  "https://www.washingtonexaminer.com/?p=4715007",
-  "CBMisAFBVV95cUxPeGlNMDY4MHkySW82Wml5UXM4SVJIOTd2aXhtOFBOYmxuVDVoMWxKd2xIODJRRExyRVVxcExPS1hEM0RJaC1HR0Q2aW83WHdDWjRnUld3cjVyNDBkT0NqU0NaMWxOSjV4dHcwVnVCUUZSYlBvNVVBTTlWeVNPaFN1cVRNRTBCMUUyZzl4Wm1yNWEzMnpzX3hCUi1WUmtHd0ExajBpS1V6dllReUNWREk0dw",
-  "CBMiowFBVV95cUxQa1htVHo0OHZBVmU2ZnBBTVI0NjEzWkFMUS1ucG94OWxWQ21pR0dISkRUR2Jwa21TTDlRbGhkS3pTZXJJWE9acEZCWjlLVFZEUWZkRGhEOEJfcXFUTDZzWldaNlpaRjJ6YlB0M2FkaGczbG1RMk9lRkE3XzJaTXdzTGxoRGxBdHpaXzBoTDdmQTFnbGhMRWx2ZlF5QVliSHFWSW04",
   "https://pagesix.com/?post_type=article&p=9156495",
   "https://nypost.com/?post_type=article&p=40648120",
   "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
@@ -799,39 +794,14 @@
   "https://news.sky.com/story/man-charged-after-crash-killed-six-people-including-parents-and-two-children-13590498",
   "CBMiwAFBVV95cUxPUnNNQ0pjRUhkOVRfZ2EwNWN1WDBXWmgxNXlweDlWRzVqMTBfemRWT2x0NG5hRVdtSFowS0QwVld3MkdqZ2RLSWVuWE5KNjRxWVFlMXR1emZyTTZ4UFlkS2tQWmF0T0xlRExmQktSN2xha3hIZ0JPWTFJUUNORjc5LXloMWV6QS1SeE5oR2tzU01jNExMdXVTYVBDb1l6NzM3bF9SVWplQW1aZ1ZYcXdBMTdLdEhTNW5WV2g4U2hUQnA",
   "CBMinwFBVV95cUxPNUpxa1k3SnQ4VzJDNzluSnFBeFZ0V1dnT0JCcEdSSjlJMFdaV1EtYXZVcjJ0bUtrQ0tSWkhYZ19jdElIQ202anhySmpEVkswak5Td3JlYV9EdmtFYWlSMzhVTjc3NnNISVcyRjhJc0JLc0d5RWRMNWRHTWVBNjFnZkY1dTRFUENUMGVuTE9NMURveG5zTjNoaERpTkotNGM",
-  "CBMiwAFBVV95cUxOM0ZqN3BCT1Q3OXIxNWE5Vl9GVHVTNHNJWUgwdEIwNnQ5OHlPN0lmc0R3RHRubUUzdFB0bGVVZTZrVURNMWRkREczMlNuaGgxS0pyLUVvZ0FRZVpFeE9XdExBcXJtWXM5c01wSVFCRndLelVBNnU3WFFOX2lUTE82NzdzdGxUOXRuTzZWclp1b0JFQUxqcmctUmNKUW1PZWUtOV93M2lnX2NPN2ItZXUtT2lGbHo5cHRrSHRPcFBKa0w"
+  "CBMiwAFBVV95cUxOM0ZqN3BCT1Q3OXIxNWE5Vl9GVHVTNHNJWUgwdEIwNnQ5OHlPN0lmc0R3RHRubUUzdFB0bGVVZTZrVURNMWRkREczMlNuaGgxS0pyLUVvZ0FRZVpFeE9XdExBcXJtWXM5c01wSVFCRndLelVBNnU3WFFOX2lUTE82NzdzdGxUOXRuTzZWclp1b0JFQUxqcmctUmNKUW1PZWUtOV93M2lnX2NPN2ItZXUtT2lGbHo5cHRrSHRPcFBKa0w",
+  "CBMirwFBVV95cUxNcEVKdjlhcGtLRzFtNF9yOExCc0JNZG9VazZPNlpqdG1rQWc5ejhjMjdPSF9uSjJ3UnJxcXBKMWkyMXhOSUJleEZObXNlVzB5VHA2UUhpRGRNSHA3dXNqekZ0Y0EtMEhxMjNyeHBMLXhGM2hYa3ZvMXdFUWhnZ1Mxb1hpN1BCTVdMOFhoQlBTM3F1dGZPVTBZdTlyUjZjYjJBODJjaFJDbFE4MnpaNDlZ",
+  "https://www.washingtonexaminer.com/?p=4736059",
+  "https://nypost.com/?post_type=article&p=40918053",
+  "https://thehill.com/?p=6102198",
+  "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit"
  ],
  "posts": [
-  {
-   "fp": "appointing approval attorneys faces major senate test trump without",
-   "title": "Trump faces major test over appointing US attorneys without Senate approval",
-   "source": "Washington Examiner",
-   "at": "2026-09-13T11:10:58.022953+00:00"
-  },
-  {
-   "fp": "attack base claim fighting flares forces houthis saudi yemeni",
-   "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
-   "source": "Guardian World",
-   "at": "2026-09-13T11:56:35.472725+00:00"
-  },
-  {
-   "fp": "alleged charged fraud guilty hurricane insurance lawyer plead poised",
-   "title": "Lawyer charged over alleged insurance fraud after Hurricane Ida poised to plead guilty",
-   "source": "Guardian World",
-   "at": "2026-09-13T11:56:37.318383+00:00"
-  },
-  {
-   "fp": "associate canada collapse member seeks status talks trade",
-   "title": "Canada Seeks EU \u2018Associate Member\u2019 Status as U.S. Trade Talks Collapse",
-   "source": "WSJ",
-   "at": "2026-09-13T11:56:39.047003+00:00"
-  },
-  {
-   "fp": "attack fans fears hormuz report shipping strait supplies threats",
-   "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
-   "source": "Reuters",
-   "at": "2026-09-13T11:56:40.744013+00:00"
-  },
   {
    "fp": "australian bird death endangered fears lion population recorded small",
    "title": "First H5 bird flu death of endangered Australian sea lion recorded amid fears for small population",
@@ -3201,14 +3171,39 @@
    "title": "Moscow oil refinery output halted after Sunday drone attack, sources say",
    "source": "Reuters",
    "at": "2026-09-21T17:11:14.496241+00:00"
+  },
+  {
+   "fp": "billionaires diplomats fridman lift linked poised russia sanctions usmanov",
+   "title": "EU poised to lift sanctions on Russia-linked billionaires Usmanov and Fridman, diplomats say",
+   "source": "Reuters",
+   "at": "2026-09-21T19:52:45.061470+00:00"
+  },
+  {
+   "fp": "carolina groups michael money north pulling race senate stumps vance weigh whatley",
+   "title": "JD Vance stumps for Michael Whatley as GOP groups weigh pulling ad money from North Carolina Senate race",
+   "source": "Washington Examiner",
+   "at": "2026-09-21T19:52:46.723322+00:00"
+  },
+  {
+   "fp": "help lots pied remain street terre units unlikely unsold wall",
+   "title": "Lots of unsold units remain at One Wall Street \u2014 and pied-\u00e0-terre tax unlikely to help",
+   "source": "New York Post",
+   "at": "2026-09-21T19:52:48.410471+00:00"
+  },
+  {
+   "fp": "bros discovery merger paramount settles states sued warner",
+   "title": "Paramount settles with states that sued over Warner Bros. Discovery merger",
+   "source": "The Hill",
+   "at": "2026-09-21T19:52:50.193985+00:00"
+  },
+  {
+   "fp": "billion bros concessions deal discovery makes paramount salvage warner",
+   "title": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
+   "source": "NPR News",
+   "at": "2026-09-21T19:52:51.845454+00:00"
   }
  ],
  "titles": [
-  "appointing approval attorneys faces major senate test trump without",
-  "attack base claim fighting flares forces houthis saudi yemeni",
-  "alleged charged fraud guilty hurricane insurance lawyer plead poised",
-  "associate canada collapse member seeks status talks trade",
-  "attack fans fears hormuz report shipping strait supplies threats",
   "australian bird death endangered fears lion population recorded small",
   "emergency lake landing makes plane safety swims tiffany",
   "abdul absolutely backer hopeful lefty michigan nets right sayed senate surprising",
@@ -3603,6 +3598,11 @@
   "charged children crash including killed parents people",
   "afghan civilian deaths killed militants pakistan report taliban three",
   "become expected hurricane major ocean pacific polo storm tropical week",
-  "attack drone halted moscow output refinery sources sunday"
+  "attack drone halted moscow output refinery sources sunday",
+  "billionaires diplomats fridman lift linked poised russia sanctions usmanov",
+  "carolina groups michael money north pulling race senate stumps vance weigh whatley",
+  "help lots pied remain street terre units unlikely unsold wall",
+  "bros discovery merger paramount settles states sued warner",
+  "billion bros concessions deal discovery makes paramount salvage warner"
  ]
 }
