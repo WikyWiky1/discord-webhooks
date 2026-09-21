@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
   "https://www.washingtonexaminer.com/?p=4714796",
   "https://www.foxnews.com/world/cockroach-milk-stepping-snakes-ig-nobel-awards-celebrates-science-oddest",
   "CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw",
@@ -799,7 +798,8 @@
   "CBMipgFBVV95cUxOeWhxMVZEUFY2eEUza2lsTjFtSkFDamZSRXppV0o5TTlvN3l0RWtkdk9BZWpCZ2V0dzJQQmREb3pXSmhjVE8xelJxemNZbmlNc3dWV1Jxa2F5LXd3Q1J5eUxHaFN5ZTBIdkdxYW05OHlrTHlGZHFtRkUyY3kwSzMzWEdPbk5LYlppUVdVY2FZYXFoQXZXLXJzQnBDTDlQMVdBTS1UbEtn",
   "CBMiogFBVV95cUxPNDNDazNXMFFxamlNa0U3eGdIWUROLTlNZU5lSElwaXhMdEpQUm5yV3VLWnFlbi1RM0hNTHpKMHB4MXEweDZ6empja0c3cHE4dzlPWm4xek13QXZsMlF0MVZxYWNmZ3pRZ0oxQWFNZW9rSW9oM3hUNjJYUld4SURDclhxYkJETzhGYTNPdzl6SlVKOGtvM2lSaWplTDlBUXpmdXc",
   "CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw",
-  "CBMioAFBVV95cUxOT1NzLWhKUkczVTVBeEJtR0Y3WjFBVXo2WUNTVVRsLVJacFJOUjJsYjVWZVZCVlBWREdPbXRVZV9kaUJaY2puclJsQzRDRi1HdWROVUNpNXF0VFhoR0kxbEtHaDY3NUtFSENjczBEZ3B0eVhwTU9kbzVreDNLZG43c240c1ZrdlNqa2w4TVFlWkMzUWRvYTZjcldLZy10aXFl"
+  "CBMioAFBVV95cUxOT1NzLWhKUkczVTVBeEJtR0Y3WjFBVXo2WUNTVVRsLVJacFJOUjJsYjVWZVZCVlBWREdPbXRVZV9kaUJaY2puclJsQzRDRi1HdWROVUNpNXF0VFhoR0kxbEtHaDY3NUtFSENjczBEZ3B0eVhwTU9kbzVreDNLZG43c240c1ZrdlNqa2w4TVFlWkMzUWRvYTZjcldLZy10aXFl",
+  "https://www.theguardian.com/australia-news/2026/sep/22/two-new-australian-stick-insect-species-found-queensland"
  ],
  "posts": [
   {
@@ -3173,12 +3173,6 @@
    "at": "2026-09-21T12:08:04.383191+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-09-21T12:08:06.667937+00:00"
-  },
-  {
    "fp": "blue here midterm polls senate show sprint",
    "title": "The Midterm Sprint Is Here. Senate Polls Show a Lot of Blue.",
    "source": "WSJ",
@@ -3201,6 +3195,12 @@
    "title": "Merz\u2019s CDU suffers total wipeout in state election",
    "source": "Telegraph",
    "at": "2026-09-21T12:08:13.757829+00:00"
+  },
+  {
+   "fp": "australian case discovery identity insect mistaken reveals species stick",
+   "title": "Discovery of new Australian stick insect species reveals case of mistaken identity",
+   "source": "Guardian World",
+   "at": "2026-09-21T16:55:35.938848+00:00"
   }
  ],
  "titles": [
@@ -3599,10 +3599,10 @@
   "border explosion injured korean landmine soldiers south three",
   "breaking capitalism cardinal caused downfall nike rule",
   "admits covid faked granit vaccine xhaka",
-  "edition journal print street wall",
   "blue here midterm polls senate show sprint",
   "advance bessent china meeting stocks successful talks trump",
   "futures gain prices rise slide stocks wall",
-  "election merz state suffers total wipeout"
+  "election merz state suffers total wipeout",
+  "australian case discovery identity insect mistaken reveals species stick"
  ]
 }
