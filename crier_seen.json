@@ -1,11 +1,5 @@
 {
  "ids": [
-  "CBMimAFBVV95cUxOZGhkajNwYmt3YnNNa09RNjlJaHRvZk1nQnJ3bElybmJvMWRpQU1KanRhbjEzM0gyZUQ5OVByOF9aUjdZQjh5TUZGSDFjWkY4SGRzVUphYk92dk10OTROUDJuMjIxUE9zaEVLLUZUN2VUdENVS202Qi1jQ294QlctTzN0dWFWZko3TjZNWEktbUFlYWFmdnBxbA",
-  "CBMipAFBVV95cUxNcW1UQnlUYTVpRHRsNk45aEc3dUYtV0NaaDhrTlJVVlhRa0lsWkFUUUtoN2x0ZTJkY0lfY1NnejJ1QjFybHM4Z0JTTkV3eGY0ZmxiUlBwdGxNUm5ESDVGODdOSnIwZTB1YlBFRzJNNmFXLXBtYWtRMWlnR3Z1NUpkalFZQkZDY3JKYmhrRU5IbGM3VERYS0JsbTg3bmVKblUyeVF5Yw",
-  "CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE",
-  "https://nypost.com/?post_type=article&p=40674885",
-  "https://nypost.com/?post_type=article&p=40676604",
-  "https://nypost.com/?post_type=article&p=40674903",
   "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
   "https://www.washingtonexaminer.com/?p=4714796",
   "https://www.foxnews.com/world/cockroach-milk-stepping-snakes-ig-nobel-awards-celebrates-science-oddest",
@@ -799,45 +793,15 @@
   "CBMiqwFBVV95cUxQTjdmUF9fTEcySTFqT2t2NUZsd1prTmZjTjJVbmZwOVVVQzVCYV9mem5YNGRVUUdYT05uRTlXTWFheEh5azN5blpURFI1YXItOEJBZWZRRDlLQkx3aGJsdkZia0M2WEpaNHRhTTVmOEpUeU5FdWRPYVN1dUV1bVZrbHpzVEhZZzBrRXNXMTYzOTZzQTVETVkxM1pJT3JIZlpucUJoQTVFaE5LX28",
   "CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw",
   "https://news.sky.com/story/three-south-korean-soldiers-injured-in-landmine-border-explosion-13590383",
-  "https://nypost.com/?post_type=article&p=40884346"
+  "https://nypost.com/?post_type=article&p=40884346",
+  "CBMilgFBVV95cUxNSDhtd1dGYlN1b1ViR0huQjV2LWtUX3FTaWxGc0FHYkV1UnBfeVdlRE9QUEFYTWFRRW1VSmFQWWFfNDJpcE5QSkdrZmY4dWduNGltaXQ3dTFWc1ZGNGJqZDNkdm9XTTZ2Qk1NOVU5UmlrVGlvSkZoWVVOM09LVERVUm82NERwS3NTbC1BbzZPU3pqODEtR3c",
+  "CBMiYkFVX3lxTE0xbXVPcGtNU2xWdGJnN0dleW44U1p3bEhyM1NabWl4NnYwLXplUHZGUWFMUWNlLTgzTVNmLVZ5eTlTbWZOYXJZM21GZTI2WUp6VFpXd3VCTlo0d0dOZFNKRm9B",
+  "CBMipgFBVV95cUxOeWhxMVZEUFY2eEUza2lsTjFtSkFDamZSRXppV0o5TTlvN3l0RWtkdk9BZWpCZ2V0dzJQQmREb3pXSmhjVE8xelJxemNZbmlNc3dWV1Jxa2F5LXd3Q1J5eUxHaFN5ZTBIdkdxYW05OHlrTHlGZHFtRkUyY3kwSzMzWEdPbk5LYlppUVdVY2FZYXFoQXZXLXJzQnBDTDlQMVdBTS1UbEtn",
+  "CBMiogFBVV95cUxPNDNDazNXMFFxamlNa0U3eGdIWUROLTlNZU5lSElwaXhMdEpQUm5yV3VLWnFlbi1RM0hNTHpKMHB4MXEweDZ6empja0c3cHE4dzlPWm4xek13QXZsMlF0MVZxYWNmZ3pRZ0oxQWFNZW9rSW9oM3hUNjJYUld4SURDclhxYkJETzhGYTNPdzl6SlVKOGtvM2lSaWplTDlBUXpmdXc",
+  "CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw",
+  "CBMioAFBVV95cUxOT1NzLWhKUkczVTVBeEJtR0Y3WjFBVXo2WUNTVVRsLVJacFJOUjJsYjVWZVZCVlBWREdPbXRVZV9kaUJaY2puclJsQzRDRi1HdWROVUNpNXF0VFhoR0kxbEtHaDY3NUtFSENjczBEZ3B0eVhwTU9kbzVreDNLZG43c240c1ZrdlNqa2w4TVFlWkMzUWRvYTZjcldLZy10aXFl"
  ],
  "posts": [
-  {
-   "fp": "chile fire home kills nursing residents",
-   "title": "Fire at nursing home in Chile kills 16 residents",
-   "source": "BBC World",
-   "at": "2026-09-12T21:12:57.184091+00:00"
-  },
-  {
-   "fp": "attack calls canceled cowards democrat maher politicians referencing sept show take",
-   "title": "Maher calls Democrat politicians 'cowards,' referencing take on the Sept. 11 attack that got his old show canceled",
-   "source": "The Hill",
-   "at": "2026-09-12T21:12:59.184130+00:00"
-  },
-  {
-   "fp": "backtracks debate dividend kansas marshall senate support trump",
-   "title": "Marshall backtracks on support for $5,000 Trump dividend in Kansas Senate debate",
-   "source": "The Hill",
-   "at": "2026-09-12T22:51:37.259044+00:00"
-  },
-  {
-   "fp": "budget federal latest news updates",
-   "title": "US Federal Budget - Latest News and Updates",
-   "source": "WSJ",
-   "at": "2026-09-12T22:51:39.072943+00:00"
-  },
-  {
-   "fp": "beautiful coast dead found identified malibu musician voice",
-   "title": "Musician with \u2018beautiful\u2019 voice identified as man found dead off Malibu coast",
-   "source": "New York Post",
-   "at": "2026-09-12T23:03:58.205208+00:00"
-  },
-  {
-   "fp": "attack iraq mideast news originated other pipeline saudi territory",
-   "title": "Iraq says Saudi pipeline attack originated from its territory, and other Mideast news",
-   "source": "AP",
-   "at": "2026-09-12T23:03:59.945365+00:00"
-  },
   {
    "fp": "election government right swedes usher vote",
    "title": "Swedes vote in election that could usher far right into government",
@@ -3201,15 +3165,45 @@
    "title": "Nike caused its own downfall \u2014 by breaking the cardinal rule of capitalism",
    "source": "New York Post",
    "at": "2026-09-21T11:39:02.426992+00:00"
+  },
+  {
+   "fp": "admits covid faked granit vaccine xhaka",
+   "title": "Granit Xhaka admits he faked Covid vaccine",
+   "source": "Telegraph",
+   "at": "2026-09-21T12:08:04.383191+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-09-21T12:08:06.667937+00:00"
+  },
+  {
+   "fp": "blue here midterm polls senate show sprint",
+   "title": "The Midterm Sprint Is Here. Senate Polls Show a Lot of Blue.",
+   "source": "WSJ",
+   "at": "2026-09-21T12:08:08.386689+00:00"
+  },
+  {
+   "fp": "advance bessent china meeting stocks successful talks trump",
+   "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting",
+   "source": "AP",
+   "at": "2026-09-21T12:08:10.149293+00:00"
+  },
+  {
+   "fp": "futures gain prices rise slide stocks wall",
+   "title": "Wall St futures rise as AI stocks gain, oil prices slide",
+   "source": "Reuters",
+   "at": "2026-09-21T12:08:11.987218+00:00"
+  },
+  {
+   "fp": "election merz state suffers total wipeout",
+   "title": "Merz\u2019s CDU suffers total wipeout in state election",
+   "source": "Telegraph",
+   "at": "2026-09-21T12:08:13.757829+00:00"
   }
  ],
  "titles": [
-  "chile fire home kills nursing residents",
-  "attack calls canceled cowards democrat maher politicians referencing sept show take",
-  "backtracks debate dividend kansas marshall senate support trump",
-  "budget federal latest news updates",
-  "beautiful coast dead found identified malibu musician voice",
-  "attack iraq mideast news originated other pipeline saudi territory",
   "election government right swedes usher vote",
   "america arsenal breakthroughs fusion leans nuclear turbocharge weapon",
   "dead ferry hits indonesia missing weather",
@@ -3603,6 +3597,12 @@
   "china engine roaring rolls summit trade trump",
   "breaking live news russia ukraine updates",
   "border explosion injured korean landmine soldiers south three",
-  "breaking capitalism cardinal caused downfall nike rule"
+  "breaking capitalism cardinal caused downfall nike rule",
+  "admits covid faked granit vaccine xhaka",
+  "edition journal print street wall",
+  "blue here midterm polls senate show sprint",
+  "advance bessent china meeting stocks successful talks trump",
+  "futures gain prices rise slide stocks wall",
+  "election merz state suffers total wipeout"
  ]
 }
