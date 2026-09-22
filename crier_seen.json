@@ -1,10 +1,5 @@
 {
  "ids": [
-  "CBMinwFBVV95cUxNV2ppQXE4Mm1JWll4UVNwbERpUzVDNzQxbU04cld4ZU02cnVCSDMwZ20ySE9SRXBrWjJZdTJfaU9Xb3lBS2Znc3ZHY2EtdTBsZ01sby11MGlVbGdyU2x5cU13QVp4SURSRXNvajExam5OMl85Vl9HZ3NiTXVkRTJHQXB4eWtVbjY2eDI3ZVRvekgtWl9kRnBxLWpQa2JnUkk",
-  "https://nypost.com/?post_type=article&p=40689533",
-  "CBMiowFBVV95cUxNWXNmc1lpWkNYV0VUaVR4bDNpWTNMcTQ1VkFPYk5tZGFHbzk3Q3pOX0JtRW9Gc01kVnJ4RjRRVVl2aVpfSU1jN1JtelYxZUNIZV9Qb3M1U3J5Y0FMdkN6SV9sd3dPckdaWFFMWktOejFtUldxdUFDd0tMbjBzRzE5R0ZsQ1pPMG1ZNHJWTXQwNWVTT05PNmNFMElJbGVLenhLbEJ3",
-  "https://news.sky.com/story/at-least-25-dead-after-bus-plunges-into-steep-ravine-on-cape-verde-island-13582377",
-  "https://nypost.com/?post_type=article&p=40689302",
   "https://nypost.com/?post_type=article&p=40689595",
   "https://thehill.com/?p=6073768",
   "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro#0",
@@ -799,39 +794,14 @@
   "https://thehill.com/?p=6104230",
   "https://thehill.com/?p=6104183",
   "https://www.theguardian.com/us-news/2026/sep/22/aoc-senate-election-chuck-schumer",
-  "CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3"
+  "CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3",
+  "https://nypost.com/?post_type=article&p=40932477",
+  "https://www.washingtonexaminer.com/?p=4737665",
+  "https://www.theguardian.com/uk-news/2026/sep/22/fire-bootle-merseyside-house-people-killed",
+  "https://www.theguardian.com/uk-news/2026/sep/22/police-believe-they-have-foiled-imminent-attack-on-manchesters-jewish-community",
+  "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo#1"
  ],
  "posts": [
-  {
-   "fp": "ahead centre election left right stumbles sweden tight",
-   "title": "Sweden's centre-left ahead as far-right stumbles in tight election",
-   "source": "Reuters",
-   "at": "2026-09-14T11:57:11.572675+00:00"
-  },
-  {
-   "fp": "congress doomsday morning report risk suddenly threat waking",
-   "title": "The Morning Risk Report: Congress Is Suddenly Waking Up to the AI Doomsday Threat",
-   "source": "WSJ",
-   "at": "2026-09-14T11:57:13.428225+00:00"
-  },
-  {
-   "fp": "congress faces fears frenzy loose monster",
-   "title": "Congress faces frenzy of AI fears: 'The monster is loose'",
-   "source": "The Hill",
-   "at": "2026-09-14T11:57:15.152117+00:00"
-  },
-  {
-   "fp": "bosses call development fall linked reckless slowdown stocks tech",
-   "title": "AI-linked stocks fall after tech bosses call for slowdown in \u2018reckless\u2019 development",
-   "source": "Guardian World",
-   "at": "2026-09-14T11:57:16.862604+00:00"
-  },
-  {
-   "fp": "agreed ceasefire energy russia target trump ukraine",
-   "title": "Trump says Ukraine and Russia have agreed to energy target ceasefire",
-   "source": "Washington Examiner",
-   "at": "2026-09-14T16:45:45.276110+00:00"
-  },
   {
    "fp": "also china kill match thinks wants",
    "title": "China Also Thinks AI Could Kill Us. But First, It Wants to Match the U.S.",
@@ -3201,14 +3171,39 @@
    "title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal",
    "source": "Reuters",
    "at": "2026-09-22T16:23:13.918371+00:00"
+  },
+  {
+   "fp": "asbestos common emergency health household item level neuroscientist public same warns",
+   "title": "Neuroscientist warns common household item is a \u2018public health emergency\u2019 on the same level as asbestos",
+   "source": "New York Post",
+   "at": "2026-09-22T18:31:20.372488+00:00"
+  },
+  {
+   "fp": "hegseth impeachment majority massie poll showing slight support thomas touts",
+   "title": "Thomas Massie touts poll showing slight majority support Hegseth impeachment",
+   "source": "Washington Examiner",
+   "at": "2026-09-22T18:31:22.118783+00:00"
+  },
+  {
+   "fp": "children fire house intense killed merseyside ravages three woman",
+   "title": "Woman and three children killed after \u2018intense\u2019 fire ravages Merseyside house",
+   "source": "Guardian World",
+   "at": "2026-09-22T18:31:23.827542+00:00"
+  },
+  {
+   "fp": "attack believe community foiled imminent jewish manchester police",
+   "title": "Police believe they have foiled \u2018imminent\u2019 attack on Manchester\u2019s Jewish community",
+   "source": "Guardian World",
+   "at": "2026-09-22T18:31:25.539179+00:00"
+  },
+  {
+   "fp": "back bullet doordash driver lawyer leaves shooting texas venezuelan",
+   "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
+   "source": "BBC World",
+   "at": "2026-09-22T18:31:27.422938+00:00"
   }
  ],
  "titles": [
-  "ahead centre election left right stumbles sweden tight",
-  "congress doomsday morning report risk suddenly threat waking",
-  "congress faces fears frenzy loose monster",
-  "bosses call development fall linked reckless slowdown stocks tech",
-  "agreed ceasefire energy russia target trump ukraine",
   "also china kill match thinks wants",
   "burnett carol cher dead designer diana iconic mackie ross worked",
   "armed crash forces killed member ukraine",
@@ -3603,6 +3598,11 @@
   "administration consumer democrats press refunds ruling senate tariff trump",
   "holds lead michigan point race sayed senate survey",
   "chuck leader refuses rule schumer senate",
-  "annihilate deal iran peace speech trump warns without"
+  "annihilate deal iran peace speech trump warns without",
+  "asbestos common emergency health household item level neuroscientist public same warns",
+  "hegseth impeachment majority massie poll showing slight support thomas touts",
+  "children fire house intense killed merseyside ravages three woman",
+  "attack believe community foiled imminent jewish manchester police",
+  "back bullet doordash driver lawyer leaves shooting texas venezuelan"
  ]
 }
