@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
-  "https://nypost.com/?post_type=article&p=40691987",
-  "https://www.washingtonexaminer.com/?p=4715525",
-  "CBMipwFBVV95cUxPT0lvaTZsMkMxOVpwN0RmdnBiY2VWaGJPM0FZaG5rclBjajFLZWlCZmZ3d0hyRmdnWHA4cUt3OW5YOTNCZUZwMVF3d2pmR1g4bWhHdlg0OVdiMmg5X29YalRaRXp4OUdHQnM1bTBzZW9Yak1Ed1VaZUtjS2tmTllGSnRkMmpxcGxYUU5NMFFpTWV6NU1EeGxzYWZxSzFqRml0aUVRVHJFVQ",
-  "https://nypost.com/?post_type=article&p=40690348",
   "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
   "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
   "CBMiuwFBVV95cUxOWkVzWDM5cENTaHhZNmdPZHRJUXd3NzRfQUs3RE1qUEU4UXlrTUJTaHR3VWEtbmVvS21PU0o3bTRuZ1ZiS1c1RU1NTm9EN2lKN1NCVklFRE5XMm9vZXVWWUotLWd5NjNCaUpEbVUtU2p4QkFjZDRNbW9LSmtKUEhyYmtxY3FaV0V6LXBOUDZYOTRpVTNNRC1qTXhaZzdIQ0x1ZXZKYXNBT1Y1U1J3ZlJ6QnJFSi1zVFhKOGRB",
@@ -799,39 +794,14 @@
   "https://thehill.com/?p=6105048",
   "https://www.washingtonexaminer.com/?p=4738175",
   "CBMivwFBVV95cUxPdzhnVngxUmJueEVxdFFBX3JwR3RsNFpkZjE3UmdpX1ljWlJMc1ZHUFpuZnppMnJZRE9VR1pMSUJQNzFuaDVIMTFsZGlycDdjaUNqVjJ0NVBYdUVYcUlYNTZVWkNlYjBPdm9QY3VlNXBvNEhhaVBxVWZFaTRzS3JJb0Zqb2hkdkVaSjVCVUdYV3pYTlBDeHNSSWVyQmRKQWRaWVF0VE9uSUFZaWVFU0NjYk04UzZxdUM5M2lLMkFycw",
-  "https://thehill.com/?p=6104713"
+  "https://thehill.com/?p=6104713",
+  "https://nypost.com/?post_type=article&p=40939290",
+  "CBMiwAFBVV95cUxPS2UyVWtwZEViSVRRNmY1cmota00xVmZzTmVtMFo0Rnl1MzY1aGRqQWhiNGY5eUxPSW1DWGlkNHBiRGpKZThUeVdoWktNQUU4R1E0Yjk0ZDR3ay1SN085ZnVvRlV5RU5BR3hsU3N4ZTJLRW1OZnNIOURlT0RJWkpmQmpJaTZwTkJIZHRWcTBsdDU1U0dkRHFRVHZ0RlVZbVhhWjVDazJFa0M4TG1ULS13U1VncGwzeVA1WkpRWVU1RHo",
+  "https://nypost.com/?post_type=article&p=40933700",
+  "https://nypost.com/?post_type=article&p=40940203",
+  "https://news.sky.com/story/fifteen-jailed-for-life-over-involvement-in-sri-lanka-bombings-that-killed-more-than-260-13590838"
  ],
  "posts": [
-  {
-   "fp": "attack early father freed jailed murderer",
-   "title": "Murderer freed early is jailed for attack on his father",
-   "source": "Telegraph",
-   "at": "2026-09-14T16:45:59.764419+00:00"
-  },
-  {
-   "fp": "alaska deep diversity find glimpse nine scientists species sponge",
-   "title": "Scientists find nine new sponge species in glimpse of Alaska\u2019s deep-sea diversity",
-   "source": "Guardian World",
-   "at": "2026-09-14T16:54:12.446490+00:00"
-  },
-  {
-   "fp": "ahead bill critical crypto release republicans senate text vote",
-   "title": "US Senate Republicans release new crypto bill text ahead of critical vote",
-   "source": "Reuters",
-   "at": "2026-09-14T17:57:34.178146+00:00"
-  },
-  {
-   "fp": "calls drop prices push rising slowdown stocks year yield",
-   "title": "AI stocks drop on calls for a slowdown as rising oil prices push the 10-year yield to 5%",
-   "source": "AP",
-   "at": "2026-09-14T17:57:35.951009+00:00"
-  },
-  {
-   "fp": "director election firing former having integrity missouri much secretary state sues",
-   "title": "Former Missouri election integrity director sues secretary of state after firing for having \u2018too much integrity\u2019",
-   "source": "Washington Examiner",
-   "at": "2026-09-14T17:57:37.847876+00:00"
-  },
   {
    "fp": "collins endorses maine manchin race senate",
    "title": "Manchin endorses Collins in Maine Senate race",
@@ -3201,14 +3171,39 @@
    "title": "Sabato's Crystal Ball moves 3 Senate, 4 gubernatorial races in Democrats' favor",
    "source": "The Hill",
    "at": "2026-09-22T20:57:06.326639+00:00"
+  },
+  {
+   "fp": "accidentally backs cybertruck home judge kills olympia socal year",
+   "title": "Mr. Olympia judge accidentally backs over and kills 6-year-old son with Cybertruck in SoCal home",
+   "source": "New York Post",
+   "at": "2026-09-22T21:38:05.908045+00:00"
+  },
+  {
+   "fp": "coast hurricane intensifies major mexico pacific polo",
+   "title": "Major hurricane Polo intensifies off Mexico's Pacific coast",
+   "source": "Reuters",
+   "at": "2026-09-22T21:38:07.691843+00:00"
+  },
+  {
+   "fp": "apparently attack inside laundromat shot targeted teen",
+   "title": "NYC teen, mom shot inside laundromat during apparently targeted attack",
+   "source": "New York Post",
+   "at": "2026-09-22T21:38:09.431055+00:00"
+  },
+  {
+   "fp": "attack blasts care criticism harris kamala maternal michigan sayed stumping",
+   "title": "Kamala Harris blasts criticism of DEI as \u2018an attack on maternal care\u2019 while stumping for El-Sayed in Michigan",
+   "source": "New York Post",
+   "at": "2026-09-22T21:38:11.290196+00:00"
+  },
+  {
+   "fp": "attacks fifteen involvement jailed killed lanka life",
+   "title": "Fifteen jailed for life over involvement in Sri Lanka attacks that killed more than 260",
+   "source": "Sky News",
+   "at": "2026-09-22T21:38:13.011452+00:00"
   }
  ],
  "titles": [
-  "attack early father freed jailed murderer",
-  "alaska deep diversity find glimpse nine scientists species sponge",
-  "ahead bill critical crypto release republicans senate text vote",
-  "calls drop prices push rising slowdown stocks year yield",
-  "director election firing former having integrity missouri much secretary state sues",
   "collins endorses maine manchin race senate",
   "bolsonaro brazil closes coin edge election flip inside knife lula",
   "decline stocks surge touches treasury year yield",
@@ -3603,6 +3598,11 @@
   "campaign harris hits hopeful michigan national sayed senate trail voice",
   "hinson iowa iran plagues race republican senate shifts toss",
   "bought disclosure financial july musk shares shows sold spacex trump",
-  "ball crystal democrats favor gubernatorial moves races sabato senate"
+  "ball crystal democrats favor gubernatorial moves races sabato senate",
+  "accidentally backs cybertruck home judge kills olympia socal year",
+  "coast hurricane intensifies major mexico pacific polo",
+  "apparently attack inside laundromat shot targeted teen",
+  "attack blasts care criticism harris kamala maternal michigan sayed stumping",
+  "attacks fifteen involvement jailed killed lanka life"
  ]
 }
