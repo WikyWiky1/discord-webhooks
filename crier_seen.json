@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40683496",
-  "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
-  "https://thehill.com/?p=6073421",
-  "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
   "https://nypost.com/?post_type=article&p=40686058",
   "CBMiVkFVX3lxTE1vQzJIb2ZFd1kyMDdzTnZSN3BIUVZ5VHpLRkxOV1o5WGdJUExqY1BIOWtOQkxLUjRpdkVTbnpOUmFJdWdvdGl5U0dpT3Z2MVROWDNYbkp3",
   "https://www.washingtonexaminer.com/?p=4714217",
@@ -799,33 +795,13 @@
   "https://nypost.com/?post_type=article&p=40926801",
   "CBMiuwFBVV95cUxNRWxGR1lmR0tTRXRKSWNLejN3aHk2aUpYUkxJdHpxLWprbDBUR2FQbTJ0aC1mbTRwQjNXSGlmSU9rN0N2ODVhMkpqaXZrT0MyWGtfeldMYjVlS3VXc1BNUC1aNUhaYnpWeFFxcGxyNEF5emdvcUl1d0FLUmZ6QU1nUmxVWTJxblhtVWRxT3RSNlZIUVc1bXJ5RUtSSzdTMmhzRzFHZkQxX2QwZnphSEYzNEM1WW5fUGZ2SHFv",
   "CBMipgFBVV95cUxQMnlUVGFYVkZseXJlTE1Qb3BXaXJGTllrOEJBX3RHd2F0Ri1oSGRPX3ktQ0NOT2ItRVdVYXhlRVdTbXV1UzRBSl9PYURRalpwQ1FkR0JEXzNra3FnY0Q4LXJqNUhWT3dPY21yemdvUi1LeDNHcVRzdV8tUVI2cF8wSHBwNFJwNTRCbUpXeldZdE1IVVFIUENZVnpBTEFmUEI5V0pjZDFR",
-  "https://www.theguardian.com/us-news/2026/sep/21/judge-spacex-wildlife-refuge-musk"
+  "https://www.theguardian.com/us-news/2026/sep/21/judge-spacex-wildlife-refuge-musk",
+  "https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo",
+  "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
+  "CBMitwFBVV95cUxPbkc3QkdhUTNkWkF6ZkdzN3NBYUkyeDBpRGRTZjU2a2g3OTJTZ3JMV28tWFc3VDNmNmlYazdmM0Y2V3Y5aEJzQ0xOLTd2OENXS2dEaWhjSnRZX3Qtb0lLUk4yVGRVaXVVeEVSZWYxelNkcTVObW1WdURwb0ZPWFFleUJBY2d2dlI1QnFrNmYydW1fQm5tcXFQdDJ3b0JudllCdUhQdktkb3ZUYXl0bnNjUjd1d2V5Mmc",
+  "CBMilgFBVV95cUxOTnFZcDQ0VXZKZzZOV0VSekNRaUNsRUJOSkJGak9PUTBydWwtWHBlbUUxMnJKcGNSOXVYd1BQek14TndKR0Rhb3RWMVEyTDZoQmE4QkJVUlk0REl1d3RqdXpOSU5NOFA3cVdhNUNmSHRuaWNzQ0diczNydzRWclVEbHJoSXh2dHU0UXVLMHpLcmIwUlJHV1E"
  ],
  "posts": [
-  {
-   "fp": "australia cremer recall series taylor veterans zimbabwe",
-   "title": "Zimbabwe recall veterans Cremer and Taylor for Australia series",
-   "source": "Reuters World",
-   "at": "2026-09-13T20:56:09.453137+00:00"
-  },
-  {
-   "fp": "dodgers killed makes pitcher slain spinning touching tribute uncle",
-   "title": "Dodgers pitcher makes touching tribute to slain uncle killed on 9/11 before spinning a gem",
-   "source": "New York Post",
-   "at": "2026-09-13T20:56:11.261303+00:00"
-  },
-  {
-   "fp": "cargo dead hormuz iranian ship strait struck tehran",
-   "title": "One dead after Iranian cargo ship struck in Strait of Hormuz, Tehran says",
-   "source": "Washington Examiner",
-   "at": "2026-09-13T20:56:13.376426+00:00"
-  },
-  {
-   "fp": "attack deal derail faction found hardline iran launched leader nowhere peace phantom report supreme",
-   "title": "Hardline Iran faction launched attack to derail peace deal \u2014 while \u2018phantom\u2019 Supreme Leader is nowhere to be found: report",
-   "source": "New York Post",
-   "at": "2026-09-13T22:49:03.356643+00:00"
-  },
   {
    "fp": "breaks holiday hotspot spanish wildfire",
    "title": "Wildfire breaks out in Spanish holiday hotspot",
@@ -3201,13 +3177,33 @@
    "title": "US judge declines to block transfer of wildlife refuge land to Musk\u2019s SpaceX",
    "source": "Guardian World",
    "at": "2026-09-22T03:34:37.860550+00:00"
+  },
+  {
+   "fp": "dujuan heavy japan killed landslides least people rain triggers typhoon",
+   "title": "At least two people killed in Japan as typhoon Dujuan triggers heavy rain, landslides",
+   "source": "Guardian World",
+   "at": "2026-09-22T05:01:28.821263+00:00"
+  },
+  {
+   "fp": "altman british columbia mass openai ridge school shooting sues tumbler",
+   "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
+   "source": "Guardian World",
+   "at": "2026-09-22T05:01:30.531014+00:00"
+  },
+  {
+   "fp": "brought japan kill rains torrential typhoon",
+   "title": "Torrential rains brought by Japan typhoon kill two, NHK says",
+   "source": "Reuters",
+   "at": "2026-09-22T05:01:32.236712+00:00"
+  },
+  {
+   "fp": "advocates approach disarmament korea north nuclear south step tells",
+   "title": "South Korea's Lee tells AP he advocates step-by-step approach to North's nuclear disarmament",
+   "source": "AP",
+   "at": "2026-09-22T05:01:33.933825+00:00"
   }
  ],
  "titles": [
-  "australia cremer recall series taylor veterans zimbabwe",
-  "dodgers killed makes pitcher slain spinning touching tribute uncle",
-  "cargo dead hormuz iranian ship strait struck tehran",
-  "attack deal derail faction found hardline iran launched leader nowhere peace phantom report supreme",
   "breaks holiday hotspot spanish wildfire",
   "canada economic high hope investor pins profile summit turbocharge",
   "ahead interest lowest meeting rate should trump world",
@@ -3603,6 +3599,10 @@
   "build california crippling crony demand homeowners massive putin sanctions skyscraper slaps trying",
   "deal leader negotiations positive trade vietnam",
   "fight liga mexican moves promotion reigniting relegation restore senate soccer",
-  "block declines judge land musk refuge spacex transfer wildlife"
+  "block declines judge land musk refuge spacex transfer wildlife",
+  "dujuan heavy japan killed landslides least people rain triggers typhoon",
+  "altman british columbia mass openai ridge school shooting sues tumbler",
+  "brought japan kill rains torrential typhoon",
+  "advocates approach disarmament korea north nuclear south step tells"
  ]
 }
