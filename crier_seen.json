@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
-  "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
-  "CBMiuwFBVV95cUxOWkVzWDM5cENTaHhZNmdPZHRJUXd3NzRfQUs3RE1qUEU4UXlrTUJTaHR3VWEtbmVvS21PU0o3bTRuZ1ZiS1c1RU1NTm9EN2lKN1NCVklFRE5XMm9vZXVWWUotLWd5NjNCaUpEbVUtU2p4QkFjZDRNbW9LSmtKUEhyYmtxY3FaV0V6LXBOUDZYOTRpVTNNRC1qTXhaZzdIQ0x1ZXZKYXNBT1Y1U1J3ZlJ6QnJFSi1zVFhKOGRB",
-  "CBMi4gFBVV95cUxQczJnOTF3RjVoSXVJU1ItNWdXcXhMNW8xa2tqLXdtMHBvRlo3SlNhSU5Yelhnc3lUdWtQYzB2VHNFUXFMNk96QzFnMzh1Nk5HYmFIUHpRSEk1bmVPUzZGY0ZmeTkwZG5mcUw5RXZwanNMOUYxRWRSM041NUlMSjQ3YXpMa0poeEIwbmc4Ml9wZ0tYQjRjMWczcnFEdU80X2ZnRFBmRmxDZ2J2RkM0bkpjbHZPMXpqUTlrVWhQQmdiVk4tOWswdWFoRVdFeG9DeGptQ3hnQkE3b3VtM2VlUVNJamxn",
-  "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
-  "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
   "CBMiigFBVV95cUxPSjdYRG80Z0M3NlB0RVdBYzdMWDJnc1hKa2RSYmZnR3h0bE9DcEFCN0FYRkhjSlM0SV9JaHJVcVBfVV9TaXBFeUZmYjlpckZrdmExOE9POW43QWx0VFJ0MkNSUEFtV0EyMDZjVzN2NjdCUVRUSzFFMHZMWmxkaWxDUjQtS21QM0hBYVE",
   "https://nypost.com/?post_type=article&p=40693535",
   "https://nypost.com/?post_type=article&p=40692058",
@@ -799,45 +793,15 @@
   "CBMiwAFBVV95cUxPS2UyVWtwZEViSVRRNmY1cmota00xVmZzTmVtMFo0Rnl1MzY1aGRqQWhiNGY5eUxPSW1DWGlkNHBiRGpKZThUeVdoWktNQUU4R1E0Yjk0ZDR3ay1SN085ZnVvRlV5RU5BR3hsU3N4ZTJLRW1OZnNIOURlT0RJWkpmQmpJaTZwTkJIZHRWcTBsdDU1U0dkRHFRVHZ0RlVZbVhhWjVDazJFa0M4TG1ULS13U1VncGwzeVA1WkpRWVU1RHo",
   "https://nypost.com/?post_type=article&p=40933700",
   "https://nypost.com/?post_type=article&p=40940203",
-  "https://news.sky.com/story/fifteen-jailed-for-life-over-involvement-in-sri-lanka-bombings-that-killed-more-than-260-13590838"
+  "https://news.sky.com/story/fifteen-jailed-for-life-over-involvement-in-sri-lanka-bombings-that-killed-more-than-260-13590838",
+  "CBMirAFBVV95cUxNMnZhVnlQdjFiRFBVaHlnZWZEcktwQ2pPNVRPTFpuVUs5RjlCVFpSdlN2anpWNlF2ajR0QmM3NW9YT3hiVDBmMWh3Njg3MVY0dXd4Q3dpOGEyZzdXZ0U3WE1TenMyZWNmeWtIU19ibTJkaEE0TkJab2RtQ0o4SFdvSUdMSkx3OFdDWXVaWGZLSkFFbTFBSjdsekRuLVNvajcwbFZmZHN0TWdzRmFV",
+  "https://www.theguardian.com/us-news/2026/sep/22/kamala-harris-abdul-el-sayed-campaign-michigan",
+  "CBMingFBVV95cUxOZC14ckg4OUFpRmFPYnZfV2FwMXpSZzVVdTljZ0d1cEN5dk5yb3ZPcUY3X0Y5UUhfMElxdV9CbEVGU1p3SGgtdDNhN1k2eTQ2UzBLM0NXU1FFX3pMZW1abmZQanJnNG52eGtCQlRqa0wwNEdOaXpDeVNyRzdmQ0twZ015ZjRlWHQzbUxScm96TUhzbUNrRzduWE9yYUFVZw",
+  "CBMipgFBVV95cUxNSmQyVGpCeXVDQWRkR3E1WVlHeXB0Q3FEVkRXR0stbUx4ZVREU3BsdnQ4aG9yZVhvSklIR1RBOTM4NkFsQVM1emhhdTMzQUVpbnFFbGNvYzdpbWp1N2JtbmtBTWFPSVE1Y296NUlFOFlHNWZGLWhtQ3J1d1pHOXp1T2hyanRPaUpLUFR3Rk5XeGI4clJ6NVBzbVNMRnRlTEpjbXgtR21n",
+  "CBMiqwFBVV95cUxOZmMxcG9kN2owWENLallIR3I3SkRzTEhZbnNZdWxSbEd0MS1PbTFCanBMRWRfYl9KNmc5eEh0cGJZcDJCcWNma002M1FoRlVmMFBzaUxSX3BtYzRqdExWc1doY0VjaFBqUFBDQ2QtQll1ekcyQzgyTzhEc01XN3Fab3JyXzBEOXRfY0RKN1QyYWhnMXpRcVByWEFMMk53UWtydkUtQ20xNTdPQ1k",
+  "https://thehill.com/?p=6105117"
  ],
  "posts": [
-  {
-   "fp": "collins endorses maine manchin race senate",
-   "title": "Manchin endorses Collins in Maine Senate race",
-   "source": "The Hill",
-   "at": "2026-09-14T17:57:39.655984+00:00"
-  },
-  {
-   "fp": "bolsonaro brazil closes coin edge election flip inside knife lula",
-   "title": "\u2018A coin flip\u2019: inside Brazil\u2019s knife-edge election as Fl\u00e1vio Bolsonaro closes in on Lula",
-   "source": "Guardian World",
-   "at": "2026-09-14T17:57:42.137092+00:00"
-  },
-  {
-   "fp": "decline stocks surge touches treasury year yield",
-   "title": "Stocks Decline, 10-Year Treasury Yield Touches 5% Amid Oil Surge",
-   "source": "WSJ",
-   "at": "2026-09-14T17:57:43.924747+00:00"
-  },
-  {
-   "fp": "administration changes counts deaths measles outbreak pennsylvania trump",
-   "title": "Trump administration changes how it counts measles deaths amid Pennsylvania outbreak",
-   "source": "Guardian World",
-   "at": "2026-09-14T20:42:46.249067+00:00"
-  },
-  {
-   "fp": "attack east export pipeline prices rise routes saudi threatens west",
-   "title": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes",
-   "source": "WSJ",
-   "at": "2026-09-14T20:42:48.057657+00:00"
-  },
-  {
-   "fp": "collapsed construction crane hospitalized miami officials people site",
-   "title": "Officials say 4 people were hospitalized after a crane collapsed at a Miami construction site",
-   "source": "AP",
-   "at": "2026-09-14T20:42:49.839072+00:00"
-  },
   {
    "fp": "concha democrats down industry kill slogan slow",
    "title": "Democrats\u2019 \u2018AI could kill us all\u2019 slogan won\u2019t slow down industry: Joe Concha",
@@ -3201,15 +3165,45 @@
    "title": "Fifteen jailed for life over involvement in Sri Lanka attacks that killed more than 260",
    "source": "Sky News",
    "at": "2026-09-22T21:38:13.011452+00:00"
+  },
+  {
+   "fp": "american became davidson harley icon punching tariff",
+   "title": "How Harley-Davidson, an American Icon, Became a Tariff Punching Bag",
+   "source": "WSJ",
+   "at": "2026-09-22T23:32:17.521385+00:00"
+  },
+  {
+   "fp": "abdul campaign harris kamala michigan returns sayed senate",
+   "title": "Kamala Harris returns to Michigan to campaign for Abdul El-Sayed for Senate",
+   "source": "Guardian World",
+   "at": "2026-09-22T23:32:19.241962+00:00"
+  },
+  {
+   "fp": "ballots charges department dumping justice mail postal primary state trash utah worker",
+   "title": "Justice Department charges Utah postal worker for dumping mail ballots in trash during state primary",
+   "source": "AP",
+   "at": "2026-09-22T23:32:21.258325+00:00"
+  },
+  {
+   "fp": "commentary nasdaq rips slips trading",
+   "title": "COMMENTARY: Trading Day: Oil slips, Nasdaq rips",
+   "source": "Reuters",
+   "at": "2026-09-22T23:32:23.086674+00:00"
+  },
+  {
+   "fp": "administration admit african congress refugees south tells trump white",
+   "title": "Trump administration tells Congress it will admit 17,500 white South African refugees",
+   "source": "AP",
+   "at": "2026-09-22T23:32:24.864967+00:00"
+  },
+  {
+   "fp": "hinson iowa points poll senate trails turek",
+   "title": "Hinson trails Turek by 8 points in new Iowa Senate poll",
+   "source": "The Hill",
+   "at": "2026-09-22T23:32:26.582089+00:00"
   }
  ],
  "titles": [
-  "collins endorses maine manchin race senate",
-  "bolsonaro brazil closes coin edge election flip inside knife lula",
-  "decline stocks surge touches treasury year yield",
-  "administration changes counts deaths measles outbreak pennsylvania trump",
-  "attack east export pipeline prices rise routes saudi threatens west",
-  "collapsed construction crane hospitalized miami officials people site",
   "concha democrats down industry kill slogan slow",
   "calls chipmakers down ends pummel slowdown street wall",
   "ambassador arabia hunt nominates post saudi trump wesley",
@@ -3603,6 +3597,12 @@
   "coast hurricane intensifies major mexico pacific polo",
   "apparently attack inside laundromat shot targeted teen",
   "attack blasts care criticism harris kamala maternal michigan sayed stumping",
-  "attacks fifteen involvement jailed killed lanka life"
+  "attacks fifteen involvement jailed killed lanka life",
+  "american became davidson harley icon punching tariff",
+  "abdul campaign harris kamala michigan returns sayed senate",
+  "ballots charges department dumping justice mail postal primary state trash utah worker",
+  "commentary nasdaq rips slips trading",
+  "administration admit african congress refugees south tells trump white",
+  "hinson iowa points poll senate trails turek"
  ]
 }
