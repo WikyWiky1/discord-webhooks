@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40689595",
-  "https://thehill.com/?p=6073768",
-  "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro#0",
-  "CBMiwAFBVV95cUxNS1Brd1ZPb1hjQmpDa0R3azdHcXBsTC1HVEx1VThQcktSUXFhOHYtLVhNWG5sTkV1ZWtXR3VQN0U2U2M4U1A5SVZ4Y0Iza25QRWl2Qzl5aXRNMjhqOUJXdkMzWUtKVmFUenhPMFVoeDRTV2F4QkdYVk5SX2k4am1pWmFQU1J4Y1hkZTJXdFZUVzZ5aUxTdUJyVE5sLUtkNXRsV090bWZwRDZEcEVOSUxMYUpKZUxNMnVpenI2U3pxazY",
-  "https://www.washingtonexaminer.com/?p=4715422",
-  "https://nypost.com/?post_type=article&p=40691768",
   "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
   "https://nypost.com/?post_type=article&p=40691987",
   "https://www.washingtonexaminer.com/?p=4715525",
@@ -799,45 +793,15 @@
   "https://www.washingtonexaminer.com/?p=4737665",
   "https://www.theguardian.com/uk-news/2026/sep/22/fire-bootle-merseyside-house-people-killed",
   "https://www.theguardian.com/uk-news/2026/sep/22/police-believe-they-have-foiled-imminent-attack-on-manchesters-jewish-community",
-  "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo#1"
+  "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo#1",
+  "https://www.washingtonexaminer.com/?p=4738141",
+  "CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ",
+  "https://thehill.com/?p=6105048",
+  "https://www.washingtonexaminer.com/?p=4738175",
+  "CBMivwFBVV95cUxPdzhnVngxUmJueEVxdFFBX3JwR3RsNFpkZjE3UmdpX1ljWlJMc1ZHUFpuZnppMnJZRE9VR1pMSUJQNzFuaDVIMTFsZGlycDdjaUNqVjJ0NVBYdUVYcUlYNTZVWkNlYjBPdm9QY3VlNXBvNEhhaVBxVWZFaTRzS3JJb0Zqb2hkdkVaSjVCVUdYV3pYTlBDeHNSSWVyQmRKQWRaWVF0VE9uSUFZaWVFU0NjYk04UzZxdUM5M2lLMkFycw",
+  "https://thehill.com/?p=6104713"
  ],
  "posts": [
-  {
-   "fp": "also china kill match thinks wants",
-   "title": "China Also Thinks AI Could Kill Us. But First, It Wants to Match the U.S.",
-   "source": "WSJ",
-   "at": "2026-09-14T16:45:47.215139+00:00"
-  },
-  {
-   "fp": "burnett carol cher dead designer diana iconic mackie ross worked",
-   "title": "Bob Mackie, iconic designer who worked with Cher, Carol Burnett and Diana Ross, dead at 87",
-   "source": "New York Post",
-   "at": "2026-09-14T16:45:48.987706+00:00"
-  },
-  {
-   "fp": "armed crash forces killed member ukraine",
-   "title": "UK armed forces member killed in crash in Ukraine",
-   "source": "Guardian World",
-   "at": "2026-09-14T16:45:50.815543+00:00"
-  },
-  {
-   "fp": "blanche charges covid emergency fraud live loans tied unveil vance watch",
-   "title": "Watch live: Vance, Blanche unveil fraud charges tied to COVID-era emergency loans",
-   "source": "The Hill",
-   "at": "2026-09-14T16:45:52.743842+00:00"
-  },
-  {
-   "fp": "cleric dead gunmen iran iranian media senior shot southeast state sunni unidentified",
-   "title": "Senior Sunni cleric shot dead by unidentified gunmen in southeast Iran - Iranian state media",
-   "source": "Reuters",
-   "at": "2026-09-14T16:45:54.571097+00:00"
-  },
-  {
-   "fp": "body dead door heatwave hospital left open propped public view",
-   "title": "Dead body left in public view after hospital propped door open in heatwave",
-   "source": "Telegraph",
-   "at": "2026-09-14T16:45:56.373077+00:00"
-  },
   {
    "fp": "attack early father freed jailed murderer",
    "title": "Murderer freed early is jailed for attack on his father",
@@ -3201,15 +3165,45 @@
    "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
    "source": "BBC World",
    "at": "2026-09-22T18:31:27.422938+00:00"
+  },
+  {
+   "fp": "drops endorsement georgia gubernatorial jackson primary push rick rival suits",
+   "title": "Rick Jackson drops suits against Georgia gubernatorial primary rival in push for endorsement",
+   "source": "Washington Examiner",
+   "at": "2026-09-22T20:56:57.609876+00:00"
+  },
+  {
+   "fp": "close high nasdaq rally reaches record stocks",
+   "title": "Nasdaq reaches record high close, AI stocks rally",
+   "source": "Reuters",
+   "at": "2026-09-22T20:56:59.329350+00:00"
+  },
+  {
+   "fp": "campaign harris hits hopeful michigan national sayed senate trail voice",
+   "title": "Harris hits the campaign trail for El-Sayed in Michigan: Senate hopeful will be 'a national voice'",
+   "source": "The Hill",
+   "at": "2026-09-22T20:57:01.024830+00:00"
+  },
+  {
+   "fp": "hinson iowa iran plagues race republican senate shifts toss",
+   "title": "Iowa Senate race shifts to toss-up as Iran war plagues Republican Hinson",
+   "source": "Washington Examiner",
+   "at": "2026-09-22T20:57:02.755393+00:00"
+  },
+  {
+   "fp": "bought disclosure financial july musk shares shows sold spacex trump",
+   "title": "Trump bought and sold shares in Musk's SpaceX in July, financial disclosure shows",
+   "source": "Reuters",
+   "at": "2026-09-22T20:57:04.555026+00:00"
+  },
+  {
+   "fp": "ball crystal democrats favor gubernatorial moves races sabato senate",
+   "title": "Sabato's Crystal Ball moves 3 Senate, 4 gubernatorial races in Democrats' favor",
+   "source": "The Hill",
+   "at": "2026-09-22T20:57:06.326639+00:00"
   }
  ],
  "titles": [
-  "also china kill match thinks wants",
-  "burnett carol cher dead designer diana iconic mackie ross worked",
-  "armed crash forces killed member ukraine",
-  "blanche charges covid emergency fraud live loans tied unveil vance watch",
-  "cleric dead gunmen iran iranian media senior shot southeast state sunni unidentified",
-  "body dead door heatwave hospital left open propped public view",
   "attack early father freed jailed murderer",
   "alaska deep diversity find glimpse nine scientists species sponge",
   "ahead bill critical crypto release republicans senate text vote",
@@ -3603,6 +3597,12 @@
   "hegseth impeachment majority massie poll showing slight support thomas touts",
   "children fire house intense killed merseyside ravages three woman",
   "attack believe community foiled imminent jewish manchester police",
-  "back bullet doordash driver lawyer leaves shooting texas venezuelan"
+  "back bullet doordash driver lawyer leaves shooting texas venezuelan",
+  "drops endorsement georgia gubernatorial jackson primary push rick rival suits",
+  "close high nasdaq rally reaches record stocks",
+  "campaign harris hits hopeful michigan national sayed senate trail voice",
+  "hinson iowa iran plagues race republican senate shifts toss",
+  "bought disclosure financial july musk shares shows sold spacex trump",
+  "ball crystal democrats favor gubernatorial moves races sabato senate"
  ]
 }
