@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiogFBVV95cUxNSWtGQzdRb3BkZlNlZXdoamc5LU9Qc1RTaFJYNjJzemV0NU9ONDVmM0JFTW5wRWNvbW43LTRhOEw0cmZkcDFsUDFRd2lXSHk2dV9sOHNTcTdZRWFBTXN2VmlMRkRZTzdIX1lOZUFUMm9wWXQwUmpRanowbERtLWJnRWc1dGQ2dFdCNXJOU3NjYjhJeWR2c0xsWUZxZzlJZ0hVVHc",
   "CBMiqwFBVV95cUxNdkZMeW02Q2lwMHhRVDR5eXdXckZ0bGxlMTZsUm1XYWNEWmppbEtuUnN0LUZSbzRxX0RuSlNsX29uOUdrcnk5RVNvOVpuNktacUdvYTRxN2IySmhreDJxSEVJTldSOElxMEdXejFOcGczTjNrRFdFNXNtYUxmZnpIczd1bi11clN1QUR3SHNwVVdUYTliVDJzRFZxUllLblZ1T1RjY1M3TVQ5UXM",
   "CBMioAFBVV95cUxOZ0p3Z1BrSWNCTWNSWDZpV2wwa3BDeThuSENKVmViTkt6c2t6ZVBzTXM3VEh4R3VqVVVqajVseFFmMEZrcl9tc2Z4YkZFM0lNTi0ycGxpSlF3cTRyaFNMNnh4UjBjZjhLejdnYVcxdWRHMnRsVGQ3UjhzVm5MTl9Ya1BVdllnNU9ZS0NLdE9ETVF4c0ZfMTZDMXRWM0JPSk9L",
   "https://www.theguardian.com/business/2026/sep/06/bailouts-jaguar-land-rover-redundancies-cuts-business-secretary",
@@ -799,15 +798,10 @@
   "CBMiqAFBVV95cUxQMzA3eFpxenhZSmdKNndLU2JNalZSZWNUWk9LMnAzaFFYZXItWWljSDE4VzZUb2NpLWozR2swQmhGNWtnVDBqYWN3VmdPZWEzSEJwTWJ4MHJaUlpKeGtoUWowMHBUYXA5QzhkdW10U2dUVy1BOXA5UVhtVFJnM1RJMUtVNzJaM0tXRVlPT0Q3NGpGUlg3ZG84Ty1kODRlMjh6dFVCb3F2dS0",
   "https://www.bbc.co.uk/news/articles/cqy7z275yx65o#0",
   "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
-  "CBMiqAFBVV95cUxOZTJjdFdPZThXOVZabjhkMWYtcDZacENSakRfYkF3YnVNMVlRZVp3V0NoRkMtQkpNZkhFNzNXZlFVMGFXa1NOVXh2ZHE5elRUS1BvalMwVFpPbWd1cnZ2NFR2TVpJZGdCa1hrUHFTaVdzY1RwMjgySnRZRE42Qng4c2xuUWhITFgzVkV4MVY2dGlaclFNR0JpVWlidGsySWlnNGJMVjRZODE"
+  "CBMiqAFBVV95cUxOZTJjdFdPZThXOVZabjhkMWYtcDZacENSakRfYkF3YnVNMVlRZVp3V0NoRkMtQkpNZkhFNzNXZlFVMGFXa1NOVXh2ZHE5elRUS1BvalMwVFpPbWd1cnZ2NFR2TVpJZGdCa1hrUHFTaVdzY1RwMjgySnRZRE42Qng4c2xuUWhITFgzVkV4MVY2dGlaclFNR0JpVWlidGsySWlnNGJMVjRZODE",
+  "https://www.theguardian.com/world/2026/sep/22/roman-coins-germany-amateur-archaeologist-silver-denarii"
  ],
  "posts": [
-  {
-   "fp": "chip dragged falls metals nikkei stocks",
-   "title": "Nikkei Falls 1.6%, Dragged by Chip, Metals Stocks",
-   "source": "WSJ",
-   "at": "2026-09-14T03:38:46.737385+00:00"
-  },
   {
    "fp": "dead election ends give heat majority near opposition preliminary results seat swedish",
    "title": "Swedish election ends in near dead heat. Preliminary results give opposition a 1-seat majority",
@@ -3201,10 +3195,15 @@
    "title": "Sri Lankan court finds 15 men guilty for their roles in the 2019 deadly Easter bombings",
    "source": "AP",
    "at": "2026-09-22T14:57:55.515034+00:00"
+  },
+  {
+   "fp": "amateur archaeologist denarii field finds german roman silver",
+   "title": "Amateur archaeologist finds 934 Roman silver denarii in German field",
+   "source": "Guardian World",
+   "at": "2026-09-22T15:28:04.318921+00:00"
   }
  ],
  "titles": [
-  "chip dragged falls metals nikkei stocks",
   "dead election ends give heat majority near opposition preliminary results seat swedish",
   "area bianchi dead dominick found missing newlywed upstate went wooded",
   "commercial dead estate left malls performer real",
@@ -3603,6 +3602,7 @@
   "deal european free philippines strikes trade union",
   "bombings convicts court deadly easter lanka sunday",
   "battle coastal heights houthis killed yemen",
-  "2019 bombings court deadly easter finds guilty lankan roles"
+  "2019 bombings court deadly easter finds guilty lankan roles",
+  "amateur archaeologist denarii field finds german roman silver"
  ]
 }
