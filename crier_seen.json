@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.foxnews.com/world/anti-migrant-afd-seeks-break-germanys-political-firewall-historic-state-election",
-  "CBMi4AFBVV95cUxPVThPTlhka2NYc2taZllVMURYaVIxUkxneXdRSUYxb0VfYV96WEJ3NTN0bkZxLW1tS1RKT21sRlBXYXVmbUdzckRESUliaTlNVWlpaVdSRUIzbnZ0RzJjVEZET2tEa3V1UHBrRkh2dlNyLVh2STRmNlpKQkNLYUtzVFhGbnoyR0VINUFlbTVmM0tFaHEtVmdWY3FCUnE4a044MWtiV2g0Tm14TWVtSVYyTExMXzdqVTJ4TDJKd2RoM3U2QzRUMEFKbW94VlFHTUw3LWQtdXEwNDRhOEZ5dzdjeg",
-  "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
-  "CBMiiwFBVV95cUxNc0NxRERHYTctb1JDdWRuek9ORmVLZ1Y4SjhsdGJPSWstMGVObWU4RHVsNkF2WFdRNGl4XzJmSVFBZVpHNGp0WFk4UURfMThDY09MZGdvbmNLTjFMdnZRN2lueGJTOUFiSW5IbzNPZEczbi01OWlsV1BIV25aNkQ4dkkzakozOXhHcVVB",
-  "CBMirwFBVV95cUxPTWxqSWplY21mUVFmelpyUm82aEdFOVNETndUR3o2OHRKZzhmbkRILWRia2VTZkg5OWJoc3M5ZjkzcVl5NzV5cEIwUVNwXzkwRGZYcjlRNERMdElDNFZCT3ppdzdVd0NpS3U3TlR3LVRGWVB0Y3FVVm5CYkN2eEhNMG9rU1AzNHAzYkZIVklhclJLcDFXRUJEaThwU0ttaWJWNEo0VDVPSzQxWlpOeHBJ",
-  "https://nypost.com/?post_type=article&p=40688250",
   "CBMipgFBVV95cUxPdS1pLU5lZ2t0OVdmLTlYbjA2QzlpOWhNOVdVampxQVNMWWhERU11UnB3RlBkWUtnUDhXVUhEX0t2SERmSjB2NnUxVTVaYzZ5SWZjZEFVRGREOVYzWlRTYndMSFZqX1VSa2dzMTVoZHlyVUM5elNKaXlCRmFndThaSGwyb2ZSYmlENHNxZUpUWEVPd25mWVZKZFd1MThJN2E5VHluVl9R",
   "CBMinAFBVV95cUxQdkJ2RDdBcUNxUkt5d1RkR25MbnJzUUF6bmh3RlU1NTBkTE80NWdXakhMTDhUYTZId1cyaWxQbHhiZ0U1ako2Qm5rWm11ODlJRGVXanZNbVlfRExJLUZ6LXlFaXIzN21nZHM4SWdLTE1XdEtIVmVjdkFyX0pJYjlmY0xOU2FwMlNNOEotQmZwQk4wUnVyMkxKNmZsYy0",
   "https://www.washingtonexaminer.com/?p=4711062",
@@ -799,45 +793,15 @@
   "CBMipwFBVV95cUxNQUZGc3R0QWlvZG9mR3o3cTlMcF96eE14OXJkd29rRnRYRkV4djlSd24zN0lkSHhIN2hKbUFZQnh2UlJPOHhabDd1bjNHWkFUV3BzT1BpMHlBV08td0E4UExmWVgtVlFjVWVRcGlnOVcwT2FPQW5rcVdyQVRBUzFBT2FFQjdqWDRfcFhaM3RfM0RVT2NJZ093d25XWFVRTkNIQlVoU0h3NA",
   "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo#0",
   "https://nypost.com/?post_type=article&p=40929130",
-  "https://www.bbc.co.uk/news/articles/cw8r687nedzgo#0"
+  "https://www.bbc.co.uk/news/articles/cw8r687nedzgo#0",
+  "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates",
+  "CBMi5wFBVV95cUxNUW01Z2w5SlFzQ3VXT3g1cGUzbWlMU2FNM25rVEJFZkZQTzFHampOdUI3NU56aUxVem5oM3dhVXdPN1JxRFpOWmZublhkaEVrUmc5UTNVU3E2cVVVbE1uV3pTWFEzX1R6bmZ2Yjlyc1ZiUEQ2YlZFZHpTQWR3aFBWcUgtWGdNYXRqNmY2UzBkRkdOY2tmWGQyWVJQMEl6WjhWb0dJeGUwbTdvNURreElseVJjZUxBdXdjY2VON2QxU3dSQU5URlFjcy0zbWJWS0xtTlpJdmJ0TW54VFVaTEpGaUFyUHFlVWc",
+  "CBMinAFBVV95cUxPSTRtVzYzLVV4RU1BMzBfOEtFcDdvcW00SGRzTFBUUE9vSFAtM1JudG9wZVFMWjVpcVpseHlrNDNJdWxPcjRtWVVpOTVMNUpXQjM4N1ZkU1lHV3N4MjNwREQ3VXNxVzhlV25fR3F2UXkxMUZkTVpzWHJXRG1sNE1odFpJcFplTjhYU2FwV1FHb1RReTFxMXZtWDZQV2E",
+  "CBMiogFBVV95cUxQNnJhbTBaWW5Yd0VCS29IYk9xNkg5SW0xN3hfV2x5ZVhfUjZaMGlfd2lJV1hVQjFRYjc1RzlHaC1KQ1RFWUlCYUhqZm45ZVFwbVBUNnZXVUhPbjZtMFducXNhMFFWWm10YXFfeXQxOXhqMHhOSjhha1dlR21la0VTOVlvTGZTaDlqMVNweE5NeThRMWhFQVlSdWZ5RS1SdVdzS0E",
+  "CBMiYkFVX3lxTE5wV19UVkNXUkN3Z0h0QnZvUnFmSzdVNEMtU01XcVU1YkJ6bXlXeU1IOXRVdjFOWFgwaXQ1U0xrZDRlcVozUF9qTDFzUnA2RVZVaXlPVTZrcXVDbjEzN3VTWnNR",
+  "CBMiqAFBVV95cUxQMzA3eFpxenhZSmdKNndLU2JNalZSZWNUWk9LMnAzaFFYZXItWWljSDE4VzZUb2NpLWozR2swQmhGNWtnVDBqYWN3VmdPZWEzSEJwTWJ4MHJaUlpKeGtoUWowMHBUYXA5QzhkdW10U2dUVy1BOXA5UVhtVFJnM1RJMUtVNzJaM0tXRVlPT0Q3NGpGUlg3ZG84Ty1kODRlMjh6dFVCb3F2dS0"
  ],
  "posts": [
-  {
-   "fp": "been bugging everyone irish lifting tariff trump whiskey",
-   "title": "Trump says he\u2019s lifting 10% tariff on Irish whiskey: \u2018Everyone\u2019s been bugging me\u2019",
-   "source": "Washington Examiner",
-   "at": "2026-09-13T22:55:04.133839+00:00"
-  },
-  {
-   "fp": "agenda congress hill packed returns week",
-   "title": "This Week on The Hill: Congress returns to a packed agenda",
-   "source": "The Hill",
-   "at": "2026-09-13T22:55:05.890737+00:00"
-  },
-  {
-   "fp": "brutal carson collapse completely down half jordan love melt packers second vikings wentz",
-   "title": "Jordan Love, Packers completely melt down in brutal second half collapse to Carson Wentz-led Vikings",
-   "source": "New York Post",
-   "at": "2026-09-14T00:34:14.382264+00:00"
-  },
-  {
-   "fp": "breaking news today world",
-   "title": "World News: Top & Breaking World News Today",
-   "source": "AP",
-   "at": "2026-09-14T00:34:16.446693+00:00"
-  },
-  {
-   "fp": "attack backs bougainville camp copper hits mine panguna restart",
-   "title": "Attack hits Panguna camp as Bougainville backs copper mine restart",
-   "source": "Reuters",
-   "at": "2026-09-14T00:34:18.208568+00:00"
-  },
-  {
-   "fp": "cork enter former houthis kill official pentagon seizing warns",
-   "title": "Houthis enter US 'kill box' after seizing Red Sea 'cork,' former Pentagon official warns",
-   "source": "Fox News World",
-   "at": "2026-09-14T00:34:19.975140+00:00"
-  },
   {
    "fp": "airman down good iran mission recounts rescue shot",
    "title": "U.S. airman shot down in Iran recounts rescue mission: \u2018God is good\u2019",
@@ -3201,15 +3165,45 @@
    "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
    "source": "BBC World",
    "at": "2026-09-22T10:00:33.060694+00:00"
+  },
+  {
+   "fp": "ahead changes deadlocked europe greenland live russia sanctions talks ukraine",
+   "title": "EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live",
+   "source": "Guardian World",
+   "at": "2026-09-22T11:03:09.474279+00:00"
+  },
+  {
+   "fp": "adds ahead chemicals china control drug export list precursor summit trump",
+   "title": "China adds drug precursor chemicals to export control list ahead of Trump-Xi summit",
+   "source": "Reuters",
+   "at": "2026-09-22T11:03:11.171415+00:00"
+  },
+  {
+   "fp": "alibaba ambitious china chip model plans powerful unveils",
+   "title": "China\u2019s Alibaba unveils new powerful chip and ambitious AI model plans",
+   "source": "AP",
+   "at": "2026-09-22T11:03:12.845196+00:00"
+  },
+  {
+   "fp": "energy european gain prices rise stocks",
+   "title": "European Energy Stocks Gain After Oil Prices Rise",
+   "source": "WSJ",
+   "at": "2026-09-22T11:03:14.581810+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-09-22T11:03:16.240839+00:00"
+  },
+  {
+   "fp": "deal european free philippines strikes trade union",
+   "title": "European Union strikes a new free trade deal with the Philippines",
+   "source": "AP",
+   "at": "2026-09-22T11:03:17.950667+00:00"
   }
  ],
  "titles": [
-  "been bugging everyone irish lifting tariff trump whiskey",
-  "agenda congress hill packed returns week",
-  "brutal carson collapse completely down half jordan love melt packers second vikings wentz",
-  "breaking news today world",
-  "attack backs bougainville camp copper hits mine panguna restart",
-  "cork enter former houthis kill official pentagon seizing warns",
   "airman down good iran mission recounts rescue shot",
   "ahead bloc call close election left narrowly swedish wing",
   "chip dragged falls metals nikkei stocks",
@@ -3603,6 +3597,12 @@
   "attack drone kills region russia samara ukrainian",
   "back evacuation face fight lithuania plans ready russia tells threats",
   "category grows hurricane mexico pacific polo storm",
-  "bombings court deadly deliver easter lankan verdict"
+  "bombings court deadly deliver easter lankan verdict",
+  "ahead changes deadlocked europe greenland live russia sanctions talks ukraine",
+  "adds ahead chemicals china control drug export list precursor summit trump",
+  "alibaba ambitious china chip model plans powerful unveils",
+  "energy european gain prices rise stocks",
+  "edition journal print street wall",
+  "deal european free philippines strikes trade union"
  ]
 }
