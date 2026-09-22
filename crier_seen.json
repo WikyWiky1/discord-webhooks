@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMirgFBVV95cUxPcVNOSUFHS2NWWTVHOS0tc0dmSzJNOVBMTVU0OEhxWHUyMTFCSk9zY1kxaklub0o4bXYyQzNEcEQ0eVVmTnZzZDNaOFZENmFPZmVyTV8zbGJHT2JQQXdmdWM3dk9WYWlLRFRVTHl4RHFfS0lBYlFWUHE4aWNFM0piWGo2NGpPWWtCRXQ0NndnU0laVU1jcVpuRHY4UThPb2tsVS0ta1dueUhjMXZvakE",
-  "https://nypost.com/?post_type=article&p=40680800",
   "https://nypost.com/?post_type=article&p=40645904",
   "CBMiowFBVV95cUxPV0ttZmo1LS1pVEdRdXgybFlPaFh4Rk41OXE4cnp5Z0NhSG9PT0ptdTR5eWY0SF9PaTk0ZTV3eVV5d1d3ckhpU3hmVTRNOTRrTmRhXzl0OWpIeUlJMklEMEc3S3MtU0I1eTRHcVpmLVg0a010amhUTVkzS18xdUg3QkFJamtiLVRST3puOVQtMTlIeXYwcHlfN01aVndkTFo1UEtn",
   "https://thehill.com/?p=6072042",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/2026/sep/21/missouri-congressional-map-trump-appeals-court",
   "https://thehill.com/?p=6102804",
   "https://www.theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference",
-  "CBMiqgFBVV95cUxNc1REQ3BFNkg4NEJhMVRYYjhHNkQxc3QxeXZPeXRnZGt5YmlKbWhJR3A0ODFKTWFQVmJXVEl0WG5nd3RxcU1JMlFzbmxQQlJtR2pKVS1aUUcwdUR6aGVJY2dtZDlIM01Ub1lMUHYyXy1wam5aSW5NTl96bkFGUFp0N2lNVEJ2LWdZOFhfVFBLM3ZXMENMT3dwdkdpMDdFMDN2bnpPMHFYVFlrUQ"
+  "CBMiqgFBVV95cUxNc1REQ3BFNkg4NEJhMVRYYjhHNkQxc3QxeXZPeXRnZGt5YmlKbWhJR3A0ODFKTWFQVmJXVEl0WG5nd3RxcU1JMlFzbmxQQlJtR2pKVS1aUUcwdUR6aGVJY2dtZDlIM01Ub1lMUHYyXy1wam5aSW5NTl96bkFGUFp0N2lNVEJ2LWdZOFhfVFBLM3ZXMENMT3dwdkdpMDdFMDN2bnpPMHFYVFlrUQ",
+  "https://nypost.com/?post_type=article&p=40924727",
+  "https://thehill.com/?p=6102786"
  ],
  "posts": [
-  {
-   "fp": "arrest dead four interest louisiana person police spree stabbing",
-   "title": "Four dead in Louisiana stabbing spree as police arrest person of interest",
-   "source": "Guardian World",
-   "at": "2026-09-13T18:19:36.455228+00:00"
-  },
-  {
-   "fp": "canada finds industry itself lobster maine sides squeezed trade",
-   "title": "Maine\u2019s lobster industry finds itself squeezed on all sides amid Canada trade war",
-   "source": "The Hill",
-   "at": "2026-09-13T20:23:58.635762+00:00"
-  },
   {
    "fp": "back bring congress discuss johnson urges",
    "title": "Dem rep urges Johnson: 'Bring us back to Congress' to discuss AI",
@@ -3201,11 +3189,21 @@
    "title": "U.S. Stocks Rise, Nasdaq Hits Record, as Oil Slides, AI Bets Surge",
    "source": "WSJ",
    "at": "2026-09-21T23:50:49.774403+00:00"
+  },
+  {
+   "fp": "killed possible robbery scooter shot sources teen",
+   "title": "Teen boy, 14, shot and killed during possible scooter robbery in NYC: sources",
+   "source": "New York Post",
+   "at": "2026-09-22T00:08:58.283284+00:00"
+  },
+  {
+   "fp": "attack everyone former outlet president press trump whca",
+   "title": "Former WHCA president on Trump's press ban: 'An attack on one outlet is an attack on everyone'",
+   "source": "The Hill",
+   "at": "2026-09-22T00:09:00.020048+00:00"
   }
  ],
  "titles": [
-  "arrest dead four interest louisiana person police spree stabbing",
-  "canada finds industry itself lobster maine sides squeezed trade",
   "back bring congress discuss johnson urges",
   "budget calls easy federal payouts trump",
   "former imposes press sanctions secretary ukraine zelenskiy",
@@ -3603,6 +3601,8 @@
   "appeals backed congressional court favor maps missouri rules trump",
   "appeals court election house missouri november reinstates",
   "davey halt intelligent proliferation super treaty",
-  "bets hits nasdaq record rise slides stocks surge"
+  "bets hits nasdaq record rise slides stocks surge",
+  "killed possible robbery scooter shot sources teen",
+  "attack everyone former outlet president press trump whca"
  ]
 }
