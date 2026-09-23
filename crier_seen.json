@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40703065",
-  "https://nypost.com/?post_type=article&p=40703055",
-  "https://www.foxnews.com/world/russias-quieter-nuclear-submarines-threaten-nato-former-commander-warns",
-  "https://nypost.com/?post_type=article&p=40702442",
-  "https://www.washingtonexaminer.com/?p=4715985",
-  "https://www.theguardian.com/us-news/2026/sep/07/amazon-cargo-plane-crash-miami-airport",
   "CBMigwFBVV95cUxNOGV0QmpMTThWUF9sWGY3OGZuTHpuTlR2Qmh3ZlF6ZmxISEJ4TVI3Ry1lamdEUnRYSWY2bm1qYXJ5R0FGeHhCZUxrdUlzaEdsa1E0VG54bjVsZ29INnFlcmhxT2x1OGNnOXpwendIUzdMSHpIei1ENXJENlhIU2tmdEZtZw",
   "CBMipAFBVV95cUxNN1JxQkR0UVI2LWRja0MxaTZQYmV4N2ZlM3RXN2dBX1ZwcU1xMW9qNDF3VHFfbjZTeHRGYWZaaEN3aW9kWllDTVlrdDhfMzN0ZGxSMjhQMlNzTlNiM3NpdGxiUEpXTm9yOHBia2lGc1pURDlrSTIwbG56YUhrQ0tvUVhHSzVnT2cwTHByTEViVmlFX3hyenlBRzB5UGhibXlhZHJJcw",
   "CBMiigFBVV95cUxPSTBfZVpuWEZhdTNBM3ByZFpOazRsWHltczliNF8wdk1MeUF6RlloZWJHM2FwM3VJT2RKNExnYk5MLWxoMmNPVDZlUnoya0ZKeUhNOTJva21TRzFLWGxVTll5NmhmanhRaWlYcW1oQlpqd29ZblJYbW9vcjNzTTdNZDFNWWVLalRsTkE",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=40955487",
   "https://news.sky.com/story/four-victims-of-deadly-merseyside-house-fire-named-13590958",
   "https://nypost.com/?post_type=article&p=40953369",
-  "CBMiwgFBVV95cUxQVE5RaDJ1QWcxNjRiREd6enIxM3lKendLRDNMQkVNdEFYd09FU1FRWlplNkdBTkZib0FTeDdVcUhlbnRVUXR3UHBEREJQaVItYV9jdW9KX3hER0tJM196WHNyZTE0Rnlub1hRSHMzaU1xN2hTLXJwYW4yOFc3SmdNLWFDdkNBekU3aW9seDBxV1RBNFZ4UFNWYWE4NU9Id2Rla2pvZXM0R084UVNrcE0yNFE0andXZFA2TE16TXUyamEzQQ"
+  "CBMiwgFBVV95cUxQVE5RaDJ1QWcxNjRiREd6enIxM3lKendLRDNMQkVNdEFYd09FU1FRWlplNkdBTkZib0FTeDdVcUhlbnRVUXR3UHBEREJQaVItYV9jdW9KX3hER0tJM196WHNyZTE0Rnlub1hRSHMzaU1xN2hTLXJwYW4yOFc3SmdNLWFDdkNBekU3aW9seDBxV1RBNFZ4UFNWYWE4NU9Id2Rla2pvZXM0R084UVNrcE0yNFE0andXZFA2TE16TXUyamEzQQ",
+  "https://nypost.com/?post_type=article&p=40958698",
+  "CBMiYkFVX3lxTFBPX20yMGU0NDJGVlZmazU1SEZEYU51ZUtOWGtsMkhrYjFlbENKOC1hY2hhRVR1VUdPVlo5b19lektzdjdLVThXc0RwY0JQcS1XcnFXVGJFRWtzN0otSTNSdkt3",
+  "CBMikAFBVV95cUxNOFpoZ25MRHVkM25IWElidjV6R1FQVWkydHlnN1poQXFxamNPR1hMdzgtanpWS01KWjdMRW9FdDhUS1JJaDktemVHeHQ4TVhxV2dickt4SUw3WUxPRF9LVGJhaDRwM2NRSXZ4U21saDVZMXFRcmtoX3ZjbDY5UU85bm1pZ25pSGNQZUt0VnpSZzI",
+  "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o#0",
+  "CBMisAFBVV95cUxQeEU4dTJoZV9XeFR4cENDYXhRMG1Tb3E4aHFNc1RoUEpHeVJNYmtnS1RHb0lVdzg5S1BKelZiUkR4eER2bkFZc0tjcWxlRFEyODRlVlRoNlNmblFabUhsZnJwTllqbmd2RUQ5NmI0M0JVc3B3aVkwcmt0SE9vTERyLVhFRzIybV9OMU94QlF6UGdORGhJZldzTUJ6X1F2TjhTRVpLNDZWeVN6WU1hR0ZLRw",
+  "CBMiwwFBVV95cUxPRjZkcGxJaUhHbnJZOTd1MUtZS3dRclQ0UG1vRC1fU1RmbGk1OXFTVGhocVBJeVFLOE1GTmlpZGlSbWNxNTdQNEl4Mnl1RkZBZG42d0hBRXRwWURKb1ZDSFdCWFdkcDJMQ2w5ZUtmVVR6WVU4eEp3dkVGR0d3al9hdGVTWkxvWGVtc0M0d3JHaF9OdkhVcnB4N3Nxc2JlX3JMcWZIa2N2c0xyLWRyWVJodlk0alJQLU5URVFuaHZrOXhxRHM"
  ],
  "posts": [
-  {
-   "fp": "breaking customers finds goods leading refunding retailers returned",
-   "title": "Leading UK retailers \u2018breaking law\u2019 by not refunding customers for returned goods, Which? finds",
-   "source": "Guardian World",
-   "at": "2026-09-15T17:25:49.712876+00:00"
-  },
-  {
-   "fp": "borneo indonesian leading orangutan research site threaten wildfires",
-   "title": "Indonesian wildfires threaten leading orangutan research site in Borneo",
-   "source": "Guardian World",
-   "at": "2026-09-15T17:25:51.513932+00:00"
-  },
-  {
-   "fp": "academy capture collapsed daughter funeral heartwrenching nypd photos police recruit tearful young",
-   "title": "Heartwrenching funeral photos capture tearful young daughter of NYPD recruit who collapsed during run at Police Academy",
-   "source": "New York Post",
-   "at": "2026-09-15T20:25:18.332108+00:00"
-  },
-  {
-   "fp": "chilling deepmind google kill quits researcher warning",
-   "title": "Google DeepMind researcher quits with chilling AI warning: It could \u2018kill us all\u2019",
-   "source": "New York Post",
-   "at": "2026-09-15T20:25:20.126212+00:00"
-  },
-  {
-   "fp": "charges eight hegseth impeachment massie pete read thomas",
-   "title": "Read Thomas Massie\u2019s eight impeachment charges against Pete Hegseth",
-   "source": "Washington Examiner",
-   "at": "2026-09-15T20:25:21.810051+00:00"
-  },
-  {
-   "fp": "asked blanche digenova dodges question resignation whether",
-   "title": "Blanche dodges question on whether he asked for DiGenova's resignation",
-   "source": "The Hill",
-   "at": "2026-09-15T20:25:23.743134+00:00"
-  },
   {
    "fp": "congress credit economic federal film hollywood push study tout",
    "title": "Congress and Hollywood tout economic study in push for federal film tax credit",
@@ -3201,15 +3165,45 @@
    "title": "One Indian killed in attack on ship heading towards India, Indian embassy in Oman says",
    "source": "Reuters World",
    "at": "2026-09-23T18:07:38.709207+00:00"
+  },
+  {
+   "fp": "230k affordable bentley costing torcal unveils",
+   "title": "Bentley unveils Torcal SUV, its first EV costing an \u2018affordable\u2019 $230K",
+   "source": "New York Post",
+   "at": "2026-09-23T21:09:16.840723+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-09-23T21:09:18.578849+00:00"
+  },
+  {
+   "fp": "drop stocks surge treasury yields",
+   "title": "U.S. Stocks Drop as Treasury Yields Surge",
+   "source": "WSJ",
+   "at": "2026-09-23T21:09:20.294146+00:00"
+  },
+  {
+   "fp": "45bn begin board gaza peace plan reconstruction trump unveils",
+   "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+   "source": "BBC World",
+   "at": "2026-09-23T21:09:21.971263+00:00"
+  },
+  {
+   "fp": "down ends prices rise street treasury wall yields",
+   "title": "Wall Street ends down as oil prices, Treasury yields rise",
+   "source": "Reuters",
+   "at": "2026-09-23T21:09:23.636359+00:00"
+  },
+  {
+   "fp": "bank condemning drafted exclusive memo never released sanctions west",
+   "title": "EXCLUSIVE: US drafted a memo condemning UK over West Bank sanctions. It was never released",
+   "source": "Reuters",
+   "at": "2026-09-23T21:09:25.266720+00:00"
   }
  ],
  "titles": [
-  "breaking customers finds goods leading refunding retailers returned",
-  "borneo indonesian leading orangutan research site threaten wildfires",
-  "academy capture collapsed daughter funeral heartwrenching nypd photos police recruit tearful young",
-  "chilling deepmind google kill quits researcher warning",
-  "charges eight hegseth impeachment massie pete read thomas",
-  "asked blanche digenova dodges question resignation whether",
   "congress credit economic federal film hollywood push study tout",
   "democrats elections media patel press senate takeaways",
   "congress democrats financing oligarch parties probe russian trump wedding",
@@ -3603,6 +3597,12 @@
   "ambassador assembly attack bank general injured israel netanyahu speech terror west",
   "deadly fire four house merseyside named victims",
   "amazing champion competitive competitor dead eating janus race",
-  "attack embassy heading india indian killed oman ship towards"
+  "attack embassy heading india indian killed oman ship towards",
+  "230k affordable bentley costing torcal unveils",
+  "edition journal print street wall",
+  "drop stocks surge treasury yields",
+  "45bn begin board gaza peace plan reconstruction trump unveils",
+  "down ends prices rise street treasury wall yields",
+  "bank condemning drafted exclusive memo never released sanctions west"
  ]
 }
