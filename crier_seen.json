@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election",
-  "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
-  "CBMikAFBVV95cUxPTVh1R1ZTZVh4LUV4RERRdUZYSzBCUWg2RkwyWDVJR2NvcDBhRTlWUnNlMUFWZmNBN0MzWFZOejNVd1FiaUNla3RZdHBQUTBlc1lQN0pQVm1qQ2poSnZBa0V0RDRNWHpJMHMxekpUU2M2NFgzZ2JKZF9oV29fUmtLVWpiNHlXdEpieWVFTHAxUnQ",
-  "CBMifEFVX3lxTE95di0tMktDWFRkS1dWYnRab1dOR3QwYjctR1doUjlKbTQzMm5MUkgyTW5xRlN0YmtlSXoxYTA3dFhqajI5MTRITXFGNTlJTEtVWDJuMHlVelN5V0QwRmFGOTRKODRPOXZ6SF92STlGMDNnOW9vNG0zRER6aXE",
-  "CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ",
-  "CBMirAFBVV95cUxPZmRWektMN3dBSXNxMmkzS3Mycm9rTGhaQzZFcXhRbTRzUzFaT3RHclMyV1hVS19DVU0tbTNFMjNlMFpaam8tV1FPTlo0V21raUNzUF8weWpvY292X19ib0Rld1NsSnZ6QlBTU1RQTnZIeThMSUgyUWdNdk5CYkpaQ25KQ0xsYTlGdHdUbHI4OC1YQnJkS3oxbnhHM29BZTR6T1RQRmF6UjFYeEpM",
   "https://www.bbc.co.uk/news/articles/cpd0113082eo#0",
   "https://www.theguardian.com/us-news/2026/sep/07/first-thing-elon-musk-german-far-right-afd-election-win-russia",
   "https://www.theguardian.com/business/2026/sep/07/jaguar-land-rover-job-trump-tariffs",
@@ -799,45 +793,15 @@
   "https://news.sky.com/story/evacuation-under-way-after-unexploded-ww2-bomb-found-in-cornwall-13590920",
   "CBMimAFBVV95cUxOdWVGZzhzaVpaYVc0Yy1QVmdGeHlJN0NsU3VoZ1c4cml2Q2kwbDhYemtoSmxFeEV4Wm4tcEJaLTd0a3BqMFlvTllmR3kyYU1IX3dXd2dyemczakRYNUtyOHJseExQNG1KVUNkbWJDdnczc0ZETTREbTJ4eWlkVzhuMjZ5bDVPOEZoT3BhckxfWlJSWHhkUFpXSA",
   "https://nypost.com/?post_type=article&p=40947503",
-  "https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo"
+  "https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo",
+  "https://www.washingtonexaminer.com/?p=4738083",
+  "https://thehill.com/?p=6105130",
+  "CBMimwFBVV95cUxNUUdRQmdleGhGWFdlb2tYWHhuRW5GX1kyWF9pcXA1aFNvNUNNMEJKbURCZmxBWU0xaFlFSWdnelk0LVA3MmF0MXpaNm9PR1VGZFBuYWM2WnV3OXcxTEw0QVI2Ylk5bVpUS3U3MFR1dmNoYTlNMUk0cjRnNDZ0eFhXRldVNjFIT1IzMFE2VjNVelk1VUhIbTRNXzFxMA",
+  "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
+  "https://nypost.com/?post_type=article&p=40947969",
+  "CBMimwFBVV95cUxNdXRfVUpoTkJpWlZoVDA3MVEzNFVFbW5KbDZTX1FYVW0xNzdCZXR2eHdfZUgtbDJwdzM3Z1A2amgteXZqTS0yVGQxaV9WVjNxay1LZllIMFlRTmtQbXdzclF1OEJnUVVZUkhLVGEtUGdZcUdKMFI1bzY0aDdkaVpXM3QxTnNnOW1PMWY3dEZRYzdVeXNrTVBTNlh5QQ"
  ],
  "posts": [
-  {
-   "fp": "absence long mcconnell mitch months returns senate",
-   "title": "Mitch McConnell returns to Senate after months-long absence",
-   "source": "Guardian World",
-   "at": "2026-09-15T03:39:36.278216+00:00"
-  },
-  {
-   "fp": "boost fund gets leadership paxton senate texas",
-   "title": "Paxton gets $54M boost from Senate Leadership Fund's Texas PAC",
-   "source": "The Hill",
-   "at": "2026-09-15T03:39:38.138845+00:00"
-  },
-  {
-   "fp": "adds deepmind google humans kill researcher warnings",
-   "title": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans'",
-   "source": "Reuters",
-   "at": "2026-09-15T07:02:02.438731+00:00"
-  },
-  {
-   "fp": "countries defender jaguar land nato rover sell talks",
-   "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
-   "source": "Guardian World",
-   "at": "2026-09-15T11:12:45.149902+00:00"
-  },
-  {
-   "fp": "chuck democratic director leader mara policy raymond schumer senate",
-   "title": "Raymond O\u2019Mara: Policy director, Senate Democratic Leader Chuck Schumer (NY)",
-   "source": "The Hill",
-   "at": "2026-09-15T11:12:46.976832+00:00"
-  },
-  {
-   "fp": "adviser david former leader mcconnell mitch popp republican senate senior",
-   "title": "David Popp: Senior adviser, former Senate Republican Leader Mitch McConnell (Ky.)",
-   "source": "The Hill",
-   "at": "2026-09-15T11:12:48.778834+00:00"
-  },
   {
    "fp": "benchmark beyond bond drives rattled selloff stocks",
    "title": "Bond selloff drives US benchmark beyond 5%; stocks rattled",
@@ -3201,15 +3165,45 @@
    "title": "Category 5 Hurricane Polo is 'one of the strongest storms ever'",
    "source": "NPR News",
    "at": "2026-09-23T08:10:14.263138+00:00"
+  },
+  {
+   "fp": "france kowtows mobster putin removes russian sanctions",
+   "title": "France kowtows to Putin and removes EU sanctions on Russian mobster",
+   "source": "Washington Examiner",
+   "at": "2026-09-23T10:52:35.183982+00:00"
+  },
+  {
+   "fp": "alaska contest fight makes senate trawling waves",
+   "title": "Trawling fight makes waves in Alaska Senate contest",
+   "source": "The Hill",
+   "at": "2026-09-23T10:52:36.947245+00:00"
+  },
+  {
+   "fp": "artificial bernie bill create department sanders superintelligence unveils",
+   "title": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+   "source": "AP",
+   "at": "2026-09-23T10:52:38.651737+00:00"
+  },
+  {
+   "fp": "advanced confronts congress lawmakers senate shut tools",
+   "title": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
+   "source": "NPR News",
+   "at": "2026-09-23T10:52:40.360110+00:00"
+  },
+  {
+   "fp": "american arkansas candidate faces fury illegal migrants replace senate should suggesting workers",
+   "title": "Arkansas Dem Senate candidate faces fury for suggesting illegal migrants should replace American workers",
+   "source": "New York Post",
+   "at": "2026-09-23T10:52:42.099337+00:00"
+  },
+  {
+   "fp": "alibaba chip larger model outlines plan unveils",
+   "title": "Alibaba Unveils New AI Chip, Outlines Plan for Larger Model",
+   "source": "WSJ",
+   "at": "2026-09-23T10:52:43.901134+00:00"
   }
  ],
  "titles": [
-  "absence long mcconnell mitch months returns senate",
-  "boost fund gets leadership paxton senate texas",
-  "adds deepmind google humans kill researcher warnings",
-  "countries defender jaguar land nato rover sell talks",
-  "chuck democratic director leader mara policy raymond schumer senate",
-  "adviser david former leader mcconnell mitch popp republican senate senior",
   "benchmark beyond bond drives rattled selloff stocks",
   "buying calling keeps leaders slowdown street wall",
   "global lower mostly shares sink stocks street trade wall",
@@ -3603,6 +3597,12 @@
   "bomb cornwall evacuation found under unexploded",
   "africa dead house leaves mass police shooting south wounded",
   "austin bodycam captures footage migrant moments shooting venezuelan",
-  "category ever hurricane polo storms strongest"
+  "category ever hurricane polo storms strongest",
+  "france kowtows mobster putin removes russian sanctions",
+  "alaska contest fight makes senate trawling waves",
+  "artificial bernie bill create department sanders superintelligence unveils",
+  "advanced confronts congress lawmakers senate shut tools",
+  "american arkansas candidate faces fury illegal migrants replace senate should suggesting workers",
+  "alibaba chip larger model outlines plan unveils"
  ]
 }
