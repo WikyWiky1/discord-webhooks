@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cpd0113082eo#0",
-  "https://www.theguardian.com/us-news/2026/sep/07/first-thing-elon-musk-german-far-right-afd-election-win-russia",
-  "https://www.theguardian.com/business/2026/sep/07/jaguar-land-rover-job-trump-tariffs",
-  "CBMimgFBVV95cUxQM29qLVk4UUFIa1hOSHdIWVd1VWxZb1JVNGpRSXhoalhNU1NYMDJCRTZKc2tnMVdaajktRm5xME9DX1BuWVplZXBGWExHWlJOYjhEeXV4SUdmeVBERHZFMlZnU0FocDRySk5FWVNpOS1LalpKb1dMWGNZeWZkS1NEZHpjYzdRR1ZvdHE4YnIwcE8yWExibUNLd0V3",
   "https://thehill.com/?p=6070749",
   "CBMingFBVV95cUxOTVJ6MDlUWURyZnpLVFdqMnRudnh0bjRaYXlYdHFVLUtPQkhXLVR1Vk1XV3Z0UVF6cFBfRXd5TnBIQ1BHeHNkdm5DdmZCVEE5ZUgzVVBsRU5RSF9YMFZGVDNzcXAxTkQ0b0Y3Rmo1RWdMaG5qZ2h0VVR4Q29NYUZ5V2N1M1pHOGJIWXhhSkNYRVRqeFVDZUFuaEFHd3JBdw",
   "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
@@ -799,33 +795,13 @@
   "CBMimwFBVV95cUxNUUdRQmdleGhGWFdlb2tYWHhuRW5GX1kyWF9pcXA1aFNvNUNNMEJKbURCZmxBWU0xaFlFSWdnelk0LVA3MmF0MXpaNm9PR1VGZFBuYWM2WnV3OXcxTEw0QVI2Ylk5bVpUS3U3MFR1dmNoYTlNMUk0cjRnNDZ0eFhXRldVNjFIT1IzMFE2VjNVelk1VUhIbTRNXzFxMA",
   "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
   "https://nypost.com/?post_type=article&p=40947969",
-  "CBMimwFBVV95cUxNdXRfVUpoTkJpWlZoVDA3MVEzNFVFbW5KbDZTX1FYVW0xNzdCZXR2eHdfZUgtbDJwdzM3Z1A2amgteXZqTS0yVGQxaV9WVjNxay1LZllIMFlRTmtQbXdzclF1OEJnUVVZUkhLVGEtUGdZcUdKMFI1bzY0aDdkaVpXM3QxTnNnOW1PMWY3dEZRYzdVeXNrTVBTNlh5QQ"
+  "CBMimwFBVV95cUxNdXRfVUpoTkJpWlZoVDA3MVEzNFVFbW5KbDZTX1FYVW0xNzdCZXR2eHdfZUgtbDJwdzM3Z1A2amgteXZqTS0yVGQxaV9WVjNxay1LZllIMFlRTmtQbXdzclF1OEJnUVVZUkhLVGEtUGdZcUdKMFI1bzY0aDdkaVpXM3QxTnNnOW1PMWY3dEZRYzdVeXNrTVBTNlh5QQ",
+  "https://nypost.com/?post_type=article&p=40942681",
+  "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
+  "CBMioAFBVV95cUxOb0g4R195Ync3Q29PRndqVFVqTWh2SzlrQWQ5VzdoWm94UmduS0VlOC01VzRzTktNU2FoYU5yVkctbXJxMENSOFE0WjUyZ1pqTWRTc1JwNnlXbUFLQmhOV05hSm11VWZzSHl0NmVkSl9xNEtDamxKU215ZVBtaGFBTUxMb2h4bzJnU1gtbEJoeEgtSUpSdHFGWWxlMVBMZVBL",
+  "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo#1"
  ],
  "posts": [
-  {
-   "fp": "benchmark beyond bond drives rattled selloff stocks",
-   "title": "Bond selloff drives US benchmark beyond 5%; stocks rattled",
-   "source": "Reuters",
-   "at": "2026-09-15T11:12:50.506851+00:00"
-  },
-  {
-   "fp": "buying calling keeps leaders slowdown street wall",
-   "title": "AI Leaders Are Calling for a Slowdown, but Wall Street Keeps on Buying",
-   "source": "WSJ",
-   "at": "2026-09-15T11:12:52.309729+00:00"
-  },
-  {
-   "fp": "global lower mostly shares sink stocks street trade wall",
-   "title": "Global shares trade mostly lower after AI stocks sink on Wall Street",
-   "source": "AP",
-   "at": "2026-09-15T11:12:54.120546+00:00"
-  },
-  {
-   "fp": "back blame citizens guess honking horns iran journalists kills lets netanyahu progressives",
-   "title": "Netanyahu lets journalists blame him for Oct. 7 \u2014 Iran kills citizens for honking horns. Guess who \u2018progressives\u2019 back?",
-   "source": "Washington Examiner",
-   "at": "2026-09-15T12:42:28.578274+00:00"
-  },
   {
    "fp": "engineers future labs missions nasa risks rushed space",
    "title": "NASA rushed engineers out of their labs. They say it risks future space missions",
@@ -3201,13 +3177,33 @@
    "title": "Alibaba Unveils New AI Chip, Outlines Plan for Larger Model",
    "source": "WSJ",
    "at": "2026-09-23T10:52:43.901134+00:00"
+  },
+  {
+   "fp": "blocks driver early gavin heroin killed meth newsom release rescue workers",
+   "title": "Gavin Newsom blocks early release of meth-and-heroin driver who killed two rescue workers",
+   "source": "New York Post",
+   "at": "2026-09-23T13:40:35.574002+00:00"
+  },
+  {
+   "fp": "anti attack backing cross declares disinformation farage free gets live party politics speech unit",
+   "title": "PM\u2019s new anti-disinformation unit gets cross-party backing, as Farage declares it an attack on free speech \u2013 UK politics live",
+   "source": "Guardian World",
+   "at": "2026-09-23T13:40:37.246879+00:00"
+  },
+  {
+   "fp": "chief finance four gaza hamas israel killed strikes",
+   "title": "Four killed in Gaza in strikes, Israel says it killed a Hamas finance chief",
+   "source": "Reuters",
+   "at": "2026-09-23T13:40:38.963233+00:00"
+  },
+  {
+   "fp": "coast downgraded hurricane mexico polo powerful remains very",
+   "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+   "source": "BBC World",
+   "at": "2026-09-23T13:40:40.972998+00:00"
   }
  ],
  "titles": [
-  "benchmark beyond bond drives rattled selloff stocks",
-  "buying calling keeps leaders slowdown street wall",
-  "global lower mostly shares sink stocks street trade wall",
-  "back blame citizens guess honking horns iran journalists kills lets netanyahu progressives",
   "engineers future labs missions nasa risks rushed space",
   "budget expect force full leaders needs ready reconciliation warn without",
   "bessent dividend faces live patel pressed questions senate surprising tariffs updates",
@@ -3603,6 +3599,10 @@
   "artificial bernie bill create department sanders superintelligence unveils",
   "advanced confronts congress lawmakers senate shut tools",
   "american arkansas candidate faces fury illegal migrants replace senate should suggesting workers",
-  "alibaba chip larger model outlines plan unveils"
+  "alibaba chip larger model outlines plan unveils",
+  "blocks driver early gavin heroin killed meth newsom release rescue workers",
+  "anti attack backing cross declares disinformation farage free gets live party politics speech unit",
+  "chief finance four gaza hamas israel killed strikes",
+  "coast downgraded hurricane mexico polo powerful remains very"
  ]
 }
