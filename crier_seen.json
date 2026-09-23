@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40693753",
-  "https://nypost.com/?post_type=article&p=40692653",
-  "https://thehill.com/?p=6074224",
-  "https://www.washingtonexaminer.com/?p=4715646",
-  "https://nypost.com/?post_type=article&p=40694390",
   "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election",
   "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
   "CBMikAFBVV95cUxPTVh1R1ZTZVh4LUV4RERRdUZYSzBCUWg2RkwyWDVJR2NvcDBhRTlWUnNlMUFWZmNBN0MzWFZOejNVd1FiaUNla3RZdHBQUTBlc1lQN0pQVm1qQ2poSnZBa0V0RDRNWHpJMHMxekpUU2M2NFgzZ2JKZF9oV29fUmtLVWpiNHlXdEpieWVFTHAxUnQ",
@@ -799,39 +794,14 @@
   "https://thehill.com/?p=6105609",
   "https://nypost.com/?post_type=article&p=40944726",
   "CBMigwFBVV95cUxPSzB2Vlh0Nm9MZUlDRnA2S1pIMUJXWmZtdlZEVUdFRDV2WEJ1U3pLQnJKUFNBU3YyZGxXZ0trVk1tdm9lVFp0aEh5N0VpVUdOZDNWYjRzOTdUVW84bEYwYnZHNEQ1X213dHl5OGlpQWNSUEFkdXRpRC1rUTRDaDRBMFh2Zw",
-  "CBMipgFBVV95cUxOdjNoMTdCcHluaXljdHI1N1JFa0dDc25UR1BreVVGQ05VRTNHT01iOUJoZXp4V0JoYmRhYWpEZDNubjFacDVfbVBXWTA0bG12TXp5VTJhUnhTSC15ZWtrTUNQbmo0bE8xRVJUMlNKY2dEdXg2ZGMzQ0c1MzVQTzFsWkhiYjVaVTNvLS01bWh0Z2x6QS1mVF91Vk9QYzFHbWJQMzFRVVNR"
+  "CBMipgFBVV95cUxOdjNoMTdCcHluaXljdHI1N1JFa0dDc25UR1BreVVGQ05VRTNHT01iOUJoZXp4V0JoYmRhYWpEZDNubjFacDVfbVBXWTA0bG12TXp5VTJhUnhTSC15ZWtrTUNQbmo0bE8xRVJUMlNKY2dEdXg2ZGMzQ0c1MzVQTzFsWkhiYjVaVTNvLS01bWh0Z2x6QS1mVF91Vk9QYzFHbWJQMzFRVVNR",
+  "https://nypost.com/?post_type=article&p=40947835",
+  "https://news.sky.com/story/evacuation-under-way-after-unexploded-ww2-bomb-found-in-cornwall-13590920",
+  "CBMimAFBVV95cUxOdWVGZzhzaVpaYVc0Yy1QVmdGeHlJN0NsU3VoZ1c4cml2Q2kwbDhYemtoSmxFeEV4Wm4tcEJaLTd0a3BqMFlvTllmR3kyYU1IX3dXd2dyemczakRYNUtyOHJseExQNG1KVUNkbWJDdnczc0ZETTREbTJ4eWlkVzhuMjZ5bDVPOEZoT3BhckxfWlJSWHhkUFpXSA",
+  "https://nypost.com/?post_type=article&p=40947503",
+  "https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo"
  ],
  "posts": [
-  {
-   "fp": "breaking drought game knicks rolling single tickets title",
-   "title": "How Knicks are rolling out their single-game tickets after breaking title drought",
-   "source": "New York Post",
-   "at": "2026-09-14T23:39:15.171674+00:00"
-  },
-  {
-   "fp": "ballot court denies emergency enforce mail request restrictions supreme trump",
-   "title": "Supreme Court denies Trump\u2019s emergency request to enforce mail-in ballot restrictions",
-   "source": "Washington Examiner",
-   "at": "2026-09-15T01:53:37.290777+00:00"
-  },
-  {
-   "fp": "hospitalization june mcconnell returns senate since time",
-   "title": "McConnell returns to the Senate for the first time since his June hospitalization",
-   "source": "AP",
-   "at": "2026-09-15T03:39:30.470244+00:00"
-  },
-  {
-   "fp": "bill committee house passes rules russia sanctions",
-   "title": "Russia sanctions bill passes House Rules Committee",
-   "source": "The Hill",
-   "at": "2026-09-15T03:39:32.349629+00:00"
-  },
-  {
-   "fp": "edge european fall higher indexes stock stocks tech",
-   "title": "European Stock Indexes Edge Higher, Tech Stocks Fall",
-   "source": "WSJ",
-   "at": "2026-09-15T03:39:34.116979+00:00"
-  },
   {
    "fp": "absence long mcconnell mitch months returns senate",
    "title": "Mitch McConnell returns to Senate after months-long absence",
@@ -3201,14 +3171,39 @@
    "title": "European Chip Stocks Open Week With Early Gains",
    "source": "WSJ",
    "at": "2026-09-23T03:34:41.156313+00:00"
+  },
+  {
+   "fp": "africa house killed mass party shooting south",
+   "title": "11 killed in mass shooting at house party in South Africa",
+   "source": "New York Post",
+   "at": "2026-09-23T08:10:07.180702+00:00"
+  },
+  {
+   "fp": "bomb cornwall evacuation found under unexploded",
+   "title": "Evacuation under way after unexploded WW2 bomb found in Cornwall",
+   "source": "Sky News",
+   "at": "2026-09-23T08:10:08.940707+00:00"
+  },
+  {
+   "fp": "africa dead house leaves mass police shooting south wounded",
+   "title": "A mass shooting at a house in South Africa leaves 11 dead and 3 wounded, police say",
+   "source": "AP",
+   "at": "2026-09-23T08:10:10.875912+00:00"
+  },
+  {
+   "fp": "austin bodycam captures footage migrant moments shooting venezuelan",
+   "title": "Bodycam footage captures moments after ICE shooting of Venezuelan migrant in Austin",
+   "source": "New York Post",
+   "at": "2026-09-23T08:10:12.553754+00:00"
+  },
+  {
+   "fp": "category ever hurricane polo storms strongest",
+   "title": "Category 5 Hurricane Polo is 'one of the strongest storms ever'",
+   "source": "NPR News",
+   "at": "2026-09-23T08:10:14.263138+00:00"
   }
  ],
  "titles": [
-  "breaking drought game knicks rolling single tickets title",
-  "ballot court denies emergency enforce mail request restrictions supreme trump",
-  "hospitalization june mcconnell returns senate since time",
-  "bill committee house passes rules russia sanctions",
-  "edge european fall higher indexes stock stocks tech",
   "absence long mcconnell mitch months returns senate",
   "boost fund gets leadership paxton senate texas",
   "adds deepmind google humans kill researcher warnings",
@@ -3603,6 +3598,11 @@
   "ahead blasts summit trump wicker",
   "beamer blasts candidate hasan hero left mich piker rhetoric rival sayed senate ties todd",
   "asia higher ride stays stocks subdued tech wave",
-  "chip early european gains open stocks week"
+  "chip early european gains open stocks week",
+  "africa house killed mass party shooting south",
+  "bomb cornwall evacuation found under unexploded",
+  "africa dead house leaves mass police shooting south wounded",
+  "austin bodycam captures footage migrant moments shooting venezuelan",
+  "category ever hurricane polo storms strongest"
  ]
 }
