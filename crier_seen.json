@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6070749",
   "CBMingFBVV95cUxOTVJ6MDlUWURyZnpLVFdqMnRudnh0bjRaYXlYdHFVLUtPQkhXLVR1Vk1XV3Z0UVF6cFBfRXd5TnBIQ1BHeHNkdm5DdmZCVEE5ZUgzVVBsRU5RSF9YMFZGVDNzcXAxTkQ0b0Y3Rmo1RWdMaG5qZ2h0VVR4Q29NYUZ5V2N1M1pHOGJIWXhhSkNYRVRqeFVDZUFuaEFHd3JBdw",
   "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
   "CBMikAFBVV95cUxPZ0Rrc0pHNkZJeFFyX1lUZVVRdHpuN1VKR0dpTU9tNTI0QU1penRaT2s2SzVaYkhiRlNVeHk2Yjc4aUFZNTBmS3B2SkRNUFByc09uU1dtNmNZdzJRLTF1OVQwY2FYUVFiZWQ0MjBUQjcyNEtmTEJ1NkxaV2E0RDNWTk9UcGZYVVZTUGFzX1dFYXk",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40942681",
   "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
   "CBMioAFBVV95cUxOb0g4R195Ync3Q29PRndqVFVqTWh2SzlrQWQ5VzdoWm94UmduS0VlOC01VzRzTktNU2FoYU5yVkctbXJxMENSOFE0WjUyZ1pqTWRTc1JwNnlXbUFLQmhOV05hSm11VWZzSHl0NmVkSl9xNEtDamxKU215ZVBtaGFBTUxMb2h4bzJnU1gtbEJoeEgtSUpSdHFGWWxlMVBMZVBL",
-  "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo#1"
+  "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo#1",
+  "https://www.theguardian.com/world/2026/sep/23/ancient-wall-paris-first-settlement-archaeology-roman"
  ],
  "posts": [
-  {
-   "fp": "engineers future labs missions nasa risks rushed space",
-   "title": "NASA rushed engineers out of their labs. They say it risks future space missions",
-   "source": "NPR Science",
-   "at": "2026-09-15T15:30:08.258370+00:00"
-  },
   {
    "fp": "budget expect force full leaders needs ready reconciliation warn without",
    "title": "\u2018Expect an Air Force that\u2019s not as ready as it needs to be\u2019 without full budget and reconciliation, leaders warn",
@@ -3201,10 +3195,15 @@
    "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
    "source": "BBC World",
    "at": "2026-09-23T13:40:40.972998+00:00"
+  },
+  {
+   "fp": "ancient beneath confirm found paris settlement site wall",
+   "title": "Ancient wall found beneath Paris could confirm site of first settlement",
+   "source": "Guardian World",
+   "at": "2026-09-23T15:22:46.755122+00:00"
   }
  ],
  "titles": [
-  "engineers future labs missions nasa risks rushed space",
   "budget expect force full leaders needs ready reconciliation warn without",
   "bessent dividend faces live patel pressed questions senate surprising tariffs updates",
   "advancing bill cryptocurrency senate sweeping vote",
@@ -3603,6 +3602,7 @@
   "blocks driver early gavin heroin killed meth newsom release rescue workers",
   "anti attack backing cross declares disinformation farage free gets live party politics speech unit",
   "chief finance four gaza hamas israel killed strikes",
-  "coast downgraded hurricane mexico polo powerful remains very"
+  "coast downgraded hurricane mexico polo powerful remains very",
+  "ancient beneath confirm found paris settlement site wall"
  ]
 }
