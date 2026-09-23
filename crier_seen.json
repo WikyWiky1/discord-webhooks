@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40692058",
-  "CBMimAFBVV95cUxQMTFYb1YxeVRIcHphazF4MHA5U0FVQ3lTcVNyOGNIbkduWW8zX2xORWIxcjNIbE14WVl6UFFPMHZBVzlNc0JJd2hqWEtRb2ZkeTZVRmVVeDk5NmhiNHBtRy12bF94TEo0Qkc5U2dJYVdaamM0UWZOMTNBZ2hHaFM1S0w2NUd5cDFSSU5SaW5VZmhacFQteVVFcg",
-  "CBMiZ0FVX3lxTE1pdFo0M2haaWl1WlA2WmhNeGs2S0ZTUUVtVHhscVhpeDFuQ1NBd1F6Njc4NmY5aU9jempWTUljNFlOMjRuSUM4VXVSY0JrTUZTTVRnQThJbkhsaUhUdFhsZzZQSHdCRnc",
-  "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o#2",
-  "CBMivAFBVV95cUxPLUxSZmhjRHBaRS1KVTJfWmUyVXFzOGs3NENFMU4wZFprQWVkX19CMGxSWlh0cW1GZzhYMWpIaWFjVWpSTUl3alNMY0lHVmlQOXlHRGZmNVJ0NElhN2UyOUN1MnozaFp0amh0YzV3VnhDX1VENFdjMk1aNU1IXzM4dWJjaXBRSzIxd3ZhOEtPRlppR3VMR01YRm1ZMlE3aWpIN0xURFhLSVpqLUFfWi1SaWdiTzZ1YnRqZGtGOQ",
   "https://nypost.com/?post_type=article&p=40693753",
   "https://nypost.com/?post_type=article&p=40692653",
   "https://thehill.com/?p=6074224",
@@ -799,39 +794,14 @@
   "CBMiqwFBVV95cUxOZmMxcG9kN2owWENLallIR3I3SkRzTEhZbnNZdWxSbEd0MS1PbTFCanBMRWRfYl9KNmc5eEh0cGJZcDJCcWNma002M1FoRlVmMFBzaUxSX3BtYzRqdExWc1doY0VjaFBqUFBDQ2QtQll1ekcyQzgyTzhEc01XN3Fab3JyXzBEOXRfY0RKN1QyYWhnMXpRcVByWEFMMk53UWtydkUtQ20xNTdPQ1k",
   "https://thehill.com/?p=6105117",
   "CBMimgFBVV95cUxPSTQ4eDcxMDJKMDZQMVVwX3FkVzVGQ1lRTXJhcWN4Y3JJaGlWRzBYLUtaNjh0bktGaUkyQ3BSZUNnbE4yNlhiX1N6N1hXQi1JbmZrUmMyZHBQSTZIVWEwaUNuVTJiZjl6T2RSYVVBaVJZMU9QbTU5Z3Jlakp5U05TNXJZemJhUzBqLWtibk55d0g0WjhQSWJHUWpn",
-  "https://nypost.com/?post_type=article&p=40942947"
+  "https://nypost.com/?post_type=article&p=40942947",
+  "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
+  "https://thehill.com/?p=6105609",
+  "https://nypost.com/?post_type=article&p=40944726",
+  "CBMigwFBVV95cUxPSzB2Vlh0Nm9MZUlDRnA2S1pIMUJXWmZtdlZEVUdFRDV2WEJ1U3pLQnJKUFNBU3YyZGxXZ0trVk1tdm9lVFp0aEh5N0VpVUdOZDNWYjRzOTdUVW84bEYwYnZHNEQ1X213dHl5OGlpQWNSUEFkdXRpRC1rUTRDaDRBMFh2Zw",
+  "CBMipgFBVV95cUxOdjNoMTdCcHluaXljdHI1N1JFa0dDc25UR1BreVVGQ05VRTNHT01iOUJoZXp4V0JoYmRhYWpEZDNubjFacDVfbVBXWTA0bG12TXp5VTJhUnhTSC15ZWtrTUNQbmo0bE8xRVJUMlNKY2dEdXg2ZGMzQ0c1MzVQTzFsWkhiYjVaVTNvLS01bWh0Z2x6QS1mVF91Vk9QYzFHbWJQMzFRVVNR"
  ],
  "posts": [
-  {
-   "fp": "ambassador arabia hunt nominates post saudi trump wesley",
-   "title": "Trump nominates Wesley Hunt to Saudi Arabia ambassador post",
-   "source": "The Hill",
-   "at": "2026-09-14T21:42:05.886075+00:00"
-  },
-  {
-   "fp": "chief director election faces fired integrity lawsuit missouri whistleblower",
-   "title": "Missouri election chief faces whistleblower lawsuit from fired election integrity director",
-   "source": "New York Post",
-   "at": "2026-09-14T21:42:07.684377+00:00"
-  },
-  {
-   "fp": "address calls concerns congress jeffries stay washington",
-   "title": "Jeffries calls on Congress to stay in Washington to address AI concerns",
-   "source": "The Hill",
-   "at": "2026-09-14T21:42:09.440886+00:00"
-  },
-  {
-   "fp": "bank campaign iran latest russian sanctions target",
-   "title": "U.S. Sanctions Russian Bank in Latest Target for Campaign Against Iran",
-   "source": "WSJ",
-   "at": "2026-09-14T21:42:11.153859+00:00"
-  },
-  {
-   "fp": "imposes iran related russia sanctions",
-   "title": "U.S. imposes Iran-related sanctions on Russia's VTB",
-   "source": "Reuters",
-   "at": "2026-09-14T21:42:12.875885+00:00"
-  },
   {
    "fp": "breaking drought game knicks rolling single tickets title",
    "title": "How Knicks are rolling out their single-game tickets after breaking title drought",
@@ -3201,14 +3171,39 @@
    "title": "Woman horrifically mauled by massive pit bull in San Francisco reveals what really sparked attack",
    "source": "New York Post",
    "at": "2026-09-22T23:47:53.854451+00:00"
+  },
+  {
+   "fp": "about albanese australia catch information lamont live news offer police sidelines summit trump",
+   "title": "Australia news live: police offer $1m for information about Gus Lamont; Trump and Albanese \u2018catch up\u2019 on sidelines of UN summit",
+   "source": "Guardian World",
+   "at": "2026-09-23T03:34:33.850067+00:00"
+  },
+  {
+   "fp": "ahead blasts summit trump wicker",
+   "title": "Wicker blasts Xi ahead of summit with Trump in DC",
+   "source": "The Hill",
+   "at": "2026-09-23T03:34:35.608810+00:00"
+  },
+  {
+   "fp": "beamer blasts candidate hasan hero left mich piker rhetoric rival sayed senate ties todd",
+   "title": "Dad of 9/11 hero Todd Beamer blasts Hasan Piker\u2019s rhetoric, ties to far-left Mich. Senate candidate El-Sayed in ad for GOP rival",
+   "source": "New York Post",
+   "at": "2026-09-23T03:34:37.513988+00:00"
+  },
+  {
+   "fp": "asia higher ride stays stocks subdued tech wave",
+   "title": "Asia stocks ride tech wave higher, oil stays subdued",
+   "source": "Reuters",
+   "at": "2026-09-23T03:34:39.445104+00:00"
+  },
+  {
+   "fp": "chip early european gains open stocks week",
+   "title": "European Chip Stocks Open Week With Early Gains",
+   "source": "WSJ",
+   "at": "2026-09-23T03:34:41.156313+00:00"
   }
  ],
  "titles": [
-  "ambassador arabia hunt nominates post saudi trump wesley",
-  "chief director election faces fired integrity lawsuit missouri whistleblower",
-  "address calls concerns congress jeffries stay washington",
-  "bank campaign iran latest russian sanctions target",
-  "imposes iran related russia sanctions",
   "breaking drought game knicks rolling single tickets title",
   "ballot court denies emergency enforce mail request restrictions supreme trump",
   "hospitalization june mcconnell returns senate since time",
@@ -3603,6 +3598,11 @@
   "administration admit african congress refugees south tells trump white",
   "hinson iowa points poll senate trails turek",
   "collapse florida industry orange race save total",
-  "attack bull francisco horrifically massive mauled really reveals sparked woman"
+  "attack bull francisco horrifically massive mauled really reveals sparked woman",
+  "about albanese australia catch information lamont live news offer police sidelines summit trump",
+  "ahead blasts summit trump wicker",
+  "beamer blasts candidate hasan hero left mich piker rhetoric rival sayed senate ties todd",
+  "asia higher ride stays stocks subdued tech wave",
+  "chip early european gains open stocks week"
  ]
 }
