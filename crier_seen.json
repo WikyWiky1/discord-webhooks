@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/ce8e32n8epeo#0",
-  "https://www.washingtonexaminer.com/?p=4716038",
-  "https://nypost.com/?post_type=article&p=40704276",
   "https://www.bbc.co.uk/news/articles/c780nlgyd79o#0",
   "https://pagesix.com/?post_type=article&p=9159122",
   "CBMie0FVX3lxTE82VU5LOUdHSU5uLWxoeWs1bi16RTM3dUozczYtZXhPUF9RRFEtUVNTQmphRjloY2k5dkxodEZ1eTZnRjF4NU90clpNZGZJTnk1SEJXME44NDIxT1JNNW5rWW80VGlNbDJXNDdjMHN4YXd4eTRLb3RJLW5Ybw",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=40958627",
   "https://thehill.com/?p=6107715",
   "https://pagesix.com/?post_type=article&p=9196547",
-  "https://nypost.com/?post_type=article&p=40963610"
+  "https://nypost.com/?post_type=article&p=40963610",
+  "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+  "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+  "https://thehill.com/?p=6107823"
  ],
  "posts": [
-  {
-   "fp": "debate favoritism michigan outlet rogers sayed senate skip toward",
-   "title": "Rogers set to skip Michigan Senate debate over outlet's 'favoritism' toward El-Sayed",
-   "source": "The Hill",
-   "at": "2026-09-15T23:25:47.899710+00:00"
-  },
-  {
-   "fp": "advance athlete bill college compensation regulate senate sports votes",
-   "title": "Senate votes to advance bill to regulate college sports, athlete compensation",
-   "source": "The Hill",
-   "at": "2026-09-15T23:25:49.667059+00:00"
-  },
-  {
-   "fp": "bill centrist defy democrats force leadership russia sanctions second time vote",
-   "title": "Centrist Democrats defy leadership for second time to force vote on Russia sanctions bill",
-   "source": "Washington Examiner",
-   "at": "2026-09-15T23:25:51.366268+00:00"
-  },
   {
    "fp": "allies aren congress gains push regulation trump unlikely",
    "title": "The push for AI regulation gains unlikely allies. Trump and Congress aren\u2019t among them",
@@ -3201,12 +3183,27 @@
    "title": "Barrett Walsh \u2013 2-year-old allegedly killed by Lindsay Clancy-obsessed mom Corie Walsh \u2013 remembered as a \u2018rambunctious\u2019 tot in heartbreaking obit",
    "source": "New York Post",
    "at": "2026-09-24T02:41:29.023120+00:00"
+  },
+  {
+   "fp": "australia caught child fined fire government hands highest live news pandemic questacon rate since unemployment",
+   "title": "Australia news live: Government fined $140,000 after child\u2019s hands caught fire at Questacon; unemployment at highest rate since pandemic",
+   "source": "Guardian World",
+   "at": "2026-09-24T03:24:56.799675+00:00"
+  },
+  {
+   "fp": "ahead china greets guez high jinping live reborn rodr stakes summit tells trump venezuela",
+   "title": "Venezuela being \u2018reborn\u2019, Rodr\u00edguez tells UN; Trump greets Xi Jinping ahead of high-stakes US-China summit \u2013 live",
+   "source": "Guardian World",
+   "at": "2026-09-24T03:24:58.621477+00:00"
+  },
+  {
+   "fp": "chair house keeps predicts seats senate",
+   "title": "RNC chair predicts GOP keeps House, 53 Senate seats",
+   "source": "The Hill",
+   "at": "2026-09-24T03:25:00.339297+00:00"
   }
  ],
  "titles": [
-  "debate favoritism michigan outlet rogers sayed senate skip toward",
-  "advance athlete bill college compensation regulate senate sports votes",
-  "bill centrist defy democrats force leadership russia sanctions second time vote",
   "allies aren congress gains push regulation trump unlikely",
   "black committee congress contempt epstein held house inquiry leon recommends subpoenas",
   "benchmark breaches ends lower spikes street treasury wall yield",
@@ -3603,6 +3600,9 @@
   "carpet coup fooled rollout strategic trump",
   "dilemma duck hegseth house impeachment lame",
   "band beloved dead singer wave",
-  "allegedly barrett clancy corie heartbreaking killed lindsay obit obsessed rambunctious remembered walsh year"
+  "allegedly barrett clancy corie heartbreaking killed lindsay obit obsessed rambunctious remembered walsh year",
+  "australia caught child fined fire government hands highest live news pandemic questacon rate since unemployment",
+  "ahead china greets guez high jinping live reborn rodr stakes summit tells trump venezuela",
+  "chair house keeps predicts seats senate"
  ]
 }
