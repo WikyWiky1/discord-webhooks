@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiuAFBVV95cUxPYzZkZE5JRl9OaE5yN0pMLUJfRlV4RXFOaXYzSlduUy1lUWJtM3R3Yk90cDhCT1RGamdYM3ktQVZQb004UVd5TGlXUWF1LWh1eW5LbnBTT0dsb1Z5c3BfbEVhcXJqenQtZFlQSU9zWEpTeVVQQ3ZmSjNrZ043Z0YwS2EwTlJwemVHV0lIbjVYY0o5SzE0WUNYZmYwZm9VdXdhSlB3UHhBY29rUnB2NWxxazhDQV9tVF9t",
   "CBMimAFBVV95cUxQRE1hSWs1S1VNcEE3dFRzYUhDTEVSdjFZa29VMDNaM0hYTWVWNFpJX0NmT0ZEdFp4X3c3a2NxeHoxOVhSaVg5alVaRkVZQmU3X3dYMFBnczloLUxqRFFrS1YzMW1WVENUaHZ2T3BJZ0M1czgybm1jYlZJbmZZLUN2V1RaM3ZwWUVkcGg4TXlHWk83bzNZUlhHUA",
   "CBMimAFBVV95cUxQNjVfWE5UYVpZZGgtaVlLWVhNRUU3dFREYjMyWk1QWGpDZjlIb2pmVkhXcmVsSDJGNm1hNGxTMFpBYnl1MFBIOFFOU3hZcWdvd0swT01GSndGLVlXRDhVbnl0cnhPa3p3TVMwR1ZldUVIUlhtU1M4enRTTnc2czl4Zk55ZzZib2taYVNXWi1GRl9MeFFTZ3hEcQ",
   "CBMipwFBVV95cUxPVDY3Nm5mdldsU1Z2Q3ZpT1JJMjdCSEJSRzRPamNXckRqdUZpMkFscVQwY1RDVFJsUEVqTGFvOE84bWNNa213UTIzcnFnMk1ZV1llemhfbUtocS12b0hyeXhhY0JKTF9iQ011aFNHR3lXVDBkU2RkRGxNaXpuYkR4TkVLMWdOMXUtdTItRDYyNld5clJlemYxSUZrNUFxMEF1dHdIU0lFcw",
@@ -799,15 +798,10 @@
   "CBMiowFBVV95cUxQU3NPbWZrci1yeGFldXMtZ2hocmpYdXBtbDBOMXl3ckl1dmtJUkR3b2Z5eUxyZnVLX0hvelAzRy1WOTZ3QWFEcmJ1TENmTkhySjdTRlJIX1QyM2RxWEpkNmw3RXBkSkFOUDZ5M1dUdmZ3TU5fbmt2a3Vjc1ZJbTJsbVpSc254QUc5eDdfc3B1RXhjaVA4M0NOSDNCY2dIVWNNSnpv",
   "CBMitAFBVV95cUxNM3N3SnJPazZRNWFZVTliT2gzUDdrNTFtN3hRSVFnUVNvblNCUXBSSVlsa0tzU3BGNXRrZ1hEd0gzRWlrX1FvLUx4SzBwcS12RHcxRE8tazR4YjZ3UXpsRzJCUXM1LTdQTTlmUHk0R18tWl9hdF8ydnA5ZXNBaENTT3RYU0ktVmduMTBXQ2pKTzAxQkhxT3V5WTc1eE9ZSzFyd2FiTHM0TDZkUjRnZXdsMUpfMmY",
   "https://thehill.com/?p=6110022",
-  "https://thehill.com/?p=6110184"
+  "https://thehill.com/?p=6110184",
+  "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "africa anger bodies discovery femicide fuels prey seven south women",
-   "title": "\u2018We are prey\u2019: discovery of seven women\u2019s bodies fuels anger over femicide in South Africa",
-   "source": "Guardian World",
-   "at": "2026-09-16T16:14:57.160259+00:00"
-  },
   {
    "fp": "articles hegseth impeachment johnson pete publicity slams stunt",
    "title": "Johnson slams Pete Hegseth impeachment articles: \u2018It\u2019s a publicity stunt\u2019",
@@ -3201,10 +3195,15 @@
    "title": "California Supreme Court rules sheriff who ran for governor must return seized ballots",
    "source": "The Hill",
    "at": "2026-09-24T21:12:18.073222+00:00"
+  },
+  {
+   "fp": "australia coincidence crash hack killed live news officer paterson police sydney timing",
+   "title": "Australia news live: Paterson says PM\u2019s AI hack timing not a coincidence; police officer killed in Sydney crash",
+   "source": "Guardian World",
+   "at": "2026-09-24T23:53:49.427076+00:00"
   }
  ],
  "titles": [
-  "africa anger bodies discovery femicide fuels prey seven south women",
   "articles hegseth impeachment johnson pete publicity slams stunt",
   "help kill mandated regulate switch",
   "alleges charlie failures family kirk officials shooting stunning utah",
@@ -3603,6 +3602,7 @@
   "ahead argentina election milei poverty rate tests",
   "falcon hunt launch payloads phaseout spacex spurs ways",
   "backs challenger democrat kansas marshall primary race senate",
-  "ballots california court governor must return rules seized sheriff supreme"
+  "ballots california court governor must return rules seized sheriff supreme",
+  "australia coincidence crash hack killed live news officer paterson police sydney timing"
  ]
 }
