@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o#0",
   "https://www.washingtonexaminer.com/?p=4716300",
   "https://www.bbc.co.uk/news/articles/ce8e32n8epeo#1",
   "CBMipgFBVV95cUxPMEdubF9nVmxpd2dOclJETW9lY0FoNDBDTzlUSGI2ZEg1aHhwVEk1RElobmE3c3hLQmtoa0ZGN2YtUnprVnc4MEtxbWpHVl80aFBkSFlVOXN4VlpzdlpzVWZYSkw4cGp0UktSZEJ2aXNEdEFFQ25qXzdwYWl2VWMzcjZoTG1Qb0RaSUFNa3dvcXRIT2pCdkxucnFVSzc4U1hLWlN1TzlB",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40963114",
   "https://www.washingtonexaminer.com/?p=4740049",
   "https://www.washingtonexaminer.com/?p=4739600",
-  "https://nypost.com/?post_type=article&p=40966269"
+  "https://nypost.com/?post_type=article&p=40966269",
+  "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts"
  ],
  "posts": [
-  {
-   "fp": "2026 archive journal news september street wall",
-   "title": "The Wall Street Journal's News Archive for September 16, 2026 - WSJ.com",
-   "source": "WSJ",
-   "at": "2026-09-16T03:36:10.837158+00:00"
-  },
   {
    "fp": "blue coons delaware face katz race senate solid",
    "title": "Coons to face off against Katz in solid blue Delaware Senate race",
@@ -3201,10 +3195,15 @@
    "title": "The bizarre breaking point that pushed caddie to abandon \u2018angry\u2019 PGA Tour player in middle of round",
    "source": "New York Post",
    "at": "2026-09-24T13:34:49.593003+00:00"
+  },
+  {
+   "fp": "been charts funding research reshaped show trump under",
+   "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
+   "source": "NPR Science",
+   "at": "2026-09-24T15:46:10.575897+00:00"
   }
  ],
  "titles": [
-  "2026 archive journal news september street wall",
   "blue coons delaware face katz race senate solid",
   "cutting deal exports india parliament passes tariffs trade zealand",
   "board crash fiery helicopter killed longtime pilot reporter veteran victims",
@@ -3603,6 +3602,7 @@
   "arrives attraction deadly francisco free past totally",
   "attack might military mimic start",
   "america excuses infinite missile nuclear putin range",
-  "abandon angry bizarre breaking caddie middle player point pushed round tour"
+  "abandon angry bizarre breaking caddie middle player point pushed round tour",
+  "been charts funding research reshaped show trump under"
  ]
 }
