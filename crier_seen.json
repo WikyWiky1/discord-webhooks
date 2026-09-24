@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMixwFBVV95cUxPQVZXcnY2Ym5SNExDY0RsNmlYeV9qcVRrVGNNajFfQ0pkd3k5ZmZicVBfOUZQTjdjV0d0Z29LT2FnYnByR1RyVGxHTkhOX1lUWjJGd3dOQ210Vlo5UV93WlgySTg4TTgzX3VYcnZlQ3dHU2ZHX00teG84eUFOc3RGUDdOdUo4NzEtdjZqLUwzMHhnWmY5aHhTelJCQlVrbXJ5UmFGelVjcG5xdkJwV01TWUV1cFkyd3E3ZzVjQi1uRUdDOHVzekM4",
-  "https://nypost.com/?post_type=article&p=40702873",
   "https://www.bbc.co.uk/news/articles/ce8e32n8epeo#0",
   "https://www.washingtonexaminer.com/?p=4716038",
   "https://nypost.com/?post_type=article&p=40704276",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=40957613",
   "https://nypost.com/?post_type=article&p=40956150",
   "https://nypost.com/?post_type=article&p=40958627",
-  "https://thehill.com/?p=6107715"
+  "https://thehill.com/?p=6107715",
+  "https://pagesix.com/?post_type=article&p=9196547",
+  "https://nypost.com/?post_type=article&p=40963610"
  ],
  "posts": [
-  {
-   "fp": "budget cost iran office",
-   "title": "Iran war has cost the US more than $38B, budget office says",
-   "source": "AP",
-   "at": "2026-09-15T20:55:04.252115+00:00"
-  },
-  {
-   "fp": "apartment couch dead found grandmother head suspicious wound",
-   "title": "Grandmother found dead with suspicious head wound on couch of NYC apartment",
-   "source": "New York Post",
-   "at": "2026-09-15T23:09:03.799249+00:00"
-  },
   {
    "fp": "debate favoritism michigan outlet rogers sayed senate skip toward",
    "title": "Rogers set to skip Michigan Senate debate over outlet's 'favoritism' toward El-Sayed",
@@ -3201,11 +3189,21 @@
    "title": "House has lame-duck impeachment dilemma with Hegseth",
    "source": "The Hill",
    "at": "2026-09-23T23:55:40.090326+00:00"
+  },
+  {
+   "fp": "band beloved dead singer wave",
+   "title": "Singer from beloved \u201980s New Wave band dead at 74",
+   "source": "New York Post",
+   "at": "2026-09-24T02:41:27.298256+00:00"
+  },
+  {
+   "fp": "allegedly barrett clancy corie heartbreaking killed lindsay obit obsessed rambunctious remembered walsh year",
+   "title": "Barrett Walsh \u2013 2-year-old allegedly killed by Lindsay Clancy-obsessed mom Corie Walsh \u2013 remembered as a \u2018rambunctious\u2019 tot in heartbreaking obit",
+   "source": "New York Post",
+   "at": "2026-09-24T02:41:29.023120+00:00"
   }
  ],
  "titles": [
-  "budget cost iran office",
-  "apartment couch dead found grandmother head suspicious wound",
   "debate favoritism michigan outlet rogers sayed senate skip toward",
   "advance athlete bill college compensation regulate senate sports votes",
   "bill centrist defy democrats force leadership russia sanctions second time vote",
@@ -3603,6 +3601,8 @@
   "charged killing manhunt multi realtor state suburb tony virginia wife",
   "create gavin handpicked kill newsom revealed switch tasked tech wizards woke",
   "carpet coup fooled rollout strategic trump",
-  "dilemma duck hegseth house impeachment lame"
+  "dilemma duck hegseth house impeachment lame",
+  "band beloved dead singer wave",
+  "allegedly barrett clancy corie heartbreaking killed lindsay obit obsessed rambunctious remembered walsh year"
  ]
 }
