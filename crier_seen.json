@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40725019",
-  "https://www.theguardian.com/politics/2026/sep/09/zack-polanski-calls-report-ecosystem-collapse-published-greens",
-  "https://nypost.com/?post_type=article&p=40724379",
-  "CBMiYkFVX3lxTE4xaF8xb2ZQVl9vYWtQazdmREtfZjhkaThKOXdBZjd4RE90bVJaTHh2ejdvanF0OWljdVJfYkZ0cElpQU0xbE96SVFPd01sSVkzSkp1dk5SNlFib3FTeFR1NGlB",
-  "CBMiqgFBVV95cUxOZnJqVWRzNGVzRE04bTl0b01KMDgtb3hyYkxyZ21DRE1fZUsyaGRNSGwtT3NLcW9RN2lyYnlJd0lIOV9FbzBhcDFxNENIOEhPaGJSRzQzUW5WcUZBT0NiSjJtZXVFYURXVFVzZFRETmhwLVdJNExkakZBNWJhSlNoS3ZiUlQ3XzhaUTN6VDBRQWpCWk9VbWVxTWdrQnZSTDhMejk3Y2ZlSU8tQQ",
-  "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
   "CBMigwFBVV95cUxNV3luYTZkUFBsUEhrV1ByVUg5eTcwT0c4ODVwXzJZTHNvVzlhR1hwNVpLSzJ5MmVCT3VqV2wzMTdXb0ZZM00wY194Z3VCV2R2TUNxcGpVNVJrSk9JSS1XMllpQ0hrbEtFTFhaazN6NzFEaGxELW1NUnFFUFVvR1NjWkRrbw",
   "https://www.washingtonexaminer.com/?p=4716507",
   "https://thehill.com/?p=6077659",
@@ -799,45 +793,15 @@
   "CBMirAFBVV95cUxOdG1xeG9acEk4NUpWTjBZRjg1X3VFZVVkcDkwSC01ek5JNVpPU0QwQi13U3Y2Uzg4SlNhc284Mm9HWlRkSVU3cDVkcEdLWF9HZEhOUkRRUVlCVWhGd0pVNmhfUHA1c1B5TVdJc0FCYnRVeUdES1pqWEYzSHdoZGJaNmxRalhVSS05S0I1ZThnT2piSUp5T2lQSGRlREw0eTV5Z2N4a0p6TFdTT1hU",
   "CBMimAFBVV95cUxPWjVMWGxIVERFQ09mRmQwcTdoRU1WdElNQmp0T1p6N1RnZUZtemVhY1NVeFhYcTc4akplOENha0RkalMyUEtrZGVENmRmVFdReDdubHFVbFRoWjBhc2R4VGdCZjh5RVhra2dUZ3VIeXpsb2VPbzVOZ0pMTFBWSXdZNFV6akszS3c2MWFjY096Sjk0a1VaZVNIUA",
   "CBMijwFBVV95cUxPR2Q0aUFGWWNsblZyZGdaeDZzWFVPTWxZTXFBcmdsOEFvZU52dG9tdC1TY2Rlc3BfQkgxQmVPQUt2WEZFV2ZDS0xsNmRNcXlHTGxod0pVZzRuUHRpNFlTazhDQnhaM2pXTzRybl9RSm0zUzVKSGtKSGNxTXRkcWhfbWJKSXZjdElseEw5THlrdw",
-  "https://www.washingtonexaminer.com/?p=4742793"
+  "https://www.washingtonexaminer.com/?p=4742793",
+  "CBMipgFBVV95cUxPbkx1TEZJQ24yS216eVdQMnQxUktGcVJERDI3aG9hMXpBWmZWc1pJMUI3UU1SLV9zdDNQa0JnczZuemdYWE45MlVIZVM3NlRRd0RKWS1Sems5SWdtNTlJTWdzcDhtZUtpQWxpTWhEaWFCck5ud2lPczlzbVlrLUVJWkpkbThHeXFtR01MWWdjQzNXeE1YWUVYQl92blhiMDdXVEJYV1ln",
+  "CBMimAFBVV95cUxOeEhseWVSS3dZaTNWTkZoTE1jRUtRT0lvX1JfQ1V2TnlkTVJsVHdHZGc5Mi1OY2NldGJFUWhveUtPTGh1NkxwRmFPTENBYzhVczVKbnlaVXlfLXRSSjVPY21XbDRURm1KcUNUWVVoa3FpMEVPREowYTFWTXZ4NXhLSWtBOFJYVVVPUUJ5Y21iTHNaRHdWVVJaaQ",
+  "https://nypost.com/?post_type=article&p=40990689",
+  "https://www.theguardian.com/us-news/2026/sep/25/delaware-woman-killed-hunter",
+  "https://www.theguardian.com/us-news/2026/sep/25/hurricane-nolo-hawaii",
+  "CBMiswFBVV95cUxORVpYNWQxeFFCcXEzQTZQdkM1LTJpVWc2RHpwOWtxbzV0OHg2aE12UGV1Y2VOQUN4WHdvOVB4YzBGT0ltckk5d0hDZGZUVXk3YWs0WnA5R2xjNmNBbkhHRzNra2pIQVlLa1pNQ29OV1QxQVdSTWJnaWZEYkVaaXJXa3d4cHVvV1o5VGlpWFRjUG9HVTFoMWw4TFZwNlI4aHJwQjU0UVRuZzJISFp0ZU9YQUw4VQ"
  ],
  "posts": [
-  {
-   "fp": "approves bill house russia sanctions sending sweeping trump",
-   "title": "House approves sweeping Russia sanctions bill, sending it to Trump",
-   "source": "AP",
-   "at": "2026-09-16T23:33:59.615266+00:00"
-  },
-  {
-   "fp": "blakeman bruce budget cops hike nassau pitches",
-   "title": "Bruce Blakeman pitches Nassau budget with no tax hike, more cops",
-   "source": "New York Post",
-   "at": "2026-09-16T23:34:01.518475+00:00"
-  },
-  {
-   "fp": "active corners dangerous disturbance four fuels killed monsoon tropical year",
-   "title": "3 killed as tropical disturbance fuels most active, dangerous monsoon day in the Four Corners this year",
-   "source": "New York Post",
-   "at": "2026-09-17T01:06:46.932016+00:00"
-  },
-  {
-   "fp": "dead ever found voice winner",
-   "title": "First-ever \u2018The Voice\u2019 winner found dead at age 43",
-   "source": "New York Post",
-   "at": "2026-09-17T01:06:48.677456+00:00"
-  },
-  {
-   "fp": "adult burned diego police shooting store suspect torch tries",
-   "title": "Police dog burned as suspect tries to torch adult store in San Diego shooting",
-   "source": "New York Post",
-   "at": "2026-09-17T01:06:50.617332+00:00"
-  },
-  {
-   "fp": "execution fifth injection kills lethal state texas year",
-   "title": "Texas kills man by lethal injection in state\u2019s fifth execution this year",
-   "source": "Guardian World",
-   "at": "2026-09-17T01:06:52.442397+00:00"
-  },
   {
    "fp": "bill kill killed paul rand switch",
    "title": "GOP AI \u2018kill switch\u2019 bill killed by Rand Paul",
@@ -3201,15 +3165,45 @@
    "title": "New Democratic ad in Iowa Senate ties Ashley Hinson to Jeffrey Epstein",
    "source": "Washington Examiner",
    "at": "2026-09-25T16:40:57.221673+00:00"
+  },
+  {
+   "fp": "china ending enlist help invasion russia trump ukraine urged zelenskyy",
+   "title": "Ukraine\u2019s Zelenskyy says he urged Trump to enlist China\u2019s help in ending Russia\u2019s invasion",
+   "source": "AP",
+   "at": "2026-09-25T18:39:30.611729+00:00"
+  },
+  {
+   "fp": "churns hawaii heavy hurricane mexico near nolo polo rain threatening",
+   "title": "Hurricane Nolo threatening Hawaii with heavy rain as Polo churns near Mexico",
+   "source": "AP",
+   "at": "2026-09-25T18:39:32.249512+00:00"
+  },
+  {
+   "fp": "arrested cops days dead found just kratom miss near students uncover units",
+   "title": "Two arrested near Ole Miss as cops uncover over 500 units of kratom just days after students found dead",
+   "source": "New York Post",
+   "at": "2026-09-25T18:39:34.026156+00:00"
+  },
+  {
+   "fp": "accident allegedly death deer hunter killed mistook partner woman",
+   "title": "Partner of woman killed by US hunter who allegedly mistook her for deer says death \u2018no accident\u2019",
+   "source": "Guardian World",
+   "at": "2026-09-25T18:39:35.721260+00:00"
+  },
+  {
+   "fp": "bring flooding hawaii hurricane life nolo predicted threatening",
+   "title": "Hurricane Nolo predicted to bring \u2018life-threatening flooding\u2019 to Hawaii",
+   "source": "Guardian World",
+   "at": "2026-09-25T18:39:37.432101+00:00"
+  },
+  {
+   "fp": "concessions iran iranian make nuclear official",
+   "title": "Iran will make no nuclear concessions, Iranian official says",
+   "source": "Reuters",
+   "at": "2026-09-25T18:39:39.066540+00:00"
   }
  ],
  "titles": [
-  "approves bill house russia sanctions sending sweeping trump",
-  "blakeman bruce budget cops hike nassau pitches",
-  "active corners dangerous disturbance four fuels killed monsoon tropical year",
-  "dead ever found voice winner",
-  "adult burned diego police shooting store suspect torch tries",
-  "execution fifth injection kills lethal state texas year",
   "bill kill killed paul rand switch",
   "board defends hike hostile interest rate rips trump warsh",
   "credits election past rally record setting trump whatley wins",
@@ -3603,6 +3597,12 @@
   "century putin spectacle summit trump",
   "cost earnings pays push rise saving",
   "drift finish stocks toward week winning",
-  "ashley democratic epstein hinson iowa jeffrey senate ties"
+  "ashley democratic epstein hinson iowa jeffrey senate ties",
+  "china ending enlist help invasion russia trump ukraine urged zelenskyy",
+  "churns hawaii heavy hurricane mexico near nolo polo rain threatening",
+  "arrested cops days dead found just kratom miss near students uncover units",
+  "accident allegedly death deer hunter killed mistook partner woman",
+  "bring flooding hawaii hurricane life nolo predicted threatening",
+  "concessions iran iranian make nuclear official"
  ]
 }
