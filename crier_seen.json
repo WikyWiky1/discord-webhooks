@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/sep/08/hawaii-hurricane-lowell",
-  "https://www.washingtonexaminer.com/?p=4717494",
-  "https://thehill.com/?p=6077588",
-  "https://www.washingtonexaminer.com/?p=4717141",
   "CBMikwFBVV95cUxON1VSSFpfdWZ5ejZ2WURVTGNWUlFxTm41VjAxRzRkbncwSFAydTdCVGt1SkY5Q1B0cWxIQWIzdm9mRWwtRUhOWW5PblRNeGN6WnpvdndhY2c0UkNyZnpKYVRsVWt0dFQ4RWVlRzZ3aU1hVER2Z0ZZWXJ3N0RJUTdoS0tlVHR3MlFOZWg4WnVpdFRFLU0",
   "CBMimAFBVV95cUxQcy1XSG01SGxrWEV0U1NoLWFmQ0pnRFJ2YnJBNTZsbFF2N3hVeWt3MHR2ZHJ1MzR1bVNpWDc3djBGZDhtc2xQN0FVczV5Q3FtOGU4aERld2x2N3NRdnZBSjRpMEhjUEpTUEhFYjV5dlVsd2xOSEJfdXNFb2ZfYWJEbkNtYWlzSWdBU1BtaEpsMms5ZGNZTVh4bw",
   "https://thehill.com/?p=6075462",
@@ -799,33 +795,13 @@
   "https://pagesix.com/?post_type=article&p=9199578",
   "https://www.theguardian.com/australia-news/2026/sep/25/nsw-police-officer-killed-car-crash-redfern-sydney-ntwnfb",
   "https://www.theguardian.com/us-news/2026/sep/24/new-jersey-lieutenant-governor-ethics-investigation",
-  "https://thehill.com/?p=6110805"
+  "https://thehill.com/?p=6110805",
+  "CBMilgFBVV95cUxPZFlWeTB6bUhfUVdmQmNadWhFY2g4OXk4NmxHTWFYWXUyT1MzYUtOdk0zSE5fRWlocERKOGJLSW51dTFTa3R0Mmdnem9XWDZVVnNPejZ6SjRkek93Vy10dzRXeFZuMEVsb1Bwak1zLV9fbjQ5dnB6NDJ3bE84MWJ3bnBoZlNBazA2TlZ6dDhqVkFFNGczN3c",
+  "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+  "CBMigAFBVV95cUxQSXl3a0V4VjdBS1ZlOENTNmpGcmdEa1BNaDh3N21xanZ2Q1JYRGEwbV9QTGdMN21oV1N5Ukw3SEhEa1ZLUENNNTFuVWV3cjQ1RFR2cWtCdlJBNVp2bDBsZTExZWYzVW44eGtJMHFiUkVyOG9xU3c3Z2Y5THFDWDNLMA",
+  "CBMixgFBVV95cUxQODQxZlQtOHZFRC1GeGc0ZzhtVjI4bHNjX1F4TEd4NWJZTlk0UmRCQndWT2NmQXhwdlNVWmRYZXA4Q0tvbEtNZ1BsY3haY2k1YUpnU2s2T1lseFVGR1VHZFpaUEYxUGxvT2pqOThaUDlxa18tUmk5ZjJ1QmdIYm1rY29VLTE2WHNrdXNqVWxHc0pYVWJlbWtmbEtwTVRaVUI2aWRIcTdmVDI1MExEbFVDRHU2aHFaVkdxMEJndHcxZU9PSU1Ec0E"
  ],
  "posts": [
-  {
-   "fp": "derail europe laws made plans reset",
-   "title": "\u2018Made in Europe\u2019 laws could derail UK plans for reset with EU",
-   "source": "Guardian World",
-   "at": "2026-09-16T20:10:24.038499+00:00"
-  },
-  {
-   "fp": "azerbaijan billionaire diplomats french lifting pressure sanctions seeks",
-   "title": "French seeks lifting of EU sanctions on billionaire after pressure by Azerbaijan, diplomats say",
-   "source": "Reuters World",
-   "at": "2026-09-16T20:55:48.910020+00:00"
-  },
-  {
-   "fp": "democrats sayed senate starting visits warm",
-   "title": "El-Sayed visits Senate Democrats, who are starting to warm to him",
-   "source": "The Hill",
-   "at": "2026-09-16T20:55:50.714215+00:00"
-  },
-  {
-   "fp": "faces general nicole pick questions saphier senate stance surgeon trump vaccine",
-   "title": "Dr. Nicole Saphier, Trump's 3rd surgeon general pick, faces Senate questions over her vaccine stance",
-   "source": "AP",
-   "at": "2026-09-16T20:55:52.635356+00:00"
-  },
   {
    "fp": "black congress contempt epstein hold house interview leon moves",
    "title": "House moves to hold Leon Black in contempt of Congress over Epstein interview",
@@ -3201,13 +3177,33 @@
    "title": "Jackson warns Supreme Court\u2019s emergency rulings imposing \u2018institutional costs\u2019",
    "source": "The Hill",
    "at": "2026-09-25T02:51:41.858141+00:00"
+  },
+  {
+   "fp": "august borrowing budget government looms rose",
+   "title": "U.K. Government Borrowing Rose in August as Budget Looms",
+   "source": "WSJ",
+   "at": "2026-09-25T03:42:02.982603+00:00"
+  },
+  {
+   "fp": "brazil capture colonise election lula meddling resources trump wants",
+   "title": "Lula says Trump wants to \u2018colonise\u2019 and capture Brazil\u2019s resources by meddling in election",
+   "source": "Guardian World",
+   "at": "2026-09-25T03:42:04.719677+00:00"
+  },
+  {
+   "fp": "asian bond retreats slightly stocks storm weather",
+   "title": "Asian stocks weather bond storm, oil retreats slightly",
+   "source": "Reuters",
+   "at": "2026-09-25T03:42:06.345463+00:00"
+  },
+  {
+   "fp": "arnault dinner guest huang includes list lvmh musk nvidia spacex state trump",
+   "title": "Trump-Xi state dinner guest list includes SpaceX\u2019s Musk, Nvidia\u2019s Huang and LVMH\u2019s Arnault",
+   "source": "Reuters",
+   "at": "2026-09-25T03:42:08.016960+00:00"
   }
  ],
  "titles": [
-  "derail europe laws made plans reset",
-  "azerbaijan billionaire diplomats french lifting pressure sanctions seeks",
-  "democrats sayed senate starting visits warm",
-  "faces general nicole pick questions saphier senate stance surgeon trump vaccine",
   "black congress contempt epstein hold house interview leon moves",
   "centre election left sweden wins",
   "defying demands federal hikes rate reserve time trump years",
@@ -3603,6 +3599,10 @@
   "cops horses neighbor pellet report respond scare shooting zolciak",
   "crashed instantly killed officer police redfern travelling tree",
   "calls ethics governor investigation jersey lieutenant resign",
-  "costs court emergency imposing institutional jackson rulings supreme warns"
+  "costs court emergency imposing institutional jackson rulings supreme warns",
+  "august borrowing budget government looms rose",
+  "brazil capture colonise election lula meddling resources trump wants",
+  "asian bond retreats slightly stocks storm weather",
+  "arnault dinner guest huang includes list lvmh musk nvidia spacex state trump"
  ]
 }
