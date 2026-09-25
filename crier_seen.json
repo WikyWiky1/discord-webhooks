@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40718360",
   "https://nypost.com/?post_type=article&p=40721084",
   "CBMingFBVV95cUxNUHRWc2I4elJ6Ukh6TzhHcF9IUEFEbnZFUkRiYTQ5Nnh2cUUxU3pQYXR0eml3UFFNWGt2bHFBdzJXeEIxRV96dXdBOUY2VzFYZXhVY2hhRmlEcVF0Y0xGNVAwX0ZzZGloOURMTzZ4bERjbDlmWnBzRWoxbVRqYUt4OWJEanc2V3YyTlNGSURSQjlpblJIV2FIT3A3bzBhQQ",
   "CBMingFBVV95cUxNc1BOQjh6RzR3NkhUTWNocHc3U2RzckMzVGdyMFVwR0JqS3JocTgtbFFwTkwtUU1pTURKNGNma3VpZmYtUExvaHZuYU8wZTlDSEFqemRLc0U0NzhyWUxtaDVxUUp1TW45TFU2MnY5WGhqNFVWd0RPWG1sV1J0N2x3LUFweTlPb0pjcm9YcW9oSS1uTk14cWVIWUJ2Z202Zw",
@@ -799,7 +798,8 @@
   "CBMihgFBVV95cUxOYUxJcHJwNzVRUWlKRVg4SHVDWE1KMW9NRl80V0oyZGhvVXg0SjBiZE54TlVncjdGejJ4ZUZ0S0ZaOUxlVm5seEJKTHdSMFE0UzdCRlpyWjQ1TmdnUWNoamUweE5CUG9Qa2JiakNKcjVkNl9HMWV1cjNYTG4wUXBPOTBvZlFuQQ",
   "CBMikAFBVV95cUxOU0FZS0YtNWM1UDE5emFtRnNOcEQ2VlhUclFaejBjNkxaQ0tzOGFZazlRQnRsU0JFR0o3R0p5RE5QZ3YwODVqajJUeVp6SzMzUDM1aTVSczBuRm9Ld25PMGdRWEFaaHQ5RlUwZ05EOTgxTXA2ZHJpYlR1dmdKQm5OU2RpYkNvcEV1SFhHcEZlWGU",
   "https://thehill.com/?p=6110595",
-  "https://www.npr.org/2026/09/25/nx-s1-5978096/republicans-trump-midterm-elections"
+  "https://www.npr.org/2026/09/25/nx-s1-5978096/republicans-trump-midterm-elections",
+  "CBMikwFBVV95cUxPMlB0azM0d01WWmlDSm1jeVpxRld1LTVUem9tT29GT0ttZjlhclEySFRFZWFYVHdzNTg2LVJfUEdYRGtJSGkxeUdZNkQ1M0tQX09LOVl5Ujl3NDF3NXBNYVcxbnNSVUcwUG43dHhodzhpTnB3WTgwa1BMbHZLTmVwSHNsaVltSnBMQ1VzU2Zaa3RMRDA"
  ],
  "posts": [
   {
@@ -3167,12 +3167,6 @@
    "at": "2026-09-25T08:25:28.810674+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-09-25T11:16:50.558462+00:00"
-  },
-  {
    "fp": "piling questions recommendations standstill unanswered vaccine",
    "title": "CDC vaccine recommendations are at a standstill, and unanswered questions are piling up",
    "source": "AP",
@@ -3201,6 +3195,12 @@
    "title": "As election enters its final stretch, some Republicans are distancing from Trump",
    "source": "NPR News",
    "at": "2026-09-25T11:16:59.108678+00:00"
+  },
+  {
+   "fp": "aging back earth failing falls nasa private rescue spacecraft telescope",
+   "title": "Private spacecraft falls back to Earth after failing to rescue aging NASA telescope",
+   "source": "AP",
+   "at": "2026-09-25T15:46:23.102193+00:00"
   }
  ],
  "titles": [
@@ -3598,11 +3598,11 @@
   "asian bond retreats slightly stocks storm weather",
   "arnault dinner guest huang includes list lvmh musk nvidia spacex state trump",
   "breaking country ella faces fears following langley music record star week",
-  "edition journal print street wall",
   "piling questions recommendations standstill unanswered vaccine",
   "confidence european rally related returns stocks",
   "china country image projecting rise seen summit trump",
   "budget defense jets pentagon push trillion turns",
-  "distancing election enters final republicans stretch trump"
+  "distancing election enters final republicans stretch trump",
+  "aging back earth failing falls nasa private rescue spacecraft telescope"
  ]
 }
