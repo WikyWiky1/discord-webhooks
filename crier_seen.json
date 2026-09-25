@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMikwFBVV95cUxON1VSSFpfdWZ5ejZ2WURVTGNWUlFxTm41VjAxRzRkbncwSFAydTdCVGt1SkY5Q1B0cWxIQWIzdm9mRWwtRUhOWW5PblRNeGN6WnpvdndhY2c0UkNyZnpKYVRsVWt0dFQ4RWVlRzZ3aU1hVER2Z0ZZWXJ3N0RJUTdoS0tlVHR3MlFOZWg4WnVpdFRFLU0",
   "CBMimAFBVV95cUxQcy1XSG01SGxrWEV0U1NoLWFmQ0pnRFJ2YnJBNTZsbFF2N3hVeWt3MHR2ZHJ1MzR1bVNpWDc3djBGZDhtc2xQN0FVczV5Q3FtOGU4aERld2x2N3NRdnZBSjRpMEhjUEpTUEhFYjV5dlVsd2xOSEJfdXNFb2ZfYWJEbkNtYWlzSWdBU1BtaEpsMms5ZGNZTVh4bw",
   "https://thehill.com/?p=6075462",
   "https://nypost.com/?post_type=article&p=40721477",
@@ -799,15 +798,10 @@
   "CBMilgFBVV95cUxPZFlWeTB6bUhfUVdmQmNadWhFY2g4OXk4NmxHTWFYWXUyT1MzYUtOdk0zSE5fRWlocERKOGJLSW51dTFTa3R0Mmdnem9XWDZVVnNPejZ6SjRkek93Vy10dzRXeFZuMEVsb1Bwak1zLV9fbjQ5dnB6NDJ3bE84MWJ3bnBoZlNBazA2TlZ6dDhqVkFFNGczN3c",
   "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
   "CBMigAFBVV95cUxQSXl3a0V4VjdBS1ZlOENTNmpGcmdEa1BNaDh3N21xanZ2Q1JYRGEwbV9QTGdMN21oV1N5Ukw3SEhEa1ZLUENNNTFuVWV3cjQ1RFR2cWtCdlJBNVp2bDBsZTExZWYzVW44eGtJMHFiUkVyOG9xU3c3Z2Y5THFDWDNLMA",
-  "CBMixgFBVV95cUxQODQxZlQtOHZFRC1GeGc0ZzhtVjI4bHNjX1F4TEd4NWJZTlk0UmRCQndWT2NmQXhwdlNVWmRYZXA4Q0tvbEtNZ1BsY3haY2k1YUpnU2s2T1lseFVGR1VHZFpaUEYxUGxvT2pqOThaUDlxa18tUmk5ZjJ1QmdIYm1rY29VLTE2WHNrdXNqVWxHc0pYVWJlbWtmbEtwTVRaVUI2aWRIcTdmVDI1MExEbFVDRHU2aHFaVkdxMEJndHcxZU9PSU1Ec0E"
+  "CBMixgFBVV95cUxQODQxZlQtOHZFRC1GeGc0ZzhtVjI4bHNjX1F4TEd4NWJZTlk0UmRCQndWT2NmQXhwdlNVWmRYZXA4Q0tvbEtNZ1BsY3haY2k1YUpnU2s2T1lseFVGR1VHZFpaUEYxUGxvT2pqOThaUDlxa18tUmk5ZjJ1QmdIYm1rY29VLTE2WHNrdXNqVWxHc0pYVWJlbWtmbEtwTVRaVUI2aWRIcTdmVDI1MExEbFVDRHU2aHFaVkdxMEJndHcxZU9PSU1Ec0E",
+  "https://pagesix.com/?post_type=article&p=9199873"
  ],
  "posts": [
-  {
-   "fp": "black congress contempt epstein hold house interview leon moves",
-   "title": "House moves to hold Leon Black in contempt of Congress over Epstein interview",
-   "source": "The Hill",
-   "at": "2026-09-16T20:55:54.379123+00:00"
-  },
   {
    "fp": "centre election left sweden wins",
    "title": "Sweden\u2019s centre-Left wins election",
@@ -3201,10 +3195,15 @@
    "title": "Trump-Xi state dinner guest list includes SpaceX\u2019s Musk, Nvidia\u2019s Huang and LVMH\u2019s Arnault",
    "source": "Reuters",
    "at": "2026-09-25T03:42:08.016960+00:00"
+  },
+  {
+   "fp": "breaking country ella faces fears following langley music record star week",
+   "title": "Country music star Ella Langley faces her fears following record-breaking week",
+   "source": "New York Post",
+   "at": "2026-09-25T08:25:28.810674+00:00"
   }
  ],
  "titles": [
-  "black congress contempt epstein hold house interview leon moves",
   "centre election left sweden wins",
   "defying demands federal hikes rate reserve time trump years",
   "chopper deadly decision famed five helicopter pilot reveals second tragedy",
@@ -3603,6 +3602,7 @@
   "august borrowing budget government looms rose",
   "brazil capture colonise election lula meddling resources trump wants",
   "asian bond retreats slightly stocks storm weather",
-  "arnault dinner guest huang includes list lvmh musk nvidia spacex state trump"
+  "arnault dinner guest huang includes list lvmh musk nvidia spacex state trump",
+  "breaking country ella faces fears following langley music record star week"
  ]
 }
