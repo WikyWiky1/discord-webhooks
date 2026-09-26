@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6078750",
   "CBMiqwFBVV95cUxOZy00TjJFRGJoYUQ0VVRWQkVHX2pxby1yYUxBRjJGUlZCTFpfSUNDNU50OHBRNGdRQ0xSNDNvR3hKeFFQZHRDOEttQkNHbDNLOTNBdVBya1JvNklXNElCOXd1RTNPS2laUjhVRkVtSkxfalVmajNoNGxYZ2U3OTRvR2VOQi1kaGRwemtTaVhNd3VqXzlrem5jdTk0OXNpMlNOZDdZZzRudXoxTXc",
   "https://www.theguardian.com/politics/2026/sep/09/sanctions-israeli-settlements-trade-andy-burnham-analysis",
   "CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=40999699",
   "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
   "CBMijgFBVV95cUxOTWFvZGl3dnM3QXZvYy1LZFYtS3JYcGROcHZtRDN3eFg2Z241SWFSSTBpUHVONW9Pb2FnVTJQakdZNW5NMDZzSFE1dXhoMU5JS2J0UDZrZlVMcmwtYzdodElTeFdsZG9KQkZXUHNjZXMzV3NSeXpoSVF6c0N1QXVFU2tKYzhlQ1NXTGlVMXdn",
-  "https://nypost.com/?post_type=article&p=41000469"
+  "https://nypost.com/?post_type=article&p=41000469",
+  "CBMipgFBVV95cUxONjhuTDZkOUhqUjV2LWVUMFhtTVNjQWVWNU9NNHhLY0Vfb2xsTFdVaUxwN1JKSVdpVWhmNk9Sb2pWdi1uRTZUcExhZDZRX1lKUmFSWmcyczhFMGtZdG1WbzZydF9BUE1VTEJKQVJEMnFOdXZPY1VuNklncmlobkx4NWFTZkNOTng1QlpHdzJsYkdNQ0VlSk9kYUFXS2dCaUwyVV9qRmNR"
  ],
  "posts": [
-  {
-   "fp": "alps british crash killed millionaire plane swiss",
-   "title": "British millionaire killed in Swiss Alps plane crash",
-   "source": "Telegraph",
-   "at": "2026-09-17T15:59:33.537350+00:00"
-  },
   {
    "fp": "call center kennedy plaintiffs receivership resignations",
    "title": "Kennedy Center plaintiffs call for resignations or receivership",
@@ -3201,10 +3195,15 @@
    "title": "Bill Giles, longtime Phillies exec who helped create Phillie Phanatic, dead at 92",
    "source": "New York Post",
    "at": "2026-09-26T05:08:20.853531+00:00"
+  },
+  {
+   "fp": "acropolis briton dead explosion feared house near",
+   "title": "Briton feared dead in house explosion near Acropolis",
+   "source": "Telegraph",
+   "at": "2026-09-26T09:54:46.414840+00:00"
   }
  ],
  "titles": [
-  "alps british crash killed millionaire plane swiss",
   "call center kennedy plaintiffs receivership resignations",
   "collapsing fourth independent july kept made sept",
   "agency asks deaths demands exclusive help measles outbreak pennsylvania recognize",
@@ -3603,6 +3602,7 @@
   "catch pass unlimited unveils",
   "approved cancels congress funding nearly trump",
   "administration approved authority back claw congress nearly rare spending trump uses",
-  "bill create dead exec giles helped longtime phanatic phillie phillies"
+  "bill create dead exec giles helped longtime phanatic phillie phillies",
+  "acropolis briton dead explosion feared house near"
  ]
 }
