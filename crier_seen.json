@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
-  "https://thehill.com/?p=6078397",
-  "https://www.theguardian.com/us-news/2026/sep/09/large-sinkhole-malibu-california",
   "https://www.washingtonexaminer.com/?p=4718307",
   "https://thehill.com/?p=6078750",
   "CBMiqwFBVV95cUxOZy00TjJFRGJoYUQ0VVRWQkVHX2pxby1yYUxBRjJGUlZCTFpfSUNDNU50OHBRNGdRQ0xSNDNvR3hKeFFQZHRDOEttQkNHbDNLOTNBdVBya1JvNklXNElCOXd1RTNPS2laUjhVRkVtSkxfalVmajNoNGxYZ2U3OTRvR2VOQi1kaGRwemtTaVhNd3VqXzlrem5jdTk0OXNpMlNOZDdZZzRudXoxTXc",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/us-news/2026/sep/25/new-jersey-lieutenant-governor-resigns-dale-caldwell",
   "https://nypost.com/?post_type=article&p=40994889",
   "https://nypost.com/?post_type=article&p=40994694",
-  "CBMixwFBVV95cUxPUmJNUHExMXkxTEJRR015UDdFT1NPaXlObGgwTk5hdko1dldBei1JMWFjVXBwWUN4ODVCVlpUZDhtQWg0WDZHazctOEN0ZnZ5SmdSa0hoTVljQWxYanUtLUdxaXdsSmVnNHdKUnhtU2pLYW5JRHpzQjc2c1k0U1VLUVRLVWhYTkdjVENGZ3Q1TkMwbVAzYlpQMUNWQ0FxZ2VuMGJvU21qaHhtejRfTWxvRVVFdEROMmNsRTE5TGNQLWU3djRzWVFB"
+  "CBMixwFBVV95cUxPUmJNUHExMXkxTEJRR015UDdFT1NPaXlObGgwTk5hdko1dldBei1JMWFjVXBwWUN4ODVCVlpUZDhtQWg0WDZHazctOEN0ZnZ5SmdSa0hoTVljQWxYanUtLUdxaXdsSmVnNHdKUnhtU2pLYW5JRHpzQjc2c1k0U1VLUVRLVWhYTkdjVENGZ3Q1TkMwbVAzYlpQMUNWQ0FxZ2VuMGJvU21qaHhtejRfTWxvRVVFdEROMmNsRTE5TGNQLWU3djRzWVFB",
+  "https://nypost.com/?post_type=article&p=40999699",
+  "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
+  "CBMijgFBVV95cUxOTWFvZGl3dnM3QXZvYy1LZFYtS3JYcGROcHZtRDN3eFg2Z241SWFSSTBpUHVONW9Pb2FnVTJQakdZNW5NMDZzSFE1dXhoMU5JS2J0UDZrZlVMcmwtYzdodElTeFdsZG9KQkZXUHNjZXMzV3NSeXpoSVF6c0N1QXVFU2tKYzhlQ1NXTGlVMXdn"
  ],
  "posts": [
-  {
-   "fp": "300m attack florida frenzied hospital nurse patient room unleashes",
-   "title": "Florida hospital patient unleashes frenzied attack on ER nurse in new $300M room",
-   "source": "New York Post",
-   "at": "2026-09-17T11:46:31.756059+00:00"
-  },
-  {
-   "fp": "crater discovers huge moon nasa spacecraft",
-   "title": "NASA spacecraft discovers a huge new crater on the moon",
-   "source": "AP",
-   "at": "2026-09-17T15:29:11.224915+00:00"
-  },
-  {
-   "fp": "court crash deadly driver helicopter hospitalized metro misses preceded remains tragedy",
-   "title": "Driver in deadly LA Metro crash that preceded NBC helicopter tragedy misses court as she remains hospitalized",
-   "source": "New York Post",
-   "at": "2026-09-17T15:59:29.997908+00:00"
-  },
   {
    "fp": "accused arrested minnesota officer shooting",
    "title": "ICE officer accused of shooting man arrested in Minnesota",
@@ -3201,12 +3183,27 @@
    "title": "Magnitude 6.6 quake strikes near New Caledonia in the Pacific, USGS reports",
    "source": "Reuters",
    "at": "2026-09-26T00:18:11.982231+00:00"
+  },
+  {
+   "fp": "catch pass unlimited unveils",
+   "title": "UCF unveils unlimited \u2018hot dog\u2019 pass \u2014 with a catch",
+   "source": "New York Post",
+   "at": "2026-09-26T03:48:22.760887+00:00"
+  },
+  {
+   "fp": "approved cancels congress funding nearly trump",
+   "title": "Trump cancels nearly $1bn in funding approved by Congress",
+   "source": "Guardian World",
+   "at": "2026-09-26T03:48:24.404801+00:00"
+  },
+  {
+   "fp": "administration approved authority back claw congress nearly rare spending trump uses",
+   "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+   "source": "AP",
+   "at": "2026-09-26T03:48:26.108081+00:00"
   }
  ],
  "titles": [
-  "300m attack florida frenzied hospital nurse patient room unleashes",
-  "crater discovers huge moon nasa spacecraft",
-  "court crash deadly driver helicopter hospitalized metro misses preceded remains tragedy",
   "accused arrested minnesota officer shooting",
   "alps british crash killed millionaire plane swiss",
   "call center kennedy plaintiffs receivership resignations",
@@ -3603,6 +3600,9 @@
   "accusation governor harassment jersey lieutenant resigns sexual",
   "angeles breaking firefighters fires homeless people point spark stretched",
   "california consumers green kill nationwide",
-  "caledonia magnitude near pacific quake reports strikes usgs"
+  "caledonia magnitude near pacific quake reports strikes usgs",
+  "catch pass unlimited unveils",
+  "approved cancels congress funding nearly trump",
+  "administration approved authority back claw congress nearly rare spending trump uses"
  ]
 }
