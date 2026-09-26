@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMi4gFBVV95cUxOVzVQbDljaXVGc3FMQ192cjE5aGJrZjIzWGdLd0pjcUdSQVRkS3pLRGRPdk5veFUyQV9EWldST1lZUXNicGROYWFMYlg5RXdvbDE1UlZMLXNwWUJVVEJpTzZCN2F1RkNSeWw5SFJkWG42dHItblBXMWlhTU1qZGlQbmgzbFF5RTNWdk1iUUt1RGc5YTF5SEJWQWNIbF9Ybi1qS2RDNTlCOHlLZWsyRjRIaWxyV296dS1FQXFuRHltMkUydlZsWnVTcGQxWkFSQTR5NklmVl85RVpsZWpjRUhLejZR",
-  "https://www.bbc.co.uk/news/articles/c62mn90ppnro#1",
-  "https://nypost.com/?post_type=article&p=40725448",
   "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
   "https://thehill.com/?p=6078397",
   "https://www.theguardian.com/us-news/2026/sep/09/large-sinkhole-malibu-california",
@@ -799,27 +796,12 @@
   "https://www.washingtonexaminer.com/?p=4743501",
   "https://nypost.com/?post_type=article&p=40933200",
   "https://thehill.com/?p=6112266",
-  "https://www.theguardian.com/us-news/2026/sep/25/new-jersey-lieutenant-governor-resigns-dale-caldwell"
+  "https://www.theguardian.com/us-news/2026/sep/25/new-jersey-lieutenant-governor-resigns-dale-caldwell",
+  "https://nypost.com/?post_type=article&p=40994889",
+  "https://nypost.com/?post_type=article&p=40994694",
+  "CBMixwFBVV95cUxPUmJNUHExMXkxTEJRR015UDdFT1NPaXlObGgwTk5hdko1dldBei1JMWFjVXBwWUN4ODVCVlpUZDhtQWg0WDZHazctOEN0ZnZ5SmdSa0hoTVljQWxYanUtLUdxaXdsSmVnNHdKUnhtU2pLYW5JRHpzQjc2c1k0U1VLUVRLVWhYTkdjVENGZ3Q1TkMwbVAzYlpQMUNWQ0FxZ2VuMGJvU21qaHhtejRfTWxvRVVFdEROMmNsRTE5TGNQLWU3djRzWVFB"
  ],
  "posts": [
-  {
-   "fp": "78th about been birthday condition family heart hidden john killed ritter treatable warns",
-   "title": "John Ritter\u2019s family warns about the hidden but treatable heart condition that killed him \u2014 on what would have been his 78th birthday",
-   "source": "New York Post",
-   "at": "2026-09-17T11:46:26.265479+00:00"
-  },
-  {
-   "fp": "boom decaying keep nuclear stock",
-   "title": "The Nuclear Stock Boom Could Keep Decaying",
-   "source": "WSJ",
-   "at": "2026-09-17T11:46:28.033484+00:00"
-  },
-  {
-   "fp": "avoiding exit hegseth house impeachment races vote",
-   "title": "House races for exit, avoiding vote on Hegseth impeachment",
-   "source": "The Hill",
-   "at": "2026-09-17T11:46:29.890752+00:00"
-  },
   {
    "fp": "300m attack florida frenzied hospital nurse patient room unleashes",
    "title": "Florida hospital patient unleashes frenzied attack on ER nurse in new $300M room",
@@ -3201,12 +3183,27 @@
    "title": "New Jersey lieutenant governor resigns after sexual harassment accusation",
    "source": "Guardian World",
    "at": "2026-09-25T21:49:16.859266+00:00"
+  },
+  {
+   "fp": "angeles breaking firefighters fires homeless people point spark stretched",
+   "title": "Firefighters stretched to breaking point after homeless people spark over 12K fires in Los Angeles",
+   "source": "New York Post",
+   "at": "2026-09-26T00:18:08.664454+00:00"
+  },
+  {
+   "fp": "california consumers green kill nationwide",
+   "title": "Kill this California \u2018green\u2019 tax on consumers nationwide",
+   "source": "New York Post",
+   "at": "2026-09-26T00:18:10.335000+00:00"
+  },
+  {
+   "fp": "caledonia magnitude near pacific quake reports strikes usgs",
+   "title": "Magnitude 6.6 quake strikes near New Caledonia in the Pacific, USGS reports",
+   "source": "Reuters",
+   "at": "2026-09-26T00:18:11.982231+00:00"
   }
  ],
  "titles": [
-  "78th about been birthday condition family heart hidden john killed ritter treatable warns",
-  "boom decaying keep nuclear stock",
-  "avoiding exit hegseth house impeachment races vote",
   "300m attack florida frenzied hospital nurse patient room unleashes",
   "crater discovers huge moon nasa spacecraft",
   "court crash deadly driver helicopter hospitalized metro misses preceded remains tragedy",
@@ -3603,6 +3600,9 @@
   "assassination charlie details flaws kirk report security university utah valley",
   "areas campaigned daughter failing hannah invasion jones kids nikole school sent whiter yuppie",
   "called ethics governor jersey lieutenant report resigns sherrill",
-  "accusation governor harassment jersey lieutenant resigns sexual"
+  "accusation governor harassment jersey lieutenant resigns sexual",
+  "angeles breaking firefighters fires homeless people point spark stretched",
+  "california consumers green kill nationwide",
+  "caledonia magnitude near pacific quake reports strikes usgs"
  ]
 }
