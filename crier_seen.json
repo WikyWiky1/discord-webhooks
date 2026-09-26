@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6079918",
   "https://www.washingtonexaminer.com/?p=4718838",
   "CBMikgFBVV95cUxNZnNEUHIyS2lzSmJQbndlYkJTcnJtNEdnTlRVNU5rTGJUVU9zOTcxNU9keURpVE40eHgzSExCYzRxcTM4bDdzMVBLSmdtRVYwRWczZU4xbDEwN090dkhiMEF6OG1VMWtPcFdhX20xVTQ0QTBSLVJQZTNjVzN3dDRGTzlyeUlUV1JUMk9NOUhlZFFXUQ",
   "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone",
@@ -799,15 +798,10 @@
   "CBMiqwFBVV95cUxQdDlibHpiVDQ4MzNKVFRJanM4ZHpUSVU3VTdfSGRRLURmTUk4TVItY3o2YUVIdS1IMDVyU2lKXzNYY3ZkM241NHVHbDJEQnU0RmRPbjZzZGYzdTNKMVdtT0Q4V3pzQkZKZXBVc19XbXRGclZXcG1abGg0VlYtSXY1cHlrUGFVNU5tSWdZU3MwSHRoYUtmQ245Y21kMjZQZ3pvb2I2YmhTVGVIQm8",
   "CBMiqwFBVV95cUxQV2VpYXF0ZEV6dllNZzA4dnNzZ08zaVo1ckJFdHVGUG9YX2VFTGU4dzZ1c0dJTVpsSWVNRjN0eHZXdXoxWjVMcXdMa281TjBIeXZVRnJ6ZzlCTGhuSmx2ekNmWjhiNTlRWE9QN29NYWRqbE1ydWl0TUpWQ0pEcEtaZ3A2YmFxSzJNZWQyLTk5bkZNdHhQN1BIWFhpVklZSlhfTXBuaWZrcFMwZnc",
   "CBMixwFBVV95cUxPcy10ZFE2SGc4eGtIcnVnWUNmQ0I3YTZJc3RwX21XNV9BOUpoVFBILURqSy1PRUNxeEtmVWZSRnFDYXBCbHVCdzRKZU9CdHg2bW5qaVhTY0lqTzhDTE0ySlZqaDJnbS1jSlF5aXE1ZzNCdFhUV0xheFY1dV9zLUNJVHZQdXNZcndoV3ZJYmY2SjBSdlJXQUhIeEhJYVJTS2Y2OGt5bXE4cEFBMUdfaDRvRDg0ZzZjMHFaLVB4MDVBLWpZNTFLa29V",
-  "https://www.theguardian.com/politics/2026/sep/26/angela-rayner-care-worker-visa-reforms-labour-conference"
+  "https://www.theguardian.com/politics/2026/sep/26/angela-rayner-care-worker-visa-reforms-labour-conference",
+  "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino"
  ],
  "posts": [
-  {
-   "fp": "aarp alaska contest peltola poll senate sullivan trails",
-   "title": "Sullivan trails Peltola in Alaska Senate contest: AARP poll",
-   "source": "The Hill",
-   "at": "2026-09-17T16:21:21.829550+00:00"
-  },
   {
    "fp": "climb markets moves post retrace stocks",
    "title": "Stocks Climb as Markets Retrace Post-Fed Moves",
@@ -3201,10 +3195,15 @@
    "title": "Angela Rayner stands by attack on care worker visa reforms ahead of Labour conference",
    "source": "Guardian World",
    "at": "2026-09-26T13:59:47.205809+00:00"
+  },
+  {
+   "fp": "atlantic blame churning hurricanes pacific quiet",
+   "title": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Ni\u00f1o",
+   "source": "NPR News",
+   "at": "2026-09-26T14:55:51.877401+00:00"
   }
  ],
  "titles": [
-  "aarp alaska contest peltola poll senate sullivan trails",
   "climb markets moves post retrace stocks",
   "ashore come green light regulator stocks tokenized",
   "accused middle school shooting street teacher year",
@@ -3603,6 +3602,7 @@
   "bombing ceasefire iran offer rejects renewed trump warns",
   "blast dera injures ismail khan kills pakistan",
   "administration democrats house impeachment option oversight plan trump vast",
-  "ahead angela attack care conference labour rayner reforms stands visa worker"
+  "ahead angela attack care conference labour rayner reforms stands visa worker",
+  "atlantic blame churning hurricanes pacific quiet"
  ]
 }
