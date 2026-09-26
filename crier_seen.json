@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4718307",
   "https://thehill.com/?p=6078750",
   "CBMiqwFBVV95cUxOZy00TjJFRGJoYUQ0VVRWQkVHX2pxby1yYUxBRjJGUlZCTFpfSUNDNU50OHBRNGdRQ0xSNDNvR3hKeFFQZHRDOEttQkNHbDNLOTNBdVBya1JvNklXNElCOXd1RTNPS2laUjhVRkVtSkxfalVmajNoNGxYZ2U3OTRvR2VOQi1kaGRwemtTaVhNd3VqXzlrem5jdTk0OXNpMlNOZDdZZzRudXoxTXc",
   "https://www.theguardian.com/politics/2026/sep/09/sanctions-israeli-settlements-trade-andy-burnham-analysis",
@@ -799,15 +798,10 @@
   "CBMixwFBVV95cUxPUmJNUHExMXkxTEJRR015UDdFT1NPaXlObGgwTk5hdko1dldBei1JMWFjVXBwWUN4ODVCVlpUZDhtQWg0WDZHazctOEN0ZnZ5SmdSa0hoTVljQWxYanUtLUdxaXdsSmVnNHdKUnhtU2pLYW5JRHpzQjc2c1k0U1VLUVRLVWhYTkdjVENGZ3Q1TkMwbVAzYlpQMUNWQ0FxZ2VuMGJvU21qaHhtejRfTWxvRVVFdEROMmNsRTE5TGNQLWU3djRzWVFB",
   "https://nypost.com/?post_type=article&p=40999699",
   "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
-  "CBMijgFBVV95cUxOTWFvZGl3dnM3QXZvYy1LZFYtS3JYcGROcHZtRDN3eFg2Z241SWFSSTBpUHVONW9Pb2FnVTJQakdZNW5NMDZzSFE1dXhoMU5JS2J0UDZrZlVMcmwtYzdodElTeFdsZG9KQkZXUHNjZXMzV3NSeXpoSVF6c0N1QXVFU2tKYzhlQ1NXTGlVMXdn"
+  "CBMijgFBVV95cUxOTWFvZGl3dnM3QXZvYy1LZFYtS3JYcGROcHZtRDN3eFg2Z241SWFSSTBpUHVONW9Pb2FnVTJQakdZNW5NMDZzSFE1dXhoMU5JS2J0UDZrZlVMcmwtYzdodElTeFdsZG9KQkZXUHNjZXMzV3NSeXpoSVF6c0N1QXVFU2tKYzhlQ1NXTGlVMXdn",
+  "https://nypost.com/?post_type=article&p=41000469"
  ],
  "posts": [
-  {
-   "fp": "accused arrested minnesota officer shooting",
-   "title": "ICE officer accused of shooting man arrested in Minnesota",
-   "source": "Washington Examiner",
-   "at": "2026-09-17T15:59:31.624407+00:00"
-  },
   {
    "fp": "alps british crash killed millionaire plane swiss",
    "title": "British millionaire killed in Swiss Alps plane crash",
@@ -3201,10 +3195,15 @@
    "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
    "source": "AP",
    "at": "2026-09-26T03:48:26.108081+00:00"
+  },
+  {
+   "fp": "bill create dead exec giles helped longtime phanatic phillie phillies",
+   "title": "Bill Giles, longtime Phillies exec who helped create Phillie Phanatic, dead at 92",
+   "source": "New York Post",
+   "at": "2026-09-26T05:08:20.853531+00:00"
   }
  ],
  "titles": [
-  "accused arrested minnesota officer shooting",
   "alps british crash killed millionaire plane swiss",
   "call center kennedy plaintiffs receivership resignations",
   "collapsing fourth independent july kept made sept",
@@ -3603,6 +3602,7 @@
   "caledonia magnitude near pacific quake reports strikes usgs",
   "catch pass unlimited unveils",
   "approved cancels congress funding nearly trump",
-  "administration approved authority back claw congress nearly rare spending trump uses"
+  "administration approved authority back claw congress nearly rare spending trump uses",
+  "bill create dead exec giles helped longtime phanatic phillie phillies"
  ]
 }
