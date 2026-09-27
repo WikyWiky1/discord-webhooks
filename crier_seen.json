@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMipAFBVV95cUxOc1Znc255YnhtZW1aaDk0ZUgtcEJ5RXVzbm44Q0Y0VTR5QlkxbnNLU2hkWEZ1b3FsMU1LVlkzRUR5ZU44Wmh6S3UzbmtsemQ2ZDJJQVl4Z0NaZnRaaEZZRWJEbWFlSDhIQk9EX3BkREMteUxpWUJPRDV5dWRnaEZuX3d6SjNxRDRTaFRxOWIxYUt6VjFZb3J0N1NQcXpvQmxab2FyYg",
-  "CBMijwFBVV95cUxPblhSSnlVZVdRYVZCV3F6Qi1aTkQ1Q3lYMDYxZ3ZSUmNMZUJfV3B5OXZ1RE4wSDg0VElqN3JFckh6Mml3aGZLUC1JdE9JX1BULW5sTlBWTFg5RHYwOS0xYTY3RWRPUFdNVzhlMHd5OU0yeG43MGlmSGJyd0xXdUt2ME5WT3Zpekc4MU0tSEUySQ",
   "https://thehill.com/?p=6083201",
   "https://www.theguardian.com/us-news/2026/sep/10/san-francisco-mayor-declares-rent-emergency",
   "https://www.washingtonexaminer.com/?p=4722574",
@@ -799,21 +797,11 @@
   "CBMitwFBVV95cUxNaDJBSm5PZEgyWXNtNE5iZkF2cmVCNjhOakZMczZsdHFEd3hlVDdFTU44S0JVaHVmb1ozbEpudjVncUhic3l2RnNIVHltdi16cWZSM1p5M29hZ1ZlRU85aHZvckRSdGJ0X2M3bjVtXy1WS2xQcmh4cjBmUy05MWtXa0hkV2xSSVBHWVBvb1FpeXdob2o5QzRYVmNQV1ZrMFhjRVYwN19UYmRGRXNNOGpQTzEySUZFUjQ",
   "CBMigwFBVV95cUxQQ2UzU0FZZGZ1eWU3dFlwQVAzdDNYZlAtd3E4aFhKQlJOUGQzX2lBQzd6S3ZPV2MyYzlsT1dZQi1raHpZbkRLZVdfQlhwWndZTW5qUjU3bG9LdWpBQlFXNGFrUTBkYXVsSm82bEI3TUFuN25RZGFPcW8yRkE1VnZWRGhXbw",
   "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-election-nhs-style-care-service-labour-conference",
-  "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton"
+  "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
+  "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
+  "CBMitwFBVV95cUxQRFFJaWVYT3FvOTdWUE5KVGVMUnI1QWxjbWdjTDgwY2p4SHI4M0lxRjdRSFd0dFBkMmVZRXd6RGNNcUhkZlVuXzhFQlZPQnJ5Zi1WSHhtOFZ1STVrUWdDRklZMG1DVTV5ajI1d0oxaWh6VFI5TmdIY2Rsc2NTVTROREJnZktIWGxEMWR4RUhPVjFzOW1sZkppV3R3VGVMSXBYTlIwMk01THlOYWFJaXlwQ1RVQUs3QlE"
  ],
  "posts": [
-  {
-   "fp": "attack community fears fresh knife sikh stirs trucker wyoming",
-   "title": "Knife attack on Sikh trucker in Wyoming stirs fresh fears in community",
-   "source": "AP",
-   "at": "2026-09-19T00:36:10.615705+00:00"
-  },
-  {
-   "fp": "carriage central deadly horse owners park poisoning ready",
-   "title": "Carriage horse\u2019s owners ready to sue Central Park over deadly yew poisoning",
-   "source": "New York Post",
-   "at": "2026-09-19T00:36:12.882415+00:00"
-  },
   {
    "fp": "agency atomic irreversible korea north nuclear rebuke status",
    "title": "North Korea says nuclear status 'irreversible' after UN atomic agency rebuke",
@@ -3201,11 +3189,21 @@
    "title": "Republican says Trump\u2019s support of Ken Paxton in Texas primary was \u2018colossal mistake\u2019",
    "source": "Guardian World",
    "at": "2026-09-27T20:57:36.156295+00:00"
+  },
+  {
+   "fp": "baja braces hawaii hurricane major mexico nolo polo still threatens",
+   "title": "Hurricane Nolo still threatens Hawaii as Mexico's Baja braces for major Hurricane Polo",
+   "source": "Guardian World",
+   "at": "2026-09-27T23:31:33.273646+00:00"
+  },
+  {
+   "fp": "boston bound cabin delta emergency flight landing makes portugal smoke",
+   "title": "Boston-bound Delta flight makes emergency landing in Portugal due to smoke in cabin",
+   "source": "Reuters",
+   "at": "2026-09-27T23:31:35.008235+00:00"
   }
  ],
  "titles": [
-  "attack community fears fresh knife sikh stirs trucker wyoming",
-  "carriage central deadly horse owners park poisoning ready",
   "agency atomic irreversible korea north nuclear rebuke status",
   "chase couple dreams gave license spacex",
   "approves billion bolivia congress deal threats triggering unrest",
@@ -3603,6 +3601,8 @@
   "caucus enough form french leaders right seats senate",
   "election important opinion people",
   "andy burnham care election fight next plan service style",
-  "colossal mistake paxton primary republican support texas trump"
+  "colossal mistake paxton primary republican support texas trump",
+  "baja braces hawaii hurricane major mexico nolo polo still threatens",
+  "boston bound cabin delta emergency flight landing makes portugal smoke"
  ]
 }
