@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6083201",
-  "https://www.theguardian.com/us-news/2026/sep/10/san-francisco-mayor-declares-rent-emergency",
-  "https://www.washingtonexaminer.com/?p=4722574",
   "https://www.washingtonexaminer.com/?p=4719175",
   "https://nypost.com/?post_type=article&p=40764596",
   "CBMirAFBVV95cUxOOHdvT0c2UG1sRDc1WFZfMkRPQU90MVc1dzNGWHo4RWM0X1VHLUJqU2E3ZFRqOWRWdHBoNV9oVlFqM1JKQlduMmxuSTdJdkNoWVpaWGlXdm56Umc4QmxXVnhBZVBwNWY5XzNlWmtPR1JnS0Q1MXdmcC1JMnVoSlYxZHNjdTlOdTJKSGpnWllTZTA4Z3FiYUhxOW5VUVltU2RacWk0cXpYNXUtU1It",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-election-nhs-style-care-service-labour-conference",
   "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
   "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
-  "CBMitwFBVV95cUxQRFFJaWVYT3FvOTdWUE5KVGVMUnI1QWxjbWdjTDgwY2p4SHI4M0lxRjdRSFd0dFBkMmVZRXd6RGNNcUhkZlVuXzhFQlZPQnJ5Zi1WSHhtOFZ1STVrUWdDRklZMG1DVTV5ajI1d0oxaWh6VFI5TmdIY2Rsc2NTVTROREJnZktIWGxEMWR4RUhPVjFzOW1sZkppV3R3VGVMSXBYTlIwMk01THlOYWFJaXlwQ1RVQUs3QlE"
+  "CBMitwFBVV95cUxQRFFJaWVYT3FvOTdWUE5KVGVMUnI1QWxjbWdjTDgwY2p4SHI4M0lxRjdRSFd0dFBkMmVZRXd6RGNNcUhkZlVuXzhFQlZPQnJ5Zi1WSHhtOFZ1STVrUWdDRklZMG1DVTV5ajI1d0oxaWh6VFI5TmdIY2Rsc2NTVTROREJnZktIWGxEMWR4RUhPVjFzOW1sZkppV3R3VGVMSXBYTlIwMk01THlOYWFJaXlwQ1RVQUs3QlE",
+  "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
+  "https://www.theguardian.com/world/2026/sep/28/protect-free-speech-labour-liberty-poll",
+  "CBMipAFBVV95cUxPTV9iQnlnckgtc2pnVUdTUm94SWduWkkwV2pTRlM4RUFYSGJabTJoaFRXTlVwa2RzWnRjNWVULWpBS0ZVa1Bvck1oMDFWMjloSGlsUGxSZnlwY09CRFJUb21TdS1kTHdrT0hRMVUwdHVHbmlqUVlybFlVQTVpZ0FUS2N0dklsVVFGWDdab2VJY3Q0eGJVZjJZeTY4WHJuV2w2WGh6VQ"
  ],
  "posts": [
-  {
-   "fp": "agency atomic irreversible korea north nuclear rebuke status",
-   "title": "North Korea says nuclear status 'irreversible' after UN atomic agency rebuke",
-   "source": "Reuters World",
-   "at": "2026-09-19T00:36:14.594510+00:00"
-  },
-  {
-   "fp": "chase couple dreams gave license spacex",
-   "title": "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
-   "source": "WSJ",
-   "at": "2026-09-19T03:23:41.322533+00:00"
-  },
-  {
-   "fp": "approves billion bolivia congress deal threats triggering unrest",
-   "title": "Bolivia\u2019s Congress approves $1.9 billion IMF deal, triggering threats of unrest",
-   "source": "AP",
-   "at": "2026-09-19T03:23:43.035934+00:00"
-  },
   {
    "fp": "2026 delaware election house live primary results",
    "title": "Delaware U.S. House Primary Election Live Results 2026",
@@ -3201,12 +3183,27 @@
    "title": "Boston-bound Delta flight makes emergency landing in Portugal due to smoke in cabin",
    "source": "Reuters",
    "at": "2026-09-27T23:31:35.008235+00:00"
+  },
+  {
+   "fp": "australia budget deficit final gallagher hike interest live looms news outcome rate shave",
+   "title": "Australia news live: Gallagher says final budget outcome will shave $6bn off deficit; RBA interest rate hike looms",
+   "source": "Guardian World",
+   "at": "2026-09-27T23:43:26.173576+00:00"
+  },
+  {
+   "fp": "cost election failure free labour liberty next protect speech votes",
+   "title": "Failure to protect free speech could cost Labour votes at next election, says Liberty",
+   "source": "Guardian World",
+   "at": "2026-09-27T23:43:27.851135+00:00"
+  },
+  {
+   "fp": "about burnham doesn election should stop talking want",
+   "title": "If Burnham doesn\u2019t want an election, he should stop talking about it",
+   "source": "Telegraph",
+   "at": "2026-09-27T23:43:29.529619+00:00"
   }
  ],
  "titles": [
-  "agency atomic irreversible korea north nuclear rebuke status",
-  "chase couple dreams gave license spacex",
-  "approves billion bolivia congress deal threats triggering unrest",
   "2026 delaware election house live primary results",
   "birthday flood include killed nation navajo preparing year",
   "become election homestretch iowa midterm territory tricky",
@@ -3603,6 +3600,9 @@
   "andy burnham care election fight next plan service style",
   "colossal mistake paxton primary republican support texas trump",
   "baja braces hawaii hurricane major mexico nolo polo still threatens",
-  "boston bound cabin delta emergency flight landing makes portugal smoke"
+  "boston bound cabin delta emergency flight landing makes portugal smoke",
+  "australia budget deficit final gallagher hike interest live looms news outcome rate shave",
+  "cost election failure free labour liberty next protect speech votes",
+  "about burnham doesn election should stop talking want"
  ]
 }
