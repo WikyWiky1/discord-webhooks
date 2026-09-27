@@ -1,9 +1,5 @@
 {
  "ids": [
-  "CBMiigFBVV95cUxQQ3Ytd2I5UDhvbzQ1MnhiUUtUZFVJQ3BaTXpUaGhhZDMwQ2RHS2EwR19SSkNKaWZXYXlnUWI2WmU1cTEzcHFWcjExSW9sQ1NRTlJhdHdvTExQRW1EOGM1LWxGOF9qSEk5QXBCQTFqN2NhQm9EWnJRaDZfNUttR0gyckdYOHBXZVVBNHc",
-  "https://www.theguardian.com/world/2026/sep/10/north-korea-has-built-new-uranium-facility-to-expand-nuclear-arsenal-un-agency-says",
-  "https://nypost.com/?post_type=article&p=40742626",
-  "https://nypost.com/?post_type=article&p=40742198",
   "https://nypost.com/?post_type=article&p=40720311",
   "CBMiuwFBVV95cUxPU0VwMHlSM09wa1JuanFzVmUyOHF4eEgwQ21tS1JvVDlLSktISTFxM1E5ZHlwVHFMZ2dnbThBeHVWR3czUkZiaWVBcEo1S2xsWVZYRXNfeXhWbGJzLWFaZmRFblNzOW1GZnlaMTNpS0VQQ2NwWVFrOUNMaF9EeWNBN2s3VVFFcXBTeDk4UVE2MUtyVE9xTW9OSzhSYjFuUzdZMFFxRGZfYTV5eVZNaFhST1NvakVjZFlSOWpB",
   "CBMiYkFVX3lxTE9UUk1BdzlqWDk5NUxZZ3B0b3k5cW1LUURibW42MmtFaV9HeTVrRWRVcjM2VHZ4QlRBVmw0T19NVVk0aGV0Y3lQOGU2WXRobmdicm8wUWxhT2ZmX1pMbGhWVEx3",
@@ -799,33 +795,13 @@
   "https://nypost.com/?post_type=article&p=41007210",
   "CBMiNkFVX3lxTE5jYTZQNEFYbnZ6VjBFc1hGMF9WeGNwT08wOHRFRFQwa2dHeEY4NUd2UVhXZU1uQQ",
   "https://thehill.com/?p=6112624",
-  "https://www.washingtonexaminer.com/?p=4744297"
+  "https://www.washingtonexaminer.com/?p=4744297",
+  "https://thehill.com/?p=6113414",
+  "https://nypost.com/?post_type=article&p=41008334",
+  "CBMiwwFBVV95cUxPZi11dmRDaGtOclFJMzJhSmlNSnVpdnFkQkZpeGFxbkh6c0ZTRW1tZ1JKNTFvVk1ULTF4X3FXb2VqcnV2dzIzUmp6dmxndlFOazNVUFhGVkluaFRyRG1ERlVTM3BPU3BWMllpZzRqRC1iZnVxU0VnN0thOUxvaVFjdDhaX3ZSTnlHRHA1eEdNQXVTYXlDYUNJZHdYNmVqR3d6X1c5T0Q0ZmN1X3BVNW5fVmtpN1huWWVQVmxScHBGaUNFQnc",
+  "https://www.theguardian.com/australia-news/2026/sep/27/one-nation-to-demand-thousands-from-victorian-election-candidates-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "dead eight injured philippines school shooting three",
-   "title": "Three dead, eight injured in Philippines school shooting",
-   "source": "BBC World",
-   "at": "2026-09-18T10:01:22.018379+00:00"
-  },
-  {
-   "fp": "attack australian beach blood kills pool recall seeing shark swimmer witnesses",
-   "title": "Shark kills swimmer in attack off Australian beach as witnesses recall seeing \u2018pool of blood\u2019",
-   "source": "New York Post",
-   "at": "2026-09-18T10:01:23.709383+00:00"
-  },
-  {
-   "fp": "councillor elliott former icac kill labor message questions something",
-   "title": "\u2018We have something that will kill Elliott\u2019: Icac questions former Labor councillor over message",
-   "source": "Guardian World",
-   "at": "2026-09-18T10:01:25.431849+00:00"
-  },
-  {
-   "fp": "attack australia beach killed popular shark swimmer western",
-   "title": "Swimmer killed in shark attack at popular Western Australia beach",
-   "source": "Reuters",
-   "at": "2026-09-18T10:01:27.159376+00:00"
-  },
   {
    "fp": "balcony chiara death italy jaconis justice killed probe reopened statue thrown tourist waits",
    "title": "Tourist Chiara Jaconis\u2019 death probe reopened after she\u2019s killed by statue thrown from Italy balcony\u2014 as mom waits for justice",
@@ -3201,13 +3177,33 @@
    "title": "Four Americans dead after building collapses near the Acropolis in Athens",
    "source": "Washington Examiner",
    "at": "2026-09-27T01:30:20.986475+00:00"
+  },
+  {
+   "fp": "andrews carolina graham neck poll race senate south",
+   "title": "Graham, Andrews neck and neck in South Carolina Senate race: Poll",
+   "source": "The Hill",
+   "at": "2026-09-27T03:57:42.344291+00:00"
+  },
+  {
+   "fp": "arrested blood california cops discovery horrifying make poachers soaked",
+   "title": "Blood-soaked California poachers arrested after cops make horrifying discovery",
+   "source": "New York Post",
+   "at": "2026-09-27T03:57:44.038814+00:00"
+  },
+  {
+   "fp": "bond come defying here history next stocks surging yields",
+   "title": "Stocks Are Defying Surging Bond Yields. Here\u2019s What History Says Could Come Next.",
+   "source": "WSJ",
+   "at": "2026-09-27T03:57:45.727531+00:00"
+  },
+  {
+   "fp": "candidates cash demands election grab nation victorian",
+   "title": "\u2018Cash grab\u2019: One Nation demands up to $630,000 from Victorian election candidates",
+   "source": "Guardian World",
+   "at": "2026-09-27T03:57:47.447736+00:00"
   }
  ],
  "titles": [
-  "dead eight injured philippines school shooting three",
-  "attack australian beach blood kills pool recall seeing shark swimmer witnesses",
-  "councillor elliott former icac kill labor message questions something",
-  "attack australia beach killed popular shark swimmer western",
   "balcony chiara death italy jaconis justice killed probe reopened statue thrown tourist waits",
   "choose election just occupied parliamentary reaches result russia ukraine voters",
   "begin cement days election kremlin parliamentary power russians voting",
@@ -3603,6 +3599,10 @@
   "aaron comes detroit glenn important jets mission return",
   "journal street wall",
   "democrats election fear forecasters high polling sugar",
-  "acropolis americans athens building collapses dead four near"
+  "acropolis americans athens building collapses dead four near",
+  "andrews carolina graham neck poll race senate south",
+  "arrested blood california cops discovery horrifying make poachers soaked",
+  "bond come defying here history next stocks surging yields",
+  "candidates cash demands election grab nation victorian"
  ]
 }
