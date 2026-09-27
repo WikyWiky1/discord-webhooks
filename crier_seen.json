@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing",
   "CBMiigFBVV95cUxQQ3Ytd2I5UDhvbzQ1MnhiUUtUZFVJQ3BaTXpUaGhhZDMwQ2RHS2EwR19SSkNKaWZXYXlnUWI2WmU1cTEzcHFWcjExSW9sQ1NRTlJhdHdvTExQRW1EOGM1LWxGOF9qSEk5QXBCQTFqN2NhQm9EWnJRaDZfNUttR0gyckdYOHBXZVVBNHc",
   "https://www.theguardian.com/world/2026/sep/10/north-korea-has-built-new-uranium-facility-to-expand-nuclear-arsenal-un-agency-says",
   "https://nypost.com/?post_type=article&p=40742626",
@@ -799,15 +798,10 @@
   "CBMiiAFBVV95cUxPaFVfUjJkdUtyOVZ6SGkyOWVzYnNZLXJ3bXpScGNjVTZ2Tm9mTzY5ZU9ZQTBuS2VlNzFKbm9tRmtSSFZsQXZ2djkzNjgzVHd4TUVFQjg1ZFpzdWozdUprZi1QSjJaVEEyLUFvdUZmZTAwT2J5eHl2SlVvRHFnQXJ4Q2JGZndCLUxo",
   "https://nypost.com/?post_type=article&p=41007210",
   "CBMiNkFVX3lxTE5jYTZQNEFYbnZ6VjBFc1hGMF9WeGNwT08wOHRFRFQwa2dHeEY4NUd2UVhXZU1uQQ",
-  "https://thehill.com/?p=6112624"
+  "https://thehill.com/?p=6112624",
+  "https://www.washingtonexaminer.com/?p=4744297"
  ],
  "posts": [
-  {
-   "fp": "gunman including killed officials philippine school shooting students three",
-   "title": "Three students killed in Philippine school shooting, including gunman, officials say",
-   "source": "New York Post",
-   "at": "2026-09-18T10:01:20.264344+00:00"
-  },
   {
    "fp": "dead eight injured philippines school shooting three",
    "title": "Three dead, eight injured in Philippines school shooting",
@@ -3201,10 +3195,15 @@
    "title": "Election forecasters don't see polling 'sugar-high' Democrats fear \u2014 for now",
    "source": "The Hill",
    "at": "2026-09-26T23:23:27.723091+00:00"
+  },
+  {
+   "fp": "acropolis americans athens building collapses dead four near",
+   "title": "Four Americans dead after building collapses near the Acropolis in Athens",
+   "source": "Washington Examiner",
+   "at": "2026-09-27T01:30:20.986475+00:00"
   }
  ],
  "titles": [
-  "gunman including killed officials philippine school shooting students three",
   "dead eight injured philippines school shooting three",
   "attack australian beach blood kills pool recall seeing shark swimmer witnesses",
   "councillor elliott former icac kill labor message questions something",
@@ -3603,6 +3602,7 @@
   "expected flash flooding hawaii hurricane nolo powerful unleash winds",
   "aaron comes detroit glenn important jets mission return",
   "journal street wall",
-  "democrats election fear forecasters high polling sugar"
+  "democrats election fear forecasters high polling sugar",
+  "acropolis americans athens building collapses dead four near"
  ]
 }
