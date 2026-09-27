@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40720311",
   "CBMiuwFBVV95cUxPU0VwMHlSM09wa1JuanFzVmUyOHF4eEgwQ21tS1JvVDlLSktISTFxM1E5ZHlwVHFMZ2dnbThBeHVWR3czUkZiaWVBcEo1S2xsWVZYRXNfeXhWbGJzLWFaZmRFblNzOW1GZnlaMTNpS0VQQ2NwWVFrOUNMaF9EeWNBN2s3VVFFcXBTeDk4UVE2MUtyVE9xTW9OSzhSYjFuUzdZMFFxRGZfYTV5eVZNaFhST1NvakVjZFlSOWpB",
   "CBMiYkFVX3lxTE9UUk1BdzlqWDk5NUxZZ3B0b3k5cW1LUURibW42MmtFaV9HeTVrRWRVcjM2VHZ4QlRBVmw0T19NVVk0aGV0Y3lQOGU2WXRobmdicm8wUWxhT2ZmX1pMbGhWVEx3",
   "CBMixAFBVV95cUxQLXBmbDdueEZqYVVmOWhlbEZrSHp0dnI2NzhhSmRSaDA2Q3lEelp2UnJTb3dJX2JBZWkxNXBNbWkzekNqcmZKMVd1Nm15SXVldGdpZjdlWlpaT0ZUSFA3SlV0VXpCMENmVERSczUtMDRzRVhpT0NPSlpUR0k1UXZvb2NCSDZHczlqakFlLUlqVVo3ck5LaTRoUUp4SXh4XzJISUNkUTFjX3pFalBxeVIyVkRaMkoxMklvYkFXang3NG94LU43",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6113414",
   "https://nypost.com/?post_type=article&p=41008334",
   "CBMiwwFBVV95cUxPZi11dmRDaGtOclFJMzJhSmlNSnVpdnFkQkZpeGFxbkh6c0ZTRW1tZ1JKNTFvVk1ULTF4X3FXb2VqcnV2dzIzUmp6dmxndlFOazNVUFhGVkluaFRyRG1ERlVTM3BPU3BWMllpZzRqRC1iZnVxU0VnN0thOUxvaVFjdDhaX3ZSTnlHRHA1eEdNQXVTYXlDYUNJZHdYNmVqR3d6X1c5T0Q0ZmN1X3BVNW5fVmtpN1huWWVQVmxScHBGaUNFQnc",
-  "https://www.theguardian.com/australia-news/2026/sep/27/one-nation-to-demand-thousands-from-victorian-election-candidates-ntwnfb"
+  "https://www.theguardian.com/australia-news/2026/sep/27/one-nation-to-demand-thousands-from-victorian-election-candidates-ntwnfb",
+  "https://nypost.com/?post_type=article&p=41010705"
  ],
  "posts": [
-  {
-   "fp": "balcony chiara death italy jaconis justice killed probe reopened statue thrown tourist waits",
-   "title": "Tourist Chiara Jaconis\u2019 death probe reopened after she\u2019s killed by statue thrown from Italy balcony\u2014 as mom waits for justice",
-   "source": "New York Post",
-   "at": "2026-09-18T10:01:28.897570+00:00"
-  },
   {
    "fp": "choose election just occupied parliamentary reaches result russia ukraine voters",
    "title": "\u2018Voters get to choose \u2014 just not the result\u2019: Russia\u2019s parliamentary election reaches occupied Ukraine",
@@ -3201,10 +3195,15 @@
    "title": "\u2018Cash grab\u2019: One Nation demands up to $630,000 from Victorian election candidates",
    "source": "Guardian World",
    "at": "2026-09-27T03:57:47.447736+00:00"
+  },
+  {
+   "fp": "africa killed launch manhunt police shooting south tavern",
+   "title": "South Africa police launch manhunt after 17 killed in tavern shooting",
+   "source": "New York Post",
+   "at": "2026-09-27T07:03:15.000562+00:00"
   }
  ],
  "titles": [
-  "balcony chiara death italy jaconis justice killed probe reopened statue thrown tourist waits",
   "choose election just occupied parliamentary reaches result russia ukraine voters",
   "begin cement days election kremlin parliamentary power russians voting",
   "arctic double empire europe freeze game hole putin sanctions trump",
@@ -3603,6 +3602,7 @@
   "andrews carolina graham neck poll race senate south",
   "arrested blood california cops discovery horrifying make poachers soaked",
   "bond come defying here history next stocks surging yields",
-  "candidates cash demands election grab nation victorian"
+  "candidates cash demands election grab nation victorian",
+  "africa killed launch manhunt police shooting south tavern"
  ]
 }
