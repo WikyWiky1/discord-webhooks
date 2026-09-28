@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMilgFBVV95cUxOR2pqczFpS3lxb0czam90bVFGUTBiQUdjTEoxS09JalpvV3MtUklXSDlDRUJ4TFVsUTZ1OHdibmxkSVV4azAwUUQyUkEzVUgyNUwxdy1PUUV3dWh4OWZUa2Y2WmI4eldXMXNYWEdyc3NqX3dlTG1SR0tNMHpXUHQ2cFZYc2lDTlVvMU5PRUFvTjR1Ni1feXc",
   "https://www.washingtonexaminer.com/?p=4718773",
   "CBMiswFBVV95cUxPYXo0TE8tLVZ2VzF0TjRlTFJBbEZIRDVqWndXMTNMb0VlT1lxd1JBMEdpNGJmaVE2a2Q2emtmTUZ2NVdvOUloVEdrdnVrOVRnSTRWbmd4MGNSUzFXR3JUR0o5ZHloaU5JRzd5TVNtenpjd3ZBNk5aZU9ubVE5aTRlTUtFM0M1dWFCUGVZcEp0b01SejVmS0p4Z2RHV2YyRm1PQUR0UzUxeUtJM2NmQzJVdTVsRQ",
   "CBMipgFBVV95cUxNQ2tNYkJKQXBwZUJKalR3aS1helBwN002V3RMclFKdzRhcHViSUdpb1VOdTE0cHZYWlRqUkhBOEhSY01oV3IwelJhYlg4VnkxcFVYdU9iM2phVTlsUVFDYUFsVWl0dU85NzlSUENSQTYyeUtJTmZKT25HTE5BRkxNLVZjTXVyaFNlUjJKbXNkQWRLQWpyMUxiQUV3MmgtN0FBVVlWcWxB",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
   "CBMilgFBVV95cUxPbnV2QWZzNUNIR09FaDEtTFBwU0g2SmZwZ0U3YVNNd0kyVGFQTDFLU2Y1T1FSOUFnSVNHNmtoc2hCYklVeHg4QVJ0UDJPRndqZVBiV3h1U3ZsZmpRQzdELWdMejhzazZMenlmT3FrdkVaM0dBRlBieGRlWG1DRDVnOTB0bjhiT3ppNzZSaWFwc2tGMU83U2c",
   "CBMisgFBVV95cUxNaTZVb3hzWXBQeHRhaVVONlNmN1hHZXpwWVl2c085NnlhWlVwaFNvd2pFclRpZDhvTWd1aDhpU0N3cFd3LWxCb01SQnY0MHUzMnpPZHRTd2xvRUFkOUQyUnBlZ0lSemNjQXhQM0dVYnZFX3NfTnA0ZjEyTmZhNUZUNXI4Rk1rVFFvQjlrMVBJSEo5TTgyVHYtQWFfOWNwY2RSekdpZ0prUHRXOTZUc2lCUkhn",
-  "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine"
+  "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
+  "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa"
  ],
  "posts": [
-  {
-   "fp": "begins congo ebola epicenter health outbreak vaccinations workers",
-   "title": "Congo begins Ebola vaccinations for health workers in the epicenter of the outbreak",
-   "source": "AP",
-   "at": "2026-09-19T18:50:05.415687+00:00"
-  },
   {
    "fp": "governor nearly ohio poll races senate tied",
    "title": "Ohio governor, Senate races nearly tied: Poll",
@@ -3201,10 +3195,15 @@
    "title": "Russian strike on Kyiv\u2019s science academy kills at least one in latest daytime attack",
    "source": "Guardian World",
    "at": "2026-09-28T16:47:03.609939+00:00"
+  },
+  {
+   "fp": "launches mission orbital spacex starship texas",
+   "title": "SpaceX's Starship launches on first orbital mission from Texas",
+   "source": "NPR News",
+   "at": "2026-09-28T18:32:55.331841+00:00"
   }
  ],
  "titles": [
-  "begins congo ebola epicenter health outbreak vaccinations workers",
   "governor nearly ohio poll races senate tied",
   "continues down shock stocks yield",
   "election freeze putin time trying",
@@ -3603,6 +3602,7 @@
   "about appearance beaten death ebola outbreak politician radio",
   "airbase attack fairford know plot suspected used",
   "attack egypt impending israel netanyahu warned",
-  "academy attack daytime kills kyiv latest least russian science strike"
+  "academy attack daytime kills kyiv latest least russian science strike",
+  "launches mission orbital spacex starship texas"
  ]
 }
