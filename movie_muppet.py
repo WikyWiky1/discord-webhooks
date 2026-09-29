@@ -2,7 +2,9 @@
 """
 Movie Muppet — Discord Webhook Bot
 ===================================
-Fires every Saturday ~11:30 AM CST/CDT with a random movie suggestion.
+Fires every Saturday (from 8 AM CST/CDT onward) with a random movie suggestion.
+If GitHub drops or delays the Saturday runs, catch-up runs post it later —
+late is better than never. Only ONE post per week, ever.
 
 Sources:
   1. TMDB live discovery — filtered to what's actually streaming on
@@ -29,6 +31,7 @@ import json
 import os
 import random
 import sys
+import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -54,13 +57,18 @@ BOT_NAME = "Movie Muppet"
 # NOTE: No avatar_url is sent in the payload — that lets the webhook use the
 # name and avatar you configured on the Discord side. Change them there, not here.
 
-# Fire window (local Chicago time) — wide enough to absorb GitHub Actions delay
+# Weekly fire slot (local Chicago time). Any run at/after this slot posts,
+# as long as nothing has been posted since the slot. There is NO end to the
+# window — if every Saturday run gets dropped, the next run that makes it
+# through (Sunday, Monday, ...) posts instead, until the next Saturday slot.
 FIRE_WEEKDAY = 5      # 0=Mon ... 5=Sat
-FIRE_HOUR_MIN = 11
-FIRE_HOUR_MAX = 13
+FIRE_HOUR = 8         # 8:00 AM CT — earliest a weekly post can go out
 
 # Chance the pick comes from live TMDB streaming data vs. the curated list
 TMDB_PICK_CHANCE = 0.55
+
+# Discord webhook retry (rate limits / Discord hiccups)
+WEBHOOK_ATTEMPTS = 3
 
 # ── TMDB constants ────────────────────────────────────────────────────
 TMDB_BASE = "https://api.themoviedb.org/3"
@@ -119,6 +127,8 @@ HEAVY_HITTER_BLOCKLIST = {
 
 # ══════════════════════════════════════════════════════════════════════
 #  CURATED FALLBACK POOL  (title, year, poster_url | None)
+#  Poster paths here are only a fallback — when TMDB_API_KEY is set, the
+#  live TMDB poster is always preferred (some hardcoded paths are stale).
 # ══════════════════════════════════════════════════════════════════════
 
 CURATED = [
@@ -219,7 +229,7 @@ CURATED = [
     ("Suspiria", 1977, "/nRHAlGXWTVQoLXXMFYPMKqzLc8O.jpg"),
     ("Scream", 1996, "/aYN4OF7AFLMPOb8EMJMD9bFsVE4.jpg"),
     ("Saw", 2004, "/i4OnoB5BhxBE11K0S3M2VoJhGC7.jpg"),
-    ("The Descent", 2005, "/eiPjOsHvRAXWLb3EEBrCq2SB4Ux.jpg"),
+    ("The Descent", 2005, None),  # old path duplicated Commando's poster
     ("Insidious", 2010, "/7bXFWmDJDmJlHHCe6IaODFTkzLY.jpg"),
     ("Sinister", 2012, "/6I9k6qWFPrgkp3HgbZf7OijJCqA.jpg"),
     ("The Conjuring", 2013, "/wVYREutTvI2tmxr6ujrHT704wGF.jpg"),
@@ -261,6 +271,15 @@ INTROS = [
     "Time to dim the lights and question your life choices.",
     "Fresh outta the barrel. Enjoy.",
     "Don't fight it. Just press play.",
+]
+
+# Used when a catch-up run posts on a day other than Saturday
+LATE_INTROS = [
+    "The Muppet overslept. Here's this week's pick anyway.",
+    "Fashionably late, but the pick still stands.",
+    "Better late than never. Movie night is back on.",
+    "Saturday got away from us. Any night works.",
+    "Delayed by the cinema gods, delivered by the Muppet.",
 ]
 
 OUTROS = [
@@ -328,59 +347,63 @@ def tmdb_discover(seen: set[str]) -> dict | None:
     genre_name, genre_id = weighted_genre()
     provider_ids = "|".join(str(p) for p in PROVIDERS)
 
-    # Rotate through pages so we don't always see the same top-20
-    page = random.randint(1, 5)
+    # Rotate through pages so we don't always see the same top-20.
+    # Falls back to page 1 if the random page comes back empty/exhausted.
+    first_page = random.randint(1, 5)
+    pages = [first_page] if first_page == 1 else [first_page, 1]
 
-    params = {
-        "api_key": TMDB_API_KEY,
-        "language": "en-US",
-        "region": "US",
-        "watch_region": "US",
-        "with_watch_providers": provider_ids,
-        "with_watch_monetization_types": "flatrate|free|ads",
-        "with_genres": genre_id,
-        "sort_by": "popularity.desc",
-        "vote_count.gte": 120,
-        "vote_average.gte": 5.5,
-        "include_adult": "false",
-        "page": page,
-    }
-
-    try:
-        r = requests.get(f"{TMDB_BASE}/discover/movie", params=params, timeout=20)
-        r.raise_for_status()
-        results = r.json().get("results", [])
-    except (requests.RequestException, ValueError) as exc:
-        print(f"[Movie Muppet] ⚠️  TMDB discover failed: {exc}")
-        return None
-
-    random.shuffle(results)
-
-    for m in results:
-        title = (m.get("title") or "").strip()
-        if not title:
-            continue
-        if title.lower() in HEAVY_HITTER_BLOCKLIST:
-            continue
-
-        release = m.get("release_date") or ""
-        year = release[:4] if len(release) >= 4 else "????"
-
-        if norm_key(title, year) in seen:
-            continue
-
-        return {
-            "title": title,
-            "year": year,
-            "poster": f"{TMDB_IMG}{m['poster_path']}" if m.get("poster_path") else None,
-            "overview": (m.get("overview") or "").strip(),
-            "rating": m.get("vote_average"),
-            "tmdb_id": m.get("id"),
-            "genre": genre_name,
-            "source": "tmdb",
+    for page in pages:
+        params = {
+            "api_key": TMDB_API_KEY,
+            "language": "en-US",
+            "region": "US",
+            "watch_region": "US",
+            "with_watch_providers": provider_ids,
+            "with_watch_monetization_types": "flatrate|free|ads",
+            "with_genres": genre_id,
+            "sort_by": "popularity.desc",
+            "vote_count.gte": 120,
+            "vote_average.gte": 5.5,
+            "include_adult": "false",
+            "page": page,
         }
 
-    print(f"[Movie Muppet] ℹ️  TMDB page {page} ({genre_name}) had no unseen titles.")
+        try:
+            r = requests.get(f"{TMDB_BASE}/discover/movie", params=params, timeout=20)
+            r.raise_for_status()
+            results = r.json().get("results", [])
+        except (requests.RequestException, ValueError) as exc:
+            print(f"[Movie Muppet] ⚠️  TMDB discover failed: {exc}")
+            return None
+
+        random.shuffle(results)
+
+        for m in results:
+            title = (m.get("title") or "").strip()
+            if not title:
+                continue
+            if title.lower() in HEAVY_HITTER_BLOCKLIST:
+                continue
+
+            release = m.get("release_date") or ""
+            year = release[:4] if len(release) >= 4 else "????"
+
+            if norm_key(title, year) in seen:
+                continue
+
+            return {
+                "title": title,
+                "year": year,
+                "poster": f"{TMDB_IMG}{m['poster_path']}" if m.get("poster_path") else None,
+                "overview": (m.get("overview") or "").strip(),
+                "rating": m.get("vote_average"),
+                "tmdb_id": m.get("id"),
+                "genre": genre_name,
+                "source": "tmdb",
+            }
+
+        print(f"[Movie Muppet] ℹ️  TMDB page {page} ({genre_name}) had no unseen titles.")
+
     return None
 
 
@@ -486,9 +509,9 @@ def choose_movie(history: dict) -> tuple[dict | None, dict]:
 #  DISCORD EMBED
 # ══════════════════════════════════════════════════════════════════════
 
-def build_payload(movie: dict) -> dict:
+def build_payload(movie: dict, late: bool = False) -> dict:
     emoji = random.choice(EMOJIS)
-    intro = random.choice(INTROS)
+    intro = random.choice(LATE_INTROS if late else INTROS)
     outro = random.choice(OUTROS)
 
     title = movie["title"]
@@ -498,14 +521,15 @@ def build_payload(movie: dict) -> dict:
     rating = movie["rating"]
     tmdb_id = movie["tmdb_id"]
 
-    # Enrich curated picks with live TMDB data when possible
+    # Enrich curated picks with live TMDB data when possible.
+    # The live poster always wins over the hardcoded fallback path.
     if movie["source"] == "curated" and TMDB_API_KEY:
         hit = tmdb_lookup(title, year)
         if hit:
             tmdb_id = hit.get("id")
             rating = hit.get("vote_average")
             overview = (hit.get("overview") or "").strip()
-            if not poster and hit.get("poster_path"):
+            if hit.get("poster_path"):
                 poster = f"{TMDB_IMG}{hit['poster_path']}"
 
     providers = tmdb_watch_providers(tmdb_id) if tmdb_id else []
@@ -560,25 +584,46 @@ def build_payload(movie: dict) -> dict:
 
 
 def fire_webhook(payload: dict) -> bool:
+    """POST to Discord, retrying on rate limits (429) and Discord 5xx errors."""
     if not WEBHOOK_URL:
         print("[Movie Muppet] ❌  MOVIE_MUPPET_WEBHOOK is not set.")
         return False
-    try:
-        r = requests.post(
-            WEBHOOK_URL,
-            data=json.dumps(payload),
-            headers={"Content-Type": "application/json"},
-            timeout=20,
-        )
-    except requests.RequestException as exc:
-        print(f"[Movie Muppet] ❌  Request failed: {exc}")
+
+    for attempt in range(1, WEBHOOK_ATTEMPTS + 1):
+        try:
+            r = requests.post(
+                WEBHOOK_URL,
+                data=json.dumps(payload),
+                headers={"Content-Type": "application/json"},
+                timeout=20,
+            )
+        except requests.RequestException as exc:
+            print(f"[Movie Muppet] ⚠️  Request failed (attempt {attempt}): {exc}")
+            time.sleep(5 * attempt)
+            continue
+
+        if r.status_code in (200, 204):
+            print("[Movie Muppet] ✅  Webhook fired successfully.")
+            return True
+
+        if r.status_code == 429 or r.status_code >= 500:
+            wait = 5 * attempt
+            try:
+                wait = max(wait, float(r.json().get("retry_after", 0)))
+            except ValueError:
+                pass
+            print(
+                f"[Movie Muppet] ⚠️  Discord returned {r.status_code} "
+                f"(attempt {attempt}); retrying in {wait:.0f}s."
+            )
+            time.sleep(min(wait, 60))
+            continue
+
+        # 4xx other than 429 = webhook is broken (deleted/regenerated/bad payload)
+        print(f"[Movie Muppet] ❌  Discord returned {r.status_code}: {r.text[:400]}")
         return False
 
-    if r.status_code in (200, 204):
-        print("[Movie Muppet] ✅  Webhook fired successfully.")
-        return True
-
-    print(f"[Movie Muppet] ❌  Discord returned {r.status_code}: {r.text[:400]}")
+    print(f"[Movie Muppet] ❌  Gave up after {WEBHOOK_ATTEMPTS} attempts.")
     return False
 
 
@@ -586,24 +631,41 @@ def fire_webhook(payload: dict) -> bool:
 #  SCHEDULE GATE
 # ══════════════════════════════════════════════════════════════════════
 
+def current_slot(now: datetime) -> datetime:
+    """This week's Saturday fire slot (the most recent Saturday at FIRE_HOUR)."""
+    days_since = (now.weekday() - FIRE_WEEKDAY) % 7
+    return (now - timedelta(days=days_since)).replace(
+        hour=FIRE_HOUR, minute=0, second=0, microsecond=0
+    )
+
+
 def should_fire(history: dict) -> bool:
+    """
+    Post once per week. Any run at/after Saturday's slot fires if nothing has
+    been posted since that slot — so a dropped or delayed Saturday run simply
+    gets picked up by the next run that makes it through.
+    """
     now = datetime.now(TIMEZONE)
-    today = now.strftime("%Y-%m-%d")
+    slot = current_slot(now)
 
-    if history.get("last_run_date") == today:
-        print(f"[Movie Muppet] ⏭️  Already fired today ({today}). Skipping.")
-        return False
-
-    if now.weekday() != FIRE_WEEKDAY:
-        print(f"[Movie Muppet] ⏳  Not Saturday (it's {now.strftime('%A')}). Skipping.")
-        return False
-
-    if not (FIRE_HOUR_MIN <= now.hour <= FIRE_HOUR_MAX):
+    if now < slot:
         print(
-            f"[Movie Muppet] ⏳  Outside fire window "
-            f"(local time {now.strftime('%H:%M')} CT). Skipping."
+            f"[Movie Muppet] ⏳  Too early — this week's slot opens at "
+            f"{FIRE_HOUR}:00 CT (local time {now.strftime('%H:%M')} CT). Skipping."
         )
         return False
+
+    slot_date = slot.strftime("%Y-%m-%d")
+    last = history.get("last_run_date")
+    if last and last >= slot_date:
+        print(f"[Movie Muppet] ⏭️  Already posted this week ({last}). Skipping.")
+        return False
+
+    if now.date() != slot.date():
+        print(
+            f"[Movie Muppet] 🩹  Catch-up run — Saturday's post never went out. "
+            f"Posting now ({now.strftime('%A %H:%M')} CT)."
+        )
 
     return True
 
@@ -631,6 +693,9 @@ def main() -> int:
     if forced:
         print("[Movie Muppet] 🚀  Manual trigger — firing now.")
 
+    now = datetime.now(TIMEZONE)
+    late = not forced and now.weekday() != FIRE_WEEKDAY
+
     movie, history = choose_movie(history)
 
     if not movie:
@@ -644,7 +709,7 @@ def main() -> int:
         + "]"
     )
 
-    payload = build_payload(movie)
+    payload = build_payload(movie, late=late)
 
     if not fire_webhook(payload):
         return 1
