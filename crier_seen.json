@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMirAFBVV95cUxPaFlybEpEZWtDbThQdk9OMFR0bFA0dmZtcUZLSEo2a0djT2xmanVSRlFRWVBRelg3dEUxTUJ1VW5zSWpFZDhGVzJHQWtxS2JkNm9XQUFFSUVTZjRDVTZ4RWd2YzZZZmZYNVAzOGdLWE9ZUzFBb0VKMXRTVXVtdjIyRFlORkZvaUc0ODBxcWRuVDhOTjc0WmdWamtZcmRPQmZoUi1jTmYxa0o4UUtD",
   "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo#0",
   "CBMilgFBVV95cUxNTXFjaTAzbzF5OENhS0txZjFxd1dGYXJkT1h2V3ZnR3EtMi11Zk45YWZ0eXFhWmo2NmticUpJM3lqdnZ3WWtwcE51NEF0c2J2VzNuMmVONGxGVVNCbUU1b0hsNTlDYWctb1NlU1dRdFhKb2hPb2UxenZUZFMwNkxzRDF2SmtMYXpxRy1FdWthUkkzWkJRaXc",
   "https://www.washingtonexaminer.com/?p=4717509",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6116146",
   "https://nypost.com/?post_type=article&p=41039067",
   "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine",
-  "CBMiswFBVV95cUxNRnljY3F2dGI0ZVBVcVFxVmVjZDJDYzlHWHU3N1pTdF90cVNGODhWYlJ3LXpfVDUtOXNvRnJuX2JhUjJaV0lkN0NMMjlQMUNNVVBQbXZDRkc4LVBRZnQ2MXg1dC05YWxGaGJFTTBSZUt5anVSUjJCcjNyZmg5dmU2RVpMcmw5SFktUFppblVVMVNYSExDVWJSRUJETHVYTElYdGNMeGxGRktNNE5ZdzczOWtoSQ"
+  "CBMiswFBVV95cUxNRnljY3F2dGI0ZVBVcVFxVmVjZDJDYzlHWHU3N1pTdF90cVNGODhWYlJ3LXpfVDUtOXNvRnJuX2JhUjJaV0lkN0NMMjlQMUNNVVBQbXZDRkc4LVBRZnQ2MXg1dC05YWxGaGJFTTBSZUt5anVSUjJCcjNyZmg5dmU2RVpMcmw5SFktUFppblVVMVNYSExDVWJSRUJETHVYTElYdGNMeGxGRktNNE5ZdzczOWtoSQ",
+  "CBMiqgFBVV95cUxPbHg0MGZvUkU3a2FULXNNc1pDUkE5VTZaZFptZ0R0dHhoc29SbmotRkg5SndfWk1rcy1hbzAxY2VKbDhzUVIxUlpoaVZCU0MwYmRub0FGR1VOaHpjaXBxTmhPcnJ5MDJUOExCTE56X3h6aDVRR2FRN1V1VWRJMmNnYTNBOXhxVjlJd1hHbnZfVWo1Rk55d04xM1FGOTdfbU1BVmZHYVgyb0tYUQ"
  ],
  "posts": [
-  {
-   "fp": "choice designed horse kill school state tests trojan",
-   "title": "State tests are a Trojan horse designed to kill school choice",
-   "source": "Washington Examiner",
-   "at": "2026-09-20T15:12:46.851457+00:00"
-  },
   {
    "fp": "attack drone houthis moscow podcast saudi sheeran target",
    "title": "PODCAST: Houthis target Saudi, Moscow drone attack and Ed Sheeran",
@@ -3201,10 +3195,15 @@
    "title": "Hurricane Polo makes landfall in Baja California with forecast of \u2018life-threatening\u2019 winds",
    "source": "AP",
    "at": "2026-09-29T15:03:56.496130+00:00"
+  },
+  {
+   "fp": "2027 budget documents exclusive military raises russia show spending",
+   "title": "EXCLUSIVE: Russia raises 2027 military spending by 27%, budget documents show",
+   "source": "Reuters World",
+   "at": "2026-09-29T16:50:37.741746+00:00"
   }
  ],
  "titles": [
-  "choice designed horse kill school state tests trojan",
   "attack drone houthis moscow podcast saudi sheeran target",
   "bank dead gunman israeli kill motorist palestinian shoots soldiers west",
   "eyes forms hurricane odalys shore storm strength tropical",
@@ -3603,6 +3602,7 @@
   "back challengers court repeat rinse take tariff trump",
   "airport bangkok chaos dead floods least thailand",
   "arson attack blames drone estonia maker russia supplying ukraine",
-  "baja california forecast hurricane landfall life makes polo threatening winds"
+  "baja california forecast hurricane landfall life makes polo threatening winds",
+  "2027 budget documents exclusive military raises russia show spending"
  ]
 }
