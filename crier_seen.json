@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40784934",
-  "https://www.washingtonexaminer.com/?p=4718803",
-  "CBMiyAFBVV95cUxNb0hxYi1hRXRlN01ldlJFSmk4ZDVnS1c0NE8xMm5PWXJFT3Vpd2prTWI4TGl5UTd6c1JKS24xVXpvOGpRY1VsYUUxQVk0TDVmNElEMUxLYnB4c2NfUWxmQWN0N21LWUY1TkZNc1pQWHczRUdhYTVJbEpiZXZPVi16SnZCdVN5eWotZ2dJaGt3UkNFdGF2NzUtTTFMU1dsR2EzcEpiQVRvRFFmaE1HdWZXSko1bVl3d2YyTGZPRUpGTEE5MW92SjJJNA",
   "CBMirAFBVV95cUxPaFlybEpEZWtDbThQdk9OMFR0bFA0dmZtcUZLSEo2a0djT2xmanVSRlFRWVBRelg3dEUxTUJ1VW5zSWpFZDhGVzJHQWtxS2JkNm9XQUFFSUVTZjRDVTZ4RWd2YzZZZmZYNVAzOGdLWE9ZUzFBb0VKMXRTVXVtdjIyRFlORkZvaUc0ODBxcWRuVDhOTjc0WmdWamtZcmRPQmZoUi1jTmYxa0o4UUtD",
   "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo#0",
   "CBMilgFBVV95cUxNTXFjaTAzbzF5OENhS0txZjFxd1dGYXJkT1h2V3ZnR3EtMi11Zk45YWZ0eXFhWmo2NmticUpJM3lqdnZ3WWtwcE51NEF0c2J2VzNuMmVONGxGVVNCbUU1b0hsNTlDYWctb1NlU1dRdFhKb2hPb2UxenZUZFMwNkxzRDF2SmtMYXpxRy1FdWthUkkzWkJRaXc",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/sport/2026/sep/29/senate-passes-bipartisan-protect-college-sports-act-amid-chaos-in-industry",
   "CBMizgFBVV95cUxPVG5vYVlQYmlYam04bTNfSlhBTW1fLVBOVXkwXzBIS3BCYXRBUnZOM05NUVE5dk1aU2tQYmNnTkZWa2l1U0dNNVBINGF1NkpTQjBfQzVseDRCakFkeGs5XzYtMVFtMzFZZXFESmtZR0F3dDN3VTJZNEE0aHAwOWpUVUlqZEMzQ2packNhMkFMNTJEYnJNZ2pfNWszOWw3NFBhSDM1STZOQ1NuY2g5bGhxM3BwTW1BT0dGY1c2dkw5a1ZxVEdickVlU2ZfMmtRUQ",
   "CBMikAFBVV95cUxOa3RNMzdiSWhXMF9NS2ljVHVIVG55RER4LUxseWpGT2IxOG1QeFQ0a1VSb0xiSGI2WG16Mkh2YkRFRlp5N0JSa2dhbTNGUnpqYkdtNnJTSG4yWlgxNzdWNEZvellubUZWQUhVS0lYZTZta05TNEFxTUhiTE53dXBJcjNxTmkxaEJGOW1yandQcHQ",
-  "https://thehill.com/?p=6116146"
+  "https://thehill.com/?p=6116146",
+  "https://nypost.com/?post_type=article&p=41039067",
+  "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine",
+  "CBMiswFBVV95cUxNRnljY3F2dGI0ZVBVcVFxVmVjZDJDYzlHWHU3N1pTdF90cVNGODhWYlJ3LXpfVDUtOXNvRnJuX2JhUjJaV0lkN0NMMjlQMUNNVVBQbXZDRkc4LVBRZnQ2MXg1dC05YWxGaGJFTTBSZUt5anVSUjJCcjNyZmg5dmU2RVpMcmw5SFktUFppblVVMVNYSExDVWJSRUJETHVYTElYdGNMeGxGRktNNE5ZdzczOWtoSQ"
  ],
  "posts": [
-  {
-   "fp": "dead found lions poisoning reserve suspected tanzania wildlife",
-   "title": "Ten lions found dead in suspected poisoning at Tanzania wildlife reserve",
-   "source": "Reuters World",
-   "at": "2026-09-20T11:46:20.569753+00:00"
-  },
-  {
-   "fp": "aviation document exclusive finance iran nuclear plan reveals russian spanning sweeping",
-   "title": "EXCLUSIVE: Russian document reveals sweeping Iran plan spanning nuclear, finance and aviation",
-   "source": "Fox News World",
-   "at": "2026-09-20T11:46:22.356580+00:00"
-  },
-  {
-   "fp": "brains every happened paste people tablespoons tomato",
-   "title": "What happened to people\u2019s brains when they ate 2 tablespoons of tomato paste every day",
-   "source": "New York Post",
-   "at": "2026-09-20T14:37:44.352731+00:00"
-  },
   {
    "fp": "choice designed horse kill school state tests trojan",
    "title": "State tests are a Trojan horse designed to kill school choice",
@@ -3201,12 +3183,27 @@
    "title": "Tariff challengers take Trump back to court: 'Rinse and repeat'",
    "source": "The Hill",
    "at": "2026-09-29T12:13:58.191535+00:00"
+  },
+  {
+   "fp": "airport bangkok chaos dead floods least thailand",
+   "title": "At least 23 dead in Thailand floods, Bangkok airport in chaos",
+   "source": "New York Post",
+   "at": "2026-09-29T15:03:52.882020+00:00"
+  },
+  {
+   "fp": "arson attack blames drone estonia maker russia supplying ukraine",
+   "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
+   "source": "Guardian World",
+   "at": "2026-09-29T15:03:54.719301+00:00"
+  },
+  {
+   "fp": "baja california forecast hurricane landfall life makes polo threatening winds",
+   "title": "Hurricane Polo makes landfall in Baja California with forecast of \u2018life-threatening\u2019 winds",
+   "source": "AP",
+   "at": "2026-09-29T15:03:56.496130+00:00"
   }
  ],
  "titles": [
-  "dead found lions poisoning reserve suspected tanzania wildlife",
-  "aviation document exclusive finance iran nuclear plan reveals russian spanning sweeping",
-  "brains every happened paste people tablespoons tomato",
   "choice designed horse kill school state tests trojan",
   "attack drone houthis moscow podcast saudi sheeran target",
   "bank dead gunman israeli kill motorist palestinian shoots soldiers west",
@@ -3603,6 +3600,9 @@
   "bipartisan chaos college industry passes protect senate sports",
   "engine failure impact mission moon nasa objectives spacex starship",
   "dips global mixed prices shares stabilize street wall",
-  "back challengers court repeat rinse take tariff trump"
+  "back challengers court repeat rinse take tariff trump",
+  "airport bangkok chaos dead floods least thailand",
+  "arson attack blames drone estonia maker russia supplying ukraine",
+  "baja california forecast hurricane landfall life makes polo threatening winds"
  ]
 }
