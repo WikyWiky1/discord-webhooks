@@ -71,10 +71,8 @@ BIRTHDAYS = [
     {"name": "Hommiefunny",  "date": "01/01", "note": "Another beautiful mystery! January 1st it is. Sharing an adopted birthday with Mox feels exactly right. 🌟"},
 
     {"name": "Spartan",      "date": "10/31", "note": "A Halloween birthday is objectively elite. Caked up WITH candy. 🎃"},
-    {"name": "Mahogany",     "date": "06/09"},
     {"name": "zafguy",       "date": "01/09", "note": "Hope you get a day that's chill, fun, and exactly what you need. Wishing you a great year ahead."},
     {"name": "Wizurd",       "date": "12/25", "note": "A Christmas birthday! Double the celebration, and you deserve every bit of it. 🎄"},
-    {"name": "Seanuh",       "date": "10/30"},
     {"name": "Kahl",         "date": "12/05", "note": "Sir, a second birthday has hit the tower."},
 ]
 
