@@ -2,14 +2,18 @@ name: Movie Muppet
 
 on:
   schedule:
-    # GitHub Actions cron is ALWAYS UTC.
-    # Saturday 11:30 AM Chicago time:
-    #   CDT (Mar–Nov, UTC-5)  ->  16:30 UTC
-    #   CST (Nov–Mar, UTC-6)  ->  17:30 UTC
-    # Both are scheduled; the script's timezone gate + last_run_date guard
-    # ensure it only actually posts once per Saturday.
-    - cron: '30 16 * * 6'
-    - cron: '30 17 * * 6'
+    # GitHub Actions cron is ALWAYS UTC, and scheduled runs are best-effort:
+    # they're routinely delayed by hours (Sep 26: 11:30 run started at 2:17 PM)
+    # or dropped entirely. So we take MANY shots — the script's gate and
+    # last_run_date guard guarantee only ONE post per week no matter how many run.
+    #
+    # Saturday, hourly from 13:17 UTC:
+    #   CDT (UTC-5): 8:17 AM -> 6:17 PM      CST (UTC-6): 7:17 AM -> 5:17 PM
+    # (A CST 7:17 AM run is before the 8 AM slot and just skips.)
+    - cron: '17 13-23 * * 6'
+    # Catch-up, once a day Sunday–Friday (~10–11 AM CT). Only posts if
+    # every Saturday run was dropped — late is better than never.
+    - cron: '17 16 * * 0-5'
 
   # Manual "Suggest" button — Actions tab -> Movie Muppet -> Run workflow
   workflow_dispatch:
@@ -68,6 +72,11 @@ jobs:
           else
             echo "✅ No avatar_url in payload — Discord's own avatar will be used."
           fi
+          if grep -q 'FIRE_HOUR_MAX' movie_muppet.py; then
+            echo "⚠️  WARNING: OLD time-window gate still deployed — late runs will be skipped."
+          else
+            echo "✅ Catch-up gate deployed."
+          fi
 
       - name: Run Movie Muppet
         env:
@@ -76,16 +85,31 @@ jobs:
           FORCE_SUGGEST: ${{ github.event_name == 'workflow_dispatch' && inputs.force || 'false' }}
         run: python movie_muppet.py
 
+      # Retries the pull/push because the other bots in this repo commit state
+      # every few minutes. If this push were lost, last_run_date would be lost,
+      # and the next hourly run would post a SECOND movie the same weekend.
       - name: Commit updated history
         run: |
-          if [[ -n "$(git status --porcelain movie_history.json)" ]]; then
-            git config user.name  "movie-muppet[bot]"
-            git config user.email "movie-muppet[bot]@users.noreply.github.com"
-            git add movie_history.json
-            git commit -m "🎬 Movie Muppet: update watch history [skip ci]"
-            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
-            git push origin "HEAD:${GITHUB_REF_NAME}"
-            echo "✅ History committed."
-          else
+          if [[ -z "$(git status --porcelain movie_history.json)" ]]; then
             echo "ℹ️ No history changes to commit."
+            exit 0
           fi
+
+          git config user.name  "movie-muppet[bot]"
+          git config user.email "movie-muppet[bot]@users.noreply.github.com"
+          git add movie_history.json
+          git commit -m "🎬 Movie Muppet: update watch history [skip ci]"
+
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" \
+               && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "✅ History committed (attempt ${attempt})."
+              exit 0
+            fi
+            echo "⚠️ Push attempt ${attempt} failed — retrying..."
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+
+          echo "❌ Could not push history after 5 attempts."
+          exit 1
