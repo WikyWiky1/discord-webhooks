@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo#0",
-  "CBMilgFBVV95cUxNTXFjaTAzbzF5OENhS0txZjFxd1dGYXJkT1h2V3ZnR3EtMi11Zk45YWZ0eXFhWmo2NmticUpJM3lqdnZ3WWtwcE51NEF0c2J2VzNuMmVONGxGVVNCbUU1b0hsNTlDYWctb1NlU1dRdFhKb2hPb2UxenZUZFMwNkxzRDF2SmtMYXpxRy1FdWthUkkzWkJRaXc",
-  "https://www.washingtonexaminer.com/?p=4717509",
-  "https://www.theguardian.com/australia-news/2026/sep/12/dementia-patients-warned-applying-algorithm-aged-care-funding",
-  "CBMiYkFVX3lxTE5LdGN5d0RuV2FJZnlUdHJHNUxqcGxSTFd4R3BrdFVhelhEYU5oaVhocEZqZ3lHRVhOdVRkWnU1OTRMTi0zOExSUTdLLXdEeVJ3ZlBhSExCSFZiVmtXRVBWdW1B",
-  "https://nypost.com/?post_type=article&p=40769290",
   "CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045",
   "CBMilAFBVV95cUxQMmtydk5pTmlvb1R5TklLWGJ4MG1PRjN0amoteHNYRkl0TUZDM2VqV1BLeFhqcmlleDBJNjlNcG9EbU1ha3VxVkZtaXZDUTFlemxhVWdGYnFaaERyb0xZVFdzT0tHa29NbGhUYjRlNW93MEtvd3FZekJWOXcyYl9qR0JSc3NhUHpjYVZBV29vT21TTXJP",
   "https://www.bbc.co.uk/news/articles/c33kp533nn6o#0",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=41039067",
   "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine",
   "CBMiswFBVV95cUxNRnljY3F2dGI0ZVBVcVFxVmVjZDJDYzlHWHU3N1pTdF90cVNGODhWYlJ3LXpfVDUtOXNvRnJuX2JhUjJaV0lkN0NMMjlQMUNNVVBQbXZDRkc4LVBRZnQ2MXg1dC05YWxGaGJFTTBSZUt5anVSUjJCcjNyZmg5dmU2RVpMcmw5SFktUFppblVVMVNYSExDVWJSRUJETHVYTElYdGNMeGxGRktNNE5ZdzczOWtoSQ",
-  "CBMiqgFBVV95cUxPbHg0MGZvUkU3a2FULXNNc1pDUkE5VTZaZFptZ0R0dHhoc29SbmotRkg5SndfWk1rcy1hbzAxY2VKbDhzUVIxUlpoaVZCU0MwYmRub0FGR1VOaHpjaXBxTmhPcnJ5MDJUOExCTE56X3h6aDVRR2FRN1V1VWRJMmNnYTNBOXhxVjlJd1hHbnZfVWo1Rk55d04xM1FGOTdfbU1BVmZHYVgyb0tYUQ"
+  "CBMiqgFBVV95cUxPbHg0MGZvUkU3a2FULXNNc1pDUkE5VTZaZFptZ0R0dHhoc29SbmotRkg5SndfWk1rcy1hbzAxY2VKbDhzUVIxUlpoaVZCU0MwYmRub0FGR1VOaHpjaXBxTmhPcnJ5MDJUOExCTE56X3h6aDVRR2FRN1V1VWRJMmNnYTNBOXhxVjlJd1hHbnZfVWo1Rk55d04xM1FGOTdfbU1BVmZHYVgyb0tYUQ",
+  "CBMirAFBVV95cUxOWWZ2NlJ3d0swV0JKWFhhREdzNmxnUlhaSlE0eFlrbUhBZ3RBMXhQeEJSS1JCTnR2UV82cTA4YW4yUDR5YnNUd1FmN2M1Z1liMWhfNEJOUnFMLVYtTzFCMjFSTWJuaWlhUFdHc3lLVE9tMHZUWkRldzJXaFd3SDdqX1NIOXJxRTBFZF9FT1Fvalg1b25FWm1RVEYySkUzZS1nNHItOXMtVUVTQjVt",
+  "https://thehill.com/?p=6116612",
+  "https://thehill.com/?p=6118418",
+  "CBMimAFBVV95cUxPTFJEWUpuTldVdUVyQ1hEajlmMXJ6T2JfQnJjZkplSW03Y2ZENlhTYjRuczh4cU9kX2lobzc3dU1ENENfS0R2U0VWR3lwVUNCaFh4Tm14YTBjOWJCbDFhZ0VZWUdSQUx5NnQzQlkzTmVJS0xoNGVMaW80bGhCRTU1UU0zSjdGQ1Y5dFNlRTdlMlFrM2NCdkNqdA",
+  "https://www.washingtonexaminer.com/?p=4747077",
+  "CBMivgFBVV95cUxPREhyTmwyTVctRWRwWjJyd3hDbmlZdHNXeW9IUzFGR2ItR051WVRCMFNMMHZsVzV1Ry1TWFotTS1mY0lwUkdhdWRqY3AxTXZBQzlhSndYTkRxSlI5VmdEbGRhNWVPc3BxRFhFVXZieE16U3JXQ2ZKa1RISzdkODJBeG9zU2VBTkEwZUpyakhDcThHVnZYb3FxU0dObXFFM3NiN0kzOUt1X3diaEFvMWllRkk5WkxEQjFHUW81VGpn"
  ],
  "posts": [
-  {
-   "fp": "attack drone houthis moscow podcast saudi sheeran target",
-   "title": "PODCAST: Houthis target Saudi, Moscow drone attack and Ed Sheeran",
-   "source": "Reuters World",
-   "at": "2026-09-20T15:12:48.591564+00:00"
-  },
-  {
-   "fp": "bank dead gunman israeli kill motorist palestinian shoots soldiers west",
-   "title": "Palestinian gunman shoots dead Israeli in the West Bank, soldiers kill motorist",
-   "source": "Reuters",
-   "at": "2026-09-20T15:12:50.289227+00:00"
-  },
-  {
-   "fp": "eyes forms hurricane odalys shore storm strength tropical",
-   "title": "Far from shore, Tropical Storm Fay forms as Odalys eyes hurricane strength",
-   "source": "AP",
-   "at": "2026-09-20T15:12:52.017037+00:00"
-  },
-  {
-   "fp": "bank dead developments israeli mideast occupied other shot west",
-   "title": "An Israeli is shot dead in the occupied West Bank, and other Mideast developments",
-   "source": "AP",
-   "at": "2026-09-20T15:12:54.731866+00:00"
-  },
-  {
-   "fp": "faire main street wall wants",
-   "title": "Faire Won Over Main Street. Now it Wants to Woo Wall Street.",
-   "source": "WSJ",
-   "at": "2026-09-20T15:32:35.069887+00:00"
-  },
-  {
-   "fp": "blunt deal defying delivers greenland iran nations sanctions touts waltz warning",
-   "title": "Waltz delivers blunt warning to nations defying Iran sanctions, touts Greenland deal",
-   "source": "Fox News World",
-   "at": "2026-09-20T15:32:36.791921+00:00"
-  },
   {
    "fp": "drones election final hundreds moscow russian targets ukraine",
    "title": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
@@ -3201,15 +3165,45 @@
    "title": "EXCLUSIVE: Russia raises 2027 military spending by 27%, budget documents show",
    "source": "Reuters World",
    "at": "2026-09-29T16:50:37.741746+00:00"
+  },
+  {
+   "fp": "allegedly iran procuring sanctions weapons",
+   "title": "US sanctions 10 over allegedly procuring weapons for Iran",
+   "source": "Reuters",
+   "at": "2026-09-29T19:47:56.467063+00:00"
+  },
+  {
+   "fp": "country court deportations faces jack lets live resume scrutiny senate smith supreme third trump updates",
+   "title": "Live updates: Jack Smith faces Senate GOP scrutiny; Supreme Court lets Trump resume third-country deportations",
+   "source": "The Hill",
+   "at": "2026-09-29T19:47:58.162453+00:00"
+  },
+  {
+   "fp": "2020 confirms election lost trump website",
+   "title": "Trump's AI website confirms he lost 2020 election",
+   "source": "The Hill",
+   "at": "2026-09-29T19:47:59.910370+00:00"
+  },
+  {
+   "fp": "comments losses pare stocks williams",
+   "title": "U.S. Stocks Pare Losses After Comments From Fed\u2019s Williams",
+   "source": "WSJ",
+   "at": "2026-09-29T19:48:01.541761+00:00"
+  },
+  {
+   "fp": "about calls disbarred hawley hearing jack politics senate smith",
+   "title": "Hawley calls for Jack Smith to be disbarred during Senate hearing: \u2018All about politics from Day One\u2019",
+   "source": "Washington Examiner",
+   "at": "2026-09-29T19:48:04.265663+00:00"
+  },
+  {
+   "fp": "former jack prosecution prosecutor senate silenced smith tells threats trump",
+   "title": "Former Trump prosecutor Jack Smith tells Senate he won't be silenced by prosecution threats",
+   "source": "Reuters",
+   "at": "2026-09-29T19:48:05.912900+00:00"
   }
  ],
  "titles": [
-  "attack drone houthis moscow podcast saudi sheeran target",
-  "bank dead gunman israeli kill motorist palestinian shoots soldiers west",
-  "eyes forms hurricane odalys shore storm strength tropical",
-  "bank dead developments israeli mideast occupied other shot west",
-  "faire main street wall wants",
-  "blunt deal defying delivers greenland iran nations sanctions touts waltz warning",
   "drones election final hundreds moscow russian targets ukraine",
   "assured dominance election kremlin parliamentary russia wartime wraps",
   "away bank business drive miliband sanctions west",
@@ -3603,6 +3597,12 @@
   "airport bangkok chaos dead floods least thailand",
   "arson attack blames drone estonia maker russia supplying ukraine",
   "baja california forecast hurricane landfall life makes polo threatening winds",
-  "2027 budget documents exclusive military raises russia show spending"
+  "2027 budget documents exclusive military raises russia show spending",
+  "allegedly iran procuring sanctions weapons",
+  "country court deportations faces jack lets live resume scrutiny senate smith supreme third trump updates",
+  "2020 confirms election lost trump website",
+  "comments losses pare stocks williams",
+  "about calls disbarred hawley hearing jack politics senate smith",
+  "former jack prosecution prosecutor senate silenced smith tells threats trump"
  ]
 }
