@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMirwFBVV95cUxONEdJUjhTN0ZoaHN2R1U0eEZvV2pOb2tOTGVjX2NxbjF6RTg5SDFyLXRhVlF2enBCV2ctSXFjVEZaeXdqTjNSeXVjcEszem9kUTRxaFR1T0pUQ3M4aEVaT2NwMjl3WC1mbi01bTVIZmRMWXJSUml4X3QyM0tYamRXbDc2T3h3dG9JbGtZZHVyZVBRMTVvaHFSdGhCci1jLXBMTnRnYWlZNHRnTzRjTGMw",
-  "CBMiVkFVX3lxTE01dG5CT1RIVzhqSG1LVkZkNm5EZ01wVktrNlZvTzhRaTYtcWwwWlYwdVM3X2RwejR5alIzYTM2ZFF3dzJqelVYMGZWVW12U25FWE5Sd1l3",
   "CBMisgFBVV95cUxQZnVER1ZkMGJZRERjcmI4MDdhUE4tX29PYlEzTkt4cHFmOHpMVktaOXhQVVNsd21oNkplc2JUOWxaS3NmTmFJTVNpWW5ydnRVTll5dzljNlZPOVQtVHNzVmpmMVNPMTFBYVJCdFVwYW54RXd1ckJEVHlWcEQ1NHoyMWJDdHp6QmVPLWx4OElKVG44RVpfRVZhRG8zVng1V1BxOF9Nd3k1SmdsY2t0WFlYaXR3",
   "CBMioAFBVV95cUxQTURDbWQ0NHg2ZThPcVk0QmtxQm1UYXRXOGRZN25TUVFrQWV3bTJ3bjk0SERwaFh6a2pLTUJ1cElSVHU2VUt6N1NXVkNjQ0ZCTzIxdGpxQjhQRkhNYWU0NUxDclBFY3lKUDN6SXlUMHNrNHBhYXRqZnFMd2NHbldrQkdPT3dRRUpCVGV2MWVSVVNPVEFicGpOY0RBZ0lFUnpG",
   "CBMipAFBVV95cUxPd3lQSGIwQm5xNEg5N09uS1d3WmRtQnJKUWpubTZGOFV3OWpqMmlGWmY3am5KQXpXOEZxYWF5YUp1VzlGMXVNdFZNZTVRVjRnbUdqV3lhVkxFNVdGNEZuX3N4eEJ2TDJ5OC1mMGN1cUFKSW85dzdhSHNPc3lRTnYtbG9EM19nQ09EY2N2YmVjWTh6MzFYMFRveXhHRlQ5cFA3enJMTA",
@@ -799,21 +797,11 @@
   "CBMipgFBVV95cUxNV29vbG0yUWdGb0kyUHphcGM1cXpNbXFLUnRGRmhoTFJoNExkSlExQTJQYnMxeXZ2MHhKUU5xeExVRFB1Q2s4d1ZfTldKWEJ2THE4bWwzaTQ3V1B3U2FUXzFQOG9tdUR1Q2FZUGEyZ1JBTG9pdzlYbHByUmx5MVhPd3lORGJjVlI3SzJvbzBpNG90NEJMVDBMVEhVTEdMNWVpUDR6ZW1R",
   "CBMiqwFBVV95cUxOOTZqSEpHV3FnalBmU2lFRW9NcjdwNEd0Y211TFRXUGJBUS13aWZlTFNXRXVMSGdkSUFKOXRtTEl1RVlNcWVQenR6d0p0alRVMmgzdFhEQ1N6RlB0Q0xjZjNrOVBUMktxMVRTeTB2bWNYN0tOQkJQVDkzOW9HY2hlWUNqbTJka3VjeGxucThfTmw2LUpyMzctZ2RRdDh5aWVsQlEyTmFOZzNPakE",
   "https://news.sky.com/story/morocco-names-fatima-ezzahra-el-mansouri-as-first-female-prime-minister-after-historic-election-victory-13593473",
-  "https://www.washingtonexaminer.com/?p=4747351"
+  "https://www.washingtonexaminer.com/?p=4747351",
+  "https://nypost.com/?post_type=article&p=41056736",
+  "https://pagesix.com/?post_type=article&p=9209810"
  ],
  "posts": [
-  {
-   "fp": "disaster election germany leads merz postwar result rues state worst",
-   "title": "AfD leads as Merz rues 'disaster' in worst state election result in postwar Germany",
-   "source": "Reuters",
-   "at": "2026-09-20T23:01:45.991796+00:00"
-  },
-  {
-   "fp": "administration court criminal international prepares sanctions sources trump",
-   "title": "Trump administration prepares sanctions against International Criminal Court, sources say",
-   "source": "Reuters",
-   "at": "2026-09-20T23:01:47.984896+00:00"
-  },
   {
    "fp": "bill college eyes final hill passage senate sports week",
    "title": "This week on the Hill: Senate eyes final passage on college sports bill",
@@ -3201,11 +3189,21 @@
    "title": "Conservatives and GOP senators plot fight against Democratic \u2018barfare\u2019 with all-day DC summit",
    "source": "Washington Examiner",
    "at": "2026-09-30T00:04:55.384197+00:00"
+  },
+  {
+   "fp": "counties earthquake magnitude preliminary rattles socal",
+   "title": "Preliminary 3.8-magnitude earthquake rattles two SoCal counties",
+   "source": "New York Post",
+   "at": "2026-09-30T03:23:19.832067+00:00"
+  },
+  {
+   "fp": "chad daughter dead deeply fiona heartbroken lowe",
+   "title": "Chad Lowe\u2019s daughter Fiona dead at 13: \u2018We are deeply heartbroken\u2019",
+   "source": "New York Post",
+   "at": "2026-09-30T03:23:21.547589+00:00"
   }
  ],
  "titles": [
-  "disaster election germany leads merz postwar result rues state worst",
-  "administration court criminal international prepares sanctions sources trump",
   "bill college eyes final hill passage senate sports week",
   "california cops fires gunman lockdown rams small taking town woods",
   "agent austin city officials shooting texas wounds",
@@ -3603,6 +3601,8 @@
   "bonds commentary grip still stocks trading",
   "about bill college five know passed senate sports things",
   "election female historic minister morocco names prime victory",
-  "barfare conservatives democratic fight plot senators summit"
+  "barfare conservatives democratic fight plot senators summit",
+  "counties earthquake magnitude preliminary rattles socal",
+  "chad daughter dead deeply fiona heartbroken lowe"
  ]
 }
