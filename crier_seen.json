@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMisgFBVV95cUxQZnVER1ZkMGJZRERjcmI4MDdhUE4tX29PYlEzTkt4cHFmOHpMVktaOXhQVVNsd21oNkplc2JUOWxaS3NmTmFJTVNpWW5ydnRVTll5dzljNlZPOVQtVHNzVmpmMVNPMTFBYVJCdFVwYW54RXd1ckJEVHlWcEQ1NHoyMWJDdHp6QmVPLWx4OElKVG44RVpfRVZhRG8zVng1V1BxOF9Nd3k1SmdsY2t0WFlYaXR3",
-  "CBMioAFBVV95cUxQTURDbWQ0NHg2ZThPcVk0QmtxQm1UYXRXOGRZN25TUVFrQWV3bTJ3bjk0SERwaFh6a2pLTUJ1cElSVHU2VUt6N1NXVkNjQ0ZCTzIxdGpxQjhQRkhNYWU0NUxDclBFY3lKUDN6SXlUMHNrNHBhYXRqZnFMd2NHbldrQkdPT3dRRUpCVGV2MWVSVVNPVEFicGpOY0RBZ0lFUnpG",
   "CBMipAFBVV95cUxPd3lQSGIwQm5xNEg5N09uS1d3WmRtQnJKUWpubTZGOFV3OWpqMmlGWmY3am5KQXpXOEZxYWF5YUp1VzlGMXVNdFZNZTVRVjRnbUdqV3lhVkxFNVdGNEZuX3N4eEJ2TDJ5OC1mMGN1cUFKSW85dzdhSHNPc3lRTnYtbG9EM19nQ09EY2N2YmVjWTh6MzFYMFRveXhHRlQ5cFA3enJMTA",
   "https://nypost.com/?post_type=article&p=40793897",
   "CBMi6wFBVV95cUxQTnFtbEFndjZkSHlQblNaSFQ2UXhvcWt1a2Fxcnl0M0NWZEJxQ2JjNVdKamlLcmp2VUp2THRpMWg2Tldxa2lOZzNaekZxWF9qU25TbXh1VmxTVHdSbWFPSFpzNXpXOXZ0WVFBTWFxSWExZjdWemNUOFJPRTlUcFFGdkt4RG4ydUxaN0RqSUVJQnJSRUg5dnRQN1FVaVVGSXBRdzRhVUlvTlpwanVUSVdkMWlqNU93MGY3cWM0ME1oV3FIcXM4di12MVNJYW9xeEZ3bUdzR2t3aTg5MF9vVWlGbExJWHNEaDBxYmdF",
@@ -799,21 +797,11 @@
   "https://news.sky.com/story/morocco-names-fatima-ezzahra-el-mansouri-as-first-female-prime-minister-after-historic-election-victory-13593473",
   "https://www.washingtonexaminer.com/?p=4747351",
   "https://nypost.com/?post_type=article&p=41056736",
-  "https://pagesix.com/?post_type=article&p=9209810"
+  "https://pagesix.com/?post_type=article&p=9209810",
+  "https://www.washingtonexaminer.com/?p=4747708",
+  "CBMiYkFVX3lxTE5TVnVlaExNOHVtZ2hjR0dhUzRVVVdEaU9QRUktaXE2R3Y2Y0JuZnozRzRfaF8ya2dSaXRWOEE1XzZpYWE4bTVMUl9CNzhza3FfRHZtX0tmYW9yS1pzT0RmZ3ZR"
  ],
  "posts": [
-  {
-   "fp": "bill college eyes final hill passage senate sports week",
-   "title": "This week on the Hill: Senate eyes final passage on college sports bill",
-   "source": "The Hill",
-   "at": "2026-09-20T23:01:49.663334+00:00"
-  },
-  {
-   "fp": "california cops fires gunman lockdown rams small taking town woods",
-   "title": "Small California town on lockdown as gunman rams and fires on cops before taking off into woods",
-   "source": "New York Post",
-   "at": "2026-09-21T00:43:41.295638+00:00"
-  },
   {
    "fp": "agent austin city officials shooting texas wounds",
    "title": "ICE agent wounds man in Austin, Texas, shooting, city officials say",
@@ -3201,11 +3189,21 @@
    "title": "Chad Lowe\u2019s daughter Fiona dead at 13: \u2018We are deeply heartbroken\u2019",
    "source": "New York Post",
    "at": "2026-09-30T03:23:21.547589+00:00"
+  },
+  {
+   "fp": "dealmaking doomed falls midterm senate tees thune votes wayside",
+   "title": "Senate dealmaking falls to the wayside as Thune tees up doomed midterm votes",
+   "source": "Washington Examiner",
+   "at": "2026-09-30T09:21:50.766837+00:00"
+  },
+  {
+   "fp": "blockbuster fading hopes season street wall",
+   "title": "Wall Street\u2019s Hopes for a Blockbuster IPO Season Are Fading",
+   "source": "WSJ",
+   "at": "2026-09-30T09:21:52.459666+00:00"
   }
  ],
  "titles": [
-  "bill college eyes final hill passage senate sports week",
-  "california cops fires gunman lockdown rams small taking town woods",
   "agent austin city officials shooting texas wounds",
   "allege attack behind blue children dead left mother mountains police stabbing three",
   "china engine roaring rolls summit trade trump",
@@ -3603,6 +3601,8 @@
   "election female historic minister morocco names prime victory",
   "barfare conservatives democratic fight plot senators summit",
   "counties earthquake magnitude preliminary rattles socal",
-  "chad daughter dead deeply fiona heartbroken lowe"
+  "chad daughter dead deeply fiona heartbroken lowe",
+  "dealmaking doomed falls midterm senate tees thune votes wayside",
+  "blockbuster fading hopes season street wall"
  ]
 }
