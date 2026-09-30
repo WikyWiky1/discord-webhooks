@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://pagesix.com/?post_type=article&p=9169965",
-  "https://www.bbc.co.uk/news/articles/cy4zpp20w77o#0",
-  "https://thehill.com/?p=6086287",
-  "https://thehill.com/?p=6086408",
-  "CBMiYkFVX3lxTE9GWTlJM0dPSlpGYXdoVDAteFphRFBLVE0yYTlUdmhvaG5DWFFQYjFBT1dESXAwTUkyUUxDWjYxLXNfOXlzQzAzZjc2NlltVVRib2dBY1IzMGJXOEkyNXZfT0VR",
-  "https://nypost.com/?post_type=article&p=40789110",
   "CBMirwFBVV95cUxONEdJUjhTN0ZoaHN2R1U0eEZvV2pOb2tOTGVjX2NxbjF6RTg5SDFyLXRhVlF2enBCV2ctSXFjVEZaeXdqTjNSeXVjcEszem9kUTRxaFR1T0pUQ3M4aEVaT2NwMjl3WC1mbi01bTVIZmRMWXJSUml4X3QyM0tYamRXbDc2T3h3dG9JbGtZZHVyZVBRMTVvaHFSdGhCci1jLXBMTnRnYWlZNHRnTzRjTGMw",
   "CBMiVkFVX3lxTE01dG5CT1RIVzhqSG1LVkZkNm5EZ01wVktrNlZvTzhRaTYtcWwwWlYwdVM3X2RwejR5alIzYTM2ZFF3dzJqelVYMGZWVW12U25FWE5Sd1l3",
   "CBMisgFBVV95cUxQZnVER1ZkMGJZRERjcmI4MDdhUE4tX29PYlEzTkt4cHFmOHpMVktaOXhQVVNsd21oNkplc2JUOWxaS3NmTmFJTVNpWW5ydnRVTll5dzljNlZPOVQtVHNzVmpmMVNPMTFBYVJCdFVwYW54RXd1ckJEVHlWcEQ1NHoyMWJDdHp6QmVPLWx4OElKVG44RVpfRVZhRG8zVng1V1BxOF9Nd3k1SmdsY2t0WFlYaXR3",
@@ -799,45 +793,15 @@
   "CBMiqAFBVV95cUxONkhBalNMTGtET0JiTk13OVZlSTdYdGtJdTR5ZmJnQzZrOVpPa2NOVUQ1aEdtd2hJdHFpOEJnbGdyQ0hZTWhGdUFMcFdvYVhqRndZMlpaR1E3TldsQy1vYzlESHJocUkwNi1DWnJBMk44Ymp2RGRyMnFoZk4xdXhhWlNiQmxxcjRxVDF3MWdKXy1HM0FHVFppNGhwaGpEWHJDSEwySUJIMG0",
   "CBMioAFBVV95cUxQOEJ1elhJZkRHelRILWU5XzZJam8xRHloN1ZMZW80N1NQRjhjZ0w1ZGpueGhaVVRTSVdCRDFyZzNHenhvdEN2a0hPc0ItQXpSbjNaTWJtaHpRUUZ3Unpqa0I5bFppZjdjX19kZk5EWmYtZ1FRTGFza0syZnd5b0JHZjFMQ3NKZVFseS1LN2c1SFU4UEVmV2R3S2dzUEdPVHVZ",
   "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo#0",
-  "CBMinAFBVV95cUxNTWlESks1TnAxOFp2UXUtZ1JBMFMwUjlnUHVWNzU1MlBMa2RwMFk0S2xkcVlaekFLREhLUk9HZERFQzVuUUFOcVpNRTFySG9hZGlHamZNQnBJaTZNdVl2VTBtUU5rVE1CNDNaZkd1ZnRjWXdvLUdYTjM0elB0ckFJSlN0aWw5TmQwTXNXcmIzeENyQzBhTndjUHFENHc"
+  "CBMinAFBVV95cUxNTWlESks1TnAxOFp2UXUtZ1JBMFMwUjlnUHVWNzU1MlBMa2RwMFk0S2xkcVlaekFLREhLUk9HZERFQzVuUUFOcVpNRTFySG9hZGlHamZNQnBJaTZNdVl2VTBtUU5rVE1CNDNaZkd1ZnRjWXdvLUdYTjM0elB0ckFJSlN0aWw5TmQwTXNXcmIzeENyQzBhTndjUHFENHc",
+  "CBMiqAFBVV95cUxPQlJFczJZN1QwNmtrcHctMUtBX3cxNnpHcUFxSjRwUHBQMUZKNmM1ZHhVeFJ6a1V6SHU0dVpSa2ZvNmRNaWpsMHFNZW8yMGljRkgwNVdGd2Y3YzlMSmZsM1ZIYmN0Uk9YMERfWGU2TENERnRaWW80U1BRaVRrWnZFZ1hLSkM4bkxKZlY2VS1nYkcyNDlzRE9hakR3Y0VHbXY3T1RZS1I0ZVA",
+  "https://nypost.com/?post_type=article&p=41053856",
+  "CBMipgFBVV95cUxNV29vbG0yUWdGb0kyUHphcGM1cXpNbXFLUnRGRmhoTFJoNExkSlExQTJQYnMxeXZ2MHhKUU5xeExVRFB1Q2s4d1ZfTldKWEJ2THE4bWwzaTQ3V1B3U2FUXzFQOG9tdUR1Q2FZUGEyZ1JBTG9pdzlYbHByUmx5MVhPd3lORGJjVlI3SzJvbzBpNG90NEJMVDBMVEhVTEdMNWVpUDR6ZW1R",
+  "CBMiqwFBVV95cUxOOTZqSEpHV3FnalBmU2lFRW9NcjdwNEd0Y211TFRXUGJBUS13aWZlTFNXRXVMSGdkSUFKOXRtTEl1RVlNcWVQenR6d0p0alRVMmgzdFhEQ1N6RlB0Q0xjZjNrOVBUMktxMVRTeTB2bWNYN0tOQkJQVDkzOW9HY2hlWUNqbTJka3VjeGxucThfTmw2LUpyMzctZ2RRdDh5aWVsQlEyTmFOZzNPakE",
+  "https://news.sky.com/story/morocco-names-fatima-ezzahra-el-mansouri-as-first-female-prime-minister-after-historic-election-victory-13593473",
+  "https://www.washingtonexaminer.com/?p=4747351"
  ],
  "posts": [
-  {
-   "fp": "buried collapse colleges commentary economic fast good hastens news other takes",
-   "title": "Fast Takes: Buried good economic news, AI hastens colleges\u2019 collapse, and other commentary",
-   "source": "New York Post",
-   "at": "2026-09-20T20:51:58.199852+00:00"
-  },
-  {
-   "fp": "chad dead devastated found gilbert glory guitarist",
-   "title": "New Found Glory guitarist Chad Gilbert dead at 45: \u2018We are devastated\u2019",
-   "source": "New York Post",
-   "at": "2026-09-20T20:51:59.904013+00:00"
-  },
-  {
-   "fp": "2021 arrested assassination connection dozen haitian president",
-   "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
-   "source": "Guardian World",
-   "at": "2026-09-20T20:52:02.458002+00:00"
-  },
-  {
-   "fp": "attack drones ever fires including largest moscow russia ukraine",
-   "title": "Ukraine fires over 1,000 drones at Russia, including \u2018largest ever\u2019 attack on Moscow",
-   "source": "AP",
-   "at": "2026-09-20T20:52:04.248325+00:00"
-  },
-  {
-   "fp": "alto breaking face mall menace neck palo planting taser zapped",
-   "title": "Palo Alto mall menace is zapped with Taser before face planting and breaking his neck",
-   "source": "New York Post",
-   "at": "2026-09-20T22:50:59.420672+00:00"
-  },
-  {
-   "fp": "austin condition involving officer officials serious shooting stable",
-   "title": "Man in \u2018serious but stable condition\u2019 after shooting in Austin involving ICE officer: Officials",
-   "source": "Washington Examiner",
-   "at": "2026-09-20T22:51:01.150055+00:00"
-  },
   {
    "fp": "disaster election germany leads merz postwar result rues state worst",
    "title": "AfD leads as Merz rues 'disaster' in worst state election result in postwar Germany",
@@ -3201,15 +3165,45 @@
    "title": "Former \u2018American Idol\u2019 singer Caleb Flynn convicted of fatally shooting his wife",
    "source": "AP",
    "at": "2026-09-29T23:44:53.814082+00:00"
+  },
+  {
+   "fp": "business leaders should summit things three trump watch",
+   "title": "Trump\u2019s Summit With Xi: Three Things Business Leaders Should Watch",
+   "source": "WSJ",
+   "at": "2026-09-30T00:04:46.555175+00:00"
+  },
+  {
+   "fp": "2016 biggest decision following galloway investment mistake professor regrets scott sell stocks stupid trump",
+   "title": "NYU professor Scott Galloway regrets \u2018stupid\u2019 decision to sell off stocks following Trump 2016 win: \u2018Biggest investment mistake\u2019",
+   "source": "New York Post",
+   "at": "2026-09-30T00:04:48.287275+00:00"
+  },
+  {
+   "fp": "bonds commentary grip still stocks trading",
+   "title": "COMMENTARY: Trading Day: Stocks still in bonds' grip",
+   "source": "Reuters",
+   "at": "2026-09-30T00:04:50.158191+00:00"
+  },
+  {
+   "fp": "about bill college five know passed senate sports things",
+   "title": "Five things to know about the college sports bill that passed the US Senate",
+   "source": "Reuters",
+   "at": "2026-09-30T00:04:51.908432+00:00"
+  },
+  {
+   "fp": "election female historic minister morocco names prime victory",
+   "title": "Morocco names first female prime minister after historic election victory",
+   "source": "Sky News",
+   "at": "2026-09-30T00:04:53.631213+00:00"
+  },
+  {
+   "fp": "barfare conservatives democratic fight plot senators summit",
+   "title": "Conservatives and GOP senators plot fight against Democratic \u2018barfare\u2019 with all-day DC summit",
+   "source": "Washington Examiner",
+   "at": "2026-09-30T00:04:55.384197+00:00"
   }
  ],
  "titles": [
-  "buried collapse colleges commentary economic fast good hastens news other takes",
-  "chad dead devastated found gilbert glory guitarist",
-  "2021 arrested assassination connection dozen haitian president",
-  "attack drones ever fires including largest moscow russia ukraine",
-  "alto breaking face mall menace neck palo planting taser zapped",
-  "austin condition involving officer officials serious shooting stable",
   "disaster election germany leads merz postwar result rues state worst",
   "administration court criminal international prepares sanctions sources trump",
   "bill college eyes final hill passage senate sports week",
@@ -3603,6 +3597,12 @@
   "caldwell dale finds jersey misconduct probe resigns",
   "attack convicted deadly executes florida hammer woman year",
   "africa areas clean high killed risk south women",
-  "american caleb convicted fatally flynn former idol shooting singer wife"
+  "american caleb convicted fatally flynn former idol shooting singer wife",
+  "business leaders should summit things three trump watch",
+  "2016 biggest decision following galloway investment mistake professor regrets scott sell stocks stupid trump",
+  "bonds commentary grip still stocks trading",
+  "about bill college five know passed senate sports things",
+  "election female historic minister morocco names prime victory",
+  "barfare conservatives democratic fight plot senators summit"
  ]
 }
