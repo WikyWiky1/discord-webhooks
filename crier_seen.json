@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates",
   "https://www.theguardian.com/australia-news/2026/sep/14/as-japans-yen-peaks-is-the-era-of-budget-friendly-trips-coming-to-an-end-for-australian-travellers",
   "CBMiygFBVV95cUxNSFYySWw1NWJ0UTM5Nk9pckRNeE5Ka3JIcHVuN0JFZEtmTUJKekZyT2NXSlBVdTJPeUZrc1Q5R0o3V0hPS3dlbkZHNUpxckFJZEQ3VWVQNFVnMVYwN0dXR0lBNXpkcEdJTlVoZG9yVi1aUmoyUDdrN3VDWmxkRnF6TDZNdm9TLUhha3d3R1cySFpWd0lBMmlPcTAxZktuZFVOc1cxZExwUFBLVHNRaG1YLWZkS0JWalU0V0JJWkE1T2xDOXR4Z3p4LTR3",
   "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6118290",
   "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o#0",
   "https://www.theguardian.com/world/2026/sep/30/israeli-settler-violence-west-bank-attack-jalud-palestinians-icrc",
-  "https://thehill.com/?p=6119424"
+  "https://thehill.com/?p=6119424",
+  "https://www.washingtonexaminer.com/?p=4748094"
  ],
  "posts": [
-  {
-   "fp": "afghan civilian deaths killed militants pakistan report taliban three",
-   "title": "Pakistan says it killed 28 militants, Afghan Taliban and UN report three civilian deaths",
-   "source": "Reuters",
-   "at": "2026-09-21T17:11:11.249904+00:00"
-  },
   {
    "fp": "become expected hurricane major ocean pacific polo storm tropical week",
    "title": "Polo, a tropical storm in the Pacific Ocean, is expected to become a major hurricane this week",
@@ -3201,10 +3195,15 @@
    "title": "Head of Eiffel Tower to resign after controversial order to female staff",
    "source": "The Hill",
    "at": "2026-09-30T16:17:57.023998+00:00"
+  },
+  {
+   "fp": "allegedly arrest drugs former funded group interrupter police selling taxpayer violence",
+   "title": "Police arrest former \u2018violence interrupter\u2019 from taxpayer-funded group for allegedly selling drugs",
+   "source": "Washington Examiner",
+   "at": "2026-09-30T16:45:04.583260+00:00"
   }
  ],
  "titles": [
-  "afghan civilian deaths killed militants pakistan report taliban three",
   "become expected hurricane major ocean pacific polo storm tropical week",
   "attack drone halted moscow output refinery sources sunday",
   "billionaires diplomats fridman lift linked poised russia sanctions usmanov",
@@ -3603,6 +3602,7 @@
   "ambitions armed bessent china iran nuclear weapons wrong",
   "attack energy infrastructure largest launches russia since spring ukraine",
   "attack family forces israeli overwhelmed palestinian settlers terrorist violent",
-  "controversial eiffel female head order resign staff tower"
+  "controversial eiffel female head order resign staff tower",
+  "allegedly arrest drugs former funded group interrupter police selling taxpayer violence"
  ]
 }
