@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6085057",
-  "https://thehill.com/?p=6087028",
-  "CBMinwFBVV95cUxQMXRfMWRzLWtaTEtyejBKWURMbDZyVFI3Mm5Ud1BucVVDVkctM0pHQmtFWjVYUnVNeVAxWW95dlJ1eDAzU1pON0ZNNmg2SnczT0R3ZHRfOWhLYXp4NmFxR21CWEtaVGNLYkRmOW9ObHoyTVA4cndXREZNOHpOaDZqb1Rjazh3MGJEdlk4RlllV1FvUlBqZVRsR1cwaThQYVk",
   "CBMiowFBVV95cUxQd1VBMmEzZldmZWJscDBPb3hwTERGU2hNYVhFOUh1b0Q1NjhDYXlMRWlRUDFZNXdWdjR6bmZkR0UxTGs0MFlvcXViM1F1aTdzSjdpUEFGMldoRHhvRE5PYkVad19FLU15RHNUdHhpYy1KUHp6d3hiX0w3T2puNnRtNlNNNzlVb0x5cWs2eHZHLW5yckJJV2p0cnlLTDFxWTZpTGx3",
   "CBMikAFBVV95cUxQbGxnLXB4NGxDZEpHdHRsSGVZaTlqTTJZYkRJc3NSLVFkQmJRNUxDTmxfSC1lR2FIWW5RRUlkckN1OExobThVWkdxLVZGU3FwblBxci1qWFVyR3NxOHFBZVJxbFRZVjcwSGx4MjJla0VySTlPWmVWdkNLbkdGUkYwTmNIMk0wX2VvWDl5dGwtdUk",
   "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=41062396",
   "https://nypost.com/?post_type=article&p=41064292",
   "https://thehill.com/?p=6120658",
-  "https://thehill.com/?p=6119378"
+  "https://thehill.com/?p=6119378",
+  "https://www.theguardian.com/us-news/2026/sep/30/pennsylvania-reports-fifth-measles-related-death",
+  "CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3JsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn",
+  "https://www.washingtonexaminer.com/?p=4748829"
  ],
  "posts": [
-  {
-   "fp": "billion bros concessions deal discovery makes paramount salvage warner",
-   "title": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
-   "source": "NPR News",
-   "at": "2026-09-21T19:52:51.845454+00:00"
-  },
-  {
-   "fp": "attempted convicts jury murder palestinian shooting students vermont",
-   "title": "Jury convicts Vermont man of attempted murder in shooting of 3 Palestinian students",
-   "source": "AP",
-   "at": "2026-09-21T21:06:08.680931+00:00"
-  },
-  {
-   "fp": "california crashes dead fighting fires helicopter yosemite",
-   "title": "Two dead after helicopter crashes fighting Yosemite fires in California, FAA says",
-   "source": "Washington Examiner",
-   "at": "2026-09-21T21:06:10.419857+00:00"
-  },
   {
    "fp": "100ft coast hiding megathrust shown simulation staggering threat tsunami west",
    "title": "100ft megathrust tsunami threat hiding off the West Coast \u2014 shown in staggering simulation",
@@ -3201,12 +3183,27 @@
    "title": "Live updates: Senate fails to advance stock trading bill; trade court hears Trump tariffs case",
    "source": "The Hill",
    "at": "2026-09-30T17:40:52.003251+00:00"
+  },
+  {
+   "fp": "death fifth measles outbreak pennsylvania related reports year",
+   "title": "Pennsylvania reports fifth measles-related death of the year amid outbreak",
+   "source": "Guardian World",
+   "at": "2026-09-30T20:51:29.828083+00:00"
+  },
+  {
+   "fp": "attack fellow flight intervene israel passengers pilot stabs stop",
+   "title": "Pilot stabs fellow pilot on flight to Israel before passengers intervene to stop attack",
+   "source": "AP",
+   "at": "2026-09-30T20:51:31.540167+00:00"
+  },
+  {
+   "fp": "alleged bomber interrogation massie patel pipe resign wants",
+   "title": "Massie wants Patel to resign over interrogation of alleged DC pipe bomber",
+   "source": "Washington Examiner",
+   "at": "2026-09-30T20:51:33.212939+00:00"
   }
  ],
  "titles": [
-  "billion bros concessions deal discovery makes paramount salvage warner",
-  "attempted convicts jury murder palestinian shooting students vermont",
-  "california crashes dead fighting fires helicopter yosemite",
   "100ft coast hiding megathrust shown simulation staggering threat tsunami west",
   "battling fires helicopter killed pilots yosemite",
   "accused arrive assassination covid fraud funding haitian plot president suspects",
@@ -3603,6 +3600,9 @@
   "alaska announce billion deal korea part plant south trade trump",
   "bill blocked congress democrats limit senate stock trading",
   "live national panel risks rogue security senate watch weighs",
-  "advance bill case court fails hears live senate stock tariffs trade trading trump updates"
+  "advance bill case court fails hears live senate stock tariffs trade trading trump updates",
+  "death fifth measles outbreak pennsylvania related reports year",
+  "attack fellow flight intervene israel passengers pilot stabs stop",
+  "alleged bomber interrogation massie patel pipe resign wants"
  ]
 }
