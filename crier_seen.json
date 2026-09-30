@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/australia-news/2026/sep/14/as-japans-yen-peaks-is-the-era-of-budget-friendly-trips-coming-to-an-end-for-australian-travellers",
-  "CBMiygFBVV95cUxNSFYySWw1NWJ0UTM5Nk9pckRNeE5Ka3JIcHVuN0JFZEtmTUJKekZyT2NXSlBVdTJPeUZrc1Q5R0o3V0hPS3dlbkZHNUpxckFJZEQ3VWVQNFVnMVYwN0dXR0lBNXpkcEdJTlVoZG9yVi1aUmoyUDdrN3VDWmxkRnF6TDZNdm9TLUhha3d3R1cySFpWd0lBMmlPcTAxZktuZFVOc1cxZExwUFBLVHNRaG1YLWZkS0JWalU0V0JJWkE1T2xDOXR4Z3p4LTR3",
-  "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
-  "https://www.theguardian.com/us-news/2026/sep/13/pennsylvania-third-measles-death-outbreak",
-  "CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs",
-  "https://www.theguardian.com/us-news/2026/sep/13/louisiana-stabbing-spree-deaths",
   "https://thehill.com/?p=6085057",
   "https://thehill.com/?p=6087028",
   "CBMinwFBVV95cUxQMXRfMWRzLWtaTEtyejBKWURMbDZyVFI3Mm5Ud1BucVVDVkctM0pHQmtFWjVYUnVNeVAxWW95dlJ1eDAzU1pON0ZNNmg2SnczT0R3ZHRfOWhLYXp4NmFxR21CWEtaVGNLYkRmOW9ObHoyTVA4cndXREZNOHpOaDZqb1Rjazh3MGJEdlk4RlllV1FvUlBqZVRsR1cwaThQYVk",
@@ -799,45 +793,15 @@
   "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o#0",
   "https://www.theguardian.com/world/2026/sep/30/israeli-settler-violence-west-bank-attack-jalud-palestinians-icrc",
   "https://thehill.com/?p=6119424",
-  "https://www.washingtonexaminer.com/?p=4748094"
+  "https://www.washingtonexaminer.com/?p=4748094",
+  "https://www.washingtonexaminer.com/?p=4748622",
+  "https://www.washingtonexaminer.com/?p=4748128",
+  "https://nypost.com/?post_type=article&p=41062396",
+  "https://nypost.com/?post_type=article&p=41064292",
+  "https://thehill.com/?p=6120658",
+  "https://thehill.com/?p=6119378"
  ],
  "posts": [
-  {
-   "fp": "become expected hurricane major ocean pacific polo storm tropical week",
-   "title": "Polo, a tropical storm in the Pacific Ocean, is expected to become a major hurricane this week",
-   "source": "AP",
-   "at": "2026-09-21T17:11:12.862835+00:00"
-  },
-  {
-   "fp": "attack drone halted moscow output refinery sources sunday",
-   "title": "Moscow oil refinery output halted after Sunday drone attack, sources say",
-   "source": "Reuters",
-   "at": "2026-09-21T17:11:14.496241+00:00"
-  },
-  {
-   "fp": "billionaires diplomats fridman lift linked poised russia sanctions usmanov",
-   "title": "EU poised to lift sanctions on Russia-linked billionaires Usmanov and Fridman, diplomats say",
-   "source": "Reuters",
-   "at": "2026-09-21T19:52:45.061470+00:00"
-  },
-  {
-   "fp": "carolina groups michael money north pulling race senate stumps vance weigh whatley",
-   "title": "JD Vance stumps for Michael Whatley as GOP groups weigh pulling ad money from North Carolina Senate race",
-   "source": "Washington Examiner",
-   "at": "2026-09-21T19:52:46.723322+00:00"
-  },
-  {
-   "fp": "help lots pied remain street terre units unlikely unsold wall",
-   "title": "Lots of unsold units remain at One Wall Street \u2014 and pied-\u00e0-terre tax unlikely to help",
-   "source": "New York Post",
-   "at": "2026-09-21T19:52:48.410471+00:00"
-  },
-  {
-   "fp": "bros discovery merger paramount settles states sued warner",
-   "title": "Paramount settles with states that sued over Warner Bros. Discovery merger",
-   "source": "The Hill",
-   "at": "2026-09-21T19:52:50.193985+00:00"
-  },
   {
    "fp": "billion bros concessions deal discovery makes paramount salvage warner",
    "title": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
@@ -3201,15 +3165,45 @@
    "title": "Police arrest former \u2018violence interrupter\u2019 from taxpayer-funded group for allegedly selling drugs",
    "source": "Washington Examiner",
    "at": "2026-09-30T16:45:04.583260+00:00"
+  },
+  {
+   "fp": "building conduct federal finds illegal powell renovations reserve watchdog",
+   "title": "Federal Reserve watchdog finds no illegal conduct from Jay Powell in building renovations",
+   "source": "Washington Examiner",
+   "at": "2026-09-30T17:40:43.265655+00:00"
+  },
+  {
+   "fp": "boost deal energy permitting projects senate tape unveils",
+   "title": "Senate unveils deal to cut permitting red tape to boost energy projects",
+   "source": "Washington Examiner",
+   "at": "2026-09-30T17:40:44.927964+00:00"
+  },
+  {
+   "fp": "alaska announce billion deal korea part plant south trade trump",
+   "title": "Trump to announce $54 billion Alaska LNG plant as part of South Korea trade deal",
+   "source": "New York Post",
+   "at": "2026-09-30T17:40:46.767177+00:00"
+  },
+  {
+   "fp": "bill blocked congress democrats limit senate stock trading",
+   "title": "Bill to limit stock trading in Congress is blocked by Senate Democrats",
+   "source": "New York Post",
+   "at": "2026-09-30T17:40:48.569596+00:00"
+  },
+  {
+   "fp": "live national panel risks rogue security senate watch weighs",
+   "title": "Watch live: Senate panel weighs national security risks of rogue AI",
+   "source": "The Hill",
+   "at": "2026-09-30T17:40:50.341351+00:00"
+  },
+  {
+   "fp": "advance bill case court fails hears live senate stock tariffs trade trading trump updates",
+   "title": "Live updates: Senate fails to advance stock trading bill; trade court hears Trump tariffs case",
+   "source": "The Hill",
+   "at": "2026-09-30T17:40:52.003251+00:00"
   }
  ],
  "titles": [
-  "become expected hurricane major ocean pacific polo storm tropical week",
-  "attack drone halted moscow output refinery sources sunday",
-  "billionaires diplomats fridman lift linked poised russia sanctions usmanov",
-  "carolina groups michael money north pulling race senate stumps vance weigh whatley",
-  "help lots pied remain street terre units unlikely unsold wall",
-  "bros discovery merger paramount settles states sued warner",
   "billion bros concessions deal discovery makes paramount salvage warner",
   "attempted convicts jury murder palestinian shooting students vermont",
   "california crashes dead fighting fires helicopter yosemite",
@@ -3603,6 +3597,12 @@
   "attack energy infrastructure largest launches russia since spring ukraine",
   "attack family forces israeli overwhelmed palestinian settlers terrorist violent",
   "controversial eiffel female head order resign staff tower",
-  "allegedly arrest drugs former funded group interrupter police selling taxpayer violence"
+  "allegedly arrest drugs former funded group interrupter police selling taxpayer violence",
+  "building conduct federal finds illegal powell renovations reserve watchdog",
+  "boost deal energy permitting projects senate tape unveils",
+  "alaska announce billion deal korea part plant south trade trump",
+  "bill blocked congress democrats limit senate stock trading",
+  "live national panel risks rogue security senate watch weighs",
+  "advance bill case court fails hears live senate stock tariffs trade trading trump updates"
  ]
 }
