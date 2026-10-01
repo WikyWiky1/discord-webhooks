@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6087544",
   "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
   "CBMiYkFVX3lxTFB1aDZFdTVFUm1wSUlEV0F2cGJ1RnRXZmU0d3B1bElhQzFESDU1cGZTZ3gzVU1kZk4zWm1EWTU2T0Q5dEdZMHAybWcySGtqVjdiWWVlV1hXT2hIaDByQ1FHek9n",
   "https://www.washingtonexaminer.com/?p=4725839",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6121478",
   "https://www.theguardian.com/us-news/2026/oct/01/california-medical-helicopter-crash-catalina-island-la",
   "CBMiqAFBVV95cUxQMXEwbVZ0dGxwSkt5YlM4eE9uWGV0MTZScDhaV01PU2h6UG8wOF9XOEtYODdJZFM3U2NVdUhCQ09OUlB2YmJjZ2M0Y2Y0YmVPTzhYcTd1UGxPMEtSbVZlMnhiVHExUkZvOFpWcXc2dGNEYTlmS2R2Q0FwVUYxTnNEd1ZWbzY1OXQybktURkVQUE81dnRXQWtxR3VrM3pCZW5QSVRSWFprbzI",
-  "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo#0"
+  "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo#0",
+  "https://www.theguardian.com/australia-news/2026/oct/02/underlying-causes-of-recurrent-bacterial-vaginosis-identified-by-australian-scientists"
  ],
  "posts": [
-  {
-   "fp": "energy european gain prices rise stocks",
-   "title": "European Energy Stocks Gain After Oil Prices Rise",
-   "source": "WSJ",
-   "at": "2026-09-22T11:03:14.581810+00:00"
-  },
   {
    "fp": "deal european free philippines strikes trade union",
    "title": "European Union strikes a new free trade deal with the Philippines",
@@ -3201,10 +3195,15 @@
    "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
    "source": "BBC World",
    "at": "2026-10-01T13:22:51.918598+00:00"
+  },
+  {
+   "fp": "australian bacterial causes identified recurrent scientists underlying vaginosis",
+   "title": "Underlying causes of recurrent bacterial vaginosis identified by Australian scientists",
+   "source": "Guardian World",
+   "at": "2026-10-01T17:19:08.822941+00:00"
   }
  ],
  "titles": [
-  "energy european gain prices rise stocks",
   "deal european free philippines strikes trade union",
   "bombings convicts court deadly easter lanka sunday",
   "battle coastal heights houthis killed yemen",
@@ -3603,6 +3602,7 @@
   "bust dead kratom link mississippi near nearby police products students",
   "california crash helicopter hospitalized kills leaves people",
   "diesel emergency france germany mainly stocks",
-  "attack aviv dubai early flight involved iran israeli"
+  "attack aviv dubai early flight involved iran israeli",
+  "australian bacterial causes identified recurrent scientists underlying vaginosis"
  ]
 }
