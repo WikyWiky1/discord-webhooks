@@ -1,11 +1,5 @@
 {
  "ids": [
-  "CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA",
-  "CBMiwgFBVV95cUxOdE5uV2RDSWNiS0xzZTRHU2NRZzlJSVZoLWxZS0p0N3hiRXNWWWY4MXJTSkppeVoyOTRQczhtS2RWZXNON2dnM2RQSzM4VDZ1Rzh2cWdrNW1hWHl0WE5VS280Wmx3QUY3VlBFLWpDU3lFR0d6clVsUHJEYjdMZ2IwVG56alpIbTNiS3V3TW9lNVljSGFhVkdLSmNaeEtvVlhfZlVMWUV2bmJXX05ubDZod3dmLVRObjRHUl9tNWxPR0ktQQ",
-  "https://www.foxnews.com/world/houthis-enter-us-kill-box-after-seizing-red-sea-cork-former-pentagon-official-warns",
-  "https://www.washingtonexaminer.com/?p=4725420",
-  "CBMiVkFVX3lxTE1ET1FOM3F0LWhPbjhmVEJyY1FpOVZyaklUanN1UE9iUW5uYVFYRXZpMzFvV0FZWWVkRU1IY0lDQ1ExaHM4YjZ5eFlkMDZIaWtLa25DMi1B",
-  "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo#0",
   "CBMilAFBVV95cUxPRHZNZGpoNHRQZGdURzFRU1Fhc0tBVzFUR014dVRXSlZOQUdBY0JzZFIyV3d6bzZTWmdycDZFaU8xSmlQb2p2dmJ0TjJqWjJDcGxRT05XYkRqTmIyeDB1M0FCdmZ6TnRpRjJaT1hjR012VzhJdmo3MTl0ZGZFcFpqN3kwUFF0am85Y25TYkV1dzEzQW9x",
   "CBMipwFBVV95cUxOanNaU2dOb0c3MzZHbjdEeTc5ODdNOWhXOXJzNU5aNm56elRKSlo5UmRwdndlaTdKSkkySmxDVmdtaXJ3cmNzYzNIX0xrOHRNVmRwWHI0ZmM2SFlVMWQ1UVFkTVNjeUpEVnBMaXVuV1BMSDh3ZWxyTzBIRndTUDJmSlFOa0F1Y2RrbWtmc1ppWU9qSDZ3ZkRtX2dUWWdzcF9tTEJoVXp2TQ",
   "https://nypost.com/?post_type=article&p=40804559",
@@ -799,45 +793,15 @@
   "CBMipwFBVV95cUxQMFlLaTBYOV95NlJYdWUzVGRmM2hycnhicG43MWVPaklHQ1VseHV2SmV3NHZIaWlZRFJhdktYcThlcHZTamE5djNrbHlrZ0ZWWGxFcjI1d1V6ZTJQNlZaaVBaXzRXODVRSlNSZEJnNHdkd3pBck96eVdfbjlMeC04XzVqckF1S0lHZ25wQ0VmWG1QS0puaUhrWjhEN0NvZHVpUGg5YjA1Zw",
   "CBMigwFBVV95cUxOM0FxZzFRTU1MWEFLa2QydlpyQ01TTDJoTjZKTmxxekpnam9PZUswZEtEN1RiSkVMYThjZ0Y1SE42VkZETGdIVm1Nd3J3YVlndnJTTGtWamozS1otaVlPaWwyZE92c21mN0lkbnhURWY5OWxzSXBiWlVvOGRMM21KM1Y2MA",
   "https://nypost.com/?post_type=article&p=41077568",
-  "CBMixwFBVV95cUxPUndXVDZTcEFDQWtURXgyY2xhOUh2OTYyQml2YWNSTVN0Unh0cVZfMElHOFo4RnRSZG9OTzR6QzhySElfendhdnVYZDlkM0pwZXd3RkJaaFhjbm95RVBZWHZ1TExod3JUZFZ5WVVrUnBQZ2ZSanZ3cHVla3A2XzZqdGZ2MUtGejNZcG8xczFER2JraHFyUV84RGd2SmxWOEFhYm9vdnI5RkZnSkQzTGhKcEpfUWpCbWp6TTVFbE5KbTNXd19SOUxn"
+  "CBMixwFBVV95cUxPUndXVDZTcEFDQWtURXgyY2xhOUh2OTYyQml2YWNSTVN0Unh0cVZfMElHOFo4RnRSZG9OTzR6QzhySElfendhdnVYZDlkM0pwZXd3RkJaaFhjbm95RVBZWHZ1TExod3JUZFZ5WVVrUnBQZ2ZSanZ3cHVla3A2XzZqdGZ2MUtGejNZcG8xczFER2JraHFyUV84RGd2SmxWOEFhYm9vdnI5RkZnSkQzTGhKcEpfUWpCbWp6TTVFbE5KbTNXd19SOUxn",
+  "CBMiuwFBVV95cUxQT1NWcmpRdnNhV0szWEh4QVRhcF83OVVJSy1jY1BoOFZDb2ZGanhFd3VtQWp5bFJxa2kwRUZJaWExeXF0UmE0NS1vUVpjdWpoc1N4dUUzZ1AtT0ZyNkZBTjU2bmVSSTVjZVRUMmg3YmR2V3FVWXAwWk5lUWlNLVdSSUVRc1NoZEc3R1RrUVpxcnlEOHRmaHRlUjA4ZkVfekc2UGowc2J5T1AxanRxNUNieWw5cS00U3lEaGVN",
+  "CBMiywFBVV95cUxNOGxXWEZnTW1hNUtCOXY4NTJTWHQ0ZkZoUEZsYkt3c3lQTVU1NDFVbHJnSkNJbXRTdzZCSlBWY2tsc0stTk5CSGk1Ymhpb0NwaG1WUEg5Ni1pVlFxQnRMc093VGllN0c5ektIdWYyN191ZW5ZX1lrUjhVODk2TUpsRXFQT3hQdGhVUzdjdklkSENrWm8yWmgwVkE1bEd6TTB2RHBsUHpZVExmTUhkbjhINTVrZ3ZpQnNsQW9wc0FBMWk4XzF0WEI1aXZBQQ",
+  "CBMiYkFVX3lxTE9nVE1DanlacFc4Z01pUDRuZzNfbGZZSjJYU3p4Z0JXdXBtbmFMRWVYZGV5bk9sTGxhMEpZb3ZlLUh6S0dTaEVQRnY0QjhyUkZmcFY1RFdadjZacU9Qc2VNUWh3",
+  "https://www.washingtonexaminer.com/?p=4749235",
+  "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
+  "https://thehill.com/?p=6121941"
  ],
  "posts": [
-  {
-   "fp": "fight liga mexican moves promotion reigniting relegation restore senate soccer",
-   "title": "Mexican Senate moves to restore soccer promotion and relegation, reigniting Liga MX fight",
-   "source": "AP",
-   "at": "2026-09-22T03:34:36.025357+00:00"
-  },
-  {
-   "fp": "block declines judge land musk refuge spacex transfer wildlife",
-   "title": "US judge declines to block transfer of wildlife refuge land to Musk\u2019s SpaceX",
-   "source": "Guardian World",
-   "at": "2026-09-22T03:34:37.860550+00:00"
-  },
-  {
-   "fp": "dujuan heavy japan killed landslides least people rain triggers typhoon",
-   "title": "At least two people killed in Japan as typhoon Dujuan triggers heavy rain, landslides",
-   "source": "Guardian World",
-   "at": "2026-09-22T05:01:28.821263+00:00"
-  },
-  {
-   "fp": "altman british columbia mass openai ridge school shooting sues tumbler",
-   "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
-   "source": "Guardian World",
-   "at": "2026-09-22T05:01:30.531014+00:00"
-  },
-  {
-   "fp": "brought japan kill rains torrential typhoon",
-   "title": "Torrential rains brought by Japan typhoon kill two, NHK says",
-   "source": "Reuters",
-   "at": "2026-09-22T05:01:32.236712+00:00"
-  },
-  {
-   "fp": "advocates approach disarmament korea north nuclear south step tells",
-   "title": "South Korea's Lee tells AP he advocates step-by-step approach to North's nuclear disarmament",
-   "source": "AP",
-   "at": "2026-09-22T05:01:33.933825+00:00"
-  },
   {
    "fp": "nuclear safer",
    "title": "A Safer Way to Bet on Nuclear",
@@ -3201,15 +3165,45 @@
    "title": "EXCLUSIVE: US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
    "source": "Reuters World",
    "at": "2026-10-01T06:07:03.622812+00:00"
+  },
+  {
+   "fp": "bond consulting futures gain jitters market offset stocks wall",
+   "title": "Wall St futures gain as AI, consulting stocks offset bond-market jitters",
+   "source": "Reuters",
+   "at": "2026-10-01T12:32:47.127924+00:00"
+  },
+  {
+   "fp": "diesel exclusive export face france germany release sources stocks tells",
+   "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say",
+   "source": "Reuters",
+   "at": "2026-10-01T12:32:48.801468+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-10-01T12:32:50.435044+00:00"
+  },
+  {
+   "fp": "budget chairman contenders raises revenue table",
+   "title": "GOP budget chairman contenders put revenue raises on the table",
+   "source": "Washington Examiner",
+   "at": "2026-10-01T12:32:52.161752+00:00"
+  },
+  {
+   "fp": "about brazil election favorite picanha politics prices steak",
+   "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
+   "source": "NPR News",
+   "at": "2026-10-01T12:32:53.832309+00:00"
+  },
+  {
+   "fp": "adjourns fearful losing majority november republicans senate until",
+   "title": "Senate adjourns until November with Republicans fearful of losing majority",
+   "source": "The Hill",
+   "at": "2026-10-01T12:32:55.508238+00:00"
   }
  ],
  "titles": [
-  "fight liga mexican moves promotion reigniting relegation restore senate soccer",
-  "block declines judge land musk refuge spacex transfer wildlife",
-  "dujuan heavy japan killed landslides least people rain triggers typhoon",
-  "altman british columbia mass openai ridge school shooting sues tumbler",
-  "brought japan kill rains torrential typhoon",
-  "advocates approach disarmament korea north nuclear south step tells",
   "nuclear safer",
   "attack drone kills region russia samara ukrainian",
   "back evacuation face fight lithuania plans ready russia tells threats",
@@ -3603,6 +3597,12 @@
   "agenda back china greer takes tariff trump urges",
   "asian bonds focus september stocks torrid",
   "attack brawl forces hospital island killed lockdown long park sparking targeted",
-  "2027 chinese despite exclusive invasion next sees sources taiwan timeline unlikely year"
+  "2027 chinese despite exclusive invasion next sees sources taiwan timeline unlikely year",
+  "bond consulting futures gain jitters market offset stocks wall",
+  "diesel exclusive export face france germany release sources stocks tells",
+  "edition journal print street wall",
+  "budget chairman contenders raises revenue table",
+  "about brazil election favorite picanha politics prices steak",
+  "adjourns fearful losing majority november republicans senate until"
  ]
 }
