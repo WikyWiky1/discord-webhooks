@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6086967",
-  "https://nypost.com/?post_type=article&p=40801866",
   "CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA",
   "CBMiwgFBVV95cUxOdE5uV2RDSWNiS0xzZTRHU2NRZzlJSVZoLWxZS0p0N3hiRXNWWWY4MXJTSkppeVoyOTRQczhtS2RWZXNON2dnM2RQSzM4VDZ1Rzh2cWdrNW1hWHl0WE5VS280Wmx3QUY3VlBFLWpDU3lFR0d6clVsUHJEYjdMZ2IwVG56alpIbTNiS3V3TW9lNVljSGFhVkdLSmNaeEtvVlhfZlVMWUV2bmJXX05ubDZod3dmLVRObjRHUl9tNWxPR0ktQQ",
   "https://www.foxnews.com/world/houthis-enter-us-kill-box-after-seizing-red-sea-cork-former-pentagon-official-warns",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=41077751",
   "https://thehill.com/?p=6122151",
   "CBMipwFBVV95cUxQMFlLaTBYOV95NlJYdWUzVGRmM2hycnhicG43MWVPaklHQ1VseHV2SmV3NHZIaWlZRFJhdktYcThlcHZTamE5djNrbHlrZ0ZWWGxFcjI1d1V6ZTJQNlZaaVBaXzRXODVRSlNSZEJnNHdkd3pBck96eVdfbjlMeC04XzVqckF1S0lHZ25wQ0VmWG1QS0puaUhrWjhEN0NvZHVpUGg5YjA1Zw",
-  "CBMigwFBVV95cUxOM0FxZzFRTU1MWEFLa2QydlpyQ01TTDJoTjZKTmxxekpnam9PZUswZEtEN1RiSkVMYThjZ0Y1SE42VkZETGdIVm1Nd3J3YVlndnJTTGtWamozS1otaVlPaWwyZE92c21mN0lkbnhURWY5OWxzSXBiWlVvOGRMM21KM1Y2MA"
+  "CBMigwFBVV95cUxOM0FxZzFRTU1MWEFLa2QydlpyQ01TTDJoTjZKTmxxekpnam9PZUswZEtEN1RiSkVMYThjZ0Y1SE42VkZETGdIVm1Nd3J3YVlndnJTTGtWamozS1otaVlPaWwyZE92c21mN0lkbnhURWY5OWxzSXBiWlVvOGRMM21KM1Y2MA",
+  "https://nypost.com/?post_type=article&p=41077568",
+  "CBMixwFBVV95cUxPUndXVDZTcEFDQWtURXgyY2xhOUh2OTYyQml2YWNSTVN0Unh0cVZfMElHOFo4RnRSZG9OTzR6QzhySElfendhdnVYZDlkM0pwZXd3RkJaaFhjbm95RVBZWHZ1TExod3JUZFZ5WVVrUnBQZ2ZSanZ3cHVla3A2XzZqdGZ2MUtGejNZcG8xczFER2JraHFyUV84RGd2SmxWOEFhYm9vdnI5RkZnSkQzTGhKcEpfUWpCbWp6TTVFbE5KbTNXd19SOUxn"
  ],
  "posts": [
-  {
-   "fp": "build california crippling crony demand homeowners massive putin sanctions skyscraper slaps trying",
-   "title": "California homeowners demand US slaps crippling sanctions on Putin crony\u2019s son trying to build massive skyscraper",
-   "source": "New York Post",
-   "at": "2026-09-22T03:34:32.521495+00:00"
-  },
-  {
-   "fp": "deal leader negotiations positive trade vietnam",
-   "title": "Vietnam leader To Lam says positive negotiations with US on trade deal",
-   "source": "Reuters World",
-   "at": "2026-09-22T03:34:34.271955+00:00"
-  },
   {
    "fp": "fight liga mexican moves promotion reigniting relegation restore senate soccer",
    "title": "Mexican Senate moves to restore soccer promotion and relegation, reigniting Liga MX fight",
@@ -3201,11 +3189,21 @@
    "title": "Asian stocks dip, bonds in focus after torrid September",
    "source": "Reuters",
    "at": "2026-10-01T04:27:11.727693+00:00"
+  },
+  {
+   "fp": "attack brawl forces hospital island killed lockdown long park sparking targeted",
+   "title": "Long Island dad killed in \u2018targeted attack\u2019 at park \u2014 sparking hospital brawl that forces lockdown",
+   "source": "New York Post",
+   "at": "2026-10-01T06:07:01.434066+00:00"
+  },
+  {
+   "fp": "2027 chinese despite exclusive invasion next sees sources taiwan timeline unlikely year",
+   "title": "EXCLUSIVE: US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
+   "source": "Reuters World",
+   "at": "2026-10-01T06:07:03.622812+00:00"
   }
  ],
  "titles": [
-  "build california crippling crony demand homeowners massive putin sanctions skyscraper slaps trying",
-  "deal leader negotiations positive trade vietnam",
   "fight liga mexican moves promotion reigniting relegation restore senate soccer",
   "block declines judge land musk refuge spacex transfer wildlife",
   "dujuan heavy japan killed landslides least people rain triggers typhoon",
@@ -3603,6 +3601,8 @@
   "approves department labor lead pick senate trump",
   "confirms department insider keith labor lead senate sonderling",
   "agenda back china greer takes tariff trump urges",
-  "asian bonds focus september stocks torrid"
+  "asian bonds focus september stocks torrid",
+  "attack brawl forces hospital island killed lockdown long park sparking targeted",
+  "2027 chinese despite exclusive invasion next sees sources taiwan timeline unlikely year"
  ]
 }
