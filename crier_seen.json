@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-  "CBMiYkFVX3lxTFB1aDZFdTVFUm1wSUlEV0F2cGJ1RnRXZmU0d3B1bElhQzFESDU1cGZTZ3gzVU1kZk4zWm1EWTU2T0Q5dEdZMHAybWcySGtqVjdiWWVlV1hXT2hIaDByQ1FHek9n",
-  "https://www.washingtonexaminer.com/?p=4725839",
   "CBMiqwFBVV95cUxOeE5xdUNsUUxXZ3ByWXhWYV9aV0ZkRXB1NElaOTlaRXMtcXdPb2xXRGhpTlFMV0ctYnpYVVJqV1VDX25FemN2cnV2eXZNNDktcFdaNTNoT0plNjJOdWNHeHItTjR1cGcwZmRqbzBsWk1iTks4MGo4c09jblBGcW0zRFFzY0stUk1zME54YXdxdkRhMjNJelNkaTBPdE1fcHZQOW1lSmUwNmI0bE0",
   "https://pagesix.com/?post_type=article&p=9172070",
   "https://www.theguardian.com/uk-news/2026/sep/14/uk-armed-forces-member-killed-in-crash-ukraine",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/us-news/2026/oct/01/california-medical-helicopter-crash-catalina-island-la",
   "CBMiqAFBVV95cUxQMXEwbVZ0dGxwSkt5YlM4eE9uWGV0MTZScDhaV01PU2h6UG8wOF9XOEtYODdJZFM3U2NVdUhCQ09OUlB2YmJjZ2M0Y2Y0YmVPTzhYcTd1UGxPMEtSbVZlMnhiVHExUkZvOFpWcXc2dGNEYTlmS2R2Q0FwVUYxTnNEd1ZWbzY1OXQybktURkVQUE81dnRXQWtxR3VrM3pCZW5QSVRSWFprbzI",
   "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo#0",
-  "https://www.theguardian.com/australia-news/2026/oct/02/underlying-causes-of-recurrent-bacterial-vaginosis-identified-by-australian-scientists"
+  "https://www.theguardian.com/australia-news/2026/oct/02/underlying-causes-of-recurrent-bacterial-vaginosis-identified-by-australian-scientists",
+  "CBMiqwFBVV95cUxPcDNSb19Va1l3bHR0NkVQb1FCa0F1WFVhakZZZVNuSC1pMmNOc2I5b1dOeTZILVBXZF94bXZKOGFicG5OOGg3TWx2SGUtOHo0NEZmNGJnZ3ZPWmpYQlVRWUZPcjBpQWlIbHlJNmZBRGxPSlUtOXJQM3E2cjR4dV9HemNzYXpNVXV4Snd5R0J3anF1Q2ZVR05OZXJwX2ZMdk9iNmtscGJ1UXI5ZE0",
+  "CBMiugFBVV95cUxQZDFNUUJPc2dSYzI0MURCMk9ROVdRSnBYVzdiMHNKYkhndWN5UmtfdlFvUUxwUjk1VEM0N0MxRUM2clRIS2NrSndTYlpTUE9xa3dXSUxjWjVDbkp3TGgzeFBybmw5UG1EVkx6LUJhTTJLZUEwUWYyLVFrVFJGSjBPSkpkVld3bUVuUnNPZnlXLWRDeUhRZ2tzNENoSVlRUFVYUzBDSXZLOThUR2R5djFHWW8wa0l6YXQ0c0E",
+  "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo#0"
  ],
  "posts": [
-  {
-   "fp": "deal european free philippines strikes trade union",
-   "title": "European Union strikes a new free trade deal with the Philippines",
-   "source": "AP",
-   "at": "2026-09-22T11:03:17.950667+00:00"
-  },
-  {
-   "fp": "bombings convicts court deadly easter lanka sunday",
-   "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-   "source": "BBC World",
-   "at": "2026-09-22T14:57:51.848827+00:00"
-  },
-  {
-   "fp": "battle coastal heights houthis killed yemen",
-   "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
-   "source": "Guardian World",
-   "at": "2026-09-22T14:57:53.680957+00:00"
-  },
   {
    "fp": "2019 bombings court deadly easter finds guilty lankan roles",
    "title": "Sri Lankan court finds 15 men guilty for their roles in the 2019 deadly Easter bombings",
@@ -3201,12 +3183,27 @@
    "title": "Underlying causes of recurrent bacterial vaginosis identified by Australian scientists",
    "source": "Guardian World",
    "at": "2026-10-01T17:19:08.822941+00:00"
+  },
+  {
+   "fp": "airline attack captain cockpit flight flydubai hailed hero indian",
+   "title": "An Indian airline captain is hailed as a hero after a cockpit attack on a FlyDubai flight",
+   "source": "AP",
+   "at": "2026-10-01T19:00:29.559789+00:00"
+  },
+  {
+   "fp": "administration family fatal good minneapolis renee shooting sues trump",
+   "title": "Renee Good's family sues Trump administration over fatal Minneapolis shooting",
+   "source": "Reuters",
+   "at": "2026-10-01T19:00:31.269017+00:00"
+  },
+  {
+   "fp": "agent family good killed officials renee sues trump woman",
+   "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+   "source": "BBC World",
+   "at": "2026-10-01T19:00:33.102533+00:00"
   }
  ],
  "titles": [
-  "deal european free philippines strikes trade union",
-  "bombings convicts court deadly easter lanka sunday",
-  "battle coastal heights houthis killed yemen",
   "2019 bombings court deadly easter finds guilty lankan roles",
   "amateur archaeologist denarii field finds german roman silver",
   "compete deal election expects iran isolation trump urges",
@@ -3603,6 +3600,9 @@
   "california crash helicopter hospitalized kills leaves people",
   "diesel emergency france germany mainly stocks",
   "attack aviv dubai early flight involved iran israeli",
-  "australian bacterial causes identified recurrent scientists underlying vaginosis"
+  "australian bacterial causes identified recurrent scientists underlying vaginosis",
+  "airline attack captain cockpit flight flydubai hailed hero indian",
+  "administration family fatal good minneapolis renee shooting sues trump",
+  "agent family good killed officials renee sues trump woman"
  ]
 }
