@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMinwFBVV95cUxOWlNPNkZ3Qk5odXo3UzU5ZTFBOURmVGNhRlVFNGJqY3F3UTN0aHRsRXQ0NzlxWmdKcHh3cWdDeXVvYndOOHhCTzJoNGxJQ3pJVFZNQmh5WkNrcVBaS1pDT09kSk5XWFNnTlNzNE1CZnRLOFVUaURHODFRbzVsdUVWQVBfWVBnTElWQXh5WklXbk1ab3ZPVnNMajViLW5ydVU",
   "https://www.theguardian.com/us-news/2026/sep/14/mitch-mcconnell-return-senate",
   "https://thehill.com/?p=6089304",
   "CBMivAFBVV95cUxPcFU5RG1vWUx4LW5tTnVlWmxVaExUb1JiYks2N01JbTJFWl9NY3ZFRUpxaGc3LURuZ2xST2VkZ1hFNFROcjM4U0RPeGFqczRCamt4Z3FqWFBteC1seWxSdUJLRE9HUDlqeGxlczE4M0JJTEp1WC1VWGJXcmpJUjgzU0g1OGxHN0N6RWZtTjJBNktPTUJqU2Y0N2J2QTR1ZHRjQTNQZVk1UU4weXRvZGJvMDRYZkh0VkNvMXQtVg",
@@ -799,15 +798,10 @@
   "https://decider.com/2026/10/02/ahs-13-who-plays-ashley-elle-chapman-piggy-man-interview/",
   "https://www.foxnews.com/world/hero-flydubai-pilot-fighting-life-plane-plunged-copilot-attack",
   "CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ",
-  "https://www.washingtonexaminer.com/?p=4750671"
+  "https://www.washingtonexaminer.com/?p=4750671",
+  "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss"
  ],
  "posts": [
-  {
-   "fp": "commentary nasdaq rips slips trading",
-   "title": "COMMENTARY: Trading Day: Oil slips, Nasdaq rips",
-   "source": "Reuters",
-   "at": "2026-09-22T23:32:23.086674+00:00"
-  },
   {
    "fp": "administration admit african congress refugees south tells trump white",
    "title": "Trump administration tells Congress it will admit 17,500 white South African refugees",
@@ -3201,10 +3195,15 @@
    "title": "AI is already breaking out of the lab. Trump\u2019s red phone won\u2019t stop it",
    "source": "Washington Examiner",
    "at": "2026-10-02T14:58:24.471818+00:00"
+  },
+  {
+   "fp": "capsule crew dragon florida launches space spacex station",
+   "title": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule",
+   "source": "NPR Science",
+   "at": "2026-10-02T16:34:05.809579+00:00"
   }
  ],
  "titles": [
-  "commentary nasdaq rips slips trading",
   "administration admit african congress refugees south tells trump white",
   "hinson iowa points poll senate trails turek",
   "collapse florida industry orange race save total",
@@ -3603,6 +3602,7 @@
   "anything ashley chapman come elle going kill next piggy tease",
   "attack copilot fighting flydubai hero life pilot plane plunged",
   "burned center congo death down ebola passes toll treatment",
-  "already breaking phone stop trump"
+  "already breaking phone stop trump",
+  "capsule crew dragon florida launches space spacex station"
  ]
 }
