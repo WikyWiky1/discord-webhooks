@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40814255",
-  "https://thehill.com/?p=6089031",
-  "CBMiuAFBVV95cUxOY2VlWFpWc09aZzZyc3M3YWJOSUZXai00aHRDTDZZajFjUWh3QTFQQTVHa0p1RS1EUzlyYVpZMndKMnB5UE5xVmp3UGNVQ29iYlhncm5nQ0Y2b0s4STctdG9nVXM2VjRCXzIzODdfRVRldDRITHBrVGh6MjlCQUZDeDBjLWxmTTdqcHU1amV2MTdZN0d6RFRmS0N1Q0VOVWRwR1UzOGdSdXNqSWZyUkZRZFZxT3FhUDlz",
   "CBMioAFBVV95cUxPUV9iZ1hvNXptVGtUeEZ2X3Q1bkxtdm93Zm1neUNFdjlKM3Y2eElENzhEbHNpMFRRUXlGaWtUakU1al9wM3gtanR4R05saV9fWXVmNXlOWFUtQkpvRnJBbDdybE5CdVJtUmFRVDdLazdXRGljQUVVa0xpcUEzWHNpUEd5ZEhjOUlQMVMzY2hnamY1endIa0RZbFRlM3pKOUUx",
   "https://nypost.com/?post_type=article&p=40816669",
   "https://www.washingtonexaminer.com/?p=4726944",
@@ -799,27 +796,12 @@
   "https://pagesix.com/?post_type=article&p=9214741",
   "CBMiswFBVV95cUxPOEFHWXRfQXFua2ljc2wxbDFVUDlqaVRIRDhuQTRyRXU4eFZQUlZTamR5UWxFZll2dWsxYkxnRGpXTkx1SjVTOTZzdGh0R0tuNkRZd0xKNEV1T09xZzlfOVFUSTdnSmtFakhNN29qX05rQTBjOUE5dF9aUDVaRkxjZEFJdThldC0teThBWVpvNlcyVm1pVU05UUVYWnVXR2Z0Ylozb1Bwbzc5d2Q0N3BMNjFDQQ",
   "https://www.bbc.co.uk/news/articles/c639m98gde00o#0",
-  "CBMiowFBVV95cUxOQWQ0bnZHZTRpU08tcW9kNURFSWpUdzlmUVF4RW1aWEcxQlJwM2paM01Sc1Q1eTZyWkxtSDNWbE1QcjNSR2N6NGtxUjNINF9HYmk2YzJib3p2V0l3NXQ5Smx6c0hhazBIU1RKc2VpcWhpTm5XdzhFckR2MnNxWENHcjlNUm1xemp0RTFQa3dqLUZaVlYzamFzMjdBTnlfUXpGMmlF"
+  "CBMiowFBVV95cUxOQWQ0bnZHZTRpU08tcW9kNURFSWpUdzlmUVF4RW1aWEcxQlJwM2paM01Sc1Q1eTZyWkxtSDNWbE1QcjNSR2N6NGtxUjNINF9HYmk2YzJib3p2V0l3NXQ5Smx6c0hhazBIU1RKc2VpcWhpTm5XdzhFckR2MnNxWENHcjlNUm1xemp0RTFQa3dqLUZaVlYzamFzMjdBTnlfUXpGMmlF",
+  "https://www.npr.org/2026/10/02/nx-s1-5981096/ohio-senate-sherrod-brown-labor-workers",
+  "https://www.theguardian.com/politics/live/2026/oct/02/zack-polanski-green-party-conference-speech-kemi-badenoch-andy-burnham-general-election-latest-news-updates",
+  "CBMiYkFVX3lxTFBCaWhtUHNwZHczTUNMU19QcUJQTEtuVXRrSzhCRXV0N3VXVjRGQWNKQ2Z4YVFyaVVJOVJxU2tIT2tCOWxwTzhPQTBodi1ZSjMzbXB6eHIxX1U0d1ppUHBpS2RB"
  ],
  "posts": [
-  {
-   "fp": "coast hurricane intensifies major mexico pacific polo",
-   "title": "Major hurricane Polo intensifies off Mexico's Pacific coast",
-   "source": "Reuters",
-   "at": "2026-09-22T21:38:07.691843+00:00"
-  },
-  {
-   "fp": "apparently attack inside laundromat shot targeted teen",
-   "title": "NYC teen, mom shot inside laundromat during apparently targeted attack",
-   "source": "New York Post",
-   "at": "2026-09-22T21:38:09.431055+00:00"
-  },
-  {
-   "fp": "attack blasts care criticism harris kamala maternal michigan sayed stumping",
-   "title": "Kamala Harris blasts criticism of DEI as \u2018an attack on maternal care\u2019 while stumping for El-Sayed in Michigan",
-   "source": "New York Post",
-   "at": "2026-09-22T21:38:11.290196+00:00"
-  },
   {
    "fp": "attacks fifteen involvement jailed killed lanka life",
    "title": "Fifteen jailed for life over involvement in Sri Lanka attacks that killed more than 260",
@@ -3201,12 +3183,27 @@
    "title": "In-flight attack on FlyDubai pilot puts aviation security measures under fresh scrutiny",
    "source": "AP",
    "at": "2026-10-02T08:38:30.332424+00:00"
+  },
+  {
+   "fp": "back class democrat grabs ohio senate votes working",
+   "title": "The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?",
+   "source": "NPR News",
+   "at": "2026-10-02T09:24:53.164540+00:00"
+  },
+  {
+   "fp": "2027 badenoch claims election general labour live politics preparing",
+   "title": "Badenoch claims Labour is preparing for a general election in May 2027 \u2013 UK politics live",
+   "source": "Guardian World",
+   "at": "2026-10-02T09:24:55.008092+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-10-02T09:24:56.746097+00:00"
   }
  ],
  "titles": [
-  "coast hurricane intensifies major mexico pacific polo",
-  "apparently attack inside laundromat shot targeted teen",
-  "attack blasts care criticism harris kamala maternal michigan sayed stumping",
   "attacks fifteen involvement jailed killed lanka life",
   "american became davidson harley icon punching tariff",
   "abdul campaign harris kamala michigan returns sayed senate",
@@ -3603,6 +3600,9 @@
   "blanchard dead fianc gypsy rose urker",
   "atlantic disappear hurricane made season",
   "attack cockpit describes flight flydubai going others pilot",
-  "attack aviation flight flydubai fresh measures pilot puts scrutiny security under"
+  "attack aviation flight flydubai fresh measures pilot puts scrutiny security under",
+  "back class democrat grabs ohio senate votes working",
+  "2027 badenoch claims election general labour live politics preparing",
+  "edition journal print street wall"
  ]
 }
