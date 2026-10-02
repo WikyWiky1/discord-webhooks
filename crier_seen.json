@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMizwFBVV95cUxNZWJuMUU5Y2M5czN4NXROOXRqYS16SF9KRnNJZDhyOHd6cmhBRS0wVW1VcThLam93Rm1pcVQ2T1hPTjE1Zklwc1BpZWFjaDVObDgteUFUSmpoYkJST0NxQjhIT3hCSUNtOFE0LXRLVzMwMEx1OFhrN2VNYUJGWG93Y3ZUanlfcUFlaXppU1FCVXJ4SHNkd3dpenAwcjBXTlBHd3dBN3Vla25rOFhZNENzMTUybkdMZ1E3dUJnQW1ycENjdHRYdU5kTjVYU0cxaUE",
-  "CBMiugFBVV95cUxNaEt1eU5lZlg2ZEwzVDBnelI2SWVKV3RwMThUb1dDZzBHb0JUaVN6N3BuRlFhbmJCMHFYdFZieW9CcUF5Q0lJOTFaZXF3MmtBVmU5N2xhYjZSbTlQbzk1Yk5hLV9CbTU1WmJfQUgzR2NBOV9vY0R1Rkx2bXJTcHR2c2xHNVR4aGN0VnZJVWlGZ1A0TmF5MzJnMDI5NEwzaTlqbVQ1NUlnSGJ6eEkwdTRvejJZdTJzS0loMEE",
-  "https://www.washingtonexaminer.com/?p=4727675",
   "https://www.theguardian.com/uk-news/2026/sep/15/army-officers-let-down-soldier-over-sexual-assault-claim-before-she-killed-herself-court-martial-told",
   "https://nypost.com/?post_type=article&p=40825624",
   "https://thehill.com/?p=6090661",
@@ -799,27 +796,12 @@
   "CBMiyAFBVV95cUxOc1lyajJ3VGVGVzRxcTRCcEwtMUhFWWVoMjd3d09uS3N3R3ZZSGFBckFYYXgyVkFiVUxUaUJ5LUtyeWF1LTRzVGh0WGM2WUl0Qjk5YWFqbzFFaVJIY0tRaW1LMWNqbUQzSHFNR19fZm9OU1RKeHhtbURfU2RNRk9pNUk3X09xV3FybWVPV05SbUNKU0ZUMWgwakRuMHlNb1V5em5QQ2oxSDZHLXFNbTdpSW0wLUEyUVFXUS1ZWHMwNVB5N2FEMy1MTA",
   "CBMipwFBVV95cUxOQUxVZUh1aWE3TVAzREE1QmgxYWk3TUpKUGh0eHBnblg4OFBEX3EzdWRJMGRKRjZCcHpGdWxLcE85NGJ1QTlDWG9MWXR4QTBnTDdlSVZIZDVKYlk0QWJZZHVnam5IT1J0N3hqWkVMdmhIYTJzS0ZUSmJkTk12RjFWUWNTMkVRYzIySHlZak5ET2lrVGVobnBjWUt5T0RFRnBNQ09XemVWcw",
   "CBMilgFBVV95cUxQNllYU095N0ttVXFUeGVSNEdFYkhPV0xzZURveERVUk11alFtdWQ4SUdodzhhaTRITHRxV1ZNekdCMS1xZnlPd3JJUFI5Q3JlVWJYQzZZVUppVW5kSUtSTVNyNEZhZ0hlQzNpck9Yb2NIZFJoZktFa0swXzVhd0VMQi10QXA0WEpZZXdJREpLbDhObVlMOEE",
-  "https://thehill.com/?p=6126765"
+  "https://thehill.com/?p=6126765",
+  "https://nypost.com/?post_type=article&p=41114109",
+  "https://nypost.com/?post_type=article&p=41114057",
+  "https://www.theguardian.com/us-news/2026/oct/02/gypsy-rose-blanchard-ken-urker-dead"
  ],
  "posts": [
-  {
-   "fp": "alaska contest fight makes senate trawling waves",
-   "title": "Trawling fight makes waves in Alaska Senate contest",
-   "source": "The Hill",
-   "at": "2026-09-23T10:52:36.947245+00:00"
-  },
-  {
-   "fp": "artificial bernie bill create department sanders superintelligence unveils",
-   "title": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
-   "source": "AP",
-   "at": "2026-09-23T10:52:38.651737+00:00"
-  },
-  {
-   "fp": "advanced confronts congress lawmakers senate shut tools",
-   "title": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
-   "source": "NPR News",
-   "at": "2026-09-23T10:52:40.360110+00:00"
-  },
   {
    "fp": "american arkansas candidate faces fury illegal migrants replace senate should suggesting workers",
    "title": "Arkansas Dem Senate candidate faces fury for suggesting illegal migrants should replace American workers",
@@ -3201,12 +3183,27 @@
    "title": "Kansas Democratic Senate nominee says 'please, no' to Harris campaigning for him",
    "source": "The Hill",
    "at": "2026-10-02T21:52:46.175288+00:00"
+  },
+  {
+   "fp": "come daughter evening home killed murder suicide supposed texas whose wife",
+   "title": "Texas dad whose daughter, 4, was killed in murder-suicide by ex-wife says \u2018she was supposed to come home that evening\u2019",
+   "source": "New York Post",
+   "at": "2026-10-02T23:28:39.331230+00:00"
+  },
+  {
+   "fp": "attack british charged iranians jews kippur plotting terror",
+   "title": "Two Iranians charged with plotting terror attack on British Jews on Yom Kippur",
+   "source": "New York Post",
+   "at": "2026-10-02T23:28:41.150678+00:00"
+  },
+  {
+   "fp": "blanchard dead found gypsy home louisiana partner rose",
+   "title": "Partner of Gypsy Rose Blanchard found dead in Louisiana home",
+   "source": "Guardian World",
+   "at": "2026-10-02T23:28:42.989925+00:00"
   }
  ],
  "titles": [
-  "alaska contest fight makes senate trawling waves",
-  "artificial bernie bill create department sanders superintelligence unveils",
-  "advanced confronts congress lawmakers senate shut tools",
   "american arkansas candidate faces fury illegal migrants replace senate should suggesting workers",
   "alibaba chip larger model outlines plan unveils",
   "blocks driver early gavin heroin killed meth newsom release rescue workers",
@@ -3603,6 +3600,9 @@
   "bros combined david discovery ellison named paramount skydance warner",
   "carolina deep exits group north pocketed race senate",
   "higher hiring leads nasdaq softens stocks",
-  "campaigning democratic harris kansas nominee please senate"
+  "campaigning democratic harris kansas nominee please senate",
+  "come daughter evening home killed murder suicide supposed texas whose wife",
+  "attack british charged iranians jews kippur plotting terror",
+  "blanchard dead found gypsy home louisiana partner rose"
  ]
 }
