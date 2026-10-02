@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA",
-  "CBMiYkFVX3lxTE1Zc05HcF9ULUJERzBJRVAtTUx0VGhUOVNFTkpmd3I3eV9BX0NYMVVQeTBldmc5ajYxOXZsMU5iRGFhdEFmUENaQXZlUzY2ZUdVYmNjSHNraExBVVkxNHduZ2Fn",
-  "CBMinAFBVV95cUxOV01GUmI4UWMzUkZyNWJkbnBucjJXZlo1anh0LW1LLUl0X0E1dFBUX3ZjOHJLZk5TcVFLTTRCQjNOYXJYRjhFOTBNdEc3OEIzd0tTLWtfVzY1NUVZWkFlQzNGeFgxbHY1TFBXcjRpNDlKVFZXU0poLTBtTmJWREh0UUttQ1RLYnpXU3hrZ3BIU09SM2tVcnd3d0V2dEo",
   "https://www.washingtonexaminer.com/?p=4725273",
   "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
   "https://www.washingtonexaminer.com/?p=4726836",
@@ -799,27 +796,12 @@
   "CBMimwFBVV95cUxPV3JiUTV3TldIc0JJUmgwMnBSUmxYZmlfT2pqSjg3UzV3SWRWZXZBbzF6U3I5MFJjZjJmS3dObzZ0SHJXTWVZaUNoR0U3MFpqdzhRZGpSbkFWa0RiT1ZONjd5SzRSS01iLWNRWEtGeHlTRzE0Qi1rbmgtclhMd0E0X21nTzhiNVE5blFIRHkxN3Yxb2pHWmk4b2I3aw",
   "https://thehill.com/?p=6126293",
   "https://news.sky.com/story/city-steps-up-opposition-to-healey-bank-tax-raid-in-budget-13594449",
-  "https://thehill.com/?p=6126023"
+  "https://thehill.com/?p=6126023",
+  "https://decider.com/2026/10/02/evil-dead-burn-hbo-max-review-stream-it-or-skip-it/",
+  "https://nypost.com/?post_type=article&p=41108591",
+  "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency"
  ],
  "posts": [
-  {
-   "fp": "beamer blasts candidate hasan hero left mich piker rhetoric rival sayed senate ties todd",
-   "title": "Dad of 9/11 hero Todd Beamer blasts Hasan Piker\u2019s rhetoric, ties to far-left Mich. Senate candidate El-Sayed in ad for GOP rival",
-   "source": "New York Post",
-   "at": "2026-09-23T03:34:37.513988+00:00"
-  },
-  {
-   "fp": "asia higher ride stays stocks subdued tech wave",
-   "title": "Asia stocks ride tech wave higher, oil stays subdued",
-   "source": "Reuters",
-   "at": "2026-09-23T03:34:39.445104+00:00"
-  },
-  {
-   "fp": "chip early european gains open stocks week",
-   "title": "European Chip Stocks Open Week With Early Gains",
-   "source": "WSJ",
-   "at": "2026-09-23T03:34:41.156313+00:00"
-  },
   {
    "fp": "africa house killed mass party shooting south",
    "title": "11 killed in mass shooting at house party in South Africa",
@@ -3201,12 +3183,27 @@
    "title": "Talarico leads Paxton by 2 points in tightening Texas Senate race: Survey",
    "source": "The Hill",
    "at": "2026-10-02T17:32:32.013981+00:00"
+  },
+  {
+   "fp": "bloody burn dead display evil franchise fresh necronomicononsense skip stream undead",
+   "title": "Stream It Or Skip It: \u2018Evil Dead Burn\u2019 on HBO Max, a Fresh Bloody Display of Necronomicononsense in an Undead Franchise",
+   "source": "New York Post",
+   "at": "2026-10-02T19:47:21.945161+00:00"
+  },
+  {
+   "fp": "bowler dead falcons jeff legend note time",
+   "title": "Falcons legend and six-time Pro Bowler Jeff Van Note dead at 80",
+   "source": "New York Post",
+   "at": "2026-10-02T19:47:23.636750+00:00"
+  },
+  {
+   "fp": "100m barrels diesel emergency release reserves",
+   "title": "G7 to release up to 100m barrels of emergency oil and diesel reserves",
+   "source": "Guardian World",
+   "at": "2026-10-02T19:47:25.276006+00:00"
   }
  ],
  "titles": [
-  "beamer blasts candidate hasan hero left mich piker rhetoric rival sayed senate ties todd",
-  "asia higher ride stays stocks subdued tech wave",
-  "chip early european gains open stocks week",
   "africa house killed mass party shooting south",
   "bomb cornwall evacuation found under unexploded",
   "africa dead house leaves mass police shooting south wounded",
@@ -3603,6 +3600,9 @@
   "americans head higher hiring month polls remaining slows ticks unemployment",
   "board editorial hegseth journal knocks line speech street wall weirdos",
   "bank budget city healey opposition raid steps",
-  "leads paxton points race senate survey talarico texas tightening"
+  "leads paxton points race senate survey talarico texas tightening",
+  "bloody burn dead display evil franchise fresh necronomicononsense skip stream undead",
+  "bowler dead falcons jeff legend note time",
+  "100m barrels diesel emergency release reserves"
  ]
 }
