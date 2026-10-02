@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4725926",
-  "https://thehill.com/?p=6088483",
-  "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais",
-  "CBMisgFBVV95cUxQcDRfbFRjWnI3M0VQaXg2cUsyT3d4ME5RUXFySks1MFlkbnBiWDMyYU1jcy1sT3g3VGJpbU5uWDNZVTF6VEFmcnAyTnZiTHhVUGtqVEh3clNYYjh5MUdIcUgxaE56N2JydmRhQ3FGQjhFTlFFcUF2TTZncHMwWFMtbDl5UXZuR1RwQmlqS1hSdFA4LUpyX3NxeEZJcE9zODJIS1J4XzRrVEVNZF96eWx6dTVB",
-  "https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania",
-  "CBMiwAFBVV95cUxOeDdvckhVQlJKZzN2eU90TEg3YU9vRmhZdTdjdkZ1cExSOUd4N09GVEktMTBVT012ZUdGWUdtc2JLaDdIWDJWWFdpUmlJU3pMVWt3MXR2bXRyUXlnSHJTVDJ2Vzg1bmx1ZFptX3ZoVmlMZS1EODlaM3FHbGFJTHFUM0I5YkE5WVRGcEs0UlNkZjdsdXhzdHF6dXFqbHV0bFFZRmRCNDF1WHpQOGZLeGJCdkJIRmNOa1Bzb1FKNU9fcGc",
   "CBMihwFBVV95cUxOR0tkcjY4clJ2LVBZNnBiYy1QRFZ5WmxoRXp1Ym1HYlRMdTZsc0J4c0dvdWJpYzJ0aGh3Yy1wZ2xRRU9yRFVncGtPN0VRdi1LNFNfTEVpdkM3STBZRzhHcGRBVTg3VVhaNzV1RHVmVFNTb3Fqdlc4RlJZMWc2alhqeUYtWVdKOGM",
   "https://www.washingtonexaminer.com/?p=4726416",
   "CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=41092964",
   "https://nypost.com/?post_type=article&p=41091616",
   "CBMimgFBVV95cUxQeVJhSGVobUxHZWNqZ3FDWmd1TWtHSzBZUE12amtIVXN1anBZcDVqMzBMUllfUEJNcXRIczlyZWd5Q1Q2N3VfbWYzLWZVWEN0Q09OODdlWjdGdjVNc3E5TzUyMzV6ekd2VHBxTTRWQklOZU1aUmRTT0pQcFlfYjJoT1ZYTnlmb3QtalNnR2x4eGJrTmUxa2E1MFV3",
-  "CBMirgFBVV95cUxOOFBpNGx5bzBtZmdGMkdCWlJmUlN2MHZkYnBLcG5WNk5oZ25TMVFaYVdUOVl0QldGZDk4SGZLRDNRSHRWMHhUTzM2eWpPUkRteEZET21yRDRZLTNKbGZjNnNldVBIS1JkVzdkTTdrVkhJWHB4ZGlBa2tGN3JoVC1TOHBRczdCWG1HdEZIcVU5NkpFMTN6ZUZCQ2dJR2JjbXVwdkN6QjdOTWpKcDF6Smc"
+  "CBMirgFBVV95cUxOOFBpNGx5bzBtZmdGMkdCWlJmUlN2MHZkYnBLcG5WNk5oZ25TMVFaYVdUOVl0QldGZDk4SGZLRDNRSHRWMHhUTzM2eWpPUkRteEZET21yRDRZLTNKbGZjNnNldVBIS1JkVzdkTTdrVkhJWHB4ZGlBa2tGN3JoVC1TOHBRczdCWG1HdEZIcVU5NkpFMTN6ZUZCQ2dJR2JjbXVwdkN6QjdOTWpKcDF6Smc",
+  "https://pagesix.com/?post_type=article&p=9214563",
+  "CBMimAFBVV95cUxQTlJhNXJDVzZYYm9UQjBya1dvN1pyd1FXY2JYVmhCbHFMRDVYeW9oU0x1Z2xrUFZsOE5rYy1xeWFoZm53R01ESWlRNkNoSlZmVlRFTXl0bTJFN250UEF4SjVpODE2R1VtbmxGbzJuUWs3RlhBb3c4ZnpEWWFjdEtFNEJncGRoZm1iS1M0cFJnQkdhWlpYZHgyUg",
+  "CBMi0AFBVV95cUxOMnROV0lPSUZ0VUwwWXRTc1lnMk9YN1hLR29OaVBLMEVqVlhSQjlMSTVwUHlnY0l5R3FQdS1lWkM2T3BudFhIR3ZGa195SmwtSm92VmRyWWlZU2FJaS1fYklRc2VjUW82NlF5cnVBVDBvZ2lRMjR0WTFNbjdhb2FyU3k2emNoYm1PaDJQTHJ3aFU0bXhqMXZOSko0ZndvbUJsVVU1cEs1MmNpSjlHZEtONE5QOEdNMFlIemNJNkZsTkZkVUF4cnN2ZHdFaE9sbk5H",
+  "https://www.washingtonexaminer.com/?p=4751126",
+  "CBMilgFBVV95cUxPVTEwb09rWU9TWmVQdGp3TkQ2b2MzRzU3bnoySi0tSUVGaFMzVFI2WmZHckpkTUlSV1JNejF6aFRTaWVlQ0tLUFBiTTNacEJSMHk1RGdyTHpMMndCU2Zyb1NuVXI3bUxCWG4yZ3NaUVQ1OHlCXy1CNEgyRVZsdDN5X0s3eXBKX2ZDLUFvdWFLb3BsNVduVUE",
+  "CBMiwgFBVV95cUxOZXdFSzJFdjBLUDdCTG5MNjBWRzFXaEZTOWR3Rkl6NWtNeHcwd1Z0T18yNEx6emJuVmt3RDV0WU1wRGlqNDFWQ25ZcENURVdRb0RxNVBZR1Y3X01zdlpqa0NzNHBwTHhkSUItTGRRUDNnWWJVRnJ3aHN1aTl1Vk92Q2N1UlpnOTA4T0NYeEdkcW9uOVpsSnk3cEltZDgtUnpmVzVpSjFacEF4X0VsMmV5cTRCdmJQM0dNbS01THlGVW9jdw"
  ],
  "posts": [
-  {
-   "fp": "children fire house intense killed merseyside ravages three woman",
-   "title": "Woman and three children killed after \u2018intense\u2019 fire ravages Merseyside house",
-   "source": "Guardian World",
-   "at": "2026-09-22T18:31:23.827542+00:00"
-  },
-  {
-   "fp": "attack believe community foiled imminent jewish manchester police",
-   "title": "Police believe they have foiled \u2018imminent\u2019 attack on Manchester\u2019s Jewish community",
-   "source": "Guardian World",
-   "at": "2026-09-22T18:31:25.539179+00:00"
-  },
-  {
-   "fp": "back bullet doordash driver lawyer leaves shooting texas venezuelan",
-   "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
-   "source": "BBC World",
-   "at": "2026-09-22T18:31:27.422938+00:00"
-  },
-  {
-   "fp": "drops endorsement georgia gubernatorial jackson primary push rick rival suits",
-   "title": "Rick Jackson drops suits against Georgia gubernatorial primary rival in push for endorsement",
-   "source": "Washington Examiner",
-   "at": "2026-09-22T20:56:57.609876+00:00"
-  },
-  {
-   "fp": "close high nasdaq rally reaches record stocks",
-   "title": "Nasdaq reaches record high close, AI stocks rally",
-   "source": "Reuters",
-   "at": "2026-09-22T20:56:59.329350+00:00"
-  },
-  {
-   "fp": "campaign harris hits hopeful michigan national sayed senate trail voice",
-   "title": "Harris hits the campaign trail for El-Sayed in Michigan: Senate hopeful will be 'a national voice'",
-   "source": "The Hill",
-   "at": "2026-09-22T20:57:01.024830+00:00"
-  },
   {
    "fp": "hinson iowa iran plagues race republican senate shifts toss",
    "title": "Iowa Senate race shifts to toss-up as Iran war plagues Republican Hinson",
@@ -3201,15 +3165,45 @@
    "title": "Attack at Mexico secondary school kills vice principal, injures three",
    "source": "Reuters",
    "at": "2026-10-01T23:13:59.335951+00:00"
+  },
+  {
+   "fp": "accusing actress berry choking custody granted halle maceo primary year",
+   "title": "Halle Berry\u2019s ex granted primary custody of son Maceo after accusing actress of choking their 12-year-old",
+   "source": "New York Post",
+   "at": "2026-10-02T00:33:14.561107+00:00"
+  },
+  {
+   "fp": "boom clues last long memory offer stocks",
+   "title": "How Long Will the AI Boom Last? Memory Stocks Offer Clues",
+   "source": "WSJ",
+   "at": "2026-10-02T00:33:16.285746+00:00"
+  },
+  {
+   "fp": "appointment brings bros cost cutter david discovery ellison kreiz paramount warner",
+   "title": "David Ellison's appointment of Kreiz brings cost-cutter to Paramount-Warner Bros Discovery",
+   "source": "Reuters World",
+   "at": "2026-10-02T00:33:18.147439+00:00"
+  },
+  {
+   "fp": "election live midterm oklahoma rally republicans stumps trump watch",
+   "title": "WATCH LIVE: Trump stumps for Republicans at Oklahoma midterm election rally",
+   "source": "Washington Examiner",
+   "at": "2026-10-02T00:33:19.828240+00:00"
+  },
+  {
+   "fp": "bond market markets optimism shake stock street supports swings wall worldwide",
+   "title": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street",
+   "source": "AP",
+   "at": "2026-10-02T00:33:21.497423+00:00"
+  },
+  {
+   "fp": "democratic hardest predicted republican scrambling senate states strategy surge",
+   "title": "Democratic surge predicted to hit Republican states hardest, scrambling Senate strategy",
+   "source": "Reuters",
+   "at": "2026-10-02T00:33:23.226207+00:00"
   }
  ],
  "titles": [
-  "children fire house intense killed merseyside ravages three woman",
-  "attack believe community foiled imminent jewish manchester police",
-  "back bullet doordash driver lawyer leaves shooting texas venezuelan",
-  "drops endorsement georgia gubernatorial jackson primary push rick rival suits",
-  "close high nasdaq rally reaches record stocks",
-  "campaign harris hits hopeful michigan national sayed senate trail voice",
   "hinson iowa iran plagues race republican senate shifts toss",
   "bought disclosure financial july musk shares shows sold spacex trump",
   "ball crystal democrats favor gubernatorial moves races sabato senate",
@@ -3603,6 +3597,12 @@
   "advocates backed battle deadly drug newborn results soros tests",
   "cower hamas hasan hate hostage piker",
   "category coast hurricane mexico pacific rachel storm strengthens",
-  "attack injures kills mexico principal school secondary three vice"
+  "attack injures kills mexico principal school secondary three vice",
+  "accusing actress berry choking custody granted halle maceo primary year",
+  "boom clues last long memory offer stocks",
+  "appointment brings bros cost cutter david discovery ellison kreiz paramount warner",
+  "election live midterm oklahoma rally republicans stumps trump watch",
+  "bond market markets optimism shake stock street supports swings wall worldwide",
+  "democratic hardest predicted republican scrambling senate states strategy surge"
  ]
 }
