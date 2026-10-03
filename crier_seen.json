@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/uk-news/2026/sep/15/army-officers-let-down-soldier-over-sexual-assault-claim-before-she-killed-herself-court-martial-told",
-  "https://nypost.com/?post_type=article&p=40825624",
-  "https://thehill.com/?p=6090661",
   "https://www.washingtonexaminer.com/?p=4727591",
   "CBMimwFBVV95cUxONUloclV5WTB4VVNxb0dYYl9wMF9aQVBuRzdUbFV5b1F5clFfRVBNQjZxVTA5Z29qN1dkV1pwRm9MWnF3V3ByRnBXU01VTGtZakdNRUdLWHU5WjdMWmF1Vy1ESW1yX3JzdkR3em5vb2UxV2JZZ2NHenNQeGJ6UkVZMkcyWkFMYXc5VnBWTTNHd0VCbTJyVkpabW9kYw",
   "https://www.theguardian.com/business/2026/sep/15/uk-retailers-breaking-law-not-refunding-customers-returned-goods-which",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6126765",
   "https://nypost.com/?post_type=article&p=41114109",
   "https://nypost.com/?post_type=article&p=41114057",
-  "https://www.theguardian.com/us-news/2026/oct/02/gypsy-rose-blanchard-ken-urker-dead"
+  "https://www.theguardian.com/us-news/2026/oct/02/gypsy-rose-blanchard-ken-urker-dead",
+  "https://nypost.com/?post_type=article&p=41117007",
+  "https://www.theguardian.com/us-news/2026/oct/02/cyclospora-mexico-farm-lettuce",
+  "https://www.theguardian.com/world/2026/oct/02/magnitude-48-earthquake-hits-victoria-with-tremors-felt-across-melbourne"
  ],
  "posts": [
-  {
-   "fp": "american arkansas candidate faces fury illegal migrants replace senate should suggesting workers",
-   "title": "Arkansas Dem Senate candidate faces fury for suggesting illegal migrants should replace American workers",
-   "source": "New York Post",
-   "at": "2026-09-23T10:52:42.099337+00:00"
-  },
-  {
-   "fp": "alibaba chip larger model outlines plan unveils",
-   "title": "Alibaba Unveils New AI Chip, Outlines Plan for Larger Model",
-   "source": "WSJ",
-   "at": "2026-09-23T10:52:43.901134+00:00"
-  },
-  {
-   "fp": "blocks driver early gavin heroin killed meth newsom release rescue workers",
-   "title": "Gavin Newsom blocks early release of meth-and-heroin driver who killed two rescue workers",
-   "source": "New York Post",
-   "at": "2026-09-23T13:40:35.574002+00:00"
-  },
   {
    "fp": "anti attack backing cross declares disinformation farage free gets live party politics speech unit",
    "title": "PM\u2019s new anti-disinformation unit gets cross-party backing, as Farage declares it an attack on free speech \u2013 UK politics live",
@@ -3201,12 +3183,27 @@
    "title": "Partner of Gypsy Rose Blanchard found dead in Louisiana home",
    "source": "Guardian World",
    "at": "2026-10-02T23:28:42.989925+00:00"
+  },
+  {
+   "fp": "cyclospora identifies lettuce linked outbreak source",
+   "title": "FDA identifies source of cyclospora outbreak linked to lettuce",
+   "source": "New York Post",
+   "at": "2026-10-03T02:17:36.761109+00:00"
+  },
+  {
+   "fp": "cyclospora farm found lettuce linked mexican outbreak",
+   "title": "Cyclospora found at Mexican farm linked to lettuce outbreak, FDA says",
+   "source": "Guardian World",
+   "at": "2026-10-03T02:17:38.440423+00:00"
+  },
+  {
+   "fp": "across earthquake felt hits magnitude melbourne tremors victoria",
+   "title": "Magnitude 4.8 earthquake hits Victoria with tremors felt across Melbourne",
+   "source": "Guardian World",
+   "at": "2026-10-03T02:17:40.182521+00:00"
   }
  ],
  "titles": [
-  "american arkansas candidate faces fury illegal migrants replace senate should suggesting workers",
-  "alibaba chip larger model outlines plan unveils",
-  "blocks driver early gavin heroin killed meth newsom release rescue workers",
   "anti attack backing cross declares disinformation farage free gets live party politics speech unit",
   "chief finance four gaza hamas israel killed strikes",
   "coast downgraded hurricane mexico polo powerful remains very",
@@ -3603,6 +3600,9 @@
   "campaigning democratic harris kansas nominee please senate",
   "come daughter evening home killed murder suicide supposed texas whose wife",
   "attack british charged iranians jews kippur plotting terror",
-  "blanchard dead found gypsy home louisiana partner rose"
+  "blanchard dead found gypsy home louisiana partner rose",
+  "cyclospora identifies lettuce linked outbreak source",
+  "cyclospora farm found lettuce linked mexican outbreak",
+  "across earthquake felt hits magnitude melbourne tremors victoria"
  ]
 }
