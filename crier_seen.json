@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6091227",
-  "https://www.washingtonexaminer.com/?p=4727451",
-  "https://thehill.com/?p=6091335",
-  "CBMiwgFBVV95cUxNTFgtRmQ1RkZGOUFJdjlYa2Fsa1daaGJXUWk4aFhfbkJvLTlhTUx1amtFR256S2VFMjFPRWtSVnJRTUhHeFc3NnVHQVVzY0JzQzBsbkQtczZQNDBCMnZqS2pKQTJVelhycFp4QWQ0MFNNcVg3UGhxOHdyXzhnSHRzOXRSbWVXblN1akdoeXBuaFBzUDJaU3V1Z0M3NDZfUEJzcE4xemgtSG9yclpTY3VVaXNZRzNST0VUQWFBZ1V5Z05tdw",
   "https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit",
   "CBMiogFBVV95cUxQeXdoSFh5N1BoSHFEVHJRVUVnRXpXV1ZaMG1aMHJnT3lFczVCZHU1Y2tuclFOVWtQangxbVVXZEpLc3p3MWZYc2ROZnpiaFlvcFhkbGI5dzhrMG44UUF0bnQ5am1GXzFwVkJFeUo3Qm5kNGcwM05tbGdpVi15QUtHSW9vXy1uTjgyLWpjVEEtaTA3Uml3VGJ2R2xmbzhqWlExMHc",
   "CBMiiAFBVV95cUxOSlVudVlJaVNXS1VsYmhrcERoX0RMS3hueWJDektSZXlfVW5YRUdUSm5HUS1WVElHUEc1SjgyOUhyQm5MSVpxOXFOVnFhUEVnZkdkenE0bDAtV29OS1lFNG5iZl9wTENjQUZkOURzeHV3LXRRejYySEZVM1pxcVI0WkcwTDIwTThK",
@@ -799,33 +795,13 @@
   "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
   "https://www.washingtonexaminer.com/?p=4751244",
   "CBMikgFBVV95cUxPdGtJVl9sZ3dpVGx3TTkxT1BndFdNbHo0bXd2clBEUXhKMVA5dU16dHU5ZXZkSjhrRVQyb3VIMjNmTlhLajBvNno4TW1FMFo1N0hZcWFyd3N3MXd3WGktT0lNX2ZabGFVZmMycmQxam5DYktuQ1pYY2p4Z1hLaUN3YkZuT3M4YkZ6NzAyUmpTY1l0dw",
-  "CBMimAFBVV95cUxQRkdVQm55b3BTaXFNOERrTjJWOWlVUmpKWjhRVmo2Ym5jS283bkNqNTBLaUZONmRZOXFrQUVObjNpT1Q5a25IbXFQQWVoUGFkMjlRdlpORW5FamthRnMxNWxpdXBMMldyaFNFSkotTG9aNXpfTHY0ODB6RVZtOE5oaVpidDBVY3YxeHQ1STFZdndDc3QyNVZOaw"
+  "CBMimAFBVV95cUxQRkdVQm55b3BTaXFNOERrTjJWOWlVUmpKWjhRVmo2Ym5jS283bkNqNTBLaUZONmRZOXFrQUVObjNpT1Q5a25IbXFQQWVoUGFkMjlRdlpORW5FamthRnMxNWxpdXBMMldyaFNFSkotTG9aNXpfTHY0ODB6RVZtOE5oaVpidDBVY3YxeHQ1STFZdndDc3QyNVZOaw",
+  "https://nypost.com/?post_type=article&p=41091827",
+  "CBMiggFBVV95cUxOamVlQXJYSVV1Rlo2TTJUSTgwcUp4Z0R5anFVUTctUTE0Vl9NRUwyblYyODdSUkNwUmd5U29UQk9RVU5Hc0JOOFY3RE5KRnJGbDJ0VlNfRGV1ZWJlbHJtdEhfdUVidktXbW1ici00UFl3bXVveTBCb3dzZWxueURBN0N3",
+  "CBMiugFBVV95cUxOazBZenNaeXhSTEp4SXJwdEJFTWU3TkZPN2pHN09fT3gzOG5WeHBmdXpYZ3NKMnI2c1JvWURnY0Z1US1qNVJFeURpV2lWZ3BOWWJZejVXaHVmajJUWk1MMW5jQ0FuU2tHb0E5dE5JbW8tcWQ5dGhJcG9jbU5ud1FXVEhsZDdCbzNQQWdJaVQ4WTU1Tl9MVG9xWi1VY1ZpLUJuSHVmZXVRU3ZmRnhpd1I5LTNJbGlka1k1Qmc",
+  "https://nypost.com/?post_type=article&p=41115927"
  ],
  "posts": [
-  {
-   "fp": "billion investment mcdonald plan recovery traffic unveils warns",
-   "title": "McDonald's warns traffic recovery may lag; unveils $8.5 billion investment plan",
-   "source": "Reuters",
-   "at": "2026-09-23T16:13:09.669995+00:00"
-  },
-  {
-   "fp": "cook democrats political races report senate shifts toward",
-   "title": "Cook Political Report shifts key Senate races toward Democrats",
-   "source": "Washington Examiner",
-   "at": "2026-09-23T16:13:12.286983+00:00"
-  },
-  {
-   "fp": "congress federal help transparency unions workers",
-   "title": "Federal unions owe workers more transparency. Congress can help.",
-   "source": "The Hill",
-   "at": "2026-09-23T16:13:14.038880+00:00"
-  },
-  {
-   "fp": "abortion access agenda back election labor nation puts reproductive rights victorian warns wind",
-   "title": "Victorian Labor puts reproductive rights on election agenda as it warns One Nation could try to wind back abortion access",
-   "source": "Guardian World",
-   "at": "2026-09-23T16:13:15.829946+00:00"
-  },
   {
    "fp": "also ceasefire interest lavrov limited rubio russia talks voiced",
    "title": "Rubio, after Lavrov talks, says Russia has also voiced interest in 'limited ceasefire'",
@@ -3201,13 +3177,33 @@
    "title": "Luxury Stocks Are Selling at Fast-Fashion Prices",
    "source": "WSJ",
    "at": "2026-10-03T11:11:33.578873+00:00"
+  },
+  {
+   "fp": "2026 bike central crash deadly editor letters park",
+   "title": "Deadly Central Park bike crash and more: Letters to the Editor \u2014 Oct. 4, 2026",
+   "source": "New York Post",
+   "at": "2026-10-03T13:25:47.086269+00:00"
+  },
+  {
+   "fp": "catholic crash highway kenya killed least pilgrims road",
+   "title": "At least 17, most of them Catholic pilgrims, killed in a road crash on a highway in Kenya",
+   "source": "AP",
+   "at": "2026-10-03T13:25:48.715377+00:00"
+  },
+  {
+   "fp": "attack developments flydubai identified mideast other pilot",
+   "title": "Co-pilot in FlyDubai attack is identified, and other Mideast developments",
+   "source": "AP",
+   "at": "2026-10-03T13:25:50.352836+00:00"
+  },
+  {
+   "fp": "busted collapses criminal empire family illegal operation pimping secret",
+   "title": "Secret family-run criminal empire busted for pimping, illegal sex operation collapses",
+   "source": "New York Post",
+   "at": "2026-10-03T13:25:52.121129+00:00"
   }
  ],
  "titles": [
-  "billion investment mcdonald plan recovery traffic unveils warns",
-  "cook democrats political races report senate shifts toward",
-  "congress federal help transparency unions workers",
-  "abortion access agenda back election labor nation puts reproductive rights victorian warns wind",
   "also ceasefire interest lavrov limited rubio russia talks voiced",
   "family fire house killed merseyside pictured",
   "ambassador assembly attack bank general injured israel netanyahu speech terror west",
@@ -3603,6 +3599,10 @@
   "attack crash flydubai pilot used",
   "away congress drug head looking olds smuggle year",
   "behind eyes pageantry summit taiwan",
-  "fashion fast luxury prices selling stocks"
+  "fashion fast luxury prices selling stocks",
+  "2026 bike central crash deadly editor letters park",
+  "catholic crash highway kenya killed least pilgrims road",
+  "attack developments flydubai identified mideast other pilot",
+  "busted collapses criminal empire family illegal operation pimping secret"
  ]
 }
