@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMiogFBVV95cUxQeXdoSFh5N1BoSHFEVHJRVUVnRXpXV1ZaMG1aMHJnT3lFczVCZHU1Y2tuclFOVWtQangxbVVXZEpLc3p3MWZYc2ROZnpiaFlvcFhkbGI5dzhrMG44UUF0bnQ5am1GXzFwVkJFeUo3Qm5kNGcwM05tbGdpVi15QUtHSW9vXy1uTjgyLWpjVEEtaTA3Uml3VGJ2R2xmbzhqWlExMHc",
-  "CBMiiAFBVV95cUxOSlVudVlJaVNXS1VsYmhrcERoX0RMS3hueWJDektSZXlfVW5YRUdUSm5HUS1WVElHUEc1SjgyOUhyQm5MSVpxOXFOVnFhUEVnZkdkenE0bDAtV29OS1lFNG5iZl9wTENjQUZkOURzeHV3LXRRejYySEZVM1pxcVI0WkcwTDIwTThK",
-  "https://nypost.com/?post_type=article&p=40832960",
   "https://thehill.com/?p=6091812",
   "https://thehill.com/?p=6091791",
   "https://www.washingtonexaminer.com/?p=4728714",
@@ -799,27 +796,12 @@
   "CBMiggFBVV95cUxOamVlQXJYSVV1Rlo2TTJUSTgwcUp4Z0R5anFVUTctUTE0Vl9NRUwyblYyODdSUkNwUmd5U29UQk9RVU5Hc0JOOFY3RE5KRnJGbDJ0VlNfRGV1ZWJlbHJtdEhfdUVidktXbW1ici00UFl3bXVveTBCb3dzZWxueURBN0N3",
   "CBMiugFBVV95cUxOazBZenNaeXhSTEp4SXJwdEJFTWU3TkZPN2pHN09fT3gzOG5WeHBmdXpYZ3NKMnI2c1JvWURnY0Z1US1qNVJFeURpV2lWZ3BOWWJZejVXaHVmajJUWk1MMW5jQ0FuU2tHb0E5dE5JbW8tcWQ5dGhJcG9jbU5ud1FXVEhsZDdCbzNQQWdJaVQ4WTU1Tl9MVG9xWi1VY1ZpLUJuSHVmZXVRU3ZmRnhpd1I5LTNJbGlka1k1Qmc",
   "https://nypost.com/?post_type=article&p=41115927",
-  "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo#2"
+  "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo#2",
+  "https://thehill.com/?p=6118288",
+  "CBMiYkFVX3lxTFBtYkhuREp6cXBDVzlIUWs0MGtfa2JvRHI4cTVobkIxclBaanlJMmJLNHZYenFBczRUX2FMY2czZEtBajg2SVRLbXIwRXpyRWpSVTI1b2ZEOVhFajlObnc1T1V3",
+  "CBMirgFBVV95cUxPXzBvcTZ4UlkzNEd6cTd6WmstenFIRFdLMXJqZW5FU3BibWhkN3hxc1RTX3pneVE5bFN5YlBfNUVvVWlyaDFuNGpMalRMNW9FcVRwaXNwYXBhbUdTeVlEQ0xlS29nSVI4WDIyVUoxVVNIQTNBQWFWV1BnQmhqMy1WSTVlOEJadVBvVmppRUp6RC1LaHo4QWNDaWI4blZjdXpJVHdiR1B6emxyQ3JlcFE"
  ],
  "posts": [
-  {
-   "fp": "family fire house killed merseyside pictured",
-   "title": "Pictured: Family killed in Merseyside house fire",
-   "source": "Telegraph",
-   "at": "2026-09-23T18:07:31.431532+00:00"
-  },
-  {
-   "fp": "ambassador assembly attack bank general injured israel netanyahu speech terror west",
-   "title": "Son of Israel\u2019s US ambassador injured in West Bank terror attack on eve of Netanyahu General Assembly speech",
-   "source": "New York Post",
-   "at": "2026-09-23T18:07:33.263514+00:00"
-  },
-  {
-   "fp": "deadly fire four house merseyside named victims",
-   "title": "Four victims of deadly Merseyside house fire named",
-   "source": "Sky News",
-   "at": "2026-09-23T18:07:35.108159+00:00"
-  },
   {
    "fp": "amazing champion competitive competitor dead eating janus race",
    "title": "Tim Janus, competitive eating champion and \u2018The Amazing Race\u2019 competitor, dead at 49",
@@ -3201,12 +3183,27 @@
    "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
    "source": "BBC World",
    "at": "2026-10-03T15:05:53.607369+00:00"
+  },
+  {
+   "fp": "deadline extended interest know loan rate reduce student",
+   "title": "Deadline to reduce your student loan interest rate extended: What to know",
+   "source": "The Hill",
+   "at": "2026-10-03T15:48:19.086935+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-10-03T15:48:20.802669+00:00"
+  },
+  {
+   "fp": "close defend ohio race rally republicans seat senate speak trump",
+   "title": "Trump to speak at Ohio rally as Republicans defend Senate seat in close race",
+   "source": "Reuters",
+   "at": "2026-10-03T15:48:22.545736+00:00"
   }
  ],
  "titles": [
-  "family fire house killed merseyside pictured",
-  "ambassador assembly attack bank general injured israel netanyahu speech terror west",
-  "deadly fire four house merseyside named victims",
   "amazing champion competitive competitor dead eating janus race",
   "attack embassy heading india indian killed oman ship towards",
   "230k affordable bentley costing torcal unveils",
@@ -3603,6 +3600,9 @@
   "catholic crash highway kenya killed least pilgrims road",
   "attack developments flydubai identified mideast other pilot",
   "busted collapses criminal empire family illegal operation pimping secret",
-  "cars drivers feel love passengers sick"
+  "cars drivers feel love passengers sick",
+  "deadline extended interest know loan rate reduce student",
+  "edition journal print street wall",
+  "close defend ohio race rally republicans seat senate speak trump"
  ]
 }
