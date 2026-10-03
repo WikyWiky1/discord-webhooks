@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit",
   "CBMiogFBVV95cUxQeXdoSFh5N1BoSHFEVHJRVUVnRXpXV1ZaMG1aMHJnT3lFczVCZHU1Y2tuclFOVWtQangxbVVXZEpLc3p3MWZYc2ROZnpiaFlvcFhkbGI5dzhrMG44UUF0bnQ5am1GXzFwVkJFeUo3Qm5kNGcwM05tbGdpVi15QUtHSW9vXy1uTjgyLWpjVEEtaTA3Uml3VGJ2R2xmbzhqWlExMHc",
   "CBMiiAFBVV95cUxOSlVudVlJaVNXS1VsYmhrcERoX0RMS3hueWJDektSZXlfVW5YRUdUSm5HUS1WVElHUEc1SjgyOUhyQm5MSVpxOXFOVnFhUEVnZkdkenE0bDAtV29OS1lFNG5iZl9wTENjQUZkOURzeHV3LXRRejYySEZVM1pxcVI0WkcwTDIwTThK",
   "https://nypost.com/?post_type=article&p=40832960",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=41091827",
   "CBMiggFBVV95cUxOamVlQXJYSVV1Rlo2TTJUSTgwcUp4Z0R5anFVUTctUTE0Vl9NRUwyblYyODdSUkNwUmd5U29UQk9RVU5Hc0JOOFY3RE5KRnJGbDJ0VlNfRGV1ZWJlbHJtdEhfdUVidktXbW1ici00UFl3bXVveTBCb3dzZWxueURBN0N3",
   "CBMiugFBVV95cUxOazBZenNaeXhSTEp4SXJwdEJFTWU3TkZPN2pHN09fT3gzOG5WeHBmdXpYZ3NKMnI2c1JvWURnY0Z1US1qNVJFeURpV2lWZ3BOWWJZejVXaHVmajJUWk1MMW5jQ0FuU2tHb0E5dE5JbW8tcWQ5dGhJcG9jbU5ud1FXVEhsZDdCbzNQQWdJaVQ4WTU1Tl9MVG9xWi1VY1ZpLUJuSHVmZXVRU3ZmRnhpd1I5LTNJbGlka1k1Qmc",
-  "https://nypost.com/?post_type=article&p=41115927"
+  "https://nypost.com/?post_type=article&p=41115927",
+  "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo#2"
  ],
  "posts": [
-  {
-   "fp": "also ceasefire interest lavrov limited rubio russia talks voiced",
-   "title": "Rubio, after Lavrov talks, says Russia has also voiced interest in 'limited ceasefire'",
-   "source": "Reuters",
-   "at": "2026-09-23T18:07:29.640841+00:00"
-  },
   {
    "fp": "family fire house killed merseyside pictured",
    "title": "Pictured: Family killed in Merseyside house fire",
@@ -3201,10 +3195,15 @@
    "title": "Secret family-run criminal empire busted for pimping, illegal sex operation collapses",
    "source": "New York Post",
    "at": "2026-10-03T13:25:52.121129+00:00"
+  },
+  {
+   "fp": "cars drivers feel love passengers sick",
+   "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
+   "source": "BBC World",
+   "at": "2026-10-03T15:05:53.607369+00:00"
   }
  ],
  "titles": [
-  "also ceasefire interest lavrov limited rubio russia talks voiced",
   "family fire house killed merseyside pictured",
   "ambassador assembly attack bank general injured israel netanyahu speech terror west",
   "deadly fire four house merseyside named victims",
@@ -3603,6 +3602,7 @@
   "2026 bike central crash deadly editor letters park",
   "catholic crash highway kenya killed least pilgrims road",
   "attack developments flydubai identified mideast other pilot",
-  "busted collapses criminal empire family illegal operation pimping secret"
+  "busted collapses criminal empire family illegal operation pimping secret",
+  "cars drivers feel love passengers sick"
  ]
 }
