@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/business/2026/sep/15/uk-retailers-breaking-law-not-refunding-customers-returned-goods-which",
-  "https://www.theguardian.com/environment/2026/sep/15/indonesia-wildfires-threaten-leading-orangutan-research-site-borneo-cabang-panti",
   "https://nypost.com/?post_type=article&p=40829159",
   "https://nypost.com/?post_type=article&p=40828047",
   "https://www.washingtonexaminer.com/?p=4728300",
@@ -799,15 +797,11 @@
   "https://www.theguardian.com/us-news/2026/oct/02/cyclospora-mexico-farm-lettuce",
   "https://www.theguardian.com/world/2026/oct/02/magnitude-48-earthquake-hits-victoria-with-tremors-felt-across-melbourne",
   "CBMioAFBVV95cUxPSUIzNGZwcmxBVDJkd25SYjhNNWcxd0ZXYnlLSE94TmJtNGh2Z3Z2cEhrX0xZR0dHT3VwSXk5ajNuY0RGSDhGaFBMMUZwR1hJQ3duMzk3b2t5aDhFX3hQc0RsTGZzNFBjMHhRRW5tcGdSZG54aGJZTV9WNXpxZG5yYU9aaHBRTEI0UFpVaWdQWExFaWFlTzg4Ylo1OVpUcUx3",
-  "https://nypost.com/?post_type=article&p=41109762"
+  "https://nypost.com/?post_type=article&p=41109762",
+  "CBMikAFBVV95cUxOZ2tZX3AxeENQblRLRGd4X2JxcGNLREtUYTBiQ3ZWUFAwMUhJTGwtMmVJa1k2QTZXYUZJRWRLMnhXUU9WcWQwb25HN3NjbWFCaFBZSWpCOGFUNTZRNXVCMFR6aHV0dzd4LWRJNDdHWmluSF9lZFlDeWhyV1JJTzk3YzJUd0I0OHlMbDJlemhJeDU",
+  "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae"
  ],
  "posts": [
-  {
-   "fp": "coast downgraded hurricane mexico polo powerful remains very",
-   "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
-   "source": "BBC World",
-   "at": "2026-09-23T13:40:40.972998+00:00"
-  },
   {
    "fp": "ancient beneath confirm found paris settlement site wall",
    "title": "Ancient wall found beneath Paris could confirm site of first settlement",
@@ -3201,10 +3195,15 @@
    "title": "Trump must close this Turkish loophole that allows Iran to skirt sanctions",
    "source": "New York Post",
    "at": "2026-10-03T04:01:49.404684+00:00"
+  },
+  {
+   "fp": "attack crash flydubai pilot used",
+   "title": "FlyDubai Co-Pilot Used Crash Ax in Attack, Says U.A.E.",
+   "source": "WSJ",
+   "at": "2026-10-03T08:15:04.877461+00:00"
   }
  ],
  "titles": [
-  "coast downgraded hurricane mexico polo powerful remains very",
   "ancient beneath confirm found paris settlement site wall",
   "citing demand earnings group guidance strong tightens travel vacation",
   "canada enshrine expedited legislation project reviews",
@@ -3603,6 +3602,7 @@
   "cyclospora farm found lettuce linked mexican outbreak",
   "across earthquake felt hits magnitude melbourne tremors victoria",
   "bill governor incentive increasing iowa plant signs steel",
-  "allows close iran loophole must sanctions skirt trump turkish"
+  "allows close iran loophole must sanctions skirt trump turkish",
+  "attack crash flydubai pilot used"
  ]
 }
