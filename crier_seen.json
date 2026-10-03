@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40836946",
-  "CBMiVkFVX3lxTE9yQWhteHBPT1dVX2xSX3JCaUUtcC1KSHVjbWZBVXpNRWg4MnNZQ3dnTnZWTnFjd3R0YVRxdldKcDdxdjk5N2VuVjFUTDhhZERSanlVQjdB",
   "https://thehill.com/?p=6091263",
   "CBMiwAFBVV95cUxOZlRsdXdHb2dDYTBpODY1eVIyc09aQkY5UjZpajFnaTFUZnIxeEM3cmNVVG14TEVaazRtaHpkRDd6bUhISzluUU9ZMW5VU1dFQkJ0aXZqZXB3cXdjd3NacmFELVAzRXlWNDZMeVNNVHVlX0hMVzNRWDlmV0lXUEh2d2tOR3pwT1VEVFJ5cURIZFdjb0p1bTlVY2dOWVRDSi1Yb29WU25TMldYeTJKMTl4aVd6cERhd0JjNVpkTkljaDI",
   "https://nypost.com/?post_type=article&p=40837510",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=41122579",
   "https://nypost.com/?post_type=article&p=41123432",
   "https://nypost.com/?post_type=article&p=41123227",
-  "https://thehill.com/?p=6127666"
+  "https://thehill.com/?p=6127666",
+  "CBMiywFBVV95cUxONl9WaHptOTJhcXh2TTA4eFgwMV91dFcxcWRlMWg1R08zX2FwMzYwdGJDWENZN1JDZlp2UGt5bENpVzBsSk1VTTZaVTFLa01ERHVwdjlCT0l3clFJeTEwQ21KMlZ5bU1jQmtWYlY4WHYxaGJDVGtPVTFyaFNhTU1nVmtVcUsteWhPb1hORWRROHJwMDZuS0JUdmg2U2hkVThmNXA0RGN1S29XQjlaYnRBVHN2Q1NBRGZSTXprcDUtZlNCTjVaNW9icjJ1bw",
+  "CBMipAFBVV95cUxQTEJqb2xVc0JNb3BpTEJ1UjNNNm91MnJ0N0dWUUtraTRkUExEc1JwSlQybVdzLVY2TW5JODJ5elBTc3poVGJQUTdNek9QdUVEQjJyVkZlcUJOWXpneF9ZTmtacmg0dGpoVmhaV05iMEJza3ZaMW5BSzItbmF4TkItZDAyWi1BcmplczNzZXBvVDZKa252aThla3BmOEpyUFYwOEVqRw"
  ],
  "posts": [
-  {
-   "fp": "carpet coup fooled rollout strategic trump",
-   "title": "Don\u2019t be fooled \u2014 Trump\u2019s red-carpet rollout for Xi is a strategic coup",
-   "source": "New York Post",
-   "at": "2026-09-23T23:55:38.390256+00:00"
-  },
-  {
-   "fp": "dilemma duck hegseth house impeachment lame",
-   "title": "House has lame-duck impeachment dilemma with Hegseth",
-   "source": "The Hill",
-   "at": "2026-09-23T23:55:40.090326+00:00"
-  },
   {
    "fp": "band beloved dead singer wave",
    "title": "Singer from beloved \u201980s New Wave band dead at 74",
@@ -3201,11 +3189,21 @@
    "title": "Florida's dengue outbreak reportedly largest US has seen in decades",
    "source": "The Hill",
    "at": "2026-10-03T20:09:47.037771+00:00"
+  },
+  {
+   "fp": "concerns demands health president raises summit unusual",
+   "title": "Unusual Demands for President Xi at DC Summit Raises Health Concerns",
+   "source": "WSJ",
+   "at": "2026-10-03T20:39:11.621337+00:00"
+  },
+  {
+   "fp": "ahead election exit latvia list poll shows united",
+   "title": "Latvia PM's United List ahead in election, exit poll shows",
+   "source": "Reuters",
+   "at": "2026-10-03T20:39:13.354417+00:00"
   }
  ],
  "titles": [
-  "carpet coup fooled rollout strategic trump",
-  "dilemma duck hegseth house impeachment lame",
   "band beloved dead singer wave",
   "allegedly barrett clancy corie heartbreaking killed lindsay obit obsessed rambunctious remembered walsh year",
   "australia caught child fined fire government hands highest live news pandemic questacon rate since unemployment",
@@ -3603,6 +3601,8 @@
   "about assassin attempted butler leading mysterious printer report sent shooting texts trump",
   "answers argentina baby dead scientists search wash whales",
   "array commanders gaza islamic jihad kills rocket",
-  "decades dengue florida largest outbreak reportedly seen"
+  "decades dengue florida largest outbreak reportedly seen",
+  "concerns demands health president raises summit unusual",
+  "ahead election exit latvia list poll shows united"
  ]
 }
