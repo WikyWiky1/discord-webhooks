@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40829159",
-  "https://nypost.com/?post_type=article&p=40828047",
-  "https://www.washingtonexaminer.com/?p=4728300",
   "https://thehill.com/?p=6091227",
   "https://www.washingtonexaminer.com/?p=4727451",
   "https://thehill.com/?p=6091335",
@@ -799,27 +796,12 @@
   "CBMioAFBVV95cUxPSUIzNGZwcmxBVDJkd25SYjhNNWcxd0ZXYnlLSE94TmJtNGh2Z3Z2cEhrX0xZR0dHT3VwSXk5ajNuY0RGSDhGaFBMMUZwR1hJQ3duMzk3b2t5aDhFX3hQc0RsTGZzNFBjMHhRRW5tcGdSZG54aGJZTV9WNXpxZG5yYU9aaHBRTEI0UFpVaWdQWExFaWFlTzg4Ylo1OVpUcUx3",
   "https://nypost.com/?post_type=article&p=41109762",
   "CBMikAFBVV95cUxOZ2tZX3AxeENQblRLRGd4X2JxcGNLREtUYTBiQ3ZWUFAwMUhJTGwtMmVJa1k2QTZXYUZJRWRLMnhXUU9WcWQwb25HN3NjbWFCaFBZSWpCOGFUNTZRNXVCMFR6aHV0dzd4LWRJNDdHWmluSF9lZFlDeWhyV1JJTzk3YzJUd0I0OHlMbDJlemhJeDU",
-  "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae"
+  "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+  "https://www.washingtonexaminer.com/?p=4751244",
+  "CBMikgFBVV95cUxPdGtJVl9sZ3dpVGx3TTkxT1BndFdNbHo0bXd2clBEUXhKMVA5dU16dHU5ZXZkSjhrRVQyb3VIMjNmTlhLajBvNno4TW1FMFo1N0hZcWFyd3N3MXd3WGktT0lNX2ZabGFVZmMycmQxam5DYktuQ1pYY2p4Z1hLaUN3YkZuT3M4YkZ6NzAyUmpTY1l0dw",
+  "CBMimAFBVV95cUxQRkdVQm55b3BTaXFNOERrTjJWOWlVUmpKWjhRVmo2Ym5jS283bkNqNTBLaUZONmRZOXFrQUVObjNpT1Q5a25IbXFQQWVoUGFkMjlRdlpORW5FamthRnMxNWxpdXBMMldyaFNFSkotTG9aNXpfTHY0ODB6RVZtOE5oaVpidDBVY3YxeHQ1STFZdndDc3QyNVZOaw"
  ],
  "posts": [
-  {
-   "fp": "ancient beneath confirm found paris settlement site wall",
-   "title": "Ancient wall found beneath Paris could confirm site of first settlement",
-   "source": "Guardian World",
-   "at": "2026-09-23T15:22:46.755122+00:00"
-  },
-  {
-   "fp": "citing demand earnings group guidance strong tightens travel vacation",
-   "title": "Travel Group TUI Tightens Earnings Guidance, Citing Strong Vacation Demand",
-   "source": "WSJ",
-   "at": "2026-09-23T16:13:06.080800+00:00"
-  },
-  {
-   "fp": "canada enshrine expedited legislation project reviews",
-   "title": "Canada to Enshrine Expedited Project Reviews With Legislation",
-   "source": "WSJ",
-   "at": "2026-09-23T16:13:07.916342+00:00"
-  },
   {
    "fp": "billion investment mcdonald plan recovery traffic unveils warns",
    "title": "McDonald's warns traffic recovery may lag; unveils $8.5 billion investment plan",
@@ -3201,12 +3183,27 @@
    "title": "FlyDubai Co-Pilot Used Crash Ax in Attack, Says U.A.E.",
    "source": "WSJ",
    "at": "2026-10-03T08:15:04.877461+00:00"
+  },
+  {
+   "fp": "away congress drug head looking olds smuggle year",
+   "title": "They drug 5-year-olds to smuggle them for $900 a head. Why is Congress looking away?",
+   "source": "Washington Examiner",
+   "at": "2026-10-03T11:11:30.098963+00:00"
+  },
+  {
+   "fp": "behind eyes pageantry summit taiwan",
+   "title": "Behind Summit Pageantry, Xi\u2019s Eyes Were on Taiwan",
+   "source": "WSJ",
+   "at": "2026-10-03T11:11:31.788323+00:00"
+  },
+  {
+   "fp": "fashion fast luxury prices selling stocks",
+   "title": "Luxury Stocks Are Selling at Fast-Fashion Prices",
+   "source": "WSJ",
+   "at": "2026-10-03T11:11:33.578873+00:00"
   }
  ],
  "titles": [
-  "ancient beneath confirm found paris settlement site wall",
-  "citing demand earnings group guidance strong tightens travel vacation",
-  "canada enshrine expedited legislation project reviews",
   "billion investment mcdonald plan recovery traffic unveils warns",
   "cook democrats political races report senate shifts toward",
   "congress federal help transparency unions workers",
@@ -3603,6 +3600,9 @@
   "across earthquake felt hits magnitude melbourne tremors victoria",
   "bill governor incentive increasing iowa plant signs steel",
   "allows close iran loophole must sanctions skirt trump turkish",
-  "attack crash flydubai pilot used"
+  "attack crash flydubai pilot used",
+  "away congress drug head looking olds smuggle year",
+  "behind eyes pageantry summit taiwan",
+  "fashion fast luxury prices selling stocks"
  ]
 }
