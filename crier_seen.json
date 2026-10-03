@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6091263",
-  "CBMiwAFBVV95cUxOZlRsdXdHb2dDYTBpODY1eVIyc09aQkY5UjZpajFnaTFUZnIxeEM3cmNVVG14TEVaazRtaHpkRDd6bUhISzluUU9ZMW5VU1dFQkJ0aXZqZXB3cXdjd3NacmFELVAzRXlWNDZMeVNNVHVlX0hMVzNRWDlmV0lXUEh2d2tOR3pwT1VEVFJ5cURIZFdjb0p1bTlVY2dOWVRDSi1Yb29WU25TMldYeTJKMTl4aVd6cERhd0JjNVpkTkljaDI",
   "https://nypost.com/?post_type=article&p=40837510",
   "CBMipAFBVV95cUxPZFNDc1d1dC1Td3ZsVjlqaWliVGotZkNWelNzbkxoVkZDdEpxQ0tDVXYzVGFHUlJLY0FUaS1ldU1zNklNaWtHanlYYUpscFJ3X2JsZmpWNVpEcFlEZ0YtbkkwR3VDbkFwTjRscjZuLTNqZWxtVm1ESkE2SGtmVDdpcWZXcV9TTExVTEx4dnlBNWt1M0xhRFgyM0pNQmVTMGx2V002dg",
   "https://nypost.com/?post_type=article&p=40837942",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=41123227",
   "https://thehill.com/?p=6127666",
   "CBMiywFBVV95cUxONl9WaHptOTJhcXh2TTA4eFgwMV91dFcxcWRlMWg1R08zX2FwMzYwdGJDWENZN1JDZlp2UGt5bENpVzBsSk1VTTZaVTFLa01ERHVwdjlCT0l3clFJeTEwQ21KMlZ5bU1jQmtWYlY4WHYxaGJDVGtPVTFyaFNhTU1nVmtVcUsteWhPb1hORWRROHJwMDZuS0JUdmg2U2hkVThmNXA0RGN1S29XQjlaYnRBVHN2Q1NBRGZSTXprcDUtZlNCTjVaNW9icjJ1bw",
-  "CBMipAFBVV95cUxQTEJqb2xVc0JNb3BpTEJ1UjNNNm91MnJ0N0dWUUtraTRkUExEc1JwSlQybVdzLVY2TW5JODJ5elBTc3poVGJQUTdNek9QdUVEQjJyVkZlcUJOWXpneF9ZTmtacmg0dGpoVmhaV05iMEJza3ZaMW5BSzItbmF4TkItZDAyWi1BcmplczNzZXBvVDZKa252aThla3BmOEpyUFYwOEVqRw"
+  "CBMipAFBVV95cUxQTEJqb2xVc0JNb3BpTEJ1UjNNNm91MnJ0N0dWUUtraTRkUExEc1JwSlQybVdzLVY2TW5JODJ5elBTc3poVGJQUTdNek9QdUVEQjJyVkZlcUJOWXpneF9ZTmtacmg0dGpoVmhaV05iMEJza3ZaMW5BSzItbmF4TkItZDAyWi1BcmplczNzZXBvVDZKa252aThla3BmOEpyUFYwOEVqRw",
+  "https://nypost.com/?post_type=article&p=41126153",
+  "https://nypost.com/?post_type=article&p=41125180"
  ],
  "posts": [
-  {
-   "fp": "band beloved dead singer wave",
-   "title": "Singer from beloved \u201980s New Wave band dead at 74",
-   "source": "New York Post",
-   "at": "2026-09-24T02:41:27.298256+00:00"
-  },
-  {
-   "fp": "allegedly barrett clancy corie heartbreaking killed lindsay obit obsessed rambunctious remembered walsh year",
-   "title": "Barrett Walsh \u2013 2-year-old allegedly killed by Lindsay Clancy-obsessed mom Corie Walsh \u2013 remembered as a \u2018rambunctious\u2019 tot in heartbreaking obit",
-   "source": "New York Post",
-   "at": "2026-09-24T02:41:29.023120+00:00"
-  },
   {
    "fp": "australia caught child fined fire government hands highest live news pandemic questacon rate since unemployment",
    "title": "Australia news live: Government fined $140,000 after child\u2019s hands caught fire at Questacon; unemployment at highest rate since pandemic",
@@ -3201,11 +3189,21 @@
    "title": "Latvia PM's United List ahead in election, exit poll shows",
    "source": "Reuters",
    "at": "2026-10-03T20:39:13.354417+00:00"
+  },
+  {
+   "fp": "clarita explodes extreme fast grips heat moving near santa size socal wave wildfire",
+   "title": "Fast-moving wildfire explodes in size near Santa Clarita as extreme heat wave grips SoCal",
+   "source": "New York Post",
+   "at": "2026-10-03T23:07:18.821700+00:00"
+  },
+  {
+   "fp": "behind california driver killed leaves shift sons wife young",
+   "title": "California bus driver killed after shift leaves behind wife, 2 young sons",
+   "source": "New York Post",
+   "at": "2026-10-03T23:07:20.570374+00:00"
   }
  ],
  "titles": [
-  "band beloved dead singer wave",
-  "allegedly barrett clancy corie heartbreaking killed lindsay obit obsessed rambunctious remembered walsh year",
   "australia caught child fined fire government hands highest live news pandemic questacon rate since unemployment",
   "ahead china greets guez high jinping live reborn rodr stakes summit tells trump venezuela",
   "chair house keeps predicts seats senate",
@@ -3603,6 +3601,8 @@
   "array commanders gaza islamic jihad kills rocket",
   "decades dengue florida largest outbreak reportedly seen",
   "concerns demands health president raises summit unusual",
-  "ahead election exit latvia list poll shows united"
+  "ahead election exit latvia list poll shows united",
+  "clarita explodes extreme fast grips heat moving near santa size socal wave wildfire",
+  "behind california driver killed leaves shift sons wife young"
  ]
 }
