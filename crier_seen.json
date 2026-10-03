@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40837510",
   "CBMipAFBVV95cUxPZFNDc1d1dC1Td3ZsVjlqaWliVGotZkNWelNzbkxoVkZDdEpxQ0tDVXYzVGFHUlJLY0FUaS1ldU1zNklNaWtHanlYYUpscFJ3X2JsZmpWNVpEcFlEZ0YtbkkwR3VDbkFwTjRscjZuLTNqZWxtVm1ESkE2SGtmVDdpcWZXcV9TTExVTEx4dnlBNWt1M0xhRFgyM0pNQmVTMGx2V002dg",
   "https://nypost.com/?post_type=article&p=40837942",
   "CBMiYkFVX3lxTE1hOWhMcFNfbUtEQllUX1hZVWlicFBIX2FBc0VHZDZWNnpzNW9FZ0JXQXM3eC1MQUpaeW9aSmpKU2c1NXZfRG12dld1czRGMkdIUlRQQ3dRT1htYkZnU252RVNR",
@@ -799,15 +798,10 @@
   "CBMiywFBVV95cUxONl9WaHptOTJhcXh2TTA4eFgwMV91dFcxcWRlMWg1R08zX2FwMzYwdGJDWENZN1JDZlp2UGt5bENpVzBsSk1VTTZaVTFLa01ERHVwdjlCT0l3clFJeTEwQ21KMlZ5bU1jQmtWYlY4WHYxaGJDVGtPVTFyaFNhTU1nVmtVcUsteWhPb1hORWRROHJwMDZuS0JUdmg2U2hkVThmNXA0RGN1S29XQjlaYnRBVHN2Q1NBRGZSTXprcDUtZlNCTjVaNW9icjJ1bw",
   "CBMipAFBVV95cUxQTEJqb2xVc0JNb3BpTEJ1UjNNNm91MnJ0N0dWUUtraTRkUExEc1JwSlQybVdzLVY2TW5JODJ5elBTc3poVGJQUTdNek9QdUVEQjJyVkZlcUJOWXpneF9ZTmtacmg0dGpoVmhaV05iMEJza3ZaMW5BSzItbmF4TkItZDAyWi1BcmplczNzZXBvVDZKa252aThla3BmOEpyUFYwOEVqRw",
   "https://nypost.com/?post_type=article&p=41126153",
-  "https://nypost.com/?post_type=article&p=41125180"
+  "https://nypost.com/?post_type=article&p=41125180",
+  "CBMivAFBVV95cUxOTk9NMno0Tlh0Y2RWeEh2Y0tDczZBemNyRlQwTE5POTF4Q19IMkZ0eDlWVzBOdkFyTFhsZkhxZ2tnNUhjenVZR2xrNWVXY0h4LW9LVl9ZRGZhUl9sLUdQbVp5SFZxZzItNDVrZEpsLWJhQWduaENwdmg2SXNHcTBNZFBqRk9iZW9NcjF5ek80QV8wWTBwZkUyNEhjOUpfLXRRV05WVmw1ZExXenJXY1RIN0t0U25EZjZra0kybg"
  ],
  "posts": [
-  {
-   "fp": "australia caught child fined fire government hands highest live news pandemic questacon rate since unemployment",
-   "title": "Australia news live: Government fined $140,000 after child\u2019s hands caught fire at Questacon; unemployment at highest rate since pandemic",
-   "source": "Guardian World",
-   "at": "2026-09-24T03:24:56.799675+00:00"
-  },
   {
    "fp": "ahead china greets guez high jinping live reborn rodr stakes summit tells trump venezuela",
    "title": "Venezuela being \u2018reborn\u2019, Rodr\u00edguez tells UN; Trump greets Xi Jinping ahead of high-stakes US-China summit \u2013 live",
@@ -3201,10 +3195,15 @@
    "title": "California bus driver killed after shift leaves behind wife, 2 young sons",
    "source": "New York Post",
    "at": "2026-10-03T23:07:20.570374+00:00"
+  },
+  {
+   "fp": "astrazeneca billion cancer collaborate drugs invest summit therapeutics",
+   "title": "AstraZeneca to Invest $2 Billion in Summit Therapeutics, Collaborate on Cancer Drugs",
+   "source": "WSJ",
+   "at": "2026-10-03T23:32:21.299829+00:00"
   }
  ],
  "titles": [
-  "australia caught child fined fire government hands highest live news pandemic questacon rate since unemployment",
   "ahead china greets guez high jinping live reborn rodr stakes summit tells trump venezuela",
   "chair house keeps predicts seats senate",
   "beijing insider read sees summit taiwan trump",
@@ -3603,6 +3602,7 @@
   "concerns demands health president raises summit unusual",
   "ahead election exit latvia list poll shows united",
   "clarita explodes extreme fast grips heat moving near santa size socal wave wildfire",
-  "behind california driver killed leaves shift sons wife young"
+  "behind california driver killed leaves shift sons wife young",
+  "astrazeneca billion cancer collaborate drugs invest summit therapeutics"
  ]
 }
