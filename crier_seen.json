@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMilgFBVV95cUxPa2t6dWdxN3FocnRRQjRfY0REUlZhMm1NdWw1WnRSTmRrVzJVU09uMUFCeXQ2QnBtRkM5Uy13QTRUSXU1R0xRbVlKY25PODczeVlZd2Z5QW03NXRQNGVwOWlEUUFNSDFORXl5YlEyVElBT1lqX0llRVlVQzVlQXdzdmRpdVA5V2plUGhMeE1vVWVGaGJKdUE",
   "https://thehill.com/?p=6091794",
   "https://thehill.com/?p=6092827",
   "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=41130165",
   "CBMiyAFBVV95cUxPMDZ4RmIzU1NBMVBmeTBlM3F2dnFib2ZzeTNlbTcxc0txb3ZSUG11Tm5va2FqZzJfTGJObzkzbjBSYU5FcjFZSk9zbHNuRmpDZGYwUGlqOFNKcnRWbThBZXRnX2R1LWtCZFM0TE9GSGR3aU1tUndIU09fQ3luN1Z3Mm9UdEV2eC05bVJNS3lMd3hGV3B1Y0ZMZ2w3N3ZXU0FUblJZcjEzbzJQX3QtZ083QWFSMUM5X280NHRjTVY1Y1pheHN3NUhHdA",
   "https://www.washingtonexaminer.com/?p=4751723",
-  "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress"
+  "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress",
+  "https://www.theguardian.com/environment/2026/oct/05/australia-and-turkey-criticised-for-hosting-un-climate-conference-while-embracing-coal"
  ],
  "posts": [
-  {
-   "fp": "answers cops dead dear found freshman identified miss search students",
-   "title": "Ole Miss students found dead identified as freshman, 18, and \u2018dear son,\u2019 20, as cops search for answers",
-   "source": "New York Post",
-   "at": "2026-09-24T17:56:17.615867+00:00"
-  },
   {
    "fp": "alleged attack jacobs josh judge paves release ruling stunning video",
    "title": "Judge\u2019s stunning ruling paves way for release of alleged Josh Jacobs attack video",
@@ -3201,10 +3195,15 @@
    "title": "After a deadly paper mill explosion, a community in Washington state looks to a key House race",
    "source": "Guardian World",
    "at": "2026-10-04T14:48:28.770269+00:00"
+  },
+  {
+   "fp": "australia climate coal conference criticised embracing hosting turkey",
+   "title": "Australia and Turkey criticised for hosting UN climate conference while embracing coal",
+   "source": "Guardian World",
+   "at": "2026-10-04T15:42:51.589153+00:00"
   }
  ],
  "titles": [
-  "answers cops dead dear found freshman identified miss search students",
   "alleged attack jacobs josh judge paves release ruling stunning video",
   "administration china confidential exclusive nuclear presses suspected talks tests trump",
   "alexander andrei bear father killed kuzmenko leaves penguins",
@@ -3603,6 +3602,7 @@
   "allegedly bartender birthday deadly down getaway loving shoved stairs turned",
   "amazon boost center data deal maryland nuclear power scrapping tries",
   "congress dodged paid shutdown still",
-  "community deadly explosion house looks mill paper race state washington"
+  "community deadly explosion house looks mill paper race state washington",
+  "australia climate coal conference criticised embracing hosting turkey"
  ]
 }
