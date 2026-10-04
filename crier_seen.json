@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40849725",
-  "https://www.theguardian.com/australia-news/2026/sep/17/teenage-boys-charged-with-murder-university-student-ntwnfb",
-  "https://nypost.com/?post_type=article&p=40852042",
   "https://nypost.com/?post_type=article&p=40846310",
   "https://thehill.com/?p=6094142",
   "CBMitgFBVV95cUxOT0ZnRDBfRTF4ZWMwT0J3U05MdzA5QUF5VTd2cHNaaU53dWd0MzBiN0Y2S3doRjh5QmFDV1ZXNml0Q2tyRVJLZDlKOHdDY0tDNVFZSkxxTWtleXdGb3B4LVpyZ2l5U2REWGQ0YzZaRndsZ3NLUHlFRTVXTFgtNmlGTjdQS2lwVld0ZmZTNFJ3NzB4MDNJU2ltTnZwMDdCbWp1VWZuX0F2LUFxWW50b2Y3OTdhZTZOQQ",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=41133035",
   "CBMisgFBVV95cUxPQkJ2YktFNXBZSmJucURhWDhKNnIxWDZ5NjdmR1pCNnpselRTdmxuVkpnTDJNT0laZHdmTzdaMHczNS1ISmRURWhfeVcydjZYTGEwX09QTEhEUEtmMnZidTI5VEhnaWVQRGdOc0JjRXRLWGZXMDQ5VlBOQVpsU0JEemhsNks1Rng3V1owVEJwVGYyNGwzTE8tYlhpRkxlMktHVUY1Q0FHR3c3VnBUWXkzMHNR",
   "https://www.washingtonexaminer.com/?p=4753409",
-  "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results"
+  "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+  "https://nypost.com/?post_type=article&p=41132176",
+  "https://www.washingtonexaminer.com/?p=4753466",
+  "https://news.sky.com/story/man-arrested-after-woman-in-her-40s-found-dead-in-norfolk-13595144"
  ],
  "posts": [
-  {
-   "fp": "australia coincidence crash hack killed live news officer paterson police sydney timing",
-   "title": "Australia news live: Paterson says PM\u2019s AI hack timing not a coincidence; police officer killed in Sydney crash",
-   "source": "Guardian World",
-   "at": "2026-09-24T23:53:49.427076+00:00"
-  },
-  {
-   "fp": "clark crowd dead disappointed kind presidents wyndham",
-   "title": "Wyndham Clark disappointed in Presidents Cup crowd: \u2018Kind of dead out there\u2019",
-   "source": "New York Post",
-   "at": "2026-09-25T02:51:31.773839+00:00"
-  },
-  {
-   "fp": "asks ethics governor harassment jersey resign sexual violations",
-   "title": "New Jersey governor asks her No. 2 to resign over ethics and sexual harassment violations",
-   "source": "AP",
-   "at": "2026-09-25T02:51:33.559201+00:00"
-  },
   {
    "fp": "allegations calls governor harassment lieutenant resignation sexual sherrill",
    "title": "Sherrill calls for resignation of her lieutenant governor after sexual harassment allegations",
@@ -3201,12 +3183,27 @@
    "title": "Brazil presidential election 2026: first-round live results",
    "source": "Guardian World",
    "at": "2026-10-04T20:55:21.119381+00:00"
+  },
+  {
+   "fp": "albany call cornell emergency hochul rape scandal session tighten travesty urged",
+   "title": "Hochul urged to call emergency Albany session to tighten rape law over \u2018Cornell 7\u2019 scandal: \u2018This is a travesty\u2019",
+   "source": "New York Post",
+   "at": "2026-10-04T21:52:57.579098+00:00"
+  },
+  {
+   "fp": "bessent breaking friends hearts jokes melania trump",
+   "title": "Trump jokes Bessent is \u2018breaking Melania\u2019s friends\u2019 hearts\u2019",
+   "source": "Washington Examiner",
+   "at": "2026-10-04T21:52:59.316848+00:00"
+  },
+  {
+   "fp": "arrested dead found norfolk woman",
+   "title": "Man arrested after woman in her 40s found dead in Norfolk",
+   "source": "Sky News",
+   "at": "2026-10-04T21:53:01.062673+00:00"
   }
  ],
  "titles": [
-  "australia coincidence crash hack killed live news officer paterson police sydney timing",
-  "clark crowd dead disappointed kind presidents wyndham",
-  "asks ethics governor harassment jersey resign sexual violations",
   "allegations calls governor harassment lieutenant resignation sexual sherrill",
   "cops horses neighbor pellet report respond scare shooting zolciak",
   "crashed instantly killed officer police redfern travelling tree",
@@ -3603,6 +3600,9 @@
   "450m ambitious developer hollywood industry movie plan rescue school unveils",
   "back months nine refunds taking tariff",
   "armed blanche completely election false monitors notion rejects",
-  "2026 brazil election live presidential results round"
+  "2026 brazil election live presidential results round",
+  "albany call cornell emergency hochul rape scandal session tighten travesty urged",
+  "bessent breaking friends hearts jokes melania trump",
+  "arrested dead found norfolk woman"
  ]
 }
