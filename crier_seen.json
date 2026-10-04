@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40846310",
-  "https://thehill.com/?p=6094142",
   "CBMitgFBVV95cUxOT0ZnRDBfRTF4ZWMwT0J3U05MdzA5QUF5VTd2cHNaaU53dWd0MzBiN0Y2S3doRjh5QmFDV1ZXNml0Q2tyRVJLZDlKOHdDY0tDNVFZSkxxTWtleXdGb3B4LVpyZ2l5U2REWGQ0YzZaRndsZ3NLUHlFRTVXTFgtNmlGTjdQS2lwVld0ZmZTNFJ3NzB4MDNJU2ltTnZwMDdCbWp1VWZuX0F2LUFxWW50b2Y3OTdhZTZOQQ",
   "https://www.washingtonexaminer.com/?p=4728444",
   "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
   "https://nypost.com/?post_type=article&p=41132176",
   "https://www.washingtonexaminer.com/?p=4753466",
-  "https://news.sky.com/story/man-arrested-after-woman-in-her-40s-found-dead-in-norfolk-13595144"
+  "https://news.sky.com/story/man-arrested-after-woman-in-her-40s-found-dead-in-norfolk-13595144",
+  "https://thehill.com/?p=6127091",
+  "CBMi0AFBVV95cUxOTGJrZUNLQ25FYU5MYkpCUnZOX3Z6Q3Nlb2x3Q1FjNFRrbmZ3RGx1TS1LR0Y5T3FtZzI0eG5tYTd0UXotTjJHTjJRbjFCV0c2Nkg4SnpmdlI3WERnTVAzTFZwX3EyWV9JcS1zcFBMMjNyRWZKVGlneWdPUGFuYWZ0NW9XbUhMdXcwTkIxTlA2Q09TT1lUdGE4SFZFbmtnMkM2a0JVbjlmcTZJeDBDZjJVR3ZvWEJRR1pOWUdjNl9VbGtNbGg3aWZITUs5aUZVZVBD"
  ],
  "posts": [
-  {
-   "fp": "allegations calls governor harassment lieutenant resignation sexual sherrill",
-   "title": "Sherrill calls for resignation of her lieutenant governor after sexual harassment allegations",
-   "source": "Washington Examiner",
-   "at": "2026-09-25T02:51:35.159697+00:00"
-  },
-  {
-   "fp": "cops horses neighbor pellet report respond scare shooting zolciak",
-   "title": "Cops respond to report of Kim Zolciak\u2019s son shooting a pellet gun to scare neighbor\u2019s horses",
-   "source": "New York Post",
-   "at": "2026-09-25T02:51:36.888772+00:00"
-  },
   {
    "fp": "crashed instantly killed officer police redfern travelling tree",
    "title": "NSW police officer killed \u2018instantly\u2019 after car she was travelling in crashed into tree in Redfern",
@@ -3201,11 +3189,21 @@
    "title": "Man arrested after woman in her 40s found dead in Norfolk",
    "source": "Sky News",
    "at": "2026-10-04T21:53:01.062673+00:00"
+  },
+  {
+   "fp": "blitz frets midterm nebraska race senate state takes trump",
+   "title": "Trump takes red state midterm blitz to Nebraska as GOP frets over Senate race",
+   "source": "The Hill",
+   "at": "2026-10-04T23:50:34.677587+00:00"
+  },
+  {
+   "fp": "black champion community congress faces future louisiana redistricting without",
+   "title": "A Black community in Louisiana faces a future without a champion in Congress after redistricting",
+   "source": "AP",
+   "at": "2026-10-04T23:50:36.376991+00:00"
   }
  ],
  "titles": [
-  "allegations calls governor harassment lieutenant resignation sexual sherrill",
-  "cops horses neighbor pellet report respond scare shooting zolciak",
   "crashed instantly killed officer police redfern travelling tree",
   "calls ethics governor investigation jersey lieutenant resign",
   "costs court emergency imposing institutional jackson rulings supreme warns",
@@ -3603,6 +3601,8 @@
   "2026 brazil election live presidential results round",
   "albany call cornell emergency hochul rape scandal session tighten travesty urged",
   "bessent breaking friends hearts jokes melania trump",
-  "arrested dead found norfolk woman"
+  "arrested dead found norfolk woman",
+  "blitz frets midterm nebraska race senate state takes trump",
+  "black champion community congress faces future louisiana redistricting without"
  ]
 }
