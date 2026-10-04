@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40839068",
   "https://www.theguardian.com/world/2026/sep/16/building-gaza-city-damaged-israeli-strikes-collapses-killed",
   "CBMitwFBVV95cUxQRVVqc05CcEI1emtZaGY3ZFVidllBRG5OaTVTbHhqMHZjb0dRZ0RCYnZTcDg5c3BaRExCNmVCU04tLTF0NFJNbFJuM1NxeTJiUXJDb3M2UkFVYW1rYVdEcXQxSTdlVlRoSF9CaVRkbXowZHY4QVRYeHo4dmJ5d3JJbjdHcW53MERtNDBmcllrTERleHNCdGhONUV0dnMxa1NsYkhzWXM1Tl9NcEYzaWlETGhnSVotXzQ",
   "CBMiowFBVV95cUxQMW82Y2JrS0Q3WnVScV9xWUlTM1BCdFZKdzV6MGJNUlU2Z2JlcFN5T1YyclJHMGhtR2R3Nm9WMmpxbWJPd01CWWFldkdhTTJ2a0t4UEF3UkJ0b0Vqc25iSHU3VS03Mms1cDVUQWdQOVFIRTF6OWJZdGU2cHEweV9hSzhxQnJyMzhNeWp5UzBpVUxxd1ZXRG1KVzQ4SlgycTNPcTVF",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6127929",
   "CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ",
   "CBMimgFBVV95cUxQWko3cmRCbHVySThrYWU1NU0yTUlDT3pvQ25aQmlQSnppNU5jcnJ4cHRPdUphUnc2bFNXcko1TDg0WVZQczIybXhjRHR5TXB0aGV4RjIza21EaDZ1UlRudERidGNVZWlSbDFrV0plNUxBaVVpaU05RmJ4RWFmWmdiQkRBVXVLT0hGWWk0eG1ObzBGNVgyRUxvSFF3",
-  "https://nypost.com/?post_type=article&p=41127574"
+  "https://nypost.com/?post_type=article&p=41127574",
+  "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo#0"
  ],
  "posts": [
-  {
-   "fp": "arrives attraction deadly francisco free past totally",
-   "title": "Attraction with deadly past arrives in San Francisco \u2014 and it\u2019s totally free",
-   "source": "New York Post",
-   "at": "2026-09-24T13:34:43.833745+00:00"
-  },
   {
    "fp": "attack might military mimic start",
    "title": "The sun can mimic an attack. Military AI might start a war over it",
@@ -3201,10 +3195,15 @@
    "title": "Jon Gruden backs Republican Jon Husted in Senate race",
    "source": "New York Post",
    "at": "2026-10-04T04:35:15.205968+00:00"
+  },
+  {
+   "fp": "attack bridge chancellor drone further german kyiv makes russian surprise visit",
+   "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+   "source": "BBC World",
+   "at": "2026-10-04T09:11:59.876146+00:00"
   }
  ],
  "titles": [
-  "arrives attraction deadly francisco free past totally",
   "attack might military mimic start",
   "america excuses infinite missile nuclear putin range",
   "abandon angry bizarre breaking caddie middle player point pushed round tour",
@@ -3603,6 +3602,7 @@
   "backs centers data ohio race senate tight trump",
   "czar exclusive force goals house members task unveils white",
   "confidence consumer edge lower sinks stocks",
-  "backs gruden husted race republican senate"
+  "backs gruden husted race republican senate",
+  "attack bridge chancellor drone further german kyiv makes russian surprise visit"
  ]
 }
