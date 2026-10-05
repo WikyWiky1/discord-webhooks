@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/sep/16/texas-georgia-executions",
   "https://www.washingtonexaminer.com/?p=4730945",
   "https://www.washingtonexaminer.com/?p=4731013",
   "https://thehill.com/?p=6094443",
@@ -799,15 +798,10 @@
   "https://www.washingtonexaminer.com/?p=4753505",
   "CBMivAFBVV95cUxQV3ZLNGdfVjRYSEZjN3ZqNnd5ajJsc0xSVktJbmhxNzZDWWJjdWxESFNIdnc1bTNRa3Q3aWFPSjJ3Wm9wbVZPQXpCZVFLUXYwRHVQbzhFeVV0T2dBQlU4aEJ3OGlMbktrc2FyaFVzcDlYaXRRREFYRzBLSmVKSFZkT1lVdGM5eWFuNGRPWUQxald1UUQ1YmJYWGRrSDJ5dWdvT2pUc2dJYldXU3I2TkotYkRNSW5PNldYdEYzOQ",
   "CBMirgFBVV95cUxOSnhBUXRBdFU4Uk1LNDZKSzY1T2NwSkQ4QzVNVzc3Zm9wLVVLXy11d1RDVmg4eUVIcEpKSmV1VEl1NDUzNEtEN2xfMjNfODRNMVVUMjI3YVluRmduZkRuZ1NSa242dThtOXFBUjJyNGZYaFQ0VzJSTUQ3alE0RUUzN3E1SnlRREhfYUxVUGM2REdScEFfWVlTclpmcG5HakdjSzNHMWNacnFQX0o3SlE",
-  "CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ"
+  "CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ",
+  "CBMingFBVV95cUxQOVM5SlhONzBCcXJrbWV0dWxlVF94cnZJMHFsdi1sQUtraU9uM1VUaW1uUzFMSUNpZ2NfZU9lNllQU1lfYzRwOGlpVDRJaVNPUnN2cGlNU1NNSnhRSmNMM195YmhGV3hBR2RxY3JCOEN4QlA3akNvTnVINWNrbVk2SVhLUDkyVlplT3FEYnJjRUhMVUVwS3dlWlFpR19Bdw"
  ],
  "posts": [
-  {
-   "fp": "china country image projecting rise seen summit trump",
-   "title": "In China, the Xi-Trump summit is seen as projecting image of the country\u2019s rise",
-   "source": "AP",
-   "at": "2026-09-25T11:16:55.667687+00:00"
-  },
   {
    "fp": "budget defense jets pentagon push trillion turns",
    "title": "Pentagon turns on the jets in $1.5 trillion defense budget push",
@@ -3201,10 +3195,15 @@
    "title": "Stocks upbeat, dollar wobbles as Fed hike bets recede",
    "source": "Reuters",
    "at": "2026-10-05T04:21:14.470448+00:00"
+  },
+  {
+   "fp": "border guards indian kill pakistan raising tensions",
+   "title": "Indian border guards kill 2 on border with Pakistan, raising tensions",
+   "source": "AP",
+   "at": "2026-10-05T06:09:40.008884+00:00"
   }
  ],
  "titles": [
-  "china country image projecting rise seen summit trump",
   "budget defense jets pentagon push trillion turns",
   "distancing election enters final republicans stretch trump",
   "aging back earth failing falls nasa private rescue spacecraft telescope",
@@ -3603,6 +3602,7 @@
   "bolsonaro brazil election fail garner heads lula majority runoff votes",
   "bitter bolsonaro brazil election lula past runoff setting surges",
   "banks forecast lift major price shows street survey wall",
-  "bets dollar hike recede stocks upbeat wobbles"
+  "bets dollar hike recede stocks upbeat wobbles",
+  "border guards indian kill pakistan raising tensions"
  ]
 }
