@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40861246",
-  "https://www.washingtonexaminer.com/?p=4731554",
-  "CBMipAFBVV95cUxOeVg4T09kWkpmNnNZOWc0aWJ4bEw5RVdVYVlrU0JONmUzajR3VW1NMTdfdUgxbkhvVWlUbEdfVTZjMVNHOHdpOFVvWUFuYUQ0R20zenBsMEVVRkROazdDckZwRkx3RGN1c1QzU2l3MWY0Q0otM1h4Y084MllZT0pfNTlDa2pRWEE1UjI4My1KTHRtUUdCRHhjeHluZEZxOTJsMkN3Sw",
-  "https://thehill.com/?p=6095322",
-  "https://www.washingtonexaminer.com/?p=4728783",
-  "CBMiugFBVV95cUxOR040WVpTSC1HTG5WV0IwMzRWb2VMQmdJT1k3Ui1rVWlqV08xYkgzRzhBQ3lfUk4tSGNHWU54VXdhZnVfb1Rta3BVMnM5VUxGbUpRRnB6RXN1MmFXb1NEU1hTeW1uSnhKR25jVEdkNmNCYVBvblBFaU9Wc1dCdDNiQS1Xcm5FWkRqcG4yQm9DVTFHRE5TWWNhQzVqZEEwZ1Vtd3p1bktPQmptYVNKRmVXQ0g4M1Q1SHE1TWc",
   "CBMipAFBVV95cUxQTlljY1Z6bkhtckJzX3o0Tno1Z2E0NjkwZVZNLU40RVBGaWZMdDBJSFFlWWJ0NTdhTElrY24zSW5vdnEyblRNNDd4ZWNuTzJ5NC03Wkg1RHE2VEV2SHVHQTJMZmdxbjduMlI1Y0lTQTFCYW9kQnZRRXhzS0lqZHJ4X2pHeWJudVJYbUI3bVp5SnI4dkl1WWpuSVRZVWdRSFlPdkw5cA",
   "CBMilgFBVV95cUxPalVuVFgycG9Pb3YwMjUyakJsUXVlVmNrLWZ6aFNLVjN0ME0tMl9HbUkxYUhmdl9xSENfc0ZUcGdGYnRQMldMdU1fdnFwVzRjcm1pb3VNc3hPekctanpXazZPc0xDbVZDT3NFYzZCRHdUZWZGZzRTYUtUdGpvYjBfaEtnZEpSdnNyRVpRbW9tMHR5UDZQdGc",
   "CBMisAFBVV95cUxOd3d4TzA5bGNMM1ZOUzA1VVFLQnJOSElocjlfNFBLY2NXRUg1VThkanZMcmE5c21ZdkRuRGtnY1dqZmhVbEFnRGhQbktlZFNqbmlmMFB1TVEtS0NvLWNqMlpEbFhsbDQ1Qk8ydXpRR2V0SVBqZHVEMjJVMFVIZXcxd2dXWWt1Qk1yUkhqYk9FaUpiQ3R4UGE4QzVUUjR5cS1nRGlmNDV4Z2ZWZmZsNU1sNg",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=41152203",
   "https://www.theguardian.com/us-news/2026/oct/05/pennsylvania-measles-outbreak-hospitalizations-deaths",
   "https://www.theguardian.com/business/2026/oct/05/london-to-chicago-ba-flight-declares-emergency-after-dropping-28000-feet",
-  "CBMilgFBVV95cUxPTlhFVFZMQklTYzhqUHR0d2h0ajItejFkSm1XNXZqREhzZGxYOVY3NzRlV1A4ZzFJcEU0U0hYM0gwbUtmNG5YWE5zVkUxZDlKZXp1bWVfYm1ISFhXbjJ0TDVRcVpJSVR5NXhfb3ktNjNScnl3czQyaVE5eFVfbU1aVjFuQTRwZG9aNGNleUhPTDcweWFBUmc"
+  "CBMilgFBVV95cUxPTlhFVFZMQklTYzhqUHR0d2h0ajItejFkSm1XNXZqREhzZGxYOVY3NzRlV1A4ZzFJcEU0U0hYM0gwbUtmNG5YWE5zVkUxZDlKZXp1bWVfYm1ISFhXbjJ0TDVRcVpJSVR5NXhfb3ktNjNScnl3czQyaVE5eFVfbU1aVjFuQTRwZG9aNGNleUhPTDcweWFBUmc",
+  "CBMiuwFBVV95cUxNNkJ0TFRoZHFOeHFjSkgwMnRhSTF6U19fZXB5TnBsZUc5aXBMRXFvVkRxZkJGb1lzd2ZCOE9xMExreWFlVVNDMFRKaHp6NnMtS181bzJubGJVY0J2cm1OQ3dSc2FwWElaRFVKSi1aZEVOOGhHY0JoNFhQSERLcUZPVjM3LVM0aXBaM0kwaDZYblBWUER2SjZvYWxkZnhnaGpCMlRpbEh2NFBHVVRWMzd3YjBZTGNRTDBTeURj",
+  "CBMimgFBVV95cUxQV09jSm4zWHp2ODd2SmNPRHdJcUhDcjNzZ3dwYkwzZ3NSVHdyVUdUVEI0TWltb3RKQUZucVVNa2l1UzAxWmtSd0hQSWFjVXV0WVZiUjJFNGJDeEZQVlhoWDJ5WWpxLWxuc3ZVYXBLR0QxSzdZMVFjSklpUTB2Q2YwdE12VFl0bUw2RGRjZ3VoUmFlMkp4UUstYy1R",
+  "CBMiywFBVV95cUxPX3dXaXhDaGlGSVlHa1hNRjNJVGxKQWFoNjhzODVQQ1laTEM1OFhPY0h1aFNGckpxS2hrRTU3WkZjN3psdXd2QW82bzRmdkZRc3hSbUNYbi0tT3MzUnMtSnpFN2pXdzRlakRzS1IzLUw1SDZPNl96cnJfOVRTUGpEaUFtTE5DLV9DbEt0cVhyU2dyWVRDRVNwdGZWRzJuclN0NWhJUTRtbmRsc2JxWjJOY1NqcDdNY242UHpPckpJXzFLRFpFYlV3SlFjVQ",
+  "CBMinwFBVV95cUxNeEtuQ0VBX01CSXdjRkpaTnRmUElnZFl0ZUlLdEo3YXR4NW9lcTBIRThlSmVEd3NNdGlfNkFfWkhVZnVNXzlaUU9uNFNSUEhJQXIyMWdHV1hhRWs3Vlh2QkdGMllMRkRqNEtuYWtocm9ObXBreUtMcjcyc090c0NCZDk0RkhaZHk3Q3JSRWJ3d1B4ZVJFUVFZWU90czdaR0k",
+  "https://thehill.com/?p=6130438",
+  "https://www.theguardian.com/us-news/2026/oct/05/obama-abdul-el-sayed-michigan-senate-race"
  ],
  "posts": [
-  {
-   "fp": "made summit takeaways trump",
-   "title": "5 takeaways from Trump and Xi\u2019s \u2018Made for TV\u2019 summit",
-   "source": "The Hill",
-   "at": "2026-09-25T21:09:09.435863+00:00"
-  },
-  {
-   "fp": "archives little progress sign summit tour trump",
-   "title": "Trump, Xi end summit with tea, tour of US archives - and little sign of progress",
-   "source": "Reuters",
-   "at": "2026-09-25T21:09:11.124018+00:00"
-  },
-  {
-   "fp": "ends higher investors microsoft rallies stocks street wall",
-   "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies",
-   "source": "Reuters",
-   "at": "2026-09-25T21:09:12.769591+00:00"
-  },
-  {
-   "fp": "approves control guidance health legislation mental pilot senate targeted traffic",
-   "title": "Senate approves legislation targeted at pilot, air traffic control mental health guidance",
-   "source": "The Hill",
-   "at": "2026-09-25T21:09:14.481205+00:00"
-  },
-  {
-   "fp": "dead found iowa reservoir save student teacher tried year",
-   "title": "Iowa teacher found dead in reservoir with 10-year-old student tried to save boy, his dad said",
-   "source": "New York Post",
-   "at": "2026-09-25T21:49:10.084550+00:00"
-  },
-  {
-   "fp": "assassination charlie details flaws kirk report security university utah valley",
-   "title": "Utah Valley University report details key security flaws at Charlie Kirk\u2019s assassination",
-   "source": "Washington Examiner",
-   "at": "2026-09-25T21:49:11.744191+00:00"
-  },
   {
    "fp": "areas campaigned daughter failing hannah invasion jones kids nikole school sent whiter yuppie",
    "title": "Nikole Hannah-Jones campaigned against a \u2018yuppie invasion\u2019 of kids from whiter areas to failing school they sent daughter",
@@ -3201,15 +3165,45 @@
    "title": "Threat of Iranian Drone Attack Prompted U.S. to Pull Bombers From U.K. Base",
    "source": "WSJ",
    "at": "2026-10-05T21:45:27.826150+00:00"
+  },
+  {
+   "fp": "alike britain cars chinese especially learned look love range rover",
+   "title": "How Britain Learned to Love Chinese Cars\u2014Especially a Look-Alike Range Rover",
+   "source": "WSJ",
+   "at": "2026-10-05T21:50:23.813231+00:00"
+  },
+  {
+   "fp": "close earnings focus high investors nasdaq notches record",
+   "title": "Nasdaq notches record high close as investors focus on earnings",
+   "source": "Reuters",
+   "at": "2026-10-05T21:50:25.636381+00:00"
+  },
+  {
+   "fp": "ahead bolsonaro boosts brazil camp congress presidential right runoff wave wing",
+   "title": "Right-wing wave in Brazil's Congress boosts Bolsonaro camp ahead of presidential runoff",
+   "source": "Reuters",
+   "at": "2026-10-05T21:50:27.340202+00:00"
+  },
+  {
+   "fp": "edge high rise stocks time",
+   "title": "US stocks rise to the edge of an all-time high",
+   "source": "AP",
+   "at": "2026-10-05T21:50:29.057750+00:00"
+  },
+  {
+   "fp": "carolina cooper democratic dominates down north polling pulls race senate super",
+   "title": "Democratic super PAC pulls down ads in North Carolina as Roy Cooper dominates Senate race polling",
+   "source": "The Hill",
+   "at": "2026-10-05T21:50:30.790921+00:00"
+  },
+  {
+   "fp": "abdul appear critical michigan obama race rally sayed senate",
+   "title": "Obama to appear at Abdul El-Sayed rally in critical Michigan Senate race",
+   "source": "Guardian World",
+   "at": "2026-10-05T21:50:32.683057+00:00"
   }
  ],
  "titles": [
-  "made summit takeaways trump",
-  "archives little progress sign summit tour trump",
-  "ends higher investors microsoft rallies stocks street wall",
-  "approves control guidance health legislation mental pilot senate targeted traffic",
-  "dead found iowa reservoir save student teacher tried year",
-  "assassination charlie details flaws kirk report security university utah valley",
   "areas campaigned daughter failing hannah invasion jones kids nikole school sent whiter yuppie",
   "called ethics governor jersey lieutenant report resigns sherrill",
   "accusation governor harassment jersey lieutenant resigns sexual",
@@ -3603,6 +3597,12 @@
   "afternoon california county earthquake magnitude monday orange",
   "case count decades faces largest measles outbreak pennsylvania rises",
   "chicago declares dropping emergency feet flight london",
-  "attack base bombers drone iranian prompted pull threat"
+  "attack base bombers drone iranian prompted pull threat",
+  "alike britain cars chinese especially learned look love range rover",
+  "close earnings focus high investors nasdaq notches record",
+  "ahead bolsonaro boosts brazil camp congress presidential right runoff wave wing",
+  "edge high rise stocks time",
+  "carolina cooper democratic dominates down north polling pulls race senate super",
+  "abdul appear critical michigan obama race rally sayed senate"
  ]
 }
