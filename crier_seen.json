@@ -1,10 +1,5 @@
 {
  "ids": [
-  "CBMipwFBVV95cUxPQnh0S0FWVVRkVmxPNVBfeTlCSnlsSHBOM0VzZWRjYU5mSVNORWd1UnpBSmhFT2V6aktBMHc3V0lOVGpiUHlBUFFDV1RYRE1pYWFsNHgtd0xlZFcybFA3ODF3LVVFSzEyaUN6WmJtclE5ZEJUSUF6U0F1cUpWbWJndENiaTRuSEtaWU4yTEs0dmJ1b1I1a2UzMXpNRm5nWjUtZV95c09Lbw",
-  "https://nypost.com/?post_type=article&p=40849513",
-  "https://nypost.com/?post_type=article&p=40853907",
-  "https://pagesix.com/?post_type=article&p=9180727",
-  "https://nypost.com/?post_type=article&p=40851854",
   "https://www.theguardian.com/us-news/2026/sep/16/texas-georgia-executions",
   "https://www.washingtonexaminer.com/?p=4730945",
   "https://www.washingtonexaminer.com/?p=4731013",
@@ -799,39 +794,14 @@
   "https://nypost.com/?post_type=article&p=41134626",
   "CBMirgFBVV95cUxOZm4yN3lGTlZFWFRCMmNTSFJSUWE4MnJqSGc5aGVKMXBWR3lrcXYtSEpTRWpncXNuUHc5QVVKeDVRa0NuTWpuXzBSRUxqXzcyUklYUlU2NUdLNTkwS2FndzlLdXBaQThKZThGT2d3cjRkN0FBVjFQcEJzR2NrbEpDa1RvSlJ3a3d2bUoxcnAwSF9jVnZXY0J4V0s4WjM5Y3hRVWlhY3dSQ0J0WkMxZ3c",
   "https://nypost.com/?post_type=article&p=41136354",
-  "CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ"
+  "CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ",
+  "https://www.bbc.co.uk/news/articles/ck1l34ed592no#0",
+  "https://www.washingtonexaminer.com/?p=4753505",
+  "CBMivAFBVV95cUxQV3ZLNGdfVjRYSEZjN3ZqNnd5ajJsc0xSVktJbmhxNzZDWWJjdWxESFNIdnc1bTNRa3Q3aWFPSjJ3Wm9wbVZPQXpCZVFLUXYwRHVQbzhFeVV0T2dBQlU4aEJ3OGlMbktrc2FyaFVzcDlYaXRRREFYRzBLSmVKSFZkT1lVdGM5eWFuNGRPWUQxald1UUQ1YmJYWGRrSDJ5dWdvT2pUc2dJYldXU3I2TkotYkRNSW5PNldYdEYzOQ",
+  "CBMirgFBVV95cUxOSnhBUXRBdFU4Uk1LNDZKSzY1T2NwSkQ4QzVNVzc3Zm9wLVVLXy11d1RDVmg4eUVIcEpKSmV1VEl1NDUzNEtEN2xfMjNfODRNMVVUMjI3YVluRmduZkRuZ1NSa242dThtOXFBUjJyNGZYaFQ0VzJSTUQ3alE0RUUzN3E1SnlRREhfYUxVUGM2REdScEFfWVlTclpmcG5HakdjSzNHMWNacnFQX0o3SlE",
+  "CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ"
  ],
  "posts": [
-  {
-   "fp": "asian bond retreats slightly stocks storm weather",
-   "title": "Asian stocks weather bond storm, oil retreats slightly",
-   "source": "Reuters",
-   "at": "2026-09-25T03:42:06.345463+00:00"
-  },
-  {
-   "fp": "arnault dinner guest huang includes list lvmh musk nvidia spacex state trump",
-   "title": "Trump-Xi state dinner guest list includes SpaceX\u2019s Musk, Nvidia\u2019s Huang and LVMH\u2019s Arnault",
-   "source": "Reuters",
-   "at": "2026-09-25T03:42:08.016960+00:00"
-  },
-  {
-   "fp": "breaking country ella faces fears following langley music record star week",
-   "title": "Country music star Ella Langley faces her fears following record-breaking week",
-   "source": "New York Post",
-   "at": "2026-09-25T08:25:28.810674+00:00"
-  },
-  {
-   "fp": "piling questions recommendations standstill unanswered vaccine",
-   "title": "CDC vaccine recommendations are at a standstill, and unanswered questions are piling up",
-   "source": "AP",
-   "at": "2026-09-25T11:16:52.268050+00:00"
-  },
-  {
-   "fp": "confidence european rally related returns stocks",
-   "title": "European AI-Related Stocks Rally as Confidence Returns",
-   "source": "WSJ",
-   "at": "2026-09-25T11:16:53.966512+00:00"
-  },
   {
    "fp": "china country image projecting rise seen summit trump",
    "title": "In China, the Xi-Trump summit is seen as projecting image of the country\u2019s rise",
@@ -3201,14 +3171,39 @@
    "title": "Associated Press News: Breaking News | Latest News Today",
    "source": "AP",
    "at": "2026-10-05T00:21:42.446480+00:00"
+  },
+  {
+   "fp": "bolsonaro brazil election goes right round wing wins",
+   "title": "Brazil election goes to run-off as right-wing Fl\u00e1vio Bolsonaro wins first round",
+   "source": "BBC World",
+   "at": "2026-10-05T04:21:06.748566+00:00"
+  },
+  {
+   "fp": "bolsonaro brazil election fail garner heads lula majority runoff votes",
+   "title": "Brazil heads to a runoff election after Bolsonaro and Lula fail to garner a majority of votes",
+   "source": "Washington Examiner",
+   "at": "2026-10-05T04:21:09.256540+00:00"
+  },
+  {
+   "fp": "bitter bolsonaro brazil election lula past runoff setting surges",
+   "title": "Fl\u00e1vio Bolsonaro Surges Past Lula, Setting Up a Bitter Brazil Election Runoff",
+   "source": "WSJ",
+   "at": "2026-10-05T04:21:10.960329+00:00"
+  },
+  {
+   "fp": "banks forecast lift major price shows street survey wall",
+   "title": "Major Wall Street Banks Lift Oil-Price Forecast, Survey Shows",
+   "source": "WSJ",
+   "at": "2026-10-05T04:21:12.694055+00:00"
+  },
+  {
+   "fp": "bets dollar hike recede stocks upbeat wobbles",
+   "title": "Stocks upbeat, dollar wobbles as Fed hike bets recede",
+   "source": "Reuters",
+   "at": "2026-10-05T04:21:14.470448+00:00"
   }
  ],
  "titles": [
-  "asian bond retreats slightly stocks storm weather",
-  "arnault dinner guest huang includes list lvmh musk nvidia spacex state trump",
-  "breaking country ella faces fears following langley music record star week",
-  "piling questions recommendations standstill unanswered vaccine",
-  "confidence european rally related returns stocks",
   "china country image projecting rise seen summit trump",
   "budget defense jets pentagon push trillion turns",
   "distancing election enters final republicans stretch trump",
@@ -3603,6 +3598,11 @@
   "californians giants heatwave hits issue power scorching urgent warning",
   "aramco attack climbs houthis saudi sites yemeni",
   "behind call coach collapse court nakase natalie reason reveals scary valkyries wake",
-  "associated breaking latest news press today"
+  "associated breaking latest news press today",
+  "bolsonaro brazil election goes right round wing wins",
+  "bolsonaro brazil election fail garner heads lula majority runoff votes",
+  "bitter bolsonaro brazil election lula past runoff setting surges",
+  "banks forecast lift major price shows street survey wall",
+  "bets dollar hike recede stocks upbeat wobbles"
  ]
 }
