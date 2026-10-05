@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4730945",
-  "https://www.washingtonexaminer.com/?p=4731013",
-  "https://thehill.com/?p=6094443",
-  "CBMipAFBVV95cUxPbzhkTDFXU3poM1FabHZkbzNULWhJRDdtSVNuLUIxemdUZ1Y5dldzRTl4S0YzTmJLWE83N0ZsX08ya2V0ci16Zkt0c2NpNVBhbEZqcnNEeUtfQjNJRlVjb3hVVE5tN2ZGcWZzZThGRnlSVmoybnlBSzR5OTFIUTFmT2xrVGhVNDFxNFZyT3B3UkJWUEFDWU53WkFhSUhVem90akRDQw",
-  "CBMisgFBVV95cUxQWDZ0ZkI2a1psbXBpT2RZaHREUVNnaUFzazhVQTRYWjhXNHpUSjAwaEw4MEVLSm5oZVc3Y08xZ082OWljdDVUbEZBaUpDd0N0Z05JR0oxeDNHYm53aWUwWm05M09kdm82V0pZLUMyZVZIZmVoQVZIdkJkVVR1bzJEcVFqSS0xMVlxbDJXM3Q0eEVjSDcwT1JfMUpCTmVpdS16VzZaelNTSGs0cGl1bmVuaFBn",
-  "CBMiYkFVX3lxTE1tWGk1Sm1yZjg5VkVpZlNFZ1FSOC1GbzltVVR2emlLQk96V0MwbTNHMVI3S2JJTUpHaU5lbE91WHR1NFk1MmlsOThBbkdLMlBUc0F0RWJxenFsSVdlWS1Rcmx3",
   "https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates",
   "https://www.theguardian.com/us-news/live/2026/sep/17/donald-trump-democrats-republicans-russia-sanctions-us-politics-latest-news",
   "CBMiiAFBVV95cUxOMEZ4eWpRcFQybzI4MUxVM2pCc1ZxNWRFajBQU2o3dWRSSnNZMmt6NEMxbjBmQXRqTzREdXlLOVZJVURwQmIyMzdfeXZkNUg1RlBRa1B3LWJqUkV2VjBtSTVpRDNlWTdRZzJndy1adEJkOHdVbERwU1liZmlwWEEyTEtBQTYwc29m",
@@ -799,45 +793,15 @@
   "CBMivAFBVV95cUxQV3ZLNGdfVjRYSEZjN3ZqNnd5ajJsc0xSVktJbmhxNzZDWWJjdWxESFNIdnc1bTNRa3Q3aWFPSjJ3Wm9wbVZPQXpCZVFLUXYwRHVQbzhFeVV0T2dBQlU4aEJ3OGlMbktrc2FyaFVzcDlYaXRRREFYRzBLSmVKSFZkT1lVdGM5eWFuNGRPWUQxald1UUQ1YmJYWGRrSDJ5dWdvT2pUc2dJYldXU3I2TkotYkRNSW5PNldYdEYzOQ",
   "CBMirgFBVV95cUxOSnhBUXRBdFU4Uk1LNDZKSzY1T2NwSkQ4QzVNVzc3Zm9wLVVLXy11d1RDVmg4eUVIcEpKSmV1VEl1NDUzNEtEN2xfMjNfODRNMVVUMjI3YVluRmduZkRuZ1NSa242dThtOXFBUjJyNGZYaFQ0VzJSTUQ3alE0RUUzN3E1SnlRREhfYUxVUGM2REdScEFfWVlTclpmcG5HakdjSzNHMWNacnFQX0o3SlE",
   "CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ",
-  "CBMingFBVV95cUxQOVM5SlhONzBCcXJrbWV0dWxlVF94cnZJMHFsdi1sQUtraU9uM1VUaW1uUzFMSUNpZ2NfZU9lNllQU1lfYzRwOGlpVDRJaVNPUnN2cGlNU1NNSnhRSmNMM195YmhGV3hBR2RxY3JCOEN4QlA3akNvTnVINWNrbVk2SVhLUDkyVlplT3FEYnJjRUhMVUVwS3dlWlFpR19Bdw"
+  "CBMingFBVV95cUxQOVM5SlhONzBCcXJrbWV0dWxlVF94cnZJMHFsdi1sQUtraU9uM1VUaW1uUzFMSUNpZ2NfZU9lNllQU1lfYzRwOGlpVDRJaVNPUnN2cGlNU1NNSnhRSmNMM195YmhGV3hBR2RxY3JCOEN4QlA3akNvTnVINWNrbVk2SVhLUDkyVlplT3FEYnJjRUhMVUVwS3dlWlFpR19Bdw",
+  "CBMirAFBVV95cUxPNnBVVGg0X283c2E3UVFRekJud193dksxLU9RcDJSLXVoT3dpN1k0emRjS0k4RnJ2Yk1VN3lMd3Z3al94X3FreFRuWV82ei1RY21IUkFTZHB3djVIQkxlZzc1TElvY2JfNWpTOXNucTRVSFpNQ090ZnlFVEVDWnpHMy02WmQzLXRqTmRRTnFGeWhJbTV3MEh6TV9EMmhDOWpQNHBpM3JXWlJvalpm",
+  "CBMixAFBVV95cUxNQXo2cFZNQjV2OVJOVnRDUlIzR0VJazh3WWt0MXlQXzBkWXlPRG1RVzZtVWlvbmdZMXFBM08xQzR0ZVlVdGtYVm5Dd2ptcHVhZmp1RDFxQkkxUzV4V2FLWWtaNlRWY25MbDVJSGsxNlA0LUdfNkVBOXdDTUdrNDdSR2lNSHc2c2VBMW1iejZWZ0tNN1hiVjBTdC1xcWR1SnA0cTFlVVF0RFA1SGhLWHZzR0QwbWkzYWRiM2U5dmpHdnJ3UnJV",
+  "https://www.washingtonexaminer.com/?p=4752942",
+  "https://www.washingtonexaminer.com/?p=4752323",
+  "CBMisAFBVV95cUxNVUhqZnB1b3ZsWEl5VDUyd0JaMTdCN2h2WVFCek9YaFN2QWFQTmtuS010TTF3UEpuWE5EODJ2LUVlMExndDdrdjQ1cjl2WlNteGFFLXJvNF8zUjBoeG9aNE8tck81TkJfWE9OdHRTVTlra3RMenhkZXlMVk1GdWVnT0U2VWpuZ0lHa3czT0NZWnBLVXB6M0lkY3FMckt6aW1FaWpSRFZUQWZHMzV3Z0JwSQ",
+  "https://thehill.com/?p=6128990"
  ],
  "posts": [
-  {
-   "fp": "budget defense jets pentagon push trillion turns",
-   "title": "Pentagon turns on the jets in $1.5 trillion defense budget push",
-   "source": "The Hill",
-   "at": "2026-09-25T11:16:57.410935+00:00"
-  },
-  {
-   "fp": "distancing election enters final republicans stretch trump",
-   "title": "As election enters its final stretch, some Republicans are distancing from Trump",
-   "source": "NPR News",
-   "at": "2026-09-25T11:16:59.108678+00:00"
-  },
-  {
-   "fp": "aging back earth failing falls nasa private rescue spacecraft telescope",
-   "title": "Private spacecraft falls back to Earth after failing to rescue aging NASA telescope",
-   "source": "AP",
-   "at": "2026-09-25T15:46:23.102193+00:00"
-  },
-  {
-   "fp": "andy burnham election rules snap",
-   "title": "Andy Burnham rules out snap election",
-   "source": "Telegraph",
-   "at": "2026-09-25T16:40:48.727707+00:00"
-  },
-  {
-   "fp": "global holdup limbo pandemic signed treaty",
-   "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
-   "source": "NPR News",
-   "at": "2026-09-25T16:40:50.448134+00:00"
-  },
-  {
-   "fp": "century putin spectacle summit trump",
-   "title": "With Putin, Trump\u2019s G-20 Would Be Summit Spectacle of the Century",
-   "source": "WSJ",
-   "at": "2026-09-25T16:40:52.139492+00:00"
-  },
   {
    "fp": "cost earnings pays push rise saving",
    "title": "H&M Earnings Rise as Cost-Saving Push Pays Off",
@@ -3201,15 +3165,45 @@
    "title": "Indian border guards kill 2 on border with Pakistan, raising tensions",
    "source": "AP",
    "at": "2026-10-05T06:09:40.008884+00:00"
+  },
+  {
+   "fp": "bolsonaro brazil election jumps leads real round",
+   "title": "Brazil's real jumps after Bolsonaro leads election first round",
+   "source": "Reuters",
+   "at": "2026-10-05T13:45:21.937084+00:00"
+  },
+  {
+   "fp": "brain german light medicine nobel prize scientists work",
+   "title": "German and US scientists win Nobel medicine prize for work on light and brain",
+   "source": "Reuters",
+   "at": "2026-10-05T13:45:23.801981+00:00"
+  },
+  {
+   "fp": "afford congress main miss street swing",
+   "title": "Main Street can\u2019t afford a swing and a miss from a new Congress",
+   "source": "Washington Examiner",
+   "at": "2026-10-05T13:45:25.554539+00:00"
+  },
+  {
+   "fp": "bomb clock congress time trillion vote",
+   "title": "The $2 trillion time bomb: Congress can\u2019t out-vote the clock",
+   "source": "Washington Examiner",
+   "at": "2026-10-05T13:45:27.283582+00:00"
+  },
+  {
+   "fp": "drops election euro fiscal french month snap spanish strain weigh",
+   "title": "Euro Drops to 16-Month Low as French Fiscal Strain, Spanish Snap Election Weigh",
+   "source": "WSJ",
+   "at": "2026-10-05T13:45:28.992252+00:00"
+  },
+  {
+   "fp": "about cotton hole number posting republican seconds senate trump zero",
+   "title": "Senate Republican on Trump posting Cotton's number: 'From zero to a--hole in about 3 seconds'",
+   "source": "The Hill",
+   "at": "2026-10-05T13:45:30.743678+00:00"
   }
  ],
  "titles": [
-  "budget defense jets pentagon push trillion turns",
-  "distancing election enters final republicans stretch trump",
-  "aging back earth failing falls nasa private rescue spacecraft telescope",
-  "andy burnham election rules snap",
-  "global holdup limbo pandemic signed treaty",
-  "century putin spectacle summit trump",
   "cost earnings pays push rise saving",
   "drift finish stocks toward week winning",
   "ashley democratic epstein hinson iowa jeffrey senate ties",
@@ -3603,6 +3597,12 @@
   "bitter bolsonaro brazil election lula past runoff setting surges",
   "banks forecast lift major price shows street survey wall",
   "bets dollar hike recede stocks upbeat wobbles",
-  "border guards indian kill pakistan raising tensions"
+  "border guards indian kill pakistan raising tensions",
+  "bolsonaro brazil election jumps leads real round",
+  "brain german light medicine nobel prize scientists work",
+  "afford congress main miss street swing",
+  "bomb clock congress time trillion vote",
+  "drops election euro fiscal french month snap spanish strain weigh",
+  "about cotton hole number posting republican seconds senate trump zero"
  ]
 }
