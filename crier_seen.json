@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates",
-  "https://www.theguardian.com/us-news/live/2026/sep/17/donald-trump-democrats-republicans-russia-sanctions-us-politics-latest-news",
-  "CBMiiAFBVV95cUxOMEZ4eWpRcFQybzI4MUxVM2pCc1ZxNWRFajBQU2o3dWRSSnNZMmt6NEMxbjBmQXRqTzREdXlLOVZJVURwQmIyMzdfeXZkNUg1RlBRa1B3LWJqUkV2VjBtSTVpRDNlWTdRZzJndy1adEJkOHdVbERwU1liZmlwWEEyTEtBQTYwc29m",
-  "https://thehill.com/?p=6093219",
-  "https://thehill.com/?p=6093606",
-  "https://nypost.com/?post_type=article&p=40857149",
   "https://nypost.com/?post_type=article&p=40824046",
   "CBMijwFBVV95cUxOQmk5STdRbWk1TXhDSGd0UjhZQWtoQU9FX1ZBSjU4SHQ4Ym5KV1F4Ynl5UGVkal9BbXBBamhOeGFyY0xtTzUxaXNzRzAtZjdBRERwY2JTLW9TU2tmWENIY3ZTX3Z5Vk1FLWhMVUl0bmFpaVIyQXZiQnI1dG5DN0xFbFlFMXpBdFFmSVV5dHdIYw",
   "https://thehill.com/?p=6094033",
@@ -799,45 +793,15 @@
   "https://www.washingtonexaminer.com/?p=4752942",
   "https://www.washingtonexaminer.com/?p=4752323",
   "CBMisAFBVV95cUxNVUhqZnB1b3ZsWEl5VDUyd0JaMTdCN2h2WVFCek9YaFN2QWFQTmtuS010TTF3UEpuWE5EODJ2LUVlMExndDdrdjQ1cjl2WlNteGFFLXJvNF8zUjBoeG9aNE8tck81TkJfWE9OdHRTVTlra3RMenhkZXlMVk1GdWVnT0U2VWpuZ0lHa3czT0NZWnBLVXB6M0lkY3FMckt6aW1FaWpSRFZUQWZHMzV3Z0JwSQ",
-  "https://thehill.com/?p=6128990"
+  "https://thehill.com/?p=6128990",
+  "https://nypost.com/?post_type=article&p=41141896",
+  "https://nypost.com/?post_type=article&p=41141725",
+  "https://thehill.com/?p=6129298",
+  "CBMirwFBVV95cUxNNzh3OWRHN1ZFNktlZ2ZvdkxzS0Z6WWxqNUEwcVE0TEd6dHVCNmRkTllCQ0ZTR3QwaFNBQnhqSFQxT0ZhM2E0cG12anRLeDQ1M0xkSnotR3BnYXhOLVVwU3hjaE1qYXJmdmdfbHJteEhoX1FzNnNwQU5meWUwOUFFQWwzU0o4ZVF0M2lGdVBHSG05Zk5zdEUzeUpZX1VtbVVHSHhNNXl3UjhBMW9Ed0Nr",
+  "https://thehill.com/?p=6129162",
+  "https://news.sky.com/story/failed-asylum-seeker-who-attempted-knife-attack-on-israeli-embassy-in-london-jailed-for-life-13595402"
  ],
  "posts": [
-  {
-   "fp": "cost earnings pays push rise saving",
-   "title": "H&M Earnings Rise as Cost-Saving Push Pays Off",
-   "source": "WSJ",
-   "at": "2026-09-25T16:40:53.830269+00:00"
-  },
-  {
-   "fp": "drift finish stocks toward week winning",
-   "title": "US stocks drift toward the finish of a winning week",
-   "source": "AP",
-   "at": "2026-09-25T16:40:55.475254+00:00"
-  },
-  {
-   "fp": "ashley democratic epstein hinson iowa jeffrey senate ties",
-   "title": "New Democratic ad in Iowa Senate ties Ashley Hinson to Jeffrey Epstein",
-   "source": "Washington Examiner",
-   "at": "2026-09-25T16:40:57.221673+00:00"
-  },
-  {
-   "fp": "china ending enlist help invasion russia trump ukraine urged zelenskyy",
-   "title": "Ukraine\u2019s Zelenskyy says he urged Trump to enlist China\u2019s help in ending Russia\u2019s invasion",
-   "source": "AP",
-   "at": "2026-09-25T18:39:30.611729+00:00"
-  },
-  {
-   "fp": "churns hawaii heavy hurricane mexico near nolo polo rain threatening",
-   "title": "Hurricane Nolo threatening Hawaii with heavy rain as Polo churns near Mexico",
-   "source": "AP",
-   "at": "2026-09-25T18:39:32.249512+00:00"
-  },
-  {
-   "fp": "arrested cops days dead found just kratom miss near students uncover units",
-   "title": "Two arrested near Ole Miss as cops uncover over 500 units of kratom just days after students found dead",
-   "source": "New York Post",
-   "at": "2026-09-25T18:39:34.026156+00:00"
-  },
   {
    "fp": "accident allegedly death deer hunter killed mistook partner woman",
    "title": "Partner of woman killed by US hunter who allegedly mistook her for deer says death \u2018no accident\u2019",
@@ -3201,15 +3165,45 @@
    "title": "Senate Republican on Trump posting Cotton's number: 'From zero to a--hole in about 3 seconds'",
    "source": "The Hill",
    "at": "2026-10-05T13:45:30.743678+00:00"
+  },
+  {
+   "fp": "alarm cause focus outbreak plague pneumonic reported rubio russian",
+   "title": "Reported Russian pneumonic plague outbreak \u2018cause for focus,\u2019 but not alarm, Rubio says",
+   "source": "New York Post",
+   "at": "2026-10-05T14:46:53.539398+00:00"
+  },
+  {
+   "fp": "crucial derailed durzi embracing injuries mammoth rangers role sean tenure",
+   "title": "How Sean Durzi is embracing his crucial Rangers role after injuries derailed Mammoth tenure",
+   "source": "New York Post",
+   "at": "2026-10-05T14:46:55.379658+00:00"
+  },
+  {
+   "fp": "alleged boat caribbean drug killed military strike",
+   "title": "4 killed in military strike on alleged drug boat in Caribbean",
+   "source": "The Hill",
+   "at": "2026-10-05T14:46:57.225530+00:00"
+  },
+  {
+   "fp": "blames dead drones fire romania russian ship ukraine",
+   "title": "Romania says two dead after fire on ship, Ukraine blames Russian drones",
+   "source": "Reuters",
+   "at": "2026-10-05T14:46:59.171006+00:00"
+  },
+  {
+   "fp": "administration monitoring outbreak plague russian suspected trump",
+   "title": "Trump administration monitoring suspected Russian plague outbreak",
+   "source": "The Hill",
+   "at": "2026-10-05T14:47:00.915950+00:00"
+  },
+  {
+   "fp": "asylum attack attempted embassy failed israeli jailed knife life seeker",
+   "title": "Failed asylum seeker who attempted knife attack on Israeli embassy jailed for life",
+   "source": "Sky News",
+   "at": "2026-10-05T14:47:02.721377+00:00"
   }
  ],
  "titles": [
-  "cost earnings pays push rise saving",
-  "drift finish stocks toward week winning",
-  "ashley democratic epstein hinson iowa jeffrey senate ties",
-  "china ending enlist help invasion russia trump ukraine urged zelenskyy",
-  "churns hawaii heavy hurricane mexico near nolo polo rain threatening",
-  "arrested cops days dead found just kratom miss near students uncover units",
   "accident allegedly death deer hunter killed mistook partner woman",
   "bring flooding hawaii hurricane life nolo predicted threatening",
   "concessions iran iranian make nuclear official",
@@ -3603,6 +3597,12 @@
   "afford congress main miss street swing",
   "bomb clock congress time trillion vote",
   "drops election euro fiscal french month snap spanish strain weigh",
-  "about cotton hole number posting republican seconds senate trump zero"
+  "about cotton hole number posting republican seconds senate trump zero",
+  "alarm cause focus outbreak plague pneumonic reported rubio russian",
+  "crucial derailed durzi embracing injuries mammoth rangers role sean tenure",
+  "alleged boat caribbean drug killed military strike",
+  "blames dead drones fire romania russian ship ukraine",
+  "administration monitoring outbreak plague russian suspected trump",
+  "asylum attack attempted embassy failed israeli jailed knife life seeker"
  ]
 }
