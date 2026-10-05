@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40824046",
-  "CBMijwFBVV95cUxOQmk5STdRbWk1TXhDSGd0UjhZQWtoQU9FX1ZBSjU4SHQ4Ym5KV1F4Ynl5UGVkal9BbXBBamhOeGFyY0xtTzUxaXNzRzAtZjdBRERwY2JTLW9TU2tmWENIY3ZTX3Z5Vk1FLWhMVUl0bmFpaVIyQXZiQnI1dG5DN0xFbFlFMXpBdFFmSVV5dHdIYw",
-  "https://thehill.com/?p=6094033",
-  "https://nypost.com/?post_type=article&p=40856782",
-  "CBMikgFBVV95cUxQOVBNTThJNEVJaVhGN2VsV3VSQUx4ekwtVkVCblFFb1pjbWxqT19XUk9RX0RteVdWdXZ6UEFDMV9kOVhhMzJhSElRWE1JT3luRkJNQ2lwM1NRMjJYYzN1dEJINEhWLTZ3a3VFWnFsMHgzTkdLV0JfR2NBU2l6cTF1WFJjVEE4MUMyZU1tcEdSeWRjQQ",
   "https://nypost.com/?post_type=article&p=40861246",
   "https://www.washingtonexaminer.com/?p=4731554",
   "CBMipAFBVV95cUxOeVg4T09kWkpmNnNZOWc0aWJ4bEw5RVdVYVlrU0JONmUzajR3VW1NMTdfdUgxbkhvVWlUbEdfVTZjMVNHOHdpOFVvWUFuYUQ0R20zenBsMEVVRkROazdDckZwRkx3RGN1c1QzU2l3MWY0Q0otM1h4Y084MllZT0pfNTlDa2pRWEE1UjI4My1KTHRtUUdCRHhjeHluZEZxOTJsMkN3Sw",
@@ -799,39 +794,14 @@
   "https://thehill.com/?p=6129298",
   "CBMirwFBVV95cUxNNzh3OWRHN1ZFNktlZ2ZvdkxzS0Z6WWxqNUEwcVE0TEd6dHVCNmRkTllCQ0ZTR3QwaFNBQnhqSFQxT0ZhM2E0cG12anRLeDQ1M0xkSnotR3BnYXhOLVVwU3hjaE1qYXJmdmdfbHJteEhoX1FzNnNwQU5meWUwOUFFQWwzU0o4ZVF0M2lGdVBHSG05Zk5zdEUzeUpZX1VtbVVHSHhNNXl3UjhBMW9Ed0Nr",
   "https://thehill.com/?p=6129162",
-  "https://news.sky.com/story/failed-asylum-seeker-who-attempted-knife-attack-on-israeli-embassy-in-london-jailed-for-life-13595402"
+  "https://news.sky.com/story/failed-asylum-seeker-who-attempted-knife-attack-on-israeli-embassy-in-london-jailed-for-life-13595402",
+  "https://thehill.com/?p=6130355",
+  "https://nypost.com/?post_type=article&p=41152203",
+  "https://www.theguardian.com/us-news/2026/oct/05/pennsylvania-measles-outbreak-hospitalizations-deaths",
+  "https://www.theguardian.com/business/2026/oct/05/london-to-chicago-ba-flight-declares-emergency-after-dropping-28000-feet",
+  "CBMilgFBVV95cUxPTlhFVFZMQklTYzhqUHR0d2h0ajItejFkSm1XNXZqREhzZGxYOVY3NzRlV1A4ZzFJcEU0U0hYM0gwbUtmNG5YWE5zVkUxZDlKZXp1bWVfYm1ISFhXbjJ0TDVRcVpJSVR5NXhfb3ktNjNScnl3czQyaVE5eFVfbU1aVjFuQTRwZG9aNGNleUhPTDcweWFBUmc"
  ],
  "posts": [
-  {
-   "fp": "accident allegedly death deer hunter killed mistook partner woman",
-   "title": "Partner of woman killed by US hunter who allegedly mistook her for deer says death \u2018no accident\u2019",
-   "source": "Guardian World",
-   "at": "2026-09-25T18:39:35.721260+00:00"
-  },
-  {
-   "fp": "bring flooding hawaii hurricane life nolo predicted threatening",
-   "title": "Hurricane Nolo predicted to bring \u2018life-threatening flooding\u2019 to Hawaii",
-   "source": "Guardian World",
-   "at": "2026-09-25T18:39:37.432101+00:00"
-  },
-  {
-   "fp": "concessions iran iranian make nuclear official",
-   "title": "Iran will make no nuclear concessions, Iranian official says",
-   "source": "Reuters",
-   "at": "2026-09-25T18:39:39.066540+00:00"
-  },
-  {
-   "fp": "dairy ever halloween menu queen spooky surprises unveils",
-   "title": "Dairy Queen unveils first-ever Halloween menu with a few spooky surprises",
-   "source": "New York Post",
-   "at": "2026-09-25T21:09:05.912221+00:00"
-  },
-  {
-   "fp": "arrest case cold crawl discovery homeowner horrifying leads space year",
-   "title": "Homeowner\u2019s horrifying discovery in crawl space leads to arrest in 20-year-old cold case",
-   "source": "New York Post",
-   "at": "2026-09-25T21:09:07.737869+00:00"
-  },
   {
    "fp": "made summit takeaways trump",
    "title": "5 takeaways from Trump and Xi\u2019s \u2018Made for TV\u2019 summit",
@@ -3201,14 +3171,39 @@
    "title": "Failed asylum seeker who attempted knife attack on Israeli embassy jailed for life",
    "source": "Sky News",
    "at": "2026-10-05T14:47:02.721377+00:00"
+  },
+  {
+   "fp": "cases mark measles outbreak pass pennsylvania",
+   "title": "Pennsylvania measles cases pass 1K mark amid outbreak",
+   "source": "The Hill",
+   "at": "2026-10-05T21:45:20.352264+00:00"
+  },
+  {
+   "fp": "afternoon california county earthquake magnitude monday orange",
+   "title": "California\u2019s Orange County hit by 3.5-magnitude earthquake on Monday afternoon",
+   "source": "New York Post",
+   "at": "2026-10-05T21:45:22.366966+00:00"
+  },
+  {
+   "fp": "case count decades faces largest measles outbreak pennsylvania rises",
+   "title": "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000",
+   "source": "Guardian World",
+   "at": "2026-10-05T21:45:24.294659+00:00"
+  },
+  {
+   "fp": "chicago declares dropping emergency feet flight london",
+   "title": "London to Chicago BA flight declares emergency after dropping 28,000 feet",
+   "source": "Guardian World",
+   "at": "2026-10-05T21:45:26.038866+00:00"
+  },
+  {
+   "fp": "attack base bombers drone iranian prompted pull threat",
+   "title": "Threat of Iranian Drone Attack Prompted U.S. to Pull Bombers From U.K. Base",
+   "source": "WSJ",
+   "at": "2026-10-05T21:45:27.826150+00:00"
   }
  ],
  "titles": [
-  "accident allegedly death deer hunter killed mistook partner woman",
-  "bring flooding hawaii hurricane life nolo predicted threatening",
-  "concessions iran iranian make nuclear official",
-  "dairy ever halloween menu queen spooky surprises unveils",
-  "arrest case cold crawl discovery homeowner horrifying leads space year",
   "made summit takeaways trump",
   "archives little progress sign summit tour trump",
   "ends higher investors microsoft rallies stocks street wall",
@@ -3603,6 +3598,11 @@
   "alleged boat caribbean drug killed military strike",
   "blames dead drones fire romania russian ship ukraine",
   "administration monitoring outbreak plague russian suspected trump",
-  "asylum attack attempted embassy failed israeli jailed knife life seeker"
+  "asylum attack attempted embassy failed israeli jailed knife life seeker",
+  "cases mark measles outbreak pass pennsylvania",
+  "afternoon california county earthquake magnitude monday orange",
+  "case count decades faces largest measles outbreak pennsylvania rises",
+  "chicago declares dropping emergency feet flight london",
+  "attack base bombers drone iranian prompted pull threat"
  ]
 }
