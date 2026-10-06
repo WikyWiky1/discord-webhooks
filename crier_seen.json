@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMipAFBVV95cUxOeDA2blR2dUlUOUJkM2pMajVRVC1jRTg4VFdPWHc3UXVtb0xQbElWbkxoUkxnaXhfZkFQNkpkVHJmcTlNbE9mbHZqcDRKbXo0YW52WlU3VHBsX3NLeWxUNkFyT2RHMllLVUp0MXVrRERpODk3SmduekVDbTRRdDNHWW5jYm5lVFFkQWs5RjFoQXFGQzQxRWpLdmpiUWdQT3VsZy1YNg",
   "https://www.theguardian.com/world/2026/sep/17/nato-head-britain-must-show-credible-path-of-annual-defence-budget-increases",
   "CBMikgFBVV95cUxQWjBFcjRLN3NaNmpvRkx5TFVsZ0h5YkpYVmh6V18xaVhiRDF0eVBDVFhjeTc3SmlOOVk1RTZveFozZVg1N1BlVWptZ0lNeG94SWhVNk5ha2JlcExLclZHQ3ctQVlRNktiOVJNbGVGVTZyWG4wRkRldF9wMjRmZncxNXdDMlBVRjNyZmVoZFljWU9CUQ",
   "https://www.washingtonexaminer.com/?p=4731983",
@@ -799,15 +798,10 @@
   "CBMikgFBVV95cUxNb0hVTTdSN0xhUUhTTVlvRE5ndVE5eE5jUF9rek9ldjVvendOOVNBWnkzNVFueEEwdUxBeS1TX19SeklDYWVURWZ5QW9ZWnVhdXZQNGRJMC1HMWFDY3owd0Z0bmFSUl9OcDlXdGdmQTJ0WlZpQVZrYTdQZmRBTDV0Ymw5MEVfRDE1NVlxVW9xQ0V0UQ",
   "https://www.bbc.co.uk/news/articles/cq203mymlvkeo#0",
   "CBMiYkFVX3lxTE04WElUYkw2SmM2X1RldnU1ektVYUN5WWlRdXdoTEVkSGxleWxKWUNTUWMtUFI1VGt0QS1KajFBRTI5aWNMSFNZYlltUFVqc05RWnhzM3BpQzg3SnBTSEhReXhR",
-  "https://www.theguardian.com/australia-news/2026/oct/07/nsw-health-people-buried-unmarked-grave-minister-failings-families"
+  "https://www.theguardian.com/australia-news/2026/oct/07/nsw-health-people-buried-unmarked-grave-minister-failings-families",
+  "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics"
  ],
  "posts": [
-  {
-   "fp": "action congress demand down fight kicks lawmakers road",
-   "title": "Congress kicks AI fight down the road as lawmakers demand action",
-   "source": "The Hill",
-   "at": "2026-09-26T10:53:48.550852+00:00"
-  },
   {
    "fp": "deal hormuz iran peace rejects reopen reportedly seven strait trump",
    "title": "Trump reportedly rejects Iran\u2019s seven-day peace deal to reopen strait of Hormuz",
@@ -3201,10 +3195,15 @@
    "title": "PM called on to act on communal grave revelations as NSW commits to urgent review",
    "source": "Guardian World",
    "at": "2026-10-06T15:37:09.096022+00:00"
+  },
+  {
+   "fp": "energy francis halzen high neutrinos nobel physics prize space wins work",
+   "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
+   "source": "NPR News",
+   "at": "2026-10-06T17:06:23.308968+00:00"
   }
  ],
  "titles": [
-  "action congress demand down fight kicks lawmakers road",
   "deal hormuz iran peace rejects reopen reportedly seven strait trump",
   "agree billion china dialogue foreign ministry tariff visit",
   "athens building dead destroys explosion",
@@ -3603,6 +3602,7 @@
   "approves decrees election housing snap spain triggered",
   "antarctic francis ghost halzen hunt nobel particle physics prize wins",
   "ghost nobel particles physics space telescope wins",
-  "called commits communal grave revelations review urgent"
+  "called commits communal grave revelations review urgent",
+  "energy francis halzen high neutrinos nobel physics prize space wins work"
  ]
 }
