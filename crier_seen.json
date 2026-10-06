@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.foxnews.com/world/fresh-activity-emerges-irans-deeply-buried-nuclear-site-trump-warns-iran-not-get-cute",
   "CBMipAFBVV95cUxOeDA2blR2dUlUOUJkM2pMajVRVC1jRTg4VFdPWHc3UXVtb0xQbElWbkxoUkxnaXhfZkFQNkpkVHJmcTlNbE9mbHZqcDRKbXo0YW52WlU3VHBsX3NLeWxUNkFyT2RHMllLVUp0MXVrRERpODk3SmduekVDbTRRdDNHWW5jYm5lVFFkQWs5RjFoQXFGQzQxRWpLdmpiUWdQT3VsZy1YNg",
   "https://www.theguardian.com/world/2026/sep/17/nato-head-britain-must-show-credible-path-of-annual-defence-budget-increases",
   "CBMikgFBVV95cUxQWjBFcjRLN3NaNmpvRkx5TFVsZ0h5YkpYVmh6V18xaVhiRDF0eVBDVFhjeTc3SmlOOVk1RTZveFozZVg1N1BlVWptZ0lNeG94SWhVNk5ha2JlcExLclZHQ3ctQVlRNktiOVJNbGVGVTZyWG4wRkRldF9wMjRmZncxNXdDMlBVRjNyZmVoZFljWU9CUQ",
@@ -799,7 +798,8 @@
   "CBMitwFBVV95cUxPczBxRzRITXd3YlBwbXZhcTczekIzYjE2MTE0ZWh2dk8zMGFaZ1BxYTIyXzRkSWlIdDVLX0FoemZ6OU9qNkNua1BoRE4xUFk3WVltTWpqSnZlM2FvWVhFRS1SbzlvNWhPd1BmTDJzT0k3NGNsdmpua29pRkVfY0VweDV1R3FMZE1wNXRzVVk4Z2hNajNMT1hCX2w5SE5NUVpRcTVUVVBLa0hZTTFyeVRHeGY0V3BwOEE",
   "CBMikgFBVV95cUxNb0hVTTdSN0xhUUhTTVlvRE5ndVE5eE5jUF9rek9ldjVvendOOVNBWnkzNVFueEEwdUxBeS1TX19SeklDYWVURWZ5QW9ZWnVhdXZQNGRJMC1HMWFDY3owd0Z0bmFSUl9OcDlXdGdmQTJ0WlZpQVZrYTdQZmRBTDV0Ymw5MEVfRDE1NVlxVW9xQ0V0UQ",
   "https://www.bbc.co.uk/news/articles/cq203mymlvkeo#0",
-  "CBMiYkFVX3lxTE04WElUYkw2SmM2X1RldnU1ektVYUN5WWlRdXdoTEVkSGxleWxKWUNTUWMtUFI1VGt0QS1KajFBRTI5aWNMSFNZYlltUFVqc05RWnhzM3BpQzg3SnBTSEhReXhR"
+  "CBMiYkFVX3lxTE04WElUYkw2SmM2X1RldnU1ektVYUN5WWlRdXdoTEVkSGxleWxKWUNTUWMtUFI1VGt0QS1KajFBRTI5aWNMSFNZYlltUFVqc05RWnhzM3BpQzg3SnBTSEhReXhR",
+  "https://www.theguardian.com/australia-news/2026/oct/07/nsw-health-people-buried-unmarked-grave-minister-failings-families"
  ],
  "posts": [
   {
@@ -3197,10 +3197,10 @@
    "at": "2026-10-06T12:51:14.406590+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-10-06T12:51:16.075836+00:00"
+   "fp": "called commits communal grave revelations review urgent",
+   "title": "PM called on to act on communal grave revelations as NSW commits to urgent review",
+   "source": "Guardian World",
+   "at": "2026-10-06T15:37:09.096022+00:00"
   }
  ],
  "titles": [
@@ -3603,6 +3603,6 @@
   "approves decrees election housing snap spain triggered",
   "antarctic francis ghost halzen hunt nobel particle physics prize wins",
   "ghost nobel particles physics space telescope wins",
-  "edition journal print street wall"
+  "called commits communal grave revelations review urgent"
  ]
 }
