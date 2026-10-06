@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4731334",
-  "https://thehill.com/?p=6095497",
   "CBMiswFBVV95cUxPeldsTHlCcnB3M2w2Rld4RVluS2Q0WFdRaVlCMTluMWc0WkhhLXJOM0JkSC1EQ3FNekMyOXRzMXEzTnpJRmJkZUFTVXE1Mklyanh2SUZVVTZSMHdIaTJsR19SY2dfc2M1TERFOUlKTWhXVk1wRjdjUnIxNlQ3WjhLYjdyM3ZTaGY3UnNacUFIYlhxRC1HR2FsQUdKR09OSmZHUVF4WkxIMzNqVXY3OHJhTVlvNA",
   "CBMirwFBVV95cUxPWTZhczMzcDJoM1d6MDJwS0x4NnVqbElMSklWU1ZVem1FWkNuMFRDQ1FnVEhDVVJSSE1rRDktY29hVzZVaVJkS3J3dTRQR1BqeEs1Mk1UUEU4a0hyd3hyZnRzZk0zWE81V1ZYZ0hVWEwxNjBsRW5JUmItUFNmLU93NlItTWZhOXIxa2ZWcUxiV3paVFhsMUFGbm1Td3dqcDI0S3JfTDdCLVZMTl9YNUtV",
   "https://nypost.com/?post_type=article&p=40859212",
@@ -799,15 +797,11 @@
   "https://nypost.com/?post_type=article&p=41151284",
   "CBMicEFVX3lxTFAxMUFrcDlUeTR3aVRYTFdsSmEzTng5aEdaYUhONkpqRHI4WHF0NUhWZUhvOUd5QjRHTXpXVElzYkpNaU9lbmpON2tacDZJRmM5N1dJTnhfa1JuaHhkck80dTlKbVFOMUYybTh4UUlwM1o",
   "https://www.bbc.co.uk/news/articles/crly09gz7ew4o#0",
-  "CBMigwFBVV95cUxNZlMwQU1nbHRaZ2dnOUVOM1c1LXBxNXhWUTNzS1ROWDZyODk1NldRTHB2ODNKbnI0am5tUUcwMU9YekUxMWtLOFVGMFczTU12cHpCclQ1cnhDRzBMVGRBWTYwRjZPVUZidVFlT1FMZGdUcnR6MENjNXVMUXRzTlVzdVJkSQ"
+  "CBMigwFBVV95cUxNZlMwQU1nbHRaZ2dnOUVOM1c1LXBxNXhWUTNzS1ROWDZyODk1NldRTHB2ODNKbnI0am5tUUcwMU9YekUxMWtLOFVGMFczTU12cHpCclQ1cnhDRzBMVGRBWTYwRjZPVUZidVFlT1FMZGdUcnR6MENjNXVMUXRzTlVzdVJkSQ",
+  "CBMitAFBVV95cUxNTzhNck42VmZyVkJFUUFRR3czamNkTDV5TGFjQzBGcDk0MmlwT19MdG9ZTkNseE9CQ05mXzAwTVdCZmlZM2M3bWN5M3UzX1FTV0RQeUdhMlFVTWVXRjFQaU9PNmNVbkFzSGxfYm96WTRQZGFoeWU0S2h5S0ZRa1VTSmxFdGRTZ21zM3RJT3laNmdDLVRXeG16X0dGWUQtM1pyVFhQV2NuZjVDYm0tWnNXRF9KSVA",
+  "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo#0"
  ],
  "posts": [
-  {
-   "fp": "catch pass unlimited unveils",
-   "title": "UCF unveils unlimited \u2018hot dog\u2019 pass \u2014 with a catch",
-   "source": "New York Post",
-   "at": "2026-09-26T03:48:22.760887+00:00"
-  },
   {
    "fp": "approved cancels congress funding nearly trump",
    "title": "Trump cancels nearly $1bn in funding approved by Congress",
@@ -3185,12 +3179,6 @@
    "at": "2026-10-06T02:00:11.435438+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-10-06T05:08:49.851125+00:00"
-  },
-  {
    "fp": "adding canada election party projected quebec separatist test unity",
    "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
    "source": "BBC World",
@@ -3201,10 +3189,21 @@
    "title": "Asian shares track Wall Street higher, Treasury yields near multi-decade highs",
    "source": "Reuters",
    "at": "2026-10-06T05:08:53.345090+00:00"
+  },
+  {
+   "fp": "blockbuster chilly debates derail markets point safety season september street wall",
+   "title": "Chilly Markets and AI Safety Debates Derail Wall Street\u2019s Blockbuster IPO Season | The 10-Point for September 30",
+   "source": "WSJ",
+   "at": "2026-10-06T08:49:41.909365+00:00"
+  },
+  {
+   "fp": "crashes killed military mourns nigeria plane swamp",
+   "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
+   "source": "BBC World",
+   "at": "2026-10-06T08:49:43.634495+00:00"
   }
  ],
  "titles": [
-  "catch pass unlimited unveils",
   "approved cancels congress funding nearly trump",
   "administration approved authority back claw congress nearly rare spending trump uses",
   "bill create dead exec giles helped longtime phanatic phillie phillies",
@@ -3601,8 +3600,9 @@
   "alleging alone area father home hospital injured kids killed leaves showing wife young",
   "army australian exercise five injured killed northern others soldier territory training",
   "border duty gets illegal immigrant robbery shooting years",
-  "edition journal print street wall",
   "adding canada election party projected quebec separatist test unity",
-  "asian decade higher highs multi near shares street track treasury wall yields"
+  "asian decade higher highs multi near shares street track treasury wall yields",
+  "blockbuster chilly debates derail markets point safety season september street wall",
+  "crashes killed military mourns nigeria plane swamp"
  ]
 }
