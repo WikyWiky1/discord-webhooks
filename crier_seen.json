@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMipAFBVV95cUxQTlljY1Z6bkhtckJzX3o0Tno1Z2E0NjkwZVZNLU40RVBGaWZMdDBJSFFlWWJ0NTdhTElrY24zSW5vdnEyblRNNDd4ZWNuTzJ5NC03Wkg1RHE2VEV2SHVHQTJMZmdxbjduMlI1Y0lTQTFCYW9kQnZRRXhzS0lqZHJ4X2pHeWJudVJYbUI3bVp5SnI4dkl1WWpuSVRZVWdRSFlPdkw5cA",
-  "CBMilgFBVV95cUxPalVuVFgycG9Pb3YwMjUyakJsUXVlVmNrLWZ6aFNLVjN0ME0tMl9HbUkxYUhmdl9xSENfc0ZUcGdGYnRQMldMdU1fdnFwVzRjcm1pb3VNc3hPekctanpXazZPc0xDbVZDT3NFYzZCRHdUZWZGZzRTYUtUdGpvYjBfaEtnZEpSdnNyRVpRbW9tMHR5UDZQdGc",
-  "CBMisAFBVV95cUxOd3d4TzA5bGNMM1ZOUzA1VVFLQnJOSElocjlfNFBLY2NXRUg1VThkanZMcmE5c21ZdkRuRGtnY1dqZmhVbEFnRGhQbktlZFNqbmlmMFB1TVEtS0NvLWNqMlpEbFhsbDQ1Qk8ydXpRR2V0SVBqZHVEMjJVMFVIZXcxd2dXWWt1Qk1yUkhqYk9FaUpiQ3R4UGE4QzVUUjR5cS1nRGlmNDV4Z2ZWZmZsNU1sNg",
   "https://thehill.com/?p=6095486",
   "https://www.washingtonexaminer.com/?p=4731659",
   "https://nypost.com/?post_type=article&p=40859129",
@@ -799,27 +796,12 @@
   "CBMiywFBVV95cUxPX3dXaXhDaGlGSVlHa1hNRjNJVGxKQWFoNjhzODVQQ1laTEM1OFhPY0h1aFNGckpxS2hrRTU3WkZjN3psdXd2QW82bzRmdkZRc3hSbUNYbi0tT3MzUnMtSnpFN2pXdzRlakRzS1IzLUw1SDZPNl96cnJfOVRTUGpEaUFtTE5DLV9DbEt0cVhyU2dyWVRDRVNwdGZWRzJuclN0NWhJUTRtbmRsc2JxWjJOY1NqcDdNY242UHpPckpJXzFLRFpFYlV3SlFjVQ",
   "CBMinwFBVV95cUxNeEtuQ0VBX01CSXdjRkpaTnRmUElnZFl0ZUlLdEo3YXR4NW9lcTBIRThlSmVEd3NNdGlfNkFfWkhVZnVNXzlaUU9uNFNSUEhJQXIyMWdHV1hhRWs3Vlh2QkdGMllMRkRqNEtuYWtocm9ObXBreUtMcjcyc090c0NCZDk0RkhaZHk3Q3JSRWJ3d1B4ZVJFUVFZWU90czdaR0k",
   "https://thehill.com/?p=6130438",
-  "https://www.theguardian.com/us-news/2026/oct/05/obama-abdul-el-sayed-michigan-senate-race"
+  "https://www.theguardian.com/us-news/2026/oct/05/obama-abdul-el-sayed-michigan-senate-race",
+  "https://nypost.com/?post_type=article&p=41154875",
+  "https://www.theguardian.com/australia-news/2026/oct/06/australian-defence-force-soldier-killed-five-injuried-mount-bundey-training-northern-territory",
+  "https://nypost.com/?post_type=article&p=41151284"
  ],
  "posts": [
-  {
-   "fp": "areas campaigned daughter failing hannah invasion jones kids nikole school sent whiter yuppie",
-   "title": "Nikole Hannah-Jones campaigned against a \u2018yuppie invasion\u2019 of kids from whiter areas to failing school they sent daughter",
-   "source": "New York Post",
-   "at": "2026-09-25T21:49:13.414866+00:00"
-  },
-  {
-   "fp": "called ethics governor jersey lieutenant report resigns sherrill",
-   "title": "New Jersey lieutenant governor resigns after being called out by Sherrill over ethics report",
-   "source": "The Hill",
-   "at": "2026-09-25T21:49:15.198479+00:00"
-  },
-  {
-   "fp": "accusation governor harassment jersey lieutenant resigns sexual",
-   "title": "New Jersey lieutenant governor resigns after sexual harassment accusation",
-   "source": "Guardian World",
-   "at": "2026-09-25T21:49:16.859266+00:00"
-  },
   {
    "fp": "angeles breaking firefighters fires homeless people point spark stretched",
    "title": "Firefighters stretched to breaking point after homeless people spark over 12K fires in Los Angeles",
@@ -3201,12 +3183,27 @@
    "title": "Obama to appear at Abdul El-Sayed rally in critical Michigan Senate race",
    "source": "Guardian World",
    "at": "2026-10-05T21:50:32.683057+00:00"
+  },
+  {
+   "fp": "alleging alone area father home hospital injured kids killed leaves showing wife young",
+   "title": "Bay Area father leaves 3 young kids home alone before showing up at hospital with injured wife, alleging he killed her",
+   "source": "New York Post",
+   "at": "2026-10-06T02:00:07.697334+00:00"
+  },
+  {
+   "fp": "army australian exercise five injured killed northern others soldier territory training",
+   "title": "Australian Army soldier killed and five others injured in training exercise in the Northern Territory",
+   "source": "Guardian World",
+   "at": "2026-10-06T02:00:09.371651+00:00"
+  },
+  {
+   "fp": "border duty gets illegal immigrant robbery shooting years",
+   "title": "Illegal immigrant gets 15 years for shooting off-duty border cop in NYC robbery",
+   "source": "New York Post",
+   "at": "2026-10-06T02:00:11.435438+00:00"
   }
  ],
  "titles": [
-  "areas campaigned daughter failing hannah invasion jones kids nikole school sent whiter yuppie",
-  "called ethics governor jersey lieutenant report resigns sherrill",
-  "accusation governor harassment jersey lieutenant resigns sexual",
   "angeles breaking firefighters fires homeless people point spark stretched",
   "california consumers green kill nationwide",
   "caledonia magnitude near pacific quake reports strikes usgs",
@@ -3603,6 +3600,9 @@
   "ahead bolsonaro boosts brazil camp congress presidential right runoff wave wing",
   "edge high rise stocks time",
   "carolina cooper democratic dominates down north polling pulls race senate super",
-  "abdul appear critical michigan obama race rally sayed senate"
+  "abdul appear critical michigan obama race rally sayed senate",
+  "alleging alone area father home hospital injured kids killed leaves showing wife young",
+  "army australian exercise five injured killed northern others soldier territory training",
+  "border duty gets illegal immigrant robbery shooting years"
  ]
 }
