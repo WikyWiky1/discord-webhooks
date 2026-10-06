@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6095486",
-  "https://www.washingtonexaminer.com/?p=4731659",
-  "https://nypost.com/?post_type=article&p=40859129",
   "https://www.washingtonexaminer.com/?p=4731334",
   "https://thehill.com/?p=6095497",
   "CBMiswFBVV95cUxPeldsTHlCcnB3M2w2Rld4RVluS2Q0WFdRaVlCMTluMWc0WkhhLXJOM0JkSC1EQ3FNekMyOXRzMXEzTnpJRmJkZUFTVXE1Mklyanh2SUZVVTZSMHdIaTJsR19SY2dfc2M1TERFOUlKTWhXVk1wRjdjUnIxNlQ3WjhLYjdyM3ZTaGY3UnNacUFIYlhxRC1HR2FsQUdKR09OSmZHUVF4WkxIMzNqVXY3OHJhTVlvNA",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/us-news/2026/oct/05/obama-abdul-el-sayed-michigan-senate-race",
   "https://nypost.com/?post_type=article&p=41154875",
   "https://www.theguardian.com/australia-news/2026/oct/06/australian-defence-force-soldier-killed-five-injuried-mount-bundey-training-northern-territory",
-  "https://nypost.com/?post_type=article&p=41151284"
+  "https://nypost.com/?post_type=article&p=41151284",
+  "CBMicEFVX3lxTFAxMUFrcDlUeTR3aVRYTFdsSmEzTng5aEdaYUhONkpqRHI4WHF0NUhWZUhvOUd5QjRHTXpXVElzYkpNaU9lbmpON2tacDZJRmM5N1dJTnhfa1JuaHhkck80dTlKbVFOMUYybTh4UUlwM1o",
+  "https://www.bbc.co.uk/news/articles/crly09gz7ew4o#0",
+  "CBMigwFBVV95cUxNZlMwQU1nbHRaZ2dnOUVOM1c1LXBxNXhWUTNzS1ROWDZyODk1NldRTHB2ODNKbnI0am5tUUcwMU9YekUxMWtLOFVGMFczTU12cHpCclQ1cnhDRzBMVGRBWTYwRjZPVUZidVFlT1FMZGdUcnR6MENjNXVMUXRzTlVzdVJkSQ"
  ],
  "posts": [
-  {
-   "fp": "angeles breaking firefighters fires homeless people point spark stretched",
-   "title": "Firefighters stretched to breaking point after homeless people spark over 12K fires in Los Angeles",
-   "source": "New York Post",
-   "at": "2026-09-26T00:18:08.664454+00:00"
-  },
-  {
-   "fp": "california consumers green kill nationwide",
-   "title": "Kill this California \u2018green\u2019 tax on consumers nationwide",
-   "source": "New York Post",
-   "at": "2026-09-26T00:18:10.335000+00:00"
-  },
-  {
-   "fp": "caledonia magnitude near pacific quake reports strikes usgs",
-   "title": "Magnitude 6.6 quake strikes near New Caledonia in the Pacific, USGS reports",
-   "source": "Reuters",
-   "at": "2026-09-26T00:18:11.982231+00:00"
-  },
   {
    "fp": "catch pass unlimited unveils",
    "title": "UCF unveils unlimited \u2018hot dog\u2019 pass \u2014 with a catch",
@@ -3201,12 +3183,27 @@
    "title": "Illegal immigrant gets 15 years for shooting off-duty border cop in NYC robbery",
    "source": "New York Post",
    "at": "2026-10-06T02:00:11.435438+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-10-06T05:08:49.851125+00:00"
+  },
+  {
+   "fp": "adding canada election party projected quebec separatist test unity",
+   "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+   "source": "BBC World",
+   "at": "2026-10-06T05:08:51.510437+00:00"
+  },
+  {
+   "fp": "asian decade higher highs multi near shares street track treasury wall yields",
+   "title": "Asian shares track Wall Street higher, Treasury yields near multi-decade highs",
+   "source": "Reuters",
+   "at": "2026-10-06T05:08:53.345090+00:00"
   }
  ],
  "titles": [
-  "angeles breaking firefighters fires homeless people point spark stretched",
-  "california consumers green kill nationwide",
-  "caledonia magnitude near pacific quake reports strikes usgs",
   "catch pass unlimited unveils",
   "approved cancels congress funding nearly trump",
   "administration approved authority back claw congress nearly rare spending trump uses",
@@ -3603,6 +3600,9 @@
   "abdul appear critical michigan obama race rally sayed senate",
   "alleging alone area father home hospital injured kids killed leaves showing wife young",
   "army australian exercise five injured killed northern others soldier territory training",
-  "border duty gets illegal immigrant robbery shooting years"
+  "border duty gets illegal immigrant robbery shooting years",
+  "edition journal print street wall",
+  "adding canada election party projected quebec separatist test unity",
+  "asian decade higher highs multi near shares street track treasury wall yields"
  ]
 }
