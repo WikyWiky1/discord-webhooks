@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6096719",
   "https://thehill.com/?p=6096875",
   "https://nypost.com/?post_type=article&p=40877913",
   "https://nypost.com/?post_type=article&p=40877682",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates",
   "https://www.theguardian.com/politics/2026/oct/07/reform-clears-officials-breaking-party-funding-laws-despite-police-investigation",
   "CBMilAFBVV95cUxQdm1KQ2ZLdTNrZ2FXVlpWRW8xV29SZ2dhcElNXzlDQkdGSnZ6RU05VThHSFhuVmtBUkRTeUdZazFDSXFUYUhQdDdON2Q3bE1DNFFSeDRUQUp4OGNzYkRHczNQOVkyQzVyVndNOUJmdGxCLUJjdjBNR01Jb2Fnc3FJSXIzeTctcnprakRZcmxFN0xJTXNN",
-  "https://www.theguardian.com/uk-news/2026/oct/07/husband-norfolk-gp-court-charged-murder"
+  "https://www.theguardian.com/uk-news/2026/oct/07/husband-norfolk-gp-court-charged-murder",
+  "https://www.washingtonexaminer.com/?p=4757410"
  ],
  "posts": [
-  {
-   "fp": "california cases cheese coli hits milk multiple outbreak tied",
-   "title": "E. coli outbreak tied to raw milk cheese hits California with multiple cases",
-   "source": "New York Post",
-   "at": "2026-09-26T23:07:49.967462+00:00"
-  },
   {
    "fp": "candidate charge city council faces participation protested riot shooting texas",
    "title": "Texas city council candidate who protested ICE shooting faces \u2018riot participation\u2019 charge",
@@ -3201,10 +3195,15 @@
    "title": "Husband of Norfolk GP found dead at home appears in court charged with her murder",
    "source": "Guardian World",
    "at": "2026-10-07T13:29:52.503459+00:00"
+  },
+  {
+   "fp": "fails politics populist succeeds",
+   "title": "How populist politics succeeds and fails",
+   "source": "Washington Examiner",
+   "at": "2026-10-07T17:43:34.143914+00:00"
   }
  ],
  "titles": [
-  "california cases cheese coli hits milk multiple outbreak tied",
   "candidate charge city council faces participation protested riot shooting texas",
   "expected flash flooding hawaii hurricane nolo powerful unleash winds",
   "aaron comes detroit glenn important jets mission return",
@@ -3603,6 +3602,7 @@
   "deadly europe leyen live pursuing russia strategy strikes terror ukraine",
   "breaking clears despite funding investigation laws officials party police reform",
   "attack cities coming kill kyiv least major russian strikes ukrainian",
-  "appears charged court dead found home husband murder norfolk"
+  "appears charged court dead found home husband murder norfolk",
+  "fails politics populist succeeds"
  ]
 }
