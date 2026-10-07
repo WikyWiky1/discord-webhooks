@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40876251",
   "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o#0",
   "https://nypost.com/?post_type=article&p=40876187",
   "https://www.theguardian.com/australia-news/2026/sep/18/icac-labor-sharangan-maheswaran-david-elliot-message-jean-nassif-ntwnfb",
@@ -799,15 +798,10 @@
   "CBMiS0FVX3lxTE9DQ1IxVWI5WjREWndsamVteDBVVlRHUHdFRWpRcEh1bUhHNkdtX1BUWUpkNWR5cUNhalZYYjROZjNfbFlVLVU0QjdlRQ",
   "https://thehill.com/?p=6132695",
   "CBMimgFBVV95cUxNUFozZEthNlJGMGxvSVRwbXNzZjBJWDM0MHpLTnVlNDlGSE1VTkQzblFJWlJ1TnBlX3RuR1RfaVlwbkVPa1daNTJlVnQwbnM4X1B2SzJ4XzFMcTR5aThlTUEweG9QY1JaSFd5NXRMX0dTaU5ESkR3TnpsWmhKT2tVY0R1VWhlSGJkd1IxS3pnd3E4c0hCLW9pWEVB",
-  "CBMihwFBVV95cUxQNG9aSmFVRnk5eS00MHhnQThEM19faGRfUXlKQXNIU0NWbXNMM0dWbVV1SUZuQVZsbmFIRW94TlZaWWNFZWp4ZmZVOE5tQl95V01fWWpzNV9hcm14b29VN2phZWM4SUpzTjlNdVRRV1UwTGVpTkpfUVZMclN4MHJaTGFtTURoa2s"
+  "CBMihwFBVV95cUxQNG9aSmFVRnk5eS00MHhnQThEM19faGRfUXlKQXNIU0NWbXNMM0dWbVV1SUZuQVZsbmFIRW94TlZaWWNFZWp4ZmZVOE5tQl95V01fWWpzNV9hcm14b29VN2phZWM4SUpzTjlNdVRRV1UwTGVpTkpfUVZMclN4MHJaTGFtTURoa2s",
+  "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "breaking down every knicks player roster season stands where",
-   "title": "Breaking down Knicks roster: Where every player stands before season",
-   "source": "New York Post",
-   "at": "2026-09-26T20:28:55.200270+00:00"
-  },
   {
    "fp": "attack despicable dies homeless pummel soul station sweet teens very weeks",
    "title": "Homeless man with \u2018very sweet soul\u2019 dies weeks after teens pummel him in despicable gas station attack",
@@ -3201,10 +3195,15 @@
    "title": "Badenoch: Election will be battle for soul of Britain",
    "source": "Telegraph",
    "at": "2026-10-07T00:23:02.549648+00:00"
+  },
+  {
+   "fp": "alleged attack flydubai hijacker investigation scrutinised training widens zealand",
+   "title": "Flydubai attack investigation widens as alleged hijacker\u2019s training in New Zealand scrutinised",
+   "source": "Guardian World",
+   "at": "2026-10-07T06:04:54.493617+00:00"
   }
  ],
  "titles": [
-  "breaking down every knicks player roster season stands where",
   "attack despicable dies homeless pummel soul station sweet teens very weeks",
   "category coast expected hurricane landfall mexico monday polo threatens",
   "bangkok disrupts evacuations flooding heavy prompts rain traffic",
@@ -3603,6 +3602,7 @@
   "nobel prizes",
   "appeals appointments block panel vaccine wrestles",
   "ahead jobs pause report selloff takes treasurys",
-  "badenoch battle britain election soul"
+  "badenoch battle britain election soul",
+  "alleged attack flydubai hijacker investigation scrutinised training widens zealand"
  ]
 }
