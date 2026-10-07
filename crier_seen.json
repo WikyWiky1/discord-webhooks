@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6096875",
-  "https://nypost.com/?post_type=article&p=40877913",
-  "https://nypost.com/?post_type=article&p=40877682",
-  "CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc",
-  "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
-  "CBMipAFBVV95cUxQOFhBdXVJMjdWZHcySEk4c0NweWZqMkl1M1F1Sk8tMHFfWTdXUExkYmZaMnQtbUZJcjI4N0pYRmhnbnJJX2gzcGlmV0RwMFdaMW1JbFBBVmVFMmVvVm9PdTE0Y2VNSGZiYUlvemhqZG5rTjZYS0puQU11Zlk3bUplQ1Q5a2FSSG9YNUNvTHZfUVVlYUI1Z3NzOWlTQ3lfNjRjOGw5QQ",
   "CBMihwFBVV95cUxQWnVFR3dNMlpzM2dITFcyTUtlekMzRGx4ODF1LXhwQ2d2LVNYSGU5T194enpwam5UMFFmWjlJbGxmQVNONXo0dHU4eG83UXQzU1lOc25XRTlETU9Wc0g4c3hhVVIzeU1CWnVJcHIzbzNqeHFlM3RLNFFaUHliMFNKbUl4M09JazQ",
   "https://www.theguardian.com/australia-news/2026/sep/19/one-nation-victorian-election-candidates-michael-piastrino-elita-dabrowski-ben-lucas-ntwnfb",
   "https://thehill.com/?p=6097894",
@@ -799,45 +793,15 @@
   "https://www.theguardian.com/politics/2026/oct/07/reform-clears-officials-breaking-party-funding-laws-despite-police-investigation",
   "CBMilAFBVV95cUxQdm1KQ2ZLdTNrZ2FXVlpWRW8xV29SZ2dhcElNXzlDQkdGSnZ6RU05VThHSFhuVmtBUkRTeUdZazFDSXFUYUhQdDdON2Q3bE1DNFFSeDRUQUp4OGNzYkRHczNQOVkyQzVyVndNOUJmdGxCLUJjdjBNR01Jb2Fnc3FJSXIzeTctcnprakRZcmxFN0xJTXNN",
   "https://www.theguardian.com/uk-news/2026/oct/07/husband-norfolk-gp-court-charged-murder",
-  "https://www.washingtonexaminer.com/?p=4757410"
+  "https://www.washingtonexaminer.com/?p=4757410",
+  "CBMimAFBVV95cUxOOWNTaVRmTWhvSjhJZWFhbng3TFVkM25nMllXbk1HaE4tUnJRUHZISVU5ZVV2REdSQlJNME84UXp3WkF2REljdWdXVU1KdTlVdjJESTlHNUdlNTZxcERJS2M4Qk9jcTA2dGYyUFdiNDV5QXZodjM0YmlTU0pmWVpzYzdlSEdBRlUyNDY2TXZZOGJXaWJKRk4tdA",
+  "https://www.washingtonexaminer.com/?p=4757620",
+  "https://pagesix.com/?post_type=article&p=9226568",
+  "https://thehill.com/?p=6134190",
+  "CBMiYkFVX3lxTFA5SEI1T2pvTDA1WnJMeF9jb240ZnBtd2VUUV9PcmJUcERWNVV4NVRkOFNOY0tLbU5uZjByMkppSl9EV1B4b0hKTDJqaXliVFA3aFFaM212VC1hUGJKMzJ6aTR3",
+  "https://thehill.com/?p=6134160"
  ],
  "posts": [
-  {
-   "fp": "candidate charge city council faces participation protested riot shooting texas",
-   "title": "Texas city council candidate who protested ICE shooting faces \u2018riot participation\u2019 charge",
-   "source": "AP",
-   "at": "2026-09-26T23:07:51.665110+00:00"
-  },
-  {
-   "fp": "expected flash flooding hawaii hurricane nolo powerful unleash winds",
-   "title": "Hurricane Nolo expected to unleash powerful winds, flash flooding on Hawaii",
-   "source": "AP",
-   "at": "2026-09-26T23:07:53.406417+00:00"
-  },
-  {
-   "fp": "aaron comes detroit glenn important jets mission return",
-   "title": "Aaron Glenn\u2019s Detroit return comes with an important Jets mission",
-   "source": "New York Post",
-   "at": "2026-09-26T23:23:24.343099+00:00"
-  },
-  {
-   "fp": "journal street wall",
-   "title": "The Wall Street Journal for FSU - WSJ",
-   "source": "WSJ",
-   "at": "2026-09-26T23:23:26.018409+00:00"
-  },
-  {
-   "fp": "democrats election fear forecasters high polling sugar",
-   "title": "Election forecasters don't see polling 'sugar-high' Democrats fear \u2014 for now",
-   "source": "The Hill",
-   "at": "2026-09-26T23:23:27.723091+00:00"
-  },
-  {
-   "fp": "acropolis americans athens building collapses dead four near",
-   "title": "Four Americans dead after building collapses near the Acropolis in Athens",
-   "source": "Washington Examiner",
-   "at": "2026-09-27T01:30:20.986475+00:00"
-  },
   {
    "fp": "andrews carolina graham neck poll race senate south",
    "title": "Graham, Andrews neck and neck in South Carolina Senate race: Poll",
@@ -3201,15 +3165,45 @@
    "title": "How populist politics succeeds and fails",
    "source": "Washington Examiner",
    "at": "2026-10-07T17:43:34.143914+00:00"
+  },
+  {
+   "fp": "fall record retreats stocks street wall worldwide",
+   "title": "Wall Street retreats from its record as stocks fall worldwide",
+   "source": "AP",
+   "at": "2026-10-07T18:29:59.846532+00:00"
+  },
+  {
+   "fp": "doesn endorsing paxton regret senate trump",
+   "title": "Trump doesn\u2019t regret endorsing Ken Paxton for Senate",
+   "source": "Washington Examiner",
+   "at": "2026-10-07T18:30:01.546099+00:00"
+  },
+  {
+   "fp": "actress biggest bullied douglas labeled michael reveals street wall world",
+   "title": "Michael Douglas reveals which \u2018Wall Street\u2019 actress was bullied and labeled \u2018biggest c\u2013t in the world\u2019 on set",
+   "source": "New York Post",
+   "at": "2026-10-07T18:30:03.261950+00:00"
+  },
+  {
+   "fp": "clinton endorsement hillary house midterm races senate unveils",
+   "title": "Hillary Clinton unveils first endorsement in House, Senate midterm races",
+   "source": "The Hill",
+   "at": "2026-10-07T18:30:04.948254+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-10-07T18:30:06.678599+00:00"
+  },
+  {
+   "fp": "campaign diagnosis senate steps talarico texas trail",
+   "title": "Talarico steps off Texas Senate campaign trail after flu diagnosis",
+   "source": "The Hill",
+   "at": "2026-10-07T18:30:08.380718+00:00"
   }
  ],
  "titles": [
-  "candidate charge city council faces participation protested riot shooting texas",
-  "expected flash flooding hawaii hurricane nolo powerful unleash winds",
-  "aaron comes detroit glenn important jets mission return",
-  "journal street wall",
-  "democrats election fear forecasters high polling sugar",
-  "acropolis americans athens building collapses dead four near",
   "andrews carolina graham neck poll race senate south",
   "arrested blood california cops discovery horrifying make poachers soaked",
   "bond come defying here history next stocks surging yields",
@@ -3603,6 +3597,12 @@
   "breaking clears despite funding investigation laws officials party police reform",
   "attack cities coming kill kyiv least major russian strikes ukrainian",
   "appears charged court dead found home husband murder norfolk",
-  "fails politics populist succeeds"
+  "fails politics populist succeeds",
+  "fall record retreats stocks street wall worldwide",
+  "doesn endorsing paxton regret senate trump",
+  "actress biggest bullied douglas labeled michael reveals street wall world",
+  "clinton endorsement hillary house midterm races senate unveils",
+  "edition journal print street wall",
+  "campaign diagnosis senate steps talarico texas trail"
  ]
 }
