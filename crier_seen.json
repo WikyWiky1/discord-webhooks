@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40890767",
   "https://nypost.com/?post_type=article&p=40889789",
   "CBMilwFBVV95cUxQUTFlY1pjZGMxMzZsRTVJMXhKN1RpUTliQWdsRk9zODZraTNwcXVqVkU1Z2hiMW52WTFOYm50YTRmamVfM1R6dnhGaUFCRVlhMzdXV2VwcmR1VGVmSFg1TnRRQWdLcUZENHlEaEwxQjcxcDV1S25OMTJVM0k0S25TV1k3cURWb3lpT1hKQVpJb1lPMWdQN1Jz",
   "https://pagesix.com/?post_type=article&p=9184831",
@@ -799,15 +798,10 @@
   "https://news.sky.com/story/man-shot-dead-at-memorial-service-gathering-is-named-13596441",
   "https://thehill.com/?p=6135198",
   "https://nypost.com/?post_type=article&p=41227045",
-  "CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc"
+  "CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc",
+  "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown"
  ],
  "posts": [
-  {
-   "fp": "attacks cities districts kills kyiv officials russian strikes three ukrainian",
-   "title": "Russian attacks kills three in Ukrainian cities, strikes hit Kyiv districts, officials say",
-   "source": "Reuters World",
-   "at": "2026-09-27T17:47:22.977293+00:00"
-  },
   {
    "fp": "breaking europe european news today",
    "title": "Europe News | Breaking European News Today",
@@ -3201,10 +3195,15 @@
    "title": "Hurricane Isaias is expected to get stronger on its way to Florida, Alabama and Mississippi coasts",
    "source": "AP",
    "at": "2026-10-08T11:04:57.943339+00:00"
+  },
+  {
+   "fp": "crew earth mission months nasa people return space",
+   "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
+   "source": "NPR Science",
+   "at": "2026-10-08T17:47:39.619670+00:00"
   }
  ],
  "titles": [
-  "attacks cities districts kills kyiv officials russian strikes three ukrainian",
   "breaking europe european news today",
   "attack biotech opinion tariff",
   "argamani israeli kidnapping killed operation seen terrorist video viral",
@@ -3603,6 +3602,7 @@
   "dead gathering memorial named service shot",
   "derailed efforts infighting lower prices republican",
   "bodies death hits pull rescuers rubble russian strike toll ukraine",
-  "alabama coasts expected florida hurricane isaias mississippi stronger"
+  "alabama coasts expected florida hurricane isaias mississippi stronger",
+  "crew earth mission months nasa people return space"
  ]
 }
