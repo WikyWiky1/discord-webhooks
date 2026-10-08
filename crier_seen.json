@@ -1,13 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40889789",
-  "CBMilwFBVV95cUxQUTFlY1pjZGMxMzZsRTVJMXhKN1RpUTliQWdsRk9zODZraTNwcXVqVkU1Z2hiMW52WTFOYm50YTRmamVfM1R6dnhGaUFCRVlhMzdXV2VwcmR1VGVmSFg1TnRRQWdLcUZENHlEaEwxQjcxcDV1S25OMTJVM0k0S25TV1k3cURWb3lpT1hKQVpJb1lPMWdQN1Jz",
-  "https://pagesix.com/?post_type=article&p=9184831",
-  "CBMiygFBVV95cUxOUzlRTjFCMURCNF9XUkcySmFGZzdUdlBNcEs0TmNZb00zbV9oYXp6Z2JZZVM2amh6VVZhU1VBbm5jTENUOG9tMHg1VVQ2NTdHbVdFWjRNcF9DV2RfUE5KU1ZhWmRKR1pPcTIyXzM2N2FUYmJUSlNkX3BRalhIYk5vUmRvNjJpcmlvd3B4aGdaZ0hPb0hUYzAyRG1EWkh6UklLekZiajlFMXdBM3R4QzJvYXRIRU1GdXlkbDFyQ2wydE1RenB5UmJRQTNB",
-  "CBMiZ0FVX3lxTE5mR1hsU2VJeGxWWE9wLTBlYjhrTFhKSVljcXBOa2NyUXhWeV9HY3RGa3R5YkR1ejJLX2FFakxidEpRWFBUUm5Ka2ktVDVTYnpkXzFuTy1BaWUxWDhTbTJla0JPMnBBSkk",
-  "CBMiuAFBVV95cUxOZzFqV0RWS1Zpc0I1QTc3YVZMSGJjVmRIX0wxTjd3UENCWFVfU19DVk1sSDVYenNZUnJfUWhhNzMxRUl1eDZ5MUJ2NHRLck9ILTF0NU5LMGNNUU1jTTBFRnhEX0FKSVdqelFNeDVTWkpoUi1sVnNBZVo5T016cHVTckl2NnpwYlJGd2w3NGkwSUxJNHdadzF3RlltcjBhYjdNSnNXb0ZuV3l2enVpWnc0UjdRV3BoODla",
-  "CBMigwFBVV95cUxOVjZVR18xWU9Pbzl0WHRZdTV6NHYycnFRZDlCYTgtcTVaWjhNX2ZZb1NjcHJlOWxLdXF6X19LeWZ3bWUwVjNiODRXWS0yb3F3d1JxU1hmdlNxT0lGbTAwMkRORWhBbE80V3lDbmRRX1FoVUtIN29GT19tWmgxemV5ODJrZw",
-  "https://nypost.com/?post_type=article&p=40893614",
   "https://thehill.com/?p=6099069",
   "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
   "CBMiYkFVX3lxTE4wMnhPRlZZWmlDVWxKQXpDSUh5WWxubUlEeUVoT29TR0Z5aWRoNlNfNThVa0YteEhVRWpyZkdlLWdMYVFnZ2FCMGxCaTVOMW0tRlItcEMxa2thU0ZVYUJFVWhB",
@@ -799,57 +791,17 @@
   "https://thehill.com/?p=6135198",
   "https://nypost.com/?post_type=article&p=41227045",
   "CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc",
-  "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown"
+  "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
+  "CBMinwFBVV95cUxOR3VJUmRVT2hFcmwtQjBreFFjcWdaMElxY3pqQ3MtSGVNcktPSWxTbkhHd0h5bDR1S0MydDh3a2J3bzZUNEVmRTFsc0NCMU5pT0ZpVXVkRXBKb2R4dkFEVUNYRHNuODNxYjlnYjc2c0tISzNHNmZQVHlESTB1aTVNa2lWS3lfSl84Z0pKaHNWb05tXzh2dmJaYzItUUYtSm8",
+  "https://www.washingtonexaminer.com/?p=4759478",
+  "https://nypost.com/?post_type=article&p=41234408",
+  "CBMirAFBVV95cUxQQnpOX3pQSGJpZi1qRFNMSVR3SzRoaEJPaVFIYVQ2NGNETExDT0RjWEFjS1lUUzVOVVBsLWtnY2lHU3NmV3FNQjNpMllWb01sdWpmYXdhd29oSXNVTXYyaFhRZzZUX3JoWGNtV1VPaW1IcldFbEdXeGRaVkZyTG9nUmJDS1ptSmFQZWxITkhpMVRTM19SMzlneDBHMzFrS2xrZHFHMFBnNURhdE40",
+  "https://www.theguardian.com/world/2026/oct/08/hurricane-isaias-gulf-coast",
+  "CBMiowFBVV95cUxOREpyQzZYbFZlVDczYVA3Z1dEMGo2WFJ6WG1TZ1lMM0lCRUxBWllBVHd6VkJ0WHV3a2pRUDNnZ3o5blBmbG5aSjVCOGpXWUVBN3hqYmY2SmlhdG9sUldWVXBESjJSZWZpRjVtVHo5WXRpU1FZM3ROTm5iMHM3VU41N19FOVdYYUp0XzNzYlhqX29uZWxfMVBPMWVJSFJYRnR1OGtn",
+  "CBMimwFBVV95cUxOcy1vck40VXpJV2N0bnp6a3VuTFVTb3hrNndtM0d5MWRzQXFIR2tvdkhHWjU5d0x6QWFUTTJ0a29vUDJhUy1KdlVzZUlzQlB2cDQ5RXdKSlNrOFdmWGlDNmVJa0dBQmYtaFpYM1NJRTNKaU9VMUJvWkkyUHh3djlTZWk1NlJxSEJQQ0ZiV1RsME1BaF9aZWNLR01Oaw",
+  "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray"
  ],
  "posts": [
-  {
-   "fp": "breaking europe european news today",
-   "title": "Europe News | Breaking European News Today",
-   "source": "AP",
-   "at": "2026-09-27T17:47:24.822813+00:00"
-  },
-  {
-   "fp": "attack biotech opinion tariff",
-   "title": "Opinion | The U.S. Tariff Attack on U.S. Biotech",
-   "source": "WSJ",
-   "at": "2026-09-27T20:40:41.289268+00:00"
-  },
-  {
-   "fp": "argamani israeli kidnapping killed operation seen terrorist video viral",
-   "title": "Oct. 7 terrorist seen kidnapping Noa Argamani in viral video is killed in Israeli operation",
-   "source": "New York Post",
-   "at": "2026-09-27T20:40:43.021957+00:00"
-  },
-  {
-   "fp": "early elections embattled paving president resigns serbian",
-   "title": "Embattled Serbian president resigns, paving way for early elections",
-   "source": "BBC World",
-   "at": "2026-09-27T20:40:45.107926+00:00"
-  },
-  {
-   "fp": "club dead detroit early injured leaves morning shooting strip",
-   "title": "Early-morning Detroit strip club shooting leaves 3 dead, 4 injured",
-   "source": "New York Post",
-   "at": "2026-09-27T20:40:47.007269+00:00"
-  },
-  {
-   "fp": "bill cooperation difficult gates global nuclear talks",
-   "title": "Bill Gates says global AI cooperation is 'more difficult' than nuclear talks",
-   "source": "The Hill",
-   "at": "2026-09-27T20:40:48.647237+00:00"
-  },
-  {
-   "fp": "club dead detroit four injured police shooting strip three",
-   "title": "Three dead and four injured in Detroit strip club shooting, police say",
-   "source": "Washington Examiner",
-   "at": "2026-09-27T20:40:50.359642+00:00"
-  },
-  {
-   "fp": "floods india kill landslides nepal",
-   "title": "Floods, landslides kill 56 in India and 14 in Nepal",
-   "source": "Reuters",
-   "at": "2026-09-27T20:40:52.130741+00:00"
-  },
   {
    "fp": "about impeachment khanna setting standard third trump",
    "title": "Khanna says third Trump impeachment would be about 'setting a standard'",
@@ -3201,17 +3153,57 @@
    "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
    "source": "NPR Science",
    "at": "2026-10-08T17:47:39.619670+00:00"
+  },
+  {
+   "fp": "airport attack capital claim evacuation houthis reports saudi witness",
+   "title": "Houthis claim new attack against airport in Saudi capital as witness reports evacuation",
+   "source": "AP",
+   "at": "2026-10-08T17:53:22.009680+00:00"
+  },
+  {
+   "fp": "attack elections iran midterm pledges trump",
+   "title": "Trump pledges not to attack Iran before midterm elections",
+   "source": "Washington Examiner",
+   "at": "2026-10-08T17:53:23.737259+00:00"
+  },
+  {
+   "fp": "bullet complex cops dead housing outside shot sources stray",
+   "title": "Boy, 15, shot dead by stray bullet outside NYC housing complex: cops, sources",
+   "source": "New York Post",
+   "at": "2026-10-08T17:53:25.391874+00:00"
+  },
+  {
+   "fp": "attack fresh rises slip stocks tanker",
+   "title": "U.S. Stocks Slip, Oil Rises on Fresh Tanker Attack",
+   "source": "WSJ",
+   "at": "2026-10-08T17:53:27.096876+00:00"
+  },
+  {
+   "fp": "bring dangerous forecast hurricane isaias millions storm surge under warnings",
+   "title": "Hurricane Isaias forecast to bring dangerous storm surge, with millions under warnings in US",
+   "source": "Guardian World",
+   "at": "2026-10-08T17:53:28.805254+00:00"
+  },
+  {
+   "fp": "accuses days inaction kill russian strikes zelenskiy",
+   "title": "Zelenskiy accuses US of inaction as Russian strikes kill over 70 in two days",
+   "source": "Reuters",
+   "at": "2026-10-08T17:53:30.531611+00:00"
+  },
+  {
+   "fp": "besieged drama fjord parents review urgent",
+   "title": "\u2018Fjord\u2019 Review: An Urgent Drama of Parents Besieged",
+   "source": "WSJ",
+   "at": "2026-10-08T17:53:32.258139+00:00"
+  },
+  {
+   "fp": "attack crossed drone eritrean ethiopia launches tigray troops",
+   "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+   "source": "Guardian World",
+   "at": "2026-10-08T17:53:33.961177+00:00"
   }
  ],
  "titles": [
-  "breaking europe european news today",
-  "attack biotech opinion tariff",
-  "argamani israeli kidnapping killed operation seen terrorist video viral",
-  "early elections embattled paving president resigns serbian",
-  "club dead detroit early injured leaves morning shooting strip",
-  "bill cooperation difficult gates global nuclear talks",
-  "club dead detroit four injured police shooting strip three",
-  "floods india kill landslides nepal",
   "about impeachment khanna setting standard third trump",
   "aleksandar minister populist president prime resigns serbia",
   "democratic donors long mississippi money putting race senate shot",
@@ -3603,6 +3595,14 @@
   "derailed efforts infighting lower prices republican",
   "bodies death hits pull rescuers rubble russian strike toll ukraine",
   "alabama coasts expected florida hurricane isaias mississippi stronger",
-  "crew earth mission months nasa people return space"
+  "crew earth mission months nasa people return space",
+  "airport attack capital claim evacuation houthis reports saudi witness",
+  "attack elections iran midterm pledges trump",
+  "bullet complex cops dead housing outside shot sources stray",
+  "attack fresh rises slip stocks tanker",
+  "bring dangerous forecast hurricane isaias millions storm surge under warnings",
+  "accuses days inaction kill russian strikes zelenskiy",
+  "besieged drama fjord parents review urgent",
+  "attack crossed drone eritrean ethiopia launches tigray troops"
  ]
 }
