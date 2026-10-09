@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
   "CBMi3wFBVV95cUxNV0FjVkg3RHQyX2VYS18wMzZpMDd3ZUwxZmxSLTJUS21ndlpjYmN3T3dFc05CUkVPNEZtaUVpamU5Q0NjQXhOX3IwUnhMa2RaTDVDWWhQSkpsc3VJa0E5UENMSzIxTXBlbkhDVkVnSGNCX0xGMHlmQVZtSlA1M1N3X3J2cVI3WGN0aE5oNXlDejNlZGV1VnlnLWNDVXRiOE00RWpGaEdSbFp5MnJFc1M3YjRwbkUwX3QzQVhHRHIwUEFXZ2ktOWhISEdQakdDNFhtc2Jtd3psVTNKNml4aS1z",
   "CBMisgFBVV95cUxNWF9NeWpBYnEyU1JJdWppTldhbFJ1RDR0emoxZ1ZyNTE0WF8xTW1VTE5lb2dDYkFyUS1BVU9NdzRxYnpqdXNHVk1KWU42RTZvVy1uQXBoaDBNQ2pWQVJUY2xtTGtyMDdMMjhYdG1jbHVkYUhOaEhXcDVmYlo5Q2NWcVRfZHlmZnRKamd1YlRPOFN3VlE5OFlfWEVHbmFDenU3VzFZVWNGQVlhbkxXWjZmc25R",
   "CBMiZ0FVX3lxTE9NdHAtcVhEdF9wT3ZfUkk3OHpUYU5VbFJOMENDcFBWZzBzODByVkNwRDJHNl9SeUFOU29yb1RMNGZlSW1CZjRoUTIxWk5OeGN0WjkzSTUxZmttREYtX1oxRm5oN3Rtbnc",
@@ -799,15 +798,10 @@
   "CBMilAFBVV95cUxOT3k2RFFoX2ExOTE0Y0VNQ3hlRUVYaDRZOFNzT19YX3hmMzBYak9YUTdjdmVRUWlFSmVGMFB6clY4SkNSbXZUQ3BSZkhkcFdUdUdtRDJxX0RDM3ZpNFF3cXdsRmxScE15b2hqTTRUUjN0VUVMV09xczYzZmNnVExKTE5IQmlvU1FUZ0hEVW9iNmxNYmE2",
   "CBMiogFBVV95cUxNSVIwWnFtX3JvdXpubXd6aFNMMzlVbTlYdUdtQVc2YVBCa3UxUUZXTzh5TUNCcW9Rb2JnZmpZU2d6bW8ycV9fc0lXUXo2dlJPYW9IUUY3MGZXZm5SYUJSeWdlY1lWcFBqSkM0TlV5X3RMWFJ4czNMb0xtYS14LXlWVmwzNFhXb2hTUTVkWnNmMWY5OGVJRkU5azhqMWFBckNyUlE",
   "CBMiuAFBVV95cUxQMEFCQWZhWGJXa25ZeDBOZlE3b3RWQldSSUM5MmRDd1JqdFNvbl83R19nc014ek1YTW1iQlBqbW1paUlManF3UzlNT21BTl81cG5NNGQ5MWhWOWZOMnpQamN6TmxrUFVLVXRCaTl2T0JYclhVc3dvLUpNeG5wY3JSci02OHVtWmRpemp2UExRUGRoTnpyN3lKUGlRQ3FHdS1pZDNvNVM0bWE2djAzNzNvNTg4RVdXVEhw",
-  "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast"
+  "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
+  "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia"
  ],
  "posts": [
-  {
-   "fp": "academy across dead drones kyiv russian science strike ukraine",
-   "title": "Kyiv Science Academy hit, 10 dead as Russian jet-drones strike across Ukraine",
-   "source": "Reuters",
-   "at": "2026-09-28T22:22:16.301443+00:00"
-  },
   {
    "fp": "cases confirmed congo control disease ebola outbreak remains tops",
    "title": "Congo\u2019s Ebola outbreak tops 8,000 confirmed cases as disease remains out of control",
@@ -3201,10 +3195,15 @@
    "title": "Hurricane Isaias barrels toward Gulf coast as category 3 storm",
    "source": "Guardian World",
    "at": "2026-10-09T16:45:06.094873+00:00"
+  },
+  {
+   "fp": "colombian dropping find giant jungle plant selfie waterlily",
+   "title": "How a plant selfie in Colombian jungle led to \u2018jaw dropping\u2019 giant waterlily find",
+   "source": "Guardian World",
+   "at": "2026-10-09T17:23:25.253424+00:00"
   }
  ],
  "titles": [
-  "academy across dead drones kyiv russian science strike ukraine",
   "cases confirmed congo control disease ebola outbreak remains tops",
   "anywhere emergency housing microhomes portable shipped",
   "boat capsizes dead missing puerto rescued rico several waters west",
@@ -3603,6 +3602,7 @@
   "category center hurricane national simon storm strengthens",
   "across attacks counter escalating kill kyiv people russian strikes struggles ukraine",
   "airport escalates houthi killed riyadh saudis strikes three",
-  "barrels category coast gulf hurricane isaias storm toward"
+  "barrels category coast gulf hurricane isaias storm toward",
+  "colombian dropping find giant jungle plant selfie waterlily"
  ]
 }
