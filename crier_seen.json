@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMipgFBVV95cUxOemgwbjZHUGxzMHdPUWJTOFhfS1lfVXFyUEdEcDM4WXM1Z1VSb3ZIdHI4cmpveHUxM1ZFb2RsVnVMcXlaS3BNNmdzMnRGNXNaT1VZMkcyY19vUnBHT2pGSkhyVDRqQmpvS0Z4dndGN2VSVEtySkN4MmM2SUJOZFc0T1h5ZXhaQ2sxdUVheGxrd0oySE9HcjVOMTFwZE1lVEVvQm1ud2xB",
-  "https://nypost.com/?post_type=article&p=40896337",
   "https://nypost.com/?post_type=article&p=40896785",
   "https://nypost.com/?post_type=article&p=40894103",
   "https://www.theguardian.com/uk-news/2026/sep/19/hundreds-evacuated-fire-grand-burstin-hotel-folkestone-kent",
@@ -799,21 +797,11 @@
   "https://thehill.com/?p=6135113",
   "CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI",
   "CBMivAFBVV95cUxORlFFTHdGeXpOZ3BQRk1pSC1uV1RCVTRqdjlqLWc1RVNSTG01OTlJNkhOdmRJVDI1SHd3NHQ2WEd2czY1N2JrdXc2LUtwazF2ME1SbVhoSHpBZmpPYU5PdkRGNENXWFlDbnc0SUo2VnoxbHhFYk1xdmdFVEZxcTUwUDBhcElkcDRmSzk3bTA3M3ZBZUlMYzVCZzJUSUR3ZUFDemZpMUtsWWhzYzIxVEp2OFhmalVDUHc4Y3JnRA",
-  "CBMiqAFBVV95cUxPY09mUWtpSkRXOWZETlVRbXc2UUF6VzMzYm9TSmcyLVJ6YVlKRVBKODJnMlMweDVZanJuN1V4WFFlbWJCNkROZDU2NUFTeEItbnI3Uy1uNlEwU3BHZ1JYTEViWmxEVWN5NFRCVnpTaUdWS3B6cWZiRDZuSnNBQkk5V1hKR3RXbW9CU2RDbmRkN0R4Mm5pbk1DOU15WDk2cFhYSGlFeE54SF8"
+  "CBMiqAFBVV95cUxPY09mUWtpSkRXOWZETlVRbXc2UUF6VzMzYm9TSmcyLVJ6YVlKRVBKODJnMlMweDVZanJuN1V4WFFlbWJCNkROZDU2NUFTeEItbnI3Uy1uNlEwU3BHZ1JYTEViWmxEVWN5NFRCVnpTaUdWS3B6cWZiRDZuSnNBQkk5V1hKR3RXbW9CU2RDbmRkN0R4Mm5pbk1DOU15WDk2cFhYSGlFeE54SF8",
+  "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+  "https://www.washingtonexaminer.com/?p=4760378"
  ],
  "posts": [
-  {
-   "fp": "dead final match star",
-   "title": "AEW star Pac dead at 40 one day after final match",
-   "source": "New York Post",
-   "at": "2026-09-28T01:57:08.307701+00:00"
-  },
-  {
-   "fp": "breakingviews commentary disappoint finds summit trump ways",
-   "title": "Breakingviews - COMMENTARY: Trump-Xi summit finds new ways to disappoint",
-   "source": "Reuters",
-   "at": "2026-09-28T03:57:41.629476+00:00"
-  },
   {
    "fp": "elections france national rally right senate surges",
    "title": "France\u2019s far-right National Rally surges in Senate elections",
@@ -3201,11 +3189,21 @@
    "title": "Canadian author Anne Carson wins literature Nobel for 'bold and inventive' works that blend genres",
    "source": "AP",
    "at": "2026-10-09T00:59:56.244602+00:00"
+  },
+  {
+   "fp": "airlines airport attack capital claim flights houthis riyadh saudi suspend",
+   "title": "Houthis claim attack on Riyadh airport as airlines suspend flights to Saudi capital",
+   "source": "Guardian World",
+   "at": "2026-10-09T02:40:50.900082+00:00"
+  },
+  {
+   "fp": "demand latest mamdani operations shooting trump",
+   "title": "Mamdani to \u2018demand\u2019 Trump end ICE operations in NYC after latest shooting",
+   "source": "Washington Examiner",
+   "at": "2026-10-09T02:40:52.684108+00:00"
   }
  ],
  "titles": [
-  "dead final match star",
-  "breakingviews commentary disappoint finds summit trump ways",
   "elections france national rally right senate surges",
   "asia bonds climbs retreat slip stocks",
   "chip nikkei related rises stocks",
@@ -3603,6 +3601,8 @@
   "clash debate live michigan rogers sayed senate updates",
   "chip crude jump lower nasdaq prices stocks weigh",
   "acquisition carriers spacex spectrum takes wireless",
-  "anne author blend bold canadian carson genres inventive literature nobel wins works"
+  "anne author blend bold canadian carson genres inventive literature nobel wins works",
+  "airlines airport attack capital claim flights houthis riyadh saudi suspend",
+  "demand latest mamdani operations shooting trump"
  ]
 }
