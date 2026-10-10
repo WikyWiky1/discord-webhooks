@@ -1,13 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40910619",
-  "CBMiqgFBVV95cUxQN2ZvajMxeXozcWRTdzJYWVVhdHdDMV9KTUM0R1JIX3Y4RkRRTFhCWmNEeHRzazVFSXBNZTBDenJ3aXMzZ1BoemJDZkQ2Y3AzN2NiSjEyWDhOb3cwTzdqeUpqTWs4R3ZJeUJoYzM4enlSQ01MaUx0WjYyR3lma1Z1THpWSXBNNS1DTkdnSUk5XzBEVGVGczd6aUY3eHBOc3oyQkdrRE8wVHNnZw",
-  "CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw",
-  "https://www.theguardian.com/australia-news/2026/sep/21/police-mother-children-stabbing-attack-ntwnfb",
-  "CBMiqwFBVV95cUxQTjdmUF9fTEcySTFqT2t2NUZsd1prTmZjTjJVbmZwOVVVQzVCYV9mem5YNGRVUUdYT05uRTlXTWFheEh5azN5blpURFI1YXItOEJBZWZRRDlLQkx3aGJsdkZia0M2WEpaNHRhTTVmOEpUeU5FdWRPYVN1dUV1bVZrbHpzVEhZZzBrRXNXMTYzOTZzQTVETVkxM1pJT3JIZlpucUJoQTVFaE5LX28",
-  "CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw",
-  "https://news.sky.com/story/three-south-korean-soldiers-injured-in-landmine-border-explosion-13590383",
-  "https://nypost.com/?post_type=article&p=40884346",
   "CBMilgFBVV95cUxNSDhtd1dGYlN1b1ViR0huQjV2LWtUX3FTaWxGc0FHYkV1UnBfeVdlRE9QUEFYTWFRRW1VSmFQWWFfNDJpcE5QSkdrZmY4dWduNGltaXQ3dTFWc1ZGNGJqZDNkdm9XTTZ2Qk1NOVU5UmlrVGlvSkZoWVVOM09LVERVUm82NERwS3NTbC1BbzZPU3pqODEtR3c",
   "CBMiYkFVX3lxTE0xbXVPcGtNU2xWdGJnN0dleW44U1p3bEhyM1NabWl4NnYwLXplUHZGUWFMUWNlLTgzTVNmLVZ5eTlTbWZOYXJZM21GZTI2WUp6VFpXd3VCTlo0d0dOZFNKRm9B",
   "CBMipgFBVV95cUxOeWhxMVZEUFY2eEUza2lsTjFtSkFDamZSRXppV0o5TTlvN3l0RWtkdk9BZWpCZ2V0dzJQQmREb3pXSmhjVE8xelJxemNZbmlNc3dWV1Jxa2F5LXd3Q1J5eUxHaFN5ZTBIdkdxYW05OHlrTHlGZHFtRkUyY3kwSzMzWEdPbk5LYlppUVdVY2FZYXFoQXZXLXJzQnBDTDlQMVdBTS1UbEtn",
@@ -799,57 +791,17 @@
   "CBMiYkFVX3lxTE55WlozLUF5ZDVHTFd2eTVhYzlqNEFzZkVpN0R5c0RBNFlzanY1cWx0UllQUEpzSnc0ZEk3a3RBU0lqMlVWVjFYcTh4SERZZW9nS0k1azJMS0ZZd1hyX1N1djNn",
   "https://www.theguardian.com/uk-news/2026/oct/10/labour-fears-budget-burnham-healey",
   "https://www.theguardian.com/money/2026/oct/10/uk-savings-interest-rate-deals-nsi-bonds",
-  "CBMitwFBVV95cUxORzNwb1JXWi1EZ0xtdW51XzdfWDl5MU1EdFZocFhZdVJRTExudUFESUpLV3lNUXpVY3BrT3dmUWlZclBZRmlCdUV1b2FoSndKSDFhWjFNcFM5TExFV3lVWHhad2s2Sy1peERNdWZnazVpU2ZycXFXWG1DRkEtVGFxSXZESklaYi1qQkhwTGlZSTY4WTNxc1Z5TlR4azBWYTFuYUtua213eVJRRmFrZURxMDIxYkY5VnM"
+  "CBMitwFBVV95cUxORzNwb1JXWi1EZ0xtdW51XzdfWDl5MU1EdFZocFhZdVJRTExudUFESUpLV3lNUXpVY3BrT3dmUWlZclBZRmlCdUV1b2FoSndKSDFhWjFNcFM5TExFV3lVWHhad2s2Sy1peERNdWZnazVpU2ZycXFXWG1DRkEtVGFxSXZESklaYi1qQkhwTGlZSTY4WTNxc1Z5TlR4azBWYTFuYUtua213eVJRRmFrZURxMDIxYkY5VnM",
+  "CBMixgFBVV95cUxNa0h1aFI0T1A0VjlXbGNNM1VoaktZME1DYUp4dmlTZXNnbkF0dWM5S3JieVlST1lzVWJYTWJLN2tWblAxbWp5VWUwZjc4NEdvaTJiY2VEelB5SlJqcUJvX2dxVWlwYzltd2dUTTVkRDAyVUJ3MDZpV1hNTnp5alBTVUY3RG45MUtnbE02d3o0SlBiV1BJdDFFSXB6anFCZ0FwMXhfVWNlUUFVYlduVkJPdjIyZU1mQzZGVlc0VW81U2loMDhzZ1E",
+  "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
+  "CBMinwFBVV95cUxQckZ3Y0JVVkIzV2dhODU4bGoyV2pOSXZmU1o3aXZaN0QyY3diR1FpZWZjS09zdnJWd1ZVR0FsSWJ5RGpLNlVOQ2w5QzluME93a1EwNkl1S3YtaFBORVVONmRUTEwzU09rX2xLQUhSakVkRUwwTDNGb2RwSXR5LVpSS1EzVWhQbEtfZ1c1VFpaNmxCXzQ1Yjd1UzBZNVNpNDQ",
+  "https://www.washingtonexaminer.com/?p=4762122",
+  "CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw",
+  "CBMipgFBVV95cUxQbTc2anRyaUVLUU5xSFlJT3RyWE84ZENwbHhRcFVWUW5OMW53c2NVSlJtendUTlREMk5sVjV6bWRrOE52ZU5UQXJQRFZuek93UzFtcnNwbEdvcjF4N2F2Q3J5Sm9rU01OWks3emItTndwVnhMa3NIUnIzMi1zdGN1c0N3Uk8wTFE5VGkwaVVSY3lQTlRLbVlBendaRnAwbE1TMUF6Y2R3",
+  "CBMingFBVV95cUxOVE9mQmhMWU5BTVNON25zTDhzTlBzU2VKMDBpa3FmcTI2NE5qNWJYRUx1c2dEdk9kTjhoQm5naDZXQTJKUmRaMDJ4WVhvSklpclRXUGxZSl9USUY4SkN2WTFMaHo1bVVDWGJzS1FGWVV6YlRkNlJ5ZVdaUmp2WUd5eUZKbFZWQXdCcVNzNkZEX01YUXZxeHBXZUlTaXdYQQ",
+  "https://www.washingtonexaminer.com/?p=4753539"
  ],
  "posts": [
-  {
-   "fp": "attack despite election hamas image israel netanyahu playbook projects protector using",
-   "title": "Using old election playbook, Netanyahu projects image as Israel's protector despite Hamas attack",
-   "source": "Reuters",
-   "at": "2026-09-29T20:00:31.243425+00:00"
-  },
-  {
-   "fp": "killed plunges river teenagers three wear",
-   "title": "Three teenagers killed after car plunges into River Wear",
-   "source": "Telegraph",
-   "at": "2026-09-29T20:00:33.041369+00:00"
-  },
-  {
-   "fp": "comes dead here lock next pension state triple",
-   "title": "The triple lock is dead \u2013 here\u2019s what comes next for your state pension",
-   "source": "Telegraph",
-   "at": "2026-09-29T20:00:34.787496+00:00"
-  },
-  {
-   "fp": "children clancy killed lawyer lindsay questions whether",
-   "title": "Lindsay Clancy's lawyer now questions whether she killed her 3 children",
-   "source": "NPR News",
-   "at": "2026-09-29T20:00:36.583771+00:00"
-  },
-  {
-   "fp": "barrels california gallons hurricane means monster rainfall toward trillion",
-   "title": "Monster hurricane barrels toward US with \u201834 trillion gallons of rainfall\u2019 \u2014 and what it means for California",
-   "source": "New York Post",
-   "at": "2026-09-29T23:44:46.975874+00:00"
-  },
-  {
-   "fp": "caldwell dale finds jersey misconduct probe resigns",
-   "title": "New Jersey Lt. Gov. Dale Caldwell Resigns After Probe Finds Misconduct",
-   "source": "WSJ",
-   "at": "2026-09-29T23:44:48.602585+00:00"
-  },
-  {
-   "fp": "attack convicted deadly executes florida hammer woman year",
-   "title": "Florida executes 77-year-old man convicted of a deadly hammer attack on a woman",
-   "source": "AP",
-   "at": "2026-09-29T23:44:50.435309+00:00"
-  },
-  {
-   "fp": "africa areas clean high killed risk south women",
-   "title": "South Africa to clean up high-risk areas after 12 women killed",
-   "source": "BBC World",
-   "at": "2026-09-29T23:44:52.176564+00:00"
-  },
   {
    "fp": "american caleb convicted fatally flynn former idol shooting singer wife",
    "title": "Former \u2018American Idol\u2019 singer Caleb Flynn convicted of fatally shooting his wife",
@@ -3201,17 +3153,57 @@
    "title": "India\u2019s young return to streets as anger against election chief and Modi grows",
    "source": "AP",
    "at": "2026-10-10T09:29:18.563304+00:00"
+  },
+  {
+   "fp": "curbs gulf hurricane isaias mexico platforms production",
+   "title": "BP Curbs Production at Two Platforms in Gulf of Mexico Due to Hurricane Isaias",
+   "source": "WSJ",
+   "at": "2026-10-10T13:46:14.201285+00:00"
+  },
+  {
+   "fp": "hundreds hurricane isaias live power spinoff thousands tornadoes updates warning without",
+   "title": "Hurricane Isaias live updates: warning of \u2018spinoff tornadoes\u2019 as hundreds of thousands without power",
+   "source": "Guardian World",
+   "at": "2026-10-10T13:46:15.867302+00:00"
+  },
+  {
+   "fp": "dead douglas five georgia police residence shot",
+   "title": "Five shot dead at residence in Georgia's Douglas, police says",
+   "source": "Reuters",
+   "at": "2026-10-10T13:46:17.558220+00:00"
+  },
+  {
+   "fp": "coast gulf hurricane isaias landfall makes million nearly power without",
+   "title": "Nearly 1 million without power after Hurricane Isaias makes landfall on Gulf Coast",
+   "source": "Washington Examiner",
+   "at": "2026-10-10T13:46:19.270940+00:00"
+  },
+  {
+   "fp": "approaches category coast hurricane mexico simon strengthens",
+   "title": "Simon strengthens into a Category 4 hurricane as it approaches Mexico\u2019s coast",
+   "source": "AP",
+   "at": "2026-10-10T13:46:20.977683+00:00"
+  },
+  {
+   "fp": "developments drone flight kills lebanon lift mideast other strike sudan welcomes",
+   "title": "Drone strike in Sudan kills 40, Lebanon welcomes US flight ban lift, and other Mideast developments",
+   "source": "AP",
+   "at": "2026-10-10T13:46:22.643122+00:00"
+  },
+  {
+   "fp": "attacks deal diesel kill putin russian strikes trump ukraine",
+   "title": "Russian attacks kill 15 in Ukraine after Trump strikes diesel deal with Putin",
+   "source": "AP",
+   "at": "2026-10-10T13:46:24.302435+00:00"
+  },
+  {
+   "fp": "afghanistan arabia attacks deadly here keep making mistake saudi survived",
+   "title": "I survived attacks in Saudi Arabia and Afghanistan. Here is the deadly mistake we keep making",
+   "source": "Washington Examiner",
+   "at": "2026-10-10T13:46:26.102268+00:00"
   }
  ],
  "titles": [
-  "attack despite election hamas image israel netanyahu playbook projects protector using",
-  "killed plunges river teenagers three wear",
-  "comes dead here lock next pension state triple",
-  "children clancy killed lawyer lindsay questions whether",
-  "barrels california gallons hurricane means monster rainfall toward trillion",
-  "caldwell dale finds jersey misconduct probe resigns",
-  "attack convicted deadly executes florida hammer woman year",
-  "africa areas clean high killed risk south women",
   "american caleb convicted fatally flynn former idol shooting singer wife",
   "business leaders should summit things three trump watch",
   "2016 biggest decision following galloway investment mistake professor regrets scott sell stocks stupid trump",
@@ -3603,6 +3595,14 @@
   "edition journal print street wall",
   "aren better budget election fears insiders labour next screwed voice voters",
   "deals experts interest last rate savings",
-  "anger chief election grows india modi return streets young"
+  "anger chief election grows india modi return streets young",
+  "curbs gulf hurricane isaias mexico platforms production",
+  "hundreds hurricane isaias live power spinoff thousands tornadoes updates warning without",
+  "dead douglas five georgia police residence shot",
+  "coast gulf hurricane isaias landfall makes million nearly power without",
+  "approaches category coast hurricane mexico simon strengthens",
+  "developments drone flight kills lebanon lift mideast other strike sudan welcomes",
+  "attacks deal diesel kill putin russian strikes trump ukraine",
+  "afghanistan arabia attacks deadly here keep making mistake saudi survived"
  ]
 }
