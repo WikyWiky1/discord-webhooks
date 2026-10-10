@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40907428",
   "https://pagesix.com/?post_type=article&p=9187604",
   "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
   "CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6140010",
   "CBMilwFBVV95cUxOaWRiT21DaExUaEVuMzJqUHBVTDhwSVl2c2RwNEVJOWdDVkVnSVlZWFBYMmxsN20xSjF2ZGoyeFlrWTUzQ25uZlNQWHVZZFlyV3E2S1lEWHliYUJQLXUzSXc0ZlEyaXlzQnRITEdlQU1OcVYzTzhHZmhEa25VN0tMY0NyU2hVMGE1cDdCaGVhM0RYVkl0UDhB",
   "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-  "https://www.washingtonexaminer.com/?p=4761826"
+  "https://www.washingtonexaminer.com/?p=4761826",
+  "https://nypost.com/?post_type=article&p=41265820"
  ],
  "posts": [
-  {
-   "fp": "allegedly iran procuring sanctions weapons",
-   "title": "US sanctions 10 over allegedly procuring weapons for Iran",
-   "source": "Reuters",
-   "at": "2026-09-29T19:47:56.467063+00:00"
-  },
   {
    "fp": "country court deportations faces jack lets live resume scrutiny senate smith supreme third trump updates",
    "title": "Live updates: Jack Smith faces Senate GOP scrutiny; Supreme Court lets Trump resume third-country deportations",
@@ -3201,10 +3195,15 @@
    "title": "DC asks National Guard to keep troops away from ballot drop boxes, election board says",
    "source": "Washington Examiner",
    "at": "2026-10-10T00:30:05.828559+00:00"
+  },
+  {
+   "fp": "blackwater casualties congo erik fighter forces founder heavy injured kennedy prince take",
+   "title": "Ex-UFC fighter Tim Kennedy injured in Congo as Blackwater founder Erik Prince\u2019s forces take heavy casualties",
+   "source": "New York Post",
+   "at": "2026-10-10T01:12:07.608338+00:00"
   }
  ],
  "titles": [
-  "allegedly iran procuring sanctions weapons",
   "country court deportations faces jack lets live resume scrutiny senate smith supreme third trump updates",
   "2020 confirms election lost trump website",
   "comments losses pare stocks williams",
@@ -3603,6 +3602,7 @@
   "diesel export lifts russia sanctions trump",
   "hating israel nobel opinion prize",
   "ahead bissau controversial gets guinea touted trial vaccine",
-  "asks away ballot board boxes drop election guard keep national troops"
+  "asks away ballot board boxes drop election guard keep national troops",
+  "blackwater casualties congo erik fighter forces founder heavy injured kennedy prince take"
  ]
 }
