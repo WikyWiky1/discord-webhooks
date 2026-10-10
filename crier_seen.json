@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMilgFBVV95cUxNSDhtd1dGYlN1b1ViR0huQjV2LWtUX3FTaWxGc0FHYkV1UnBfeVdlRE9QUEFYTWFRRW1VSmFQWWFfNDJpcE5QSkdrZmY4dWduNGltaXQ3dTFWc1ZGNGJqZDNkdm9XTTZ2Qk1NOVU5UmlrVGlvSkZoWVVOM09LVERVUm82NERwS3NTbC1BbzZPU3pqODEtR3c",
   "CBMiYkFVX3lxTE0xbXVPcGtNU2xWdGJnN0dleW44U1p3bEhyM1NabWl4NnYwLXplUHZGUWFMUWNlLTgzTVNmLVZ5eTlTbWZOYXJZM21GZTI2WUp6VFpXd3VCTlo0d0dOZFNKRm9B",
   "CBMipgFBVV95cUxOeWhxMVZEUFY2eEUza2lsTjFtSkFDamZSRXppV0o5TTlvN3l0RWtkdk9BZWpCZ2V0dzJQQmREb3pXSmhjVE8xelJxemNZbmlNc3dWV1Jxa2F5LXd3Q1J5eUxHaFN5ZTBIdkdxYW05OHlrTHlGZHFtRkUyY3kwSzMzWEdPbk5LYlppUVdVY2FZYXFoQXZXLXJzQnBDTDlQMVdBTS1UbEtn",
   "CBMiogFBVV95cUxPNDNDazNXMFFxamlNa0U3eGdIWUROLTlNZU5lSElwaXhMdEpQUm5yV3VLWnFlbi1RM0hNTHpKMHB4MXEweDZ6empja0c3cHE4dzlPWm4xek13QXZsMlF0MVZxYWNmZ3pRZ0oxQWFNZW9rSW9oM3hUNjJYUld4SURDclhxYkJETzhGYTNPdzl6SlVKOGtvM2lSaWplTDlBUXpmdXc",
@@ -799,15 +798,10 @@
   "CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw",
   "CBMipgFBVV95cUxQbTc2anRyaUVLUU5xSFlJT3RyWE84ZENwbHhRcFVWUW5OMW53c2NVSlJtendUTlREMk5sVjV6bWRrOE52ZU5UQXJQRFZuek93UzFtcnNwbEdvcjF4N2F2Q3J5Sm9rU01OWks3emItTndwVnhMa3NIUnIzMi1zdGN1c0N3Uk8wTFE5VGkwaVVSY3lQTlRLbVlBendaRnAwbE1TMUF6Y2R3",
   "CBMingFBVV95cUxOVE9mQmhMWU5BTVNON25zTDhzTlBzU2VKMDBpa3FmcTI2NE5qNWJYRUx1c2dEdk9kTjhoQm5naDZXQTJKUmRaMDJ4WVhvSklpclRXUGxZSl9USUY4SkN2WTFMaHo1bVVDWGJzS1FGWVV6YlRkNlJ5ZVdaUmp2WUd5eUZKbFZWQXdCcVNzNkZEX01YUXZxeHBXZUlTaXdYQQ",
-  "https://www.washingtonexaminer.com/?p=4753539"
+  "https://www.washingtonexaminer.com/?p=4753539",
+  "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia"
  ],
  "posts": [
-  {
-   "fp": "american caleb convicted fatally flynn former idol shooting singer wife",
-   "title": "Former \u2018American Idol\u2019 singer Caleb Flynn convicted of fatally shooting his wife",
-   "source": "AP",
-   "at": "2026-09-29T23:44:53.814082+00:00"
-  },
   {
    "fp": "business leaders should summit things three trump watch",
    "title": "Trump\u2019s Summit With Xi: Three Things Business Leaders Should Watch",
@@ -3201,10 +3195,15 @@
    "title": "I survived attacks in Saudi Arabia and Afghanistan. Here is the deadly mistake we keep making",
    "source": "Washington Examiner",
    "at": "2026-10-10T13:46:26.102268+00:00"
+  },
+  {
+   "fp": "drill going havana like mystery refuses syndrome",
+   "title": "\u2018Like a drill going into my eye\u2019: why the mystery over Havana syndrome refuses to die",
+   "source": "Guardian World",
+   "at": "2026-10-10T16:09:03.546952+00:00"
   }
  ],
  "titles": [
-  "american caleb convicted fatally flynn former idol shooting singer wife",
   "business leaders should summit things three trump watch",
   "2016 biggest decision following galloway investment mistake professor regrets scott sell stocks stupid trump",
   "bonds commentary grip still stocks trading",
@@ -3603,6 +3602,7 @@
   "approaches category coast hurricane mexico simon strengthens",
   "developments drone flight kills lebanon lift mideast other strike sudan welcomes",
   "attacks deal diesel kill putin russian strikes trump ukraine",
-  "afghanistan arabia attacks deadly here keep making mistake saudi survived"
+  "afghanistan arabia attacks deadly here keep making mistake saudi survived",
+  "drill going havana like mystery refuses syndrome"
  ]
 }
