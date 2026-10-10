@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40921003",
-  "https://www.theguardian.com/us-news/2026/sep/21/helicopter-pilots-killed-yosemite-wildfire",
-  "https://nypost.com/?post_type=article&p=40918778",
-  "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o#0",
   "CBMifEFVX3lxTE9VMmh6Ym1PX2dzd3JLNlBTR1ZZTElJWmpLTnk4Z2FnZTMtX1ZOa05EVmRnZUxlb1d1M1g4UkxNa19UemlETTRVWWgyT19OeXhzU3ZsNUxfOHA3ZkpVRFJJU2MtcUhHSjJqUmU5M3JSVDNLckxLN2RTakpBYTI",
   "https://www.washingtonexaminer.com/?p=4736887",
   "https://www.theguardian.com/us-news/2026/sep/21/missouri-congressional-map-trump-appeals-court",
@@ -799,33 +795,13 @@
   "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
   "https://nypost.com/?post_type=article&p=41271541",
   "https://www.washingtonexaminer.com/?p=4762250",
-  "https://thehill.com/?p=6140615/"
+  "https://thehill.com/?p=6140615/",
+  "CBMimgFBVV95cUxPSVdLNXRUd1JHdk52SC1nZS1pb2REZHVBYVJjQl9uLUNwUTUydWw3NmYxa3p1ZXFzMWtQYW1tX0NoR29ZSGFGUFg2Mk5QNWg3ZTVzY1dXdFg0LS1IX2FNNDdKd3dHQzZqa3FoWU9UWVhnRzQySTdjWVFVZFdKZEJPYUV3LUZjeDRrNFVFemxJcndxbTZOek9WRjZ3",
+  "https://www.washingtonexaminer.com/?p=4762333",
+  "https://thehill.com/?p=6139594",
+  "CBMijAFBVV95cUxNM0c3VUR5ZUVPakJLZHV1aVNIeVJPQjdOcW5kRnBlWEQwV09mYXpRd0YyZF9VUFJHeXFpcExJNWNOQ0hRLU9wZEdMVjJqd0dIcDBJdEVpOURXWG1IejhlMTRHWW1zMkhFdjJhbzR3bFJ2eHBjLWJpUTFITUc2bnBHNk9GNEk1ajRNckFQLQ"
  ],
  "posts": [
-  {
-   "fp": "baltic nato nuclear rise russia sends tensions warning",
-   "title": "Russia sends nuclear warning to NATO as tensions rise in the Baltic",
-   "source": "Reuters",
-   "at": "2026-09-30T16:17:48.418221+00:00"
-  },
-  {
-   "fp": "developments gaza israeli kill mideast other strikes wound",
-   "title": "Israeli strikes in Gaza kill 5, wound 19 and other Mideast developments",
-   "source": "AP",
-   "at": "2026-09-30T16:17:50.161488+00:00"
-  },
-  {
-   "fp": "ambitions armed bessent china iran nuclear weapons wrong",
-   "title": "Bessent is wrong: China armed Iran\u2019s nuclear weapons ambitions",
-   "source": "The Hill",
-   "at": "2026-09-30T16:17:51.867351+00:00"
-  },
-  {
-   "fp": "attack energy infrastructure largest launches russia since spring ukraine",
-   "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-   "source": "BBC World",
-   "at": "2026-09-30T16:17:53.562028+00:00"
-  },
   {
    "fp": "attack family forces israeli overwhelmed palestinian settlers terrorist violent",
    "title": "Israeli forces overwhelmed by violent settlers in \u2018terrorist attack\u2019 on Palestinian family",
@@ -3201,13 +3177,33 @@
    "title": "9 people dead in Erie, Pennsylvania mass shooting",
    "source": "The Hill",
    "at": "2026-10-10T18:09:02.250965+00:00"
+  },
+  {
+   "fp": "bets bond fears offset rise stocks yield",
+   "title": "U.S. Stocks Rise as AI Bets Offset Bond Yield Fears",
+   "source": "WSJ",
+   "at": "2026-10-10T21:13:51.073708+00:00"
+  },
+  {
+   "fp": "appoints bailey chief congress house katie liaison trump white",
+   "title": "Trump appoints Katie Bailey as new chief White House liaison to Congress",
+   "source": "Washington Examiner",
+   "at": "2026-10-10T21:13:52.821708+00:00"
+  },
+  {
+   "fp": "americans congress eligible keep records seal should work",
+   "title": "Congress should seal eligible records that keep Americans out of work",
+   "source": "The Hill",
+   "at": "2026-10-10T21:13:54.552828+00:00"
+  },
+  {
+   "fp": "chance election nchez opinion pedro reject snap spain",
+   "title": "Opinion | Spain\u2019s Snap Election Is a Chance to Reject Pedro S\u00e1nchez",
+   "source": "WSJ",
+   "at": "2026-10-10T21:13:56.432830+00:00"
   }
  ],
  "titles": [
-  "baltic nato nuclear rise russia sends tensions warning",
-  "developments gaza israeli kill mideast other strikes wound",
-  "ambitions armed bessent china iran nuclear weapons wrong",
-  "attack energy infrastructure largest launches russia since spring ukraine",
   "attack family forces israeli overwhelmed palestinian settlers terrorist violent",
   "controversial eiffel female head order resign staff tower",
   "allegedly arrest drugs former funded group interrupter police selling taxpayer violence",
@@ -3603,6 +3599,10 @@
   "airport attack capital injured riyadh saudi several",
   "browns crossroads five jets just urgent weeks",
   "dead erie governor leaves nine shooting",
-  "dead erie mass pennsylvania people shooting"
+  "dead erie mass pennsylvania people shooting",
+  "bets bond fears offset rise stocks yield",
+  "appoints bailey chief congress house katie liaison trump white",
+  "americans congress eligible keep records seal should work",
+  "chance election nchez opinion pedro reject snap spain"
  ]
 }
