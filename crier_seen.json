@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/uk-news/2026/sep/22/police-believe-they-have-foiled-imminent-attack-on-manchesters-jewish-community",
-  "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo#1",
-  "https://www.washingtonexaminer.com/?p=4738141",
-  "CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ",
   "https://thehill.com/?p=6105048",
   "https://www.washingtonexaminer.com/?p=4738175",
   "CBMivwFBVV95cUxPdzhnVngxUmJueEVxdFFBX3JwR3RsNFpkZjE3UmdpX1ljWlJMc1ZHUFpuZnppMnJZRE9VR1pMSUJQNzFuaDVIMTFsZGlycDdjaUNqVjJ0NVBYdUVYcUlYNTZVWkNlYjBPdm9QY3VlNXBvNEhhaVBxVWZFaTRzS3JJb0Zqb2hkdkVaSjVCVUdYV3pYTlBDeHNSSWVyQmRKQWRaWVF0VE9uSUFZaWVFU0NjYk04UzZxdUM5M2lLMkFycw",
@@ -799,33 +795,13 @@
   "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
   "https://nypost.com/?post_type=article&p=41280709",
   "https://www.washingtonexaminer.com/?p=4762547",
-  "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport"
+  "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+  "CBMiqAFBVV95cUxNLTZ5RmJVdEgxTlRSZk1XMUIzS0kxbzhnYlBLYjN6UlNqcFVEM1B0WF93ME1ERGJBY1g1YzdhR0lsbEQ2aUhURzVHSWVNT0NGTkdkRFlMblVIdllMVE1uNm4wc202N1NqMlFJNHBRc09fakFKWTVWLUp0aldpZzhpY3V5NW5acEdTV3UtMjBZaGpBRVBBN2UwUmZYWW9tUzdFd2tZZ1h0VXM",
+  "CBMiqgFBVV95cUxQZm5uVy1lOUtnaFNBS0NrQ2Z3XzhKakFTLTlISS1wWm5raHJvR0VHUXN3ODk0anh1VkZNLUl0OE53dEtLZS1CVnNncEZuN09FRGJDVi1ZSGMxVk01MmVrVF9vN2lIZV8zZkp2SGlJU0NkT0FwVGFzenFLVDRxVk9jODZYYVRPamotaVo5NkVCVGh3TVQ4eG1FQUd2TG04YzlubUtqRURsaG0zdw",
+  "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-democrats-must-win-by-massive-numbers",
+  "CBMicEFVX3lxTFBiX1F4bWhnbkl2YnY3aVFsaG1Hd1oxZ2lHNXI4am9MZXhEalpYS2k4WmFhQnk1REZEN2lKTmFaTUFpLXZrVDIySUlfckZDY205M3p6UHlPMUFyVjViZThlSDNYd1gtb3FSeW5tbjJ0TWg"
  ],
  "posts": [
-  {
-   "fp": "attack aviv dubai early flight involved iran israeli",
-   "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-   "source": "BBC World",
-   "at": "2026-10-01T13:22:51.918598+00:00"
-  },
-  {
-   "fp": "australian bacterial causes identified recurrent scientists underlying vaginosis",
-   "title": "Underlying causes of recurrent bacterial vaginosis identified by Australian scientists",
-   "source": "Guardian World",
-   "at": "2026-10-01T17:19:08.822941+00:00"
-  },
-  {
-   "fp": "airline attack captain cockpit flight flydubai hailed hero indian",
-   "title": "An Indian airline captain is hailed as a hero after a cockpit attack on a FlyDubai flight",
-   "source": "AP",
-   "at": "2026-10-01T19:00:29.559789+00:00"
-  },
-  {
-   "fp": "administration family fatal good minneapolis renee shooting sues trump",
-   "title": "Renee Good's family sues Trump administration over fatal Minneapolis shooting",
-   "source": "Reuters",
-   "at": "2026-10-01T19:00:31.269017+00:00"
-  },
   {
    "fp": "agent family good killed officials renee sues trump woman",
    "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
@@ -3201,13 +3177,33 @@
    "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
    "source": "Guardian World",
    "at": "2026-10-11T18:25:35.364826+00:00"
+  },
+  {
+   "fp": "highs recent retreat slip stocks treasurys",
+   "title": "U.S. Stocks Slip as Treasurys Retreat From Recent Highs",
+   "source": "WSJ",
+   "at": "2026-10-11T19:21:37.210872+00:00"
+  },
+  {
+   "fp": "centre election france glucksmann left presidential ticket wins",
+   "title": "Glucksmann wins centre-left ticket for France's presidential election",
+   "source": "Reuters",
+   "at": "2026-10-11T19:21:39.044848+00:00"
+  },
+  {
+   "fp": "abdul democrats denial election fend massive must numbers sayed trump",
+   "title": "Abdul El-Sayed: Democrats must \u2018win by massive numbers\u2019 to fend off Trump election denial",
+   "source": "Guardian World",
+   "at": "2026-10-11T19:21:40.950292+00:00"
+  },
+  {
+   "fp": "stocks yields",
+   "title": "Stocks Up, Yields Up",
+   "source": "WSJ",
+   "at": "2026-10-11T19:21:42.751277+00:00"
   }
  ],
  "titles": [
-  "attack aviv dubai early flight involved iran israeli",
-  "australian bacterial causes identified recurrent scientists underlying vaginosis",
-  "airline attack captain cockpit flight flydubai hailed hero indian",
-  "administration family fatal good minneapolis renee shooting sues trump",
   "agent family good killed officials renee sues trump woman",
   "again chair federal hiking rates reserve take time vice",
   "boom check chips finance gets nvidia reality street wall",
@@ -3603,6 +3599,10 @@
   "announces ceasefire deal news partial trump ukraine zelenskyy",
   "396k alabama florida heads hurricane isaias lose nearly north power residents",
   "likens mamdani mass officer plainclothes shooter shooting",
-  "again airport attack authorities deadly houthi missile riyadh saudi"
+  "again airport attack authorities deadly houthi missile riyadh saudi",
+  "highs recent retreat slip stocks treasurys",
+  "centre election france glucksmann left presidential ticket wins",
+  "abdul democrats denial election fend massive must numbers sayed trump",
+  "stocks yields"
  ]
 }
