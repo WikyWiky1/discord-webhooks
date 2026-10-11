@@ -1,12 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40929130",
-  "https://www.bbc.co.uk/news/articles/cw8r687nedzgo#0",
-  "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates",
-  "CBMi5wFBVV95cUxNUW01Z2w5SlFzQ3VXT3g1cGUzbWlMU2FNM25rVEJFZkZQTzFHampOdUI3NU56aUxVem5oM3dhVXdPN1JxRFpOWmZublhkaEVrUmc5UTNVU3E2cVVVbE1uV3pTWFEzX1R6bmZ2Yjlyc1ZiUEQ2YlZFZHpTQWR3aFBWcUgtWGdNYXRqNmY2UzBkRkdOY2tmWGQyWVJQMEl6WjhWb0dJeGUwbTdvNURreElseVJjZUxBdXdjY2VON2QxU3dSQU5URlFjcy0zbWJWS0xtTlpJdmJ0TW54VFVaTEpGaUFyUHFlVWc",
-  "CBMinAFBVV95cUxPSTRtVzYzLVV4RU1BMzBfOEtFcDdvcW00SGRzTFBUUE9vSFAtM1JudG9wZVFMWjVpcVpseHlrNDNJdWxPcjRtWVVpOTVMNUpXQjM4N1ZkU1lHV3N4MjNwREQ3VXNxVzhlV25fR3F2UXkxMUZkTVpzWHJXRG1sNE1odFpJcFplTjhYU2FwV1FHb1RReTFxMXZtWDZQV2E",
-  "CBMiogFBVV95cUxQNnJhbTBaWW5Yd0VCS29IYk9xNkg5SW0xN3hfV2x5ZVhfUjZaMGlfd2lJV1hVQjFRYjc1RzlHaC1KQ1RFWUlCYUhqZm45ZVFwbVBUNnZXVUhPbjZtMFducXNhMFFWWm10YXFfeXQxOXhqMHhOSjhha1dlR21la0VTOVlvTGZTaDlqMVNweE5NeThRMWhFQVlSdWZ5RS1SdVdzS0E",
-  "CBMiYkFVX3lxTE5wV19UVkNXUkN3Z0h0QnZvUnFmSzdVNEMtU01XcVU1YkJ6bXlXeU1IOXRVdjFOWFgwaXQ1U0xrZDRlcVozUF9qTDFzUnA2RVZVaXlPVTZrcXVDbjEzN3VTWnNR",
   "CBMiqAFBVV95cUxQMzA3eFpxenhZSmdKNndLU2JNalZSZWNUWk9LMnAzaFFYZXItWWljSDE4VzZUb2NpLWozR2swQmhGNWtnVDBqYWN3VmdPZWEzSEJwTWJ4MHJaUlpKeGtoUWowMHBUYXA5QzhkdW10U2dUVy1BOXA5UVhtVFJnM1RJMUtVNzJaM0tXRVlPT0Q3NGpGUlg3ZG84Ty1kODRlMjh6dFVCb3F2dS0",
   "https://www.bbc.co.uk/news/articles/cqy7z275yx65o#0",
   "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
@@ -799,51 +792,16 @@
   "CBMihAFBVV95cUxOaEhDWEkwZ1dZUmlaUFQ1VlN1WlU0LVY5cHBBNVRlRjJVZU1EUDYtb2NUaEpjV2dQYWRwZ0xZb3VvLVBFR1BQaWYweVEzeGJGeUpqMHFzaDFlMzJ5RW1XbEwteEZGTFRpOWxCUkFlTWU1ZXNyM25zZ3M2VV9JcnBLNUUwREE",
   "CBMiqgFBVV95cUxPNmtzT2tCeEoxY3FCVGNlellPVGlHVkdQX0lBT2dtTk1FUV9vQjJ2Z3hZNEZRamI1Z2VHRVc1bjdKM0w2YlFLYVdkZzhxV2Vfd2FhOXlNQWUtMUVJR0o0c2VHSktPNVpJcDFpTUMtUWpmOTRXaGlidGdZVFhqdVE0enhOYzlfYjRqYzRYX3J2cDdJXzVPME5CbDJoUjdiZW9IemxYM05hOTFaQQ",
   "CBMipgFBVV95cUxObUY1dGotRmhDZkFoUG1JN2FvWGdZYVRPU0tjQ3daVVJVbkw1cHN0eUF0dHB5VjBibFBpcnRPY2N6SFM4TmQ0SE5Yalk0UmtqVlg0TVFkdlpxRFFFM0xsLUxzT1NLWVc3aVlOcHhXSlVuc2hOcno1U1NUYnJvOEJCaExnemNjeEprLTFuSXFKZTc1MXNrcnVINDV4QVduMjdsdW4tRmxB",
-  "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed"
+  "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
+  "CBMif0FVX3lxTE9KVzJLMVkwRnJMa0tzMHZ1OEZSdWZGZ09CVU9JOXp0aUNXdEVGREoyNnROSm5qek83a1RuQ2JsZE5Iam5kaFFvcWNqSTdkdHVkSUJwX0hmdlJzMXU5MHROZUtWd2NzVlFHN3JnX3FzMmU3aU5IWDltU254dWszdG8",
+  "CBMimAFBVV95cUxObXk0VFduYU1ldGM0N3RTZGlUVEFiOV9GdHBJTExieVVQT0preW1GRGVHLUZHN3VyZ3pYUzdXbGYzVHdHdUsweFFUekY3Nk13LTl3dWtmdmpiMDh5ZXR3Sm9kZ1VvbFlZNFU3UXgzYlJEaml0VGNHS09ia0E3QUJERDcwRkRsd2UzNWZYWjZlUDJWYUtoZlh6Ng",
+  "https://nypost.com/?post_type=article&p=41279632",
+  "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
+  "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
+  "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o#0",
+  "https://nypost.com/?post_type=article&p=41279348"
  ],
  "posts": [
-  {
-   "fp": "calls finds misconduct powell renovation resignation trump watchdog",
-   "title": "Watchdog finds no Fed misconduct in renovation; Trump calls for Powell's resignation",
-   "source": "Reuters",
-   "at": "2026-10-01T00:18:05.817980+00:00"
-  },
-  {
-   "fp": "approves department labor lead pick senate trump",
-   "title": "Senate approves Trump\u2019s pick to lead the Labor Department",
-   "source": "New York Post",
-   "at": "2026-10-01T04:27:06.477039+00:00"
-  },
-  {
-   "fp": "confirms department insider keith labor lead senate sonderling",
-   "title": "Senate confirms insider Keith Sonderling to lead Department of Labor",
-   "source": "The Hill",
-   "at": "2026-10-01T04:27:08.245032+00:00"
-  },
-  {
-   "fp": "agenda back china greer takes tariff trump urges",
-   "title": "Greer urges G20 to back Trump tariff agenda, takes aim at China",
-   "source": "Reuters",
-   "at": "2026-10-01T04:27:09.950923+00:00"
-  },
-  {
-   "fp": "asian bonds focus september stocks torrid",
-   "title": "Asian stocks dip, bonds in focus after torrid September",
-   "source": "Reuters",
-   "at": "2026-10-01T04:27:11.727693+00:00"
-  },
-  {
-   "fp": "attack brawl forces hospital island killed lockdown long park sparking targeted",
-   "title": "Long Island dad killed in \u2018targeted attack\u2019 at park \u2014 sparking hospital brawl that forces lockdown",
-   "source": "New York Post",
-   "at": "2026-10-01T06:07:01.434066+00:00"
-  },
-  {
-   "fp": "2027 chinese despite exclusive invasion next sees sources taiwan timeline unlikely year",
-   "title": "EXCLUSIVE: US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
-   "source": "Reuters World",
-   "at": "2026-10-01T06:07:03.622812+00:00"
-  },
   {
    "fp": "bond consulting futures gain jitters market offset stocks wall",
    "title": "Wall St futures gain as AI, consulting stocks offset bond-market jitters",
@@ -3201,16 +3159,51 @@
    "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
    "source": "NPR News",
    "at": "2026-10-11T12:11:52.496596+00:00"
+  },
+  {
+   "fp": "criticizes mayor protests secretary shooting sparks york",
+   "title": "DHS Secretary Criticizes New York Mayor After ICE Shooting Sparks Protests",
+   "source": "WSJ",
+   "at": "2026-10-11T13:27:09.554982+00:00"
+  },
+  {
+   "fp": "airport arabia closure deadly extends moves online riyadh saudi schools strike",
+   "title": "Saudi Arabia extends airport closure and moves Riyadh schools online after deadly strike",
+   "source": "AP",
+   "at": "2026-10-11T13:27:11.320253+00:00"
+  },
+  {
+   "fp": "ambush father kids killed married philly weekend young",
+   "title": "Philly cop killed in weekend \u2018ambush\u2019 was a married father of two young kids",
+   "source": "New York Post",
+   "at": "2026-10-11T13:27:13.114143+00:00"
+  },
+  {
+   "fp": "attack donald learn minister plot poland police possible prime tusk",
+   "title": "Police in Poland \u2018learn of possible plot to attack prime minister Donald Tusk\u2019",
+   "source": "Guardian World",
+   "at": "2026-10-11T13:27:15.006280+00:00"
+  },
+  {
+   "fp": "fears flooding hurricane mexico nears simon winds",
+   "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
+   "source": "NPR News",
+   "at": "2026-10-11T13:27:16.724652+00:00"
+  },
+  {
+   "fp": "boat capsizes children dead djibouti",
+   "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+   "source": "BBC World",
+   "at": "2026-10-11T13:27:18.441432+00:00"
+  },
+  {
+   "fp": "badass crashing home hurricane husband killed nice through tree ultra victim wife",
+   "title": "Hurricane victim\u2019s husband saw his \u2018ultra-nice, badass\u2019 wife being killed by tree crashing through home",
+   "source": "New York Post",
+   "at": "2026-10-11T13:27:20.294663+00:00"
   }
  ],
  "titles": [
-  "calls finds misconduct powell renovation resignation trump watchdog",
-  "approves department labor lead pick senate trump",
-  "confirms department insider keith labor lead senate sonderling",
-  "agenda back china greer takes tariff trump urges",
-  "asian bonds focus september stocks torrid",
-  "attack brawl forces hospital island killed lockdown long park sparking targeted",
-  "2027 chinese despite exclusive invasion next sees sources taiwan timeline unlikely year",
   "bond consulting futures gain jitters market offset stocks wall",
   "diesel exclusive export face france germany release sources stocks tells",
   "budget chairman contenders raises revenue table",
@@ -3603,6 +3596,13 @@
   "aftershocks communities declares emergency panama powerful quake rattle state",
   "bring change cuomo markets radical stocks tokenized",
   "czech election opposition outpaced party round ruling senate",
-  "civil department justice mission reshaped rights transforms work workforce"
+  "civil department justice mission reshaped rights transforms work workforce",
+  "criticizes mayor protests secretary shooting sparks york",
+  "airport arabia closure deadly extends moves online riyadh saudi schools strike",
+  "ambush father kids killed married philly weekend young",
+  "attack donald learn minister plot poland police possible prime tusk",
+  "fears flooding hurricane mexico nears simon winds",
+  "boat capsizes children dead djibouti",
+  "badass crashing home hurricane husband killed nice through tree ultra victim wife"
  ]
 }
