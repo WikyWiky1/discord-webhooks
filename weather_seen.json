@@ -1149,8 +1149,17 @@
    "message_id": "1558611652474175532",
    "event": "High Wind Warning",
    "area": "Northwest Plateau; Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Hualapai Mountains; Northwest Deserts; San Bernardino County-Upper Colorado River Valley; Northeast Clark County; Sheep Range; Spring Mountains-Red Rock Canyon; Southern Clark County; Lake Mead - NV side; Lake Mohave - NV side",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-10-10T22:46:15+00:00",
+   "expired_at": "2026-10-11T07:32:28+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.d1292f43445e2759903af05d9bd799257cdcfcfe.001.1",
+   "message_id": "1558744070128402504",
+   "event": "High Wind Warning",
+   "area": "Northwest Plateau; Lake Havasu and Fort Mohave; Lake Mead - AZ side; Lake Mohave - AZ side; Hualapai Mountains; Northwest Deserts; San Bernardino County-Upper Colorado River Valley; Northeast Clark County; Sheep Range; Spring Mountains-Red Rock Canyon; Southern Clark County; Lake Mead - NV side; Lake Mohave - NV side",
+   "expired": false,
+   "posted_at": "2026-10-11T07:32:26+00:00",
    "expired_at": null
   }
  ]
