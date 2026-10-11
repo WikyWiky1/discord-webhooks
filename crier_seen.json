@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40926801",
-  "CBMiuwFBVV95cUxNRWxGR1lmR0tTRXRKSWNLejN3aHk2aUpYUkxJdHpxLWprbDBUR2FQbTJ0aC1mbTRwQjNXSGlmSU9rN0N2ODVhMkpqaXZrT0MyWGtfeldMYjVlS3VXc1BNUC1aNUhaYnpWeFFxcGxyNEF5emdvcUl1d0FLUmZ6QU1nUmxVWTJxblhtVWRxT3RSNlZIUVc1bXJ5RUtSSzdTMmhzRzFHZkQxX2QwZnphSEYzNEM1WW5fUGZ2SHFv",
-  "CBMipgFBVV95cUxQMnlUVGFYVkZseXJlTE1Qb3BXaXJGTllrOEJBX3RHd2F0Ri1oSGRPX3ktQ0NOT2ItRVdVYXhlRVdTbXV1UzRBSl9PYURRalpwQ1FkR0JEXzNra3FnY0Q4LXJqNUhWT3dPY21yemdvUi1LeDNHcVRzdV8tUVI2cF8wSHBwNFJwNTRCbUpXeldZdE1IVVFIUENZVnpBTEFmUEI5V0pjZDFR",
-  "https://www.theguardian.com/us-news/2026/sep/21/judge-spacex-wildlife-refuge-musk",
-  "https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo",
-  "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
   "CBMitwFBVV95cUxPbkc3QkdhUTNkWkF6ZkdzN3NBYUkyeDBpRGRTZjU2a2g3OTJTZ3JMV28tWFc3VDNmNmlYazdmM0Y2V3Y5aEJzQ0xOLTd2OENXS2dEaWhjSnRZX3Qtb0lLUk4yVGRVaXVVeEVSZWYxelNkcTVObW1WdURwb0ZPWFFleUJBY2d2dlI1QnFrNmYydW1fQm5tcXFQdDJ3b0JudllCdUhQdktkb3ZUYXl0bnNjUjd1d2V5Mmc",
   "CBMilgFBVV95cUxOTnFZcDQ0VXZKZzZOV0VSekNRaUNsRUJOSkJGak9PUTBydWwtWHBlbUUxMnJKcGNSOXVYd1BQek14TndKR0Rhb3RWMVEyTDZoQmE4QkJVUlk0REl1d3RqdXpOSU5NOFA3cVdhNUNmSHRuaWNzQ0diczNydzRWclVEbHJoSXh2dHU0UXVLMHpLcmIwUlJHV1E",
   "CBMiggFBVV95cUxOelIwVHJTT0VkWjFuSUNDbHlzVnNjOFBwLU5ILWxKd1Z2RTRfNnBQeUlaQkRlZVp0cnpieEVBcmptWm1mel85OEV5UFhtNmNnSDVQeWx6Tm9lM1BUczFGc3RJWk5qX1JmbzhOOEliUGx1bVZiZ3VaVTgzcEVmc28xM25n",
@@ -799,45 +793,15 @@
   "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o#0",
   "https://www.washingtonexaminer.com/?p=4762336",
   "https://news.sky.com/story/fourteen-killed-in-two-separate-us-mass-shootings-13597601",
-  "https://www.theguardian.com/us-news/2026/oct/10/philadelphia-police-officer-killed"
+  "https://www.theguardian.com/us-news/2026/oct/10/philadelphia-police-officer-killed",
+  "https://nypost.com/?post_type=article&p=41275348",
+  "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+  "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths",
+  "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+  "https://www.bbc.co.uk/news/articles/cmje5x80yg70o#0",
+  "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone"
  ],
  "posts": [
-  {
-   "fp": "death fifth measles outbreak pennsylvania related reports year",
-   "title": "Pennsylvania reports fifth measles-related death of the year amid outbreak",
-   "source": "Guardian World",
-   "at": "2026-09-30T20:51:29.828083+00:00"
-  },
-  {
-   "fp": "attack fellow flight intervene israel passengers pilot stabs stop",
-   "title": "Pilot stabs fellow pilot on flight to Israel before passengers intervene to stop attack",
-   "source": "AP",
-   "at": "2026-09-30T20:51:31.540167+00:00"
-  },
-  {
-   "fp": "alleged bomber interrogation massie patel pipe resign wants",
-   "title": "Massie wants Patel to resign over interrogation of alleged DC pipe bomber",
-   "source": "Washington Examiner",
-   "at": "2026-09-30T20:51:33.212939+00:00"
-  },
-  {
-   "fp": "candidate hurt paxton republicans senate texas times trump york",
-   "title": "Texas US Senate candidate Paxton said Trump hurt Republicans, New York Times says",
-   "source": "Reuters",
-   "at": "2026-09-30T21:55:08.138127+00:00"
-  },
-  {
-   "fp": "bond cranks fall higher market pressure stocks",
-   "title": "Most US stocks fall after the bond market cranks the pressure higher",
-   "source": "AP",
-   "at": "2026-09-30T21:55:10.050072+00:00"
-  },
-  {
-   "fp": "command drone hegseth military oversee tech unveils",
-   "title": "Hegseth Unveils New Command to Oversee Military Drone Tech",
-   "source": "WSJ",
-   "at": "2026-09-30T21:55:11.997029+00:00"
-  },
   {
    "fp": "choppy cruise stocks waters",
    "title": "Cruise Stocks Have Hit Choppy Waters",
@@ -3201,15 +3165,45 @@
    "title": "Man with gun kills one Philadelphia police officer and injures another",
    "source": "Guardian World",
    "at": "2026-10-10T21:48:03.604710+00:00"
+  },
+  {
+   "fp": "baby balcony bronx clings held infant killed life plummeting stories thrown vigil",
+   "title": "Baby thrown from NYC balcony clings to life as vigil held for Bronx mom killed after plummeting 15 stories with infant",
+   "source": "New York Post",
+   "at": "2026-10-11T00:36:55.561165+00:00"
+  },
+  {
+   "fp": "airport attack authorities killed people riyadh saudi wounded",
+   "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+   "source": "NPR News",
+   "at": "2026-10-11T00:36:57.393533+00:00"
+  },
+  {
+   "fp": "apparent five georgia killed murder people police shot suicide",
+   "title": "Five people shot and killed in apparent murder-suicide, Georgia police say",
+   "source": "Guardian World",
+   "at": "2026-10-11T00:36:59.200739+00:00"
+  },
+  {
+   "fp": "airport attack houthi hundreds injured killed riyadh twelve",
+   "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
+   "source": "Guardian World",
+   "at": "2026-10-11T00:37:00.991994+00:00"
+  },
+  {
+   "fp": "dead four hurricane isaias lashes power thousands without",
+   "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+   "source": "BBC World",
+   "at": "2026-10-11T00:37:02.716443+00:00"
+  },
+  {
+   "fp": "cyclone dead florida four isaias panhandle post striking tropical weakens",
+   "title": "Four dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
+   "source": "Guardian World",
+   "at": "2026-10-11T00:37:04.437428+00:00"
   }
  ],
  "titles": [
-  "death fifth measles outbreak pennsylvania related reports year",
-  "attack fellow flight intervene israel passengers pilot stabs stop",
-  "alleged bomber interrogation massie patel pipe resign wants",
-  "candidate hurt paxton republicans senate texas times trump york",
-  "bond cranks fall higher market pressure stocks",
-  "command drone hegseth military oversee tech unveils",
   "choppy cruise stocks waters",
   "bill blocks congress members republican restricting senate stock trades",
   "graham list present russia sanctions ukraine under wish",
@@ -3603,6 +3597,12 @@
   "attack bomb glide kills least people russian zaporizhzhia",
   "ambush cops dead leaving philadelphia shot times",
   "fourteen killed mass separate shootings",
-  "another injures kills officer philadelphia police"
+  "another injures kills officer philadelphia police",
+  "baby balcony bronx clings held infant killed life plummeting stories thrown vigil",
+  "airport attack authorities killed people riyadh saudi wounded",
+  "apparent five georgia killed murder people police shot suicide",
+  "airport attack houthi hundreds injured killed riyadh twelve",
+  "dead four hurricane isaias lashes power thousands without",
+  "cyclone dead florida four isaias panhandle post striking tropical weakens"
  ]
 }
