@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiqAFBVV95cUxQMzA3eFpxenhZSmdKNndLU2JNalZSZWNUWk9LMnAzaFFYZXItWWljSDE4VzZUb2NpLWozR2swQmhGNWtnVDBqYWN3VmdPZWEzSEJwTWJ4MHJaUlpKeGtoUWowMHBUYXA5QzhkdW10U2dUVy1BOXA5UVhtVFJnM1RJMUtVNzJaM0tXRVlPT0Q3NGpGUlg3ZG84Ty1kODRlMjh6dFVCb3F2dS0",
   "https://www.bbc.co.uk/news/articles/cqy7z275yx65o#0",
   "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
   "CBMiqAFBVV95cUxOZTJjdFdPZThXOVZabjhkMWYtcDZacENSakRfYkF3YnVNMVlRZVp3V0NoRkMtQkpNZkhFNzNXZlFVMGFXa1NOVXh2ZHE5elRUS1BvalMwVFpPbWd1cnZ2NFR2TVpJZGdCa1hrUHFTaVdzY1RwMjgySnRZRE42Qng4c2xuUWhITFgzVkV4MVY2dGlaclFNR0JpVWlidGsySWlnNGJMVjRZODE",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
   "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
   "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o#0",
-  "https://nypost.com/?post_type=article&p=41279348"
+  "https://nypost.com/?post_type=article&p=41279348",
+  "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits"
  ],
  "posts": [
-  {
-   "fp": "bond consulting futures gain jitters market offset stocks wall",
-   "title": "Wall St futures gain as AI, consulting stocks offset bond-market jitters",
-   "source": "Reuters",
-   "at": "2026-10-01T12:32:47.127924+00:00"
-  },
   {
    "fp": "diesel exclusive export face france germany release sources stocks tells",
    "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say",
@@ -3201,10 +3195,15 @@
    "title": "Hurricane victim\u2019s husband saw his \u2018ultra-nice, badass\u2019 wife being killed by tree crashing through home",
    "source": "New York Post",
    "at": "2026-10-11T13:27:20.294663+00:00"
+  },
+  {
+   "fp": "benefits details draw health interest potential sauna scientists sweating",
+   "title": "Sweating the details: Sauna's potential health benefits draw scientists' interest",
+   "source": "NPR News",
+   "at": "2026-10-11T16:35:57.070294+00:00"
   }
  ],
  "titles": [
-  "bond consulting futures gain jitters market offset stocks wall",
   "diesel exclusive export face france germany release sources stocks tells",
   "budget chairman contenders raises revenue table",
   "about brazil election favorite picanha politics prices steak",
@@ -3603,6 +3602,7 @@
   "attack donald learn minister plot poland police possible prime tusk",
   "fears flooding hurricane mexico nears simon winds",
   "boat capsizes children dead djibouti",
-  "badass crashing home hurricane husband killed nice through tree ultra victim wife"
+  "badass crashing home hurricane husband killed nice through tree ultra victim wife",
+  "benefits details draw health interest potential sauna scientists sweating"
  ]
 }
