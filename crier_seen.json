@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40940203",
   "https://news.sky.com/story/fifteen-jailed-for-life-over-involvement-in-sri-lanka-bombings-that-killed-more-than-260-13590838",
   "CBMirAFBVV95cUxNMnZhVnlQdjFiRFBVaHlnZWZEcktwQ2pPNVRPTFpuVUs5RjlCVFpSdlN2anpWNlF2ajR0QmM3NW9YT3hiVDBmMWh3Njg3MVY0dXd4Q3dpOGEyZzdXZ0U3WE1TenMyZWNmeWtIU19ibTJkaEE0TkJab2RtQ0o4SFdvSUdMSkx3OFdDWXVaWGZLSkFFbTFBSjdsekRuLVNvajcwbFZmZHN0TWdzRmFV",
   "https://www.theguardian.com/us-news/2026/sep/22/kamala-harris-abdul-el-sayed-campaign-michigan",
@@ -799,15 +798,10 @@
   "CBMirwFBVV95cUxQY1g0QVBLX2lGU0RUSUxWNDNYM2ZHUWlwVGVqTHNBMnB5VXp3eTVndndiM0VBTHJ2Qkw0SlVmWEU0clBBVWFiaTBvTjVRUDFxZTVEUnhWWVVOd0FfU1ZsRmxYZXR0RTdMcmFYbF9LMjlGY3pQdmNpQ3NSejh6NW5INjVzY3VNTVotNC1aN002aTNCVkdJR1Y3T0pXbVlzeWV0SnBKZEF6clhNZFJUNlZv",
   "CBMirwFBVV95cUxOTFVRcV9pQ2ttSFVKckRUTGRxRGE0dkxlM09OV3Z6UjhKUVFfdTJOd25PUDJBNmIwRlpYS3RpWjY0bU1oYmE1dUpucWNEaWM3eENFWHJvVWVSV19BTGUtaWxxeENlV2ozT016ZGd4cmR2eTRYclVZUEp0R05MemNhdEJWRndOX0xvRVkzcENoUFQ5Z3FNQzR1M1B5c09iTVhaZzIxM00tLTEwMTNUemRN",
   "https://nypost.com/?post_type=article&p=41284219",
-  "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o#0"
+  "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o#0",
+  "https://thehill.com/?p=6141694"
  ],
  "posts": [
-  {
-   "fp": "advocates backed battle deadly drug newborn results soros tests",
-   "title": "Soros-backed advocates battle newborn drug tests \u2014 with deadly results",
-   "source": "New York Post",
-   "at": "2026-10-01T23:13:53.645639+00:00"
-  },
   {
    "fp": "cower hamas hasan hate hostage piker",
    "title": "I was a Hamas hostage \u2014 and I won\u2019t cower from Hasan Piker\u2019s hate",
@@ -3201,10 +3195,15 @@
    "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
    "source": "BBC World",
    "at": "2026-10-11T22:24:55.118455+00:00"
+  },
+  {
+   "fp": "deal efforts graham lindsey russia sanctions tarnishing tillis trump",
+   "title": "Tillis: Trump's Russia deal 'is tarnishing Lindsey Graham's efforts' at sanctions",
+   "source": "The Hill",
+   "at": "2026-10-12T00:14:36.657266+00:00"
   }
  ],
  "titles": [
-  "advocates backed battle deadly drug newborn results soros tests",
   "cower hamas hasan hate hostage piker",
   "category coast hurricane mexico pacific rachel storm strengthens",
   "attack injures kills mexico principal school secondary three vice",
@@ -3603,6 +3602,7 @@
   "ceasefire criticism deal draws energy export pushes russia trump ukraine",
   "airport attack conference energy riyadh withdraws",
   "boss demands fire mamdani mayor nypd shooting socialists tisch turn",
-  "border dozens egypt gold group killed prospectors rights strikes sudan"
+  "border dozens egypt gold group killed prospectors rights strikes sudan",
+  "deal efforts graham lindsey russia sanctions tarnishing tillis trump"
  ]
 }
