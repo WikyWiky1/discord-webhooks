@@ -1185,18 +1185,18 @@
    "message_id": "1558975682560790649",
    "event": "Flash Flood Warning",
    "area": "Mohave, AZ; Clark, NV; Lincoln, NV",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-10-11T22:52:47+00:00",
-   "expired_at": null
+   "expired_at": "2026-10-12T02:07:19+00:00"
   },
   {
    "id": "urn:oid:2.49.0.1.840.0.81a7cd0039caa2aa3f91cf0d2432ec3e9f59e6ba.001.1",
    "message_id": "1558975689732923424",
    "event": "Flash Flood Warning",
    "area": "Mohave, AZ; Clark, NV",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-10-11T22:52:48+00:00",
-   "expired_at": null
+   "expired_at": "2026-10-12T02:07:21+00:00"
   }
  ]
 }
