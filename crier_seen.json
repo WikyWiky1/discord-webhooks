@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://news.sky.com/story/fifteen-jailed-for-life-over-involvement-in-sri-lanka-bombings-that-killed-more-than-260-13590838",
-  "CBMirAFBVV95cUxNMnZhVnlQdjFiRFBVaHlnZWZEcktwQ2pPNVRPTFpuVUs5RjlCVFpSdlN2anpWNlF2ajR0QmM3NW9YT3hiVDBmMWh3Njg3MVY0dXd4Q3dpOGEyZzdXZ0U3WE1TenMyZWNmeWtIU19ibTJkaEE0TkJab2RtQ0o4SFdvSUdMSkx3OFdDWXVaWGZLSkFFbTFBSjdsekRuLVNvajcwbFZmZHN0TWdzRmFV",
-  "https://www.theguardian.com/us-news/2026/sep/22/kamala-harris-abdul-el-sayed-campaign-michigan",
-  "CBMingFBVV95cUxOZC14ckg4OUFpRmFPYnZfV2FwMXpSZzVVdTljZ0d1cEN5dk5yb3ZPcUY3X0Y5UUhfMElxdV9CbEVGU1p3SGgtdDNhN1k2eTQ2UzBLM0NXU1FFX3pMZW1abmZQanJnNG52eGtCQlRqa0wwNEdOaXpDeVNyRzdmQ0twZ015ZjRlWHQzbUxScm96TUhzbUNrRzduWE9yYUFVZw",
   "CBMipgFBVV95cUxNSmQyVGpCeXVDQWRkR3E1WVlHeXB0Q3FEVkRXR0stbUx4ZVREU3BsdnQ4aG9yZVhvSklIR1RBOTM4NkFsQVM1emhhdTMzQUVpbnFFbGNvYzdpbWp1N2JtbmtBTWFPSVE1Y296NUlFOFlHNWZGLWhtQ3J1d1pHOXp1T2hyanRPaUpLUFR3Rk5XeGI4clJ6NVBzbVNMRnRlTEpjbXgtR21n",
   "CBMiqwFBVV95cUxOZmMxcG9kN2owWENLallIR3I3SkRzTEhZbnNZdWxSbEd0MS1PbTFCanBMRWRfYl9KNmc5eEh0cGJZcDJCcWNma002M1FoRlVmMFBzaUxSX3BtYzRqdExWc1doY0VjaFBqUFBDQ2QtQll1ekcyQzgyTzhEc01XN3Fab3JyXzBEOXRfY0RKN1QyYWhnMXpRcVByWEFMMk53UWtydkUtQ20xNTdPQ1k",
   "https://thehill.com/?p=6105117",
@@ -799,33 +795,13 @@
   "CBMirwFBVV95cUxOTFVRcV9pQ2ttSFVKckRUTGRxRGE0dkxlM09OV3Z6UjhKUVFfdTJOd25PUDJBNmIwRlpYS3RpWjY0bU1oYmE1dUpucWNEaWM3eENFWHJvVWVSV19BTGUtaWxxeENlV2ozT016ZGd4cmR2eTRYclVZUEp0R05MemNhdEJWRndOX0xvRVkzcENoUFQ5Z3FNQzR1M1B5c09iTVhaZzIxM00tLTEwMTNUemRN",
   "https://nypost.com/?post_type=article&p=41284219",
   "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o#0",
-  "https://thehill.com/?p=6141694"
+  "https://thehill.com/?p=6141694",
+  "CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA",
+  "https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war",
+  "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
+  "https://www.theguardian.com/us-news/2026/oct/11/erie-pennsylvania-mass-shooting-grandfather"
  ],
  "posts": [
-  {
-   "fp": "cower hamas hasan hate hostage piker",
-   "title": "I was a Hamas hostage \u2014 and I won\u2019t cower from Hasan Piker\u2019s hate",
-   "source": "New York Post",
-   "at": "2026-10-01T23:13:55.515619+00:00"
-  },
-  {
-   "fp": "category coast hurricane mexico pacific rachel storm strengthens",
-   "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico\u2019s Pacific coast",
-   "source": "AP",
-   "at": "2026-10-01T23:13:57.628888+00:00"
-  },
-  {
-   "fp": "attack injures kills mexico principal school secondary three vice",
-   "title": "Attack at Mexico secondary school kills vice principal, injures three",
-   "source": "Reuters",
-   "at": "2026-10-01T23:13:59.335951+00:00"
-  },
-  {
-   "fp": "accusing actress berry choking custody granted halle maceo primary year",
-   "title": "Halle Berry\u2019s ex granted primary custody of son Maceo after accusing actress of choking their 12-year-old",
-   "source": "New York Post",
-   "at": "2026-10-02T00:33:14.561107+00:00"
-  },
   {
    "fp": "boom clues last long memory offer stocks",
    "title": "How Long Will the AI Boom Last? Memory Stocks Offer Clues",
@@ -3201,13 +3177,33 @@
    "title": "Tillis: Trump's Russia deal 'is tarnishing Lindsey Graham's efforts' at sanctions",
    "source": "The Hill",
    "at": "2026-10-12T00:14:36.657266+00:00"
+  },
+  {
+   "fp": "breaking news today world",
+   "title": "World News: Top & Breaking World News Today",
+   "source": "AP",
+   "at": "2026-10-12T01:42:57.960264+00:00"
+  },
+  {
+   "fp": "airport east expert houthis kill middle rapid saudi targets warns",
+   "title": "Houthis kill 14 at Saudi airport as expert warns of 'rapid targets' amid Middle East war",
+   "source": "Fox News World",
+   "at": "2026-10-12T01:42:59.737267+00:00"
+  },
+  {
+   "fp": "coup decries government imran khan pakistan party provincial suspends",
+   "title": "Imran Khan\u2019s party decries \u2018coup\u2019 after Pakistan suspends provincial government",
+   "source": "Guardian World",
+   "at": "2026-10-12T01:43:01.524780+00:00"
+  },
+  {
+   "fp": "child eight grandfather killed pennsylvania shooter slain",
+   "title": "Pennsylvania shooter who killed eight was a grandfather, says slain child\u2019s dad",
+   "source": "Guardian World",
+   "at": "2026-10-12T01:43:03.246479+00:00"
   }
  ],
  "titles": [
-  "cower hamas hasan hate hostage piker",
-  "category coast hurricane mexico pacific rachel storm strengthens",
-  "attack injures kills mexico principal school secondary three vice",
-  "accusing actress berry choking custody granted halle maceo primary year",
   "boom clues last long memory offer stocks",
   "appointment brings bros cost cutter david discovery ellison kreiz paramount warner",
   "election live midterm oklahoma rally republicans stumps trump watch",
@@ -3603,6 +3599,10 @@
   "airport attack conference energy riyadh withdraws",
   "boss demands fire mamdani mayor nypd shooting socialists tisch turn",
   "border dozens egypt gold group killed prospectors rights strikes sudan",
-  "deal efforts graham lindsey russia sanctions tarnishing tillis trump"
+  "deal efforts graham lindsey russia sanctions tarnishing tillis trump",
+  "breaking news today world",
+  "airport east expert houthis kill middle rapid saudi targets warns",
+  "coup decries government imran khan pakistan party provincial suspends",
+  "child eight grandfather killed pennsylvania shooter slain"
  ]
 }
