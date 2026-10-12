@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40947969",
   "CBMimwFBVV95cUxNdXRfVUpoTkJpWlZoVDA3MVEzNFVFbW5KbDZTX1FYVW0xNzdCZXR2eHdfZUgtbDJwdzM3Z1A2amgteXZqTS0yVGQxaV9WVjNxay1LZllIMFlRTmtQbXdzclF1OEJnUVVZUkhLVGEtUGdZcUdKMFI1bzY0aDdkaVpXM3QxTnNnOW1PMWY3dEZRYzdVeXNrTVBTNlh5QQ",
   "https://nypost.com/?post_type=article&p=40942681",
   "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
@@ -799,15 +798,10 @@
   "CBMiwAFBVV95cUxPYWxLV1J6R2V3UDNKc2FwUU9oQ2dvUGVXd2FQTTNQdFM2QVVBLU54eWN0SFktR25BT0l3U3NIRldielJHYjBLY1lfMTk1OGZGVUZtOG4yMXhINzZSVDhwdXZScWtCUDdVYWxjSkF6RThTcHhyMWN3Z1hrWjNMSFJFMm04eVRKZ2luSkJjWUpKM2RYSXdXa2ZKbk94MjRjaXFDRDRtLXd3c3pMbk1Ld21LOE13WEZMUXp5YWdEcnNYMzc",
   "CBMiqAFBVV95cUxOYk9yd3EweHFPQ2doVnFxQmxCdEJxMmdBdF9FT2tzdExGZmR3eUo0TjFyTmU0azY4UEtmRW56djNGaERmMGdpcmNHZWRPcllwdEhPUVhsNjJqMzYxRko2dXA0VTBtdGZvYUdid1hZZkFMeGtJOGdVX1J0NUU5X29naUJaUVNxMG9LWEw2Q3prUHVTNTlyanVIbjFxOE80Y3oyNTlfX3VhT2U",
   "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo#0",
-  "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates"
+  "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
+  "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport"
  ],
  "posts": [
-  {
-   "fp": "americans head higher hiring month polls remaining slows ticks unemployment",
-   "title": "US hiring slows and unemployment ticks higher with a month remaining before Americans head to polls",
-   "source": "AP",
-   "at": "2026-10-02T17:32:26.503797+00:00"
-  },
   {
    "fp": "board editorial hegseth journal knocks line speech street wall weirdos",
    "title": "Wall Street Journal editorial board knocks Hegseth's 'weirdos' line in speech",
@@ -3201,10 +3195,15 @@
    "title": "Zelenskyy says \u2018increasingly clear\u2019 Russia does not want energy ceasefire after strikes on energy facilities \u2013 as it happened",
    "source": "Guardian World",
    "at": "2026-10-12T18:10:53.233972+00:00"
+  },
+  {
+   "fp": "airport arabia attack deadly flights further houthi latest saudi suspends",
+   "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
+   "source": "Guardian World",
+   "at": "2026-10-12T20:11:42.253040+00:00"
   }
  ],
  "titles": [
-  "americans head higher hiring month polls remaining slows ticks unemployment",
   "board editorial hegseth journal knocks line speech street wall weirdos",
   "bank budget city healey opposition raid steps",
   "leads paxton points race senate survey talarico texas tightening",
@@ -3603,6 +3602,7 @@
   "announcement ceasefire despite energy hits kyiv russia targets trump",
   "ceasefire claim despite energy facilities russia strikes trump zelenskyy",
   "attack cyber french fridges supermarkets",
-  "ceasefire clear does energy facilities happened increasingly russia strikes want zelenskyy"
+  "ceasefire clear does energy facilities happened increasingly russia strikes want zelenskyy",
+  "airport arabia attack deadly flights further houthi latest saudi suspends"
  ]
 }
