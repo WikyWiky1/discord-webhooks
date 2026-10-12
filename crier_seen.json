@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMipgFBVV95cUxNSmQyVGpCeXVDQWRkR3E1WVlHeXB0Q3FEVkRXR0stbUx4ZVREU3BsdnQ4aG9yZVhvSklIR1RBOTM4NkFsQVM1emhhdTMzQUVpbnFFbGNvYzdpbWp1N2JtbmtBTWFPSVE1Y296NUlFOFlHNWZGLWhtQ3J1d1pHOXp1T2hyanRPaUpLUFR3Rk5XeGI4clJ6NVBzbVNMRnRlTEpjbXgtR21n",
-  "CBMiqwFBVV95cUxOZmMxcG9kN2owWENLallIR3I3SkRzTEhZbnNZdWxSbEd0MS1PbTFCanBMRWRfYl9KNmc5eEh0cGJZcDJCcWNma002M1FoRlVmMFBzaUxSX3BtYzRqdExWc1doY0VjaFBqUFBDQ2QtQll1ekcyQzgyTzhEc01XN3Fab3JyXzBEOXRfY0RKN1QyYWhnMXpRcVByWEFMMk53UWtydkUtQ20xNTdPQ1k",
-  "https://thehill.com/?p=6105117",
   "CBMimgFBVV95cUxPSTQ4eDcxMDJKMDZQMVVwX3FkVzVGQ1lRTXJhcWN4Y3JJaGlWRzBYLUtaNjh0bktGaUkyQ3BSZUNnbE4yNlhiX1N6N1hXQi1JbmZrUmMyZHBQSTZIVWEwaUNuVTJiZjl6T2RSYVVBaVJZMU9QbTU5Z3Jlakp5U05TNXJZemJhUzBqLWtibk55d0g0WjhQSWJHUWpn",
   "https://nypost.com/?post_type=article&p=40942947",
   "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
@@ -799,27 +796,12 @@
   "CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA",
   "https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war",
   "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
-  "https://www.theguardian.com/us-news/2026/oct/11/erie-pennsylvania-mass-shooting-grandfather"
+  "https://www.theguardian.com/us-news/2026/oct/11/erie-pennsylvania-mass-shooting-grandfather",
+  "https://nypost.com/?post_type=article&p=41288334",
+  "https://nypost.com/?post_type=article&p=41288157",
+  "https://www.theguardian.com/australia-news/2026/oct/12/elizabeth-struhs-death-inquest-doctor-home-warning-queensland-coroner-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "boom clues last long memory offer stocks",
-   "title": "How Long Will the AI Boom Last? Memory Stocks Offer Clues",
-   "source": "WSJ",
-   "at": "2026-10-02T00:33:16.285746+00:00"
-  },
-  {
-   "fp": "appointment brings bros cost cutter david discovery ellison kreiz paramount warner",
-   "title": "David Ellison's appointment of Kreiz brings cost-cutter to Paramount-Warner Bros Discovery",
-   "source": "Reuters World",
-   "at": "2026-10-02T00:33:18.147439+00:00"
-  },
-  {
-   "fp": "election live midterm oklahoma rally republicans stumps trump watch",
-   "title": "WATCH LIVE: Trump stumps for Republicans at Oklahoma midterm election rally",
-   "source": "Washington Examiner",
-   "at": "2026-10-02T00:33:19.828240+00:00"
-  },
   {
    "fp": "bond market markets optimism shake stock street supports swings wall worldwide",
    "title": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street",
@@ -3201,12 +3183,27 @@
    "title": "Pennsylvania shooter who killed eight was a grandfather, says slain child\u2019s dad",
    "source": "Guardian World",
    "at": "2026-10-12T01:43:03.246479+00:00"
+  },
+  {
+   "fp": "19th birthday crash horrific just killed month rollover teen texas",
+   "title": "Texas teen killed in horrific rollover crash just month before 19th birthday",
+   "source": "New York Post",
+   "at": "2026-10-12T08:23:17.518882+00:00"
+  },
+  {
+   "fp": "allegedly days fire football free game high homecoming minnesota opening school shooting suspect walks",
+   "title": "Minnesota homecoming shooting suspect walks free two days after allegedly opening fire at high school football game",
+   "source": "New York Post",
+   "at": "2026-10-12T08:23:19.218084+00:00"
+  },
+  {
+   "fp": "doctor elizabeth home killed medicine religious safe sect struhs warned withdrawing years",
+   "title": "Doctor warned Elizabeth Struhs would not be safe at home years before religious sect killed her by withdrawing medicine",
+   "source": "Guardian World",
+   "at": "2026-10-12T08:23:20.916306+00:00"
   }
  ],
  "titles": [
-  "boom clues last long memory offer stocks",
-  "appointment brings bros cost cutter david discovery ellison kreiz paramount warner",
-  "election live midterm oklahoma rally republicans stumps trump watch",
   "bond market markets optimism shake stock street supports swings wall worldwide",
   "democratic hardest predicted republican scrambling senate states strategy surge",
   "blanchard dead fianc gypsy rose urker",
@@ -3603,6 +3600,9 @@
   "breaking news today world",
   "airport east expert houthis kill middle rapid saudi targets warns",
   "coup decries government imran khan pakistan party provincial suspends",
-  "child eight grandfather killed pennsylvania shooter slain"
+  "child eight grandfather killed pennsylvania shooter slain",
+  "19th birthday crash horrific just killed month rollover teen texas",
+  "allegedly days fire football free game high homecoming minnesota opening school shooting suspect walks",
+  "doctor elizabeth home killed medicine religious safe sect struhs warned withdrawing years"
  ]
 }
