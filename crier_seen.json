@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMikAFBVV95cUxNOFpoZ25MRHVkM25IWElidjV6R1FQVWkydHlnN1poQXFxamNPR1hMdzgtanpWS01KWjdMRW9FdDhUS1JJaDktemVHeHQ4TVhxV2dickt4SUw3WUxPRF9LVGJhaDRwM2NRSXZ4U21saDVZMXFRcmtoX3ZjbDY5UU85bm1pZ25pSGNQZUt0VnpSZzI",
-  "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o#0",
   "CBMisAFBVV95cUxQeEU4dTJoZV9XeFR4cENDYXhRMG1Tb3E4aHFNc1RoUEpHeVJNYmtnS1RHb0lVdzg5S1BKelZiUkR4eER2bkFZc0tjcWxlRFEyODRlVlRoNlNmblFabUhsZnJwTllqbmd2RUQ5NmI0M0JVc3B3aVkwcmt0SE9vTERyLVhFRzIybV9OMU94QlF6UGdORGhJZldzTUJ6X1F2TjhTRVpLNDZWeVN6WU1hR0ZLRw",
   "CBMiwwFBVV95cUxPRjZkcGxJaUhHbnJZOTd1MUtZS3dRclQ0UG1vRC1fU1RmbGk1OXFTVGhocVBJeVFLOE1GTmlpZGlSbWNxNTdQNEl4Mnl1RkZBZG42d0hBRXRwWURKb1ZDSFdCWFdkcDJMQ2w5ZUtmVVR6WVU4eEp3dkVGR0d3al9hdGVTWkxvWGVtc0M0d3JHaF9OdkhVcnB4N3Nxc2JlX3JMcWZIa2N2c0xyLWRyWVJodlk0alJQLU5URVFuaHZrOXhxRHM",
   "https://nypost.com/?post_type=article&p=40958180",
@@ -799,21 +797,11 @@
   "CBMihgFBVV95cUxQcnp4SzJLZDczcjFGUXVmemxyQS1abFdTbEh1T3NWY3pXVEdHcDdGUG1CRDMyQy1Tcm4xNzNSZTFpaEs4NEhyeUFwc21ubzNiUWdyLVpuUmhWTmFIYWhoLVVuMnM1LXFkamZXMGtXbjRZRW1qSkJ0RTZOTVRBbzdKSlhwcy1JQQ",
   "https://thehill.com/?p=6144357",
   "CBMiqwFBVV95cUxQOUJzWDBxTFE4NlN1aVdfYW5aMU9kS1BXTXdsOGd4WHRnR1BYcHZ0ZVlKSkRhMi1rWDYzSHExOW93R3Y5ejZqVnVCRzVSczJRZ1RtMG90WU5XSHJsaHJYSmdDdDZIdlFUbzd3a0FXTTBQQmJESHNJbl9fUGhQMndHUTlDSkhYZklNUmdjcGJJSHo1bkV3SEZjNjItcVBnX2ttY3NpOEhINmFCZFU",
-  "https://thehill.com/?p=6144234"
+  "https://thehill.com/?p=6144234",
+  "https://nypost.com/?post_type=article&p=41305079",
+  "https://www.theguardian.com/australia-news/2026/oct/13/man-and-woman-charged-after-baby-boy-found-dead-in-adelaide-motel-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "bill governor incentive increasing iowa plant signs steel",
-   "title": "Iowa\u2019s governor signs bill increasing tax incentive cap for a $15B steel plant",
-   "source": "AP",
-   "at": "2026-10-03T04:01:47.626373+00:00"
-  },
-  {
-   "fp": "allows close iran loophole must sanctions skirt trump turkish",
-   "title": "Trump must close this Turkish loophole that allows Iran to skirt sanctions",
-   "source": "New York Post",
-   "at": "2026-10-03T04:01:49.404684+00:00"
-  },
   {
    "fp": "attack crash flydubai pilot used",
    "title": "FlyDubai Co-Pilot Used Crash Ax in Attack, Says U.A.E.",
@@ -3201,11 +3189,21 @@
    "title": "Cooper leads Whatley by at least 7 points in new NC Senate polls",
    "source": "The Hill",
    "at": "2026-10-13T02:30:02.746820+00:00"
+  },
+  {
+   "fp": "arriving aviv bomb delta evacuated flight landing reports threat",
+   "title": "Delta flight arriving from NY evacuated over bomb threat after landing in Tel Aviv: reports",
+   "source": "New York Post",
+   "at": "2026-10-13T07:15:46.827750+00:00"
+  },
+  {
+   "fp": "adelaide baby charged dead found motel woman",
+   "title": "Man and woman charged after baby boy found dead in Adelaide motel",
+   "source": "Guardian World",
+   "at": "2026-10-13T07:15:48.547727+00:00"
   }
  ],
  "titles": [
-  "bill governor incentive increasing iowa plant signs steel",
-  "allows close iran loophole must sanctions skirt trump turkish",
   "attack crash flydubai pilot used",
   "away congress drug head looking olds smuggle year",
   "behind eyes pageantry summit taiwan",
@@ -3603,6 +3601,8 @@
   "ahead dubai exclusive fugitives high partied paxton race senate stakes texas",
   "about absolutely concerned kansas race senate spicer",
   "commentary street wall",
-  "cooper leads least points polls senate whatley"
+  "cooper leads least points polls senate whatley",
+  "arriving aviv bomb delta evacuated flight landing reports threat",
+  "adelaide baby charged dead found motel woman"
  ]
 }
