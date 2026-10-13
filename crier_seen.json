@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40963114",
   "https://www.washingtonexaminer.com/?p=4740049",
   "https://www.washingtonexaminer.com/?p=4739600",
   "https://nypost.com/?post_type=article&p=40966269",
@@ -799,15 +798,10 @@
   "CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB",
   "https://thehill.com/?p=6144742",
   "https://thehill.com/?p=6144973",
-  "CBMiowFBVV95cUxOVTFZem9FbE8zWVhXbUdlVjFiR3dCM1dMUlNmV0RfdVZhbV9scUZxSzhKUG5lRWpJX2w4Q0xUdmREd3FYMVJ2UURXalJlek5WMUxoYzB2NWhidU9iVE9iaGRSYTRXWTlCc19jR3ByU19ZQ01UeEx1N3JfVW1vc0VJSkFuVzFON2RVaTRUeGdscEFwRWJkYl9jSDV3ODh6YVYxMmNv"
+  "CBMiowFBVV95cUxOVTFZem9FbE8zWVhXbUdlVjFiR3dCM1dMUlNmV0RfdVZhbV9scUZxSzhKUG5lRWpJX2w4Q0xUdmREd3FYMVJ2UURXalJlek5WMUxoYzB2NWhidU9iVE9iaGRSYTRXWTlCc19jR3ByU19ZQ01UeEx1N3JfVW1vc0VJSkFuVzFON2RVaTRUeGdscEFwRWJkYl9jSDV3ODh6YVYxMmNv",
+  "https://www.theguardian.com/environment/2026/oct/13/uk-bird-populations-fall-to-lowest-level-on-record"
  ],
  "posts": [
-  {
-   "fp": "about assassin attempted butler leading mysterious printer report sent shooting texts trump",
-   "title": "Trump\u2019s attempted assassin sent mysterious texts about 3D printer leading up to Butler, Pa. shooting: report",
-   "source": "New York Post",
-   "at": "2026-10-03T20:09:41.807356+00:00"
-  },
   {
    "fp": "answers argentina baby dead scientists search wash whales",
    "title": "Scientists search for answers as baby whales wash up dead in Argentina",
@@ -3201,10 +3195,15 @@
    "title": "Kemi has killed Andy Burnham\u2019s hopes of an early election",
    "source": "Telegraph",
    "at": "2026-10-13T15:06:16.199414+00:00"
+  },
+  {
+   "fp": "bird fall level lowest populations record shocking sobering",
+   "title": "\u2018Shocking and sobering\u2019: UK bird populations fall to lowest level on record",
+   "source": "Guardian World",
+   "at": "2026-10-13T18:04:01.545667+00:00"
   }
  ],
  "titles": [
-  "about assassin attempted butler leading mysterious printer report sent shooting texts trump",
   "answers argentina baby dead scientists search wash whales",
   "array commanders gaza islamic jihad kills rocket",
   "decades dengue florida largest outbreak reportedly seen",
@@ -3603,6 +3602,7 @@
   "ahead coalition evacuation facility operation orders sanaa saudi yemen",
   "ambassador asked guilfoyle live post resign trump updates zacharia",
   "asks cortez discussion guilfoyle helps house kimberly live michigan ocasio resign sayed white",
-  "andy burnham early election hopes kemi killed"
+  "andy burnham early election hopes kemi killed",
+  "bird fall level lowest populations record shocking sobering"
  ]
 }
