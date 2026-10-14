@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40975323",
-  "CBMiowFBVV95cUxQU3NPbWZrci1yeGFldXMtZ2hocmpYdXBtbDBOMXl3ckl1dmtJUkR3b2Z5eUxyZnVLX0hvelAzRy1WOTZ3QWFEcmJ1TENmTkhySjdTRlJIX1QyM2RxWEpkNmw3RXBkSkFOUDZ5M1dUdmZ3TU5fbmt2a3Vjc1ZJbTJsbVpSc254QUc5eDdfc3B1RXhjaVA4M0NOSDNCY2dIVWNNSnpv",
-  "CBMitAFBVV95cUxNM3N3SnJPazZRNWFZVTliT2gzUDdrNTFtN3hRSVFnUVNvblNCUXBSSVlsa0tzU3BGNXRrZ1hEd0gzRWlrX1FvLUx4SzBwcS12RHcxRE8tazR4YjZ3UXpsRzJCUXM1LTdQTTlmUHk0R18tWl9hdF8ydnA5ZXNBaENTT3RYU0ktVmduMTBXQ2pKTzAxQkhxT3V5WTc1eE9ZSzFyd2FiTHM0TDZkUjRnZXdsMUpfMmY",
-  "https://thehill.com/?p=6110022",
-  "https://thehill.com/?p=6110184",
-  "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
   "https://nypost.com/?post_type=article&p=40982700",
   "CBMilAFBVV95cUxQMHo1dDBhZkliV3RaZ1lHVUlpaExHakVDZ2xYX1NqNDZGLUJWdGJQd2Qydmtlem42RFF3Q2ltcE03b0NGTmJTRHhmc29XdkV5YjZrSFNCNDVvanprWWJIY2dyVmN6ODdwY3FfZnRuT2FxeWxZZm14RFE2TGprSWVsekI1cWU5WTNYZ2hSdzB4QXR0T09P",
   "https://www.washingtonexaminer.com/?p=4742378",
@@ -799,45 +793,15 @@
   "CBMinwFBVV95cUxOZndZOXVHelR1M3hqMFp1NHAxbl9HTW9QVTRWeWZsOXhNTGRYYUp3VTFhSFdQOTluQjZSc0FoUDU5b3RWWWR1RTJPNGdmcTBJeUZqalozOFhoVTRGVnFOaE1jXzRVQUhINDFqRWVXcmVnbUN1b3d1Q0hfRmJCd1E1WmdvRm9jSEV0dHVTaXlxcTdTaFVYZ3dQcUQza1ZUUW8",
   "https://nypost.com/?post_type=article&p=41322028",
   "https://www.theguardian.com/australia-news/2026/oct/14/family-mourn-jayda-bonner-indigenous-woman-found-dead-melbourne-ntwnfb",
-  "CBMiqAFBVV95cUxQQ2JMbExiVlc5OGtDVXlEZE9DTnJvbjJFN21tR1BvU0lEeFJzOHNOQ00xZG4xRm1OR05qUzJuTVphWXdFMnZyYWhpU25aS0NZcTlUdmRMbmVPTnJ2VjRnZ3dENkNhY0dRQkhWbUJFTnJBb3NDVFZVOE1uVGl3eGVidHI5XzVLSExDTzlpbVVoOE9zcHdDT3hyYVpSSDRqU1RqcUZycFJrUm4"
+  "CBMiqAFBVV95cUxQQ2JMbExiVlc5OGtDVXlEZE9DTnJvbjJFN21tR1BvU0lEeFJzOHNOQ00xZG4xRm1OR05qUzJuTVphWXdFMnZyYWhpU25aS0NZcTlUdmRMbmVPTnJ2VjRnZ3dENkNhY0dRQkhWbUJFTnJBb3NDVFZVOE1uVGl3eGVidHI5XzVLSExDTzlpbVVoOE9zcHdDT3hyYVpSSDRqU1RqcUZycFJrUm4",
+  "CBMiYkFVX3lxTE9UQVRnc2NJcFFMOFl0THZkUkkwbTUyWkY0UEphR2tSMW5ka1JiTG5tQUUxOGZHLXpMR2M2aG1XVklVWndrWWdFVWRWOHhCd1ctVjRhaU83NHRNNVo5Q0pfMFlR",
+  "CBMiswFBVV95cUxQOVFmNjRPY0x5OHc1YTRxX2R5eElnS1dKT1RfdUV5WktMSXFycE5QbG5vRVFDMjVpS195X21EN1puUzE1N0wyZm0xckhnRzZTNnZKcDAwQ3ZvYWx0Q1FLZG5ub09mRW9CNkdGaTd2VTBiTkNicjRLNlZPeU9TSWtDTWtzZ1MzeXNZSm5vUFF2NHZvSXlRSUJEVUVqNUk1WnZQXzBXS2hGQ0xESHNhUGRKOW54MA",
+  "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget",
+  "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
+  "CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw",
+  "CBMimwFBVV95cUxPZlB5V2Jsb0JsWi05WmppSk9JWUZyUFp5ZHBuWjZacTNKTFE2RVNwN2laRTJ2bGgwanpvLUtkSnBYVUEyZmdfeHR4QUVhOTA1NjJETXNGOG1TTzY4WDd0N3ZKbk9MVktyV3gyS0ZORnVzdk9lYkRrNnBKMjNRMW1FTnZUeTl5YThqa1MxYVF6SjYwbjEtRjljbXdybw"
  ],
  "posts": [
-  {
-   "fp": "allegedly bartender birthday deadly down getaway loving shoved stairs turned",
-   "title": "Birthday getaway turned deadly after bartender allegedly shoved \u2018loving mom\u2019 down stairs",
-   "source": "New York Post",
-   "at": "2026-10-04T14:48:23.314355+00:00"
-  },
-  {
-   "fp": "amazon boost center data deal maryland nuclear power scrapping tries",
-   "title": "Amazon Tries to Boost Nuclear Power in Maryland After Scrapping Data Center Deal",
-   "source": "WSJ",
-   "at": "2026-10-04T14:48:25.010857+00:00"
-  },
-  {
-   "fp": "congress dodged paid shutdown still",
-   "title": "Congress dodged a shutdown. You still paid for it",
-   "source": "Washington Examiner",
-   "at": "2026-10-04T14:48:27.034853+00:00"
-  },
-  {
-   "fp": "community deadly explosion house looks mill paper race state washington",
-   "title": "After a deadly paper mill explosion, a community in Washington state looks to a key House race",
-   "source": "Guardian World",
-   "at": "2026-10-04T14:48:28.770269+00:00"
-  },
-  {
-   "fp": "australia climate coal conference criticised embracing hosting turkey",
-   "title": "Australia and Turkey criticised for hosting UN climate conference while embracing coal",
-   "source": "Guardian World",
-   "at": "2026-10-04T15:42:51.589153+00:00"
-  },
-  {
-   "fp": "breakfasts budget chains deals fast five food major offer",
-   "title": "Five fast food chains offer major deals for budget breakfasts",
-   "source": "New York Post",
-   "at": "2026-10-04T16:30:40.390591+00:00"
-  },
   {
    "fp": "asleep chef emerges malibu nobu range rover video",
    "title": "Nobu Malibu chef was asleep in car on PCH when Range Rover hit him as new video emerges",
@@ -3201,15 +3165,45 @@
    "title": "Death toll rises to 6 as Hurricane Simon and Rachel remnants unleash floods in Mexico",
    "source": "AP",
    "at": "2026-10-14T04:58:22.214136+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-10-14T08:25:45.067390+00:00"
+  },
+  {
+   "fp": "european gain indexes luxury related rise stocks",
+   "title": "European Indexes Rise as Luxury, AI-Related Stocks Gain",
+   "source": "WSJ",
+   "at": "2026-10-14T08:25:46.758573+00:00"
+  },
+  {
+   "fp": "budget crackdown healey john marketplaces online targets",
+   "title": "John Healey \u2018targets tax crackdown on online marketplaces\u2019 in first budget",
+   "source": "Guardian World",
+   "at": "2026-10-14T08:25:48.388146+00:00"
+  },
+  {
+   "fp": "coalition deal happened meeting minister trade walked",
+   "title": "Trade minister says Coalition MPs walked out of meeting on EU trade deal \u2013 as it happened",
+   "source": "Guardian World",
+   "at": "2026-10-14T08:25:50.208497+00:00"
+  },
+  {
+   "fp": "aide disrupting limits military missions operations presidential spacex starlink ukraine",
+   "title": "SpaceX limits Starlink operations in Ukraine, disrupting military missions, presidential aide says",
+   "source": "Reuters",
+   "at": "2026-10-14T08:25:51.984685+00:00"
+  },
+  {
+   "fp": "asean manila november summit trump visit",
+   "title": "Trump to visit Manila in November for ASEAN summit",
+   "source": "Reuters",
+   "at": "2026-10-14T08:25:53.729056+00:00"
   }
  ],
  "titles": [
-  "allegedly bartender birthday deadly down getaway loving shoved stairs turned",
-  "amazon boost center data deal maryland nuclear power scrapping tries",
-  "congress dodged paid shutdown still",
-  "community deadly explosion house looks mill paper race state washington",
-  "australia climate coal conference criticised embracing hosting turkey",
-  "breakfasts budget chains deals fast five food major offer",
   "asleep chef emerges malibu nobu range rover video",
   "chief demands election india intensify protests quit",
   "deepens selloff slide stocks treasury",
@@ -3603,6 +3597,12 @@
   "alaska close heading just race senate sign trump",
   "attack bass brutally debate exposed final karen lead moderators nithya raman",
   "beautiful dead family found girl indigenous melbourne mourn vibrant woman young",
-  "death floods hurricane mexico rachel remnants rises simon toll unleash"
+  "death floods hurricane mexico rachel remnants rises simon toll unleash",
+  "edition journal print street wall",
+  "european gain indexes luxury related rise stocks",
+  "budget crackdown healey john marketplaces online targets",
+  "coalition deal happened meeting minister trade walked",
+  "aide disrupting limits military missions operations presidential spacex starlink ukraine",
+  "asean manila november summit trump visit"
  ]
 }
