@@ -1203,18 +1203,18 @@
    "message_id": "1559794728348950600",
    "event": "Flood Warning",
    "area": "Harper, KS; Sumner, KS",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-10-14T05:07:22+00:00",
-   "expired_at": null
+   "expired_at": "2026-10-14T10:12:49+00:00"
   },
   {
    "id": "urn:oid:2.49.0.1.840.0.cb587d40e03269ed6e2b4a56d57dfd82e49308d4.001.1",
    "message_id": "1559794735831318619",
    "event": "Flood Warning",
    "area": "Sedgwick, KS; Sumner, KS",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-10-14T05:07:24+00:00",
-   "expired_at": null
+   "expired_at": "2026-10-14T10:12:51+00:00"
   }
  ]
 }
