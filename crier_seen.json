@@ -1,9 +1,5 @@
 {
  "ids": [
-  "CBMiswFBVV95cUxORVpYNWQxeFFCcXEzQTZQdkM1LTJpVWc2RHpwOWtxbzV0OHg2aE12UGV1Y2VOQUN4WHdvOVB4YzBGT0ltckk5d0hDZGZUVXk3YWs0WnA5R2xjNmNBbkhHRzNra2pIQVlLa1pNQ29OV1QxQVdSTWJnaWZEYkVaaXJXa3d4cHVvV1o5VGlpWFRjUG9HVTFoMWw4TFZwNlI4aHJwQjU0UVRuZzJISFp0ZU9YQUw4VQ",
-  "https://nypost.com/?post_type=article&p=40991093",
-  "https://nypost.com/?post_type=article&p=40992545",
-  "https://thehill.com/?p=6112342",
   "CBMimAFBVV95cUxOS2g5SEdmb21zU080SVhXaVRfd2FrV3NUMk1aN2NfU2lLM2dyUHVObV85c1Q1MkF3YUZFaWZPeTNlSlBhdDFTa21MRFhncUdkUGVpVENrUGt1UHhTWk80dkIyMk9Vd1d3TlVYZUdIazMycnhialg5VGVUdVY4QXJVbzFiWXpnTGhuUHF0ZU1VSjIwQnhsajFuSw",
   "CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI",
   "https://thehill.com/?p=6111974",
@@ -799,33 +795,13 @@
   "CBMitAFBVV95cUxQWDg0c0hqOWpocm5NRkdFQUVhdHlsbUFoTDloRFFRdW12ZUhwQzRRRGFYZXhRQUQ5WFoyMm93Q0tJd2JkbWpQR3JDZVM4Q3MzdWhXTzhkWTJDUm0wZlZSSGg2WWhVdWtEaXNVanNPNElNMjFpc2J4dnl2cTMzejFPUWp2c1pvN29sQW4zSk5OSjBYSF80MEhTd2xXa1RaSmpqQlhpS0J6QUFqeVZncXo2azFMQ2Y",
   "https://www.theguardian.com/us-news/2026/oct/14/jellyfish-cloud-spacex-rocket-launch",
   "CBMitAFBVV95cUxQZDh1RnYtQmd3b0ZLYjh6dVd0cllieVhyUkpCbHB3SjdLMFc0N3FKOFVDbm1ISVhGNVVnY3ktVUVxcmszWjZacjJ5TkNLWVkyOHJpQTUzaEg5M0RsdXBvRXBqaWlWVFdHSU8wSGRWdi1kMkVmaGZjSVVEZWIzQnI3U21vTHBzS3VzRE5qckVzOVg4NXcwR1JpTDMyT083cTRYb1NWWWFIY1ZUd3h6MklfamVTNEw",
-  "https://thehill.com/?p=6148426"
+  "https://thehill.com/?p=6148426",
+  "https://nypost.com/?post_type=article&p=41336173",
+  "https://nypost.com/?post_type=article&p=41336198",
+  "https://www.theguardian.com/us-news/2026/oct/14/great-wolf-lodge-woman-allegedly-kills-husband-son",
+  "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o#0"
  ],
  "posts": [
-  {
-   "fp": "bets dollar hike recede stocks upbeat wobbles",
-   "title": "Stocks upbeat, dollar wobbles as Fed hike bets recede",
-   "source": "Reuters",
-   "at": "2026-10-05T04:21:14.470448+00:00"
-  },
-  {
-   "fp": "border guards indian kill pakistan raising tensions",
-   "title": "Indian border guards kill 2 on border with Pakistan, raising tensions",
-   "source": "AP",
-   "at": "2026-10-05T06:09:40.008884+00:00"
-  },
-  {
-   "fp": "bolsonaro brazil election jumps leads real round",
-   "title": "Brazil's real jumps after Bolsonaro leads election first round",
-   "source": "Reuters",
-   "at": "2026-10-05T13:45:21.937084+00:00"
-  },
-  {
-   "fp": "brain german light medicine nobel prize scientists work",
-   "title": "German and US scientists win Nobel medicine prize for work on light and brain",
-   "source": "Reuters",
-   "at": "2026-10-05T13:45:23.801981+00:00"
-  },
   {
    "fp": "afford congress main miss street swing",
    "title": "Main Street can\u2019t afford a swing and a miss from a new Congress",
@@ -3201,13 +3177,33 @@
    "title": "Appeals court rules California can't require ICE to show visible ID",
    "source": "The Hill",
    "at": "2026-10-14T19:11:36.621395+00:00"
+  },
+  {
+   "fp": "autism dead found highway investigating jumped police queens",
+   "title": "Man with autism found dead in Queens, police investigating mom after she jumped from highway",
+   "source": "New York Post",
+   "at": "2026-10-14T22:18:59.095869+00:00"
+  },
+  {
+   "fp": "another asked attack bros cheered college elite frat party rape reported turn witness",
+   "title": "Rape reported at another elite college\u2019s frat party \u2014 as bros cheered on attack, asked \u2018when\u2019s my turn\u2019: witness",
+   "source": "New York Post",
+   "at": "2026-10-14T22:19:00.804924+00:00"
+  },
+  {
+   "fp": "allegedly attempting husband kills pennsylvania resort suicide woman",
+   "title": "Pennsylvania woman allegedly kills husband and son before attempting suicide at resort",
+   "source": "Guardian World",
+   "at": "2026-10-14T22:19:02.634084+00:00"
+  },
+  {
+   "fp": "attack buildings government protesters student tirana",
+   "title": "Student protesters attack government buildings in Tirana",
+   "source": "BBC World",
+   "at": "2026-10-14T22:19:04.398360+00:00"
   }
  ],
  "titles": [
-  "bets dollar hike recede stocks upbeat wobbles",
-  "border guards indian kill pakistan raising tensions",
-  "bolsonaro brazil election jumps leads real round",
-  "brain german light medicine nobel prize scientists work",
   "afford congress main miss street swing",
   "bomb clock congress time trillion vote",
   "drops election euro fiscal french month snap spanish strain weigh",
@@ -3603,6 +3599,10 @@
   "lower shares slump stocks tech turn",
   "causes cloud coast east jellyfish launch rocket spacex stunning visible",
   "adopt banks both finance fronts mount risks street wall",
-  "appeals california court require rules show visible"
+  "appeals california court require rules show visible",
+  "autism dead found highway investigating jumped police queens",
+  "another asked attack bros cheered college elite frat party rape reported turn witness",
+  "allegedly attempting husband kills pennsylvania resort suicide woman",
+  "attack buildings government protesters student tirana"
  ]
 }
