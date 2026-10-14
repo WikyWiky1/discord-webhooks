@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=40982700",
-  "CBMilAFBVV95cUxQMHo1dDBhZkliV3RaZ1lHVUlpaExHakVDZ2xYX1NqNDZGLUJWdGJQd2Qydmtlem42RFF3Q2ltcE03b0NGTmJTRHhmc29XdkV5YjZrSFNCNDVvanprWWJIY2dyVmN6ODdwY3FfZnRuT2FxeWxZZm14RFE2TGprSWVsekI1cWU5WTNYZ2hSdzB4QXR0T09P",
-  "https://www.washingtonexaminer.com/?p=4742378",
-  "https://pagesix.com/?post_type=article&p=9199578",
-  "https://www.theguardian.com/australia-news/2026/sep/25/nsw-police-officer-killed-car-crash-redfern-sydney-ntwnfb",
-  "https://www.theguardian.com/us-news/2026/sep/24/new-jersey-lieutenant-governor-ethics-investigation",
   "https://thehill.com/?p=6110805",
   "CBMilgFBVV95cUxPZFlWeTB6bUhfUVdmQmNadWhFY2g4OXk4NmxHTWFYWXUyT1MzYUtOdk0zSE5fRWlocERKOGJLSW51dTFTa3R0Mmdnem9XWDZVVnNPejZ6SjRkek93Vy10dzRXeFZuMEVsb1Bwak1zLV9fbjQ5dnB6NDJ3bE84MWJ3bnBoZlNBazA2TlZ6dDhqVkFFNGczN3c",
   "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
@@ -799,39 +793,15 @@
   "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget",
   "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
   "CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw",
-  "CBMimwFBVV95cUxPZlB5V2Jsb0JsWi05WmppSk9JWUZyUFp5ZHBuWjZacTNKTFE2RVNwN2laRTJ2bGgwanpvLUtkSnBYVUEyZmdfeHR4QUVhOTA1NjJETXNGOG1TTzY4WDd0N3ZKbk9MVktyV3gyS0ZORnVzdk9lYkRrNnBKMjNRMW1FTnZUeTl5YThqa1MxYVF6SjYwbjEtRjljbXdybw"
+  "CBMimwFBVV95cUxPZlB5V2Jsb0JsWi05WmppSk9JWUZyUFp5ZHBuWjZacTNKTFE2RVNwN2laRTJ2bGgwanpvLUtkSnBYVUEyZmdfeHR4QUVhOTA1NjJETXNGOG1TTzY4WDd0N3ZKbk9MVktyV3gyS0ZORnVzdk9lYkRrNnBKMjNRMW1FTnZUeTl5YThqa1MxYVF6SjYwbjEtRjljbXdybw",
+  "CBMiugFBVV95cUxNQmlFV0JYa1dHTUVUclFkNUhadTZmVW9Jc2JiclI5TnI4SDlHN0c5SU5ucG90dW82cXFwM2VFZHJ3Y2JXQjBNcV9pdTI1VVRhZUcxT2ZYaUF4S2VvTDgyRS1Wd2pGRnFXbTllVnRQemlpOTNaY2I2aVktLVJTYmlHWHkycldMVVJTMW1fUWxNeGJtWU1zWVVxYThJTzN0cVdBRWZHVC1kMWFSek5Bd1ZWWlRQeFVlanNSZEE",
+  "https://news.sky.com/story/one-man-dead-and-two-missing-after-fishing-vessel-goes-missing-off-scotland-13599156",
+  "https://nypost.com/?post_type=article&p=41324011",
+  "CBMizAFBVV95cUxPbWNJbU8xUXFUUnBwakxUbEtfTURTWFlZd2xIdVJoU3RkUW1aTTBYN0ZIVmozQ2lfUVBVd2IzYlJPQnJpWDZEcGo0REpSbms1LV9pS2doZzBwdlR2cm0wOEpMZkp0NUlTS1hpN2k2akFhek1FWW8xYkYzZzNZZmloOGFjcVFmbG9yd25VVHJiZThPcThEaTJsNjBxSXE5SV9mUFBkZ3E0NHlmSEU0RHZnU3hhRWN0NXZFTEliUVRxYXlNSjJFZzlDQkROSlM",
+  "CBMiwgFBVV95cUxQbGsxSDRHRS1oVkExejZCTUlWU29GbGVZMDIxRUkyRkY0Y2Z2MFR0cGN2alpxeWZwNmFJN1V2STlsZktGZTJNQS1EZ0J3OV9aTHdkMFB5ckFDcVp3YXl4WXJMa3NzNXBQRWtDNHpMSzVOaWN0MGNzRG0wdlhoMVBJODRSVDFRMlVaY2REQzFTODE3MEhrNXdiUFEwWWItXzF5RXJWMkhjNXRNbUdyZEl4U0NKRDJCSWdkckFTTFhrQmxSdw",
+  "https://nypost.com/?post_type=article&p=41323866"
  ],
  "posts": [
-  {
-   "fp": "asleep chef emerges malibu nobu range rover video",
-   "title": "Nobu Malibu chef was asleep in car on PCH when Range Rover hit him as new video emerges",
-   "source": "New York Post",
-   "at": "2026-10-04T16:30:42.127503+00:00"
-  },
-  {
-   "fp": "chief demands election india intensify protests quit",
-   "title": "Protests intensify in India over demands for election chief to quit",
-   "source": "Reuters",
-   "at": "2026-10-04T16:30:43.897699+00:00"
-  },
-  {
-   "fp": "deepens selloff slide stocks treasury",
-   "title": "U.S. Stocks Slide as Treasury Selloff Deepens",
-   "source": "WSJ",
-   "at": "2026-10-04T16:30:45.722783+00:00"
-  },
-  {
-   "fp": "2028 connections election eyes flexing maha vance",
-   "title": "JD Vance flexing Maha connections as he eyes 2028 election",
-   "source": "Guardian World",
-   "at": "2026-10-04T16:30:48.384546+00:00"
-  },
-  {
-   "fp": "america brazil decisive election future goes latin polls",
-   "title": "Brazil goes to polls in decisive election for future of Latin America",
-   "source": "Guardian World",
-   "at": "2026-10-04T16:30:50.106277+00:00"
-  },
   {
    "fp": "dozens georgia homecoming hospitalized killed mass party shooting",
    "title": "Two killed, dozens hospitalized in mass shooting at homecoming party in Georgia",
@@ -3167,12 +3137,6 @@
    "at": "2026-10-14T04:58:22.214136+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-10-14T08:25:45.067390+00:00"
-  },
-  {
    "fp": "european gain indexes luxury related rise stocks",
    "title": "European Indexes Rise as Luxury, AI-Related Stocks Gain",
    "source": "WSJ",
@@ -3201,14 +3165,45 @@
    "title": "Trump to visit Manila in November for ASEAN summit",
    "source": "Reuters",
    "at": "2026-10-14T08:25:53.729056+00:00"
+  },
+  {
+   "fp": "alliance attack commander lays nato plan russian thwart",
+   "title": "NATO\u2019s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance",
+   "source": "WSJ",
+   "at": "2026-10-14T09:57:02.286981+00:00"
+  },
+  {
+   "fp": "dead disappears fishing missing scotland vessel",
+   "title": "One dead and two missing after fishing vessel disappears off Scotland",
+   "source": "Sky News",
+   "at": "2026-10-14T09:57:04.192137+00:00"
+  },
+  {
+   "fp": "continues death florida hurricane isaias recovery rises storm toll",
+   "title": "Hurricane Isaias death toll rises to 6 in Florida as storm recovery continues",
+   "source": "New York Post",
+   "at": "2026-10-14T09:57:06.663022+00:00"
+  },
+  {
+   "fp": "east haze indonesia intensifies pollution schools shuts singapore spikes timor wildfire",
+   "title": "Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies",
+   "source": "Reuters",
+   "at": "2026-10-14T09:57:08.359164+00:00"
+  },
+  {
+   "fp": "attack family footage posts sharing tiger trump urges victim video",
+   "title": "Family of UK tiger attack victim urges end to video sharing after Trump posts footage",
+   "source": "Reuters",
+   "at": "2026-10-14T09:57:10.097449+00:00"
+  },
+  {
+   "fp": "accuses chasing cook court docs gunman having ihop indiana knife wife",
+   "title": "Indiana gunman accuses IHOP cook of having sex with his wife before chasing him with knife: court docs",
+   "source": "New York Post",
+   "at": "2026-10-14T09:57:11.873666+00:00"
   }
  ],
  "titles": [
-  "asleep chef emerges malibu nobu range rover video",
-  "chief demands election india intensify protests quit",
-  "deepens selloff slide stocks treasury",
-  "2028 connections election eyes flexing maha vance",
-  "america brazil decisive election future goes latin polls",
   "dozens georgia homecoming hospitalized killed mass party shooting",
   "battered coast hurricane nolo ocean pacific polo strengthens west",
   "iran media minister resigns state",
@@ -3598,11 +3593,16 @@
   "attack bass brutally debate exposed final karen lead moderators nithya raman",
   "beautiful dead family found girl indigenous melbourne mourn vibrant woman young",
   "death floods hurricane mexico rachel remnants rises simon toll unleash",
-  "edition journal print street wall",
   "european gain indexes luxury related rise stocks",
   "budget crackdown healey john marketplaces online targets",
   "coalition deal happened meeting minister trade walked",
   "aide disrupting limits military missions operations presidential spacex starlink ukraine",
-  "asean manila november summit trump visit"
+  "asean manila november summit trump visit",
+  "alliance attack commander lays nato plan russian thwart",
+  "dead disappears fishing missing scotland vessel",
+  "continues death florida hurricane isaias recovery rises storm toll",
+  "east haze indonesia intensifies pollution schools shuts singapore spikes timor wildfire",
+  "attack family footage posts sharing tiger trump urges victim video",
+  "accuses chasing cook court docs gunman having ihop indiana knife wife"
  ]
 }
