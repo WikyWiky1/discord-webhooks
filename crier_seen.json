@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/politics/2026/sep/25/no-snap-election-before-2029-andy-burnham-says",
   "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
   "CBMirAFBVV95cUxOdG1xeG9acEk4NUpWTjBZRjg1X3VFZVVkcDkwSC01ek5JNVpPU0QwQi13U3Y2Uzg4SlNhc284Mm9HWlRkSVU3cDVkcEdLWF9HZEhOUkRRUVlCVWhGd0pVNmhfUHA1c1B5TVdJc0FCYnRVeUdES1pqWEYzSHdoZGJaNmxRalhVSS05S0I1ZThnT2piSUp5T2lQSGRlREw0eTV5Z2N4a0p6TFdTT1hU",
   "CBMimAFBVV95cUxPWjVMWGxIVERFQ09mRmQwcTdoRU1WdElNQmp0T1p6N1RnZUZtemVhY1NVeFhYcTc4akplOENha0RkalMyUEtrZGVENmRmVFdReDdubHFVbFRoWjBhc2R4VGdCZjh5RVhra2dUZ3VIeXpsb2VPbzVOZ0pMTFBWSXdZNFV6akszS3c2MWFjY096Sjk0a1VaZVNIUA",
@@ -799,15 +798,10 @@
   "CBMiowFBVV95cUxQYlNheVdFZk5KM25CV0NxS0tHbG81dGlSTTRZaVNLbkNiQklzNmV5d0s5M2NtTlBlSTIzTk5DbXFBME5USFNYS21ZYUxpeVhuUXpkZ2hCVVVITFZ1Q2ZJOWZsWlVkWVdSX3k4Qm5vNkl4MjhGWXp0NXVIcnNHc1c5S0VwU2Q5V29FcmF1NWh1a0hZa0FycXdvRVd3Q0I2VU9sS3NB",
   "CBMiygFBVV95cUxNZzlrRVp3SjY0Qjc1ejhzdHcxQWFQejJLS2hfZzJocWhnV3AtUi1OM1NGX2s2b0NjQkV4NnpYZUxTOGJTRVBlSEM2blAzMXRhbjNydFRjVnYyNGM4a25waTR1aGVTVWt1MXlKOURybDlzS0kxQXVrbUNlQTlRN3lxa3YxMEZ5djByOUhzTlg4MUZUYTRMT1V6MzBYODY3d2FhSk5zRkxMdWpocU1KYTV0TUVLMUtHcWZHbkJWVHVHc2NIRGFwQ1F2c0x3",
   "CBMirAFBVV95cUxOSWRmRG9DZUlZX3NNS19fcHRySUhIMlZadTN2YjVTdkdOQl9NT0lhSmJtdHM3ai1xMU9oQU1PVVRtMmdVbEFndlVWSXFJX2Y5RVEyRXlTQTFJclFBSHN3eVo2NlpMSlNrOWZfZ2hLR0VKZms1enQ1VjdicVdsN1R1RFVDVkJMLW5tQmUtbGpUN1JMMG5YWDNQSG9GVURLVmVZOVlzOFF1elAxR0w0",
-  "https://thehill.com/?p=6146203"
+  "https://thehill.com/?p=6146203",
+  "CBMiygFBVV95cUxPb3hwbGNIcVZMVVFNQlIzMFdpamdXN3diVWJoUTNfbkhJT05Od1RHT2t4eGN6OTktZHZIS1ZtMjR0YWU1Q0Z1WTJBa01vVGJyUVBiUnN4MER0bk92NDR6UFVfMF9xOG9RRUY4M2dwdUl4UWJZOGVXbmJvYUNrVmE4bXU0Y0hXOTJSaXJHX1R6XzNNRzN1cXBOY240ZkFFYjVnNmpuQzZBRVpkQTNMUnJDOGtFQUhpbU42RXFJYS1IeVVLaVNyWDcxc2NR"
  ],
  "posts": [
-  {
-   "fp": "blitz frets midterm nebraska race senate state takes trump",
-   "title": "Trump takes red state midterm blitz to Nebraska as GOP frets over Senate race",
-   "source": "The Hill",
-   "at": "2026-10-04T23:50:34.677587+00:00"
-  },
   {
    "fp": "black champion community congress faces future louisiana redistricting without",
    "title": "A Black community in Louisiana faces a future without a champion in Congress after redistricting",
@@ -3201,10 +3195,15 @@
    "title": "Trump's authoritarian raid on Ilhan Omar is an attack on the rule of law",
    "source": "The Hill",
    "at": "2026-10-14T14:53:08.205766+00:00"
+  },
+  {
+   "fp": "bets billion funding infrastructure record report secure shows space startups surge",
+   "title": "Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows",
+   "source": "Reuters",
+   "at": "2026-10-14T15:45:25.467044+00:00"
   }
  ],
  "titles": [
-  "blitz frets midterm nebraska race senate state takes trump",
   "black champion community congress faces future louisiana redistricting without",
   "block dozens georgia injures kills party shooting",
   "californians giants heatwave hits issue power scorching urgent warning",
@@ -3603,6 +3602,7 @@
   "ambitions attack centre data drones russia ukrainian",
   "aramco attack hormuz prices report rise risks saudi shipping traders weigh",
   "ceasefire despite energy keeps push russia sites striking trump ukraine zelenskyy",
-  "attack authoritarian ilhan omar raid rule trump"
+  "attack authoritarian ilhan omar raid rule trump",
+  "bets billion funding infrastructure record report secure shows space startups surge"
  ]
 }
