@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMimAFBVV95cUxOS2g5SEdmb21zU080SVhXaVRfd2FrV3NUMk1aN2NfU2lLM2dyUHVObV85c1Q1MkF3YUZFaWZPeTNlSlBhdDFTa21MRFhncUdkUGVpVENrUGt1UHhTWk80dkIyMk9Vd1d3TlVYZUdIazMycnhialg5VGVUdVY4QXJVbzFiWXpnTGhuUHF0ZU1VSjIwQnhsajFuSw",
-  "CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI",
-  "https://thehill.com/?p=6111974",
   "https://nypost.com/?post_type=article&p=40993726",
   "https://www.washingtonexaminer.com/?p=4743501",
   "https://nypost.com/?post_type=article&p=40933200",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=41336173",
   "https://nypost.com/?post_type=article&p=41336198",
   "https://www.theguardian.com/us-news/2026/oct/14/great-wolf-lodge-woman-allegedly-kills-husband-son",
-  "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o#0"
+  "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o#0",
+  "https://nypost.com/?post_type=article&p=41338354",
+  "CBMisAFBVV95cUxPQVEyQ0hiX29iYjlBTHpCYl9kd1BBRWpCZmpFQzU5NTVtYU5UVGRVZDNPUTdLRTZTMExsa1o3bFYtQW1jRW5HS000MmZWVjhlckNmbUR6clhDTTQ5aGdnUnJreVJHbmVfbjRTX0M4WVBrUi0wNzVLdmIzQUVEX2lIc21kdDM0ajhFTVlpOW1tWFlzVXlMQlJ2WnJQd2xDUXZiNk9PSFhlSnllVE1FakdFRg",
+  "CBMioAFBVV95cUxQamtya0FZUkVIMEc2RS1pWU1tSmtOUlhvQXdEeVR0YTNEektDdVBHVmtqRmtIZlZUVC1vREFBUFRIcTJ4X0tNZDJYczhUUzl0ajUtNDVVcm1lMEl1a01aQVRiMndtZUlQNUdWRHRYWjk3Z2hvZlJsaWE0ckcwcWlNck9HUmxMcUNZSnE0WW1vbXNseDlJeVlCM294SHNXX1Yx"
  ],
  "posts": [
-  {
-   "fp": "afford congress main miss street swing",
-   "title": "Main Street can\u2019t afford a swing and a miss from a new Congress",
-   "source": "Washington Examiner",
-   "at": "2026-10-05T13:45:25.554539+00:00"
-  },
-  {
-   "fp": "bomb clock congress time trillion vote",
-   "title": "The $2 trillion time bomb: Congress can\u2019t out-vote the clock",
-   "source": "Washington Examiner",
-   "at": "2026-10-05T13:45:27.283582+00:00"
-  },
-  {
-   "fp": "drops election euro fiscal french month snap spanish strain weigh",
-   "title": "Euro Drops to 16-Month Low as French Fiscal Strain, Spanish Snap Election Weigh",
-   "source": "WSJ",
-   "at": "2026-10-05T13:45:28.992252+00:00"
-  },
   {
    "fp": "about cotton hole number posting republican seconds senate trump zero",
    "title": "Senate Republican on Trump posting Cotton's number: 'From zero to a--hole in about 3 seconds'",
@@ -3201,12 +3183,27 @@
    "title": "Student protesters attack government buildings in Tirana",
    "source": "BBC World",
    "at": "2026-10-14T22:19:04.398360+00:00"
+  },
+  {
+   "fp": "back calls changing college congress court dems electoral harris kamala packing supreme take",
+   "title": "Kamala Harris calls for packing Supreme Court, \u2018changing\u2019 Electoral College if Dems take back congress",
+   "source": "New York Post",
+   "at": "2026-10-14T23:43:16.973659+00:00"
+  },
+  {
+   "fp": "explainer military spacex starlink starshield version",
+   "title": "Explainer: What is Starshield, SpaceX's military version of Starlink?",
+   "source": "Reuters",
+   "at": "2026-10-14T23:43:18.729620+00:00"
+  },
+  {
+   "fp": "bets booming election inside market midterm",
+   "title": "Inside the booming market for US midterm election bets",
+   "source": "Reuters",
+   "at": "2026-10-14T23:43:20.539986+00:00"
   }
  ],
  "titles": [
-  "afford congress main miss street swing",
-  "bomb clock congress time trillion vote",
-  "drops election euro fiscal french month snap spanish strain weigh",
   "about cotton hole number posting republican seconds senate trump zero",
   "alarm cause focus outbreak plague pneumonic reported rubio russian",
   "crucial derailed durzi embracing injuries mammoth rangers role sean tenure",
@@ -3603,6 +3600,9 @@
   "autism dead found highway investigating jumped police queens",
   "another asked attack bros cheered college elite frat party rape reported turn witness",
   "allegedly attempting husband kills pennsylvania resort suicide woman",
-  "attack buildings government protesters student tirana"
+  "attack buildings government protesters student tirana",
+  "back calls changing college congress court dems electoral harris kamala packing supreme take",
+  "explainer military spacex starlink starshield version",
+  "bets booming election inside market midterm"
  ]
 }
