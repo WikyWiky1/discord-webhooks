@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiqwFBVV95cUxQV2VpYXF0ZEV6dllNZzA4dnNzZ08zaVo1ckJFdHVGUG9YX2VFTGU4dzZ1c0dJTVpsSWVNRjN0eHZXdXoxWjVMcXdMa281TjBIeXZVRnJ6ZzlCTGhuSmx2ekNmWjhiNTlRWE9QN29NYWRqbE1ydWl0TUpWQ0pEcEtaZ3A2YmFxSzJNZWQyLTk5bkZNdHhQN1BIWFhpVklZSlhfTXBuaWZrcFMwZnc",
   "CBMixwFBVV95cUxPcy10ZFE2SGc4eGtIcnVnWUNmQ0I3YTZJc3RwX21XNV9BOUpoVFBILURqSy1PRUNxeEtmVWZSRnFDYXBCbHVCdzRKZU9CdHg2bW5qaVhTY0lqTzhDTE0ySlZqaDJnbS1jSlF5aXE1ZzNCdFhUV0xheFY1dV9zLUNJVHZQdXNZcndoV3ZJYmY2SjBSdlJXQUhIeEhJYVJTS2Y2OGt5bXE4cEFBMUdfaDRvRDg0ZzZjMHFaLVB4MDVBLWpZNTFLa29V",
   "https://www.theguardian.com/politics/2026/sep/26/angela-rayner-care-worker-visa-reforms-labour-conference",
   "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino",
@@ -799,15 +798,10 @@
   "CBMirwFBVV95cUxNMzFfQ2pjUjd1eUVySlhZZlFrZHNJaWdTako1Qmp0UWZuUFhxSHBhVEdNeXVJWGZvR1k1Nm1vdlBtVnFUZm1PNHRHUm8ySHdySFY0T3hMX2dwVnhRNXBMT3NEeTQtTlRfNVMtbURneUNhRmRibU9vRjE0MGQwZl9DZV85UERLTGpJZFdqZTI2SUYwRjJQZmU4a0E3NXo1Y2F1c1Utc0NfNzFZSFVOYk1R",
   "https://nypost.com/?post_type=article&p=41344782",
   "https://pagesix.com/?post_type=article&p=9243809",
-  "CBMiogFBVV95cUxOYzR2R3ctV19YUFlJRy1QM3RoT0wyV2d1dTlfZHVEanNDcDFJMzZjM2Zyck45b3NMTktPWVVLYl9NUFBmZmRYRGw5YnI0Z3RLbDQ5MVZKck1PNF8yRTAtdlhFUWF5N0R5Z1psX0ZGN2k5ZUZ0RjFtWU9Sblg0MTZmbGxkcjFUeHlHdDd3em44UlY3cGRuUmdjOUtJQmstNFVCX3c"
+  "CBMiogFBVV95cUxOYzR2R3ctV19YUFlJRy1QM3RoT0wyV2d1dTlfZHVEanNDcDFJMzZjM2Zyck45b3NMTktPWVVLYl9NUFBmZmRYRGw5YnI0Z3RLbDQ5MVZKck1PNF8yRTAtdlhFUWF5N0R5Z1psX0ZGN2k5ZUZ0RjFtWU9Sblg0MTZmbGxkcjFUeHlHdDd3em44UlY3cGRuUmdjOUtJQmstNFVCX3c",
+  "CBMiowFBVV95cUxPZlRmQVpQVHVNMDZxcHRENjNUVDllTWxDOVU2bjRoYzh4T0ZONnZiQXhyeWRsMTIwYTdUcVN5TzNrUy1ac1dudmVZVnQxUnhPbURQSnp6eDRiUjNPbTF1aEFnbXNrTW9mTm1IaS1tQS13UldpSkZjRDNKMm15SkRtdjVXbEM1UEVfWF90czZpNS1RZGo3MUV2b2FPUDNYOEpXNlRj"
  ],
  "posts": [
-  {
-   "fp": "border duty gets illegal immigrant robbery shooting years",
-   "title": "Illegal immigrant gets 15 years for shooting off-duty border cop in NYC robbery",
-   "source": "New York Post",
-   "at": "2026-10-06T02:00:11.435438+00:00"
-  },
   {
    "fp": "adding canada election party projected quebec separatist test unity",
    "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
@@ -3201,10 +3195,15 @@
    "title": "Albania's leader defies calls to resign as student protesters rampage in capital",
    "source": "Reuters",
    "at": "2026-10-15T14:44:43.974298+00:00"
+  },
+  {
+   "fp": "force iran showed space used venezuela weapons",
+   "title": "The Space Force Showed Us Its Weapons Used in Iran and Venezuela",
+   "source": "WSJ",
+   "at": "2026-10-15T15:32:23.523742+00:00"
   }
  ],
  "titles": [
-  "border duty gets illegal immigrant robbery shooting years",
   "adding canada election party projected quebec separatist test unity",
   "asian decade higher highs multi near shares street track treasury wall yields",
   "blockbuster chilly debates derail markets point safety season september street wall",
@@ -3603,6 +3602,7 @@
   "bank bond court illegal india lawyer million rules supreme write",
   "angeles apartment breaks complex evacuations fire huge mass underway",
   "actor anna breaking gunn late mitte shares star touching tribute",
-  "albania calls capital defies leader protesters rampage resign student"
+  "albania calls capital defies leader protesters rampage resign student",
+  "force iran showed space used venezuela weapons"
  ]
 }
