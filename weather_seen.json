@@ -1248,8 +1248,17 @@
    "message_id": "1560162375892607097",
    "event": "Flood Warning",
    "area": "Cowley, KS; Sumner, KS",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-10-15T05:28:16+00:00",
+   "expired_at": "2026-10-15T10:15:14+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.f8cb7e023f7ad66244e64d9b8f777ac01d548324.001.1",
+   "message_id": "1560234582320750634",
+   "event": "Flood Warning",
+   "area": "Cowley, KS; Sumner, KS",
+   "expired": false,
+   "posted_at": "2026-10-15T10:15:12+00:00",
    "expired_at": null
   }
  ]
