@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41006836",
-  "CBMirwFBVV95cUxPaFZLLS1lQkt1U3JMNWZERThzMVRwek5zNWhJTk5YTU1SWWJmTFBsREdXTnRwSVl6WklrMklFd2o4LWlwM2lmWmtuRDZ5Wk1jNVVUQUZrOGdaRnZhU0JGT0pxYnRUMzh1SjVka3hzZjl4dVJKNWFYUjlndzhxOGJEOUt1QjU5T0lNZm1NN1NxNlVmNnR3ME1kdlBDRVU0WjVld3JEdHBBdjA5SGNldXhZ",
-  "CBMiiAFBVV95cUxPaFVfUjJkdUtyOVZ6SGkyOWVzYnNZLXJ3bXpScGNjVTZ2Tm9mTzY5ZU9ZQTBuS2VlNzFKbm9tRmtSSFZsQXZ2djkzNjgzVHd4TUVFQjg1ZFpzdWozdUprZi1QSjJaVEEyLUFvdUZmZTAwT2J5eHl2SlVvRHFnQXJ4Q2JGZndCLUxo",
-  "https://nypost.com/?post_type=article&p=41007210",
-  "CBMiNkFVX3lxTE5jYTZQNEFYbnZ6VjBFc1hGMF9WeGNwT08wOHRFRFQwa2dHeEY4NUd2UVhXZU1uQQ",
   "https://thehill.com/?p=6112624",
   "https://www.washingtonexaminer.com/?p=4744297",
   "https://thehill.com/?p=6113414",
@@ -799,39 +794,14 @@
   "CBMivgFBVV95cUxNQkNiUlNXdnRrOERCOFFKUF9WYzd5d2F5UVdLeHpUWWhyMHVkZmJXb3dydnVYNW1Ja0NUWG5TclBNc09GLVVuLVFZcDFLbGF4S2xjN2ZGVHJjUF80NkxtV1VCSTctS1Bmal94OVh3ZktsZ1VkWkRDLTJiQkFneDVGRjh1UlJ5M01ubmRyUVI0M3IySlJ4VV9GUkdmYUFIZnpySTVubUhzMmZXVkltT2dQM3M0Y2VCb0FtejFrVzdB",
   "https://www.theguardian.com/us-news/2026/oct/15/wildfire-california-high-temperatures-strong-winds",
   "https://thehill.com/?p=6152383",
-  "https://nypost.com/?post_type=article&p=41354751"
+  "https://nypost.com/?post_type=article&p=41354751",
+  "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o#2",
+  "CBMisgFBVV95cUxPRWNocUdlZHdZdEpFWmotSFNZbTd5cWVveGxXYnh6WFNBaUNlUDhKdnE0c1VVZWdpYkVDazJxeUdRSXBKSW9SUm5qc2gyRDhpdS1jTkxidGNXSmFfajdGeV9ERUQxMnUtYl9ZNzZ5M0J4cXdLNWxfTzR4d1BNblNlNlN1bEM3VUd2MDhZVzcwNTlybllZYWhkejBmUDNaUXJqaUROcDdrb2wxV3RSaEhnV1ln",
+  "https://www.washingtonexaminer.com/?p=4768013",
+  "CBMiyAFBVV95cUxQT1ZEd0kwQ3gyWjFUR0Q5eTVfRTdUV3RraTd0ak43dm5ESzZXZTZvblp0dzkyekFnNkJ2Zks3WXVwOFc2ZXZERTNqVkdHb2k0cTU0UWZ4WXpGT2dQb2hEMGZHWmRlX1dMT1VnRWxuYjNwUGFaNTBGa2RKcFZFRkdzeXJHc3NMMFNhR2hHZmE0TEt5V2FwclpGMkFLNXhUakFfSE9JYnZjOHF6bW8taHpIemVMQ1pwempUSkVVLVV0RWNxQ2xTamRDMw",
+  "CBMipAFBVV95cUxNMzlYZElEckt4bFB3TXNMTUZBYnV4Z3MxVkJ2cFB0VldmQk5xajFmU0tzeDBMTVZhT2lFOUV1c1cyVFF2em5FU21sb1BLT3p5SEo4Q2huMWdvbmNubG11WnVaLWxlVWtkbHF6bVZWWTNKb1QxUlFtZ3dvWl9VRHAzWnF5VlVtWENIbzNoVjA0YmFybDQyUHVLa2RVQ3hSQ2R0VVRDTA"
  ],
  "posts": [
-  {
-   "fp": "billion chips nvidia reports seeks spacex",
-   "title": "SpaceX seeks $40 billion to buy Nvidia chips, FT reports",
-   "source": "Reuters",
-   "at": "2026-10-07T00:22:50.630938+00:00"
-  },
-  {
-   "fp": "britain israel sanctions tariffs threatens",
-   "title": "US threatens Britain with tariffs over Israel sanctions",
-   "source": "Telegraph",
-   "at": "2026-10-07T00:22:52.646817+00:00"
-  },
-  {
-   "fp": "nobel prizes",
-   "title": "Nobel Prizes",
-   "source": "AP",
-   "at": "2026-10-07T00:22:54.550400+00:00"
-  },
-  {
-   "fp": "appeals appointments block panel vaccine wrestles",
-   "title": "Appeals panel wrestles with block of RFK Jr.'s vaccine panel appointments",
-   "source": "The Hill",
-   "at": "2026-10-07T00:22:56.256653+00:00"
-  },
-  {
-   "fp": "ahead jobs pause report selloff takes treasurys",
-   "title": "Treasurys Selloff Takes a Pause Ahead of Jobs Report",
-   "source": "WSJ",
-   "at": "2026-10-07T00:23:00.483940+00:00"
-  },
   {
    "fp": "badenoch battle britain election soul",
    "title": "Badenoch: Election will be battle for soul of Britain",
@@ -3201,14 +3171,39 @@
    "title": "Dodgers make desperate move with Shohei Ohtani as three-peat is on brink of collapse",
    "source": "New York Post",
    "at": "2026-10-15T21:53:19.876924+00:00"
+  },
+  {
+   "fp": "ahead election france manipulated presidential protests student",
+   "title": "Are student protests being manipulated ahead of France's presidential election?",
+   "source": "BBC World",
+   "at": "2026-10-15T23:38:15.273855+00:00"
+  },
+  {
+   "fp": "2024 agrees election elon lawsuits lottery musk settle",
+   "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+   "source": "Reuters",
+   "at": "2026-10-15T23:38:17.253772+00:00"
+  },
+  {
+   "fp": "blames cornyn lose paxton preemptively race rove senate should texas trump",
+   "title": "Trump preemptively blames Cornyn and Rove should Paxton lose Texas Senate race",
+   "source": "Washington Examiner",
+   "at": "2026-10-15T23:38:19.535919+00:00"
+  },
+  {
+   "fp": "blitz confirm election judicial nominees plan post republicans senate trump",
+   "title": "Senate Republicans plan post-election blitz to confirm Trump's judicial nominees",
+   "source": "Reuters",
+   "at": "2026-10-15T23:38:21.255706+00:00"
+  },
+  {
+   "fp": "back gain gains give recent stocks treasury yields",
+   "title": "Stocks Gain as Treasury Yields Give Back Some Recent Gains",
+   "source": "WSJ",
+   "at": "2026-10-15T23:38:23.082567+00:00"
   }
  ],
  "titles": [
-  "billion chips nvidia reports seeks spacex",
-  "britain israel sanctions tariffs threatens",
-  "nobel prizes",
-  "appeals appointments block panel vaccine wrestles",
-  "ahead jobs pause report selloff takes treasurys",
   "badenoch battle britain election soul",
   "alleged attack flydubai hijacker investigation scrutinised training widens zealand",
   "attack injured object police polish school seven sharp",
@@ -3603,6 +3598,11 @@
   "african bordering central congo ebola outbreak province republic spreads",
   "california days extreme faces raise risk weather wildfire windy",
   "blocking deal democratic nuclear saudi senators vote",
-  "brink collapse desperate dodgers make move ohtani peat shohei three"
+  "brink collapse desperate dodgers make move ohtani peat shohei three",
+  "ahead election france manipulated presidential protests student",
+  "2024 agrees election elon lawsuits lottery musk settle",
+  "blames cornyn lose paxton preemptively race rove senate should texas trump",
+  "blitz confirm election judicial nominees plan post republicans senate trump",
+  "back gain gains give recent stocks treasury yields"
  ]
 }
