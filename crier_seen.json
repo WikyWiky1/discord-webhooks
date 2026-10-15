@@ -1,13 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6112624",
-  "https://www.washingtonexaminer.com/?p=4744297",
-  "https://thehill.com/?p=6113414",
-  "https://nypost.com/?post_type=article&p=41008334",
-  "CBMiwwFBVV95cUxPZi11dmRDaGtOclFJMzJhSmlNSnVpdnFkQkZpeGFxbkh6c0ZTRW1tZ1JKNTFvVk1ULTF4X3FXb2VqcnV2dzIzUmp6dmxndlFOazNVUFhGVkluaFRyRG1ERlVTM3BPU3BWMllpZzRqRC1iZnVxU0VnN0thOUxvaVFjdDhaX3ZSTnlHRHA1eEdNQXVTYXlDYUNJZHdYNmVqR3d6X1c5T0Q0ZmN1X3BVNW5fVmtpN1huWWVQVmxScHBGaUNFQnc",
-  "https://www.theguardian.com/australia-news/2026/sep/27/one-nation-to-demand-thousands-from-victorian-election-candidates-ntwnfb",
-  "https://nypost.com/?post_type=article&p=41010705",
-  "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
   "https://www.washingtonexaminer.com/?p=4743625",
   "https://nypost.com/?post_type=article&p=41011179",
   "CBMilgFBVV95cUxQU0xDZlRYRGJZY2dDanUwd3ZpRDhBblJLN2pZb1IxM2NLazI2NGM0RzBzZ0VKT2dBUUdTVWRIc0FFQTFuUUpONG9WbEQ4b1F4a2RTNTBZU3Z0THFyc3U1SkV3YXBhTkhFemlpR0JZLUtIcTJlbzZxTDk0dVdCT2c5Wm9KY1BtVlFFR2JnSVdZTlhMWEpJNkE",
@@ -799,57 +791,17 @@
   "CBMisgFBVV95cUxPRWNocUdlZHdZdEpFWmotSFNZbTd5cWVveGxXYnh6WFNBaUNlUDhKdnE0c1VVZWdpYkVDazJxeUdRSXBKSW9SUm5qc2gyRDhpdS1jTkxidGNXSmFfajdGeV9ERUQxMnUtYl9ZNzZ5M0J4cXdLNWxfTzR4d1BNblNlNlN1bEM3VUd2MDhZVzcwNTlybllZYWhkejBmUDNaUXJqaUROcDdrb2wxV3RSaEhnV1ln",
   "https://www.washingtonexaminer.com/?p=4768013",
   "CBMiyAFBVV95cUxQT1ZEd0kwQ3gyWjFUR0Q5eTVfRTdUV3RraTd0ak43dm5ESzZXZTZvblp0dzkyekFnNkJ2Zks3WXVwOFc2ZXZERTNqVkdHb2k0cTU0UWZ4WXpGT2dQb2hEMGZHWmRlX1dMT1VnRWxuYjNwUGFaNTBGa2RKcFZFRkdzeXJHc3NMMFNhR2hHZmE0TEt5V2FwclpGMkFLNXhUakFfSE9JYnZjOHF6bW8taHpIemVMQ1pwempUSkVVLVV0RWNxQ2xTamRDMw",
-  "CBMipAFBVV95cUxNMzlYZElEckt4bFB3TXNMTUZBYnV4Z3MxVkJ2cFB0VldmQk5xajFmU0tzeDBMTVZhT2lFOUV1c1cyVFF2em5FU21sb1BLT3p5SEo4Q2huMWdvbmNubG11WnVaLWxlVWtkbHF6bVZWWTNKb1QxUlFtZ3dvWl9VRHAzWnF5VlVtWENIbzNoVjA0YmFybDQyUHVLa2RVQ3hSQ2R0VVRDTA"
+  "CBMipAFBVV95cUxNMzlYZElEckt4bFB3TXNMTUZBYnV4Z3MxVkJ2cFB0VldmQk5xajFmU0tzeDBMTVZhT2lFOUV1c1cyVFF2em5FU21sb1BLT3p5SEo4Q2huMWdvbmNubG11WnVaLWxlVWtkbHF6bVZWWTNKb1QxUlFtZ3dvWl9VRHAzWnF5VlVtWENIbzNoVjA0YmFybDQyUHVLa2RVQ3hSQ2R0VVRDTA",
+  "CBMiqAFBVV95cUxNUm53TEZKeGNjZ21QOGcxMWJ6V0xQSExrNXN4dU9zY0l2dWVZLXR4THBGRXJOclp3aUNQcDhjRHVsOXdNY1hjSnhyc0NzTS1Da1ZEcW5MS19ON0JySE4wNkNDMHF0R2tDM1JsbnF5R05HbEhhYlRHX0ZoWGM5SUZDei1PMUFUSEx4OUFzV05VNWtuWVBMdE9QWnNlci1sQWJpQWVSN0xrVEc",
+  "https://nypost.com/?post_type=article&p=41357444",
+  "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+  "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo#1",
+  "CBMitgFBVV95cUxQdzdxY25FWnN6S2wzbW9iMGhHbjRWcEhzQ1cybjFSUUE0c096czJPMDBWQ1Ffem5YU0o4eVV0bUhpQ3FzbmZmRkJway1rV0NadEhGTlZka3FfY2dWbXU2OGRKenFCV3hfb2JTUk1OQnhCNml0WkZlVGlIZkkzdmxLSzZvUHhtTFlRQnpVWUJvd3dXT2FVNDJZNGZ1cmt4Qmt0Q1d3U29fTXJzMUUwTGlScGZ4a1JDdw",
+  "CBMinAFBVV95cUxPMWdKRjBxSDZhbV84bFU1VmtQazJoSGs3VV9ncVhjM2t2NHlFSHZZd0w0X0U5RjFNXzNiMEZwT1Z0RFVobGt6dEF0cHhTLWlCOF9hWTBPblVEaGNMV0FXZ3J0Z2RaMW9rVXJpNzF4ZVpTN0ZMRXlHWDJ6OGZQc0lxUUVVaFRNSGIzM1dYamJ1X1VHdmpOX3dUWWFuM20",
+  "CBMilAFBVV95cUxONG1iMjZFUXhkWUx2cGlnM01adTZoZ3J2MHBMZWhnSWR3cTl6aFA3ejhwdXFkRnRNX3hzc1ItclZxdnB4bDJuWm9RZV9Gc1BxNHZadGt2cW1EZE5GRkFiSEdhOFY4eGRLZW42cG5BY1hIclBKN1RPRWNod1B0VnhlZjA1MmV1WG11QjU0UU5rWVZFRnBu",
+  "https://thehill.com/?p=6152592"
  ],
  "posts": [
-  {
-   "fp": "badenoch battle britain election soul",
-   "title": "Badenoch: Election will be battle for soul of Britain",
-   "source": "Telegraph",
-   "at": "2026-10-07T00:23:02.549648+00:00"
-  },
-  {
-   "fp": "alleged attack flydubai hijacker investigation scrutinised training widens zealand",
-   "title": "Flydubai attack investigation widens as alleged hijacker\u2019s training in New Zealand scrutinised",
-   "source": "Guardian World",
-   "at": "2026-10-07T06:04:54.493617+00:00"
-  },
-  {
-   "fp": "attack injured object police polish school seven sharp",
-   "title": "Seven injured in attack with 'sharp object' at Polish school, say police",
-   "source": "Sky News",
-   "at": "2026-10-07T13:29:38.428920+00:00"
-  },
-  {
-   "fp": "attacks condemns killed large russian scale vile zelensky",
-   "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
-   "source": "BBC World",
-   "at": "2026-10-07T13:29:40.163841+00:00"
-  },
-  {
-   "fp": "attack blacklist hamas hollywood inspired october",
-   "title": "How the Hamas attack of October 7 inspired Hollywood\u2019s new blacklist",
-   "source": "New York Post",
-   "at": "2026-10-07T13:29:41.936844+00:00"
-  },
-  {
-   "fp": "become coast forecast forms gulf hurricane isaias storm tropical week",
-   "title": "Tropical Storm Isaias forms, is forecast to become a hurricane and hit US Gulf Coast this week",
-   "source": "AP",
-   "at": "2026-10-07T13:29:43.763237+00:00"
-  },
-  {
-   "fp": "declares desantis emergency isaias state storm tropical",
-   "title": "DeSantis declares state of emergency for Tropical Storm Isaias",
-   "source": "Washington Examiner",
-   "at": "2026-10-07T13:29:45.514777+00:00"
-  },
-  {
-   "fp": "deadly europe leyen live pursuing russia strategy strikes terror ukraine",
-   "title": "Russia \u2018pursuing strategy of terror\u2019, EU\u2019s von der Leyen says after deadly strikes on Ukraine \u2013 Europe live",
-   "source": "Guardian World",
-   "at": "2026-10-07T13:29:47.239801+00:00"
-  },
   {
    "fp": "breaking clears despite funding investigation laws officials party police reform",
    "title": "Reform clears its own officials of breaking party funding laws despite police investigation",
@@ -3201,17 +3153,57 @@
    "title": "Stocks Gain as Treasury Yields Give Back Some Recent Gains",
    "source": "WSJ",
    "at": "2026-10-15T23:38:23.082567+00:00"
+  },
+  {
+   "fp": "believed dead elementary following officials oregon people school shooting tell",
+   "title": "5 people believed dead following shooting at Oregon elementary school, 2 officials tell AP",
+   "source": "AP",
+   "at": "2026-10-15T23:59:30.105058+00:00"
+  },
+  {
+   "fp": "bigger breaking goal ryan sights step took weathers yankees",
+   "title": "Ryan Weathers took his first step in breaking out \u2014 now he has sights on bigger Yankees goal",
+   "source": "New York Post",
+   "at": "2026-10-15T23:59:31.853734+00:00"
+  },
+  {
+   "fp": "adult children elementary killed oregon reportedly school shooting three",
+   "title": "Three children and one adult reportedly killed in Oregon elementary school shooting",
+   "source": "Guardian World",
+   "at": "2026-10-15T23:59:33.572995+00:00"
+  },
+  {
+   "fp": "attack foiled hindu plot police suspect teen temple",
+   "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+   "source": "BBC World",
+   "at": "2026-10-15T23:59:35.378170+00:00"
+  },
+  {
+   "fp": "dead elementary four killed oregon report school shooter violence",
+   "title": "Shooter killed at Oregon elementary school; CNN, CBS report four dead in violence",
+   "source": "Reuters",
+   "at": "2026-10-15T23:59:37.356723+00:00"
+  },
+  {
+   "fp": "california power raise shutoffs start threat weather wildfire winds",
+   "title": "Hot weather and winds raise California wildfire threat as power shutoffs start",
+   "source": "AP",
+   "at": "2026-10-15T23:59:39.068415+00:00"
+  },
+  {
+   "fp": "coast expected hurricane major mexico nears storm strengthens system trudy",
+   "title": "Trudy strengthens to a hurricane as system nears Mexico\u2019s coast with major storm expected",
+   "source": "AP",
+   "at": "2026-10-15T23:59:40.885535+00:00"
+  },
+  {
+   "fp": "elementary investigating oregon police school shooting",
+   "title": "Police investigating shooting at Oregon elementary school",
+   "source": "The Hill",
+   "at": "2026-10-15T23:59:42.729955+00:00"
   }
  ],
  "titles": [
-  "badenoch battle britain election soul",
-  "alleged attack flydubai hijacker investigation scrutinised training widens zealand",
-  "attack injured object police polish school seven sharp",
-  "attacks condemns killed large russian scale vile zelensky",
-  "attack blacklist hamas hollywood inspired october",
-  "become coast forecast forms gulf hurricane isaias storm tropical week",
-  "declares desantis emergency isaias state storm tropical",
-  "deadly europe leyen live pursuing russia strategy strikes terror ukraine",
   "breaking clears despite funding investigation laws officials party police reform",
   "attack cities coming kill kyiv least major russian strikes ukrainian",
   "appears charged court dead found home husband murder norfolk",
@@ -3603,6 +3595,14 @@
   "2024 agrees election elon lawsuits lottery musk settle",
   "blames cornyn lose paxton preemptively race rove senate should texas trump",
   "blitz confirm election judicial nominees plan post republicans senate trump",
-  "back gain gains give recent stocks treasury yields"
+  "back gain gains give recent stocks treasury yields",
+  "believed dead elementary following officials oregon people school shooting tell",
+  "bigger breaking goal ryan sights step took weathers yankees",
+  "adult children elementary killed oregon reportedly school shooting three",
+  "attack foiled hindu plot police suspect teen temple",
+  "dead elementary four killed oregon report school shooter violence",
+  "california power raise shutoffs start threat weather wildfire winds",
+  "coast expected hurricane major mexico nears storm strengthens system trudy",
+  "elementary investigating oregon police school shooting"
  ]
 }
