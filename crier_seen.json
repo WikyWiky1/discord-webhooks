@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
-  "CBMijgFBVV95cUxOTWFvZGl3dnM3QXZvYy1LZFYtS3JYcGROcHZtRDN3eFg2Z241SWFSSTBpUHVONW9Pb2FnVTJQakdZNW5NMDZzSFE1dXhoMU5JS2J0UDZrZlVMcmwtYzdodElTeFdsZG9KQkZXUHNjZXMzV3NSeXpoSVF6c0N1QXVFU2tKYzhlQ1NXTGlVMXdn",
-  "https://nypost.com/?post_type=article&p=41000469",
   "CBMipgFBVV95cUxONjhuTDZkOUhqUjV2LWVUMFhtTVNjQWVWNU9NNHhLY0Vfb2xsTFdVaUxwN1JKSVdpVWhmNk9Sb2pWdi1uRTZUcExhZDZRX1lKUmFSWmcyczhFMGtZdG1WbzZydF9BUE1VTEJKQVJEMnFOdXZPY1VuNklncmlobkx4NWFTZkNOTng1QlpHdzJsYkdNQ0VlSk9kYUFXS2dCaUwyVV9qRmNR",
   "CBMiYkFVX3lxTFBRVHBVRmJ3Sjd2X3lEb25zWU5uXzNWWW14Z19mZExuaW5EdVZJNkVlc1Jtd2xtU3ozRzZpamUwU3g4UE1uMWIxVWx6WlUtbFRFUzM5bURCTGNlNE41N010ZlJn",
   "https://www.washingtonexaminer.com/?p=4684429",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=41340033",
   "CBMipwFBVV95cUxObnVEWElSRXpOUmlXck11bDFCalZydGhnSFNSSFVBV3FjZlhmTDl4RXNPbWlLSnBNNF9XQndRVzVnRDZrWmZid0xLSldiTDRFRTdqeWdObTNkTXlkYjNxZk14YVhkcHgySlQ1SFh4ekFPeGxZWDQ3MjN6cXZjTHlER3FKTGVoLUp2VTlGYzF3OFdlV2laczBSQzVFd2M3Vlk5Tk12eWJLYw",
   "https://nypost.com/?post_type=article&p=41341323",
-  "https://nypost.com/?post_type=article&p=41341562"
+  "https://nypost.com/?post_type=article&p=41341562",
+  "https://nypost.com/?post_type=article&p=41328343",
+  "CBMizwFBVV95cUxQUWp1N3V3WmtFN2xwQWlfa285NVRlVlVvS1VUR19EcHpCSE5aaDFzR0I0YTZHeG5XM0FNOEJDaEtFYUhHaFMyekg3LUJZd0lyeVhfeFVLS1pqbzExTDJoYWdfa2N1NFNfZjIzMXhTM1FGcWlnTHIyQWNxZDY3NmdOWnNmZHNPeEhGZjMyRnV5ek0yOHVxZFJBTDdiNmxHQlg0cjJqbUNQZFUwYkFOSk5udXQ4a19WQkVfdnFSV0RidFRJRWZLOWtjazlkMk5nYjA",
+  "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan"
  ],
  "posts": [
-  {
-   "fp": "case count decades faces largest measles outbreak pennsylvania rises",
-   "title": "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000",
-   "source": "Guardian World",
-   "at": "2026-10-05T21:45:24.294659+00:00"
-  },
-  {
-   "fp": "chicago declares dropping emergency feet flight london",
-   "title": "London to Chicago BA flight declares emergency after dropping 28,000 feet",
-   "source": "Guardian World",
-   "at": "2026-10-05T21:45:26.038866+00:00"
-  },
-  {
-   "fp": "attack base bombers drone iranian prompted pull threat",
-   "title": "Threat of Iranian Drone Attack Prompted U.S. to Pull Bombers From U.K. Base",
-   "source": "WSJ",
-   "at": "2026-10-05T21:45:27.826150+00:00"
-  },
   {
    "fp": "alike britain cars chinese especially learned look love range rover",
    "title": "How Britain Learned to Love Chinese Cars\u2014Especially a Look-Alike Range Rover",
@@ -3201,12 +3183,27 @@
    "title": "Blake Snell goes from hero to zero as Dodgers collapse in Game 3 loss to Brewers",
    "source": "New York Post",
    "at": "2026-10-15T05:06:46.333121+00:00"
+  },
+  {
+   "fp": "about carriage central deal kill mamdani menin park prejudice privileged trade",
+   "title": "Mamdani and Menin\u2019s deal to kill Central Park carriage trade is all about privileged prejudice",
+   "source": "New York Post",
+   "at": "2026-10-15T09:58:53.704060+00:00"
+  },
+  {
+   "fp": "attack base builds drone images major russia satellite show weeks",
+   "title": "Russia builds major new drone attack base in six weeks, satellite images show",
+   "source": "Reuters",
+   "at": "2026-10-15T09:58:55.525758+00:00"
+  },
+  {
+   "fp": "collapse dozen injures kills least pakistan roof school",
+   "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+   "source": "NPR News",
+   "at": "2026-10-15T09:58:57.359368+00:00"
   }
  ],
  "titles": [
-  "case count decades faces largest measles outbreak pennsylvania rises",
-  "chicago declares dropping emergency feet flight london",
-  "attack base bombers drone iranian prompted pull threat",
   "alike britain cars chinese especially learned look love range rover",
   "close earnings focus high investors nasdaq notches record",
   "ahead bolsonaro boosts brazil camp congress presidential right runoff wave wing",
@@ -3603,6 +3600,9 @@
   "absurd california election excuses fight illegal offer officials voting",
   "ahead approves brazil lula major runoff senate shorter workweek",
   "authorities citizen costa dead found mystery rican sought woman",
-  "blake brewers collapse dodgers game goes hero loss snell zero"
+  "blake brewers collapse dodgers game goes hero loss snell zero",
+  "about carriage central deal kill mamdani menin park prejudice privileged trade",
+  "attack base builds drone images major russia satellite show weeks",
+  "collapse dozen injures kills least pakistan roof school"
  ]
 }
