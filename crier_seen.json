@@ -1,10 +1,5 @@
 {
  "ids": [
-  "CBMirwFBVV95cUxPM0VsVXF4SnV4dDdKOWhfMVRuYmRBYTdXVWtxcEkyaGVmbFQ1YjVjMElHS0lQbkVVWk1PUG4wMDlvSTAtcTk0X29uV3E5Zk9KRGZiVnZnbV80b1dZN0hzQ1lTZHBEc1ZDY09iYU9qSkNLSWhMTGxwOVJWT3RXNFJ2VjRfbHd0NnJ5RjkzWWRIYXpGM3hBY0hNNUtybnU5Mm5xMTlBWVNLMHFuU2FZVDBj",
-  "CBMizAFBVV95cUxNX0pDd2VIdmh6a3lOODFMWUlCbFBhX1JCVWZfWVFwV1pmU3ZoM3lrWXhMQXhUdzAzblM2Rnh6eW5MTnhaTkwtbnZiSnFyMjJJRUpwTHRZaVAweHBxc2gwREhSMk9USGxpaFRVZ2drMUNXUGN0NThjbkV0Y2lIcHlmSmRTZnY3NWVIWE9jelZvcEUyMnFDRWszak9uLWlnZTZmdXJ3RHExdmdMNEh1UU9HSXpUVjNPMEtUTWdZQzVVSTFTMDNaN2dMN3VLSGc",
-  "https://nypost.com/?post_type=article&p=41003434",
-  "https://nypost.com/?post_type=article&p=41003385",
-  "https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion",
   "CBMipAFBVV95cUxOd3Q1b3RINld2NHRkQU4ybk1VOHVnRGkxc2EwZFU3WFJKOV92WEhZSm1zbnptVHczYjIwLVBTU2tncklsQzgwN05RRFJQRFhBekV2Q2psUGpUWmRJTTZDaWxJOTVYbXdzcmc5d3dCRjZLTU5aa2FzNTFtQ1kwZ3oyeW1Fcldscm9KSDJpYjVseTJrLTI0clhwZEdzSW1ublVkYjFTeA",
   "https://nypost.com/?post_type=article&p=41003876",
   "https://nypost.com/?post_type=article&p=41005562",
@@ -799,39 +794,14 @@
   "https://thehill.com/?p=6151217",
   "CBMinAFBVV95cUxOZTRob0s4X3hCYkZQZzFfeUxuU1ZlN0tPT2hvelcwcW9QdU9yeVN1ZUZfR253ZUNoN3NjUlRHbG9aS0wzMmVGLUpNOVcyTUlHOWo3WERDX1psTXlmWGthb0JPN19GMGxnT2pkYkRWQ0R1THEyODhoWnZTd1NIQjdZbm5fLXNYb0M2c1g2YU02TENSSi1xSFZMQzRuUTc",
   "CBMivwFBVV95cUxPdjdXQjZTSnNCWmdZVmw4Mk5ydFlXRV9tbFltdkVId3l4TDR6YWw0RGFicmlQQU9EM0l3YXlzR3Z4eFY0WDlRa2RQa0o3UGN0TnFQdXBnME83enZWX2NlaEU4S2l6TU0wcXp0TnBvMWJPY3lVLVVBQTg0emE2OFNfWVdGOXU1ZDI4cnhCaHpaVUZYOU1QaGJ3UmtFYWtKQklmYTBMSlFoZ093YWtOVTF6RDNIenFlZGZKZnpZUnBqaw",
-  "https://thehill.com/?p=6151029"
+  "https://thehill.com/?p=6151029",
+  "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests",
+  "CBMivAFBVV95cUxPQUNqWTJxemdBVVByYW9Cc0N3NlU2UW9zczJReDZOeWdKMENNbUZjQmF1bE9IQ1VEOXNrcXpQU192ZUhHTVZ0cDN1N3IzS2lxY0ZTOXdGY3RvWlVObFZ2RjAyVF93ZUNCWVJKSlBpNDVINmxBNGRORXRYZUt1blF2RzFLV2VjZWJZMUg4X2tGMjd5VlpOVExvbFIxN1ExS1lMMnJXUXJPOWhfcnVXZEl2aUpDeHNqcnFSeUJ3NQ",
+  "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo#0",
+  "CBMisAFBVV95cUxNOC04U2ViZ2xJWTZ6YTJkbVBMUkx2c3M1V0M4aXl1Z2VXVGs3NlVfSFlhRWtVVHVtSlRqdEVPQ2poQkhhNV8xN1NXbGUzbS0ybl9jaDljM3BSTEhrN3ZCa2hIZW1seTUzREdhRWtCTXN4V3ZsWDhlNUNTTFdGeGV3NzRrQU43Z1hMZmE5dzU1R2xDRnVJVENFRm1DMjlOWnRLalI2Y01obkM0aWoydlNYSg",
+  "CBMingFBVV95cUxOMF9MLUljekdzUXdSRXRWbjlkaGpBWjZNaHpIQmZKblFjOGdtbVZRbjFFMzd4enNhMENwZV9qeE1uSTV3eTdvTVJCNURXLXZwUVUtMTJWN3pXbFBRd2RRdFcxYjN6Q2ZyWGpJdUV2aXpXZWVvUHB1XzJoS2VjdGpGNTUzZnF2UnVNRG15NnNTOEQ3S1phTTFKT01lQnUyQQ"
  ],
  "posts": [
-  {
-   "fp": "approves decrees election housing snap spain triggered",
-   "title": "Spain approves housing decrees that triggered snap election",
-   "source": "Reuters",
-   "at": "2026-10-06T12:51:11.054024+00:00"
-  },
-  {
-   "fp": "antarctic francis ghost halzen hunt nobel particle physics prize wins",
-   "title": "Francis Halzen wins Nobel Physics Prize for Antarctic 'ghost particle' hunt",
-   "source": "Reuters",
-   "at": "2026-10-06T12:51:12.714768+00:00"
-  },
-  {
-   "fp": "ghost nobel particles physics space telescope wins",
-   "title": "'Ghost particles' from space telescope wins physics Nobel",
-   "source": "BBC World",
-   "at": "2026-10-06T12:51:14.406590+00:00"
-  },
-  {
-   "fp": "called commits communal grave revelations review urgent",
-   "title": "PM called on to act on communal grave revelations as NSW commits to urgent review",
-   "source": "Guardian World",
-   "at": "2026-10-06T15:37:09.096022+00:00"
-  },
-  {
-   "fp": "energy francis halzen high neutrinos nobel physics prize space wins work",
-   "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-   "source": "NPR News",
-   "at": "2026-10-06T17:06:23.308968+00:00"
-  },
   {
    "fp": "closing earnings focus highs nasdaq record track turns",
    "title": "S&P 500, Nasdaq on track for record closing highs as focus turns to earnings",
@@ -3201,14 +3171,39 @@
    "title": "Could Dan Osborn shake up Nebraska\u2019s Senate race?",
    "source": "The Hill",
    "at": "2026-10-15T16:24:38.150052+00:00"
+  },
+  {
+   "fp": "albania minister prime protests resign student vows",
+   "title": "Albania\u2019s prime minister vows not to resign over student-led protests",
+   "source": "Guardian World",
+   "at": "2026-10-15T18:48:42.581856+00:00"
+  },
+  {
+   "fp": "attack confiscated explosives hezbollah israel meant owned",
+   "title": "Hezbollah says it owned confiscated explosives, meant to attack Israel",
+   "source": "Reuters",
+   "at": "2026-10-15T18:48:44.295537+00:00"
+  },
+  {
+   "fp": "attack houthi kills minister missile palace presidential yemeni",
+   "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+   "source": "BBC World",
+   "at": "2026-10-15T18:48:46.038770+00:00"
+  },
+  {
+   "fp": "breaks ceasefire energy moscow refinery russian strikes trump ukraine",
+   "title": "Ukraine Strikes Russian Refinery After Moscow Breaks Trump\u2019s Energy Ceasefire",
+   "source": "WSJ",
+   "at": "2026-10-15T18:48:48.265989+00:00"
+  },
+  {
+   "fp": "accumulated crash experienced killed pilot plane storm wings",
+   "title": "Experienced pilot among 6 killed in plane crash after ice accumulated on the wings during storm",
+   "source": "AP",
+   "at": "2026-10-15T18:48:50.065851+00:00"
   }
  ],
  "titles": [
-  "approves decrees election housing snap spain triggered",
-  "antarctic francis ghost halzen hunt nobel particle physics prize wins",
-  "ghost nobel particles physics space telescope wins",
-  "called commits communal grave revelations review urgent",
-  "energy francis halzen high neutrinos nobel physics prize space wins work",
   "closing earnings focus highs nasdaq record track turns",
   "hampshire leads pappas points poll race senate sununu",
   "high rallies street time toward wall",
@@ -3603,6 +3598,11 @@
   "democrats detection draws fire mifepristone senate study",
   "deepens month nasdaq near rout slides",
   "authorities congressional election investigate letters offices sent substances suspicious",
-  "nebraska osborn race senate shake"
+  "nebraska osborn race senate shake",
+  "albania minister prime protests resign student vows",
+  "attack confiscated explosives hezbollah israel meant owned",
+  "attack houthi kills minister missile palace presidential yemeni",
+  "breaks ceasefire energy moscow refinery russian strikes trump ukraine",
+  "accumulated crash experienced killed pilot plane storm wings"
  ]
 }
