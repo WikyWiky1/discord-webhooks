@@ -1,11 +1,5 @@
 {
  "ids": [
-  "CBMipAFBVV95cUxOd3Q1b3RINld2NHRkQU4ybk1VOHVnRGkxc2EwZFU3WFJKOV92WEhZSm1zbnptVHczYjIwLVBTU2tncklsQzgwN05RRFJQRFhBekV2Q2psUGpUWmRJTTZDaWxJOTVYbXdzcmc5d3dCRjZLTU5aa2FzNTFtQ1kwZ3oyeW1Fcldscm9KSDJpYjVseTJrLTI0clhwZEdzSW1ublVkYjFTeA",
-  "https://nypost.com/?post_type=article&p=41003876",
-  "https://nypost.com/?post_type=article&p=41005562",
-  "https://nypost.com/?post_type=article&p=41004917",
-  "CBMiywFBVV95cUxPX3FKRlF5WEJudldBNU5uNWpXOTJ6NWQxaFFkNDRZUFZyR2V6bWYzQmJJUlZDN015RlRPTUxOUHFDQ2VKN1lVeHRhc0dFV2t5RnB6S205U0NHbHFicUZfUjhGcTJhdjhsWkVGY29Yc2ZUM2dfeVJOc0poVXctLXRLNGVjaHBIZkRMTWl2bkpGbkFpODNCYlY3M0xMbjVScmFHWnhUbk5yeVVlNC1wM0RmeDZZdktsMmxHYWdTR3VDYVlZc0dIVTFoZVdfSQ",
-  "CBMipAFBVV95cUxOWXlKVUxEWGNGYktRN01VOE1CbVY4SDhlemprYWVZUmVkdy1BZTh4UGp1TEMwc2tRb2JJTHZtWkRreXliLTBQbDNnUlNleWNxbGZNMUlabEZXd29QUDI4aUduQ1MyVE1mLXNJcnQ1QS11UHpzYWxSdVNiWExGbG9OcFFiTEZRZldwaUduRWdlUWpDWHFSLVQtUTA0RENHNUdLUXNhVg",
   "https://nypost.com/?post_type=article&p=41006344",
   "CBMijgFBVV95cUxNMEtSSFJ4RGJaSUdYMUtaNkRna3BQak9vS0t5OU1MMG5yYXdsdTUwOW1BcTlMZWxTUGNNUkMtWTlDblJtSEJ3eW91VU1OLUl5ZVM3cTNTWHNrd0lyX1dNNDdHVVhmOUdiWTFPV0dSSng4M0NfVlVZWHRYcGhrOG44YVJPdFA2RDZjVGtyMWRB",
   "https://nypost.com/?post_type=article&p=41006982",
@@ -799,45 +793,15 @@
   "CBMivAFBVV95cUxPQUNqWTJxemdBVVByYW9Cc0N3NlU2UW9zczJReDZOeWdKMENNbUZjQmF1bE9IQ1VEOXNrcXpQU192ZUhHTVZ0cDN1N3IzS2lxY0ZTOXdGY3RvWlVObFZ2RjAyVF93ZUNCWVJKSlBpNDVINmxBNGRORXRYZUt1blF2RzFLV2VjZWJZMUg4X2tGMjd5VlpOVExvbFIxN1ExS1lMMnJXUXJPOWhfcnVXZEl2aUpDeHNqcnFSeUJ3NQ",
   "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo#0",
   "CBMisAFBVV95cUxNOC04U2ViZ2xJWTZ6YTJkbVBMUkx2c3M1V0M4aXl1Z2VXVGs3NlVfSFlhRWtVVHVtSlRqdEVPQ2poQkhhNV8xN1NXbGUzbS0ybl9jaDljM3BSTEhrN3ZCa2hIZW1seTUzREdhRWtCTXN4V3ZsWDhlNUNTTFdGeGV3NzRrQU43Z1hMZmE5dzU1R2xDRnVJVENFRm1DMjlOWnRLalI2Y01obkM0aWoydlNYSg",
-  "CBMingFBVV95cUxOMF9MLUljekdzUXdSRXRWbjlkaGpBWjZNaHpIQmZKblFjOGdtbVZRbjFFMzd4enNhMENwZV9qeE1uSTV3eTdvTVJCNURXLXZwUVUtMTJWN3pXbFBRd2RRdFcxYjN6Q2ZyWGpJdUV2aXpXZWVvUHB1XzJoS2VjdGpGNTUzZnF2UnVNRG15NnNTOEQ3S1phTTFKT01lQnUyQQ"
+  "CBMingFBVV95cUxOMF9MLUljekdzUXdSRXRWbjlkaGpBWjZNaHpIQmZKblFjOGdtbVZRbjFFMzd4enNhMENwZV9qeE1uSTV3eTdvTVJCNURXLXZwUVUtMTJWN3pXbFBRd2RRdFcxYjN6Q2ZyWGpJdUV2aXpXZWVvUHB1XzJoS2VjdGpGNTUzZnF2UnVNRG15NnNTOEQ3S1phTTFKT01lQnUyQQ",
+  "CBMilgFBVV95cUxOOWhsa2ZhTGZKbFhXckYzcXZGbDZoeUxRZXZlbEtSU1ZkOHZndkpDSWdqQUZZTmJDdHNHUlFHSXlRRm1zVUNKVFlXVEFSNW50Qk9vR29MazU0a3laNlJUR1ZBMlFlUGlWTl9VSk9CSnRUQTZvWV9INUNOLXdOeUtBdGpWaGo0YzNSeVVlMDlZQlRLQzV3TEE",
+  "https://nypost.com/?post_type=article&p=41353870",
+  "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
+  "https://thehill.com/?p=6151776",
+  "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
+  "CBMirwFBVV95cUxPMnFLNkdraTdWRmNuLUlrbGF6Ni15M1VBODdjYjdyVl9NZ1p0NV9mbW5wd0U2VkFnX0RNYzlNcXhlaUlseFdjbENlWEc3UTBhV19lQmUtcE1uZ0NfNXhqeGxqODBnWVRQODBiR3dCNkJ0bHhFWUZkZnlidlVIZVVYaE9GQVc3dkJJNjkzUnJkX0FELWtERW1TMXBKYmZucmRwamczVGZuaVI2N3BZY3RF"
  ],
  "posts": [
-  {
-   "fp": "closing earnings focus highs nasdaq record track turns",
-   "title": "S&P 500, Nasdaq on track for record closing highs as focus turns to earnings",
-   "source": "Reuters",
-   "at": "2026-10-06T19:59:06.704471+00:00"
-  },
-  {
-   "fp": "hampshire leads pappas points poll race senate sununu",
-   "title": "Pappas leads Sununu by 7 points in New Hampshire Senate race: Poll",
-   "source": "The Hill",
-   "at": "2026-10-06T19:59:08.465688+00:00"
-  },
-  {
-   "fp": "high rallies street time toward wall",
-   "title": "Wall Street rallies toward an all-time high",
-   "source": "AP",
-   "at": "2026-10-06T19:59:10.231027+00:00"
-  },
-  {
-   "fp": "approve envoys major russia sanctions wednesday",
-   "title": "EU envoys set to approve major new Russia sanctions on Wednesday",
-   "source": "Reuters",
-   "at": "2026-10-06T19:59:11.985832+00:00"
-  },
-  {
-   "fp": "antarctic ghost hunts mysterious nobel particles physics prize scientist wins",
-   "title": "Scientist who hunts mysterious ghost particles in the Antarctic ice wins Nobel Prize for physics",
-   "source": "AP",
-   "at": "2026-10-06T19:59:13.716743+00:00"
-  },
-  {
-   "fp": "attack beyond chaos comprehend evil footage harrowing hospital israeli shows",
-   "title": "Harrowing new footage shows chaos at Israeli hospital after Oct. 7 attack: \u2018Evil beyond what you can comprehend\u2019",
-   "source": "New York Post",
-   "at": "2026-10-06T20:31:55.031778+00:00"
-  },
   {
    "fp": "attack deadliest event families house iran killed troops weren white",
    "title": "Most families of US troops killed in the Iran war's deadliest attack weren't at White House event",
@@ -3201,15 +3165,45 @@
    "title": "Experienced pilot among 6 killed in plane crash after ice accumulated on the wings during storm",
    "source": "AP",
    "at": "2026-10-15T18:48:50.065851+00:00"
+  },
+  {
+   "fp": "despite higher muscles stocks street swings wall",
+   "title": "Wall Street muscles higher despite more swings for AI stocks",
+   "source": "AP",
+   "at": "2026-10-15T20:58:55.266732+00:00"
+  },
+  {
+   "fp": "accused congress gaetz lawsuit matt still trafficking women",
+   "title": "Matt Gaetz accused of sex trafficking while still in Congress by 2 women in new lawsuit",
+   "source": "New York Post",
+   "at": "2026-10-15T20:58:57.005872+00:00"
+  },
+  {
+   "fp": "election investigates letters officials sent substance unknown",
+   "title": "FBI investigates letters with \u2018unknown substance\u2019 sent to US election officials",
+   "source": "Guardian World",
+   "at": "2026-10-15T20:58:59.374043+00:00"
+  },
+  {
+   "fp": "cancel deal diesel house join letter members russia sanctions trump urging",
+   "title": "5 GOP House members join letter urging Trump to cancel Russia diesel deal, up sanctions",
+   "source": "The Hill",
+   "at": "2026-10-15T20:59:01.127562+00:00"
+  },
+  {
+   "fp": "congressional election investigation mailings offices officials suspicious under",
+   "title": "Suspicious mailings to election officials, congressional offices under investigation",
+   "source": "NPR News",
+   "at": "2026-10-15T20:59:03.097055+00:00"
+  },
+  {
+   "fp": "caused data disruption gaps nasdaq network resolves source",
+   "title": "Nasdaq resolves network disruption that caused data gaps, source says",
+   "source": "Reuters",
+   "at": "2026-10-15T20:59:04.845828+00:00"
   }
  ],
  "titles": [
-  "closing earnings focus highs nasdaq record track turns",
-  "hampshire leads pappas points poll race senate sununu",
-  "high rallies street time toward wall",
-  "approve envoys major russia sanctions wednesday",
-  "antarctic ghost hunts mysterious nobel particles physics prize scientist wins",
-  "attack beyond chaos comprehend evil footage harrowing hospital israeli shows",
   "attack deadliest event families house iran killed troops weren white",
   "attack canadian conspired officials school shooter washington",
   "ablaze attack black crew rescued russia ship tanker",
@@ -3603,6 +3597,12 @@
   "attack confiscated explosives hezbollah israel meant owned",
   "attack houthi kills minister missile palace presidential yemeni",
   "breaks ceasefire energy moscow refinery russian strikes trump ukraine",
-  "accumulated crash experienced killed pilot plane storm wings"
+  "accumulated crash experienced killed pilot plane storm wings",
+  "despite higher muscles stocks street swings wall",
+  "accused congress gaetz lawsuit matt still trafficking women",
+  "election investigates letters officials sent substance unknown",
+  "cancel deal diesel house join letter members russia sanctions trump urging",
+  "congressional election investigation mailings offices officials suspicious under",
+  "caused data disruption gaps nasdaq network resolves source"
  ]
 }
