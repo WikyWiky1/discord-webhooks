@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMixwFBVV95cUxPUmJNUHExMXkxTEJRR015UDdFT1NPaXlObGgwTk5hdko1dldBei1JMWFjVXBwWUN4ODVCVlpUZDhtQWg0WDZHazctOEN0ZnZ5SmdSa0hoTVljQWxYanUtLUdxaXdsSmVnNHdKUnhtU2pLYW5JRHpzQjc2c1k0U1VLUVRLVWhYTkdjVENGZ3Q1TkMwbVAzYlpQMUNWQ0FxZ2VuMGJvU21qaHhtejRfTWxvRVVFdEROMmNsRTE5TGNQLWU3djRzWVFB",
-  "https://nypost.com/?post_type=article&p=40999699",
   "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
   "CBMijgFBVV95cUxOTWFvZGl3dnM3QXZvYy1LZFYtS3JYcGROcHZtRDN3eFg2Z241SWFSSTBpUHVONW9Pb2FnVTJQakdZNW5NMDZzSFE1dXhoMU5JS2J0UDZrZlVMcmwtYzdodElTeFdsZG9KQkZXUHNjZXMzV3NSeXpoSVF6c0N1QXVFU2tKYzhlQ1NXTGlVMXdn",
   "https://nypost.com/?post_type=article&p=41000469",
@@ -799,21 +797,11 @@
   "CBMiuAFBVV95cUxPN2ozOThHN1NaTEJKenZhTFprb1Z3RFBDcGpvNE1DMFFUWVBtbDhIb1hYdVJIWEtKVC1sMmp2U2t4UEl4NFo2OTRGT3RUbUlBNnNPRkF3cnhwVTFOVzlrR09OSDBQQTJmMjVGdV9hdjNoTWxiWGpReXdsWFJOVXY3M3NwRTJOVHhZRWJvem43bk9aLUZuOE80ZTVfbkRfcU9udUxGVTRLeWwxMHZ1WW03aEhIS0FjV05l",
   "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
   "https://nypost.com/?post_type=article&p=41340033",
-  "CBMipwFBVV95cUxObnVEWElSRXpOUmlXck11bDFCalZydGhnSFNSSFVBV3FjZlhmTDl4RXNPbWlLSnBNNF9XQndRVzVnRDZrWmZid0xLSldiTDRFRTdqeWdObTNkTXlkYjNxZk14YVhkcHgySlQ1SFh4ekFPeGxZWDQ3MjN6cXZjTHlER3FKTGVoLUp2VTlGYzF3OFdlV2laczBSQzVFd2M3Vlk5Tk12eWJLYw"
+  "CBMipwFBVV95cUxObnVEWElSRXpOUmlXck11bDFCalZydGhnSFNSSFVBV3FjZlhmTDl4RXNPbWlLSnBNNF9XQndRVzVnRDZrWmZid0xLSldiTDRFRTdqeWdObTNkTXlkYjNxZk14YVhkcHgySlQ1SFh4ekFPeGxZWDQ3MjN6cXZjTHlER3FKTGVoLUp2VTlGYzF3OFdlV2laczBSQzVFd2M3Vlk5Tk12eWJLYw",
+  "https://nypost.com/?post_type=article&p=41341323",
+  "https://nypost.com/?post_type=article&p=41341562"
  ],
  "posts": [
-  {
-   "fp": "cases mark measles outbreak pass pennsylvania",
-   "title": "Pennsylvania measles cases pass 1K mark amid outbreak",
-   "source": "The Hill",
-   "at": "2026-10-05T21:45:20.352264+00:00"
-  },
-  {
-   "fp": "afternoon california county earthquake magnitude monday orange",
-   "title": "California\u2019s Orange County hit by 3.5-magnitude earthquake on Monday afternoon",
-   "source": "New York Post",
-   "at": "2026-10-05T21:45:22.366966+00:00"
-  },
   {
    "fp": "case count decades faces largest measles outbreak pennsylvania rises",
    "title": "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000",
@@ -3201,11 +3189,21 @@
    "title": "Brazil\u2019s Senate approves a shorter workweek in major win for Lula ahead of runoff",
    "source": "AP",
    "at": "2026-10-15T03:26:55.929298+00:00"
+  },
+  {
+   "fp": "authorities citizen costa dead found mystery rican sought woman",
+   "title": "Mystery woman sought by Costa Rican authorities after US citizen found dead",
+   "source": "New York Post",
+   "at": "2026-10-15T05:06:44.326531+00:00"
+  },
+  {
+   "fp": "blake brewers collapse dodgers game goes hero loss snell zero",
+   "title": "Blake Snell goes from hero to zero as Dodgers collapse in Game 3 loss to Brewers",
+   "source": "New York Post",
+   "at": "2026-10-15T05:06:46.333121+00:00"
   }
  ],
  "titles": [
-  "cases mark measles outbreak pass pennsylvania",
-  "afternoon california county earthquake magnitude monday orange",
   "case count decades faces largest measles outbreak pennsylvania rises",
   "chicago declares dropping emergency feet flight london",
   "attack base bombers drone iranian prompted pull threat",
@@ -3603,6 +3601,8 @@
   "accepts antitrust concessions marketing probe sanofi vaccine",
   "ahead brazil cuts hours lula runoff week work",
   "absurd california election excuses fight illegal offer officials voting",
-  "ahead approves brazil lula major runoff senate shorter workweek"
+  "ahead approves brazil lula major runoff senate shorter workweek",
+  "authorities citizen costa dead found mystery rican sought woman",
+  "blake brewers collapse dodgers game goes hero loss snell zero"
  ]
 }
