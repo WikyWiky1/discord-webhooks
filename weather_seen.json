@@ -1260,6 +1260,15 @@
    "expired": true,
    "posted_at": "2026-10-15T10:15:12+00:00",
    "expired_at": "2026-10-15T19:06:59+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.a809bf5bff37f0d107bbda8e339a8335a5ae0656.001.2",
+   "message_id": "1560587789437898817",
+   "event": "Freeze Warning",
+   "area": "Winnebago; Boone; Ogle",
+   "expired": false,
+   "posted_at": "2026-10-16T09:38:43+00:00",
+   "expired_at": null
   }
  ]
 }
