@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiowFBVV95cUxNMGV5NnVPbWRfbHRTM1pCU0Z6amtaVWFOTkpNZGI2eE9RS3cyZzBfMjNUZkZwR2tBLUhWMGZnUXNWcFpkVDRPR1VmR29PdVNjLUpjUFVPbkV5WWhMSDJ4ZUNaZ1ZVZFc4ZUlYcnNaenJrS0FVam1SblpMbG9VNHFJWmRObFNfU1hjSUsxMkZyM1QtODN1LUtxaGZIY0l2MS1Jangw",
   "https://nypost.com/?post_type=article&p=41012107",
   "CBMiswFBVV95cUxOUVF1UXZ0clUzdWpxRktGWjFjUGsxajFzZFp4eVNrNlctejhTQWZxRDFuYXd6SnA0bWhrVnVaTjZRLXJMR2VxUkdweVdiZ2FJaWpzUjVfZFhBVWgzTUx2emVTSVdwYko3Yy1WOU16bWVyZmw0OHpKQzZpX1JWa2tsOXRKYUl3ekVlUzE1MEh4eU9UWktidi1Cd1pfRkN2VmZ6QTFxMDRxblR3NkxYMHhjN1NaQQ",
   "CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU",
@@ -799,15 +798,10 @@
   "CBMiggFBVV95cUxNc3hBT3JZaFpZOHIteGVlMGY4RzVCb1ljUm1mTWt5MDQ2OFRtdEZaRk9OVnVKa2dmYnJNaGpyUklRc19oOXl6ZlNranhHekZkcWFTX3JsRUNJSEtQdTdEbEh4cnA3ZS1LT2U1THRkbU5EMTJiWU5hTnFXRkQtbkJxdWhR",
   "CBMiowFBVV95cUxOeVc5ZWVBX21zdFp4ajBqdnRfRDBkdzhNZ3hrOVc0X0ZKSko3SXZLYWN2U0kzVGkzQ3F6QkxzRkJUX2V4cG1Kc2h2RHVHazh6WGx6dFA0UjhVQnRCaHlaclNQbEg4X2lXaXhRcTl5Rlc5NjhtNWlNUHdrblh2MkJUY2tqWXBEMXo4RjROaWJNQkliVmlRVnRicHVwaXhISlMxb3Rn",
   "CBMivwFBVV95cUxPQkU1bHk0ei02ZkZRZndPemRvNGZFQnM5ODdrR2EyTU9WRjBUN3MwcGdtLXY2NnZnWld0UkM2MjBUMDUzWVV6ak1vcGNSV05KMllWVWotQS1TdGNLQnVFOERMRElid09YaVB2bUhGLXE4TlFJelBfRFg3QS1vOVBSLXVJWTV3R01CQ3FSZzVZMHlub3V1ZjFtYlJYNGwwRDRFeUxTeWFzNlJjS1dwSGo1a0xOaXRMc0tiWnlrbVBtMA",
-  "https://www.theguardian.com/business/2026/oct/16/british-food-drink-exports-to-eu-collapse-brexit"
+  "https://www.theguardian.com/business/2026/oct/16/british-food-drink-exports-to-eu-collapse-brexit",
+  "https://nypost.com/?post_type=article&p=41364224"
  ],
  "posts": [
-  {
-   "fp": "business consumer levi refunds rekindle strauss tariff uses",
-   "title": "Levi Strauss Uses Tariff Refunds to Rekindle Consumer Business",
-   "source": "WSJ",
-   "at": "2026-10-08T00:43:42.439819+00:00"
-  },
   {
    "fp": "blockbuster broadcom chips deals debt exclusive oracle seek spacex",
    "title": "Exclusive | Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
@@ -3201,10 +3195,15 @@
    "title": "British food and drink exports to EU collapse by more than a third since Brexit",
    "source": "Guardian World",
    "at": "2026-10-16T13:40:32.221458+00:00"
+  },
+  {
+   "fp": "discovery extraordinary jesus lost piece unveils world years",
+   "title": "Extraordinary discovery unveils piece of Jesus\u2019 world lost for 2,000 years",
+   "source": "New York Post",
+   "at": "2026-10-16T15:18:40.770568+00:00"
   }
  ],
  "titles": [
-  "business consumer levi refunds rekindle strauss tariff uses",
   "blockbuster broadcom chips deals debt exclusive oracle seek spacex",
   "democrat game pitches plan senate",
   "count dereliction drops duty election indictment james komatireddy rival saritha tish",
@@ -3603,6 +3602,7 @@
   "country defector helped hundreds kill officer russian turned ukraine",
   "collapse deadly inspections orders pakistan relatives risks school warned",
   "attack bank burn injure israeli journalist olive settlers trees west",
-  "brexit british collapse drink exports food since third"
+  "brexit british collapse drink exports food since third",
+  "discovery extraordinary jesus lost piece unveils world years"
  ]
 }
