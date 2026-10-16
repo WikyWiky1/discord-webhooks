@@ -1,13 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6113743",
-  "https://www.theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister",
-  "CBMilAFBVV95cUxQYnF6RmZ1ZlRFV1N0WmtIM2pNQWZoVGpWLWZBZm9tMkVCd2twT3VEWmswZWtZcXdRbVZUREFoNmtvQXBXd255UnYydVY3OG0xazlvZnFvT2ptZTkzMERPcjBjeWJxQ0ZyRk4tZlBKMUxRVHVYdm5adTh0SVBfa3c3d1hHWlZCUmh3WEg5bHU3TXBoN1pw",
-  "CBMisAFBVV95cUxQQmNRNTdyaGdENWhHUlEzVFpTVnRndmtXcDBfZlVmTVZpWWF2SEF6M1FwXzBtbFZRdWJWOGNKc2JfYll1aEZxamJYYTJwZ2pXMUZ0NW1wWjEyQXRObnRJa29BbzhrLWxXOTFmSVZlRlkyS1Z3endodzAyYm9Sc0NOYlE5REhwbnZQbERfdWc2Mi1LbWVyaGpiOGtjZ1dVWGQ2cTJib1FVM1ZJYkVZbmRJWA",
-  "CBMitwFBVV95cUxNaDJBSm5PZEgyWXNtNE5iZkF2cmVCNjhOakZMczZsdHFEd3hlVDdFTU44S0JVaHVmb1ozbEpudjVncUhic3l2RnNIVHltdi16cWZSM1p5M29hZ1ZlRU85aHZvckRSdGJ0X2M3bjVtXy1WS2xQcmh4cjBmUy05MWtXa0hkV2xSSVBHWVBvb1FpeXdob2o5QzRYVmNQV1ZrMFhjRVYwN19UYmRGRXNNOGpQTzEySUZFUjQ",
-  "CBMigwFBVV95cUxQQ2UzU0FZZGZ1eWU3dFlwQVAzdDNYZlAtd3E4aFhKQlJOUGQzX2lBQzd6S3ZPV2MyYzlsT1dZQi1raHpZbkRLZVdfQlhwWndZTW5qUjU3bG9LdWpBQlFXNGFrUTBkYXVsSm82bEI3TUFuN25RZGFPcW8yRkE1VnZWRGhXbw",
-  "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-election-nhs-style-care-service-labour-conference",
-  "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
   "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
   "CBMitwFBVV95cUxQRFFJaWVYT3FvOTdWUE5KVGVMUnI1QWxjbWdjTDgwY2p4SHI4M0lxRjdRSFd0dFBkMmVZRXd6RGNNcUhkZlVuXzhFQlZPQnJ5Zi1WSHhtOFZ1STVrUWdDRklZMG1DVTV5ajI1d0oxaWh6VFI5TmdIY2Rsc2NTVTROREJnZktIWGxEMWR4RUhPVjFzOW1sZkppV3R3VGVMSXBYTlIwMk01THlOYWFJaXlwQ1RVQUs3QlE",
   "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
@@ -799,57 +791,17 @@
   "CBMisAFBVV95cUxQSTFXVEx4VzRPN1IydkVnbXpuS2dDUHRTZlA2b2w0WEJxa2tTUG9wZTc0SVJRSU9RbTk4cEpGSERTRzNPeFZLTWdMVU12ZkJkd0ZvTmhJWlVXNHB6MjY2d0dhekp2bGNUaVFXUHNTQVlaT2hjQjkwWllETzFzY2tabGg3RzJDcC1mLS1XYXVxZnhkcjcwbk40Q1lkVlFmdm9jSzQwOTJ5amNxd2t4azdmdA",
   "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
   "CBMiqAFBVV95cUxPNlcwLW12UDlEZm1YNlAzTHVxTUJ0Zmh3OFZnZ0h5bmpmSUZzalllbG9XREtXYTZQUjNkYUNzWXpRTTFXWExjLV9vb1VpTVZCX1pBTFdZNGhoeE9lb0lGdTY1a0kwdldpNFE2c3VvUEx2b0JpTTBhc096THIwbWJGdVc2U0diMnhSNlgxZFVhR3pDeGxLc2J6US1tWG1MUElueFNxdGFvUTE",
-  "https://thehill.com/?p=6154012"
+  "https://thehill.com/?p=6154012",
+  "https://nypost.com/?post_type=article&p=41372575",
+  "CBMirgFBVV95cUxONEwybHNSVWxXcmxXaVN2dWdZX3dmMi1vYzU0Z0VvTEQzb1NHVTdSbWQ3X2dzVGFJWW05Ny1RVjMwZFl0Z3ZPZFl2MGs5WmxJbm1NcmRXcDIyOUNIUGdfME5KNFpmRW5SdS1wQ05zZHVWc3hvV01QREhhV05NWTMtWFFYNHhzUEo5aUVldmg0c0VNYjV5b1NFWGxzMDlTano4eHlpNmtRdUYtV0JQX0E",
+  "https://nypost.com/?post_type=article&p=41369040",
+  "CBMilAFBVV95cUxPU0VXNjdtQWhONTUxd0ZKTm1jRTJndEVFbGpCYzJFV0c5RTNFQ1BwclF2TmlEZHVCMDdZNkNsWEtSUkVpbDVYZ3U0SUlNTzVILUd6bVJVRkg4OWRnN0NJd0hrZ3ZkMTUtdVZnd1U4U2xOM3UwYXdrMkJSTWJ1aVlBQnVOZDNZUnpnMUJzWG9ZQ0Y1RVJx",
+  "https://www.washingtonexaminer.com/?p=4768409",
+  "CBMipwFBVV95cUxQakpWMVZRcm5uRGZud2VuRkNVTkNMRHgxY0NNd01RbXh5bmRoUi14WUdsVUJKWnBpM3RFUUo0MGQ3dWlOc2FfaUpGMzhRMmNQUS14aF9JeXZGa2VBdk5JQ205c0FFM1FzSlpIYmtWTC01R1RqQW9xa01WVnVzQ2REY0Y5b3oyQ2pCcDRTellPNjIyWkMxZUpGMEhVVkR0cF9EUkJpVjNhNA",
+  "CBMiqAFBVV95cUxOa3BVQ3NxY3E3dWFiU3BuWXlPb2ZMcnIyTFBySENFRDJhaGJEMUl2MHVyRF9TWDdicXh2dHVaUU9McmFRd3BXT2lBeFZjZkFBeVhoTk9COXNCdFJDbTdQTk1pOTNPVi1VRE8xX2NzRUV3a3RHWXBibUt0cERROWY0ekhMS3hHaUlPUU0yMjJYcG9Kdm9tM1dLcTNPdDZTcDh6Y2JQcXRaM1o",
+  "https://www.washingtonexaminer.com/?p=4768858"
  ],
  "posts": [
-  {
-   "fp": "aircraft attack base china exclusive images laos military satellite show vehicles visible",
-   "title": "EXCLUSIVE: Attack aircraft, military vehicles visible at new China-Laos base, satellite images show",
-   "source": "Reuters World",
-   "at": "2026-10-08T11:04:44.538337+00:00"
-  },
-  {
-   "fp": "2026 data england july record shows wildfires worst",
-   "title": "July 2026 was worst on record for wildfires in England, data shows",
-   "source": "Guardian World",
-   "at": "2026-10-08T11:04:46.563177+00:00"
-  },
-  {
-   "fp": "attack buses frontline kills near russian ukraine",
-   "title": "Russian attack on two buses kills 30 near Ukraine frontline",
-   "source": "Guardian World",
-   "at": "2026-10-08T11:04:48.285700+00:00"
-  },
-  {
-   "fp": "attack days dead injured poland school second",
-   "title": "One dead, two injured in Poland's second school attack in two days",
-   "source": "Reuters",
-   "at": "2026-10-08T11:04:50.168735+00:00"
-  },
-  {
-   "fp": "dead gathering memorial named service shot",
-   "title": "Man shot dead at memorial service gathering is named",
-   "source": "Sky News",
-   "at": "2026-10-08T11:04:52.469817+00:00"
-  },
-  {
-   "fp": "derailed efforts infighting lower prices republican",
-   "title": "GOP efforts to lower gas prices derailed by Republican infighting",
-   "source": "The Hill",
-   "at": "2026-10-08T11:04:54.335353+00:00"
-  },
-  {
-   "fp": "bodies death hits pull rescuers rubble russian strike toll ukraine",
-   "title": "Ukraine death toll hits 22 as rescuers pull bodies from rubble after Russian strike",
-   "source": "New York Post",
-   "at": "2026-10-08T11:04:56.068745+00:00"
-  },
-  {
-   "fp": "alabama coasts expected florida hurricane isaias mississippi stronger",
-   "title": "Hurricane Isaias is expected to get stronger on its way to Florida, Alabama and Mississippi coasts",
-   "source": "AP",
-   "at": "2026-10-08T11:04:57.943339+00:00"
-  },
   {
    "fp": "crew earth mission months nasa people return space",
    "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
@@ -3201,17 +3153,57 @@
    "title": "ICE officers 'did not identify themselves' ahead of Bronx shooting: Lawyers",
    "source": "The Hill",
    "at": "2026-10-16T17:46:19.174687+00:00"
+  },
+  {
+   "fp": "blaze fueled races socal structures threatened through wildfire wind",
+   "title": "Wildfire races through SoCal as structures threatened by wind-fueled blaze",
+   "source": "New York Post",
+   "at": "2026-10-16T20:22:03.908072+00:00"
+  },
+  {
+   "fp": "answers children killed oregon police school seek shooting",
+   "title": "Police seek answers after children killed in Oregon school shooting",
+   "source": "Reuters",
+   "at": "2026-10-16T20:22:05.592299+00:00"
+  },
+  {
+   "fp": "arrested back california driving identified loaded newsroom shooting station suspect",
+   "title": "California newsroom shooting suspect identified as she\u2019s arrested with loaded gun driving back to TV station",
+   "source": "New York Post",
+   "at": "2026-10-16T20:22:07.365998+00:00"
+  },
+  {
+   "fp": "centers data demand electricity growing meet nuclear plants power reviving shuttered",
+   "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers",
+   "source": "AP",
+   "at": "2026-10-16T20:22:09.063249+00:00"
+  },
+  {
+   "fp": "allegedly because coffins gold killed officer philadelphia police protests shot white",
+   "title": "No protests or gold coffins for Philadelphia police officer shot and killed allegedly because he was white",
+   "source": "Washington Examiner",
+   "at": "2026-10-16T20:22:11.154174+00:00"
+  },
+  {
+   "fp": "anti community foiled hate hindu illinois leaders mass online result shooting surge",
+   "title": "Community leaders say foiled Illinois mass shooting was result of surge in anti-Hindu hate online",
+   "source": "AP",
+   "at": "2026-10-16T20:22:12.824389+00:00"
+  },
+  {
+   "fp": "aftermath oregon photos school shooting",
+   "title": "The aftermath of a school shooting in Oregon, in photos",
+   "source": "AP",
+   "at": "2026-10-16T20:22:14.529380+00:00"
+  },
+  {
+   "fp": "bystander four heroically killed know oregon school shooter stops",
+   "title": "Bystander \u2018heroically\u2019 stops Oregon school shooter after four killed: What to know",
+   "source": "Washington Examiner",
+   "at": "2026-10-16T20:22:16.227934+00:00"
   }
  ],
  "titles": [
-  "aircraft attack base china exclusive images laos military satellite show vehicles visible",
-  "2026 data england july record shows wildfires worst",
-  "attack buses frontline kills near russian ukraine",
-  "attack days dead injured poland school second",
-  "dead gathering memorial named service shot",
-  "derailed efforts infighting lower prices republican",
-  "bodies death hits pull rescuers rubble russian strike toll ukraine",
-  "alabama coasts expected florida hurricane isaias mississippi stronger",
   "crew earth mission months nasa people return space",
   "airport attack capital claim evacuation houthis reports saudi witness",
   "attack elections iran midterm pledges trump",
@@ -3603,6 +3595,14 @@
   "attack developments east harvest israeli middle olive other palestinians settlers",
   "attack bank farmers israeli journalist olive post settlers washington west",
   "elementary governor helped local mass oregon praises school shooting",
-  "ahead bronx identify lawyers officers shooting themselves"
+  "ahead bronx identify lawyers officers shooting themselves",
+  "blaze fueled races socal structures threatened through wildfire wind",
+  "answers children killed oregon police school seek shooting",
+  "arrested back california driving identified loaded newsroom shooting station suspect",
+  "centers data demand electricity growing meet nuclear plants power reviving shuttered",
+  "allegedly because coffins gold killed officer philadelphia police protests shot white",
+  "anti community foiled hate hindu illinois leaders mass online result shooting surge",
+  "aftermath oregon photos school shooting",
+  "bystander four heroically killed know oregon school shooter stops"
  ]
 }
