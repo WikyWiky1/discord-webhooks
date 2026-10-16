@@ -1266,8 +1266,17 @@
    "message_id": "1560587789437898817",
    "event": "Freeze Warning",
    "area": "Winnebago; Boone; Ogle",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-10-16T09:38:43+00:00",
+   "expired_at": "2026-10-16T14:17:38+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.1ea1b58e372b4fc4a3be6011cc68b4e866a5e2d6.001.1",
+   "message_id": "1560657973162811443",
+   "event": "Freeze Warning",
+   "area": "Winnebago; Boone; McHenry; Ogle; Lee; De Kalb; Kane",
+   "expired": false,
+   "posted_at": "2026-10-16T14:17:36+00:00",
    "expired_at": null
   }
  ]
