@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6116086",
-  "CBMirgFBVV95cUxNNWVWLXFpd0pCWGx3QUhlYjJObi1JeTNDX2duSm5XSURrQkNBYndMMHp4VGdYUnQ2TDBER0NIdzkxaGtXcXVBUFVmUHEyektXRzhYZURMNnZhaC04M0RwSVNxS29IUDhXWjZkNFRtcWs0YU9GVExJQVhEa2VRN3VLb3BJTS1hT3pXY0tZaG1aMWIwRUNPUTRqLUJ3dF9yeFpkSEk3MzQ5NTR5Wml2OXc",
   "https://nypost.com/?post_type=article&p=41032123",
   "CBMitAFBVV95cUxPMXNCaFd6cFhVZnVqaUNuN2dFMG9HVUs2UGVqR3BNa01SY3pXU0RLWmZoZEdEaWwyeTdHVHhyX2dLalFPTDFqMkthSXhqTUxZWWE2YVdyYUZMd2VWQVZsNHgwSDNkRmZYcTFuVHc0Ykk3b2FjdDF1ODNZbjRFczFxOW9rVnJBOHNlLW5Ma0V6a29pd0l3TWdfMS1XTDN6UXNGcnB4b0QtVXlIZDU5X2tFd3dTQWc",
   "CBMijwFBVV95cUxQMHhqY2sxMy1CdFpVTmd5SFBWTWx2eEozaFl6NFZBR01jZjY3NWdxZzlBbzVVeW05VHJUcGI1b2ZDNGgwTXBMc2VUckNfSkhsMjdweUR0a25yNmsyeTdXZXpHZXFKOG9vMVBKcnYyNGFZUmcxa0w5LUd5Mm9iVEdZWGRfd2l2WVpVVk9kZUhBRQ",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=41379082",
   "CBMioAFBVV95cUxPOFFuREpXUWJPMll0WkRBeC1mamJwV1dqNW1PRW81d0J2cEhRTDMwaEZra0RDcGZwcHNfTVltOG1wMHk1TXlTVHRFdkhodDNXb19WUndSb0M1WFZLUjFob1RUWU1NTDkwLWxmSWtTQlZ6QW9EQS1UemFmUExmTF96V2NnWWNPdjNSdDJoeXozcTRCZUdFWUFDU0xQYl9QdWEw",
   "CBMilgFBVV95cUxQTl9peDRyUXIyRlVzSUs3ZDBpMi1ONHRqbkJVUUE1QjctUEtfbWhQVUZKZ0NfY3UxNnpPbl9McVJYMHA5U2FycFJld05RNG4tNFQ5Z2VSaXJhTTNnZ2VhQTI4OG1XRHVtWE9zTG5XbkcxcEx0eDF6YlpJS0ZSZmdza1YyTE9SS2tNNUsyT012MnNGSVNsZUE",
-  "CBMitgFBVV95cUxPYzJ4ZVJOeGdjS0xITnEyMmNUQnhJc2dwZ0V1ZG13VXJzclZrVUF0SXJOREVuVzhqU2ducUVhZ0JidE1HOXNrQURWWElEMGFZeklvOFI1N0pRY3cwWnZpcWRwakM0R1hIb29veGtvN2s1WHFkd3d4YlBOdlN6YTRoaUtTR3BkbkdrUmRKalVjZWN1WjkzcktOai11RTJOd1RpNE5jVjBtTEVKcG4xSzA0a05NX3dQQQ"
+  "CBMitgFBVV95cUxPYzJ4ZVJOeGdjS0xITnEyMmNUQnhJc2dwZ0V1ZG13VXJzclZrVUF0SXJOREVuVzhqU2ducUVhZ0JidE1HOXNrQURWWElEMGFZeklvOFI1N0pRY3cwWnZpcWRwakM0R1hIb29veGtvN2s1WHFkd3d4YlBOdlN6YTRoaUtTR3BkbkdrUmRKalVjZWN1WjkzcktOai11RTJOd1RpNE5jVjBtTEVKcG4xSzA0a05NX3dQQQ",
+  "https://nypost.com/?post_type=article&p=41380187",
+  "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective"
  ],
  "posts": [
-  {
-   "fp": "afghan back couple invasion later looks years",
-   "title": "25 years later an Afghan couple looks back at the invasion",
-   "source": "NPR News",
-   "at": "2026-10-09T09:53:01.181723+00:00"
-  },
-  {
-   "fp": "again breaks candidate michigan senate trump",
-   "title": "Michigan GOP Senate Candidate Breaks With Trump Again",
-   "source": "WSJ",
-   "at": "2026-10-09T10:07:53.442218+00:00"
-  },
   {
    "fp": "billions excuse hikes mamdani street wall wrecking",
    "title": "Wall Street\u2019s billions are wrecking Mamdani\u2019s excuse for tax hikes",
@@ -3201,11 +3189,21 @@
    "title": "AstraZeneca Strikes Up to $1.5 Billion AI Drug Discovery Deal With Insitro",
    "source": "WSJ",
    "at": "2026-10-17T10:13:58.139441+00:00"
+  },
+  {
+   "fp": "alligator fisherman foot killed shoreline stood",
+   "title": "Fisherman, 71, killed by 12-foot alligator while he stood on shoreline",
+   "source": "New York Post",
+   "at": "2026-10-17T13:11:30.788151+00:00"
+  },
+  {
+   "fp": "detective disease help measles outbreak pennsylvania send tackle",
+   "title": "CDC to send \u2018disease detective\u2019 to help tackle Pennsylvania measles outbreak",
+   "source": "Guardian World",
+   "at": "2026-10-17T13:11:32.514197+00:00"
   }
  ],
  "titles": [
-  "afghan back couple invasion later looks years",
-  "again breaks candidate michigan senate trump",
   "billions excuse hikes mamdani street wall wrecking",
   "again democrats overestimating polls senate",
   "2026 efforts international live named navi nobel peace pillay prize promote winner",
@@ -3603,6 +3601,8 @@
   "basketball bill champion cliff dead famer famous hagan hall involved russell trade",
   "congress passed russia sanctions trump waives",
   "asia ground recover rout stocks tech",
-  "astrazeneca billion deal discovery drug insitro strikes"
+  "astrazeneca billion deal discovery drug insitro strikes",
+  "alligator fisherman foot killed shoreline stood",
+  "detective disease help measles outbreak pennsylvania send tackle"
  ]
 }
