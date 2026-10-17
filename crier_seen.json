@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk",
-  "CBMiiAFBVV95cUxPcjNWb0xCanlSdllFdHJENU1SQ0xacUt1LUdCb2ZsQ1ljN19OQjJXMUhCSG00Wks3OVZaRHRfbEVyTkFET29YMUJZVDI5Q24xa05FUVdMeTFUekJ5OVd3RjBMQzJjSDhxZDZtUFZaSjlnUi1GX2VhVmwwa2YwZnhwdjFWRDd6QTF6",
   "https://www.washingtonexaminer.com/?p=4745714",
   "CBMiwgFBVV95cUxQOHIxYnY3TE1lQ1JIaWFqTGo2bE5IZ20wamRnZUhEMVdaZWdfWVRQVUpUQjFTSUg1elR2a1dMb1RwNTNnMmg1QXExOGthdmlQbkIweWwyS3JNaXVocWlPRU9kLWRQWmRQSlY1dHVWQ014b1cxT2dPY3pvUmNpMENwN29NV0E3VWpmaEU5N0h6WDFzcjBmNTBQSjlKRlRRQ2dpZEdHX3JUSGh5aTZiTjc0S0FTMmpfeUFld1VXZjd0LXloZw",
   "CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw",
@@ -799,21 +797,11 @@
   "https://thehill.com/?p=6155621",
   "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o#0",
   "https://nypost.com/?post_type=article&p=41378563",
-  "https://www.washingtonexaminer.com/?p=4769569"
+  "https://www.washingtonexaminer.com/?p=4769569",
+  "CBMiugFBVV95cUxNV3NIOEVCQUEzVWpmX2xOeWthUzNLN2F6ckF2VXR0d01haGVjeERwam8wMEk1aDBtUXdhVWlsSnFtT2VzeEVDa2RWN2IwMnhIdUgtNWdDdHQ3LXpmRm1UZG10NFU2eWw3TENlUFlUSDVWdnN6MVk1NkJoRmxMTE1xZjdQTGhZRjhuMUNmZEd6NWpxQ3lvTi1Ga3NkWWRLeGp4bmp5cFlDMTVaaWM1emNlYy0tU2F5aTFSYlE",
+  "https://nypost.com/?post_type=article&p=41379082"
  ],
  "posts": [
-  {
-   "fp": "affordable calls chair committee england funds homes housing labour urgent",
-   "title": "Labour chair of housing committee calls for urgent funds for affordable homes in England",
-   "source": "Guardian World",
-   "at": "2026-10-09T09:52:52.345201+00:00"
-  },
-  {
-   "fp": "airport attacks authority aviation killed nationals riyadh saudi three",
-   "title": "Three Saudi nationals killed in attacks on Riyadh airport, aviation authority says",
-   "source": "Reuters",
-   "at": "2026-10-09T09:52:54.087089+00:00"
-  },
   {
    "fp": "attack centre data drone russia second yandex",
    "title": "Russia's Yandex says second data centre hit by drone attack",
@@ -3201,11 +3189,21 @@
    "title": "Trump vows jail time for California election officials counting ballots from noncitizens",
    "source": "Washington Examiner",
    "at": "2026-10-17T03:12:59.066312+00:00"
+  },
+  {
+   "fp": "become boats coastline deadly stop superhighway trafficking",
+   "title": "\u2018The boats don\u2019t stop\u2019: The deadly coastline that has become a trafficking superhighway",
+   "source": "Telegraph",
+   "at": "2026-10-17T05:37:43.342623+00:00"
+  },
+  {
+   "fp": "basketball bill champion cliff dead famer famous hagan hall involved russell trade",
+   "title": "Cliff Hagan, Basketball Hall of Famer and champion involved in famous Bill Russell trade, dead at 94",
+   "source": "New York Post",
+   "at": "2026-10-17T05:37:45.115508+00:00"
   }
  ],
  "titles": [
-  "affordable calls chair committee england funds homes housing labour urgent",
-  "airport attacks authority aviation killed nationals riyadh saudi three",
   "attack centre data drone russia second yandex",
   "hurricane iran isaias latest newsbrief politics ukraine",
   "coast forecast heads hurricane mexico much pacific simon stronger",
@@ -3603,6 +3601,8 @@
   "effect graham outlined russian sanctions took trump waives",
   "amazon brazil deforestation election fall looms record sees",
   "hold interest national package pause puts russia sanctions trump",
-  "ballots california counting election jail noncitizens officials time trump vows"
+  "ballots california counting election jail noncitizens officials time trump vows",
+  "become boats coastline deadly stop superhighway trafficking",
+  "basketball bill champion cliff dead famer famous hagan hall involved russell trade"
  ]
 }
