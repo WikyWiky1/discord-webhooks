@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41032123",
   "CBMitAFBVV95cUxPMXNCaFd6cFhVZnVqaUNuN2dFMG9HVUs2UGVqR3BNa01SY3pXU0RLWmZoZEdEaWwyeTdHVHhyX2dLalFPTDFqMkthSXhqTUxZWWE2YVdyYUZMd2VWQVZsNHgwSDNkRmZYcTFuVHc0Ykk3b2FjdDF1ODNZbjRFczFxOW9rVnJBOHNlLW5Ma0V6a29pd0l3TWdfMS1XTDN6UXNGcnB4b0QtVXlIZDU5X2tFd3dTQWc",
   "CBMijwFBVV95cUxQMHhqY2sxMy1CdFpVTmd5SFBWTWx2eEozaFl6NFZBR01jZjY3NWdxZzlBbzVVeW05VHJUcGI1b2ZDNGgwTXBMc2VUckNfSkhsMjdweUR0a25yNmsyeTdXZXpHZXFKOG9vMVBKcnYyNGFZUmcxa0w5LUd5Mm9iVEdZWGRfd2l2WVpVVk9kZUhBRQ",
   "https://nypost.com/?post_type=article&p=41036648",
@@ -799,15 +798,10 @@
   "CBMilgFBVV95cUxQTl9peDRyUXIyRlVzSUs3ZDBpMi1ONHRqbkJVUUE1QjctUEtfbWhQVUZKZ0NfY3UxNnpPbl9McVJYMHA5U2FycFJld05RNG4tNFQ5Z2VSaXJhTTNnZ2VhQTI4OG1XRHVtWE9zTG5XbkcxcEx0eDF6YlpJS0ZSZmdza1YyTE9SS2tNNUsyT012MnNGSVNsZUE",
   "CBMitgFBVV95cUxPYzJ4ZVJOeGdjS0xITnEyMmNUQnhJc2dwZ0V1ZG13VXJzclZrVUF0SXJOREVuVzhqU2ducUVhZ0JidE1HOXNrQURWWElEMGFZeklvOFI1N0pRY3cwWnZpcWRwakM0R1hIb29veGtvN2s1WHFkd3d4YlBOdlN6YTRoaUtTR3BkbkdrUmRKalVjZWN1WjkzcktOai11RTJOd1RpNE5jVjBtTEVKcG4xSzA0a05NX3dQQQ",
   "https://nypost.com/?post_type=article&p=41380187",
-  "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective"
+  "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective",
+  "CBMioAFBVV95cUxPM2FlU3pFN0NfMWk0YjFsZmJuTVVVdG5qbDhOX1lWU1MzMjRSU0FibHdFODBoZU1MbUNZVmlBeWFfc21INEJ5VVQxSVV2Uk1DSWplOFpBMThzWUJsd0RpYWc1VjlBNVM3aFVVc2FGeVBLZUNwVUhhLXd6dC1wckZrOHVmQVo4dmhsWE5lck1qSVcxYWltaWc5UTBsRlNTZklU"
  ],
  "posts": [
-  {
-   "fp": "billions excuse hikes mamdani street wall wrecking",
-   "title": "Wall Street\u2019s billions are wrecking Mamdani\u2019s excuse for tax hikes",
-   "source": "New York Post",
-   "at": "2026-10-09T10:07:55.370740+00:00"
-  },
   {
    "fp": "again democrats overestimating polls senate",
    "title": "Are the polls overestimating Senate Democrats again?",
@@ -3201,10 +3195,15 @@
    "title": "CDC to send \u2018disease detective\u2019 to help tackle Pennsylvania measles outbreak",
    "source": "Guardian World",
    "at": "2026-10-17T13:11:32.514197+00:00"
+  },
+  {
+   "fp": "according adapting better goes here life plan rarely",
+   "title": "Life rarely goes according to plan. Here\u2019s how to get better at adapting",
+   "source": "AP",
+   "at": "2026-10-17T14:07:08.850990+00:00"
   }
  ],
  "titles": [
-  "billions excuse hikes mamdani street wall wrecking",
   "again democrats overestimating polls senate",
   "2026 efforts international live named navi nobel peace pillay prize promote winner",
   "2026 africa navanethem navi nobel peace pillay prize south wins",
@@ -3603,6 +3602,7 @@
   "asia ground recover rout stocks tech",
   "astrazeneca billion deal discovery drug insitro strikes",
   "alligator fisherman foot killed shoreline stood",
-  "detective disease help measles outbreak pennsylvania send tackle"
+  "detective disease help measles outbreak pennsylvania send tackle",
+  "according adapting better goes here life plan rarely"
  ]
 }
