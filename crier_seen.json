@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4745714",
-  "CBMiwgFBVV95cUxQOHIxYnY3TE1lQ1JIaWFqTGo2bE5IZ20wamRnZUhEMVdaZWdfWVRQVUpUQjFTSUg1elR2a1dMb1RwNTNnMmg1QXExOGthdmlQbkIweWwyS3JNaXVocWlPRU9kLWRQWmRQSlY1dHVWQ014b1cxT2dPY3pvUmNpMENwN29NV0E3VWpmaEU5N0h6WDFzcjBmNTBQSjlKRlRRQ2dpZEdHX3JUSGh5aTZiTjc0S0FTMmpfeUFld1VXZjd0LXloZw",
-  "CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw",
   "https://thehill.com/?p=6116086",
   "CBMirgFBVV95cUxNNWVWLXFpd0pCWGx3QUhlYjJObi1JeTNDX2duSm5XSURrQkNBYndMMHp4VGdYUnQ2TDBER0NIdzkxaGtXcXVBUFVmUHEyektXRzhYZURMNnZhaC04M0RwSVNxS29IUDhXWjZkNFRtcWs0YU9GVExJQVhEa2VRN3VLb3BJTS1hT3pXY0tZaG1aMWIwRUNPUTRqLUJ3dF9yeFpkSEk3MzQ5NTR5Wml2OXc",
   "https://nypost.com/?post_type=article&p=41032123",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=41378563",
   "https://www.washingtonexaminer.com/?p=4769569",
   "CBMiugFBVV95cUxNV3NIOEVCQUEzVWpmX2xOeWthUzNLN2F6ckF2VXR0d01haGVjeERwam8wMEk1aDBtUXdhVWlsSnFtT2VzeEVDa2RWN2IwMnhIdUgtNWdDdHQ3LXpmRm1UZG10NFU2eWw3TENlUFlUSDVWdnN6MVk1NkJoRmxMTE1xZjdQTGhZRjhuMUNmZEd6NWpxQ3lvTi1Ga3NkWWRLeGp4bmp5cFlDMTVaaWM1emNlYy0tU2F5aTFSYlE",
-  "https://nypost.com/?post_type=article&p=41379082"
+  "https://nypost.com/?post_type=article&p=41379082",
+  "CBMioAFBVV95cUxPOFFuREpXUWJPMll0WkRBeC1mamJwV1dqNW1PRW81d0J2cEhRTDMwaEZra0RDcGZwcHNfTVltOG1wMHk1TXlTVHRFdkhodDNXb19WUndSb0M1WFZLUjFob1RUWU1NTDkwLWxmSWtTQlZ6QW9EQS1UemFmUExmTF96V2NnWWNPdjNSdDJoeXozcTRCZUdFWUFDU0xQYl9QdWEw",
+  "CBMilgFBVV95cUxQTl9peDRyUXIyRlVzSUs3ZDBpMi1ONHRqbkJVUUE1QjctUEtfbWhQVUZKZ0NfY3UxNnpPbl9McVJYMHA5U2FycFJld05RNG4tNFQ5Z2VSaXJhTTNnZ2VhQTI4OG1XRHVtWE9zTG5XbkcxcEx0eDF6YlpJS0ZSZmdza1YyTE9SS2tNNUsyT012MnNGSVNsZUE",
+  "CBMitgFBVV95cUxPYzJ4ZVJOeGdjS0xITnEyMmNUQnhJc2dwZ0V1ZG13VXJzclZrVUF0SXJOREVuVzhqU2ducUVhZ0JidE1HOXNrQURWWElEMGFZeklvOFI1N0pRY3cwWnZpcWRwakM0R1hIb29veGtvN2s1WHFkd3d4YlBOdlN6YTRoaUtTR3BkbkdrUmRKalVjZWN1WjkzcktOai11RTJOd1RpNE5jVjBtTEVKcG4xSzA0a05NX3dQQQ"
  ],
  "posts": [
-  {
-   "fp": "attack centre data drone russia second yandex",
-   "title": "Russia's Yandex says second data centre hit by drone attack",
-   "source": "Reuters",
-   "at": "2026-10-09T09:52:55.775091+00:00"
-  },
-  {
-   "fp": "hurricane iran isaias latest newsbrief politics ukraine",
-   "title": "NEWSBRIEF: HURRICANE ISAIAS, UKRAINE WAR LATEST, POLITICS OF IRAN WAR",
-   "source": "NPR News",
-   "at": "2026-10-09T09:52:57.590509+00:00"
-  },
-  {
-   "fp": "coast forecast heads hurricane mexico much pacific simon stronger",
-   "title": "Hurricane Simon forecast to get much stronger as it heads to Mexico\u2019s Pacific coast",
-   "source": "New York Post",
-   "at": "2026-10-09T09:52:59.479720+00:00"
-  },
   {
    "fp": "afghan back couple invasion later looks years",
    "title": "25 years later an Afghan couple looks back at the invasion",
@@ -3201,12 +3183,27 @@
    "title": "Cliff Hagan, Basketball Hall of Famer and champion involved in famous Bill Russell trade, dead at 94",
    "source": "New York Post",
    "at": "2026-10-17T05:37:45.115508+00:00"
+  },
+  {
+   "fp": "congress passed russia sanctions trump waives",
+   "title": "Trump waives sanctions on Russia passed by Congress",
+   "source": "Telegraph",
+   "at": "2026-10-17T10:13:53.847338+00:00"
+  },
+  {
+   "fp": "asia ground recover rout stocks tech",
+   "title": "Asia Stocks Recover Some Ground After Tech Rout",
+   "source": "WSJ",
+   "at": "2026-10-17T10:13:55.534948+00:00"
+  },
+  {
+   "fp": "astrazeneca billion deal discovery drug insitro strikes",
+   "title": "AstraZeneca Strikes Up to $1.5 Billion AI Drug Discovery Deal With Insitro",
+   "source": "WSJ",
+   "at": "2026-10-17T10:13:58.139441+00:00"
   }
  ],
  "titles": [
-  "attack centre data drone russia second yandex",
-  "hurricane iran isaias latest newsbrief politics ukraine",
-  "coast forecast heads hurricane mexico much pacific simon stronger",
   "afghan back couple invasion later looks years",
   "again breaks candidate michigan senate trump",
   "billions excuse hikes mamdani street wall wrecking",
@@ -3603,6 +3600,9 @@
   "hold interest national package pause puts russia sanctions trump",
   "ballots california counting election jail noncitizens officials time trump vows",
   "become boats coastline deadly stop superhighway trafficking",
-  "basketball bill champion cliff dead famer famous hagan hall involved russell trade"
+  "basketball bill champion cliff dead famer famous hagan hall involved russell trade",
+  "congress passed russia sanctions trump waives",
+  "asia ground recover rout stocks tech",
+  "astrazeneca billion deal discovery drug insitro strikes"
  ]
 }
