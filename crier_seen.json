@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41024627",
-  "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
-  "CBMilgFBVV95cUxPbnV2QWZzNUNIR09FaDEtTFBwU0g2SmZwZ0U3YVNNd0kyVGFQTDFLU2Y1T1FSOUFnSVNHNmtoc2hCYklVeHg4QVJ0UDJPRndqZVBiV3h1U3ZsZmpRQzdELWdMejhzazZMenlmT3FrdkVaM0dBRlBieGRlWG1DRDVnOTB0bjhiT3ppNzZSaWFwc2tGMU83U2c",
-  "CBMisgFBVV95cUxNaTZVb3hzWXBQeHRhaVVONlNmN1hHZXpwWVl2c085NnlhWlVwaFNvd2pFclRpZDhvTWd1aDhpU0N3cFd3LWxCb01SQnY0MHUzMnpPZHRTd2xvRUFkOUQyUnBlZ0lSemNjQXhQM0dVYnZFX3NfTnA0ZjEyTmZhNUZUNXI4Rk1rVFFvQjlrMVBJSEo5TTgyVHYtQWFfOWNwY2RSekdpZ0prUHRXOTZUc2lCUkhn",
-  "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
-  "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa",
   "CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk",
   "CBMiiAFBVV95cUxPcjNWb0xCanlSdllFdHJENU1SQ0xacUt1LUdCb2ZsQ1ljN19OQjJXMUhCSG00Wks3OVZaRHRfbEVyTkFET29YMUJZVDI5Q24xa05FUVdMeTFUekJ5OVd3RjBMQzJjSDhxZDZtUFZaSjlnUi1GX2VhVmwwa2YwZnhwdjFWRDd6QTF6",
   "https://www.washingtonexaminer.com/?p=4745714",
@@ -799,45 +793,15 @@
   "CBMirAFBVV95cUxNVk5uUzN5NzdZNkh6U3AtRFNyMzQ3WU9vcTJNdmJCMW9FUVZJOVltaEFMS1FFUnduSHJOTUctYzlCVnJKdmF0WkY0ZEVyWFlpVzRrZDA4c0N4c0JVTFRJSUFJWVg5RWJialRCMXdOVlNIWWRQcW1WTmtWak5DcE4weGFqNnE1SFlPcVdlenMwM3VXdTUzQTFkczZtdTFZTnBrVnplVDhEVVZkajBw",
   "CBMitwFBVV95cUxPeVZCM0dGV20xQzhvdElxcHVXZXh2OHpwSzdkQ2tfYjNyNWxMVnJKNzBuOXJyTkJwcEJTbHo4Rlo5a0hsZ2JuZWFKTkc5OGRUOF9meEJrMWRDRG5NSWFpc293OVQ4RzB6eU5iRHZRdld2U1FFMTRxeHBHcUhGeHVwUU13ekRKZDEwZUJWb0tMRWJWX2k5M0F5WUVBWWFnR2VnY1ZueTNfZzQzUzhIR2Z3NWhSdlI2aGs",
   "https://pagesix.com/?post_type=article&p=9248390",
-  "https://nypost.com/?post_type=article&p=41374736"
+  "https://nypost.com/?post_type=article&p=41374736",
+  "https://www.washingtonexaminer.com/?p=4769595",
+  "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#0",
+  "https://thehill.com/?p=6155621",
+  "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o#0",
+  "https://nypost.com/?post_type=article&p=41378563",
+  "https://www.washingtonexaminer.com/?p=4769569"
  ],
  "posts": [
-  {
-   "fp": "airlines airport attack capital claim flights houthis riyadh saudi suspend",
-   "title": "Houthis claim attack on Riyadh airport as airlines suspend flights to Saudi capital",
-   "source": "Guardian World",
-   "at": "2026-10-09T02:40:50.900082+00:00"
-  },
-  {
-   "fp": "demand latest mamdani operations shooting trump",
-   "title": "Mamdani to \u2018demand\u2019 Trump end ICE operations in NYC after latest shooting",
-   "source": "Washington Examiner",
-   "at": "2026-10-09T02:40:52.684108+00:00"
-  },
-  {
-   "fp": "defend eritrea ethiopia invasion itself must",
-   "title": "Ethiopia says it must defend itself against Eritrea's 'all-out invasion'",
-   "source": "Reuters",
-   "at": "2026-10-09T09:52:45.284303+00:00"
-  },
-  {
-   "fp": "execution firing fort gunman hood livestream questions squad supports survivor",
-   "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-   "source": "BBC World",
-   "at": "2026-10-09T09:52:47.008630+00:00"
-  },
-  {
-   "fp": "allen attack bloodied grocery gunpoint hollywood keegan knifepoint liars little luxury outside pretty robbed star store",
-   "title": "Bloodied \u2018Pretty Little Liars\u2019 star Keegan Allen robbed at gunpoint, knifepoint in attack outside luxury Hollywood grocery store",
-   "source": "New York Post",
-   "at": "2026-10-09T09:52:48.714511+00:00"
-  },
-  {
-   "fp": "biggest cuts experts fema hurricane isaias since test trump warn",
-   "title": "Hurricane Isaias \u2018biggest test\u2019 for Fema since Trump cuts, experts warn",
-   "source": "Guardian World",
-   "at": "2026-10-09T09:52:50.477598+00:00"
-  },
   {
    "fp": "affordable calls chair committee england funds homes housing labour urgent",
    "title": "Labour chair of housing committee calls for urgent funds for affordable homes in England",
@@ -3201,15 +3165,45 @@
    "title": "NYC girl, 5, killed by mom suffered heart, brain injuries, DA reveals \u2014 as family reels: \u2018I forgive my daughter\u2019",
    "source": "New York Post",
    "at": "2026-10-17T01:10:56.323381+00:00"
+  },
+  {
+   "fp": "graham lindsey named ordered russia sanctions trump waives",
+   "title": "Trump waives Russia sanctions ordered by law named for Lindsey Graham",
+   "source": "Washington Examiner",
+   "at": "2026-10-17T03:12:50.485887+00:00"
+  },
+  {
+   "fp": "effect russia sanctions several takes trump waives",
+   "title": "Trump waives several Russia sanctions as new US law takes effect",
+   "source": "BBC World",
+   "at": "2026-10-17T03:12:52.177296+00:00"
+  },
+  {
+   "fp": "effect graham outlined russian sanctions took trump waives",
+   "title": "Trump waives Russian sanctions outlined in Graham Act before they took effect",
+   "source": "The Hill",
+   "at": "2026-10-17T03:12:53.945226+00:00"
+  },
+  {
+   "fp": "amazon brazil deforestation election fall looms record sees",
+   "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+   "source": "BBC World",
+   "at": "2026-10-17T03:12:55.677738+00:00"
+  },
+  {
+   "fp": "hold interest national package pause puts russia sanctions trump",
+   "title": "Trump puts Russia sanctions package on hold, says pause is in national interest",
+   "source": "New York Post",
+   "at": "2026-10-17T03:12:57.339348+00:00"
+  },
+  {
+   "fp": "ballots california counting election jail noncitizens officials time trump vows",
+   "title": "Trump vows jail time for California election officials counting ballots from noncitizens",
+   "source": "Washington Examiner",
+   "at": "2026-10-17T03:12:59.066312+00:00"
   }
  ],
  "titles": [
-  "airlines airport attack capital claim flights houthis riyadh saudi suspend",
-  "demand latest mamdani operations shooting trump",
-  "defend eritrea ethiopia invasion itself must",
-  "execution firing fort gunman hood livestream questions squad supports survivor",
-  "allen attack bloodied grocery gunpoint hollywood keegan knifepoint liars little luxury outside pretty robbed star store",
-  "biggest cuts experts fema hurricane isaias since test trump warn",
   "affordable calls chair committee england funds homes housing labour urgent",
   "airport attacks authority aviation killed nationals riyadh saudi three",
   "attack centre data drone russia second yandex",
@@ -3603,6 +3597,12 @@
   "asia battered dive semiconductor stocks",
   "acts civilian heroic oregon police praise shooting",
   "actor breaking breaks brother down just memorial miss mitte really service sister tears",
-  "brain daughter family forgive girl heart injuries killed reels reveals suffered"
+  "brain daughter family forgive girl heart injuries killed reels reveals suffered",
+  "graham lindsey named ordered russia sanctions trump waives",
+  "effect russia sanctions several takes trump waives",
+  "effect graham outlined russian sanctions took trump waives",
+  "amazon brazil deforestation election fall looms record sees",
+  "hold interest national package pause puts russia sanctions trump",
+  "ballots california counting election jail noncitizens officials time trump vows"
  ]
 }
