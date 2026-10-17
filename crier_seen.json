@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMigAFBVV95cUxPdUdHbXFfOWhYTHR4RThUNkhYMTBtd2lsU3pkV0EzWkRMUl9aY1laazdoamFKZXBValllYmcxTVNTRkNwQVBXZngyOGduVEFTc2pNMzNydXJZNFNDOGNOLS00aHBCUnZVQkp1eUJGNkhLZEI4VVhVc2hTNi02MzlKeQ",
-  "https://nypost.com/?post_type=article&p=41022619",
-  "https://nypost.com/?post_type=article&p=41023576",
   "https://nypost.com/?post_type=article&p=41024627",
   "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
   "CBMilgFBVV95cUxPbnV2QWZzNUNIR09FaDEtTFBwU0g2SmZwZ0U3YVNNd0kyVGFQTDFLU2Y1T1FSOUFnSVNHNmtoc2hCYklVeHg4QVJ0UDJPRndqZVBiV3h1U3ZsZmpRQzdELWdMejhzazZMenlmT3FrdkVaM0dBRlBieGRlWG1DRDVnOTB0bjhiT3ppNzZSaWFwc2tGMU83U2c",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6154613",
   "https://thehill.com/?p=6155303",
   "CBMinAFBVV95cUxNeXBpcEpXNEdyTTRkb0VfcDRmVEdGM0NTbEY5ZXlBc2N2STdjLXBtWGtTVnZYbHlkNFlFVVBnWFdxUlgzNzR2bFlWQjJ2Q3lQYXo4NXFfSEN3bmJPME5BMDdvcjBtSWJqSmRaM2txNVg0MHZzOXg2M2MyWVV3U1BzZjRBY25lWG8xb1JZalBGV0EwdV85RTI1cnlQd0U",
-  "CBMirAFBVV95cUxNVk5uUzN5NzdZNkh6U3AtRFNyMzQ3WU9vcTJNdmJCMW9FUVZJOVltaEFMS1FFUnduSHJOTUctYzlCVnJKdmF0WkY0ZEVyWFlpVzRrZDA4c0N4c0JVTFRJSUFJWVg5RWJialRCMXdOVlNIWWRQcW1WTmtWak5DcE4weGFqNnE1SFlPcVdlenMwM3VXdTUzQTFkczZtdTFZTnBrVnplVDhEVVZkajBw"
+  "CBMirAFBVV95cUxNVk5uUzN5NzdZNkh6U3AtRFNyMzQ3WU9vcTJNdmJCMW9FUVZJOVltaEFMS1FFUnduSHJOTUctYzlCVnJKdmF0WkY0ZEVyWFlpVzRrZDA4c0N4c0JVTFRJSUFJWVg5RWJialRCMXdOVlNIWWRQcW1WTmtWak5DcE4weGFqNnE1SFlPcVdlenMwM3VXdTUzQTFkczZtdTFZTnBrVnplVDhEVVZkajBw",
+  "CBMitwFBVV95cUxPeVZCM0dGV20xQzhvdElxcHVXZXh2OHpwSzdkQ2tfYjNyNWxMVnJKNzBuOXJyTkJwcEJTbHo4Rlo5a0hsZ2JuZWFKTkc5OGRUOF9meEJrMWRDRG5NSWFpc293OVQ4RzB6eU5iRHZRdld2U1FFMTRxeHBHcUhGeHVwUU13ekRKZDEwZUJWb0tMRWJWX2k5M0F5WUVBWWFnR2VnY1ZueTNfZzQzUzhIR2Z3NWhSdlI2aGs",
+  "https://pagesix.com/?post_type=article&p=9248390",
+  "https://nypost.com/?post_type=article&p=41374736"
  ],
  "posts": [
-  {
-   "fp": "chip crude jump lower nasdaq prices stocks weigh",
-   "title": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh",
-   "source": "Reuters",
-   "at": "2026-10-09T00:59:52.943388+00:00"
-  },
-  {
-   "fp": "acquisition carriers spacex spectrum takes wireless",
-   "title": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
-   "source": "Reuters",
-   "at": "2026-10-09T00:59:54.594367+00:00"
-  },
-  {
-   "fp": "anne author blend bold canadian carson genres inventive literature nobel wins works",
-   "title": "Canadian author Anne Carson wins literature Nobel for 'bold and inventive' works that blend genres",
-   "source": "AP",
-   "at": "2026-10-09T00:59:56.244602+00:00"
-  },
   {
    "fp": "airlines airport attack capital claim flights houthis riyadh saudi suspend",
    "title": "Houthis claim attack on Riyadh airport as airlines suspend flights to Saudi capital",
@@ -3201,12 +3183,27 @@
    "title": "Asia Stocks Battered as Semiconductor Stocks Dive",
    "source": "WSJ",
    "at": "2026-10-16T23:16:17.083355+00:00"
+  },
+  {
+   "fp": "acts civilian heroic oregon police praise shooting",
+   "title": "Police Praise \u2018Heroic\u2019 Civilian Acts in Oregon Shooting",
+   "source": "WSJ",
+   "at": "2026-10-17T01:10:52.837871+00:00"
+  },
+  {
+   "fp": "actor breaking breaks brother down just memorial miss mitte really service sister tears",
+   "title": "RJ Mitte\u2019s sister breaks down in tears at \u2018Breaking Bad\u2019 actor\u2019s memorial service: \u2018I just really miss my brother\u2019",
+   "source": "New York Post",
+   "at": "2026-10-17T01:10:54.601045+00:00"
+  },
+  {
+   "fp": "brain daughter family forgive girl heart injuries killed reels reveals suffered",
+   "title": "NYC girl, 5, killed by mom suffered heart, brain injuries, DA reveals \u2014 as family reels: \u2018I forgive my daughter\u2019",
+   "source": "New York Post",
+   "at": "2026-10-17T01:10:56.323381+00:00"
   }
  ],
  "titles": [
-  "chip crude jump lower nasdaq prices stocks weigh",
-  "acquisition carriers spacex spectrum takes wireless",
-  "anne author blend bold canadian carson genres inventive literature nobel wins works",
   "airlines airport attack capital claim flights houthis riyadh saudi suspend",
   "demand latest mamdani operations shooting trump",
   "defend eritrea ethiopia invasion itself must",
@@ -3603,6 +3600,9 @@
   "final michigan push race sayed senate transfers",
   "democrats medicare plans senate strengthening unveil",
   "credit fall fears haunt sector stocks tech",
-  "asia battered dive semiconductor stocks"
+  "asia battered dive semiconductor stocks",
+  "acts civilian heroic oregon police praise shooting",
+  "actor breaking breaks brother down just memorial miss mitte really service sister tears",
+  "brain daughter family forgive girl heart injuries killed reels reveals suffered"
  ]
 }
