@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6116612",
-  "https://thehill.com/?p=6118418",
   "CBMimAFBVV95cUxPTFJEWUpuTldVdUVyQ1hEajlmMXJ6T2JfQnJjZkplSW03Y2ZENlhTYjRuczh4cU9kX2lobzc3dU1ENENfS0R2U0VWR3lwVUNCaFh4Tm14YTBjOWJCbDFhZ0VZWUdSQUx5NnQzQlkzTmVJS0xoNGVMaW80bGhCRTU1UU0zSjdGQ1Y5dFNlRTdlMlFrM2NCdkNqdA",
   "https://www.washingtonexaminer.com/?p=4747077",
   "CBMivgFBVV95cUxPREhyTmwyTVctRWRwWjJyd3hDbmlZdHNXeW9IUzFGR2ItR051WVRCMFNMMHZsVzV1Ry1TWFotTS1mY0lwUkdhdWRqY3AxTXZBQzlhSndYTkRxSlI5VmdEbGRhNWVPc3BxRFhFVXZieE16U3JXQ2ZKa1RISzdkODJBeG9zU2VBTkEwZUpyakhDcThHVnZYb3FxU0dObXFFM3NiN0kzOUt1X3diaEFvMWllRkk5WkxEQjFHUW81VGpn",
@@ -799,21 +797,11 @@
   "CBMikwFBVV95cUxQYXpxNUhXaFF2VDY3NTNha1lycXhGTUJzZ2VlRE9DOGVIVTA2cW1kMlJuV1pTX1g1UW1jOWJuVjhGbnBJOGVFX0ZJRnU3UWt0LXFOeC1JQ0ZUUUNBR0NMeWN1aFlMLTZ6eUpLUjRrVVNQQWpKaFNjQU5OeXJ1b3BxS1VFSk12cHpkZHh4RFJrN0tLS0E",
   "https://nypost.com/?post_type=article&p=41383696",
   "CBMijAFBVV95cUxNWVptdmRESFJoczJQTnlZb1M2WnNSUU84eVRXTkcwOFpQbktZR3p4VEhTZHhfMWNvTm9VaVMzeXk4TGZPZV8tX2R3TjdUN2JiNmhTbkk0alNVR0xYbVF5b2NMQ3l6ZDN1bXl4X1pBMlhoQkkxR2RTNHAwRHU0R3F6aVRlNnNIQ0ZGWmVBMQ",
-  "https://news.sky.com/story/crush-at-religious-festival-kills-at-least-17-and-injures-dozens-in-india-13600451"
+  "https://news.sky.com/story/crush-at-religious-festival-kills-at-least-17-and-injures-dozens-in-india-13600451",
+  "CBMiNkFVX3lxTE5jYTZQNEFYbnZ6VjBFc1hGMF9WeGNwT08wOHRFRFQwa2dHeEY4NUd2UVhXZU1uQQ",
+  "CBMikwFBVV95cUxOTlFreUZmRnpDR1p2YS1jU0NZT09sSjhWb2p1RnVWOEFkb1V5WjByem9HTV8zZVoybHV2ZXI5b2NvWlFIY19WeTFLQUFsV1VWXy05RzUtcDNVNVUzVjZoY3BVNzVHeEJSeGlOU3BVbzJsMTNFb0FFQnVaYkE4eFRyMFYxS1poNi16M2pqY09ZRVJBcnM"
  ],
  "posts": [
-  {
-   "fp": "brian cowboys goes johnson keyshawn loss nuclear schottenheimer time",
-   "title": "Keyshawn Johnson goes nuclear on Cowboys, Brian Schottenheimer after TNF loss: \u2018It\u2019s time\u2019",
-   "source": "New York Post",
-   "at": "2026-10-09T21:24:56.531702+00:00"
-  },
-  {
-   "fp": "afer attack cops fighting free kids life maniac other stabbing toddler went",
-   "title": "Toddler \u2018fighting for her life\u2019 afer attack by maniac who went free after stabbing two other kids: cops",
-   "source": "New York Post",
-   "at": "2026-10-09T21:24:58.203490+00:00"
-  },
   {
    "fp": "city furious hill marble residents shooting york",
    "title": "New York City\u2019s Marble Hill residents furious after ICE shooting: \u2018Why do this?\u2019",
@@ -3201,11 +3189,21 @@
    "title": "Crush at religious festival kills at least 17 and injures dozens in India",
    "source": "Sky News",
    "at": "2026-10-17T21:10:30.398983+00:00"
+  },
+  {
+   "fp": "journal street wall",
+   "title": "The Wall Street Journal for FSU - WSJ",
+   "source": "WSJ",
+   "at": "2026-10-17T22:54:34.840151+00:00"
+  },
+  {
+   "fp": "debates five maine senate takeaways",
+   "title": "Five Takeaways From Maine\u2019s Senate Debates",
+   "source": "WSJ",
+   "at": "2026-10-17T22:54:36.565708+00:00"
   }
  ],
  "titles": [
-  "brian cowboys goes johnson keyshawn loss nuclear schottenheimer time",
-  "afer attack cops fighting free kids life maniac other stabbing toddler went",
   "city furious hill marble residents shooting york",
   "buildings damages disrupts panama power quake strong travel",
   "airport attack flydubai israeli pilot planned prosecutors suicide",
@@ -3603,6 +3601,8 @@
   "babis czech elections senate setback suffers",
   "activist drugged emergency fatally part raped sexual student violence women",
   "killed manhattan midtown platform shot subway",
-  "crush dozens festival india injures kills least religious"
+  "crush dozens festival india injures kills least religious",
+  "journal street wall",
+  "debates five maine senate takeaways"
  ]
 }
