@@ -1311,9 +1311,9 @@
    "message_id": "1560969310820892803",
    "event": "Freeze Warning",
    "area": "Winnebago; Boone; McHenry; Ogle; Lee; De Kalb; Kane",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-10-17T10:54:45+00:00",
-   "expired_at": null
+   "expired_at": "2026-10-17T14:07:49+00:00"
   }
  ]
 }
