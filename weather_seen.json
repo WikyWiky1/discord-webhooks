@@ -1293,8 +1293,17 @@
    "message_id": "1560764128069689505",
    "event": "Freeze Warning",
    "area": "Winnebago; Boone; McHenry; Ogle; Lee; De Kalb; Kane",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-10-16T21:19:25+00:00",
+   "expired_at": "2026-10-17T06:12:52+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.7167846bc769d3fad840ee53e85ef1fb90bfe357.002.1",
+   "message_id": "1560898364625915977",
+   "event": "Freeze Warning",
+   "area": "Winnebago; Boone; McHenry; Ogle; Lee; De Kalb; Kane",
+   "expired": false,
+   "posted_at": "2026-10-17T06:12:50+00:00",
    "expired_at": null
   }
  ]
