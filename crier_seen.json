@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
   "https://nypost.com/?post_type=article&p=41051544",
   "CBMiqAFBVV95cUxONkhBalNMTGtET0JiTk13OVZlSTdYdGtJdTR5ZmJnQzZrOVpPa2NOVUQ1aEdtd2hJdHFpOEJnbGdyQ0hZTWhGdUFMcFdvYVhqRndZMlpaR1E3TldsQy1vYzlESHJocUkwNi1DWnJBMk44Ymp2RGRyMnFoZk4xdXhhWlNiQmxxcjRxVDF3MWdKXy1HM0FHVFppNGhwaGpEWHJDSEwySUJIMG0",
   "CBMioAFBVV95cUxQOEJ1elhJZkRHelRILWU5XzZJam8xRHloN1ZMZW80N1NQRjhjZ0w1ZGpueGhaVVRTSVdCRDFyZzNHenhvdEN2a0hPc0ItQXpSbjNaTWJtaHpRUUZ3Unpqa0I5bFppZjdjX19kZk5EWmYtZ1FRTGFza0syZnd5b0JHZjFMQ3NKZVFseS1LN2c1SFU4UEVmV2R3S2dzUEdPVHVZ",
@@ -799,15 +798,10 @@
   "CBMiygFBVV95cUxQQUdGblRuOW5ZdjFTRUR1WkFYdEZKeDAxbjVscWNybm1RS3ZwelZlT084SVFHOFFRcDY5U1dlNUYtNkJKdHJUZEJITmZBeFBCSEZsR1RfNzdwcTY4ejNON0JycmgxN21xSTRPUjRFM2Uyd1ViNkdaZWdPQUJrUTRZd1dUVWIxOGI0Z1UxYjVkaDlZYUVzN3psc3g0bzF3OGo4MkF0NU9ZTmkzZC1zM0g4SUhRWTRqYUI0NWNaYmljYTFVSHM1eHU3d2pR",
   "https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico",
   "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings",
-  "https://thehill.com/?p=6156233"
+  "https://thehill.com/?p=6156233",
+  "https://nypost.com/?post_type=article&p=41388752"
  ],
  "posts": [
-  {
-   "fp": "agreeing diesel lift live politics president putin russian sanctions thank trump want",
-   "title": "\u2018I want to thank President Putin\u2019, Trump says after agreeing to lift sanctions on Russian diesel \u2013 US politics live",
-   "source": "Guardian World",
-   "at": "2026-10-10T00:29:57.106261+00:00"
-  },
   {
    "fp": "claims election fain rout shawn victory",
    "title": "Shawn Fain Claims Victory in UAW Election Rout",
@@ -3201,10 +3195,15 @@
    "title": "Sen. Graham on Trump waiving Russia sanctions: \u2018I look forward to talking to him\u2019",
    "source": "The Hill",
    "at": "2026-10-18T03:16:41.978813+00:00"
+  },
+  {
+   "fp": "apartment armed barricaded cops himself nutjob people shooting",
+   "title": "Armed nutjob barricaded himself in NYC apartment after shooting two people: cops",
+   "source": "New York Post",
+   "at": "2026-10-18T05:57:43.540723+00:00"
   }
  ],
  "titles": [
-  "agreeing diesel lift live politics president putin russian sanctions thank trump want",
   "claims election fain rout shawn victory",
   "diesel export lifts russia sanctions trump",
   "hating israel nobel opinion prize",
@@ -3603,6 +3602,7 @@
   "coast expected gains hurricane mexico near strength sunday trudy weaken",
   "category heads hurricane mexico strengthens toward trudy",
   "child drives game including kansas killed people person soccer through",
-  "forward graham look russia sanctions talking trump waiving"
+  "forward graham look russia sanctions talking trump waiving",
+  "apartment armed barricaded cops himself nutjob people shooting"
  ]
 }
