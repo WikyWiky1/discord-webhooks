@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiYkFVX3lxTE5TVnVlaExNOHVtZ2hjR0dhUzRVVVdEaU9QRUktaXE2R3Y2Y0JuZnozRzRfaF8ya2dSaXRWOEE1XzZpYWE4bTVMUl9CNzhza3FfRHZtX0tmYW9yS1pzT0RmZ3ZR",
   "CBMipgFBVV95cUxQUE03QmpOQjdEaVZkY1FucnlLVzhHckJBaHBEN3BTQ1RQeFBySnNjVjJoamoyb2dMdk1CeXpqWXozczMtZ1BlVWNVanFfZmppQk9fbXFsekgxVV95aEZBQS12X0lrMU5DYTlGWGg5VWExSzY2bmxYZHk3SDBGd3NWa1VyMUlqblZ1cHVQdXdaN2JQT01SSUJzeHpvc25zckh6eE9oSTNn",
   "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
   "https://nypost.com/?post_type=article&p=41053388",
@@ -799,15 +798,10 @@
   "CBMiwAFBVV95cUxOemk4X2xPTVdPcGIyVGlJTjhxOVE2b1o1Q293MldnX1NPQTdQVzJJc3hqYmVWT0xkMkhaMFF4LTJZY1RNSFZaRmlEMGQtX3d0TmZYdWU1NnMxeWZXZmp6WjByX0xDZEt6Z0dRRjE5eVBLWlByZGgyNHVCMGR0d3FuS2NOWHJodjJJZGYzcXVGaENKc01HaUd0VjlZeENPWjV2bHZBWFA3a1FITGFaMWtXdWNNRmpERmZ1ZFEyOTBEZHE",
   "CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw",
   "CBMipAFBVV95cUxOQk1CaFJzdndtbXhWVTJOMGt5WlZ5RDlzSDVEeklqU3ZuMzJPOThZOTV2cG5IWDVIMi1lSFJXWkhVdVg4OGdoajdEb0hhWWlxbVVuNkc2bGc2RlJZZTN5MDEyM2oxRU9UdkVYcWhGRHQzLUt6NktVemhJYnpTMG9MRUtJMXFSTzA3REFkcEhOTHd5ZEZBUndfZHVrR1BoeFFsRXJ1aA",
-  "https://www.theguardian.com/stage/2026/oct/18/bristol-old-vic-arts-emergency-city-academy-theatre-plays-access"
+  "https://www.theguardian.com/stage/2026/oct/18/bristol-old-vic-arts-emergency-city-academy-theatre-plays-access",
+  "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty"
  ],
  "posts": [
-  {
-   "fp": "curbs gulf hurricane isaias mexico platforms production",
-   "title": "BP Curbs Production at Two Platforms in Gulf of Mexico Due to Hurricane Isaias",
-   "source": "WSJ",
-   "at": "2026-10-10T13:46:14.201285+00:00"
-  },
   {
    "fp": "hundreds hurricane isaias live power spinoff thousands tornadoes updates warning without",
    "title": "Hurricane Isaias live updates: warning of \u2018spinoff tornadoes\u2019 as hundreds of thousands without power",
@@ -3201,10 +3195,15 @@
    "title": "Bristol Old Vic tackles arts \u2018emergency\u2019 by bringing the theatre into classrooms",
    "source": "Guardian World",
    "at": "2026-10-18T14:08:20.891918+00:00"
+  },
+  {
+   "fp": "aditya austerity chakrabortty gove inevitably justifies michael painful politics radical thinking",
+   "title": "\u2018Austerity is inevitably painful\u2019: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
+   "source": "Guardian World",
+   "at": "2026-10-18T14:24:27.884854+00:00"
   }
  ],
  "titles": [
-  "curbs gulf hurricane isaias mexico platforms production",
   "hundreds hurricane isaias live power spinoff thousands tornadoes updates warning without",
   "dead douglas five georgia police residence shot",
   "coast gulf hurricane isaias landfall makes million nearly power without",
@@ -3603,6 +3602,7 @@
   "coast hurricane lashes mexico pacific tonight trudy weaken",
   "alberta base breaks canadian deadly fire incident major military",
   "brings coast heavy hurricane mexico pacific rain strong trudy winds",
-  "arts bringing bristol classrooms emergency tackles theatre"
+  "arts bringing bristol classrooms emergency tackles theatre",
+  "aditya austerity chakrabortty gove inevitably justifies michael painful politics radical thinking"
  ]
 }
