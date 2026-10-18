@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMisgFBVV95cUxPdXJkaEtFRnFsRWNiVWFVQjZaeExHNEp1bzlzc2p0bmFmam03OTZ0T3pJRGxpLXoxUS1zRWVRQU5YSE1CQUNWRjVpZnQ4OGkwV3dOUTU2aTBIVElOYld1WC1abXNhVXk5OTY1QTB6a2hTeE12WUlFVlNNNzNxZ3VqVzFOR1BBTzlER2JwUFhReF96bnd5bUVZZ3ZwNnVRa0JqUnZJVHZldzRYazNhUHVLR0NB",
   "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
   "https://nypost.com/?post_type=article&p=41051544",
   "CBMiqAFBVV95cUxONkhBalNMTGtET0JiTk13OVZlSTdYdGtJdTR5ZmJnQzZrOVpPa2NOVUQ1aEdtd2hJdHFpOEJnbGdyQ0hZTWhGdUFMcFdvYVhqRndZMlpaR1E3TldsQy1vYzlESHJocUkwNi1DWnJBMk44Ymp2RGRyMnFoZk4xdXhhWlNiQmxxcjRxVDF3MWdKXy1HM0FHVFppNGhwaGpEWHJDSEwySUJIMG0",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=41386532",
   "CBMiygFBVV95cUxQQUdGblRuOW5ZdjFTRUR1WkFYdEZKeDAxbjVscWNybm1RS3ZwelZlT084SVFHOFFRcDY5U1dlNUYtNkJKdHJUZEJITmZBeFBCSEZsR1RfNzdwcTY4ejNON0JycmgxN21xSTRPUjRFM2Uyd1ViNkdaZWdPQUJrUTRZd1dUVWIxOGI0Z1UxYjVkaDlZYUVzN3psc3g0bzF3OGo4MkF0NU9ZTmkzZC1zM0g4SUhRWTRqYUI0NWNaYmljYTFVSHM1eHU3d2pR",
   "https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico",
-  "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings"
+  "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings",
+  "https://thehill.com/?p=6156233"
  ],
  "posts": [
-  {
-   "fp": "earthquake hits magnitude panama powerful triggers tsunami warnings",
-   "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-   "source": "Guardian World",
-   "at": "2026-10-09T21:25:13.661101+00:00"
-  },
   {
    "fp": "agreeing diesel lift live politics president putin russian sanctions thank trump want",
    "title": "\u2018I want to thank President Putin\u2019, Trump says after agreeing to lift sanctions on Russian diesel \u2013 US politics live",
@@ -3201,10 +3195,15 @@
    "title": "Two people, including child, killed after person drives through soccer game in Kansas",
    "source": "Guardian World",
    "at": "2026-10-18T01:06:25.999724+00:00"
+  },
+  {
+   "fp": "forward graham look russia sanctions talking trump waiving",
+   "title": "Sen. Graham on Trump waiving Russia sanctions: \u2018I look forward to talking to him\u2019",
+   "source": "The Hill",
+   "at": "2026-10-18T03:16:41.978813+00:00"
   }
  ],
  "titles": [
-  "earthquake hits magnitude panama powerful triggers tsunami warnings",
   "agreeing diesel lift live politics president putin russian sanctions thank trump want",
   "claims election fain rout shawn victory",
   "diesel export lifts russia sanctions trump",
@@ -3603,6 +3602,7 @@
   "afford allegedly funeral girl killed struggling",
   "coast expected gains hurricane mexico near strength sunday trudy weaken",
   "category heads hurricane mexico strengthens toward trudy",
-  "child drives game including kansas killed people person soccer through"
+  "child drives game including kansas killed people person soccer through",
+  "forward graham look russia sanctions talking trump waiving"
  ]
 }
