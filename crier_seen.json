@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiqwFBVV95cUxPcDNSb19Va1l3bHR0NkVQb1FCa0F1WFVhakZZZVNuSC1pMmNOc2I5b1dOeTZILVBXZF94bXZKOGFicG5OOGg3TWx2SGUtOHo0NEZmNGJnZ3ZPWmpYQlVRWUZPcjBpQWlIbHlJNmZBRGxPSlUtOXJQM3E2cjR4dV9HemNzYXpNVXV4Snd5R0J3anF1Q2ZVR05OZXJwX2ZMdk9iNmtscGJ1UXI5ZE0",
   "CBMiugFBVV95cUxQZDFNUUJPc2dSYzI0MURCMk9ROVdRSnBYVzdiMHNKYkhndWN5UmtfdlFvUUxwUjk1VEM0N0MxRUM2clRIS2NrSndTYlpTUE9xa3dXSUxjWjVDbkp3TGgzeFBybmw5UG1EVkx6LUJhTTJLZUEwUWYyLVFrVFJGSjBPSkpkVld3bUVuUnNPZnlXLWRDeUhRZ2tzNENoSVlRUFVYUzBDSXZLOThUR2R5djFHWW8wa0l6YXQ0c0E",
   "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo#0",
   "https://thehill.com/?p=6124140",
@@ -799,15 +798,10 @@
   "CBMivwFBVV95cUxOSXFqMTJmVlRrSjR1NmNocW1VRWFpV1pSMjlNZDh1YXBsS2gyRkE0c19uRXJCQXN4Nklqajh6Tk4yeHhlRWRpWG81WXJMRVJmWXREaXZ2UkJfT3FNOFJndW9PNHBTZFRvVGJnbmFkeU10ZDlWdWY2N0kzVkFDVTh5NG0zZlZiM0N3bWthZmF2LUJjUXlEd29WOVRLZFdodFA0YlcwRl9fX0ptQ2dyN2I5RjVfRWJxRW1vYmF6VURGWQ",
   "CBMiogFBVV95cUxPSGNScVFQcnZRTDdrQTM1MVl2MXVpaGN1N1JhN3Z2X000WkI4b1RJbFpGQktKQnctUk5PLVhFNExWTUxQUjVjYUppempPaHo1UHpEMlYweTdFOWhLOUVnSjFLMkQ3MWFKZG03SGYyLUMwVVV6NU94dldjQWhVV3JMdHZBemoyVVI3X1FjVVpzMDY0dU1FQlFHbTMyUlhNLWQ1Qmc",
   "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-  "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o#0"
+  "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o#0",
+  "https://nypost.com/?post_type=article&p=41402768"
  ],
  "posts": [
-  {
-   "fp": "boat capsizes children dead djibouti",
-   "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
-   "source": "BBC World",
-   "at": "2026-10-11T13:27:18.441432+00:00"
-  },
   {
    "fp": "badass crashing home hurricane husband killed nice through tree ultra victim wife",
    "title": "Hurricane victim\u2019s husband saw his \u2018ultra-nice, badass\u2019 wife being killed by tree crashing through home",
@@ -3201,10 +3195,15 @@
    "title": "Australian MP critically injured after being hit by car in apparent attack",
    "source": "BBC World",
    "at": "2026-10-19T15:51:29.808250+00:00"
+  },
+  {
+   "fp": "adjusts american ancient discovery humans north study timeline",
+   "title": "Ancient DNA discovery adjusts timeline of first North American humans: new study",
+   "source": "New York Post",
+   "at": "2026-10-19T17:23:27.855403+00:00"
   }
  ],
  "titles": [
-  "boat capsizes children dead djibouti",
   "badass crashing home hurricane husband killed nice through tree ultra victim wife",
   "benefits details draw health interest potential sauna scientists sweating",
   "airport arabia attack injuries kills reports riyadh saudi strike",
@@ -3603,6 +3602,7 @@
   "attack camp government houthi kills officials training yemen",
   "autistic college failed himself killed lavatory student",
   "attack drone kills market near sudan",
-  "apparent attack australian critically injured"
+  "apparent attack australian critically injured",
+  "adjusts american ancient discovery humans north study timeline"
  ]
 }
