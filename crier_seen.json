@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4750366",
-  "https://thehill.com/?p=6124127",
   "https://nypost.com/?post_type=article&p=41092964",
   "https://nypost.com/?post_type=article&p=41091616",
   "CBMimgFBVV95cUxQeVJhSGVobUxHZWNqZ3FDWmd1TWtHSzBZUE12amtIVXN1anBZcDVqMzBMUllfUEJNcXRIczlyZWd5Q1Q2N3VfbWYzLWZVWEN0Q09OODdlWjdGdjVNc3E5TzUyMzV6ekd2VHBxTTRWQklOZU1aUmRTT0pQcFlfYjJoT1ZYTnlmb3QtalNnR2x4eGJrTmUxa2E1MFV3",
@@ -799,21 +797,11 @@
   "CBMiwAFBVV95cUxNTjUxeXdZWDd5c3MxTHBocWZqajJlQ2UwRTF6dW9KMXh6Q1ROdllKRGZiMV9kWUhvRW9CQzNQMU1LYk80U04zc0dLU2ppcFkySWRjenZFSm8wQjA5QmRPVXhPN3dhMTZPdnFiWjh1QjZ6VDR1ZDg5dFFlZ0t0STJzZlBrUzBMQ0N1R1RTQ2FkekRVaTlPN3lPYU94ZjZRdktUTlJEeTVqSEVFamNkc1FWelQ2MnRNb25OemZ5aUx3dl8",
   "https://www.theguardian.com/us-news/2026/oct/19/white-powder-envelopes-congress",
   "https://thehill.com/?p=6158588",
-  "https://thehill.com/?p=6158360/"
+  "https://thehill.com/?p=6158360/",
+  "https://nypost.com/?post_type=article&p=41406657",
+  "CBMikwFBVV95cUxPRV8yQ0hzcFRDbkhoWVZyeGJLbnh1eGU0UEZpSk5SUHhLUU45ZlpJcUx3elJZRlc0T2JrRDllWTE4SllpSVBRVG5uV1lYd2dxa1VwQmJMZldYS2hPajZjRDFWSXJhVDM0b29FXzQxQkU2TDltYnNjU1VaN3RaRnhHeHhfbTRLSEZ0MVppcVpuckhFamM"
  ],
  "posts": [
-  {
-   "fp": "announces ceasefire energy russia surprising trump ukraine zelenskiy",
-   "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy",
-   "source": "Reuters",
-   "at": "2026-10-11T18:25:20.906518+00:00"
-  },
-  {
-   "fp": "airport attack dies embassy indian injured national riyadh",
-   "title": "Indian national injured in Riyadh airport attack dies, embassy says",
-   "source": "Reuters",
-   "at": "2026-10-11T18:25:22.630040+00:00"
-  },
   {
    "fp": "ceasefire details energy gives reach russia trump ukraine",
    "title": "Trump says Russia and Ukraine reach \u2018energy ceasefire\u2019 but gives no details",
@@ -3201,11 +3189,21 @@
    "title": "The richest members of Congress in 2026",
    "source": "The Hill",
    "at": "2026-10-19T20:23:31.428287+00:00"
+  },
+  {
+   "fp": "arrested campus driver fianc firefighter impaired killed near student underage",
+   "title": "LSU student and firefighter fianc\u00e9 killed near campus, impaired underage driver arrested",
+   "source": "New York Post",
+   "at": "2026-10-19T20:49:00.825104+00:00"
+  },
+  {
+   "fp": "agents columbus federal mosque officials ohio reported responding shooting",
+   "title": "Federal agents are responding to a reported shooting at a mosque in Columbus, Ohio, officials say",
+   "source": "AP",
+   "at": "2026-10-19T20:49:02.903180+00:00"
   }
  ],
  "titles": [
-  "announces ceasefire energy russia surprising trump ukraine zelenskiy",
-  "airport attack dies embassy indian injured national riyadh",
   "ceasefire details energy gives reach russia trump ukraine",
   "agency compares illegal mamdani migrant probe shooting terrorists threatens",
   "announces ceasefire deal news partial trump ukraine zelenskyy",
@@ -3603,6 +3601,8 @@
   "back futures pull russia sanctions waives",
   "congress dozen envelopes members offices powder targeted three white",
   "comes miller russia sanctions trump waiving",
-  "2026 congress members richest"
+  "2026 congress members richest",
+  "arrested campus driver fianc firefighter impaired killed near student underage",
+  "agents columbus federal mosque officials ohio reported responding shooting"
  ]
 }
