@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41092964",
-  "https://nypost.com/?post_type=article&p=41091616",
-  "CBMimgFBVV95cUxQeVJhSGVobUxHZWNqZ3FDWmd1TWtHSzBZUE12amtIVXN1anBZcDVqMzBMUllfUEJNcXRIczlyZWd5Q1Q2N3VfbWYzLWZVWEN0Q09OODdlWjdGdjVNc3E5TzUyMzV6ekd2VHBxTTRWQklOZU1aUmRTT0pQcFlfYjJoT1ZYTnlmb3QtalNnR2x4eGJrTmUxa2E1MFV3",
   "CBMirgFBVV95cUxOOFBpNGx5bzBtZmdGMkdCWlJmUlN2MHZkYnBLcG5WNk5oZ25TMVFaYVdUOVl0QldGZDk4SGZLRDNRSHRWMHhUTzM2eWpPUkRteEZET21yRDRZLTNKbGZjNnNldVBIS1JkVzdkTTdrVkhJWHB4ZGlBa2tGN3JoVC1TOHBRczdCWG1HdEZIcVU5NkpFMTN6ZUZCQ2dJR2JjbXVwdkN6QjdOTWpKcDF6Smc",
   "https://pagesix.com/?post_type=article&p=9214563",
   "CBMimAFBVV95cUxQTlJhNXJDVzZYYm9UQjBya1dvN1pyd1FXY2JYVmhCbHFMRDVYeW9oU0x1Z2xrUFZsOE5rYy1xeWFoZm53R01ESWlRNkNoSlZmVlRFTXl0bTJFN250UEF4SjVpODE2R1VtbmxGbzJuUWs3RlhBb3c4ZnpEWWFjdEtFNEJncGRoZm1iS1M0cFJnQkdhWlpYZHgyUg",
@@ -799,27 +796,12 @@
   "https://thehill.com/?p=6158588",
   "https://thehill.com/?p=6158360/",
   "https://nypost.com/?post_type=article&p=41406657",
-  "CBMikwFBVV95cUxPRV8yQ0hzcFRDbkhoWVZyeGJLbnh1eGU0UEZpSk5SUHhLUU45ZlpJcUx3elJZRlc0T2JrRDllWTE4SllpSVBRVG5uV1lYd2dxa1VwQmJMZldYS2hPajZjRDFWSXJhVDM0b29FXzQxQkU2TDltYnNjU1VaN3RaRnhHeHhfbTRLSEZ0MVppcVpuckhFamM"
+  "CBMikwFBVV95cUxPRV8yQ0hzcFRDbkhoWVZyeGJLbnh1eGU0UEZpSk5SUHhLUU45ZlpJcUx3elJZRlc0T2JrRDllWTE4SllpSVBRVG5uV1lYd2dxa1VwQmJMZldYS2hPajZjRDFWSXJhVDM0b29FXzQxQkU2TDltYnNjU1VaN3RaRnhHeHhfbTRLSEZ0MVppcVpuckhFamM",
+  "https://nypost.com/?post_type=article&p=41404553",
+  "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+  "CBMipwFBVV95cUxOWHpXeUNIUVUyWncxa08zOW5sc3FBWVpwcmwxMDZwMWtlc0dLV2J4UnAzdFdFOG04SlRvYm1fdGpKLUJSc2lWVHdfeHIyNWktSEdFeUMzc3Atb0I2TWw2cmpyLVFyc1pPODdGdEExWDNteklrZndSbDlQYVk0VEFfdmROU093b0ZQa0czUEdDdHVzZW1DazRIQ2lHaVBzT2cySGNnUWV4TQ"
  ],
  "posts": [
-  {
-   "fp": "ceasefire details energy gives reach russia trump ukraine",
-   "title": "Trump says Russia and Ukraine reach \u2018energy ceasefire\u2019 but gives no details",
-   "source": "AP",
-   "at": "2026-10-11T18:25:24.380990+00:00"
-  },
-  {
-   "fp": "agency compares illegal mamdani migrant probe shooting terrorists threatens",
-   "title": "Mamdani threatens to probe ICE after NYC \u2018illegal migrant\u2019 shooting \u2014 as he compares agency to terrorists",
-   "source": "New York Post",
-   "at": "2026-10-11T18:25:26.172036+00:00"
-  },
-  {
-   "fp": "announces ceasefire deal news partial trump ukraine zelenskyy",
-   "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is \u2018news to me\u2019",
-   "source": "Guardian World",
-   "at": "2026-10-11T18:25:30.071774+00:00"
-  },
   {
    "fp": "396k alabama florida heads hurricane isaias lose nearly north power residents",
    "title": "Nearly 396K Florida and Alabama residents lose power as Hurricane Isaias heads north",
@@ -3201,12 +3183,27 @@
    "title": "Federal agents are responding to a reported shooting at a mosque in Columbus, Ohio, officials say",
    "source": "AP",
    "at": "2026-10-19T20:49:02.903180+00:00"
+  },
+  {
+   "fp": "attack back bottle central cyclist fights masked metal park robs trio unprovoked water woman",
+   "title": "Masked trio robs woman cyclist \u2014 who fights back with metal water bottle \u2014 in unprovoked Central Park attack",
+   "source": "New York Post",
+   "at": "2026-10-20T00:03:03.346658+00:00"
+  },
+  {
+   "fp": "allegedly attack believe haines helen struck target turn twice",
+   "title": "Car allegedly did U-turn and struck Helen Haines twice, in what some believe was target attack against MP",
+   "source": "Guardian World",
+   "at": "2026-10-20T00:03:05.102011+00:00"
+  },
+  {
+   "fp": "attorneys bend hire investigate parents plans purchase school shooting victim",
+   "title": "Parents of Bend school shooting victim hire attorneys to investigate school plans and gun purchase",
+   "source": "AP",
+   "at": "2026-10-20T00:03:06.864499+00:00"
   }
  ],
  "titles": [
-  "ceasefire details energy gives reach russia trump ukraine",
-  "agency compares illegal mamdani migrant probe shooting terrorists threatens",
-  "announces ceasefire deal news partial trump ukraine zelenskyy",
   "396k alabama florida heads hurricane isaias lose nearly north power residents",
   "likens mamdani mass officer plainclothes shooter shooting",
   "again airport attack authorities deadly houthi missile riyadh saudi",
@@ -3603,6 +3600,9 @@
   "comes miller russia sanctions trump waiving",
   "2026 congress members richest",
   "arrested campus driver fianc firefighter impaired killed near student underage",
-  "agents columbus federal mosque officials ohio reported responding shooting"
+  "agents columbus federal mosque officials ohio reported responding shooting",
+  "attack back bottle central cyclist fights masked metal park robs trio unprovoked water woman",
+  "allegedly attack believe haines helen struck target turn twice",
+  "attorneys bend hire investigate parents plans purchase school shooting victim"
  ]
 }
