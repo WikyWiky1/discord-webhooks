@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/politics/live/2026/oct/02/zack-polanski-green-party-conference-speech-kemi-badenoch-andy-burnham-general-election-latest-news-updates",
   "CBMiYkFVX3lxTFBCaWhtUHNwZHczTUNMU19QcUJQTEtuVXRrSzhCRXV0N3VXVjRGQWNKQ2Z4YVFyaVVJOVJxU2tIT2tCOWxwTzhPQTBodi1ZSjMzbXB6eHIxX1U0d1ppUHBpS2RB",
   "CBMiowFBVV95cUxOWElVM1dQamNnQ3REcV9ZMWM1YjM5WklpMlBIM1dYM012dG1xYi1FWXRLUTJCUFBhbkRhdHR0NlpDa3IwcURNSFdGTFBiSGZzSFZ0R1R4LTRkODU3RzQyTVpKUlg5ZEZwclVfRGpKNXFNNnBKVXFiWFpIdTBVN2pHSmlyZzhTMG9lZWJoR2JUY2pNRE5JYk9NUF9oUnRCRFo3SEpJ",
   "https://decider.com/2026/10/02/ahs-13-who-plays-ashley-elle-chapman-piggy-man-interview/",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/uk-news/2026/oct/20/john-healey-no-capital-gains-tax-rise-budget",
   "CBMivAFBVV95cUxPRG9Wc1hmTWh4V3JfNXMxV3FjbVI1WTJ6Vy1JY1p5ZUdXa2wxbFQ3V2VyMmhFTm9NaG5LMm5NdjJNQ08zbksyODZtd1NFQS03V0x1MGtrZ3JmTGg1Z3lWc0JnNjVjZ1NUUEU1clZLS0g5Y1JqQlpvRTlheG1LQkxrTHY1TUIzQVAzcDh2dVdpMVU5ekUwbFdRTC1wWHBLTFRUY0FuMUhpdDJ0by1OTmp1akRtbTFvT3l1YjczXw",
   "CBMijwFBVV95cUxNaDZiSEF1Q2g0YXkxWWQtZmhFSmlWd09sQklNV3c2VlU5WGQ2dWd1OTZvbHVCTUZkVkh0dVhqV3RpM0ZSakg0c0VkRzRWd05TZ3FPLU40ZGlmUGxHUEZOMjJtZUJHUFI5MlJSU0hobTBYMjhta3p0ZUFXSlVKcjQwYks3NEM0OXRMSDN4Vnd1SQ",
-  "CBMivgFBVV95cUxPNWNXZkM2UGNrTkpFeEoxaWsxWnEyVFdKbllUR1dfOFB1dGwzMlRtVUJubFdDWE5zd190UEN0bGFQS25wXzN1SHZNQ3dXWUg1U2N4TzVBWG9PYnBGX1RneU1jYWQwa1pJT3g1S3paYnVwQklVbGlndTJsc1NIeGpLT0ZfcmtGblRRMkFkV3ZDNTJyaXZ0bktkZzNhRGIyZnZtdDVOWWl6UnZFVGVyZTFHZm1iVlBDVzBsbEsydGJ3"
+  "CBMivgFBVV95cUxPNWNXZkM2UGNrTkpFeEoxaWsxWnEyVFdKbllUR1dfOFB1dGwzMlRtVUJubFdDWE5zd190UEN0bGFQS25wXzN1SHZNQ3dXWUg1U2N4TzVBWG9PYnBGX1RneU1jYWQwa1pJT3g1S3paYnVwQklVbGlndTJsc1NIeGpLT0ZfcmtGblRRMkFkV3ZDNTJyaXZ0bktkZzNhRGIyZnZtdDVOWWl6UnZFVGVyZTFHZm1iVlBDVzBsbEsydGJ3",
+  "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "boss demands fire mamdani mayor nypd shooting socialists tisch turn",
-   "title": "DSA \u2018demands\u2019 Mamdani fire NYPD boss Tisch as socialists turn on mayor over ICE shooting",
-   "source": "New York Post",
-   "at": "2026-10-11T22:24:53.238832+00:00"
-  },
   {
    "fp": "border dozens egypt gold group killed prospectors rights strikes sudan",
    "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
@@ -3201,10 +3195,15 @@
    "title": "From Verizon to UnitedHealth, Corporate America Is Balking at \u2018Tokenized\u2019 Stocks",
    "source": "WSJ",
    "at": "2026-10-20T08:13:39.766907+00:00"
+  },
+  {
+   "fp": "alleged attack brendan charges facing haines helen nugent three",
+   "title": "Brendan Nugent facing three charges over alleged attack on MP Helen Haines",
+   "source": "Guardian World",
+   "at": "2026-10-20T09:45:16.907862+00:00"
   }
  ],
  "titles": [
-  "boss demands fire mamdani mayor nypd shooting socialists tisch turn",
   "border dozens egypt gold group killed prospectors rights strikes sudan",
   "deal efforts graham lindsey russia sanctions tarnishing tillis trump",
   "breaking news today world",
@@ -3603,6 +3602,7 @@
   "budget calls capital gains healey raise reject",
   "election gains gvir israel poised right turn voters young",
   "asian bucking fall rebound stocks tech",
-  "america balking corporate stocks tokenized unitedhealth verizon"
+  "america balking corporate stocks tokenized unitedhealth verizon",
+  "alleged attack brendan charges facing haines helen nugent three"
  ]
 }
