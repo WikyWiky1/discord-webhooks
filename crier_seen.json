@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMipwFBVV95cUxOQUxVZUh1aWE3TVAzREE1QmgxYWk3TUpKUGh0eHBnblg4OFBEX3EzdWRJMGRKRjZCcHpGdWxLcE85NGJ1QTlDWG9MWXR4QTBnTDdlSVZIZDVKYlk0QWJZZHVnam5IT1J0N3hqWkVMdmhIYTJzS0ZUSmJkTk12RjFWUWNTMkVRYzIySHlZak5ET2lrVGVobnBjWUt5T0RFRnBNQ09XemVWcw",
   "CBMilgFBVV95cUxQNllYU095N0ttVXFUeGVSNEdFYkhPV0xzZURveERVUk11alFtdWQ4SUdodzhhaTRITHRxV1ZNekdCMS1xZnlPd3JJUFI5Q3JlVWJYQzZZVUppVW5kSUtSTVNyNEZhZ0hlQzNpck9Yb2NIZFJoZktFa0swXzVhd0VMQi10QXA0WEpZZXdJREpLbDhObVlMOEE",
   "https://thehill.com/?p=6126765",
   "https://nypost.com/?post_type=article&p=41114109",
@@ -799,15 +798,10 @@
   "CBMilwFBVV95cUxPdDY3aUczblRQd2RfekVBRVo0aDFzaFl5RDctZlRTekUxV21hUTQ3a19qLTlwUVBCemRjSVl6Mk1INjRrQXNtWmc4N1FmVllhbTVvVkw4TGdfR1FrOVNfOEFjcVN6VEYtNjcxR1FLT0xRdDl1THhMc05ORDRkSDUtLXhMeWFiZkZrWHJqY05IQ1VGNjRpeEtn",
   "CBMijAFBVV95cUxNRFIwYTNvY1RkcV9BYS02QWZBTTczUmVPTUtmaGs0d2JCZFB5eHVMUzd5RkNhVU5EUnJMYlEza1RhS1UyRjhCYlYzZTZER3hDcVI0R2g0SzhxenFDRDl3VjA4dFhrWC1YV0p4UVdaZFg1bHVRSElOVnMycDliaHZRWUdRLU5Nd09aS08wTQ",
   "CBMingFBVV95cUxQM3hJVEEzZW1yanRxZUpSNlFsM2h1RjVGOW1DZlpsQ2JNTHhTcG1qQ2NVMjVpaTdzenJqTzhZd1YzejMxa0xiV3A1bE41MjFubEtyREJteFpWVUdzcEtNQ3EtZGwzcGJYSnpKOGFDVHFwTlJSQWxGTlFvYlU1ek0zbWtPRC1rcXhjejNwWGptczVXUzJjTDlkZFZXYWJMZw",
-  "CBMiwAFBVV95cUxQcEJELWFtUTE0T2VDN01rLWlrOWRYTHN6WVNqQ1JORFVhM0FDd2FpRG8zdWUzbjRJSktYaFhJc2ZUaFFBdHZyaldRZGExdGx2dXEzS0pLeERlWG5EM04xWmhnMWlkLTVjclBWbjRvZjluc3d6ZUVRYTJRSDVhNVRTWjBVc3VaaE53TV9YSjhkNEZEeFp1YTRSbUY2MzJRcnZIZXk0MzdGLThBMEoyRlhsZHFRZkVDQWlsSDJRd1dYRTY"
+  "CBMiwAFBVV95cUxQcEJELWFtUTE0T2VDN01rLWlrOWRYTHN6WVNqQ1JORFVhM0FDd2FpRG8zdWUzbjRJSktYaFhJc2ZUaFFBdHZyaldRZGExdGx2dXEzS0pLeERlWG5EM04xWmhnMWlkLTVjclBWbjRvZjluc3d6ZUVRYTJRSDVhNVRTWjBVc3VaaE53TV9YSjhkNEZEeFp1YTRSbUY2MzJRcnZIZXk0MzdGLThBMEoyRlhsZHFRZkVDQWlsSDJRd1dYRTY",
+  "https://nypost.com/?post_type=article&p=41422916"
  ],
  "posts": [
-  {
-   "fp": "captives executed fort hood kill qaeda shooter threatens",
-   "title": "Al Qaeda threatens to kill any US captives if Fort Hood shooter is executed",
-   "source": "Washington Examiner",
-   "at": "2026-10-12T18:10:44.819104+00:00"
-  },
   {
    "fp": "africa charged chief deputy offences police resigns sexual south",
    "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
@@ -3201,10 +3195,15 @@
    "title": "Could disillusioned Kansas voters send their first Democrat to the US Senate in 94 years?",
    "source": "Reuters",
    "at": "2026-10-20T18:56:45.515661+00:00"
+  },
+  {
+   "fp": "billionaire collapsed contested dark famed pierre remain residents sale",
+   "title": "Billionaire residents of NYC\u2019s famed Pierre remain in the dark after contested $2B sale collapsed",
+   "source": "New York Post",
+   "at": "2026-10-20T21:59:54.636360+00:00"
   }
  ],
  "titles": [
-  "captives executed fort hood kill qaeda shooter threatens",
   "africa charged chief deputy offences police resigns sexual south",
   "announcement ceasefire despite energy hits kyiv russia targets trump",
   "ceasefire claim despite energy facilities russia strikes trump zelenskyy",
@@ -3603,6 +3602,7 @@
   "arctic focus security strategy unveils",
   "aside higher jitters setting stocks turn",
   "democrats launch midterm mississippi optimism senate south spreads",
-  "democrat disillusioned kansas senate send voters years"
+  "democrat disillusioned kansas senate send voters years",
+  "billionaire collapsed contested dark famed pierre remain residents sale"
  ]
 }
