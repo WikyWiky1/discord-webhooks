@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41121881",
   "https://nypost.com/?post_type=article&p=41122579",
   "https://nypost.com/?post_type=article&p=41123432",
   "https://nypost.com/?post_type=article&p=41123227",
@@ -799,15 +798,10 @@
   "CBMiuAFBVV95cUxNMmU2eWgtaS16RkowaUc4X1NDSVNrT3IzLXhaZW9LUEVFcGFFakNrWnJidjU4NEdnYW9LdzhvYnh2aFdiTGNQMEYwMWRHLXV3ZFZ1R0V5N3RSVi1IYk5JcklvYmpxVXhHZWdBMGgwSjQzMkVydUJWUjIzdzl6MVpGZEZSeTJWeEtzQjVKb29QMjlQd1BhOHh5SWs4Y1dXWFJ4eVcySjRHaWRpWDJkWkphRWZyMEl0bHU3",
   "CBMisAFBVV95cUxQV3Z1M0hIWmMwVzhzMjdpX3Zxd3Vmenpidl9vXzNxc3RyOXV4ZGpQTFdGLUNMRFpZMkV6ZDY5SUpPTUotenN0N1VGS01RNGxaQUlROGoyV3dRN1YwWHR6YzdRdzdLSzdJdlR4alRzcHVOdkRrb2JmdzRsOEFDMXB0Wk5SQjg5ZkczMF8yVjB3VktXbWduaGEwbFZaOHgyejBsOUVWWXhTVm9uSUZiX3dIVw",
   "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
-  "https://www.bbc.co.uk/news/articles/ck20rver1j31o#0"
+  "https://www.bbc.co.uk/news/articles/ck20rver1j31o#0",
+  "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news"
  ],
  "posts": [
-  {
-   "fp": "brutal chip session shows stocks trade turning",
-   "title": "'Brutal session' for chip stocks shows AI trade is turning",
-   "source": "Reuters",
-   "at": "2026-10-13T10:09:00.240812+00:00"
-  },
   {
    "fp": "actor breaking cause confirmed death mitte",
    "title": "\u2018Breaking Bad\u2019 actor RJ Mitte\u2019s cause of death confirmed",
@@ -3201,10 +3195,15 @@
    "title": "Family of prison officer killed by IRA receives state apology",
    "source": "BBC World",
    "at": "2026-10-21T15:18:24.593322+00:00"
+  },
+  {
+   "fp": "claims damaged expos left live members police politics psychologically racism reform reports",
+   "title": "Reform UK claims racism expos\u00e9 has left some members \u2018psychologically damaged\u2019 as it reports ITV to police \u2013 UK politics live",
+   "source": "Guardian World",
+   "at": "2026-10-21T15:53:12.631744+00:00"
   }
  ],
  "titles": [
-  "brutal chip session shows stocks trade turning",
   "actor breaking cause confirmed death mitte",
   "attack barrage blasts bullets california gunman newsroom night terrifying",
   "ambassador attack black bulgaria drone russian ship sinks summons",
@@ -3603,6 +3602,7 @@
   "about fire nhtsa recall risk toyota vehicles",
   "considers exclusive hungary nuclear project replacing rosatom russia",
   "ceasefire freezing front lines open russia ukraine zelenskyy",
-  "apology family killed officer prison receives state"
+  "apology family killed officer prison receives state",
+  "claims damaged expos left live members police politics psychologically racism reform reports"
  ]
 }
