@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/oct/02/cyclospora-mexico-farm-lettuce",
-  "https://www.theguardian.com/world/2026/oct/02/magnitude-48-earthquake-hits-victoria-with-tremors-felt-across-melbourne",
-  "CBMioAFBVV95cUxPSUIzNGZwcmxBVDJkd25SYjhNNWcxd0ZXYnlLSE94TmJtNGh2Z3Z2cEhrX0xZR0dHT3VwSXk5ajNuY0RGSDhGaFBMMUZwR1hJQ3duMzk3b2t5aDhFX3hQc0RsTGZzNFBjMHhRRW5tcGdSZG54aGJZTV9WNXpxZG5yYU9aaHBRTEI0UFpVaWdQWExFaWFlTzg4Ylo1OVpUcUx3",
   "https://nypost.com/?post_type=article&p=41109762",
   "CBMikAFBVV95cUxOZ2tZX3AxeENQblRLRGd4X2JxcGNLREtUYTBiQ3ZWUFAwMUhJTGwtMmVJa1k2QTZXYUZJRWRLMnhXUU9WcWQwb25HN3NjbWFCaFBZSWpCOGFUNTZRNXVCMFR6aHV0dzd4LWRJNDdHWmluSF9lZFlDeWhyV1JJTzk3YzJUd0I0OHlMbDJlemhJeDU",
   "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=41427639",
   "https://www.washingtonexaminer.com/?p=4772949",
   "https://thehill.com/?p=6161202",
-  "CBMimwFBVV95cUxPVzhDTTc3VUlaX3lDZDR2V0tYenJpeGllMk54WXloeUdlbXp2eHFYeFMxdGMwQ2xXSXpIcDVqVDlLNkZDb0VwMlFKZzRnbnE2eGUzNzZycUlpS0Q5c29XZDl0Z2RqaFhObjFUeFM4SjR2WXpLM3NRa3F3aWhlMF9FVV91aTVKY0lYal90Y3BwaTg3WWFCcDlxUFRnWQ"
+  "CBMimwFBVV95cUxPVzhDTTc3VUlaX3lDZDR2V0tYenJpeGllMk54WXloeUdlbXp2eHFYeFMxdGMwQ2xXSXpIcDVqVDlLNkZDb0VwMlFKZzRnbnE2eGUzNzZycUlpS0Q5c29XZDl0Z2RqaFhObjFUeFM4SjR2WXpLM3NRa3F3aWhlMF9FVV91aTVKY0lYal90Y3BwaTg3WWFCcDlxUFRnWQ",
+  "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
+  "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+  "https://www.theguardian.com/us-news/2026/oct/20/florida-execution-18th"
  ],
  "posts": [
-  {
-   "fp": "ahead data earnings economic falls nasdaq rallies",
-   "title": "Nasdaq falls ahead of earnings, economic data while oil rallies",
-   "source": "Reuters",
-   "at": "2026-10-12T20:57:59.993839+00:00"
-  },
-  {
-   "fp": "hover latest mixed near record stocks street trading wall",
-   "title": "US stocks hover near their latest record in mixed trading on Wall Street",
-   "source": "AP",
-   "at": "2026-10-12T20:58:01.796426+00:00"
-  },
-  {
-   "fp": "howitzer mobile name unveils xm1776",
-   "title": "US unveils name for new mobile howitzer: \u2018XM1776\u2019",
-   "source": "Washington Examiner",
-   "at": "2026-10-12T20:58:03.465518+00:00"
-  },
   {
    "fp": "author economics flat hope nobel prize siders supply take",
    "title": "Supply-siders take hope from flat tax author\u2019s Nobel Prize in Economics",
@@ -3201,12 +3183,27 @@
    "title": "Stocks Make a U-Turn on Hopes of U.S.-Iran Diplomacy",
    "source": "WSJ",
    "at": "2026-10-20T23:38:24.962801+00:00"
+  },
+  {
+   "fp": "alleged appearance apply attack bail brendan court doesn haines helen live nugent since updates",
+   "title": "Helen Haines live updates: Brendan Nugent doesn\u2019t apply for bail in first court appearance since alleged attack",
+   "source": "Guardian World",
+   "at": "2026-10-21T00:28:30.496493+00:00"
+  },
+  {
+   "fp": "africa case confirms ebola nigeria outbreak spreads western",
+   "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+   "source": "Guardian World",
+   "at": "2026-10-21T00:28:32.376956+00:00"
+  },
+  {
+   "fp": "18th execution florida kills state year",
+   "title": "Florida kills 77-year-old man in state\u2019s 18th execution of year",
+   "source": "Guardian World",
+   "at": "2026-10-21T00:28:34.253222+00:00"
   }
  ],
  "titles": [
-  "ahead data earnings economic falls nasdaq rallies",
-  "hover latest mixed near record stocks street trading wall",
-  "howitzer mobile name unveils xm1776",
   "author economics flat hope nobel prize siders supply take",
   "economies hall nobel prize stabilise woodford work",
   "anything attack break destroy everything forces nato russia warns",
@@ -3603,6 +3600,9 @@
   "blowout earnings merger musk revenue soars spacex stock surge talks tesla",
   "carolina hopeful live michael north rallies senate trump watch whatley",
   "endorses musk paxton race senate texas",
-  "diplomacy hopes iran make stocks turn"
+  "diplomacy hopes iran make stocks turn",
+  "alleged appearance apply attack bail brendan court doesn haines helen live nugent since updates",
+  "africa case confirms ebola nigeria outbreak spreads western",
+  "18th execution florida kills state year"
  ]
 }
