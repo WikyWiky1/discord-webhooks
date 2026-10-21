@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo#2",
-  "https://thehill.com/?p=6118288",
-  "CBMiYkFVX3lxTFBtYkhuREp6cXBDVzlIUWs0MGtfa2JvRHI4cTVobkIxclBaanlJMmJLNHZYenFBczRUX2FMY2czZEtBajg2SVRLbXIwRXpyRWpSVTI1b2ZEOVhFajlObnc1T1V3",
-  "CBMirgFBVV95cUxPXzBvcTZ4UlkzNEd6cTd6WmstenFIRFdLMXJqZW5FU3BibWhkN3hxc1RTX3pneVE5bFN5YlBfNUVvVWlyaDFuNGpMalRMNW9FcVRwaXNwYXBhbUdTeVlEQ0xlS29nSVI4WDIyVUoxVVNIQTNBQWFWV1BnQmhqMy1WSTVlOEJadVBvVmppRUp6RC1LaHo4QWNDaWI4blZjdXpJVHdiR1B6emxyQ3JlcFE",
-  "https://nypost.com/?post_type=article&p=41122178",
-  "https://www.theguardian.com/us-news/2026/oct/03/tennessee-christa-pike-frank-strada",
   "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo#0",
   "https://nypost.com/?post_type=article&p=41121018",
   "https://www.theguardian.com/us-news/2026/oct/03/florida-ex-sheriff-deputy-not-guilty-shooting-death-black-air-force-airman",
@@ -799,45 +793,15 @@
   "https://www.theguardian.com/uk-news/2026/oct/21/firefighters-growing-concerns-water-supplies-tackle-wildfires",
   "CBMipwFBVV95cUxPM1VpcUFrQ2VwNVlieXZQaWZROUhiV2VKd09xMkZnR0xYeGw2aFV2RGxZZlQtQUZVS3hDRG92N1hReE11cWJ1NHFlNEV6X1h4YnVTbnZJSm4waXBiSEdsQ0J4ajdqdDI2V3Fod1BIXzdoYmoxNWZDQnYzaWJSQXJGOXFuMWpJTGxsSWVrLVBYd2xUSlF1aFJZeUh6ckFFb2JVekIwdFNYdw",
   "https://nypost.com/?post_type=article&p=41434061",
-  "https://nypost.com/?post_type=article&p=41434302"
+  "https://nypost.com/?post_type=article&p=41434302",
+  "https://www.washingtonexaminer.com/?p=4773200",
+  "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
+  "https://nypost.com/?post_type=article&p=41424298",
+  "https://www.washingtonexaminer.com/?p=4772609",
+  "https://thehill.com/?p=6160426",
+  "https://thehill.com/?p=6160651"
  ],
  "posts": [
-  {
-   "fp": "california choice couldn easier election homeowners ignore must race vital",
-   "title": "California homeowners must not ignore this key election race \u2014 the choice couldn\u2019t be easier, or more vital",
-   "source": "New York Post",
-   "at": "2026-10-13T02:29:55.457481+00:00"
-  },
-  {
-   "fp": "ahead dubai exclusive fugitives high partied paxton race senate stakes texas",
-   "title": "Exclusive | Ken Paxton Partied in Dubai With Fugitives Ahead of High-Stakes Texas Senate Race",
-   "source": "WSJ",
-   "at": "2026-10-13T02:29:57.402537+00:00"
-  },
-  {
-   "fp": "about absolutely concerned kansas race senate spicer",
-   "title": "Spicer says he's \u2018absolutely\u2019 concerned about Kansas Senate race",
-   "source": "The Hill",
-   "at": "2026-10-13T02:29:59.121186+00:00"
-  },
-  {
-   "fp": "commentary street wall",
-   "title": "COMMENTARY: Wall Street\u2019s AI bet is now too big to hit",
-   "source": "Reuters",
-   "at": "2026-10-13T02:30:01.013883+00:00"
-  },
-  {
-   "fp": "cooper leads least points polls senate whatley",
-   "title": "Cooper leads Whatley by at least 7 points in new NC Senate polls",
-   "source": "The Hill",
-   "at": "2026-10-13T02:30:02.746820+00:00"
-  },
-  {
-   "fp": "arriving aviv bomb delta evacuated flight landing reports threat",
-   "title": "Delta flight arriving from NY evacuated over bomb threat after landing in Tel Aviv: reports",
-   "source": "New York Post",
-   "at": "2026-10-13T07:15:46.827750+00:00"
-  },
   {
    "fp": "adelaide baby charged dead found motel woman",
    "title": "Man and woman charged after baby boy found dead in Adelaide motel",
@@ -3201,15 +3165,45 @@
    "title": "Australian politician Helen Haines loses both legs after car attack",
    "source": "New York Post",
    "at": "2026-10-21T10:13:42.712707+00:00"
+  },
+  {
+   "fp": "black cost down lock made race senate still strides talarico texas voters",
+   "title": "Talarico has made strides to lock down black voters. They could still cost him the Texas Senate race",
+   "source": "Washington Examiner",
+   "at": "2026-10-21T11:16:05.420517+00:00"
+  },
+  {
+   "fp": "boost budget finally international stratford trains",
+   "title": "Stratford International finally to have international trains in budget boost",
+   "source": "Guardian World",
+   "at": "2026-10-21T11:16:07.509646+00:00"
+  },
+  {
+   "fp": "america budget debt deficit eats hits huge interest payments piece trillion",
+   "title": "Interest payments on America\u2019s $40 trillion debt eats up a huge piece of the budget \u2014 as deficit hits $2 trillion",
+   "source": "New York Post",
+   "at": "2026-10-21T11:16:09.204186+00:00"
+  },
+  {
+   "fp": "campaign democrats fret guarded jackson maine senate troy",
+   "title": "Maine Democrats fret over Troy Jackson\u2019s guarded Senate campaign",
+   "source": "Washington Examiner",
+   "at": "2026-10-21T11:16:10.867283+00:00"
+  },
+  {
+   "fp": "class decide fate halfway meet next save security senate social",
+   "title": "The next Senate class will decide Social Security's fate. Can they meet halfway to save it?",
+   "source": "The Hill",
+   "at": "2026-10-21T11:16:12.583428+00:00"
+  },
+  {
+   "fp": "debate hamilton kansas marshall race senate stage take tight",
+   "title": "Marshall, Hamilton set to take debate stage in tight Kansas Senate race",
+   "source": "The Hill",
+   "at": "2026-10-21T11:16:14.302359+00:00"
   }
  ],
  "titles": [
-  "california choice couldn easier election homeowners ignore must race vital",
-  "ahead dubai exclusive fugitives high partied paxton race senate stakes texas",
-  "about absolutely concerned kansas race senate spicer",
-  "commentary street wall",
-  "cooper leads least points polls senate whatley",
-  "arriving aviv bomb delta evacuated flight landing reports threat",
   "adelaide baby charged dead found motel woman",
   "genocide israel navi nobel pillay rewards",
   "censorship election integrity tiktok weakens",
@@ -3603,6 +3597,12 @@
   "concerns firefighters growing supplies tackle voice water wildfires",
   "agree elderly kill kyiv russian strikes terms trump ukrainians urges",
   "approve because didn georgia girlfriend husband kills relationship woman younger",
-  "attack australian both haines helen legs loses politician"
+  "attack australian both haines helen legs loses politician",
+  "black cost down lock made race senate still strides talarico texas voters",
+  "boost budget finally international stratford trains",
+  "america budget debt deficit eats hits huge interest payments piece trillion",
+  "campaign democrats fret guarded jackson maine senate troy",
+  "class decide fate halfway meet next save security senate social",
+  "debate hamilton kansas marshall race senate stage take tight"
  ]
 }
