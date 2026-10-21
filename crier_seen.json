@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo#0",
-  "https://nypost.com/?post_type=article&p=41121018",
-  "https://www.theguardian.com/us-news/2026/oct/03/florida-ex-sheriff-deputy-not-guilty-shooting-death-black-air-force-airman",
-  "https://news.sky.com/story/man-shot-dead-in-senseless-act-of-violence-as-people-gathered-for-west-london-memorial-service-13594784",
-  "CBMilgFBVV95cUxPZzZPOENZalJ1U2RlazVCeF9LbnhXdC00MG4tOXhob1pYOFhVbHZVTmk2N2I1aEYtQmFHT1FlVWVwTkFMY3ZBbHNoOXM1M1RHM0FfZmhGUDRfeHFVOEt5NTRJLTlkZkNhSnpRV0JiSXYwaV81T2JVYkYyVF9CQUV5V3N1QjBJRTZ1SzVsOHVFMDByYkpRRVE",
   "https://nypost.com/?post_type=article&p=41121881",
   "https://nypost.com/?post_type=article&p=41122579",
   "https://nypost.com/?post_type=article&p=41123432",
@@ -799,39 +794,14 @@
   "https://nypost.com/?post_type=article&p=41424298",
   "https://www.washingtonexaminer.com/?p=4772609",
   "https://thehill.com/?p=6160426",
-  "https://thehill.com/?p=6160651"
+  "https://thehill.com/?p=6160651",
+  "https://nypost.com/?post_type=article&p=41437030",
+  "CBMiuAFBVV95cUxNMmU2eWgtaS16RkowaUc4X1NDSVNrT3IzLXhaZW9LUEVFcGFFakNrWnJidjU4NEdnYW9LdzhvYnh2aFdiTGNQMEYwMWRHLXV3ZFZ1R0V5N3RSVi1IYk5JcklvYmpxVXhHZWdBMGgwSjQzMkVydUJWUjIzdzl6MVpGZEZSeTJWeEtzQjVKb29QMjlQd1BhOHh5SWs4Y1dXWFJ4eVcySjRHaWRpWDJkWkphRWZyMEl0bHU3",
+  "CBMisAFBVV95cUxQV3Z1M0hIWmMwVzhzMjdpX3Zxd3Vmenpidl9vXzNxc3RyOXV4ZGpQTFdGLUNMRFpZMkV6ZDY5SUpPTUotenN0N1VGS01RNGxaQUlROGoyV3dRN1YwWHR6YzdRdzdLSzdJdlR4alRzcHVOdkRrb2JmdzRsOEFDMXB0Wk5SQjg5ZkczMF8yVjB3VktXbWduaGEwbFZaOHgyejBsOUVWWXhTVm9uSUZiX3dIVw",
+  "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
+  "https://www.bbc.co.uk/news/articles/ck20rver1j31o#0"
  ],
  "posts": [
-  {
-   "fp": "adelaide baby charged dead found motel woman",
-   "title": "Man and woman charged after baby boy found dead in Adelaide motel",
-   "source": "Guardian World",
-   "at": "2026-10-13T07:15:48.547727+00:00"
-  },
-  {
-   "fp": "genocide israel navi nobel pillay rewards",
-   "title": "Navi Pillay\u2019s Nobel rewards the Israel genocide lie",
-   "source": "Washington Examiner",
-   "at": "2026-10-13T10:08:51.328285+00:00"
-  },
-  {
-   "fp": "censorship election integrity tiktok weakens",
-   "title": "TikTok\u2019s censorship weakens our election integrity",
-   "source": "Washington Examiner",
-   "at": "2026-10-13T10:08:53.105991+00:00"
-  },
-  {
-   "fp": "blackrock bullish cools dated short stocks treasuries turns",
-   "title": "BlackRock cools on US stocks, turns bullish on short-dated Treasuries",
-   "source": "Reuters",
-   "at": "2026-10-13T10:08:56.788738+00:00"
-  },
-  {
-   "fp": "bank central currency defense india jumps measures rupee unveils",
-   "title": "Rupee Jumps After India Central Bank Unveils Currency-Defense Measures",
-   "source": "WSJ",
-   "at": "2026-10-13T10:08:58.529309+00:00"
-  },
   {
    "fp": "brutal chip session shows stocks trade turning",
    "title": "'Brutal session' for chip stocks shows AI trade is turning",
@@ -3201,14 +3171,39 @@
    "title": "Marshall, Hamilton set to take debate stage in tight Kansas Senate race",
    "source": "The Hill",
    "at": "2026-10-21T11:16:14.302359+00:00"
+  },
+  {
+   "fp": "angeles braces issued rare socal super threat tornado",
+   "title": "Los Angeles braces as super rare tornado threat issued for SoCal",
+   "source": "New York Post",
+   "at": "2026-10-21T15:18:17.424246+00:00"
+  },
+  {
+   "fp": "about fire nhtsa recall risk toyota vehicles",
+   "title": "Toyota to recall about 105,800 US vehicles over fire risk, NHTSA says",
+   "source": "Reuters",
+   "at": "2026-10-21T15:18:19.219894+00:00"
+  },
+  {
+   "fp": "considers exclusive hungary nuclear project replacing rosatom russia",
+   "title": "EXCLUSIVE: Hungary considers replacing Russia's Rosatom in nuclear project",
+   "source": "Reuters",
+   "at": "2026-10-21T15:18:20.950294+00:00"
+  },
+  {
+   "fp": "ceasefire freezing front lines open russia ukraine zelenskyy",
+   "title": "Ukraine's Zelenskyy open to freezing front lines in ceasefire with Russia",
+   "source": "Fox News World",
+   "at": "2026-10-21T15:18:22.847984+00:00"
+  },
+  {
+   "fp": "apology family killed officer prison receives state",
+   "title": "Family of prison officer killed by IRA receives state apology",
+   "source": "BBC World",
+   "at": "2026-10-21T15:18:24.593322+00:00"
   }
  ],
  "titles": [
-  "adelaide baby charged dead found motel woman",
-  "genocide israel navi nobel pillay rewards",
-  "censorship election integrity tiktok weakens",
-  "blackrock bullish cools dated short stocks treasuries turns",
-  "bank central currency defense india jumps measures rupee unveils",
   "brutal chip session shows stocks trade turning",
   "actor breaking cause confirmed death mitte",
   "attack barrage blasts bullets california gunman newsroom night terrifying",
@@ -3603,6 +3598,11 @@
   "america budget debt deficit eats hits huge interest payments piece trillion",
   "campaign democrats fret guarded jackson maine senate troy",
   "class decide fate halfway meet next save security senate social",
-  "debate hamilton kansas marshall race senate stage take tight"
+  "debate hamilton kansas marshall race senate stage take tight",
+  "angeles braces issued rare socal super threat tornado",
+  "about fire nhtsa recall risk toyota vehicles",
+  "considers exclusive hungary nuclear project replacing rosatom russia",
+  "ceasefire freezing front lines open russia ukraine zelenskyy",
+  "apology family killed officer prison receives state"
  ]
 }
