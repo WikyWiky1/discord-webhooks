@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41122579",
-  "https://nypost.com/?post_type=article&p=41123432",
-  "https://nypost.com/?post_type=article&p=41123227",
-  "https://thehill.com/?p=6127666",
-  "CBMiywFBVV95cUxONl9WaHptOTJhcXh2TTA4eFgwMV91dFcxcWRlMWg1R08zX2FwMzYwdGJDWENZN1JDZlp2UGt5bENpVzBsSk1VTTZaVTFLa01ERHVwdjlCT0l3clFJeTEwQ21KMlZ5bU1jQmtWYlY4WHYxaGJDVGtPVTFyaFNhTU1nVmtVcUsteWhPb1hORWRROHJwMDZuS0JUdmg2U2hkVThmNXA0RGN1S29XQjlaYnRBVHN2Q1NBRGZSTXprcDUtZlNCTjVaNW9icjJ1bw",
-  "CBMipAFBVV95cUxQTEJqb2xVc0JNb3BpTEJ1UjNNNm91MnJ0N0dWUUtraTRkUExEc1JwSlQybVdzLVY2TW5JODJ5elBTc3poVGJQUTdNek9QdUVEQjJyVkZlcUJOWXpneF9ZTmtacmg0dGpoVmhaV05iMEJza3ZaMW5BSzItbmF4TkItZDAyWi1BcmplczNzZXBvVDZKa252aThla3BmOEpyUFYwOEVqRw",
   "https://nypost.com/?post_type=article&p=41126153",
   "https://nypost.com/?post_type=article&p=41125180",
   "CBMivAFBVV95cUxOTk9NMno0Tlh0Y2RWeEh2Y0tDczZBemNyRlQwTE5POTF4Q19IMkZ0eDlWVzBOdkFyTFhsZkhxZ2tnNUhjenVZR2xrNWVXY0h4LW9LVl9ZRGZhUl9sLUdQbVp5SFZxZzItNDVrZEpsLWJhQWduaENwdmg2SXNHcTBNZFBqRk9iZW9NcjF5ek80QV8wWTBwZkUyNEhjOUpfLXRRV05WVmw1ZExXenJXY1RIN0t0U25EZjZra0kybg",
@@ -799,45 +793,15 @@
   "CBMisAFBVV95cUxQV3Z1M0hIWmMwVzhzMjdpX3Zxd3Vmenpidl9vXzNxc3RyOXV4ZGpQTFdGLUNMRFpZMkV6ZDY5SUpPTUotenN0N1VGS01RNGxaQUlROGoyV3dRN1YwWHR6YzdRdzdLSzdJdlR4alRzcHVOdkRrb2JmdzRsOEFDMXB0Wk5SQjg5ZkczMF8yVjB3VktXbWduaGEwbFZaOHgyejBsOUVWWXhTVm9uSUZiX3dIVw",
   "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
   "https://www.bbc.co.uk/news/articles/ck20rver1j31o#0",
-  "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news"
+  "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
+  "CBMiwAFBVV95cUxNSTVHd2VEZUVrVDJpZzdZTFpLRDlEdXdVck83NDhpeUlyZnNwVVNqRWppNThJVVFiMDJPazVOblA1ZDdScmJ2SWFodWpKMC1BZHdjTmlsdFROVkZfRWJpbzZ6VEdUUnVpcnE4NWxxNGI0V1VVNTJ6YnNaR01wT0VsZmhVNlJIU1BFV3ZPVUprek8ySE83U2xfaldDaGhwLTRHem5QMnBYTE9VbjEzS0JkSENkZTc2UUpETVpTUGtWejg",
+  "CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw",
+  "https://thehill.com/?p=6162781",
+  "CBMinAFBVV95cUxNUGV1X1dKd0F3eTZSZ0F5ellKQVJuc3B1cEFzVGl4dFlSbVU3eFRJZm9lOXJjNDFHN1g4VGpZZlczQUdVR3ZRQ2h0VlpqaW0zU05LelZEb0I4eGJoVC1oZ0M5WktyVGJUZTZrbVBtdnRuNmpud1Y3WkF4bUI4R2xXQ3lTZnZMX09zOVZHOFhndWh0dWtyQ0VDakh0X24",
+  "https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
+  "CBMisgFBVV95cUxPT1llS01fbFpHbUsxRGVkRmJvekRUYkpzdFN1YzJTa2hkNDhKaklhc09jR2V5OVduS1JwR2Y5TzBUN0xTcU9CNFVkTmoxR25zd3VkZG9kYjByNWt4OC1xWjJMYUYwWEZnTUNJYmtIQTdVaXBoSlA5T0R4UzExaGozWGw5cGdxQUpOSk1sRjk0cDYtTzRwVWR1ZFVURFBhbUZPdXNOQjBjYkJrSDhuekgwTUR3"
  ],
  "posts": [
-  {
-   "fp": "actor breaking cause confirmed death mitte",
-   "title": "\u2018Breaking Bad\u2019 actor RJ Mitte\u2019s cause of death confirmed",
-   "source": "New York Post",
-   "at": "2026-10-13T15:05:52.951027+00:00"
-  },
-  {
-   "fp": "attack barrage blasts bullets california gunman newsroom night terrifying",
-   "title": "Gunman blasts California newsroom with barrage of bullets in terrifying night attack",
-   "source": "New York Post",
-   "at": "2026-10-13T15:05:54.741140+00:00"
-  },
-  {
-   "fp": "ambassador attack black bulgaria drone russian ship sinks summons",
-   "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-   "source": "BBC World",
-   "at": "2026-10-13T15:05:56.640352+00:00"
-  },
-  {
-   "fp": "call ceasefire early europe heed kyiv live russia strikes trump ukraine warning zelenskyy",
-   "title": "Zelenskyy says Russia \u2018did not heed\u2019 Trump\u2019s call for ceasefire and Ukraine had \u2018no early warning\u2019 before strikes on Kyiv \u2013 Europe live",
-   "source": "Guardian World",
-   "at": "2026-10-13T15:05:58.416779+00:00"
-  },
-  {
-   "fp": "ambassador asked greece guilfoyle house kimberly live resign white",
-   "title": "White House says it has asked Kimberly Guilfoyle to resign as US ambassador to Greece \u2013 live",
-   "source": "Guardian World",
-   "at": "2026-10-13T15:06:00.236200+00:00"
-  },
-  {
-   "fp": "allegations ambassador asks conduct greece guilfoyle house improper resign trump white",
-   "title": "Trump asks Greece Ambassador Guilfoyle to resign after allegations of improper conduct: White House",
-   "source": "AP",
-   "at": "2026-10-13T15:06:01.984303+00:00"
-  },
   {
    "fp": "brown elected impeaching sherrod support trump",
    "title": "Sherrod Brown says he would not support impeaching Trump if elected",
@@ -3201,15 +3165,45 @@
    "title": "Reform UK claims racism expos\u00e9 has left some members \u2018psychologically damaged\u2019 as it reports ITV to police \u2013 UK politics live",
    "source": "Guardian World",
    "at": "2026-10-21T15:53:12.631744+00:00"
+  },
+  {
+   "fp": "inevitable merger price sees spacex split tesla wall",
+   "title": "Wall St sees Tesla-SpaceX merger as inevitable, but split on price",
+   "source": "Reuters",
+   "at": "2026-10-21T16:42:19.943967+00:00"
+  },
+  {
+   "fp": "climbs improve micro nasdaq sentiment spacex super",
+   "title": "Nasdaq climbs over 1% as SpaceX, Super Micro improve AI sentiment",
+   "source": "Reuters",
+   "at": "2026-10-21T16:42:21.753467+00:00"
+  },
+  {
+   "fp": "administration china engineer expresses firm former google opposition sanctions tied trump",
+   "title": "China expresses 'firm opposition' to Trump administration sanctions tied to former Google engineer",
+   "source": "The Hill",
+   "at": "2026-10-21T16:42:23.597968+00:00"
+  },
+  {
+   "fp": "helps higher lift spacex stocks street ticks wall",
+   "title": "Wall Street ticks higher after SpaceX helps lift AI stocks",
+   "source": "AP",
+   "at": "2026-10-21T16:42:25.680827+00:00"
+  },
+  {
+   "fp": "approaches edge election feeling local officials",
+   "title": "Why local officials are feeling 'on edge' as election day approaches",
+   "source": "NPR News",
+   "at": "2026-10-21T16:42:27.435093+00:00"
+  },
+  {
+   "fp": "boost brings carolina darline graham last minute race rally senate south trump",
+   "title": "Trump brings a last-minute rally boost to Darline Graham in South Carolina's US Senate race",
+   "source": "AP",
+   "at": "2026-10-21T16:42:29.251930+00:00"
   }
  ],
  "titles": [
-  "actor breaking cause confirmed death mitte",
-  "attack barrage blasts bullets california gunman newsroom night terrifying",
-  "ambassador attack black bulgaria drone russian ship sinks summons",
-  "call ceasefire early europe heed kyiv live russia strikes trump ukraine warning zelenskyy",
-  "ambassador asked greece guilfoyle house kimberly live resign white",
-  "allegations ambassador asks conduct greece guilfoyle house improper resign trump white",
   "brown elected impeaching sherrod support trump",
   "asked guilfoyle katie kimberly resign trump zacharia",
   "asks guilfoyle house mounting resign scandals white",
@@ -3603,6 +3597,12 @@
   "considers exclusive hungary nuclear project replacing rosatom russia",
   "ceasefire freezing front lines open russia ukraine zelenskyy",
   "apology family killed officer prison receives state",
-  "claims damaged expos left live members police politics psychologically racism reform reports"
+  "claims damaged expos left live members police politics psychologically racism reform reports",
+  "inevitable merger price sees spacex split tesla wall",
+  "climbs improve micro nasdaq sentiment spacex super",
+  "administration china engineer expresses firm former google opposition sanctions tied trump",
+  "helps higher lift spacex stocks street ticks wall",
+  "approaches edge election feeling local officials",
+  "boost brings carolina darline graham last minute race rally senate south trump"
  ]
 }
