@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6126677",
   "https://pagesix.com/?post_type=article&p=9218952",
   "CBMi6wFBVV95cUxOZ1R6WlFQNF9YNDZrUS1jVldCWkxaaHFCME1Xb3BKZXFnS3NrMVk2SUVkVkRGblVhaWVneHBqT3hfc3BkZThxNzFrM2trcWd0S2FwLW1QUi1tOWxPajgyRVplbVJKR1FucEk1eHBFbWhGbzlZQndrRVZBUnBRTG1BUFhLNGRGX0MwN3lrWDBOVWJZalJnYmo1WXhkQ0V6NV9NZXJqQUdEOXFscGJrU2l0cTFYUlRyMHhBS1MzcVVxanBCUDdmRU1RUF8tRzBOT1VNcDZCeEw4bmZwWUN2cDRpX1g3YzYwU0V5dDVr",
   "https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6164202",
   "https://thehill.com/?p=6163841",
   "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
-  "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo#0"
+  "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo#0",
+  "https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back"
  ],
  "posts": [
-  {
-   "fp": "beautiful dead family found girl indigenous melbourne mourn vibrant woman young",
-   "title": "Family of Indigenous woman found dead in Melbourne mourn \u2018vibrant, beautiful young girl\u2019",
-   "source": "Guardian World",
-   "at": "2026-10-14T04:58:20.503661+00:00"
-  },
   {
    "fp": "death floods hurricane mexico rachel remnants rises simon toll unleash",
    "title": "Death toll rises to 6 as Hurricane Simon and Rachel remnants unleash floods in Mexico",
@@ -3201,10 +3195,15 @@
    "title": "At least four dead after storm brings flooding to southern France",
    "source": "BBC World",
    "at": "2026-10-22T11:58:15.558192+00:00"
+  },
+  {
+   "fp": "back bogongs bounced great moth revival",
+   "title": "The great moth revival: how bogongs have bounced back",
+   "source": "Guardian World",
+   "at": "2026-10-22T15:50:00.022256+00:00"
   }
  ],
  "titles": [
-  "beautiful dead family found girl indigenous melbourne mourn vibrant woman young",
   "death floods hurricane mexico rachel remnants rises simon toll unleash",
   "european gain indexes luxury related rise stocks",
   "budget crackdown healey john marketplaces online targets",
@@ -3603,6 +3602,7 @@
   "alleged brotherhood michigan muslim race sayed senate shake ties",
   "abbott dead governor heat leads paxton poll race senate talarico texas",
   "attack consider elections iran israel merging post spacex tesla",
-  "brings dead flooding four france least southern storm"
+  "brings dead flooding four france least southern storm",
+  "back bogongs bounced great moth revival"
  ]
 }
