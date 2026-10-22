@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/environment/2026/oct/05/australia-and-turkey-criticised-for-hosting-un-climate-conference-while-embracing-coal",
-  "https://nypost.com/?post_type=article&p=41131203",
   "https://nypost.com/?post_type=article&p=41131006",
   "CBMisgFBVV95cUxQOGR6ODMtN0dvb3BUbWlIdzJZVGx2ZnlGZDlHc3VVQVZ0d1dRaEVJcjZVdGJjeTN5QUYwNUFGMHZlbWV1ZS1ONkpSUzJ4c2VMTTdBQnJxWkszRnBQdi1XU0pKX0FnVlJKS1VYaDRid21KNmxCaHNmb2RsQlRYUHRfRTl6dnFXOHlLWU5zMlcxSkdrYnVHdVBhSzcyNDVxel9YSXlTajVlWFdkazJyRFduYmtR",
   "CBMikgFBVV95cUxQSVdEelVnRHVuNVBsSHBaWGtkcjUzdGw1TmstZGNXQWxRN2EyYTdaU3RFR0RXV1J2SDVRNy1QbWFEWjE0OTlsQzVkdktITVlvVEp2ZzFjMFlsZ1drOExwMkFVRlNwcDZleFppX0Qzc2ZFMm03Rkt0ODVCYlhrdlB2d3hLV3FSSVdSYm9XcDNaaFgwUQ",
@@ -799,15 +797,11 @@
   "CBMiYkFVX3lxTE5KdmJRWHA5NkxQUUxucUVLTXd0QVVGMVRJcWVPOUg3TU5XMGU1T0xmRHZ4dy1XWTR3YTFHWldNcFBVVjBidUJWWkNLYW5ZYk5QSV9ld2lmejF6Wng4Z1UxbTBR",
   "CBMiogFBVV95cUxPVzcxcnBlTzZ1bVN3am1mNExuR0xEbFFxbDhXYnFIVllOWkg5REE3eTNoSXpIbmxqQ29QRHZtOU1NQVBickxJaF9DS2pZMEcwa19kdzZQeERiUGpNdmZxakJsQzBhLWZzODgzSDU1NEtxcTFlZklGN1VHUEQ3U0ZnZ0NPZmxpZVMwaDFiY21xYTMzTDA5UWN5eDlRZ3phUXlMalE",
   "https://thehill.com/?p=6164307",
-  "CBMiqgFBVV95cUxOSlNSYmF4RDkzOElLT0s1R1JNU0g0UzFOak52cUFNX2NFZmMxenUwb3hSMWJteFNtWklnSHN0T0ZlX1pBN0F1WUdHTkttZXFTejR4U0Q0MmEtTENfRklNNm90QlZQVkZhV09CRzdZZHI0cUFFcnRlRENGX2lEdU91anJDVHA3VGl3aDJ2YXpmNWRIT3M4VlVJcTJ4TkNnT0ZTTHdpSlBMblFnQQ"
+  "CBMiqgFBVV95cUxOSlNSYmF4RDkzOElLT0s1R1JNU0g0UzFOak52cUFNX2NFZmMxenUwb3hSMWJteFNtWklnSHN0T0ZlX1pBN0F1WUdHTkttZXFTejR4U0Q0MmEtTENfRklNNm90QlZQVkZhV09CRzdZZHI0cUFFcnRlRENGX2lEdU91anJDVHA3VGl3aDJ2YXpmNWRIT3M4VlVJcTJ4TkNnT0ZTTHdpSlBMblFnQQ",
+  "https://nypost.com/?post_type=article&p=41455834",
+  "CBMinwFBVV95cUxONkt0NHZpTXNYZFNlZGh0SHN4NFROSFZBc0lsMzFJNGNTeFhaMTlMLUJnN0c3bTQ5OXFrbTI0VEdRdlRuQ2Y5dVZFc3V5OEg5NTFUZFkwMzI1cVpFcm1XREh1UHo1YWJtclZYeVVSdkRaWXdfWEdqel9MWm5WOFFXY2FSODdWVkhLNlhnWEx6WnJ2ME8xaHBkLUVGaDc5UlU"
  ],
  "posts": [
-  {
-   "fp": "blakeman blasts contentious debate hochul policies sanctuary shooting",
-   "title": "Blakeman blasts Hochul for sanctuary policies after NYC ICE shooting during contentious gov debate",
-   "source": "New York Post",
-   "at": "2026-10-14T00:03:24.574749+00:00"
-  },
   {
    "fp": "canada charged conspiracy detained ordered resident shool shooting washington",
    "title": "Washington resident charged with conspiracy in Canada shool shooting is ordered detained",
@@ -3179,12 +3173,6 @@
    "at": "2026-10-22T03:30:57.794429+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-10-22T03:30:59.505359+00:00"
-  },
-  {
    "fp": "2020 election money overturn reason republican tiffany tried wisconsin zuckerberg",
    "title": "Wisconsin Republican Tiffany says Zuckerberg money was the reason he tried to overturn 2020 election",
    "source": "AP",
@@ -3201,10 +3189,21 @@
    "title": "A look at the major candidates in Israel\u2019s election Tuesday",
    "source": "AP",
    "at": "2026-10-22T03:31:04.707990+00:00"
+  },
+  {
+   "fp": "accident dangerous father football force game killed perfom rappelling selected sergeant stunt time",
+   "title": "Air Force sergeant killed in 170 ft rappelling accident was selected to perfom dangerous stunt at football game for first time: father",
+   "source": "New York Post",
+   "at": "2026-10-22T06:08:34.168973+00:00"
+  },
+  {
+   "fp": "about congo countries ebola know other outbreak spread",
+   "title": "What to know about the Ebola outbreak that has spread from Congo to 4 other countries",
+   "source": "AP",
+   "at": "2026-10-22T06:08:35.903926+00:00"
   }
  ],
  "titles": [
-  "blakeman blasts contentious debate hochul policies sanctuary shooting",
   "canada charged conspiracy detained ordered resident shool shooting washington",
   "america bank billion laundering laws money sanctions settle violations",
   "debate hinson iowa live nexstar rematch senate turek watch",
@@ -3600,9 +3599,10 @@
   "airport arabia attack killed saudi wounded",
   "airport attack authorities eastern killed person saudi",
   "battleground clash debate hamilton kansas marshall senate takeaways",
-  "edition journal print street wall",
   "2020 election money overturn reason republican tiffany tried wisconsin zuckerberg",
   "clash face final michigan rogers sayed senate takeaways",
-  "candidates election israel look major tuesday"
+  "candidates election israel look major tuesday",
+  "accident dangerous father football force game killed perfom rappelling selected sergeant stunt time",
+  "about congo countries ebola know other outbreak spread"
  ]
 }
