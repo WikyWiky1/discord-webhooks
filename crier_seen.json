@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41131713",
-  "CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ",
   "https://thehill.com/?p=6126677",
   "https://pagesix.com/?post_type=article&p=9218952",
   "CBMi6wFBVV95cUxOZ1R6WlFQNF9YNDZrUS1jVldCWkxaaHFCME1Xb3BKZXFnS3NrMVk2SUVkVkRGblVhaWVneHBqT3hfc3BkZThxNzFrM2trcWd0S2FwLW1QUi1tOWxPajgyRVplbVJKR1FucEk1eHBFbWhGbzlZQndrRVZBUnBRTG1BUFhLNGRGX0MwN3lrWDBOVWJZalJnYmo1WXhkQ0V6NV9NZXJqQUdEOXFscGJrU2l0cTFYUlRyMHhBS1MzcVVxanBCUDdmRU1RUF8tRzBOT1VNcDZCeEw4bmZwWUN2cDRpX1g3YzYwU0V5dDVr",
@@ -799,15 +797,11 @@
   "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
   "CBMiqAFBVV95cUxQNVdHcXJLUDN1N0FpRTE3WDBtU2dWQVZmQl8wb3RDaWpuRkpqcUU3NERZYjA0Ri15WC1FT3FHMENTaDIxVUFFR3NjWXZ4TFUyN2EtVVFiR243UGRZQVY3dmo3Q1o0bkE0bVdQUHBUYlEtMWJlbmFqZi1FUTVpeHpoeXlRby1Nb2JvU1Rtb0k3cFZKMkNUX0dha1VUSFU2QzVzZkF6RkFsdzQ",
   "https://thehill.com/?p=6164202",
-  "https://thehill.com/?p=6163841"
+  "https://thehill.com/?p=6163841",
+  "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+  "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo#0"
  ],
  "posts": [
-  {
-   "fp": "attack bass brutally debate exposed final karen lead moderators nithya raman",
-   "title": "Nithya Raman is brutally exposed in final debate with Karen Bass \u2014 and the moderators lead the attack",
-   "source": "New York Post",
-   "at": "2026-10-14T04:58:18.755380+00:00"
-  },
   {
    "fp": "beautiful dead family found girl indigenous melbourne mourn vibrant woman young",
    "title": "Family of Indigenous woman found dead in Melbourne mourn \u2018vibrant, beautiful young girl\u2019",
@@ -3173,12 +3167,6 @@
    "at": "2026-10-22T11:14:50.543597+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-10-22T11:14:52.177385+00:00"
-  },
-  {
    "fp": "backs bank barclays bearable boss budget healey indicates live politics taxes",
    "title": "Barclays boss indicates bank taxes in budget \u2018bearable\u2019 and backs Healey \u2013 UK politics live",
    "source": "Guardian World",
@@ -3201,10 +3189,21 @@
    "title": "Talarico, Paxton in dead heat for Texas Senate, Abbott leads governor's race: Poll",
    "source": "The Hill",
    "at": "2026-10-22T11:14:58.859551+00:00"
+  },
+  {
+   "fp": "attack consider elections iran israel merging post spacex tesla",
+   "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+   "source": "NPR News",
+   "at": "2026-10-22T11:58:13.858817+00:00"
+  },
+  {
+   "fp": "brings dead flooding four france least southern storm",
+   "title": "At least four dead after storm brings flooding to southern France",
+   "source": "BBC World",
+   "at": "2026-10-22T11:58:15.558192+00:00"
   }
  ],
  "titles": [
-  "attack bass brutally debate exposed final karen lead moderators nithya raman",
   "beautiful dead family found girl indigenous melbourne mourn vibrant woman young",
   "death floods hurricane mexico rachel remnants rises simon toll unleash",
   "european gain indexes luxury related rise stocks",
@@ -3599,10 +3598,11 @@
   "accident dangerous father football force game killed perfom rappelling selected sergeant stunt time",
   "about congo countries ebola know other outbreak spread",
   "abbott battle faces greg hold keys race senate texas tough",
-  "edition journal print street wall",
   "backs bank barclays bearable boss budget healey indicates live politics taxes",
   "decadeslong formalize merger musk partnership spacex tesla",
   "alleged brotherhood michigan muslim race sayed senate shake ties",
-  "abbott dead governor heat leads paxton poll race senate talarico texas"
+  "abbott dead governor heat leads paxton poll race senate talarico texas",
+  "attack consider elections iran israel merging post spacex tesla",
+  "brings dead flooding four france least southern storm"
  ]
 }
