@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://news.sky.com/story/man-arrested-after-woman-in-her-40s-found-dead-in-norfolk-13595144",
-  "https://thehill.com/?p=6127091",
-  "CBMi0AFBVV95cUxOTGJrZUNLQ25FYU5MYkpCUnZOX3Z6Q3Nlb2x3Q1FjNFRrbmZ3RGx1TS1LR0Y5T3FtZzI0eG5tYTd0UXotTjJHTjJRbjFCV0c2Nkg4SnpmdlI3WERnTVAzTFZwX3EyWV9JcS1zcFBMMjNyRWZKVGlneWdPUGFuYWZ0NW9XbUhMdXcwTkIxTlA2Q09TT1lUdGE4SFZFbmtnMkM2a0JVbjlmcTZJeDBDZjJVR3ZvWEJRR1pOWUdjNl9VbGtNbGg3aWZITUs5aUZVZVBD",
-  "CBMinwFBVV95cUxQUTByald2eC1ld0VnNXdxaHY1SnZGaVplRS14M1NtZ3ZUbWxaWXByZEd0QTdKTFZFRUdNSkpuVGt3cGF6SXBRam14QUpYbl9pQjVPUEFiVi12a0xobnBpa0lDaE83bXFEeWNxYjNfQ3RNNlBUWUtYM0FoYTg0dnI0WnlFa25OcERpVC0wVE1YUFRrb2E5djF0ZDdkUWxJZHM",
-  "https://nypost.com/?post_type=article&p=41134626",
   "CBMirgFBVV95cUxOZm4yN3lGTlZFWFRCMmNTSFJSUWE4MnJqSGc5aGVKMXBWR3lrcXYtSEpTRWpncXNuUHc5QVVKeDVRa0NuTWpuXzBSRUxqXzcyUklYUlU2NUdLNTkwS2FndzlLdXBaQThKZThGT2d3cjRkN0FBVjFQcEJzR2NrbEpDa1RvSlJ3a3d2bUoxcnAwSF9jVnZXY0J4V0s4WjM5Y3hRVWlhY3dSQ0J0WkMxZ3c",
   "https://nypost.com/?post_type=article&p=41136354",
   "CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ",
@@ -799,39 +794,14 @@
   "CBMisgFBVV95cUxNZFM5MXdER0tRRjNfSVE4QXZpNzd1eGxJUWFGSkd5WVhpREx3a2JiZ3VaSVlVUVBkMk14NXpJLWp6Z2wxaEFQalFubDZuTElER0NXa21tMS1kbi14Q2Z1T0ZvYTltakQ4Z0h3Sko3RExtRERHS18wM3BsRWkzQXJCelFWXzd6QkU3RFdVeFZiNzNrX2JPemFvdXVsVUp1NW0tOVY1bkJYVzZPd1JsckR0RUZn",
   "CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc",
   "CBMingFBVV95cUxPTlBGb1hNeDZkYm1CcjFjcloyQ3lNVjZhQWVLb2tSNTRUSXd1VDMweHl1RnYtdy1aSHNiekJZaFQtd2RETllQVWU1MmNvWGlWYTlEUVJNY2dJbXlsdzhsNmt5SGl2UERSdmlnVy04RlhtUUU2S01CTGgwWWlQc2VrbWlxUkRkempWaWp2TWRJcFVTeGNIcXJET2d5RV90dw",
-  "https://www.washingtonexaminer.com/?p=4775508"
+  "https://www.washingtonexaminer.com/?p=4775508",
+  "https://nypost.com/?post_type=article&p=41468836",
+  "https://www.washingtonexaminer.com/?p=4776161",
+  "https://www.theguardian.com/uk-news/2026/oct/22/woman-arrested-over-shooting-of-police-officer-in-nottingham",
+  "CBMiogFBVV95cUxPazV5Q1QtWFcyUV8yUkFpOU9rWEZUM1BsN3ljVHhjUlpBd09GdF9DX0c3Y3dEUHV3WFExWThpZDVGeTQzVDdoMzhlQ093X3N1QXI0aUFsclFYOUJja1JpemNyZ1QwbWtOMTk3d0ZNbzJ3cmVGc2RoTHJ4TWpqeUhHMUI4MFNHY1ozelp0VTJNQVJON2t3S3FCOXdsdElnbnhrYlE",
+  "CBMiyAFBVV95cUxQUmZZVFpPdHR0ZXM0QllwRldsMlJCd3lxcU9BTHY5RE1IOTNNUFdMbTd1cVFzWG1ZUURydWpVU0NJM0M5a1BKZEw2cklMV25udUlqUk9WMkJXd1RHZEVuODBSMlJwNm1tekNVTWwwdzdsVEw1eHJyYzdVQ3E3czNFSnE5NzByUi1XY1g3aUZBaGtGRC04LUlQaXlZYjExRV8xMEFpb1dBVnhRLTNJdHBYVTJxdy1sSmRtWkhQa1JEU1hnaDNsVWNleA"
  ],
  "posts": [
-  {
-   "fp": "east haze indonesia intensifies pollution schools shuts singapore spikes timor wildfire",
-   "title": "Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies",
-   "source": "Reuters",
-   "at": "2026-10-14T09:57:08.359164+00:00"
-  },
-  {
-   "fp": "attack family footage posts sharing tiger trump urges victim video",
-   "title": "Family of UK tiger attack victim urges end to video sharing after Trump posts footage",
-   "source": "Reuters",
-   "at": "2026-10-14T09:57:10.097449+00:00"
-  },
-  {
-   "fp": "accuses chasing cook court docs gunman having ihop indiana knife wife",
-   "title": "Indiana gunman accuses IHOP cook of having sex with his wife before chasing him with knife: court docs",
-   "source": "New York Post",
-   "at": "2026-10-14T09:57:11.873666+00:00"
-  },
-  {
-   "fp": "creates falcon jellyfish launch mesmerizing space spacex",
-   "title": "SpaceX Falcon 9 launch creates mesmerizing \u2018space jellyfish\u2019 in the sky",
-   "source": "New York Post",
-   "at": "2026-10-14T14:21:11.888784+00:00"
-  },
-  {
-   "fp": "defense impacting limiting operations spacex starlink ukraine",
-   "title": "Ukraine says SpaceX limiting Starlink operations, impacting air defense",
-   "source": "The Hill",
-   "at": "2026-10-14T14:21:13.672090+00:00"
-  },
   {
    "fp": "defense energy hampers russian sites spacex starshield strikes throttling ukraine",
    "title": "Ukraine says SpaceX\u2019s Starshield throttling hampers defense against Russian strikes on energy sites",
@@ -3201,14 +3171,39 @@
    "title": "Feds seek suspect in attempted firebomb attack on ICE facility",
    "source": "Washington Examiner",
    "at": "2026-10-22T16:46:27.727207+00:00"
+  },
+  {
+   "fp": "altercation company deadly drove firm investment range rover shooter used",
+   "title": "GWB shooter drove for $2B investment firm\u2019s CEO, used company Range Rover during deadly altercation",
+   "source": "New York Post",
+   "at": "2026-10-22T20:21:43.153853+00:00"
+  },
+  {
+   "fp": "approximately asylum border ceuta crisis demand invasion italy migrants spain sparked still",
+   "title": "Italy and Spain end border crisis sparked by Ceuta invasion, but approximately 15,000 migrants still demand asylum",
+   "source": "Washington Examiner",
+   "at": "2026-10-22T20:21:44.973765+00:00"
+  },
+  {
+   "fp": "arrested nottingham officer police shooting woman",
+   "title": "Woman arrested over shooting of police officer in Nottingham",
+   "source": "Guardian World",
+   "at": "2026-10-22T20:21:46.680423+00:00"
+  },
+  {
+   "fp": "fire four gaza israeli kills medics people",
+   "title": "Israeli fire kills four people in Gaza, medics say",
+   "source": "Reuters",
+   "at": "2026-10-22T20:21:48.499558+00:00"
+  },
+  {
+   "fp": "backs bank central chief eastern emerge libya parliament resignation rifts",
+   "title": "Rifts emerge in Libya as eastern parliament backs central bank chief's resignation",
+   "source": "Reuters World",
+   "at": "2026-10-22T20:21:50.267432+00:00"
   }
  ],
  "titles": [
-  "east haze indonesia intensifies pollution schools shuts singapore spikes timor wildfire",
-  "attack family footage posts sharing tiger trump urges victim video",
-  "accuses chasing cook court docs gunman having ihop indiana knife wife",
-  "creates falcon jellyfish launch mesmerizing space spacex",
-  "defense impacting limiting operations spacex starlink ukraine",
   "defense energy hampers russian sites spacex starshield strikes throttling ukraine",
   "approved bissau controversial denies guinea newborns trial vaccine",
   "accuses crippling drone missions spacex ties ukraine worsen",
@@ -3603,6 +3598,11 @@
   "appeals court rules switchblades unconstitutional",
   "china earthquake magnitude strikes tibet",
   "center destroyed fire killed living mississippi senior",
-  "attack attempted facility feds firebomb seek suspect"
+  "attack attempted facility feds firebomb seek suspect",
+  "altercation company deadly drove firm investment range rover shooter used",
+  "approximately asylum border ceuta crisis demand invasion italy migrants spain sparked still",
+  "arrested nottingham officer police shooting woman",
+  "fire four gaza israeli kills medics people",
+  "backs bank central chief eastern emerge libya parliament resignation rifts"
  ]
 }
