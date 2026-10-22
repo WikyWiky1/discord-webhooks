@@ -1323,6 +1323,15 @@
    "expired": true,
    "posted_at": "2026-10-21T15:37:38+00:00",
    "expired_at": "2026-10-21T19:38:27+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.97286bcb382fd5038b5dc0ba7db7064212edadf8.001.1",
+   "message_id": "1562707727451426868",
+   "event": "Severe Thunderstorm Warning",
+   "area": "Mohave, AZ; Clark, NV; Lincoln, NV",
+   "expired": false,
+   "posted_at": "2026-10-22T06:02:36+00:00",
+   "expired_at": null
   }
  ]
 }
