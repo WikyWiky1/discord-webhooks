@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41141896",
-  "https://nypost.com/?post_type=article&p=41141725",
-  "https://thehill.com/?p=6129298",
   "CBMirwFBVV95cUxNNzh3OWRHN1ZFNktlZ2ZvdkxzS0Z6WWxqNUEwcVE0TEd6dHVCNmRkTllCQ0ZTR3QwaFNBQnhqSFQxT0ZhM2E0cG12anRLeDQ1M0xkSnotR3BnYXhOLVVwU3hjaE1qYXJmdmdfbHJteEhoX1FzNnNwQU5meWUwOUFFQWwzU0o4ZVF0M2lGdVBHSG05Zk5zdEUzeUpZX1VtbVVHSHhNNXl3UjhBMW9Ed0Nr",
   "https://thehill.com/?p=6129162",
   "https://news.sky.com/story/failed-asylum-seeker-who-attempted-knife-attack-on-israeli-embassy-in-london-jailed-for-life-13595402",
@@ -799,27 +796,12 @@
   "CBMinwFBVV95cUxPRFRLNG50TnRVZ0t2T0h3M3AxR0s2SkJXbWxabnBWQU43dlY5dTNrdGZhdi1XUkxwMTc0OVBlV0NnVkNLaGhKY3k0YUJWQW03ZEJfemJPZVpkVG5sa1FZcTc5QUtFQWVDUHY1RFJZSDB2ck4wSGxUcGxaMmo1SlN2bW9xMzlPRmpMRlFGMG15bkhuUjhtV2FZcU1xcUw5OWs",
   "CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc",
   "https://www.washingtonexaminer.com/?p=4776807",
-  "CBMiogFBVV95cUxOVXBZYkZtdldzQ01oLVBGazQ1WTlGbkVWZW9vSlljTHBDY0liRXJ0cC0yRlhCSG80MFZJT3VDNzNsWldMczBGS0dQR3ZyQ3ZlLWd1T2p4cTJEVHItSEhtcU4wSWNaUjJhMXF1SW5vRlNZQk8zNXA0aTVfTmJhOFQzOTZzS3JOYmxoNFludUpUZlhYQXBhZHE5SlRTdHY4bW1kMFE"
+  "CBMiogFBVV95cUxOVXBZYkZtdldzQ01oLVBGazQ1WTlGbkVWZW9vSlljTHBDY0liRXJ0cC0yRlhCSG80MFZJT3VDNzNsWldMczBGS0dQR3ZyQ3ZlLWd1T2p4cTJEVHItSEhtcU4wSWNaUjJhMXF1SW5vRlNZQk8zNXA0aTVfTmJhOFQzOTZzS3JOYmxoNFludUpUZlhYQXBhZHE5SlRTdHY4bW1kMFE",
+  "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+  "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc",
+  "https://thehill.com/?p=6167033"
  ],
  "posts": [
-  {
-   "fp": "building crash killed pilot reported wings wisconsin",
-   "title": "Pilot reported ice building up on the wings before Wisconsin crash that killed 6",
-   "source": "AP",
-   "at": "2026-10-14T19:06:40.561870+00:00"
-  },
-  {
-   "fp": "deadly games history look plague playing russia",
-   "title": "Is Russia playing deadly games with the plague? Look to its history.",
-   "source": "The Hill",
-   "at": "2026-10-14T19:06:42.712338+00:00"
-  },
-  {
-   "fp": "2026 attack claims field hegseth hundreds systems thousands time",
-   "title": "Hegseth claims US will field \u2018hundreds of thousands\u2019 of one-way attack systems for first time in 2026",
-   "source": "Washington Examiner",
-   "at": "2026-10-14T19:06:44.427856+00:00"
-  },
   {
    "fp": "2026 choice committee editor letters nobel peace poor prize",
    "title": "Nobel committee\u2019s poor Peace Prize choice: Letters to the Editor \u2014 Oct. 15, 2026",
@@ -3201,12 +3183,27 @@
    "title": "Mississippi releases video showing fatal shooting of 1-year-old boy by police officer",
    "source": "AP",
    "at": "2026-10-23T01:52:18.454309+00:00"
+  },
+  {
+   "fp": "amazon battle brazil election podcast",
+   "title": "Brazil\u2019s election and the battle for the Amazon \u2013 podcast",
+   "source": "Guardian World",
+   "at": "2026-10-23T03:36:16.297628+00:00"
+  },
+  {
+   "fp": "cases coast earlier encourage experts health rise usual vaccine west",
+   "title": "Flu cases rise on west coast earlier than usual as US health experts encourage vaccine",
+   "source": "Guardian World",
+   "at": "2026-10-23T03:36:17.969741+00:00"
+  },
+  {
+   "fp": "blanche block certification doomsday election scenario",
+   "title": "Blanche: DOJ could block election certification in 'doomsday scenario'",
+   "source": "The Hill",
+   "at": "2026-10-23T03:36:19.737969+00:00"
   }
  ],
  "titles": [
-  "building crash killed pilot reported wings wisconsin",
-  "deadly games history look plague playing russia",
-  "2026 attack claims field hegseth hundreds systems thousands time",
   "2026 choice committee editor letters nobel peace poor prize",
   "candidates democrats live millions pours races rally republican senate super support tries trump",
   "lower shares slump stocks tech turn",
@@ -3603,6 +3600,9 @@
   "attack came deploys find forces haiti help missing salvador soldiers special under",
   "china collapses earthquake homes hundreds kills least people powerful tibet",
   "army base canadian deadly fire grenade live military sparked training",
-  "fatal mississippi officer police releases shooting showing video year"
+  "fatal mississippi officer police releases shooting showing video year",
+  "amazon battle brazil election podcast",
+  "cases coast earlier encourage experts health rise usual vaccine west",
+  "blanche block certification doomsday election scenario"
  ]
 }
