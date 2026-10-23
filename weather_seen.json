@@ -1347,9 +1347,9 @@
    "message_id": "1562968897500741653",
    "event": "Severe Thunderstorm Warning",
    "area": "Clark, NV",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-10-22T23:20:23+00:00",
-   "expired_at": null
+   "expired_at": "2026-10-23T01:43:06+00:00"
   }
  ]
 }
