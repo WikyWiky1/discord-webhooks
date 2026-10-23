@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4752942",
-  "https://www.washingtonexaminer.com/?p=4752323",
-  "CBMisAFBVV95cUxNVUhqZnB1b3ZsWEl5VDUyd0JaMTdCN2h2WVFCek9YaFN2QWFQTmtuS010TTF3UEpuWE5EODJ2LUVlMExndDdrdjQ1cjl2WlNteGFFLXJvNF8zUjBoeG9aNE8tck81TkJfWE9OdHRTVTlra3RMenhkZXlMVk1GdWVnT0U2VWpuZ0lHa3czT0NZWnBLVXB6M0lkY3FMckt6aW1FaWpSRFZUQWZHMzV3Z0JwSQ",
-  "https://thehill.com/?p=6128990",
   "https://nypost.com/?post_type=article&p=41141896",
   "https://nypost.com/?post_type=article&p=41141725",
   "https://thehill.com/?p=6129298",
@@ -799,33 +795,13 @@
   "https://nypost.com/?post_type=article&p=41472076",
   "CBMivAFBVV95cUxOYlQ5Z0VfM3VUbVBRTG1GZGRKT2FFZVZMeGxiN1hrNEJzZnVrNnZJOWV2allkU1NhSUZ1a0NSX19UZTdTNU1iSDVVMTJzMVpXX2V6X2tnRFZUOUgxVHFfTXliQnRfclA5R1I5R0Y0ODhOQ2NPOE9tMDlHdkMzVGRnUVJoR3Z1ek5vT0xfN3AweXZpdXdoTVRqcE82TlRHOFhTTDdHdlVfYkNjMVVVbGtPVHE2cm14YXBxUFJ2Qw",
   "CBMikgFBVV95cUxPMFQ2d1A4WE5xcGdreGIwUzlhN3VNcU9pNk5UcmFqdVlwcV9qeEw0WlBBbkZrUGxEMnFMVU9RQWZJUTZRTk9KXzJSWVZMRnpuWDdKclhBUWNnTVMyQlVDcUV1NE45MzJabW5EV1NVSkJUWWwzUTZrZWVkRnFJa0tqaEEzaExST2lGVEVFdXRIUHNIUQ",
-  "https://thehill.com/?p=6166975"
+  "https://thehill.com/?p=6166975",
+  "CBMinwFBVV95cUxPRFRLNG50TnRVZ0t2T0h3M3AxR0s2SkJXbWxabnBWQU43dlY5dTNrdGZhdi1XUkxwMTc0OVBlV0NnVkNLaGhKY3k0YUJWQW03ZEJfemJPZVpkVG5sa1FZcTc5QUtFQWVDUHY1RFJZSDB2ck4wSGxUcGxaMmo1SlN2bW9xMzlPRmpMRlFGMG15bkhuUjhtV2FZcU1xcUw5OWs",
+  "CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc",
+  "https://www.washingtonexaminer.com/?p=4776807",
+  "CBMiogFBVV95cUxOVXBZYkZtdldzQ01oLVBGazQ1WTlGbkVWZW9vSlljTHBDY0liRXJ0cC0yRlhCSG80MFZJT3VDNzNsWldMczBGS0dQR3ZyQ3ZlLWd1T2p4cTJEVHItSEhtcU4wSWNaUjJhMXF1SW5vRlNZQk8zNXA0aTVfTmJhOFQzOTZzS3JOYmxoNFludUpUZlhYQXBhZHE5SlRTdHY4bW1kMFE"
  ],
  "posts": [
-  {
-   "fp": "ceasefire despite energy keeps push russia sites striking trump ukraine zelenskyy",
-   "title": "Zelenskyy says Russia keeps striking Ukraine\u2019s energy sites despite Trump ceasefire push",
-   "source": "AP",
-   "at": "2026-10-14T14:53:06.372381+00:00"
-  },
-  {
-   "fp": "attack authoritarian ilhan omar raid rule trump",
-   "title": "Trump's authoritarian raid on Ilhan Omar is an attack on the rule of law",
-   "source": "The Hill",
-   "at": "2026-10-14T14:53:08.205766+00:00"
-  },
-  {
-   "fp": "bets billion funding infrastructure record report secure shows space startups surge",
-   "title": "Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows",
-   "source": "Reuters",
-   "at": "2026-10-14T15:45:25.467044+00:00"
-  },
-  {
-   "fp": "already casualties civilian death only restrictions rising starlink toll ukraine worsen",
-   "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
-   "source": "Guardian World",
-   "at": "2026-10-14T19:06:38.855781+00:00"
-  },
   {
    "fp": "building crash killed pilot reported wings wisconsin",
    "title": "Pilot reported ice building up on the wings before Wisconsin crash that killed 6",
@@ -3201,13 +3177,33 @@
    "title": "MAHA leader resigns from administration",
    "source": "The Hill",
    "at": "2026-10-22T23:33:13.420229+00:00"
+  },
+  {
+   "fp": "attack came deploys find forces haiti help missing salvador soldiers special under",
+   "title": "El Salvador deploys special forces to Haiti to help find 4 missing soldiers who came under attack",
+   "source": "AP",
+   "at": "2026-10-23T01:52:12.695185+00:00"
+  },
+  {
+   "fp": "china collapses earthquake homes hundreds kills least people powerful tibet",
+   "title": "Powerful earthquake in China\u2019s Tibet collapses hundreds of homes and kills at least 16 people",
+   "source": "AP",
+   "at": "2026-10-23T01:52:14.404729+00:00"
+  },
+  {
+   "fp": "army base canadian deadly fire grenade live military sparked training",
+   "title": "Live grenade training sparked deadly fire at Canadian military base, army says",
+   "source": "Washington Examiner",
+   "at": "2026-10-23T01:52:16.579140+00:00"
+  },
+  {
+   "fp": "fatal mississippi officer police releases shooting showing video year",
+   "title": "Mississippi releases video showing fatal shooting of 1-year-old boy by police officer",
+   "source": "AP",
+   "at": "2026-10-23T01:52:18.454309+00:00"
   }
  ],
  "titles": [
-  "ceasefire despite energy keeps push russia sites striking trump ukraine zelenskyy",
-  "attack authoritarian ilhan omar raid rule trump",
-  "bets billion funding infrastructure record report secure shows space startups surge",
-  "already casualties civilian death only restrictions rising starlink toll ukraine worsen",
   "building crash killed pilot reported wings wisconsin",
   "deadly games history look plague playing russia",
   "2026 attack claims field hegseth hundreds systems thousands time",
@@ -3603,6 +3599,10 @@
   "billionaires court dumb even kill lefties luck passes wealth",
   "airfield attack campaign exclusive marked opening putin sabotage shot stepped",
   "adviser advocate calley maha means resigns",
-  "administration leader maha resigns"
+  "administration leader maha resigns",
+  "attack came deploys find forces haiti help missing salvador soldiers special under",
+  "china collapses earthquake homes hundreds kills least people powerful tibet",
+  "army base canadian deadly fire grenade live military sparked training",
+  "fatal mississippi officer police releases shooting showing video year"
  ]
 }
