@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMirwFBVV95cUxNNzh3OWRHN1ZFNktlZ2ZvdkxzS0Z6WWxqNUEwcVE0TEd6dHVCNmRkTllCQ0ZTR3QwaFNBQnhqSFQxT0ZhM2E0cG12anRLeDQ1M0xkSnotR3BnYXhOLVVwU3hjaE1qYXJmdmdfbHJteEhoX1FzNnNwQU5meWUwOUFFQWwzU0o4ZVF0M2lGdVBHSG05Zk5zdEUzeUpZX1VtbVVHSHhNNXl3UjhBMW9Ed0Nr",
-  "https://thehill.com/?p=6129162",
   "https://news.sky.com/story/failed-asylum-seeker-who-attempted-knife-attack-on-israeli-embassy-in-london-jailed-for-life-13595402",
   "https://thehill.com/?p=6130355",
   "https://nypost.com/?post_type=article&p=41152203",
@@ -799,21 +797,11 @@
   "CBMiogFBVV95cUxOVXBZYkZtdldzQ01oLVBGazQ1WTlGbkVWZW9vSlljTHBDY0liRXJ0cC0yRlhCSG80MFZJT3VDNzNsWldMczBGS0dQR3ZyQ3ZlLWd1T2p4cTJEVHItSEhtcU4wSWNaUjJhMXF1SW5vRlNZQk8zNXA0aTVfTmJhOFQzOTZzS3JOYmxoNFludUpUZlhYQXBhZHE5SlRTdHY4bW1kMFE",
   "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
   "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc",
-  "https://thehill.com/?p=6167033"
+  "https://thehill.com/?p=6167033",
+  "CBMimgFBVV95cUxQcWdSTE1xZjBQWlRuLVlHeGg3MmdGTkJhTlNyR3l5VXc1eXN5eGE4NmdGYm1ZOWJNMDBKUGcza2FhcjhvZ1V3ZjJzUk5qSWxhTkkxWXl6VTQ4WXlKcnRyZDNYd2xqc3ZoQTY0WE1FS1FNcTlaWThoT2FYeXZoSjNSLW1TeHFxR2VJZTVYaERJeHhZd2JMSERJWUh3",
+  "https://nypost.com/?post_type=article&p=41476840"
  ],
  "posts": [
-  {
-   "fp": "2026 choice committee editor letters nobel peace poor prize",
-   "title": "Nobel committee\u2019s poor Peace Prize choice: Letters to the Editor \u2014 Oct. 15, 2026",
-   "source": "New York Post",
-   "at": "2026-10-14T19:11:26.904567+00:00"
-  },
-  {
-   "fp": "candidates democrats live millions pours races rally republican senate super support tries trump",
-   "title": "Trump tries to rally support for Republican candidates as top Super Pac for Senate Democrats pours millions into key races \u2013 live",
-   "source": "Guardian World",
-   "at": "2026-10-14T19:11:28.857545+00:00"
-  },
   {
    "fp": "lower shares slump stocks tech turn",
    "title": "Stocks Turn Lower as AI, Tech Shares Slump",
@@ -3201,11 +3189,21 @@
    "title": "Blanche: DOJ could block election certification in 'doomsday scenario'",
    "source": "The Hill",
    "at": "2026-10-23T03:36:19.737969+00:00"
+  },
+  {
+   "fp": "13bn businesses collapse hmrc labour under writes",
+   "title": "HMRC writes off \u00a313bn in tax as businesses collapse under Labour",
+   "source": "Telegraph",
+   "at": "2026-10-23T06:48:31.191539+00:00"
+  },
+  {
+   "fp": "admitting chief davies inappropriate military relationship resigns tony zealand",
+   "title": "New Zealand\u2019s military chief Tony Davies resigns after admitting to an inappropriate relationship",
+   "source": "New York Post",
+   "at": "2026-10-23T06:48:33.114644+00:00"
   }
  ],
  "titles": [
-  "2026 choice committee editor letters nobel peace poor prize",
-  "candidates democrats live millions pours races rally republican senate super support tries trump",
   "lower shares slump stocks tech turn",
   "causes cloud coast east jellyfish launch rocket spacex stunning visible",
   "adopt banks both finance fronts mount risks street wall",
@@ -3603,6 +3601,8 @@
   "fatal mississippi officer police releases shooting showing video year",
   "amazon battle brazil election podcast",
   "cases coast earlier encourage experts health rise usual vaccine west",
-  "blanche block certification doomsday election scenario"
+  "blanche block certification doomsday election scenario",
+  "13bn businesses collapse hmrc labour under writes",
+  "admitting chief davies inappropriate military relationship resigns tony zealand"
  ]
 }
