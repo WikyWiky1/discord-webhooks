@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMicEFVX3lxTFAxMUFrcDlUeTR3aVRYTFdsSmEzTng5aEdaYUhONkpqRHI4WHF0NUhWZUhvOUd5QjRHTXpXVElzYkpNaU9lbmpON2tacDZJRmM5N1dJTnhfa1JuaHhkck80dTlKbVFOMUYybTh4UUlwM1o",
   "https://www.bbc.co.uk/news/articles/crly09gz7ew4o#0",
   "CBMigwFBVV95cUxNZlMwQU1nbHRaZ2dnOUVOM1c1LXBxNXhWUTNzS1ROWDZyODk1NldRTHB2ODNKbnI0am5tUUcwMU9YekUxMWtLOFVGMFczTU12cHpCclQ1cnhDRzBMVGRBWTYwRjZPVUZidVFlT1FMZGdUcnR6MENjNXVMUXRzTlVzdVJkSQ",
   "CBMitAFBVV95cUxNTzhNck42VmZyVkJFUUFRR3czamNkTDV5TGFjQzBGcDk0MmlwT19MdG9ZTkNseE9CQ05mXzAwTVdCZmlZM2M3bWN5M3UzX1FTV0RQeUdhMlFVTWVXRjFQaU9PNmNVbkFzSGxfYm96WTRQZGFoeWU0S2h5S0ZRa1VTSmxFdGRTZ21zM3RJT3laNmdDLVRXeG16X0dGWUQtM1pyVFhQV2NuZjVDYm0tWnNXRF9KSVA",
@@ -799,15 +798,10 @@
   "CBMirwFBVV95cUxPOF9iZ3FoTHAycU5fWGxKNWNiYnpvRXlwUWJ2ZVFtQU9IUmF4UWJTU1AwTEFRT21vNWRDNzRjWTgtY0F6Vkp0RkdxeG9xM1A0X1RRX19Eb0RqVG9tbTBNeWFRaXZ2SzEtUUFEc2VjZlZPaUxtR3JGTUNEN3VRdWtRMEdTM21OSTVSQWNJN3FaOWpBNHdld3IyZS1sbVA1a2wxLVJXRm01ejhKWXZzQU5B",
   "https://thehill.com/?p=6167437",
   "CBMilAFBVV95cUxQbnZ3Y2dPX1lNWkprR3Nnc3FZQjdWRW5aNzYwRGZJbmFfNlZfcE8xQWxmUlZ6U0ZQQlhpem1IM0VnZ2N4M3B0dHlQeVFqZ1M3V1JlLUpxczJ3TVM5RmZlemxfMkFSQzdUMGpxX2J5dGctTURuUnNhX1V3Tkx4ME1TRTFQaHpnTXNrb2d0QlMtelJFcEd0",
-  "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#0"
+  "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#0",
+  "https://www.npr.org/2026/10/22/nx-s1-6010587/should-bird-brain-be-a-compliment-heres-how-crows-think-fast"
  ],
  "posts": [
-  {
-   "fp": "ahead brazil cuts hours lula runoff week work",
-   "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
-   "source": "Guardian World",
-   "at": "2026-10-15T03:26:52.591346+00:00"
-  },
   {
    "fp": "absurd california election excuses fight illegal offer officials voting",
    "title": "California election officials offer absurd excuses in fight against illegal voting",
@@ -3201,10 +3195,15 @@
    "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
    "source": "BBC World",
    "at": "2026-10-23T12:19:52.151131+00:00"
+  },
+  {
+   "fp": "bird brain compliment crows fast here should think",
+   "title": "Should 'bird brain' be a compliment? Here's how crows think fast",
+   "source": "NPR Science",
+   "at": "2026-10-23T15:40:43.154855+00:00"
   }
  ],
  "titles": [
-  "ahead brazil cuts hours lula runoff week work",
   "absurd california election excuses fight illegal offer officials voting",
   "ahead approves brazil lula major runoff senate shorter workweek",
   "authorities citizen costa dead found mystery rican sought woman",
@@ -3603,6 +3602,7 @@
   "blames cargo drone killed missing romania russia ship sinks",
   "attack backfiring ditch last ramaswamy shows signs",
   "arrested killed paris several shooting suburb suspect wounded",
-  "attackers bank five israelis killed palestinian shooting suspected west wounded"
+  "attackers bank five israelis killed palestinian shooting suspected west wounded",
+  "bird brain compliment crows fast here should think"
  ]
 }
