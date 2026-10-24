@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4757620",
-  "https://pagesix.com/?post_type=article&p=9226568",
   "https://thehill.com/?p=6134190",
   "CBMiYkFVX3lxTFA5SEI1T2pvTDA1WnJMeF9jb240ZnBtd2VUUV9PcmJUcERWNVV4NVRkOFNOY0tLbU5uZjByMkppSl9EV1B4b0hKTDJqaXliVFA3aFFaM212VC1hUGJKMzJ6aTR3",
   "https://thehill.com/?p=6134160",
@@ -799,21 +797,11 @@
   "https://nypost.com/?post_type=article&p=41461540",
   "CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA",
   "https://www.theguardian.com/us-news/2026/oct/23/ohio-rodney-hinton-murder-conviction-police",
-  "https://www.washingtonexaminer.com/?p=4778114"
+  "https://www.washingtonexaminer.com/?p=4778114",
+  "https://nypost.com/?post_type=article&p=41488627",
+  "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "blames cornyn lose paxton preemptively race rove senate should texas trump",
-   "title": "Trump preemptively blames Cornyn and Rove should Paxton lose Texas Senate race",
-   "source": "Washington Examiner",
-   "at": "2026-10-15T23:38:19.535919+00:00"
-  },
-  {
-   "fp": "blitz confirm election judicial nominees plan post republicans senate trump",
-   "title": "Senate Republicans plan post-election blitz to confirm Trump's judicial nominees",
-   "source": "Reuters",
-   "at": "2026-10-15T23:38:21.255706+00:00"
-  },
   {
    "fp": "back gain gains give recent stocks treasury yields",
    "title": "Stocks Gain as Treasury Yields Give Back Some Recent Gains",
@@ -3201,11 +3189,21 @@
    "title": "Deadly Paris shooting suspected to be \u2018racist terrorist attack\u2019",
    "source": "Washington Examiner",
    "at": "2026-10-23T23:26:55.666679+00:00"
+  },
+  {
+   "fp": "devastating escaped face flames nightmare only survivors wildfire",
+   "title": "LA wildfire survivors escaped the flames \u2014 only to face a devastating new nightmare",
+   "source": "New York Post",
+   "at": "2026-10-24T01:55:42.780684+00:00"
+  },
+  {
+   "fp": "alleged attack both condition days haines helen improves legs losing",
+   "title": "Helen Haines\u2019s condition improves days after losing both legs from alleged attack",
+   "source": "Guardian World",
+   "at": "2026-10-24T01:55:44.616172+00:00"
   }
  ],
  "titles": [
-  "blames cornyn lose paxton preemptively race rove senate should texas trump",
-  "blitz confirm election judicial nominees plan post republicans senate trump",
   "back gain gains give recent stocks treasury yields",
   "believed dead elementary following officials oregon people school shooting tell",
   "bigger breaking goal ryan sights step took weathers yankees",
@@ -3603,6 +3601,8 @@
   "alive brain damage dead declared found hours leaving parents slam toddler",
   "agree ceasefire embattled hold month next peace russia talks town ukraine",
   "convicted killed murder officer ohio police running",
-  "attack deadly paris racist shooting suspected terrorist"
+  "attack deadly paris racist shooting suspected terrorist",
+  "devastating escaped face flames nightmare only survivors wildfire",
+  "alleged attack both condition days haines helen improves legs losing"
  ]
 }
