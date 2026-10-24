@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4757668",
-  "https://www.washingtonexaminer.com/?p=4757925",
-  "https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study",
-  "https://nypost.com/?post_type=article&p=41226674",
   "https://www.bbc.co.uk/news/articles/c875pwq134l3o#0",
   "https://nypost.com/?post_type=article&p=41227032",
   "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
@@ -799,27 +795,13 @@
   "CBMiYkFVX3lxTFB5VWlTNkxSbkxXMXdqaDQtb2lWeW8xaFEtemFFYVZqbUZxSEJWVFc5a0MxRnI0UFA0M3JlTFRQNHQwWTJFMWU5R05mdXJVRjZRbmxYOHAzTGRXd2I3b2ZRMEl3",
   "https://www.washingtonexaminer.com/?p=4778557",
   "CBMimAFBVV95cUxOS0lqdmZvS09KT1VkYW50TjZ4OU12MG1QZ1Bkc1picmdwTWx3akttSU5rTGdLRWRkY3VfT1NrdDI0a1BKbjJrY3NPVVlhLUNFbDBWUUJmZHFhMUoySUtyUzRtVW5SM3BvNlg3TmV5MldYOV9TUk5Qd05wNTJoQVFyc3R1OXRMdEx6TVhWSUJjZzBzb0JMR1RQeQ",
-  "CBMivAFBVV95cUxPWk5FamNJdG52SWx6b2FvaS1zcEFZZUJkbl9Kdl9DS2g2bGZadUJTcUZoMy03VWNrRlMtVFNnc2Q5clJJNVZ5eldDendydEU5b1lndTQ5TXViQW9uN2tTN185S1FkWnV3UHZxZkwtZE5zb0hZYm43ZG5sMHpIYWNGejQ3OWFNSjBjYUZfeEVoN1FvNk9zMmNDdEFrczJ1OEpadEM2U2RmdmtMMy1xUl9DWTkwVWd1ZFNIZjZ2Wg"
+  "CBMivAFBVV95cUxPWk5FamNJdG52SWx6b2FvaS1zcEFZZUJkbl9Kdl9DS2g2bGZadUJTcUZoMy03VWNrRlMtVFNnc2Q5clJJNVZ5eldDendydEU5b1lndTQ5TXViQW9uN2tTN185S1FkWnV3UHZxZkwtZE5zb0hZYm43ZG5sMHpIYWNGejQ3OWFNSjBjYUZfeEVoN1FvNk9zMmNDdEFrczJ1OEpadEM2U2RmdmtMMy1xUl9DWTkwVWd1ZFNIZjZ2Wg",
+  "CBMixwFBVV95cUxQUDJEcUNzdW85Z1BRTHU4RFFUMVd2UnZ0dFU5dW9lYnFoYXNDT3lsSUwtTkVlbEN0YTY5MmVIek1rNk54c2NMT1NNeGltcVViVzREZnhJNmFxYzd3MlZzeThIR1ktWUdDdUY0Zl9XUTBkUHNTb1hkY244RmkxaUlFNXhPeDZ1ZDgtSTJHdktaVVZIZVN2MTdHZW55VWVvNElRVk1fY3NRRjRuNWlYV3VQVExFN3RGX1piREUxb3E4VTNHT3ZnOV9z",
+  "https://www.bbc.co.uk/news/articles/c317kxyknwp2o#1",
+  "https://nypost.com/?post_type=article&p=41499370",
+  "https://nypost.com/?post_type=article&p=41486701"
  ],
  "posts": [
-  {
-   "fp": "identified killed police stabbing suspected woman",
-   "title": "Woman killed in suspected stabbing identified by police",
-   "source": "Sky News",
-   "at": "2026-10-16T08:44:54.937952+00:00"
-  },
-  {
-   "fp": "dead elementary fired gunman kids left oregon rampage report school shotgun teacher teen truck",
-   "title": "Oregon elementary school teen gunman fired his mom\u2019s shotgun at truck before rampage that left 3 kids, teacher dead: report",
-   "source": "New York Post",
-   "at": "2026-10-16T08:44:56.778478+00:00"
-  },
-  {
-   "fp": "attacks election fellow hurting live politics race republicans senate texas trump",
-   "title": "Trump attacks fellow Republicans for \u2018hurting Texas\u2019 during senate election race \u2013 US politics live",
-   "source": "Guardian World",
-   "at": "2026-10-16T10:48:43.836229+00:00"
-  },
   {
    "fp": "culpability flanagan fraud lose minnesota peggy race senate situation",
    "title": "Peggy Flanagan\u2019s lose-lose situation on fraud culpability in Minnesota Senate race",
@@ -3179,12 +3161,6 @@
    "at": "2026-10-24T15:27:56.456977+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-10-24T15:27:58.234301+00:00"
-  },
-  {
    "fp": "alaska blatantly concha corrupt featuring race senate sullivans",
    "title": "Alaska Senate race featuring two Dan Sullivans is \u2018blatantly corrupt\u2019: Joe Concha",
    "source": "Washington Examiner",
@@ -3201,12 +3177,33 @@
    "title": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races",
    "source": "Reuters",
    "at": "2026-10-24T15:28:03.427439+00:00"
+  },
+  {
+   "fp": "global infantino laughs reelection resignation seeks support talk touts",
+   "title": "Infantino laughs off resignation talk, touts global support as he seeks reelection",
+   "source": "Reuters World",
+   "at": "2026-10-24T18:11:19.534616+00:00"
+  },
+  {
+   "fp": "building collapse five missing nairobi rescued still",
+   "title": "Two rescued after Nairobi building collapse with five still missing",
+   "source": "BBC World",
+   "at": "2026-10-24T18:11:21.358898+00:00"
+  },
+  {
+   "fp": "accident carlson christy disney former freak going romano shooting star thought",
+   "title": "Former Disney star Christy Carlson Romano thought she was \u2018going to die\u2019 after freak shooting accident",
+   "source": "New York Post",
+   "at": "2026-10-24T18:11:23.273756+00:00"
+  },
+  {
+   "fp": "accused barrens burning dead devil girlfriend jersey leaving pine",
+   "title": "Jersey Devil! NJ man accused of burning girlfriend and leaving her for dead in Pine Barrens",
+   "source": "New York Post",
+   "at": "2026-10-24T18:11:25.035458+00:00"
   }
  ],
  "titles": [
-  "identified killed police stabbing suspected woman",
-  "dead elementary fired gunman kids left oregon rampage report school shotgun teacher teen truck",
-  "attacks election fellow hurting live politics race republicans senate texas trump",
   "culpability flanagan fraud lose minnesota peggy race senate situation",
   "cusp democrats here majority priorities senate",
   "bonds edge european government higher recover stocks treasurys yields",
@@ -3600,9 +3597,12 @@
   "changing expert keep philippe richard scientists time",
   "boost canadian collins rollback seeks susan tariff trump",
   "election manipulation navigate season",
-  "edition journal print street wall",
   "alaska blatantly concha corrupt featuring race senate sullivans",
   "ahead borrowing budget government track",
-  "emerges heating hurdle nears races republicans senate winter"
+  "emerges heating hurdle nears races republicans senate winter",
+  "global infantino laughs reelection resignation seeks support talk touts",
+  "building collapse five missing nairobi rescued still",
+  "accident carlson christy disney former freak going romano shooting star thought",
+  "accused barrens burning dead devil girlfriend jersey leaving pine"
  ]
 }
