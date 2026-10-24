@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMivwFBVV95cUxNdlMzWnhNNWU0R2ZMMWltMUtoZ01JUFFDblBpTVRqRG1FLWhiWUt6ZW04UVdSUmh4RlkydzdYNmF4NlF5NVUtQzFNN19SWElCWWsyRkw3cEMwTG5aVjItQU5rZExTYWdxNDNuVHlFYWtaUDBOSm1JZmlIN3UyTGVaczVuX1lYeDRjT191YVU3Yk1WVmdEdjc2OEd6RjJWTGZYSHdNN2FadmV5dXUzT29BaHBXWmEwTjJWajRuMS1BMA",
   "CBMipAFBVV95cUxOYlBxMHUzb2ZDaHpMY3JBZUl2Rk9XSE94bjQ2aFVndHhYeU4zS1Rwb2I1SlFJWjVpaE9sS0V4c2ZiQ2JsMzd0R0lydzlFejhJVkNYbU5ZTGVjeW9tWUJtTmUzX2VwY0N1SnpLVmdvQWRvM20xS25hRmhXRDdHVUppRk9hS2JhVExxdVUtX0hfQlNqWnd0OUhHWEpaa2w1Z3hXNVRkaw",
   "CBMipAFBVV95cUxQekQyN2VTQVB1ckZNWTFfbWpaTE9nLWE0T2xTc3BTdUtuR2lXSG5GRFRoMkhrSTFGMDZYaFlqTXhHWnU5NlJCNElKU3ExSi1KenlQcFcyT0xKNWY5QjFZY1I4Unl5OEpDV3JaM1RqVVdzZTZPY3dmYnU4eER2a2VodnM3bXdaZWNiTzM4cG9kWWRCUFN5NzgxUkNIZ3l4V1JRc2NSdQ",
   "CBMirgFBVV95cUxOSmt4aG9xTXZKa2JsVkV0dlJzN3pjcEhUOWg1YVJSYXJMbWlFb2pRODgzSzJTWDZIa3VQalhOVWUtNFoyM24xNVFHSFVZZXBqOHBSSUtjMEJrLTg4UGJ3aGx2WUtBVjFPbVFNbjVjMWVBSnEwSU1qVF9oWVVINXp4U1hTRkl4dllSWDl1VGVQdkQ4Zjl2THhVTUUyZDF2M2pfbUpoUTJBWGwxZk81MlE",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
   "CBMiugFBVV95cUxOZVhBcHBITVRDY2hGb1hueUEwVnhWbUhBc3dvc2NXTk5Yd3NybDQyUW15R3NfVnBmOHpJLVo5b2UyVmN5NjdURndGT2xQb05hSlE4UU52cnFYMDdjbnlQTm9LRHpBSkdLSDUtTlhKdGJYVjN1cGY3c2hEelZjN3FhRXM1X0ZYbVk1Q05lX3ZPdWtBRHE4U3BHUjJtNUpMemJTbXhRcEVERGFZTUt2QW1JbXlSWUpWOGZ6UWc",
   "https://nypost.com/?post_type=article&p=41497335",
-  "CBMikgFBVV95cUxNdkItYzRWZzBERjFLS2NSVkJoSk1HTFl4LUgxdjdJU3pnWHNqbWlaRE82eXhERmN0eWFfTlFMak1CRkVWeXBNMlBocFE2dW1iTnBDVXlldUhCR0JVenJRQTVaOEwteUN1Q2xZbnBGd01LMl9hcW1FNHlVYVVqNmlhUVFvWWk3MWNHdnFTancteGwyQQ"
+  "CBMikgFBVV95cUxNdkItYzRWZzBERjFLS2NSVkJoSk1HTFl4LUgxdjdJU3pnWHNqbWlaRE82eXhERmN0eWFfTlFMak1CRkVWeXBNMlBocFE2dW1iTnBDVXlldUhCR0JVenJRQTVaOEwteUN1Q2xZbnBGd01LMl9hcW1FNHlVYVVqNmlhUVFvWWk3MWNHdnFTancteGwyQQ",
+  "https://www.npr.org/2026/10/24/nx-s1-6011081/time-expert-philippe-richard-on-why-scientists-are-changing-how-we-keep-time"
  ],
  "posts": [
-  {
-   "fp": "deal mexico progress reports stalled tariff toward",
-   "title": "Progress toward a US-Mexico tariff deal has stalled, WSJ reports",
-   "source": "Reuters",
-   "at": "2026-10-16T03:22:25.573932+00:00"
-  },
   {
    "fp": "enters final paxton race rallies senate talarico texas weeks",
    "title": "Talarico rallies as his Texas US Senate race against Paxton enters final weeks",
@@ -3201,10 +3195,15 @@
    "title": "Part of famous Brighton pier collapses as Atlantic storms sweep into England",
    "source": "AP",
    "at": "2026-10-24T11:46:07.387355+00:00"
+  },
+  {
+   "fp": "changing expert keep philippe richard scientists time",
+   "title": "Time expert Philippe Richard on why scientists are changing how we keep time",
+   "source": "NPR Science",
+   "at": "2026-10-24T14:23:48.654924+00:00"
   }
  ],
  "titles": [
-  "deal mexico progress reports stalled tariff toward",
   "enters final paxton race rallies senate talarico texas weeks",
   "children killed oregon primary school teacher three year",
   "brewers collapse dodgers game loss nlcs peat sweep three watch",
@@ -3603,6 +3602,7 @@
   "deepfake election opposition outrage spanish sparks video wife",
   "assailant attack church handgun jordan pointed survivor",
   "arts attack fighter killed martial near paris racist suspected",
-  "atlantic brighton collapses england famous part pier storms sweep"
+  "atlantic brighton collapses england famous part pier storms sweep",
+  "changing expert keep philippe richard scientists time"
  ]
 }
