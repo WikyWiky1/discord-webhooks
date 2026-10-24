@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41209141",
-  "https://nypost.com/?post_type=article&p=41208877",
   "CBMivgFBVV95cUxQZktUaUdacC1fY3k1RjdiWmwxSjE3dnppemF0MkZXU2k3Z2Nqc3RUdEh5VndFRUhvSTF1YWN4ZkhhSzhnVEhOdWdaZDNIYjBCbVBJMnVvaEhZVjFrOHlZMmszR0o2d3BZSUQ3ZFI3STQ5NlJaZUNrZG0weVo4RWF5X1J0c0paMG9TREZpSVg5aV95SkJKSTZvQjd6aDVaMmI0aVhpUFN1bnpWSzhjZXJPUTdBVWEwb3hwcHZhREZB",
   "https://news.sky.com/story/man-to-face-trial-for-attempted-murder-of-british-girl-in-alps-knife-attack-13596277",
   "https://www.theguardian.com/us-news/2026/oct/07/leon-botstein-bard-college-jeffrey-epstein",
@@ -799,21 +797,11 @@
   "CBMikAFBVV95cUxNb1RMMm9xckt1YnNRZXdCUWFQVUh4aGlIUnBCbGJLbnFWdTBkcTV4ZWlxbkFiTHJuaGJBZWRtMFhTS19EYkdzUDg1ak9idms4S0RjemJLeE16OFBaTnlFb2lyMElKOGFkVWNtUnZLRklOSXhMdnplQl8yUWNObHRDbFJZcjVTSFNHbG1FZEZQN2c",
   "CBMirwFBVV95cUxNclhHTkdDZkZ3VldQb1h2Z3RNX1VVMU53SVVwSHBORFRkZWc4bGJjV09fSmRuX2s4NEVCVnhKUE1uZDZzTktqQmZjbHpSR2I3UGFIOXRpeXdxYUV0RnFnckN2ZEVmc3JQMkc2ejduNko0NzVEZkUxbkRTQVlVTE1JX1hQWnFRMkZGNVE0YWowb3hnb05FRE1sazlSQ0laTjFuTC1oNVFrLWFYT053b1Zr",
   "CBMikwFBVV95cUxQMVk3ODVoRjR6QllSMjBiWkVwWEJSN0hIcWljWDBxb2czZDVMV2lrSnVpUTlTWWdHanhpMGRIUUxaM0ZLN1dyMUJLNHZCaXF4WWRXRGQ2bG5uQVFJV2RLM0ZrZURkU0RKbEphZVh1R1dIeUlhMkpiQzVuaDN2MGdiWmdJUDYyT25LVzRRSXBOLUVldms",
-  "CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw"
+  "CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw",
+  "CBMijwFBVV95cUxQamRwXzcwNHNKY1ZyYzctd0JBTlFpWTBtaVVHVU5ZT0lsU1R3STcwMWtzRnlMaGdEMFFheDBRaWRIejhqLXZqajlOanJSbTZEcE16VzZ2VUZQUHpJX0YyZmFXckEwbUtWaDl4Zi1DQmNVOUVmNW5PcnB3UmZIMHgtV3htOFpORXU5dUNmUWNvcw",
+  "https://nypost.com/?post_type=article&p=41496664"
  ],
  "posts": [
-  {
-   "fp": "dead elementary four killed oregon report school shooter violence",
-   "title": "Shooter killed at Oregon elementary school; CNN, CBS report four dead in violence",
-   "source": "Reuters",
-   "at": "2026-10-15T23:59:37.356723+00:00"
-  },
-  {
-   "fp": "california power raise shutoffs start threat weather wildfire winds",
-   "title": "Hot weather and winds raise California wildfire threat as power shutoffs start",
-   "source": "AP",
-   "at": "2026-10-15T23:59:39.068415+00:00"
-  },
   {
    "fp": "coast expected hurricane major mexico nears storm strengthens system trudy",
    "title": "Trudy strengthens to a hurricane as system nears Mexico\u2019s coast with major storm expected",
@@ -3201,11 +3189,21 @@
    "title": "Wall Street closes lower to end rocky week",
    "source": "Reuters",
    "at": "2026-10-24T03:30:11.558358+00:00"
+  },
+  {
+   "fp": "californians lawns lush steel stone trading warding wildfires",
+   "title": "Californians Are Warding Off Wildfires by Trading Lush Lawns for Stone and Steel",
+   "source": "WSJ",
+   "at": "2026-10-24T06:47:33.079404+00:00"
+  },
+  {
+   "fp": "collapse grizzlies late lose loss sleep warriors",
+   "title": "Warriors will \u2018lose sleep\u2019 over late collapse in loss to Grizzlies",
+   "source": "New York Post",
+   "at": "2026-10-24T06:47:34.814170+00:00"
   }
  ],
  "titles": [
-  "dead elementary four killed oregon report school shooter violence",
-  "california power raise shutoffs start threat weather wildfire winds",
   "coast expected hurricane major mexico nears storm strengthens system trudy",
   "elementary investigating oregon police school shooting",
   "collins debate gets jackson maine senate shut takeaways tells testy troy",
@@ -3603,6 +3601,8 @@
   "berkshire futuristic hathaway just mess spacex",
   "candidate honor member minnesota reversal senate society",
   "bolsonaro brazil here lula offer opens runoff state toolbox voters",
-  "closes lower rocky street wall week"
+  "closes lower rocky street wall week",
+  "californians lawns lush steel stone trading warding wildfires",
+  "collapse grizzlies late lose loss sleep warriors"
  ]
 }
