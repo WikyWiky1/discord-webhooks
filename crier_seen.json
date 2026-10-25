@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4760955",
-  "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
   "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign",
   "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
   "CBMilAFBVV95cUxOT3k2RFFoX2ExOTE0Y0VNQ3hlRUVYaDRZOFNzT19YX3hmMzBYak9YUTdjdmVRUWlFSmVGMFB6clY4SkNSbXZUQ3BSZkhkcFdUdUdtRDJxX0RDM3ZpNFF3cXdsRmxScE15b2hqTTRUUjN0VUVMV09xczYzZmNnVExKTE5IQmlvU1FUZ0hEVW9iNmxNYmE2",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
   "https://www.theguardian.com/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
   "CBMiswFBVV95cUxPME9ncV9CbWtldEtCMUFJM2JUNFp2blZQMk1FM1lRVkFYeXl2S0lFNlhvMWRxc2syeElsbzc4YzVGOEpPSmFCV2R5ODRKWTctaktzQ2JwdUYyNDR5YUUyV24tUDFjVkRTRUhadHhiMEZRQUFxOXFJb3NNcVFJRkI3Tnd1Mk5fMGhCalNvVWxfOWtEdnhyRFk0aHU3bE04ZWNkSExuTHpFWlp0YlBtVTVYSzZXWQ",
-  "CBMiZ0FVX3lxTE9ickctZVVoWEptcTlSYU5wLWVWakxCeDlyemF2RUNjRW9uYXU4YldiQU1EWkUtNHUtUHpReGZhcXpqcU1yTHNKcUFVM3lhd19qN1BGLWVtQkhTNWNwSC14OGIzdUZxUDA"
+  "CBMiZ0FVX3lxTE9ickctZVVoWEptcTlSYU5wLWVWakxCeDlyemF2RUNjRW9uYXU4YldiQU1EWkUtNHUtUHpReGZhcXpqcU1yTHNKcUFVM3lhd19qN1BGLWVtQkhTNWNwSC14OGIzdUZxUDA",
+  "CBMilgFBVV95cUxQS21WNUxwOVpLMlRycVBlQzZ5MUk1eHp1MW5EQUFGOEZoaXFaSnVXczYtZzZmMV8tTFJNeUdvMloxdERKa3p6dVp2eW1YZUw2a2tKQ01Kb2lyaWNZWTJ5X1lxQmJzZWRReEx5Wlg4aEY1b2k0QTVzUjd1Rk1aT2Y3dTM2SldYRklUcF9ZSUVmS2N2Z2RwY3c",
+  "CBMiqwFBVV95cUxPUTEtbzdiSENESl8zTEt6ZFRtQVpmOVdUM1NlNVpmUEpiMjFyemVfc0ZFS09teXBpdG9yZVZQaFJlT3dHT19CZUpSbmozdmUtamhBN2lnZ3lOSjdMdFlKNGk1NFA5TkJrWVJLS0lzXzhkdTk0NWlQU2VrMDU5dldoYVlFNDM5YndGbldEa2FfME92MVZQUkc3ZmktdUNsZjhJSUFyR0RPVldVWmc"
  ],
  "posts": [
-  {
-   "fp": "asia ground recover rout stocks tech",
-   "title": "Asia Stocks Recover Some Ground After Tech Rout",
-   "source": "WSJ",
-   "at": "2026-10-17T10:13:55.534948+00:00"
-  },
-  {
-   "fp": "astrazeneca billion deal discovery drug insitro strikes",
-   "title": "AstraZeneca Strikes Up to $1.5 Billion AI Drug Discovery Deal With Insitro",
-   "source": "WSJ",
-   "at": "2026-10-17T10:13:58.139441+00:00"
-  },
   {
    "fp": "alligator fisherman foot killed shoreline stood",
    "title": "Fisherman, 71, killed by 12-foot alligator while he stood on shoreline",
@@ -3201,11 +3189,21 @@
    "title": "Lula and Flavio Bolsonaro cast their ballot in presidential runoff",
    "source": "Reuters",
    "at": "2026-10-25T20:26:44.085735+00:00"
+  },
+  {
+   "fp": "attack church gunmen jordan kill seven",
+   "title": "Gunmen Kill Seven in Church Attack in Jordan",
+   "source": "WSJ",
+   "at": "2026-10-25T22:35:50.193562+00:00"
+  },
+  {
+   "fp": "action britain ensure ready urgent where",
+   "title": "Where is the urgent action to ensure that Britain is ready for war?",
+   "source": "Telegraph",
+   "at": "2026-10-25T22:35:52.063359+00:00"
   }
  ],
  "titles": [
-  "asia ground recover rout stocks tech",
-  "astrazeneca billion deal discovery drug insitro strikes",
   "alligator fisherman foot killed shoreline stood",
   "detective disease help measles outbreak pennsylvania send tackle",
   "according adapting better goes here life plan rarely",
@@ -3603,6 +3601,8 @@
   "2026 brazil election live results round second",
   "budget budgets differently healey military past played really secrecy style",
   "alaska blanche election meddle race results senate suing trump trying",
-  "ballot bolsonaro cast flavio lula presidential runoff"
+  "ballot bolsonaro cast flavio lula presidential runoff",
+  "attack church gunmen jordan kill seven",
+  "action britain ensure ready urgent where"
  ]
 }
