@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo#0",
   "https://pagesix.com/?post_type=article&p=9231745",
   "https://www.theguardian.com/us-news/2026/oct/09/hurricane-isaias-fema-trump-cuts",
   "https://www.theguardian.com/society/2026/oct/09/labour-social-affordable-housing-abena-oppong-asare-england",
@@ -799,15 +798,10 @@
   "CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw",
   "CBMirAFBVV95cUxQREFURzgtOGtaR0VHVDJsWXVYZzRDeUlxZFZVSWozUjNPQVU2cnc2VlZsLTlrWEFYM1hfWGxOdTRsc28zTEVfOWJKZ3pSRFhHbjZDZWFsdk9NRDNhTUxyYjdZZHlsQlN1N0QxSTF2WjM5Ry1lNW1fQWozekJNY3dKQnd5RGg4ZHlSaWRyTl85YVR4eFFLckFMZEs3NDJOTGgybGFRNWlVT0E4ZDFs",
   "https://www.washingtonexaminer.com/?p=4778950",
-  "CBMikgFBVV95cUxPUWZCb0VvamtWZU1yamNPNy1KTFBFQTJtNEc5YTFxSXdzTHZwakt2SkZZcXg4X3FIT3p4SThzY3dLek5mdmpSUzlfR1d1a09JQUFNLXV6TFVOOGsxQ1JpNE5rYWJwLWFyUm9CUVJ1M1FUUkNzNjFCV2dMT3NCV0I5MVJpdkY4UmNidV9LR2ZrTFhFZw"
+  "CBMikgFBVV95cUxPUWZCb0VvamtWZU1yamNPNy1KTFBFQTJtNEc5YTFxSXdzTHZwakt2SkZZcXg4X3FIT3p4SThzY3dLek5mdmpSUzlfR1d1a09JQUFNLXV6TFVOOGsxQ1JpNE5rYWJwLWFyUm9CUVJ1M1FUUkNzNjFCV2dMT3NCV0I5MVJpdkY4UmNidV9LR2ZrTFhFZw",
+  "CBMiiAFBVV95cUxOR1ptb0tfN29VQjZGNXFnQ3BfSTZRd3hzVkY3R004ODR4THI3a1ljUG1tYTlZaHZOT1ZtY3R2RUJmWndBWUNlVkZDRlQyQlBfVFJ6UGFfNlhkLXpRN0IxVDZZU0l3NTF0U3JPcXBTQ1dpZnRMeTZZZXRvVXJ4d0NiNkFBTzI2clp2"
  ],
  "posts": [
-  {
-   "fp": "ablaze california fast fueled homes moving multiple southern weather wildfire windy",
-   "title": "Multiple Southern California homes are ablaze in a fast-moving wildfire fueled by hot, windy weather",
-   "source": "AP",
-   "at": "2026-10-16T22:59:26.958349+00:00"
-  },
   {
    "fp": "deal diesel oregon podcast shooting slams updated zacharia zelenskiy",
    "title": "PODCAST: Zacharia out, Zelenskiy slams diesel deal, Oregon shooting (Updated)",
@@ -3201,10 +3195,15 @@
    "title": "Bus crash in Kenya kills 22 near the site of a previous fatal accident",
    "source": "AP",
    "at": "2026-10-25T14:24:19.899486+00:00"
+  },
+  {
+   "fp": "allies escape orbit race spacex",
+   "title": "U.S. Allies Race to Escape SpaceX\u2019s Orbit",
+   "source": "WSJ",
+   "at": "2026-10-25T14:54:39.521004+00:00"
   }
  ],
  "titles": [
-  "ablaze california fast fueled homes moving multiple southern weather wildfire windy",
   "deal diesel oregon podcast shooting slams updated zacharia zelenskiy",
   "ballots california election fears fraud mail stolen",
   "claims election falsely georgia illegitimate ossoff trump",
@@ -3603,6 +3602,7 @@
   "between bolsonaro brazil heads leftist lula polls runoff",
   "breast cancer diagnosis homes microplastics mission sparked",
   "alaska attack choice corrupt murkowski ranked rips trump voting",
-  "accident crash fatal kenya kills near previous site"
+  "accident crash fatal kenya kills near previous site",
+  "allies escape orbit race spacex"
  ]
 }
