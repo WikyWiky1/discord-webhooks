@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41249920",
-  "https://www.npr.org/2026/10/09/nx-s1-5989180/25-years-later-an-afghan-couple-looks-back-at-the-invasion",
-  "CBMiowFBVV95cUxQQkZPdU9DQXRheDlJQnc0Z3dzaTRsc3RseW16UGJDM09pa01XWkROdzRzM09PeTBRYkQtbjJKckpkeVp6eVRtdUtrX19laG5XYnlackxtQ2ZDQjhKR3IwSXZ3Q0U5SWVrbDNKSnVZWTVGZUR3OUxLUWlhNGJCejg4djBPS0hxb2RaNnRPV3lfS3lVREs3U1ExZGpKQzBlX3UwTmxR",
   "https://nypost.com/?post_type=article&p=41179465",
   "https://www.washingtonexaminer.com/?p=4754312",
   "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
   "CBMimwFBVV95cUxOdGlfSUE1OGh0RVkyYTFKNElvU1Z6TDFVQnk5TVBpekNsb3hyZlVEUVdNcm90OTNrSzhNUHVSYWVtTDZiQ1VRSEZwQlJGZDg4cERoZ3BKc0ltZkE4dHltT2VjLXVWQ1AtRmc3ZDdweDVzSHdrempla21LTDh3OVBMVVlQZndVck1fazZUemVfR0kybnpkb3ZacDRfQQ",
   "https://www.washingtonexaminer.com/?p=4778946",
-  "CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3"
+  "CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3",
+  "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+  "https://news.sky.com/story/two-day-manhunt-for-escaped-prisoner-who-is-a-risk-to-himself-and-the-public-13603674",
+  "CBMipAFBVV95cUxNdDRpeXJ1dUJPQ204M0NuOFBla1dvdXk2djVEUzJCQzk0SlBydEZiUmNFVF9LY0oySThQSkszTXdZZUlCdnFYaU93SnNCZGlWeWJUMEhCNERCbE5CQ1RXUHRCU3BMbnh4cDUyQVR6bHBWMHFaXzZ4Qmd3U2pwUWVDWndGU1FRQ2VXeEVLY0d1dndOWW1zSUFJRHoxUUF2M01qMnlmRA"
  ],
  "posts": [
-  {
-   "fp": "asia battered dive semiconductor stocks",
-   "title": "Asia Stocks Battered as Semiconductor Stocks Dive",
-   "source": "WSJ",
-   "at": "2026-10-16T23:16:17.083355+00:00"
-  },
-  {
-   "fp": "acts civilian heroic oregon police praise shooting",
-   "title": "Police Praise \u2018Heroic\u2019 Civilian Acts in Oregon Shooting",
-   "source": "WSJ",
-   "at": "2026-10-17T01:10:52.837871+00:00"
-  },
-  {
-   "fp": "actor breaking breaks brother down just memorial miss mitte really service sister tears",
-   "title": "RJ Mitte\u2019s sister breaks down in tears at \u2018Breaking Bad\u2019 actor\u2019s memorial service: \u2018I just really miss my brother\u2019",
-   "source": "New York Post",
-   "at": "2026-10-17T01:10:54.601045+00:00"
-  },
   {
    "fp": "brain daughter family forgive girl heart injuries killed reels reveals suffered",
    "title": "NYC girl, 5, killed by mom suffered heart, brain injuries, DA reveals \u2014 as family reels: \u2018I forgive my daughter\u2019",
@@ -3201,12 +3183,27 @@
    "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
    "source": "Reuters",
    "at": "2026-10-25T15:38:17.270726+00:00"
+  },
+  {
+   "fp": "batters boelo dead power properties storm without",
+   "title": "One dead and 82,000 properties without power as Storm Boelo batters UK",
+   "source": "Guardian World",
+   "at": "2026-10-25T17:49:09.306544+00:00"
+  },
+  {
+   "fp": "escaped manhunt prisoner public risk",
+   "title": "Two-day manhunt for escaped prisoner who is 'a risk to the public'",
+   "source": "Sky News",
+   "at": "2026-10-25T17:49:11.098409+00:00"
+  },
+  {
+   "fp": "admits attack cyber former jaguar land minister rover sponsored state",
+   "title": "Jaguar Land Rover cyber-attack was state-sponsored, former minister admits",
+   "source": "Telegraph",
+   "at": "2026-10-25T17:49:12.977792+00:00"
   }
  ],
  "titles": [
-  "asia battered dive semiconductor stocks",
-  "acts civilian heroic oregon police praise shooting",
-  "actor breaking breaks brother down just memorial miss mitte really service sister tears",
   "brain daughter family forgive girl heart injuries killed reels reveals suffered",
   "graham lindsey named ordered russia sanctions trump waives",
   "effect russia sanctions several takes trump waives",
@@ -3603,6 +3600,9 @@
   "bolsonaro brazilians election leftist lula pitting presidential right runoff vote",
   "bank france olives podcast protests race senate texas west",
   "allowing closed drone lethal loophole musk spacex starlink strikes ukrainian",
-  "bypass crypto economic netanyahu plan rebuked sanctions"
+  "bypass crypto economic netanyahu plan rebuked sanctions",
+  "batters boelo dead power properties storm without",
+  "escaped manhunt prisoner public risk",
+  "admits attack cyber former jaguar land minister rover sponsored state"
  ]
 }
