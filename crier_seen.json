@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMimwFBVV95cUxOcy1vck40VXpJV2N0bnp6a3VuTFVTb3hrNndtM0d5MWRzQXFIR2tvdkhHWjU5d0x6QWFUTTJ0a29vUDJhUy1KdlVzZUlzQlB2cDQ5RXdKSlNrOFdmWGlDNmVJa0dBQmYtaFpYM1NJRTNKaU9VMUJvWkkyUHh3djlTZWk1NlJxSEJQQ0ZiV1RsME1BaF9aZWNLR01Oaw",
-  "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
-  "https://nypost.com/?post_type=article&p=41231119",
   "CBMingFBVV95cUxQdjAydXBMZXdCOUJLSG41X0g3LXJGd0ZzS2FlUEViREw3aFlQVlVsSVltX0N3aS1nYk1aZURoamdhZmdEZGY4VnNZMUdjNDcyTVJBd2paa1g2ckFZNHBZTllrR3ZYUHVQLTA2YXlibTRHTVFrc2YtN1RjcXk1b1pvSV93ekpEUXBtb1FKQnZGMlFCVjZyS1RKZ0l5am00QQ",
   "https://www.washingtonexaminer.com/?p=4759254",
   "CBMiYkFVX3lxTFB1S09pZnRoaU0wTDZEVEVUaWhXb21EcHdvZ0tTZVRSYVpLelFOWXRYdXVNSlluX29WQlJHR2xxQU0zdC1sbFIxVXNTM1Q2VDRkTjRIUUxBM1BTREpKcDRJRXJB",
@@ -799,27 +796,12 @@
   "https://www.washingtonexaminer.com/?p=4778758",
   "CBMitAFBVV95cUxNU3VRR245SGlYN3JOTVU4QVBwSU1KcWVCSHc0VkhEWXJWZHdqUjRPY3hYaXdneVBlby1VRTBqSFM1WDk5Z2N2WjBGNXFlbzZlbGdLdG94RldrTXFKMldETExwUmp4eEhUbGtfLW5JM1h6TlpaREgyUFBXcnhnam1yX3VKR2dkMVN3d2VwT2R6WUx1c0MzWWRkNDZQTHVYU2x0X2ZoSVpON0sydmNYNjVaRkpOQ3I",
   "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
-  "https://thehill.com/?p=6170232"
+  "https://thehill.com/?p=6170232",
+  "https://nypost.com/?post_type=article&p=41464584",
+  "CBMipAFBVV95cUxPOE5IMGRMTzd6dTFDS21qbTdmVDBkUzcteU1OWlQ0aWt2Z1Z6d0cxRGRVbEhGNkVkSnRGQVN1WVlLdU9vRkJmVHphOWk5RUFCNmJuUzJ0TGVaNC1tenk5NGNmUldFSnVXVkQ1bHd4aHJzZHFlWWJ2UHU0VHhETDFVNFpoaXdsQXpDZ21rMllSTlplRTItdnNuNUt6X1JjckV5OWJrWA",
+  "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "ahead bronx identify lawyers officers shooting themselves",
-   "title": "ICE officers 'did not identify themselves' ahead of Bronx shooting: Lawyers",
-   "source": "The Hill",
-   "at": "2026-10-16T17:46:19.174687+00:00"
-  },
-  {
-   "fp": "blaze fueled races socal structures threatened through wildfire wind",
-   "title": "Wildfire races through SoCal as structures threatened by wind-fueled blaze",
-   "source": "New York Post",
-   "at": "2026-10-16T20:22:03.908072+00:00"
-  },
-  {
-   "fp": "answers children killed oregon police school seek shooting",
-   "title": "Police seek answers after children killed in Oregon school shooting",
-   "source": "Reuters",
-   "at": "2026-10-16T20:22:05.592299+00:00"
-  },
   {
    "fp": "arrested back california driving identified loaded newsroom shooting station suspect",
    "title": "California newsroom shooting suspect identified as she\u2019s arrested with loaded gun driving back to TV station",
@@ -3201,12 +3183,27 @@
    "title": "Sunday shows preview: Trump's DOJ keeps close eye on election results; Last-minute campaigning heats up",
    "source": "The Hill",
    "at": "2026-10-24T22:55:33.089377+00:00"
+  },
+  {
+   "fp": "attack cart city infamous killed loves nearly returns shopping yorker",
+   "title": "New Yorker nearly killed in infamous shopping cart attack returns to city she loves",
+   "source": "New York Post",
+   "at": "2026-10-25T00:43:15.862344+00:00"
+  },
+  {
+   "fp": "black bulgaria deadly drone president strikes votes wake",
+   "title": "Bulgaria votes for president in wake of deadly Black Sea drone strikes",
+   "source": "Reuters World",
+   "at": "2026-10-25T00:43:17.536456+00:00"
+  },
+  {
+   "fp": "boxing brisbane drive event four injured outside people shooting south",
+   "title": "Four people injured after drive-by shooting outside boxing event south of Brisbane",
+   "source": "Guardian World",
+   "at": "2026-10-25T00:43:19.219039+00:00"
   }
  ],
  "titles": [
-  "ahead bronx identify lawyers officers shooting themselves",
-  "blaze fueled races socal structures threatened through wildfire wind",
-  "answers children killed oregon police school seek shooting",
   "arrested back california driving identified loaded newsroom shooting station suspect",
   "centers data demand electricity growing meet nuclear plants power reviving shuttered",
   "allegedly because coffins gold killed officer philadelphia police protests shot white",
@@ -3603,6 +3600,9 @@
   "2026 ahead dispatched election know midterms monitors nationwide",
   "borrowing budget english funding growth hand mayors powers",
   "boost budget devolution growth healey include package",
-  "campaigning close election heats keeps last minute preview results shows sunday trump"
+  "campaigning close election heats keeps last minute preview results shows sunday trump",
+  "attack cart city infamous killed loves nearly returns shopping yorker",
+  "black bulgaria deadly drone president strikes votes wake",
+  "boxing brisbane drive event four injured outside people shooting south"
  ]
 }
