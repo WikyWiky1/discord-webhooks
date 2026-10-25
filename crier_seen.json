@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41179465",
-  "https://www.washingtonexaminer.com/?p=4754312",
-  "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
-  "CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0",
   "https://www.washingtonexaminer.com/?p=4760673",
   "CBMirwFBVV95cUxOZVBiRWJSeWNWZEpGNmRjR3lPblNnZ0xDTXJ6RHRTOVdlbDJELUM1TXFOSUx4dGR5ekxhSUNFNmV3czlUYnJiV2tpTEUzRGJ6WW5qbldudTA1OVRnWEd4a1QzczJGbE80ZExTYXdhdjU2N0Exb3IzcmFKM3Mwb2k3U0x6TzJXczBSNHd5Wml0TmRERV9iQ2RRRzBfT3dhRXRUYU9TZUlhTWxPendla3gw",
   "https://www.washingtonexaminer.com/?p=4760948",
@@ -799,33 +795,13 @@
   "CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3",
   "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
   "https://news.sky.com/story/two-day-manhunt-for-escaped-prisoner-who-is-a-risk-to-himself-and-the-public-13603674",
-  "CBMipAFBVV95cUxNdDRpeXJ1dUJPQ204M0NuOFBla1dvdXk2djVEUzJCQzk0SlBydEZiUmNFVF9LY0oySThQSkszTXdZZUlCdnFYaU93SnNCZGlWeWJUMEhCNERCbE5CQ1RXUHRCU3BMbnh4cDUyQVR6bHBWMHFaXzZ4Qmd3U2pwUWVDWndGU1FRQ2VXeEVLY0d1dndOWW1zSUFJRHoxUUF2M01qMnlmRA"
+  "CBMipAFBVV95cUxNdDRpeXJ1dUJPQ204M0NuOFBla1dvdXk2djVEUzJCQzk0SlBydEZiUmNFVF9LY0oySThQSkszTXdZZUlCdnFYaU93SnNCZGlWeWJUMEhCNERCbE5CQ1RXUHRCU3BMbnh4cDUyQVR6bHBWMHFaXzZ4Qmd3U2pwUWVDWndGU1FRQ2VXeEVLY0d1dndOWW1zSUFJRHoxUUF2M01qMnlmRA",
+  "CBMihgFBVV95cUxOZ0RORnFPYjVtbTVHNzBDVi1QNVZmQ2thYi1heU50andMMUZwZGNzZ29RY192MWhlbUhqeXF2cy13bUl1eUVMVmpDVFBfSFMySjg1QWY2STFXSGllUWFLTXVUWE9YMDVISk5WTlpiOGZBVEstXzZGYUY4VTctY0cyY2w0MGllZw",
+  "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do#1",
+  "https://www.washingtonexaminer.com/?p=4779018",
+  "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway"
  ],
  "posts": [
-  {
-   "fp": "brain daughter family forgive girl heart injuries killed reels reveals suffered",
-   "title": "NYC girl, 5, killed by mom suffered heart, brain injuries, DA reveals \u2014 as family reels: \u2018I forgive my daughter\u2019",
-   "source": "New York Post",
-   "at": "2026-10-17T01:10:56.323381+00:00"
-  },
-  {
-   "fp": "graham lindsey named ordered russia sanctions trump waives",
-   "title": "Trump waives Russia sanctions ordered by law named for Lindsey Graham",
-   "source": "Washington Examiner",
-   "at": "2026-10-17T03:12:50.485887+00:00"
-  },
-  {
-   "fp": "effect russia sanctions several takes trump waives",
-   "title": "Trump waives several Russia sanctions as new US law takes effect",
-   "source": "BBC World",
-   "at": "2026-10-17T03:12:52.177296+00:00"
-  },
-  {
-   "fp": "effect graham outlined russian sanctions took trump waives",
-   "title": "Trump waives Russian sanctions outlined in Graham Act before they took effect",
-   "source": "The Hill",
-   "at": "2026-10-17T03:12:53.945226+00:00"
-  },
   {
    "fp": "amazon brazil deforestation election fall looms record sees",
    "title": "Brazil sees record fall in Amazon deforestation as key election looms",
@@ -3201,13 +3177,33 @@
    "title": "Jaguar Land Rover cyber-attack was state-sponsored, former minister admits",
    "source": "Telegraph",
    "at": "2026-10-25T17:49:12.977792+00:00"
+  },
+  {
+   "fp": "4x4s emergency plan streeting tories undermine warn",
+   "title": "Tax on 4x4s could undermine Streeting\u2019s emergency plan, Tories warn",
+   "source": "Telegraph",
+   "at": "2026-10-25T20:14:25.407561+00:00"
+  },
+  {
+   "fp": "death gunmen nigeria police raided rises toll village",
+   "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+   "source": "BBC World",
+   "at": "2026-10-25T20:14:27.146376+00:00"
+  },
+  {
+   "fp": "attack election iran israeli netanyahu test warns",
+   "title": "Netanyahu warns Iran against Israeli Election Day attack: \u2018Don\u2019t test us\u2019",
+   "source": "Washington Examiner",
+   "at": "2026-10-25T20:14:28.958533+00:00"
+  },
+  {
+   "fp": "charged death highway incident missouri road second shooting suspect teen",
+   "title": "Suspect in shooting death of Missouri teen on highway charged in second road incident",
+   "source": "Guardian World",
+   "at": "2026-10-25T20:14:30.743708+00:00"
   }
  ],
  "titles": [
-  "brain daughter family forgive girl heart injuries killed reels reveals suffered",
-  "graham lindsey named ordered russia sanctions trump waives",
-  "effect russia sanctions several takes trump waives",
-  "effect graham outlined russian sanctions took trump waives",
   "amazon brazil deforestation election fall looms record sees",
   "hold interest national package pause puts russia sanctions trump",
   "ballots california counting election jail noncitizens officials time trump vows",
@@ -3603,6 +3599,10 @@
   "bypass crypto economic netanyahu plan rebuked sanctions",
   "batters boelo dead power properties storm without",
   "escaped manhunt prisoner public risk",
-  "admits attack cyber former jaguar land minister rover sponsored state"
+  "admits attack cyber former jaguar land minister rover sponsored state",
+  "4x4s emergency plan streeting tories undermine warn",
+  "death gunmen nigeria police raided rises toll village",
+  "attack election iran israeli netanyahu test warns",
+  "charged death highway incident missouri road second shooting suspect teen"
  ]
 }
