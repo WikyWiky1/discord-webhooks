@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign",
-  "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
-  "CBMilAFBVV95cUxOT3k2RFFoX2ExOTE0Y0VNQ3hlRUVYaDRZOFNzT19YX3hmMzBYak9YUTdjdmVRUWlFSmVGMFB6clY4SkNSbXZUQ3BSZkhkcFdUdUdtRDJxX0RDM3ZpNFF3cXdsRmxScE15b2hqTTRUUjN0VUVMV09xczYzZmNnVExKTE5IQmlvU1FUZ0hEVW9iNmxNYmE2",
-  "CBMiogFBVV95cUxNSVIwWnFtX3JvdXpubXd6aFNMMzlVbTlYdUdtQVc2YVBCa3UxUUZXTzh5TUNCcW9Rb2JnZmpZU2d6bW8ycV9fc0lXUXo2dlJPYW9IUUY3MGZXZm5SYUJSeWdlY1lWcFBqSkM0TlV5X3RMWFJ4czNMb0xtYS14LXlWVmwzNFhXb2hTUTVkWnNmMWY5OGVJRkU5azhqMWFBckNyUlE",
-  "CBMiuAFBVV95cUxQMEFCQWZhWGJXa25ZeDBOZlE3b3RWQldSSUM5MmRDd1JqdFNvbl83R19nc014ek1YTW1iQlBqbW1paUlManF3UzlNT21BTl81cG5NNGQ5MWhWOWZOMnpQamN6TmxrUFVLVXRCaTl2T0JYclhVc3dvLUpNeG5wY3JSci02OHVtWmRpemp2UExRUGRoTnpyN3lKUGlRQ3FHdS1pZDNvNVM0bWE2djAzNzNvNTg4RVdXVEhw",
-  "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
   "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
   "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo#0",
   "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o#0",
@@ -799,45 +793,15 @@
   "CBMiswFBVV95cUxPME9ncV9CbWtldEtCMUFJM2JUNFp2blZQMk1FM1lRVkFYeXl2S0lFNlhvMWRxc2syeElsbzc4YzVGOEpPSmFCV2R5ODRKWTctaktzQ2JwdUYyNDR5YUUyV24tUDFjVkRTRUhadHhiMEZRQUFxOXFJb3NNcVFJRkI3Tnd1Mk5fMGhCalNvVWxfOWtEdnhyRFk0aHU3bE04ZWNkSExuTHpFWlp0YlBtVTVYSzZXWQ",
   "CBMiZ0FVX3lxTE9ickctZVVoWEptcTlSYU5wLWVWakxCeDlyemF2RUNjRW9uYXU4YldiQU1EWkUtNHUtUHpReGZhcXpqcU1yTHNKcUFVM3lhd19qN1BGLWVtQkhTNWNwSC14OGIzdUZxUDA",
   "CBMilgFBVV95cUxQS21WNUxwOVpLMlRycVBlQzZ5MUk1eHp1MW5EQUFGOEZoaXFaSnVXczYtZzZmMV8tTFJNeUdvMloxdERKa3p6dVp2eW1YZUw2a2tKQ01Kb2lyaWNZWTJ5X1lxQmJzZWRReEx5Wlg4aEY1b2k0QTVzUjd1Rk1aT2Y3dTM2SldYRklUcF9ZSUVmS2N2Z2RwY3c",
-  "CBMiqwFBVV95cUxPUTEtbzdiSENESl8zTEt6ZFRtQVpmOVdUM1NlNVpmUEpiMjFyemVfc0ZFS09teXBpdG9yZVZQaFJlT3dHT19CZUpSbmozdmUtamhBN2lnZ3lOSjdMdFlKNGk1NFA5TkJrWVJLS0lzXzhkdTk0NWlQU2VrMDU5dldoYVlFNDM5YndGbldEa2FfME92MVZQUkc3ZmktdUNsZjhJSUFyR0RPVldVWmc"
+  "CBMiqwFBVV95cUxPUTEtbzdiSENESl8zTEt6ZFRtQVpmOVdUM1NlNVpmUEpiMjFyemVfc0ZFS09teXBpdG9yZVZQaFJlT3dHT19CZUpSbmozdmUtamhBN2lnZ3lOSjdMdFlKNGk1NFA5TkJrWVJLS0lzXzhkdTk0NWlQU2VrMDU5dldoYVlFNDM5YndGbldEa2FfME92MVZQUkc3ZmktdUNsZjhJSUFyR0RPVldVWmc",
+  "CBMipgFBVV95cUxNbW50b2RKQnYxQ3pEY21lOWdDMTNwTmN6cDFsS1lKVmpWcDZ2U25TVGlELXpFMkZoOXJhU1R4WUF5NHNISmNKejJ2VnFnckRaUWlrVi04SFQxT2xOS19qQWM0ZkZsVmlpOFBjUVlNN3gxU2Y4aTRsZGtLRXZfWlVSV0xoSXd1em0xUUlfZzlIVDJGOElMdlpvVVY3ZGFDcjRGaDRQMlVR",
+  "https://www.foxnews.com/world/zelenskyy-can-leverage-moscow-ties-from-comedy-days-make-peace-deal-says-former-key-aide",
+  "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo#0",
+  "https://nypost.com/?post_type=article&p=41488467",
+  "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+  "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo#0"
  ],
  "posts": [
-  {
-   "fp": "alligator fisherman foot killed shoreline stood",
-   "title": "Fisherman, 71, killed by 12-foot alligator while he stood on shoreline",
-   "source": "New York Post",
-   "at": "2026-10-17T13:11:30.788151+00:00"
-  },
-  {
-   "fp": "detective disease help measles outbreak pennsylvania send tackle",
-   "title": "CDC to send \u2018disease detective\u2019 to help tackle Pennsylvania measles outbreak",
-   "source": "Guardian World",
-   "at": "2026-10-17T13:11:32.514197+00:00"
-  },
-  {
-   "fp": "according adapting better goes here life plan rarely",
-   "title": "Life rarely goes according to plan. Here\u2019s how to get better at adapting",
-   "source": "AP",
-   "at": "2026-10-17T14:07:08.850990+00:00"
-  },
-  {
-   "fp": "pause putin reward russia sanctions trump zelenskyy",
-   "title": "Trump\u2019s pause on Russia sanctions is \u2018reward\u2019 for Putin, Zelenskyy says",
-   "source": "Guardian World",
-   "at": "2026-10-17T15:02:50.840072+00:00"
-  },
-  {
-   "fp": "hold puts russia sanctions support trump urges zelenskyy",
-   "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-   "source": "NPR News",
-   "at": "2026-10-17T15:02:52.706781+00:00"
-  },
-  {
-   "fp": "enormously helped russia sanctions trump waiving zelensky",
-   "title": "Zelensky on Trump waiving Russia sanctions: 'This Act could have helped enormously'",
-   "source": "The Hill",
-   "at": "2026-10-17T15:02:54.363634+00:00"
-  },
   {
    "fp": "hopes meeting russia summit zelenskiy",
    "title": "Zelenskiy hopes for meeting with US and Russia during G20 summit",
@@ -3201,15 +3165,45 @@
    "title": "Where is the urgent action to ensure that Britain is ready for war?",
    "source": "Telegraph",
    "at": "2026-10-25T22:35:52.063359+00:00"
+  },
+  {
+   "fp": "candidate invokes michigan muslim oppose sayed senate trump urging voters",
+   "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
+   "source": "Reuters",
+   "at": "2026-10-25T23:01:34.487869+00:00"
+  },
+  {
+   "fp": "aide comedy days deal former leverage make moscow peace ties zelenskyy",
+   "title": "Zelenskyy can leverage Moscow ties from comedy days to make peace deal, says former key aide",
+   "source": "Fox News World",
+   "at": "2026-10-25T23:01:36.333396+00:00"
+  },
+  {
+   "fp": "concedes election movement protest ruler serbia student veteran",
+   "title": "Serbia's veteran ruler Vu\u010di\u0107 concedes election to student-led protest movement",
+   "source": "BBC World",
+   "at": "2026-10-25T23:01:38.043264+00:00"
+  },
+  {
+   "fp": "america choice election future midterm ordinary stark",
+   "title": "No ordinary midterm \u2014 this election is a stark choice for America\u2019s future",
+   "source": "New York Post",
+   "at": "2026-10-25T23:01:39.786521+00:00"
+  },
+  {
+   "fp": "belgrade celebration concedes election europe live scenes serbian wild",
+   "title": "Wild scenes of celebration in Belgrade as Vu\u010di\u0107 concedes Serbian election \u2013 Europe live",
+   "source": "Guardian World",
+   "at": "2026-10-25T23:01:41.538166+00:00"
+  },
+  {
+   "fp": "braces deeply divided election israel pivotal",
+   "title": "Deeply divided Israel braces for pivotal election",
+   "source": "BBC World",
+   "at": "2026-10-25T23:01:43.310823+00:00"
   }
  ],
  "titles": [
-  "alligator fisherman foot killed shoreline stood",
-  "detective disease help measles outbreak pennsylvania send tackle",
-  "according adapting better goes here life plan rarely",
-  "pause putin reward russia sanctions trump zelenskyy",
-  "hold puts russia sanctions support trump urges zelenskyy",
-  "enormously helped russia sanctions trump waiving zelensky",
   "hopes meeting russia summit zelenskiy",
   "already bitter edge gaza jewish michigan muslim race rattles senate voters",
   "approaches champi guam hurricane mexico threatens trudy typhoon",
@@ -3603,6 +3597,12 @@
   "alaska blanche election meddle race results senate suing trump trying",
   "ballot bolsonaro cast flavio lula presidential runoff",
   "attack church gunmen jordan kill seven",
-  "action britain ensure ready urgent where"
+  "action britain ensure ready urgent where",
+  "candidate invokes michigan muslim oppose sayed senate trump urging voters",
+  "aide comedy days deal former leverage make moscow peace ties zelenskyy",
+  "concedes election movement protest ruler serbia student veteran",
+  "america choice election future midterm ordinary stark",
+  "belgrade celebration concedes election europe live scenes serbian wild",
+  "braces deeply divided election israel pivotal"
  ]
 }
