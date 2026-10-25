@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/oct/08/uss-abraham-lincoln-return-san-diego",
   "CBMiuAFBVV95cUxQTkVvX05DT3UzVHJzUExmeUdGVEpBMHozdUcyd191dGQ5YmFCcGV4X2FlTjIwTWNNSndDTEtRdWpRY1I5UEZ2eVRfVHJaVFR4YkNwWjR2clF3Nkh4QkQ1YkcyRy1JQ3hJYVljZHNmYmtCbEp6N3F6bG5yVF9BdWFNczRzUklVb0RBYzRZSmpfXzlrdHctNzVLVWV6bEFEVlZUTWpvMzQ2T2NXZ3liWkJBbGpDcjBtMVpP",
   "https://www.bbc.co.uk/news/videos/ckz65l2gne1po#3",
   "CBMiqgFBVV95cUxQU2lOVm5tWG83Uzl6OHA2UGlPN1M2OHM1aHJXTGlkTjU1YUY4S1BodWhERHZXcl9nRGdOVV9tallCdF9EbTM0TGdUbU1rVzgyN3Z4QVQ0cDhJWkJ6ZG51amk1aTBDN3ZsRzZLUnFqRjVSVlNaWF90RF9ON0dzNHpnekh0ZXRmMVNyNzBVeWdqbHp0WFJydHRuYmdpTHlfRWc5bElaTXVBeU1MZw",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6170458",
   "https://nypost.com/?post_type=article&p=41505137",
   "CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA",
-  "CBMitwFBVV95cUxNSFNBR3JwV0ZOVklQN25XVXZONENydmpNUDF3WHQtaUREcUUtUUtRZXJmeU5URXZ6MTZmWndTanRKWmltdzFoY2tNQXhKbWIzZEZQdnhvSU12ZmhGVkdhQy1kV2tRYl9LRTRBTDZZWVBpeGhKNmNJYlhWYmlzMV9qa1hTM191dGthREpGQlJDMGp4VHRGTDBubUVUYTN5aUdoQkkwRUp1OWRkSzc2eGtZVVd6ODA3VnM"
+  "CBMitwFBVV95cUxNSFNBR3JwV0ZOVklQN25XVXZONENydmpNUDF3WHQtaUREcUUtUUtRZXJmeU5URXZ6MTZmWndTanRKWmltdzFoY2tNQXhKbWIzZEZQdnhvSU12ZmhGVkdhQy1kV2tRYl9LRTRBTDZZWVBpeGhKNmNJYlhWYmlzMV9qa1hTM191dGthREpGQlJDMGp4VHRGTDBubUVUYTN5aUdoQkkwRUp1OWRkSzc2eGtZVVd6ODA3VnM",
+  "CBMilAFBVV95cUxNVWtZTlJpR0w5THFmMVVrNzNLeVpBOGF4UmJwOFdkWE9oTVNmWHBmbWFlQzY0ZUg4TThoaE5Vb3ZFX1NKQ1lsWEYyU1Z4V3ZKZXh5QWROS0ZsRnB3SGc4dnlQZFhScGE2OVdSRVkwNkZaM0xZdmZwWUFVeHVJZ0xFRU9uS3VHZThiakdtUEFCVDdsQWUz"
  ],
  "posts": [
-  {
-   "fp": "created drags elon grok images menin musk reps sexualized spacex",
-   "title": "Menin drags reps from Elon Musk\u2019s SpaceX for \u2018sexualized\u2019 images created with Grok",
-   "source": "New York Post",
-   "at": "2026-10-16T20:34:00.544333+00:00"
-  },
   {
    "fp": "cortez donation makes ocasio sayed senate",
    "title": "Ocasio-Cortez makes $1M donation to El-Sayed Senate bid",
@@ -3201,10 +3195,15 @@
    "title": "California election officials frustrated, rattled by DOJ demand to sequester 'noncitizen' ballots",
    "source": "AP",
    "at": "2026-10-25T03:26:35.952478+00:00"
+  },
+  {
+   "fp": "florida injured least shooting tallahassee",
+   "title": "At least 12 injured in a shooting in Tallahassee, Florida",
+   "source": "Reuters",
+   "at": "2026-10-25T05:33:19.404159+00:00"
   }
  ],
  "titles": [
-  "created drags elon grok images menin musk reps sexualized spacex",
   "cortez donation makes ocasio sayed senate",
   "debates heated learned midterm senate",
   "annual budget hits largest nearly trillion years",
@@ -3603,6 +3602,7 @@
   "aclu alaska block cause certification common election file motion",
   "california deliver election final heavyweights last pitch political stretch voters",
   "election seek serbia snap students unseat votes vucic",
-  "ballots california demand election frustrated noncitizen officials rattled sequester"
+  "ballots california demand election frustrated noncitizen officials rattled sequester",
+  "florida injured least shooting tallahassee"
  ]
 }
