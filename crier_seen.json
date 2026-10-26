@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41242327",
-  "https://nypost.com/?post_type=article&p=41263191",
-  "https://nypost.com/?post_type=article&p=41257538",
-  "https://www.theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction",
-  "CBMipwFBVV95cUxOY2dqa3hDUGJObnZUWGtlc1dKaUpFazdkSW9HYko3eGU2SmZJS2pRR1luT2RlWFBEZkpqWmJ1V1lzdFB0RUNHTHpmRFQ2cEphSDdnR2owdmI2U1dYZXJmTm16MVhFNXpqLXU0OXdvT29KcDkxeVRLb1lWSEJtSjZUQ08xcGhEZmw0eXBqOHoxZE9WRVVZcG82Vk5aaHlOc2lvNjVhQ1pSbw",
   "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
   "CBMiogFBVV95cUxNQWF6ZTZBT1pYTGhsRDZDdUtiX20xS3ZYV2hCQUxSb3BpUkJSa1FqX3FSWXJfVFVJTHRBbmNlMFlKWXB1c2FTSWVPVFc1T3ZDTVY1dUl3ZFJDWGk5S1BlV053S2pSV05OWlZQQ2JOVElNXzd5bjlEdUUyd1BuczNLZVRZQjFBYlVsSTV2U0pDYVFoZmlyQnlDc1dWZmozMzFfbnc",
   "CBMigwFBVV95cUxPVl9TaDlyMTA4emtwWlhyemdqTUY2ak9BUzU4TWlyT3d6dEtfWGs1RWVESTZ3YlhBcmx0S1dhajROOEJjY2NvbDlHc0h0Z2s2a1RFY3dRSDJTSlFrOTVWWk5PVjBlVGtUTEtPSEpMeS1nZFE1eTFmWWJzUGd4Ym5mOE1KZw",
@@ -799,39 +794,14 @@
   "https://www.washingtonexaminer.com/?p=4779321",
   "CBMimwFBVV95cUxOZHlFTlU1OU10R1dWdF8yVlRucTI5b0ZySlBOLTYtMFBZTkRIelBEdUFyUTA1a0FzYTBieG5nbGMtUEtWZXNkM255blQ2Q29KZTdlZl9YcWtHWUFibS1icUc0akZuVnJSck9FTEhvWkhEWmQ0ZlFKc1ZIcnJLRENPUmMzS2VjNV9QT2VUYzEtbGdZYlAxS3hvVW1ONA",
   "CBMisgFBVV95cUxNSElINHZmYXlEYkdaa0FvWkZVOVU3Tm4yQmdjZ2tXMXJveURKTkt6TVJDN2lEc2ozZTM5M0F3cWZsamgwa2ZtVFRKajJuU1NXd21kVGdad2hBdnJwdlZLOXFrNjhTbFZIZE5QX2tzYUhrendRVTFuSHpjcU85NEotX29VdjJvd3hvZmlfaUlHSnl0Ym9IYjROMm5tblBjbXNTYzAxLTdRTjJqcDlQTU0yZUlB",
-  "CBMipAFBVV95cUxPSXhaU2ZZaldmV2c3LU1hT0FHOFpEUko5d0ZaSDN0SG50cUMzYXdsX2tEUHM3bzR6N01JSzhVWEFjMS1jQVc5c3J0REc2ZjVVZl83WUFEeEpIQXFnUHVWcXlhNW02NkUxbUZCV0N6bTFuakdZblJMRTdPaUg5bmZ0c3AzbVNGXzRPSU5sUllUT3VTQV9TbHRoN1BjNU9GQ002cmhYNA"
+  "CBMipAFBVV95cUxPSXhaU2ZZaldmV2c3LU1hT0FHOFpEUko5d0ZaSDN0SG50cUMzYXdsX2tEUHM3bzR6N01JSzhVWEFjMS1jQVc5c3J0REc2ZjVVZl83WUFEeEpIQXFnUHVWcXlhNW02NkUxbUZCV0N6bTFuakdZblJMRTdPaUg5bmZ0c3AzbVNGXzRPSU5sUllUT3VTQV9TbHRoN1BjNU9GQ002cmhYNA",
+  "CBMiogFBVV95cUxPNjFQMEtSVXRRYkR1eGxtNVJPby1sRi02QXhuMTlyU2Z5bTBjUkpWazBTLVhJUXpONVpEdUtiemNnR3RYU1BRbFg0U0toc283aTNVSEp2U2ZPZWZYYWRsRjVlTXNleUU1YXB4Z1VBNjZOZHhlVlBrVElRdmlZbDdsMDM2TUc4V2VHY1haWWNZMEFzNDcyUlZFNHllOFVSYUVsS1E",
+  "CBMiwgFBVV95cUxPRnZGd0pLWUhOSFdyNDlPRkNQVG9fV1N1RWh3amZjMGExZHE1dS0wVm11cVc3cUd6YVhRbXdMbm9ZWVNrZTVqMmt4aFFUbG03RTF5S1M0eTdUa3hSWEZhcFAxa2ZKRi1EcEZEQkw1azFHeWM4YTBucE1fZlVmSG1ZMUhXYXlYcXdLX3V1M2NwR1hkNzZ1SE1vOUJTMFF0bnRvX2ZwZkdQZWNiUU9qa2tURk5tZUhVQ01KNUN1NU1ZWXh3dw",
+  "https://nypost.com/?post_type=article&p=41517117",
+  "CBMitwFBVV95cUxOQ2JzYTNSSkhYZVdfa2VWN092SzJLc3I1d3dWdjhtQjIzcHNFVVJYUVN0N3d4MllSZTJyTEtyYkEzeGx0TXljcDZpNkZfZlBLbXMtY0VUcHdsV2JabXlkYzlhZTZKRi03dEhqeTZYZk15SlBseW9iMHRCLU9ueFR0TVQyUWtrZHJwU0E4UVVIcGZPczVCRURkNzQyZXVCREJpRExJWjFqenVHYUFCSjlMWDREN216Y1U",
+  "CBMiqwFBVV95cUxNLXc5SVVneC1kdzlZY3hfcXRhZzBTY3MzU0lYR3QxMTJscTZ5S0FDSmhlS2VJSFBLY1c2eGlVcUREN2xsNzk5emdNdklVeV9weUJYbko5ZTF6SnNkaC1lRmYtMUgxcHRfN2xhR0VwNkQyWFE3VGZGMW5CRUtGd3hqclpVZnlyRC1pZ2pCeWtMMlliWFhzT3gtcUYxYTFUcVg4ZVBweXZfcENXbU0"
  ],
  "posts": [
-  {
-   "fp": "claims drug fentanyl powerful super times urgent victim warning",
-   "title": "Urgent warning as super-drug 10 times more powerful than fentanyl claims first LA victim",
-   "source": "New York Post",
-   "at": "2026-10-17T18:47:11.982244+00:00"
-  },
-  {
-   "fp": "burned california fast firefighters homes injured moving wildfire",
-   "title": "Six homes burned and two firefighters injured in fast-moving California wildfire",
-   "source": "Guardian World",
-   "at": "2026-10-17T18:47:13.820118+00:00"
-  },
-  {
-   "fp": "festival india killed kolkata least ndtv religious reports stampede",
-   "title": "At least 17 killed in stampede at a religious festival in India's Kolkata, NDTV reports",
-   "source": "Reuters",
-   "at": "2026-10-17T18:47:15.739375+00:00"
-  },
-  {
-   "fp": "alligator alongside attacked fisherman florida foot killed lake",
-   "title": "Fisherman, 71, attacked and killed by 12-foot alligator alongside Florida lake",
-   "source": "AP",
-   "at": "2026-10-17T18:47:17.481665+00:00"
-  },
-  {
-   "fp": "agent been dead immigrant report searched texas years",
-   "title": "Immigrant ICE searched for in Texas when agent hit man with car has been dead for years: Report",
-   "source": "The Hill",
-   "at": "2026-10-17T18:47:19.631044+00:00"
-  },
   {
    "fp": "anti blakeman boost democratic election governors group hochul million pours releases",
    "title": "Democratic governors\u2019 group pours $4.3 million to boost Hochul in re-election bid, releases new anti-Blakeman ads",
@@ -3201,14 +3171,39 @@
    "title": "Trump adds Norway to vulgar list of countries, citing Nobel snub",
    "source": "Reuters",
    "at": "2026-10-26T03:28:57.212885+00:00"
+  },
+  {
+   "fp": "collapse kids opinion overscheduled point",
+   "title": "Opinion | Kids Are Overscheduled to the Point of Collapse",
+   "source": "WSJ",
+   "at": "2026-10-26T12:01:34.356964+00:00"
+  },
+  {
+   "fp": "brokered ceasefire deep fled oleshky scepticism ukrainian views",
+   "title": "Ukrainian who fled Oleshky views US-brokered ceasefire with deep scepticism",
+   "source": "Reuters World",
+   "at": "2026-10-26T12:01:36.027573+00:00"
+  },
+  {
+   "fp": "allegedly indicted marine murdering okinawa robbing woman",
+   "title": "US Marine indicted for allegedly robbing and murdering woman in Okinawa",
+   "source": "New York Post",
+   "at": "2026-10-26T12:01:37.782386+00:00"
+  },
+  {
+   "fp": "condition ebola evacuation flight medical nigeria patient stable switzerland",
+   "title": "Nigeria's Ebola patient on medical evacuation flight to Switzerland, condition stable",
+   "source": "Reuters",
+   "at": "2026-10-26T12:01:39.414218+00:00"
+  },
+  {
+   "fp": "attack elections israelis legacy line netanyahu since vote",
+   "title": "Netanyahu\u2019s legacy is on the line as Israelis vote in the first elections since the Oct. 7 attack",
+   "source": "AP",
+   "at": "2026-10-26T12:01:41.092293+00:00"
   }
  ],
  "titles": [
-  "claims drug fentanyl powerful super times urgent victim warning",
-  "burned california fast firefighters homes injured moving wildfire",
-  "festival india killed kolkata least ndtv religious reports stampede",
-  "alligator alongside attacked fisherman florida foot killed lake",
-  "agent been dead immigrant report searched texas years",
   "anti blakeman boost democratic election governors group hochul million pours releases",
   "backlash kentucky live mounts rallies russia sanctions trump updates waiver",
   "graham lindsey massie offers praise rare russia sanctions trump waiving",
@@ -3603,6 +3598,11 @@
   "accuses calls divide michigan president race racism sanders senate test trump using voters",
   "chip dragged electronics falls nikkei stocks",
   "bolsonaro brazil declared election lula rejects results winner",
-  "adds citing countries list nobel norway snub trump vulgar"
+  "adds citing countries list nobel norway snub trump vulgar",
+  "collapse kids opinion overscheduled point",
+  "brokered ceasefire deep fled oleshky scepticism ukrainian views",
+  "allegedly indicted marine murdering okinawa robbing woman",
+  "condition ebola evacuation flight medical nigeria patient stable switzerland",
+  "attack elections israelis legacy line netanyahu since vote"
  ]
 }
