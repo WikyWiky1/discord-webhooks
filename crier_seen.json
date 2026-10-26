@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
-  "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo#0",
-  "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o#0",
   "CBMiYkFVX3lxTFB6NG5fUXp1aG8tUnM1dDdqS3JhYXRNZ0Q2VHNQVHl3TWIyeWJqLUM0NWh5MmFqMkJDYVhOTXBvcmFZem1PSXdwV0NobnQ5TVhac1AzWWRwVmxXcDVTeHdsVnVR",
   "CBMiigFBVV95cUxNTm5ZNlVIY2tFZ2M4aFVENmNnVlBPbFJVSkplZ0x1UWZBMjEtQkR0Y0tpYjRJWEVqakZGakpvbDNvTUs5M0ZWZjZKNzQ3bXpyai1NWElyc1lEc0dxTnYzNEZTeGU1QXdIUmZzYVhtRF9IY3ZVN3VDWDk1Nl93ODhGZzdoaElXd0NOOUE",
   "CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw",
@@ -799,27 +796,12 @@
   "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo#0",
   "https://nypost.com/?post_type=article&p=41488467",
   "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-  "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo#0"
+  "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo#0",
+  "CBMihgFBVV95cUxOeFNuSXZVMGluN0FBQS1aUm80YmFUaGZDVm85OWt4UVBGYnpOREhTV1Q2OWhBZ25pYWVES3RQZG1YSTZKZ0RBNW5BVHpOenJ4bWprUTNsREF6UjlyMjZSZktzTHVUNmJkY05ua3dBa2pxTVRCazJseGNwX3Z6a0t2dERzZ0tQdw",
+  "https://nypost.com/?post_type=article&p=41514307",
+  "CBMipgFBVV95cUxOMEV4ZERZV1BZVnk4XzhGS1RNNnNsX2RXZFhzeGpxMzFoY1FlRS1PMVEwdmp5VUVfT0VGQWM1c1JRTkFZN2luZ09SWjIzbWs3MTBHZERnWlJRMFZ4bU5qSkkwSDB5TG9zYWVGU1ZjTkJ0dkNvZEtMX3FNMXVrZ2NUVUVZLThnSGtLNk1sVTJIU0hZc05mLVRtLUNXaXlPU21tcnd4d2Jn"
  ],
  "posts": [
-  {
-   "fp": "hopes meeting russia summit zelenskiy",
-   "title": "Zelenskiy hopes for meeting with US and Russia during G20 summit",
-   "source": "Reuters",
-   "at": "2026-10-17T15:02:57.726449+00:00"
-  },
-  {
-   "fp": "already bitter edge gaza jewish michigan muslim race rattles senate voters",
-   "title": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza",
-   "source": "AP",
-   "at": "2026-10-17T15:02:59.427197+00:00"
-  },
-  {
-   "fp": "approaches champi guam hurricane mexico threatens trudy typhoon",
-   "title": "Hurricane Trudy approaches Mexico as Typhoon Champi threatens Guam",
-   "source": "AP",
-   "at": "2026-10-17T16:27:37.289410+00:00"
-  },
   {
    "fp": "arrested brazilian charged cops knife officer police shooting woman",
    "title": "Brazilian police officer arrested after shooting woman who charged at cops with a knife",
@@ -3201,12 +3183,27 @@
    "title": "Deeply divided Israel braces for pivotal election",
    "source": "BBC World",
    "at": "2026-10-25T23:01:43.310823+00:00"
+  },
+  {
+   "fp": "ceasefire labour opinion",
+   "title": "Opinion | U.K. Labour\u2019s Ceasefire in the War on Gas",
+   "source": "WSJ",
+   "at": "2026-10-26T00:41:49.043406+00:00"
+  },
+  {
+   "fp": "billy brings crystal down home house lost palisades show wildfire",
+   "title": "Billy Crystal brings down the house with one-man show on LA home lost to Palisades wildfire",
+   "source": "New York Post",
+   "at": "2026-10-26T00:41:50.738235+00:00"
+  },
+  {
+   "fp": "barcelona crash emergency injured near seriously services",
+   "title": "Emergency services say 83 injured, 7 seriously, in a bus crash near Barcelona",
+   "source": "AP",
+   "at": "2026-10-26T00:41:52.448972+00:00"
   }
  ],
  "titles": [
-  "hopes meeting russia summit zelenskiy",
-  "already bitter edge gaza jewish michigan muslim race rattles senate voters",
-  "approaches champi guam hurricane mexico threatens trudy typhoon",
   "arrested brazilian charged cops knife officer police shooting woman",
   "attack coaches oregon please possible quiet school shooting survived through",
   "burning fast grows homes moving overnight several socal wildfire",
@@ -3603,6 +3600,9 @@
   "concedes election movement protest ruler serbia student veteran",
   "america choice election future midterm ordinary stark",
   "belgrade celebration concedes election europe live scenes serbian wild",
-  "braces deeply divided election israel pivotal"
+  "braces deeply divided election israel pivotal",
+  "ceasefire labour opinion",
+  "billy brings crystal down home house lost palisades show wildfire",
+  "barcelona crash emergency injured near seriously services"
  ]
 }
