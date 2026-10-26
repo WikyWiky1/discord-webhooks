@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
-  "CBMiogFBVV95cUxNQWF6ZTZBT1pYTGhsRDZDdUtiX20xS3ZYV2hCQUxSb3BpUkJSa1FqX3FSWXJfVFVJTHRBbmNlMFlKWXB1c2FTSWVPVFc1T3ZDTVY1dUl3ZFJDWGk5S1BlV053S2pSV05OWlZQQ2JOVElNXzd5bjlEdUUyd1BuczNLZVRZQjFBYlVsSTV2U0pDYVFoZmlyQnlDc1dWZmozMzFfbnc",
-  "CBMigwFBVV95cUxPVl9TaDlyMTA4emtwWlhyemdqTUY2ak9BUzU4TWlyT3d6dEtfWGs1RWVESTZ3YlhBcmx0S1dhajROOEJjY2NvbDlHc0h0Z2s2a1RFY3dRSDJTSlFrOTVWWk5PVjBlVGtUTEtPSEpMeS1nZFE1eTFmWWJzUGd4Ym5mOE1KZw",
-  "https://thehill.com/?p=6139679",
-  "CBMisAFBVV95cUxNOE41bDdZUkd4WTRORVRLZWQyaTl0TGstUkFmX283ejlqR3dzRHh3MVBZNUJYaVRpWmxsUWZRdnkzOUI1NFNLLU9ZT0xWY2lsQ3VuUmJ6OC1XMjdoTnktQ0RjWlZsUmNXVHExR09UQVV1TkI2N092M0stelctd0h2MEw4d0h1SmFiQmg1cEVmNnRXZV9LSnYzeTduempPa1ljZ0dablBDRGphdHI3VE1WaA",
-  "https://www.bbc.co.uk/news/articles/c620r39zdp9wo#0",
   "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
   "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
   "CBMilAFBVV95cUxQVGxFU2dWdElJNE1hejhaOEU1Y1N2TmpaT3VKVTExQjBQelBkU1BOZjFSSVJia0p6OHhFUmZDMmcxcjgyUWxuQXJOQmRka2hlTWVOaWtKNExaWVZyY1pxeDNrMW4zZ0lmem1mSFZHX3FaV0gxR25rbjdHZHF1OWRDZDBNcU1XQUVVbkpGUVBkVVNobWh1",
@@ -799,45 +793,15 @@
   "CBMiwgFBVV95cUxPRnZGd0pLWUhOSFdyNDlPRkNQVG9fV1N1RWh3amZjMGExZHE1dS0wVm11cVc3cUd6YVhRbXdMbm9ZWVNrZTVqMmt4aFFUbG03RTF5S1M0eTdUa3hSWEZhcFAxa2ZKRi1EcEZEQkw1azFHeWM4YTBucE1fZlVmSG1ZMUhXYXlYcXdLX3V1M2NwR1hkNzZ1SE1vOUJTMFF0bnRvX2ZwZkdQZWNiUU9qa2tURk5tZUhVQ01KNUN1NU1ZWXh3dw",
   "https://nypost.com/?post_type=article&p=41517117",
   "CBMitwFBVV95cUxOQ2JzYTNSSkhYZVdfa2VWN092SzJLc3I1d3dWdjhtQjIzcHNFVVJYUVN0N3d4MllSZTJyTEtyYkEzeGx0TXljcDZpNkZfZlBLbXMtY0VUcHdsV2JabXlkYzlhZTZKRi03dEhqeTZYZk15SlBseW9iMHRCLU9ueFR0TVQyUWtrZHJwU0E4UVVIcGZPczVCRURkNzQyZXVCREJpRExJWjFqenVHYUFCSjlMWDREN216Y1U",
-  "CBMiqwFBVV95cUxNLXc5SVVneC1kdzlZY3hfcXRhZzBTY3MzU0lYR3QxMTJscTZ5S0FDSmhlS2VJSFBLY1c2eGlVcUREN2xsNzk5emdNdklVeV9weUJYbko5ZTF6SnNkaC1lRmYtMUgxcHRfN2xhR0VwNkQyWFE3VGZGMW5CRUtGd3hqclpVZnlyRC1pZ2pCeWtMMlliWFhzT3gtcUYxYTFUcVg4ZVBweXZfcENXbU0"
+  "CBMiqwFBVV95cUxNLXc5SVVneC1kdzlZY3hfcXRhZzBTY3MzU0lYR3QxMTJscTZ5S0FDSmhlS2VJSFBLY1c2eGlVcUREN2xsNzk5emdNdklVeV9weUJYbko5ZTF6SnNkaC1lRmYtMUgxcHRfN2xhR0VwNkQyWFE3VGZGMW5CRUtGd3hqclpVZnlyRC1pZ2pCeWtMMlliWFhzT3gtcUYxYTFUcVg4ZVBweXZfcENXbU0",
+  "CBMinAFBVV95cUxOblVTTEF5cnF5WUdUNUc2bG53aS1WY0ljVjhhZkZ6X1dINTFZcElFUUlDTEJFSE5PdUUzT2hELXRJT1oydExsM1R2eWJGX09Rdm5FVnRUa2VsckE4cHVCQzFreXluSlZxUWdfczc3STAtcXdaMlJURW96dFNlenFXbnBVTjdIZWlhaUhlVkhIcENYNG1aZVlySFVvX0k",
+  "CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc",
+  "CBMirgFBVV95cUxOWV9zQVhEcWx6T0dRcl84T1FZejJkZHlQX1lmalZZY29iZWhUMnZzNE9pWi1aYkdkY090c3FpRFpLQmM1MjRNelE0NnZIeVV0OFZUaU9NQVNxWEcxcUVvR0NnYlRweDViQ2lHSDQtVnBiUEEteFhHb1V5aDloYUNxeWtPRnR6RC1rOWY4VWlpY3RCQmZhU1hMbmhBeFpXM0ZocjVFUWpjZ0d0M3ppbmc",
+  "CBMiYkFVX3lxTE5VSTdma0VUT3E2eW1CNnlPM213Q3EtNGJrdmYwcTAxbTBvV1BlYkEzcXRxNmhVZ0VBclhkQzNUV0M3Mk5XRFlXaWxFNm4zVlh6OFV5NEZBaDkyX2daa0ZDNUhB",
+  "CBMiowFBVV95cUxPNTNqT1RkY0RsU1oyTkpOUHNVR3V3eDNUckxOSV9QeW1JelM3TjhzTjJ5NmJkcl8tMXFOOVJjVlJhMEtaSmI2RjNqV2VwbW93RWlRanFHZjJJTVg4Qi1jQmQ2ekRpZU1tZzk1Y1BEZDVYNlVzblNtV2loeFkzSHZQWFdTdUFXMjkxSHozRENYZWp3cXBzQ3ZPRTZDaGRrRGNOZzVF",
+  "https://nypost.com/?post_type=article&p=41467124"
  ],
  "posts": [
-  {
-   "fp": "anti blakeman boost democratic election governors group hochul million pours releases",
-   "title": "Democratic governors\u2019 group pours $4.3 million to boost Hochul in re-election bid, releases new anti-Blakeman ads",
-   "source": "New York Post",
-   "at": "2026-10-17T20:11:51.295125+00:00"
-  },
-  {
-   "fp": "backlash kentucky live mounts rallies russia sanctions trump updates waiver",
-   "title": "Live updates: Trump rallies in Kentucky as Russia sanctions waiver backlash mounts",
-   "source": "The Hill",
-   "at": "2026-10-17T20:11:53.118147+00:00"
-  },
-  {
-   "fp": "graham lindsey massie offers praise rare russia sanctions trump waiving",
-   "title": "Massie offers rare praise for Trump on waiving Lindsey Graham\u2019s Russia sanctions",
-   "source": "Washington Examiner",
-   "at": "2026-10-17T20:11:54.851173+00:00"
-  },
-  {
-   "fp": "congress counter decision outrages quick russian sanctions seen trump waive",
-   "title": "Trump\u2019s decision to waive Russian sanctions outrages Congress, but no quick counter seen",
-   "source": "AP",
-   "at": "2026-10-17T20:11:56.686611+00:00"
-  },
-  {
-   "fp": "control czech election gains keeps opposition senate western",
-   "title": "Pro-Western opposition keeps control of Czech Senate after big election gains",
-   "source": "AP",
-   "at": "2026-10-17T20:11:58.463189+00:00"
-  },
-  {
-   "fp": "babis czech elections senate setback suffers",
-   "title": "Czech PM Babis suffers setback in Senate elections",
-   "source": "Reuters",
-   "at": "2026-10-17T20:12:00.200262+00:00"
-  },
   {
    "fp": "activist drugged emergency fatally part raped sexual student violence women",
    "title": "FIT student fatally drugged, raped part of sexual violence against women \u2018emergency,\u2019 activist says",
@@ -3201,15 +3165,45 @@
    "title": "Netanyahu\u2019s legacy is on the line as Israelis vote in the first elections since the Oct. 7 attack",
    "source": "AP",
    "at": "2026-10-26T12:01:41.092293+00:00"
+  },
+  {
+   "fp": "batter brazil election outcome real stocks surprise",
+   "title": "Brazil\u2019s Surprise Election Outcome Set to Batter Stocks, Real",
+   "source": "WSJ",
+   "at": "2026-10-26T12:20:55.977767+00:00"
+  },
+  {
+   "fp": "ahead decision deluge earnings futures retreats steady",
+   "title": "US futures steady as oil retreats ahead of earnings deluge, Fed decision",
+   "source": "Reuters",
+   "at": "2026-10-26T12:20:57.683869+00:00"
+  },
+  {
+   "fp": "because didn nobel norwegians peace prize trump want",
+   "title": "Trump: I don\u2019t want Norwegians in US because I didn\u2019t win Nobel Peace Prize",
+   "source": "Telegraph",
+   "at": "2026-10-26T12:20:59.537553+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-10-26T12:21:01.218102+00:00"
+  },
+  {
+   "fp": "european investors meetings rebound stocks",
+   "title": "European stocks rebound as investors eye ECB, Fed meetings",
+   "source": "Reuters",
+   "at": "2026-10-26T12:21:02.986872+00:00"
+  },
+  {
+   "fp": "arab break election furious israel netanyahu opposition oust parties promise",
+   "title": "Israel\u2019s furious Arab parties could oust Netanyahu \u2014 if the opposition will break an election promise",
+   "source": "New York Post",
+   "at": "2026-10-26T12:21:04.859341+00:00"
   }
  ],
  "titles": [
-  "anti blakeman boost democratic election governors group hochul million pours releases",
-  "backlash kentucky live mounts rallies russia sanctions trump updates waiver",
-  "graham lindsey massie offers praise rare russia sanctions trump waiving",
-  "congress counter decision outrages quick russian sanctions seen trump waive",
-  "control czech election gains keeps opposition senate western",
-  "babis czech elections senate setback suffers",
   "activist drugged emergency fatally part raped sexual student violence women",
   "killed manhattan midtown platform shot subway",
   "crush dozens festival india injures kills least religious",
@@ -3603,6 +3597,12 @@
   "brokered ceasefire deep fled oleshky scepticism ukrainian views",
   "allegedly indicted marine murdering okinawa robbing woman",
   "condition ebola evacuation flight medical nigeria patient stable switzerland",
-  "attack elections israelis legacy line netanyahu since vote"
+  "attack elections israelis legacy line netanyahu since vote",
+  "batter brazil election outcome real stocks surprise",
+  "ahead decision deluge earnings futures retreats steady",
+  "because didn nobel norwegians peace prize trump want",
+  "edition journal print street wall",
+  "european investors meetings rebound stocks",
+  "arab break election furious israel netanyahu opposition oust parties promise"
  ]
 }
