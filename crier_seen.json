@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
   "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
   "CBMilAFBVV95cUxQVGxFU2dWdElJNE1hejhaOEU1Y1N2TmpaT3VKVTExQjBQelBkU1BOZjFSSVJia0p6OHhFUmZDMmcxcjgyUWxuQXJOQmRka2hlTWVOaWtKNExaWVZyY1pxeDNrMW4zZ0lmem1mSFZHX3FaV0gxR25rbjdHZHF1OWRDZDBNcU1XQUVVbkpGUVBkVVNobWh1",
   "https://thehill.com/?p=6140010",
@@ -799,7 +798,8 @@
   "CBMirgFBVV95cUxOWV9zQVhEcWx6T0dRcl84T1FZejJkZHlQX1lmalZZY29iZWhUMnZzNE9pWi1aYkdkY090c3FpRFpLQmM1MjRNelE0NnZIeVV0OFZUaU9NQVNxWEcxcUVvR0NnYlRweDViQ2lHSDQtVnBiUEEteFhHb1V5aDloYUNxeWtPRnR6RC1rOWY4VWlpY3RCQmZhU1hMbmhBeFpXM0ZocjVFUWpjZ0d0M3ppbmc",
   "CBMiYkFVX3lxTE5VSTdma0VUT3E2eW1CNnlPM213Q3EtNGJrdmYwcTAxbTBvV1BlYkEzcXRxNmhVZ0VBclhkQzNUV0M3Mk5XRFlXaWxFNm4zVlh6OFV5NEZBaDkyX2daa0ZDNUhB",
   "CBMiowFBVV95cUxPNTNqT1RkY0RsU1oyTkpOUHNVR3V3eDNUckxOSV9QeW1JelM3TjhzTjJ5NmJkcl8tMXFOOVJjVlJhMEtaSmI2RjNqV2VwbW93RWlRanFHZjJJTVg4Qi1jQmQ2ekRpZU1tZzk1Y1BEZDVYNlVzblNtV2loeFkzSHZQWFdTdUFXMjkxSHozRENYZWp3cXBzQ3ZPRTZDaGRrRGNOZzVF",
-  "https://nypost.com/?post_type=article&p=41467124"
+  "https://nypost.com/?post_type=article&p=41467124",
+  "CBMiiAFBVV95cUxQWXU0azFGRXd0a2VjRUxHdzU4ak03aENuZmxRc0thbXZiRHluQzlGbzFvYnR0M21kcWpFdjNta1JJcUxtcDQ2MTYweURhS2s0eXV2RjNkb0w1bDVXdDZqMVdZNmVhYXRGNjVMa0toTEV6RzJzNFpQd3R4WGQ5Vl9NRXZRLUpVNU1o"
  ],
  "posts": [
   {
@@ -3185,12 +3185,6 @@
    "at": "2026-10-26T12:20:59.537553+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-10-26T12:21:01.218102+00:00"
-  },
-  {
    "fp": "european investors meetings rebound stocks",
    "title": "European stocks rebound as investors eye ECB, Fed meetings",
    "source": "Reuters",
@@ -3201,6 +3195,12 @@
    "title": "Israel\u2019s furious Arab parties could oust Netanyahu \u2014 if the opposition will break an election promise",
    "source": "New York Post",
    "at": "2026-10-26T12:21:04.859341+00:00"
+  },
+  {
+   "fp": "career gladwell letters malcolm rejection steered toward writing",
+   "title": "How 25 Rejection Letters Steered Malcolm Gladwell Toward a Career in Writing",
+   "source": "WSJ",
+   "at": "2026-10-26T17:13:25.111548+00:00"
   }
  ],
  "titles": [
@@ -3601,8 +3601,8 @@
   "batter brazil election outcome real stocks surprise",
   "ahead decision deluge earnings futures retreats steady",
   "because didn nobel norwegians peace prize trump want",
-  "edition journal print street wall",
   "european investors meetings rebound stocks",
-  "arab break election furious israel netanyahu opposition oust parties promise"
+  "arab break election furious israel netanyahu opposition oust parties promise",
+  "career gladwell letters malcolm rejection steered toward writing"
  ]
 }
