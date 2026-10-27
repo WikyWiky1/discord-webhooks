@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-  "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths",
-  "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-  "https://www.bbc.co.uk/news/articles/cmje5x80yg70o#0",
   "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
   "CBMizgFBVV95cUxQMW1FNGExV0dEZ1ZCa2pZbkVEZ2VNTFBvVU9KUk5YQlJTQ0JEQVQ4dFF3Ui1FZm1PaWtmYkJqdzBPV0FqZXBZWm1qX0R6cS1iNk9MekNPN2RrT1FHN2RkNUFvb3ROS0JtMzdvLXZTemU4cElKbFZRXzRUN0k3NVRsVlVuclRIQ3ROdnR0djVMd2IwVWtUOWRGRi00MHhPaThCNnoxeTZPUHJmS0dja1IyYkt4VmQxZTZicVR6bWlDNnBNRGxDblJaVTd4SXVmUQ",
   "CBMihAFBVV95cUxOaEhDWEkwZ1dZUmlaUFQ1VlN1WlU0LVY5cHBBNVRlRjJVZU1EUDYtb2NUaEpjV2dQYWRwZ0xZb3VvLVBFR1BQaWYweVEzeGJGeUpqMHFzaDFlMzJ5RW1XbEwteEZGTFRpOWxCUkFlTWU1ZXNyM25zZ3M2VV9JcnBLNUUwREE",
@@ -799,33 +795,13 @@
   "https://thehill.com/?p=6176078",
   "CBMingFBVV95cUxOYVBiQjE0QTJza2Y3LV9qZi1mSWh6QzY4ZXRqYmVzNGZDb2UxU0VaODliT1N6WTFlY1pjcTJhdnB2dHFRWGhUMnlPSHBnemIyVnBiaEpwaWF5NkxNLWZPZElRTjM4U0xwRkpoZnhSekEtdllFT18wdThnQS1vU2EySTA1UlIzTV94bG5aSl9yZW1xQXBlYmJWVDFYSmNuZw",
   "https://nypost.com/?post_type=article&p=41541508",
-  "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats"
+  "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
+  "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o#0",
+  "https://nypost.com/?post_type=article&p=41542128",
+  "CBMilwFBVV95cUxOZTZWWWdRcTJOdFJpbHlUYVYxZ2p5MmlnT2x3YnRfS0RQOVBER3h0NHowMXp4MWNvOUwybGhFT2pNQUtteVNVd1FmMDhTZ3BpTlJmYTE3dlNfdktyb0I3VG1wRGJsTTQ3S2hEQTI4eFp4c2hhdEl2UkFiaUpINzJVSGtWeURKS3UtUnRUQl9jS0duQ1A5eFQ4",
+  "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo#1"
  ],
  "posts": [
-  {
-   "fp": "debate hill hits michigan obama rallies senate trail trump week",
-   "title": "This Week on the Hill: Michigan Senate debate, Trump rallies and Obama hits the trail",
-   "source": "The Hill",
-   "at": "2026-10-18T22:48:15.775562+00:00"
-  },
-  {
-   "fp": "agents charles schwab skeptical sleep stocks trading",
-   "title": "AI Agents Trading Stocks While You Sleep? Charles Schwab\u2019s CEO Is Skeptical",
-   "source": "WSJ",
-   "at": "2026-10-18T22:48:17.498070+00:00"
-  },
-  {
-   "fp": "budget businesses family healey plans raid",
-   "title": "Healey plans Budget raid on family businesses",
-   "source": "Telegraph",
-   "at": "2026-10-18T22:48:19.201908+00:00"
-  },
-  {
-   "fp": "driver game injures kansas kills pickup released soccer truck youth",
-   "title": "Driver released after pickup truck kills 2, injures 10 at Kansas youth soccer game",
-   "source": "Reuters World",
-   "at": "2026-10-18T23:50:16.931355+00:00"
-  },
   {
    "fp": "america corridor deadly design fatal flaw mile road shows",
    "title": "The Deadly 1.5-Mile Corridor That Shows the Fatal Flaw in America\u2019s Road Design",
@@ -3201,13 +3177,33 @@
    "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
    "source": "Guardian World",
    "at": "2026-10-27T21:52:17.704582+00:00"
+  },
+  {
+   "fp": "across ceasefire extended kherson officials region ukraine",
+   "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "source": "BBC World",
+   "at": "2026-10-27T22:47:44.791428+00:00"
+  },
+  {
+   "fp": "attack boosts central cops heinous knifepoint nypd park patrols rapes stranger woman",
+   "title": "NYPD boosts patrols in Central Park after stranger rapes woman at knifepoint in heinous attack: cops",
+   "source": "New York Post",
+   "at": "2026-10-27T22:47:46.530523+00:00"
+  },
+  {
+   "fp": "army attack drone group killed market people rights sudanese",
+   "title": "More than 100 people killed in Sudanese army drone attack on market says Sudanese rights group",
+   "source": "AP",
+   "at": "2026-10-27T22:47:48.306479+00:00"
+  },
+  {
+   "fp": "attempted case collapse freed murder president vice wife zimbabwe",
+   "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+   "source": "BBC World",
+   "at": "2026-10-27T22:47:50.033339+00:00"
   }
  ],
  "titles": [
-  "debate hill hits michigan obama rallies senate trail trump week",
-  "agents charles schwab skeptical sleep stocks trading",
-  "budget businesses family healey plans raid",
-  "driver game injures kansas kills pickup released soccer truck youth",
   "america corridor deadly design fatal flaw mile road shows",
   "fight fire homes housing income sends state victims wildfire",
   "369m california fire funds housing income none pours recovery reserves victims wildfire",
@@ -3603,6 +3599,10 @@
   "administration democrats election interference makes moves prep trump",
   "bolsonaro election family flavio granted loss official senior visas",
   "california election issue mayor police terrifying threat warning",
-  "bloc call close election exit fewer give israel netanyahu polls seats slightly"
+  "bloc call close election exit fewer give israel netanyahu polls seats slightly",
+  "across ceasefire extended kherson officials region ukraine",
+  "attack boosts central cops heinous knifepoint nypd park patrols rapes stranger woman",
+  "army attack drone group killed market people rights sudanese",
+  "attempted case collapse freed murder president vice wife zimbabwe"
  ]
 }
