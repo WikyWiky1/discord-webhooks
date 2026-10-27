@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41273305",
-  "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o#0",
-  "https://www.washingtonexaminer.com/?p=4762336",
-  "https://news.sky.com/story/fourteen-killed-in-two-separate-us-mass-shootings-13597601",
-  "https://www.theguardian.com/us-news/2026/oct/10/philadelphia-police-officer-killed",
-  "https://nypost.com/?post_type=article&p=41275348",
   "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
   "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths",
   "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=41483223",
   "CBMimgFBVV95cUxPR3NXdDJsLTE1cW5fbVd6b2pxXzdQUHBEN1ZKWkhETWZXNjFkY2F3d1BoQXZVbmxZQmtzaTZpdW40aDJ4RjliUnVLOG1HVUNFd0tvNlFDdUt6b0lucFFIdzQtN0h1VjhvbFNocG5LMVIycm1XUzJ4cTgxRzFPbWg1dUNEakpiSFpMcWN0TGtPWm1mVFdDZUxyR1Z3",
   "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
-  "https://news.sky.com/story/three-of-uks-four-nuclear-submarines-out-at-sea-13604455"
+  "https://news.sky.com/story/three-of-uks-four-nuclear-submarines-out-at-sea-13604455",
+  "CBMioAFBVV95cUxNbXFITkNuNWUwVzRMV055bkVYaTZWMmpSZTFCSnN1MGh4dWZJb0wyQVI3c1c1c0EyZFZRZHlsbWRVajExeEJzc0lDQWtUY2VFRE1QRE1zM0ZJak93QllaNjlvQTZKaG81STFFelRWNnpDd204ZFRWYnB1T3ppdXFHT1JTTndZYV80R3N5SFUwdFJwTXJpRWtBanNCOWwxU0pC",
+  "CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B",
+  "https://thehill.com/?p=6176078",
+  "CBMingFBVV95cUxOYVBiQjE0QTJza2Y3LV9qZi1mSWh6QzY4ZXRqYmVzNGZDb2UxU0VaODliT1N6WTFlY1pjcTJhdnB2dHFRWGhUMnlPSHBnemIyVnBiaEpwaWF5NkxNLWZPZElRTjM4U0xwRkpoZnhSekEtdllFT18wdThnQS1vU2EySTA1UlIzTV94bG5aSl9yZW1xQXBlYmJWVDFYSmNuZw",
+  "https://nypost.com/?post_type=article&p=41541508",
+  "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats"
  ],
  "posts": [
-  {
-   "fp": "about base canadian deadly fire know military",
-   "title": "What we know so far about deadly fire at Canadian military base",
-   "source": "BBC World",
-   "at": "2026-10-18T21:50:41.290160+00:00"
-  },
-  {
-   "fp": "alleged charged dulwich gunfire hill lockdown prompted sydney",
-   "title": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
-   "source": "Guardian World",
-   "at": "2026-10-18T21:50:43.094098+00:00"
-  },
-  {
-   "fp": "case confirms ebola eighth kenya outbreak regional spreads",
-   "title": "Kenya confirms eighth Ebola case as regional outbreak spreads",
-   "source": "Reuters",
-   "at": "2026-10-18T21:50:45.020712+00:00"
-  },
-  {
-   "fp": "going keep negotiations peace russia sanctions suspension trump",
-   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-   "source": "BBC World",
-   "at": "2026-10-18T22:48:10.332408+00:00"
-  },
-  {
-   "fp": "attacking close deal defends diesel pausing peace refineries russian sanctions savages trump zelensky",
-   "title": "Trump defends pausing Russian sanctions, says peace deal is close \u2014 and savages Zelensky for attacking diesel refineries",
-   "source": "New York Post",
-   "at": "2026-10-18T22:48:12.148905+00:00"
-  },
-  {
-   "fp": "bessent deal diesel relief russia sanctions",
-   "title": "Bessent says there was no sanctions relief for Russia after U.S. diesel deal",
-   "source": "The Hill",
-   "at": "2026-10-18T22:48:13.996764+00:00"
-  },
   {
    "fp": "debate hill hits michigan obama rallies senate trail trump week",
    "title": "This Week on the Hill: Michigan Senate debate, Trump rallies and Obama hits the trail",
@@ -3201,15 +3165,45 @@
    "title": "UK's nuclear submarines in 'unusual' deployment",
    "source": "Sky News",
    "at": "2026-10-27T18:43:05.026272+00:00"
+  },
+  {
+   "fp": "ahead earnings gains statement stocks",
+   "title": "U.S. Stocks Add to Gains Ahead of Earnings, Fed Statement",
+   "source": "WSJ",
+   "at": "2026-10-27T21:52:09.207084+00:00"
+  },
+  {
+   "fp": "clear election exit israel netanyahu polls rebuke suggest winner",
+   "title": "Exit polls suggest a rebuke of Netanyahu but no clear winner in Israel\u2019s election",
+   "source": "AP",
+   "at": "2026-10-27T21:52:10.938144+00:00"
+  },
+  {
+   "fp": "administration democrats election interference makes moves prep trump",
+   "title": "Democrats prep for election interference as Trump administration makes moves",
+   "source": "The Hill",
+   "at": "2026-10-27T21:52:12.666339+00:00"
+  },
+  {
+   "fp": "bolsonaro election family flavio granted loss official senior visas",
+   "title": "Senior US official says Flavio Bolsonaro and family will be granted U.S. visas after election loss",
+   "source": "AP",
+   "at": "2026-10-27T21:52:14.372842+00:00"
+  },
+  {
+   "fp": "california election issue mayor police terrifying threat warning",
+   "title": "Terrifying threat against California mayor as police issue election warning",
+   "source": "New York Post",
+   "at": "2026-10-27T21:52:16.062831+00:00"
+  },
+  {
+   "fp": "bloc call close election exit fewer give israel netanyahu polls seats slightly",
+   "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
+   "source": "Guardian World",
+   "at": "2026-10-27T21:52:17.704582+00:00"
   }
  ],
  "titles": [
-  "about base canadian deadly fire know military",
-  "alleged charged dulwich gunfire hill lockdown prompted sydney",
-  "case confirms ebola eighth kenya outbreak regional spreads",
-  "going keep negotiations peace russia sanctions suspension trump",
-  "attacking close deal defends diesel pausing peace refineries russian sanctions savages trump zelensky",
-  "bessent deal diesel relief russia sanctions",
   "debate hill hits michigan obama rallies senate trail trump week",
   "agents charles schwab skeptical sleep stocks trading",
   "budget businesses family healey plans raid",
@@ -3603,6 +3597,12 @@
   "attack classmate death leaped probe shocking teen twist video",
   "andhra arnab coast cyclone eastern evacuates india nears pradesh state tens thousands",
   "alleged drug eastern five kills military pacific people strike vessel",
-  "deployment nuclear submarines unusual"
+  "deployment nuclear submarines unusual",
+  "ahead earnings gains statement stocks",
+  "clear election exit israel netanyahu polls rebuke suggest winner",
+  "administration democrats election interference makes moves prep trump",
+  "bolsonaro election family flavio granted loss official senior visas",
+  "california election issue mayor police terrifying threat warning",
+  "bloc call close election exit fewer give israel netanyahu polls seats slightly"
  ]
 }
