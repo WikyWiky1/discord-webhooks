@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4762333",
   "https://thehill.com/?p=6139594",
   "CBMijAFBVV95cUxNM0c3VUR5ZUVPakJLZHV1aVNIeVJPQjdOcW5kRnBlWEQwV09mYXpRd0YyZF9VUFJHeXFpcExJNWNOQ0hRLU9wZEdMVjJqd0dIcDBJdEVpOURXWG1IejhlMTRHWW1zMkhFdjJhbzR3bFJ2eHBjLWJpUTFITUc2bnBHNk9GNEk1ajRNckFQLQ",
   "https://nypost.com/?post_type=article&p=41274906",
@@ -799,15 +798,10 @@
   "CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw",
   "CBMitgFBVV95cUxQT3JwdW0zaTY4LTYtWHR0VVRPVUV0T0tmWmFkVkRIMzdZcGIyalNnT3pPeUZQLWNCdzRhZTdoOHpSWi0tdUwyR013aldzekZoT3Q0bDlPTFc3LUw0cmw4bUgtN1k3YTFGSVlta2FlWEM2aVFlQWhoYnY2M2l3OVdwS09iWlpIWmNVTTB2eDN0RU1Db1dEczBZb1VWdzBfLXNMSjRtMzBXNk1GSzB5dXIzeEhIS0Jfdw",
   "CBMilAFBVV95cUxNalA1YWp3MHd0dHNjRGRDaG05a1dLczBwNjE3RjVLU1JRSU1GaGVKRVFHdFBrU2ZxaDZmckMtVVVEUGpjLTQxNkxkNzhVVmlUUVQtTUxUeE9CaUtZNVU2Y1AwWk1aY0VOcHNwclpBdUg2VkdHd2RTcVFOcllaSlRBaksxVklzWTEtYnEyZ2NQVy1KTFIx",
-  "https://www.theguardian.com/australia-news/2026/oct/28/guardian-essential-poll-labor-albanese-one-nation-hanson-coalition-ntwnfb"
+  "https://www.theguardian.com/australia-news/2026/oct/28/guardian-essential-poll-labor-albanese-one-nation-hanson-coalition-ntwnfb",
+  "https://www.bbc.co.uk/news/articles/c6vgj813mlelo#0"
  ],
  "posts": [
-  {
-   "fp": "dead drives game injured kansas soccer through woman year",
-   "title": "Six-year-old among two dead after Kansas woman drives through soccer game, with 11 more injured",
-   "source": "Guardian World",
-   "at": "2026-10-18T19:37:41.452434+00:00"
-  },
   {
    "fp": "base canadian carney dozens fire injured killed members military service",
    "title": "Canadian PM Carney says 4 service members killed, dozens injured in military base fire",
@@ -3201,10 +3195,15 @@
    "title": "Guardian Essential poll: One Nation and Labor\u2019s primary vote on par as discontent with Albanese rises",
    "source": "Guardian World",
    "at": "2026-10-27T15:09:11.066125+00:00"
+  },
+  {
+   "fp": "call finland hold leaders norway putin rare",
+   "title": "Norway and Finland leaders hold rare call with Putin",
+   "source": "BBC World",
+   "at": "2026-10-27T16:18:48.475593+00:00"
   }
  ],
  "titles": [
-  "dead drives game injured kansas soccer through woman year",
   "base canadian carney dozens fire injured killed members military service",
   "harvard long mission restoring returning still toward true university veritas",
   "election excuses opinion president",
@@ -3603,6 +3602,7 @@
   "ahead back decision higher nasdaq open pulls",
   "anthropic higher inch monday rally stocks",
   "broadcom drifts help market other related stocks street support wall",
-  "albanese discontent essential guardian labor nation poll primary rises vote"
+  "albanese discontent essential guardian labor nation poll primary rises vote",
+  "call finland hold leaders norway putin rare"
  ]
 }
