@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo#1",
   "CBMiiwFBVV95cUxPNGt5T2dWSENldmlfc3BDMXd2QTZoNUtFMVJQei1yX2NjSFNvOVlOOGFqdHlHLVRGbndrM1dhendOQTZLakRPRExkT3pqNkZqSlhwRTNfaXVaWnZ2LXd6UDctWF9uRm5GLU80TExZMVVoY2RZUXRLV1BRak00ODhWZlNNUDZrd2lGaWZV",
   "https://www.washingtonexaminer.com/?p=4754150",
   "https://www.washingtonexaminer.com/?p=4755124",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6173747",
   "https://www.theguardian.com/society/2026/oct/26/carers-allowance-cliff-edge-abolished-in-the-budget",
   "CBMiowFBVV95cUxOMkJVR2x5YmMxQldjckVGOWZ2T1l5RnkxZDZfejlWOU5BZnBlZVl5Z1U1TVFJeno3RXpPUmo0WUtJbkxZQXIzQjd5RXdCeVRodl9nbDBqQTdyZklISnNNajBPMmxnMTVPY0FFd3MwM0RQcnNGdm54ckNoSHh6a0hTN2REWDhLQzFqNnpWd0w2WWhPQXBfSXRTV0lnNWh6dlZLQ0NV",
-  "CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3"
+  "CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3",
+  "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war"
  ],
  "posts": [
-  {
-   "fp": "coast hurricane lashes mexico pacific tonight trudy weaken",
-   "title": "Hurricane Trudy lashes Mexico's Pacific coast, but is set to weaken tonight",
-   "source": "Reuters",
-   "at": "2026-10-18T14:08:15.526245+00:00"
-  },
   {
    "fp": "alberta base breaks canadian deadly fire incident major military",
    "title": "Major fire breaks out in Alberta after deadly incident at Canadian military base",
@@ -3201,10 +3195,15 @@
    "title": "Trump says Brazil election looked 'rigged' as Bolsonaro refuses to recognize Lula win",
    "source": "Reuters",
    "at": "2026-10-27T00:14:52.172253+00:00"
+  },
+  {
+   "fp": "brokered ceasefire local melania southern starts trump ukraine",
+   "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+   "source": "NPR News",
+   "at": "2026-10-27T07:08:51.585113+00:00"
   }
  ],
  "titles": [
-  "coast hurricane lashes mexico pacific tonight trudy weaken",
   "alberta base breaks canadian deadly fire incident major military",
   "brings coast heavy hurricane mexico pacific rain strong trudy winds",
   "arts bringing bristol classrooms emergency tackles theatre",
@@ -3603,6 +3602,7 @@
   "appeals ballot california court fight rules",
   "abolished allowed budget carers cliff earn edge limit losing weekly without",
   "charged congress illinois mailing members powder white",
-  "bolsonaro brazil election looked lula recognize refuses rigged trump"
+  "bolsonaro brazil election looked lula recognize refuses rigged trump",
+  "brokered ceasefire local melania southern starts trump ukraine"
  ]
 }
