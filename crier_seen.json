@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-democrats-must-win-by-massive-numbers",
   "CBMicEFVX3lxTFBiX1F4bWhnbkl2YnY3aVFsaG1Hd1oxZ2lHNXI4am9MZXhEalpYS2k4WmFhQnk1REZEN2lKTmFaTUFpLXZrVDIySUlfckZDY205M3p6UHlPMUFyVjViZThlSDNYd1gtb3FSeW5tbjJ0TWg",
   "CBMiigFBVV95cUxPM1JYNEFiNHpwMTFGZFVETFU1SG9OMXEzTzIzbWh1ZmxoVWY4bTNwTzlxZ1A1VWhmaFJ1bWNIbFEtc0VYVmJZZ0FIQ1JBdTkyU21wamtWdXh1azZUMnpWZ0JOVHc3emE3WVNmTlFBVXdjQ2xiX1FldkExelhnbFRJM1NBY0J6ZVJ4LUE",
   "https://nypost.com/?post_type=article&p=41284539",
@@ -799,15 +798,10 @@
   "CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00",
   "CBMipgFBVV95cUxPZ09lVDktVzU0MWp0RUxkY2V2SWhzNjVpMDMzdG1hZjVHTUJFUTFfWWlRRXFtZGJtTW0td25oeHhsTVRTbXZyNG0wTURZeEhQSndxeDFxdnlPd3k0ZGdqSTVOcjNJT1ZEdmdoREFLUFVQSWVMR2tyWGFxSk9NVEhCVWVub1k3UWQ3UWlQYm9WNnhqRFJGbXBkVUJLcnllN1g1YUF5YWxB",
   "CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE",
-  "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo"
+  "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
+  "CBMingFBVV95cUxOOEVzVXNPMDJtUDhvMjFwRElTcndxMmt1T0t0Mjd5NG9zTGs0TF9QdXh1LTY2YXVOdHVzbjFrSG9zNlhzaTZpUW5ka2lCUXpCUExfTjlnaVpNd0JzZ0dSWEhLSnYtUG1JQlZ0SnNWaktzVnpyTzhZOEpuTjh5N2FCeWNKOWctNDZpVm5xd1o1ZXdWcTFSeUVvaHVyRndqdw"
  ],
  "posts": [
-  {
-   "fp": "back bounce chip climbs linked nasdaq stocks",
-   "title": "Nasdaq climbs as chip and AI-linked stocks bounce back",
-   "source": "Reuters",
-   "at": "2026-10-19T20:23:20.032719+00:00"
-  },
   {
    "fp": "else live negotiate rift russia sanctions should slams somebody trump ukraine zelenskyy",
    "title": "Trump slams Zelenskyy amid Russia sanctions rift and says \u2018somebody else\u2019 should negotiate for Ukraine - live",
@@ -3201,10 +3195,15 @@
    "title": "Spain train crash: at least 64 dead after collision in Toledo province",
    "source": "Guardian World",
    "at": "2026-10-28T14:47:18.677376+00:00"
+  },
+  {
+   "fp": "deficit demand goods high imports pushes record related trade widens",
+   "title": "US goods trade deficit widens as AI-related demand pushes imports to record high",
+   "source": "Reuters",
+   "at": "2026-10-28T17:03:34.765309+00:00"
   }
  ],
  "titles": [
-  "back bounce chip climbs linked nasdaq stocks",
   "else live negotiate rift russia sanctions should slams somebody trump ukraine zelenskyy",
   "back futures pull russia sanctions waives",
   "congress dozen envelopes members offices powder targeted three white",
@@ -3603,6 +3602,7 @@
   "another dead high least slams spain speed train",
   "attacker embassy israeli kills knife outside policeman serbia",
   "aden airport evacuation houthis strike warning yemen",
-  "collision crash dead least province spain toledo train"
+  "collision crash dead least province spain toledo train",
+  "deficit demand goods high imports pushes record related trade widens"
  ]
 }
