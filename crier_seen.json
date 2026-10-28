@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
-  "CBMizgFBVV95cUxQMW1FNGExV0dEZ1ZCa2pZbkVEZ2VNTFBvVU9KUk5YQlJTQ0JEQVQ4dFF3Ui1FZm1PaWtmYkJqdzBPV0FqZXBZWm1qX0R6cS1iNk9MekNPN2RrT1FHN2RkNUFvb3ROS0JtMzdvLXZTemU4cElKbFZRXzRUN0k3NVRsVlVuclRIQ3ROdnR0djVMd2IwVWtUOWRGRi00MHhPaThCNnoxeTZPUHJmS0dja1IyYkt4VmQxZTZicVR6bWlDNnBNRGxDblJaVTd4SXVmUQ",
   "CBMihAFBVV95cUxOaEhDWEkwZ1dZUmlaUFQ1VlN1WlU0LVY5cHBBNVRlRjJVZU1EUDYtb2NUaEpjV2dQYWRwZ0xZb3VvLVBFR1BQaWYweVEzeGJGeUpqMHFzaDFlMzJ5RW1XbEwteEZGTFRpOWxCUkFlTWU1ZXNyM25zZ3M2VV9JcnBLNUUwREE",
   "CBMiqgFBVV95cUxPNmtzT2tCeEoxY3FCVGNlellPVGlHVkdQX0lBT2dtTk1FUV9vQjJ2Z3hZNEZRamI1Z2VHRVc1bjdKM0w2YlFLYVdkZzhxV2Vfd2FhOXlNQWUtMUVJR0o0c2VHSktPNVpJcDFpTUMtUWpmOTRXaGlidGdZVFhqdVE0enhOYzlfYjRqYzRYX3J2cDdJXzVPME5CbDJoUjdiZW9IemxYM05hOTFaQQ",
   "CBMipgFBVV95cUxObUY1dGotRmhDZkFoUG1JN2FvWGdZYVRPU0tjQ3daVVJVbkw1cHN0eUF0dHB5VjBibFBpcnRPY2N6SFM4TmQ0SE5Yalk0UmtqVlg0TVFkdlpxRFFFM0xsLUxzT1NLWVc3aVlOcHhXSlVuc2hOcno1U1NUYnJvOEJCaExnemNjeEprLTFuSXFKZTc1MXNrcnVINDV4QVduMjdsdW4tRmxB",
@@ -799,21 +797,11 @@
   "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o#0",
   "https://nypost.com/?post_type=article&p=41542128",
   "CBMilwFBVV95cUxOZTZWWWdRcTJOdFJpbHlUYVYxZ2p5MmlnT2x3YnRfS0RQOVBER3h0NHowMXp4MWNvOUwybGhFT2pNQUtteVNVd1FmMDhTZ3BpTlJmYTE3dlNfdktyb0I3VG1wRGJsTTQ3S2hEQTI4eFp4c2hhdEl2UkFiaUpINzJVSGtWeURKS3UtUnRUQl9jS0duQ1A5eFQ4",
-  "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo#1"
+  "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo#1",
+  "https://nypost.com/?post_type=article&p=41547453",
+  "https://nypost.com/?post_type=article&p=41546980"
  ],
  "posts": [
-  {
-   "fp": "america corridor deadly design fatal flaw mile road shows",
-   "title": "The Deadly 1.5-Mile Corridor That Shows the Fatal Flaw in America\u2019s Road Design",
-   "source": "WSJ",
-   "at": "2026-10-18T23:50:18.649546+00:00"
-  },
-  {
-   "fp": "fight fire homes housing income sends state victims wildfire",
-   "title": "State sends wildfire aid to low-income housing while fire victims fight for their homes",
-   "source": "New York Post",
-   "at": "2026-10-19T02:42:32.695781+00:00"
-  },
   {
    "fp": "369m california fire funds housing income none pours recovery reserves victims wildfire",
    "title": "California pours $369M in wildfire recovery funds into low-income housing \u2014 but reserves none for fire victims",
@@ -3201,11 +3189,21 @@
    "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
    "source": "BBC World",
    "at": "2026-10-27T22:47:50.033339+00:00"
+  },
+  {
+   "fp": "agent biden caught chicago illegal immigrant killed released sources under venezuelan",
+   "title": "Venezuelan illegal immigrant killed by Chicago FBI agent was caught and released under Biden: sources",
+   "source": "New York Post",
+   "at": "2026-10-28T01:57:15.915811+00:00"
+  },
+  {
+   "fp": "about changing form lakers opens routine shooting starter unique",
+   "title": "Lakers starter opens up about changing shooting form, unique routine",
+   "source": "New York Post",
+   "at": "2026-10-28T01:57:17.649189+00:00"
   }
  ],
  "titles": [
-  "america corridor deadly design fatal flaw mile road shows",
-  "fight fire homes housing income sends state victims wildfire",
   "369m california fire funds housing income none pours recovery reserves victims wildfire",
   "attack iran jobs renewed unfinished warns",
   "actor bollywood mumbai shooting shroff survives tiger",
@@ -3603,6 +3601,8 @@
   "across ceasefire extended kherson officials region ukraine",
   "attack boosts central cops heinous knifepoint nypd park patrols rapes stranger woman",
   "army attack drone group killed market people rights sudanese",
-  "attempted case collapse freed murder president vice wife zimbabwe"
+  "attempted case collapse freed murder president vice wife zimbabwe",
+  "agent biden caught chicago illegal immigrant killed released sources under venezuelan",
+  "about changing form lakers opens routine shooting starter unique"
  ]
 }
