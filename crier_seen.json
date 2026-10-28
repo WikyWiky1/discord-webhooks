@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o#0",
-  "https://nypost.com/?post_type=article&p=41279348",
-  "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits",
-  "CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA",
-  "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-  "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
   "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o#0",
   "CBMixAFBVV95cUxPTEo5WEZxUk5OcWNWU1Z1Z0g4SGlFQmxKckFxbS05WFd6UUxDNE0xa0NZRzZoR004Tms3azQ3aTVfUVIwNXlTU1ljcW9HLTREUGZBVVFiWlpVWXI3V1c3Zmt2UEJ2ME43azRMb0Vlei1iQUNPbzk4bV94bkRGTzBmREMydnBCRzVSclBoVkhrWkx4TFJ2YWdsRS1COGVOWU9pRDJqSUFNRk1pUnpQM2dlQ3o0eGpYSHYzbWdDX3dtQWtYT2Zz",
   "https://www.washingtonexaminer.com/?p=4762515",
@@ -799,45 +793,15 @@
   "CBMitgFBVV95cUxPa2tGYy1vUjBzZGUzQy1RQkt1NjFWX3d6ZWZfSWlaQURpTVlUZkJVRHlRRlVtUlhPUnY2RS1pZTFLYmpZMUFvSnhVclpMbzIwYkVXeGJnY1Z5R0dEQ0s4eW5aQk84ZDktOVJEWF9FSkpfSHNKX3R6NFgwSFRZbDV0M0duT1NnNnNkY0EwcWV1Vl8zUmR1UjJaazdmZFhOZG91cHlRRlQ1NUN0TzFzSGk0YzF6emxnUQ",
   "https://nypost.com/?post_type=article&p=41550380",
   "CBMikgFBVV95cUxOM1hja3hGcG1XTFEyajJxMVdPaUZZdkVnd1hMOUlEUDU1Z091NHlvR3FmelozWjhFc2Z6YjVsZWJBR1FoS3F2OU1QU0g0T3ZkWmVqSkFkYXhhMEludXdlaTJNdnU1bE5zNVFVYTZLeURJWUtNY0hSTWJ3ZUt4cWJ1dlVjMi1nWGtNc3Q1RlNJSGFjdw",
-  "CBMijgFBVV95cUxOOXRyNFZIek1GNjVac3F1aWFUNFIwZTlMTWNTVXZEMEhmOVFvOEJ3WHFaVXVOb0JLeVNoV1ZROHJXMTlLd2VWa3dHRjB0aGJaLUlBR2NVU3U1VVFBSVJZQ21DeUlWbFdfNGk3aC15RUJTQkctQ0J3eEZQdjFNNjNnME4xWGVLdXd0SVdVTVd3"
+  "CBMijgFBVV95cUxOOXRyNFZIek1GNjVac3F1aWFUNFIwZTlMTWNTVXZEMEhmOVFvOEJ3WHFaVXVOb0JLeVNoV1ZROHJXMTlLd2VWa3dHRjB0aGJaLUlBR2NVU3U1VVFBSVJZQ21DeUlWbFdfNGk3aC15RUJTQkctQ0J3eEZQdjFNNjNnME4xWGVLdXd0SVdVTVd3",
+  "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+  "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
+  "CBMiYkFVX3lxTE5OLUF6djY4ak9fWm5OMXB3U0JyYjNhOU8yTGRYYVVHa2hHd0U5cDZfRnhkVWhpaWhCUGpIMnV6cEd3b04xUDkwYnhUSlR4UTJ5c2xxOElOaHRPMHZkZDNIaG93",
+  "CBMitAFBVV95cUxQdkNIdDBFN3czS0Vrc29VYkItdTdmX29IM2NIbU1aRVFsUW80Y1JsTTlEUXRqODZ6N1dEakJ3SXhja3JneWNodFFpNHV3UkV1RVNHcVhTU3ZXVU5hQ25ySXc1ZFhxcTJjRG1kdlgzdE9ldHQwQ3VqTUZ6anhuUmJ4R2JNTGlYeG1wbV9Ca3MxV18zTkNHdHRFTmRSdGZmNlJ2WUZfVVFpX2JmRlI0dGNfaXNHSUU",
+  "CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE",
+  "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo#0"
  ],
  "posts": [
-  {
-   "fp": "alleged attack custody haines helen person updates",
-   "title": "Helen Haines updates: PM says person in custody after alleged attack on Helen Haines",
-   "source": "Guardian World",
-   "at": "2026-10-19T08:21:23.660766+00:00"
-  },
-  {
-   "fp": "accused arizona attack bombing casualty cookbook mass plotting religious site tied",
-   "title": "Arizona man accused of plotting mass casualty attack on religious site with \u2018cookbook\u2019 tied to OKC bombing",
-   "source": "New York Post",
-   "at": "2026-10-19T08:21:25.362856+00:00"
-  },
-  {
-   "fp": "austria bomb emergency flight forces israel landing threat",
-   "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-   "source": "BBC World",
-   "at": "2026-10-19T08:21:27.114390+00:00"
-  },
-  {
-   "fp": "both committee forgot nobel pope",
-   "title": "What Pope Leo and the Nobel committee both forgot",
-   "source": "Washington Examiner",
-   "at": "2026-10-19T12:17:28.742135+00:00"
-  },
-  {
-   "fp": "congress history iran must next repeat",
-   "title": "Don't let history repeat: The next Congress must end the Iran War",
-   "source": "The Hill",
-   "at": "2026-10-19T12:17:30.442204+00:00"
-  },
-  {
-   "fp": "asks decide fate putin summit trump ukraine",
-   "title": "Putin asks Trump for summit with Xi to decide Ukraine\u2019s fate",
-   "source": "Telegraph",
-   "at": "2026-10-19T12:17:32.185077+00:00"
-  },
   {
    "fp": "arab break election israeli make netanyahu turnout voter",
    "title": "Arab voter turnout could make or break Netanyahu in Israeli election",
@@ -3201,15 +3165,45 @@
    "title": "Three of Britain\u2019s four nuclear submarines are out at sea",
    "source": "Telegraph",
    "at": "2026-10-28T07:55:48.947546+00:00"
+  },
+  {
+   "fp": "ballots bloc counted election fall israel live main majority netanyahu opposition results short",
+   "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 84% of ballots counted",
+   "source": "Guardian World",
+   "at": "2026-10-28T12:12:41.869151+00:00"
+  },
+  {
+   "fp": "2026 budget burnham delivers faces healey live pmqs",
+   "title": "Budget 2026 live: Burnham faces PMQs before Healey delivers budget",
+   "source": "Guardian World",
+   "at": "2026-10-28T12:12:43.572112+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-10-28T12:12:45.228414+00:00"
+  },
+  {
+   "fp": "about clear counted election israel know results votes winner",
+   "title": "What to know about Israel\u2019s election results as votes are counted with no clear winner",
+   "source": "AP",
+   "at": "2026-10-28T12:12:46.887326+00:00"
+  },
+  {
+   "fp": "await defeated election final israelis netanyahu remains results",
+   "title": "Israelis await final election results as Netanyahu remains far from defeated",
+   "source": "AP",
+   "at": "2026-10-28T12:12:48.545231+00:00"
+  },
+  {
+   "fp": "celebrates discovery natural tanzania years",
+   "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+   "source": "BBC World",
+   "at": "2026-10-28T12:12:50.317408+00:00"
   }
  ],
  "titles": [
-  "alleged attack custody haines helen person updates",
-  "accused arizona attack bombing casualty cookbook mass plotting religious site tied",
-  "austria bomb emergency flight forces israel landing threat",
-  "both committee forgot nobel pope",
-  "congress history iran must next repeat",
-  "asks decide fate putin summit trump ukraine",
   "arab break election israeli make netanyahu turnout voter",
   "child each give musk share spacex vows",
   "ahead bolsonaro brazil lead lula narrows polls runoff show",
@@ -3603,6 +3597,12 @@
   "chaos ended firms gotshal storied street wall weil",
   "attack charged compensation hanukkah posing sydney terror victim",
   "assailant attacking belgrade embassy guard israeli killed outside police serbian",
-  "britain four nuclear submarines three"
+  "britain four nuclear submarines three",
+  "ballots bloc counted election fall israel live main majority netanyahu opposition results short",
+  "2026 budget burnham delivers faces healey live pmqs",
+  "edition journal print street wall",
+  "about clear counted election israel know results votes winner",
+  "await defeated election final israelis netanyahu remains results",
+  "celebrates discovery natural tanzania years"
  ]
 }
