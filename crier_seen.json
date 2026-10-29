@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMijwFBVV95cUxQb0FkcnNtRHc1MG5POU9PWVhBX0VlQzBDQUtNOUgxRWhiVmotZVRzb1pDWFdVZnBsY3dyYjdya3hnSjJ6WUc2RFdhcDVDSTJxQ3pkcTRUbDBXTk44NU5NUDJwaVVyUEZCZmNlaHNrZmg3LVdQSEdMcUc2Vy1FVHZRbXMzbU1yZU9KT3ZTdDJ0aw",
   "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack",
   "https://nypost.com/?post_type=article&p=41301962",
   "CBMinwFBVV95cUxPN3d0Y2c1elRlVnk2WlA2Y2RxWDlMb0pSSVNoeXFUdmNnWUhLd1lUWHpiZFpZUXIyRTQtNGtwaW9Vdk85dkxIMDE4d0o3aGJwVGxHY0V3ODZrUmJTcU5PTG5KNWtaYkhZaUxXWE4xM28zVndyZVJhdTBGaWphR2ZjLWYwLVNPZWRaTlV3WXQ5UEVCVVRaUFBCMGVCOFNzbnc",
@@ -799,15 +798,10 @@
   "https://www.bbc.co.uk/news/articles/cmqxnl312v34o#0",
   "CBMimgFBVV95cUxPMG5CSk5rbFRVazFYVEpXdWU2cTE2R2h4OFZaZUI5VU81Y3JFQzVPenJybnhDeUlNWGNuSl9MdVlSbmU4bXRYaVB1aTZyLWliQTBCaE5ka0F2elN1XzllVVZRSGFXUnJOdXlqTkRFVUhGSWNfTGJ5N0VpdUpQQlBqQXZUU3BJY0dMYTd3Yk9YN1UxZ1lmV1hoejNn",
   "CBMinwFBVV95cUxPd3FmVnJnVlFQYVZ3U0k0TFpoWDdmQWVHZ0lZU21uOVZLZUVhZ2d3djg0YzJNc2RURmxMTkVULURKZTBKcy1wMlJ5ZldxTjRQSkJ3ak55MU0yU1ItalNRYmZDbHZzWkh6UmN3OHlucWFhQWhrSkYtcjZnSnNINWhybXdLLTh3elNvY3dvenVUQnp3TmpQUExzUkpzYzkzcU0",
-  "CBMimgFBVV95cUxPeUNNM01hdUhtOFpKaGo4Z1pYaGRza1FQajlzVlBrWnZycFJWajlBMEl3QldEVXJtVHo0SW5GdEJ6Zm5DVjJRQVNpQUp5d3otRGpSMEJWczFFa2lJd3pWQ1Z0WlBBc2lkQkdxZ0tjbWM5QVZTcVgtejVqWnI0NXJmWnVjVGZPME9DdTVBaGF0NXdLWmM5WTJSR293"
+  "CBMimgFBVV95cUxPeUNNM01hdUhtOFpKaGo4Z1pYaGRza1FQajlzVlBrWnZycFJWajlBMEl3QldEVXJtVHo0SW5GdEJ6Zm5DVjJRQVNpQUp5d3otRGpSMEJWczFFa2lJd3pWQ1Z0WlBBc2lkQkdxZ0tjbWM5QVZTcVgtejVqWnI0NXJmWnVjVGZPME9DdTVBaGF0NXdLWmM5WTJSR293",
+  "https://www.theguardian.com/world/2026/oct/29/rare-love-letters-french-aristocrat-la-perouse-maritime-mystery"
  ],
  "posts": [
-  {
-   "fp": "arctic focus security strategy unveils",
-   "title": "EU unveils new Arctic strategy with focus on security",
-   "source": "Reuters",
-   "at": "2026-10-20T18:56:38.040640+00:00"
-  },
   {
    "fp": "aside higher jitters setting stocks turn",
    "title": "U.S. Stocks Turn Higher, Setting Aside AI Jitters",
@@ -3201,10 +3195,15 @@
    "title": "Spain reckons with second deadly train crash of the year ahead of national election",
    "source": "AP",
    "at": "2026-10-29T12:03:46.170493+00:00"
+  },
+  {
+   "fp": "aristocrat french letters light louis love maritime mystery rare shed",
+   "title": "Rare love letters to French aristocrat shed light on Louis XVI maritime mystery",
+   "source": "Guardian World",
+   "at": "2026-10-29T17:21:33.212960+00:00"
   }
  ],
  "titles": [
-  "arctic focus security strategy unveils",
   "aside higher jitters setting stocks turn",
   "democrats launch midterm mississippi optimism senate south spreads",
   "democrat disillusioned kansas senate send voters years",
@@ -3603,6 +3602,7 @@
   "audio between centre control crash deadly drivers exchanges reveals spain train",
   "apologises deadly fire hong kong leader pledges reform",
   "effective lagarde president resigns",
-  "ahead crash deadly election national reckons second spain train year"
+  "ahead crash deadly election national reckons second spain train year",
+  "aristocrat french letters light louis love maritime mystery rare shed"
  ]
 }
