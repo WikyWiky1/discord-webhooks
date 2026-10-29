@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41305079",
-  "https://www.theguardian.com/australia-news/2026/oct/13/man-and-woman-charged-after-baby-boy-found-dead-in-adelaide-motel-ntwnfb",
-  "https://www.washingtonexaminer.com/?p=4763656",
-  "https://www.washingtonexaminer.com/?p=4763223",
-  "CBMiYkFVX3lxTE5KRW01Z0k5bG5yenVHbGVqa3FoWWx5RV9jQW5YX193THZVbEZ4aUdQejdhZl8xbllNUURDVjA4cGx2T3UxNGVYNmZ6cEc2UEZTc2IweTZacHFqTW9rdzAzcE9B",
   "CBMiqwFBVV95cUxOWHlTeUJyODlNSGNJVjRKdzloTDJOZUZmb1NWN0xsRW05VkJETkJQejVsNTFVUG05N0FKZEJDaWhMb0JYMmc2dWk4QjdmRFpNUGQ1TEVmbGRPS2F2cmxjR1RsdEpoY3ZVYUFzWUtOeVpDMmxzam13X0dkNG1nZnMtWDlqNzQ1dEdxVFdNWm5Rb1F2b1loeU9JMzFzV2pFbGk0RTdRNnYzMUMtMTQ",
   "CBMiugFBVV95cUxObjRfQjhMOXN6M3FfdUtlSWFzaFVpU1JuNjVDdkdTTzJlNkQzRHpfQUdrLW5oNHN0b1c1WXBxWnlRZzRDTXlkT3cwVDdnYVBpR2JoemZXV0toVGZBWmpCeEg0MktXWHFLNGZRdk83NkZzNGw4Y3BrdDdhaEx5Wk5pbGRrQ0JwcmhyWldqUU5tSEwwY0dVcDBrcUxoSmxoeDNFWXo3LXpBcTQxbVVYVGZxVFRJaDlFSmowWGc",
   "CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA",
@@ -799,39 +794,14 @@
   "https://nypost.com/?post_type=article&p=41577822",
   "CBMiqwFBVV95cUxQZDBoQmhOeXpHRkV2bGdQRVY0dWpCdG9wSk1rM2hvSmhLYmpXOFNYYU9ONTFaVmwybDBNTmQ1bTItWXByOW80YzVObnJUamFzc1VBbTB4cHJ3Z19QWHQ2a1lfSGt2X0NVWEJaVWY0XzNyNFMxU3YzOTFpUmMxNkhfTWhoSkhWRTR6TkZMbTJ2dlZJbHEyeHFsYmNseFZNX1NkVF9nQUw1S0NoU2c",
   "https://thehill.com/?p=6181651",
-  "CBMiwwFBVV95cUxOdllkUEVGQXlMa0V6QjM3WE1sOWlmclZ1SXdBWWxJSkw3ZmRzdi1nN216aDFtRjhTQzhXRmZURnp0UkRXcEQ5WDRlVW1kcEk4ZVJtR2pla3RtbldMaHVlODdVMy13cFZia21zbmFhNTZnSFlLVlhJNzY0eDE2Zm1UREhfNFBiS3hVclc5aXc1eFFNbEpJbkNQVXJOWkJCTkEwXzhiUVNMZmNESWN6UHVvSEpDaWlwdURLQjdWcFZBUjBMaWM"
+  "CBMiwwFBVV95cUxOdllkUEVGQXlMa0V6QjM3WE1sOWlmclZ1SXdBWWxJSkw3ZmRzdi1nN216aDFtRjhTQzhXRmZURnp0UkRXcEQ5WDRlVW1kcEk4ZVJtR2pla3RtbldMaHVlODdVMy13cFZia21zbmFhNTZnSFlLVlhJNzY0eDE2Zm1UREhfNFBiS3hVclc5aXc1eFFNbEpJbkNQVXJOWkJCTkEwXzhiUVNMZmNESWN6UHVvSEpDaWlwdURLQjdWcFZBUjBMaWM",
+  "https://nypost.com/?post_type=article&p=41577922",
+  "CBMilgFBVV95cUxOQnNQckFPMVpibWM5Z3ZYT2ZfOFlzVGVpbTFrSU5CbXROX2FPLUUwbENlM1FPSVNqOHBvNThCSWdXUTJHbmN1M3JEc2N6ZVlFYXJnZEpSX0U3Tm80X2xvN3pla0RtSFhsQWItZm5aQk5nc3N6XzB4NjA2eklnNVpoR2FHMk5paGpsUHE4X1VWSThSaURCenc",
+  "https://www.washingtonexaminer.com/?p=4785167",
+  "CBMilAFBVV95cUxPVzRoYi1lVFlhNzlwc3lnWWRyU3hEbFBHTjJmOGNqWUQ4eWpsWkhZdzFxbXpUUjhZTEY1WUVHMTVnTHVoTHlGWThuYXk4ZWszSDJDTTZmVEE4RC10bHRFWk5iSHlvUjN3dlJIQTc2ZWd1cjFYNGdsdW1sSllUTlFUZHMzMld4M2FBOHU5bnYybUM4Y3Nn",
+  "CBMimwFBVV95cUxPTUlFV3JZME1DdXNyVnZGZlhRZ1k2ZVUteFVpMVppdEd2YnVsVjEzSlZZT2lYbXJ2aXM0TjgxeTVYYnpKeXA1WWFsUHhxcEhEMEQ5U09sSWNDODFwZ2wxQUM0RjZQVVBzbDQ4cHh2djJRbkp3d2h1MlVGYWdtN3lEWDlacDVaaFQwTmV5aUpCZG5mRTBVSWp4bmtzdw"
  ],
  "posts": [
-  {
-   "fp": "boost campaign carolina effort manufacturing michael north semiconductor senate trump unveils whatley",
-   "title": "Trump unveils semiconductor manufacturing effort to boost Michael Whatley\u2019s Senate campaign in North Carolina",
-   "source": "Washington Examiner",
-   "at": "2026-10-21T03:31:57.266404+00:00"
-  },
-  {
-   "fp": "amazon brazil court denies fear indigenous missing runoff transportation voters",
-   "title": "Indigenous voters in Brazil\u2019s Amazon fear missing runoff after court denies transportation",
-   "source": "AP",
-   "at": "2026-10-21T03:31:58.985886+00:00"
-  },
-  {
-   "fp": "call earnings five spacex takeaways",
-   "title": "Five Takeaways From SpaceX\u2019s Earnings Call",
-   "source": "WSJ",
-   "at": "2026-10-21T03:32:00.929285+00:00"
-  },
-  {
-   "fp": "bans britain combat firefighting needed planes risk warn wildfire",
-   "title": "Firefighting planes and BBQ bans needed to combat Britain's wildfire risk, MPs warn",
-   "source": "Sky News",
-   "at": "2026-10-21T05:14:36.290379+00:00"
-  },
-  {
-   "fp": "about buff crazy family father remembered shooting subway victim",
-   "title": "NYC subway shooting victim remembered as a gym buff and a family man: \u2018He was crazy about his father\u2019",
-   "source": "New York Post",
-   "at": "2026-10-21T05:14:37.957560+00:00"
-  },
   {
    "fp": "concerns firefighters growing supplies tackle voice water wildfires",
    "title": "Firefighters voice growing concerns over water supplies to tackle UK wildfires",
@@ -3201,14 +3171,39 @@
    "title": "ECB's Lagarde resigns early so she can speak freely on topics beyond monetary policy",
    "source": "Reuters",
    "at": "2026-10-29T18:29:56.499684+00:00"
+  },
+  {
+   "fp": "action couple crash florida killed leapt lives responder save spain survives then train",
+   "title": "Florida first-responder couple survives Spain train crash that killed 69 \u2014 then leapt into action to save lives",
+   "source": "New York Post",
+   "at": "2026-10-29T22:56:17.821897+00:00"
+  },
+  {
+   "fp": "about alarms build carolina component fire nuclear plans raise site south watchdogs where",
+   "title": "Watchdogs raise alarms about fire at South Carolina site where US plans to build nuclear component",
+   "source": "AP",
+   "at": "2026-10-29T22:56:19.640828+00:00"
+  },
+  {
+   "fp": "attack colorado crimes firebombing guilty hate jews pleads suspect",
+   "title": "Colorado firebombing attack suspect pleads guilty to hate crimes against Jews",
+   "source": "Washington Examiner",
+   "at": "2026-10-29T22:56:21.381991+00:00"
+  },
+  {
+   "fp": "accidents deadly does having keep rail spain",
+   "title": "Why Does Spain Keep Having Deadly Rail Accidents?",
+   "source": "WSJ",
+   "at": "2026-10-29T22:56:23.054282+00:00"
+  },
+  {
+   "fp": "bosnia crash four helicopter italian killed mission",
+   "title": "Four killed in crash of Italian helicopter on EU mission in Bosnia",
+   "source": "Reuters",
+   "at": "2026-10-29T22:56:25.073970+00:00"
   }
  ],
  "titles": [
-  "boost campaign carolina effort manufacturing michael north semiconductor senate trump unveils whatley",
-  "amazon brazil court denies fear indigenous missing runoff transportation voters",
-  "call earnings five spacex takeaways",
-  "bans britain combat firefighting needed planes risk warn wildfire",
-  "about buff crazy family father remembered shooting subway victim",
   "concerns firefighters growing supplies tackle voice water wildfires",
   "agree elderly kill kyiv russian strikes terms trump ukrainians urges",
   "approve because didn georgia girlfriend husband kills relationship woman younger",
@@ -3603,6 +3598,11 @@
   "abrupt authority california chief former high interim names rail resignation speed",
   "attack bulgaria container drone greek ship sinks",
   "blasts chatter democrats hegseth impeachment trump",
-  "beyond early freely lagarde monetary policy resigns speak topics"
+  "beyond early freely lagarde monetary policy resigns speak topics",
+  "action couple crash florida killed leapt lives responder save spain survives then train",
+  "about alarms build carolina component fire nuclear plans raise site south watchdogs where",
+  "attack colorado crimes firebombing guilty hate jews pleads suspect",
+  "accidents deadly does having keep rail spain",
+  "bosnia crash four helicopter italian killed mission"
  ]
 }
