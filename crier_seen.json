@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo#0",
-  "https://thehill.com/?p=6143280",
-  "https://www.theguardian.com/us-news/2026/oct/12/storm-rachel-runners-stranded-evacuated-utah",
-  "https://www.washingtonexaminer.com/?p=4762950",
-  "https://www.bbc.co.uk/news/articles/c8wy9d940pyko#0",
-  "CBMiwAFBVV95cUxPYWxLV1J6R2V3UDNKc2FwUU9oQ2dvUGVXd2FQTTNQdFM2QVVBLU54eWN0SFktR25BT0l3U3NIRldielJHYjBLY1lfMTk1OGZGVUZtOG4yMXhINzZSVDhwdXZScWtCUDdVYWxjSkF6RThTcHhyMWN3Z1hrWjNMSFJFMm04eVRKZ2luSkJjWUpKM2RYSXdXa2ZKbk94MjRjaXFDRDRtLXd3c3pMbk1Ld21LOE13WEZMUXp5YWdEcnNYMzc",
   "CBMiqAFBVV95cUxOYk9yd3EweHFPQ2doVnFxQmxCdEJxMmdBdF9FT2tzdExGZmR3eUo0TjFyTmU0azY4UEtmRW56djNGaERmMGdpcmNHZWRPcllwdEhPUVhsNjJqMzYxRko2dXA0VTBtdGZvYUdid1hZZkFMeGtJOGdVX1J0NUU5X29naUJaUVNxMG9LWEw2Q3prUHVTNTlyanVIbjFxOE80Y3oyNTlfX3VhT2U",
   "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo#0",
   "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
@@ -799,45 +793,15 @@
   "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage",
   "https://nypost.com/?post_type=article&p=41569514",
   "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo#3",
-  "https://nypost.com/?post_type=article&p=41566881"
+  "https://nypost.com/?post_type=article&p=41566881",
+  "CBMirAFBVV95cUxPUlRWdElCT21MdGllQ29QbmxreHhfeTJvaUQ5Rjd2VndKSFRqSmJVMEhKY1VpOTNYWm1zZklsVWVjY0FHbDZxenZUa2NFaWQ0NEluY1ZXV1lqSWNPOWVyMXZ4eGhuQnkxLWVha01PVlhLb2l4Y2RzdENjSTQ0c3UweG5qTFZiOWE1MHFoVllsQjdqeURjUUxfSHpCWnlwNFdnR0N1Y2h1dUw5VElo",
+  "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#3",
+  "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
+  "https://www.washingtonexaminer.com/?p=4782896",
+  "https://www.theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank",
+  "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news"
  ],
  "posts": [
-  {
-   "fp": "bank earnings look markets shrug strong",
-   "title": "Bank Earnings Look Strong, But Markets Shrug",
-   "source": "WSJ",
-   "at": "2026-10-20T14:08:08.759126+00:00"
-  },
-  {
-   "fp": "decline lower opens prices rise stocks wall",
-   "title": "Wall St opens lower as AI stocks decline, oil prices rise",
-   "source": "Reuters",
-   "at": "2026-10-20T14:08:10.605767+00:00"
-  },
-  {
-   "fp": "befriend bots extermination face godfather humans must nobel toast warns winning",
-   "title": "\u2018We\u2019re toast\u2019: Nobel-winning \u2018Godfather of AI\u2019 warns that humans must befriend bots \u2014 or face extermination",
-   "source": "New York Post",
-   "at": "2026-10-20T14:08:12.363841+00:00"
-  },
-  {
-   "fp": "budget came delivered furniture pieces quality under wayfair",
-   "title": "My Wayfair furniture pieces came in under-budget and over-delivered on quality",
-   "source": "New York Post",
-   "at": "2026-10-20T14:08:14.199834+00:00"
-  },
-  {
-   "fp": "alleged arrest carolina discovery north officers police prompts racist records review texts",
-   "title": "Discovery of North Carolina police officers\u2019 alleged racist texts prompts review of arrest records",
-   "source": "Guardian World",
-   "at": "2026-10-20T14:08:15.949344+00:00"
-  },
-  {
-   "fp": "both deal finalize foreign hold india minister mumbai rubio sides talks trade",
-   "title": "Rubio and India's foreign minister hold talks in Mumbai as both sides aim to finalize a trade deal",
-   "source": "AP",
-   "at": "2026-10-20T14:08:17.698850+00:00"
-  },
   {
    "fp": "attorney general justified kohen mississippi officer shooting wiley year",
    "title": "Mississippi attorney general says officer was justified in shooting 1-year-old Kohen Wiley",
@@ -3201,15 +3165,45 @@
    "title": "California nuclear lab accused of severe systems failures putting national security at risk",
    "source": "New York Post",
    "at": "2026-10-29T05:52:54.889501+00:00"
+  },
+  {
+   "fp": "await claim election emerges final foreign interference israelis results",
+   "title": "Israelis await final election results as claim of foreign interference emerges",
+   "source": "AP",
+   "at": "2026-10-29T09:26:45.154014+00:00"
+  },
+  {
+   "fp": "break deadlock election four here israel scenarios",
+   "title": "How could Israel break election deadlock? Here are four scenarios",
+   "source": "BBC World",
+   "at": "2026-10-29T09:26:46.837268+00:00"
+  },
+  {
+   "fp": "2026 election house midterm races watch",
+   "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+   "source": "NPR News",
+   "at": "2026-10-29T09:26:48.511866+00:00"
+  },
+  {
+   "fp": "become congress meet member republican year youngest",
+   "title": "Meet the 26-year-old Republican set to become the youngest member of Congress",
+   "source": "Washington Examiner",
+   "at": "2026-10-29T09:26:50.235339+00:00"
+  },
+  {
+   "fp": "bills britons budget energy facing higher leading leave scattergun still thinktank",
+   "title": "\u2018Scattergun\u2019 budget will still leave Britons facing higher energy bills, says leading thinktank",
+   "source": "Guardian World",
+   "at": "2026-10-29T09:26:51.910646+00:00"
+  },
+  {
+   "fp": "absentee ballots begin coalition count election israel live results talks under",
+   "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
+   "source": "Guardian World",
+   "at": "2026-10-29T09:26:53.576129+00:00"
   }
  ],
  "titles": [
-  "bank earnings look markets shrug strong",
-  "decline lower opens prices rise stocks wall",
-  "befriend bots extermination face godfather humans must nobel toast warns winning",
-  "budget came delivered furniture pieces quality under wayfair",
-  "alleged arrest carolina discovery north officers police prompts racist records review texts",
-  "both deal finalize foreign hold india minister mumbai rubio sides talks trade",
   "attorney general justified kohen mississippi officer shooting wiley year",
   "authorities camp houthi kills local missile recruits security strike yemen",
   "attack camp deadliest death houthi months rises strike toll training yemen",
@@ -3603,6 +3597,12 @@
   "call crowd crush deadly duty footage game maker outcry real seoul uses video",
   "crossing dsny garbage killed street struck truck woman",
   "about crash deadly know spain train",
-  "accused california failures national nuclear putting risk security severe systems"
+  "accused california failures national nuclear putting risk security severe systems",
+  "await claim election emerges final foreign interference israelis results",
+  "break deadlock election four here israel scenarios",
+  "2026 election house midterm races watch",
+  "become congress meet member republican year youngest",
+  "bills britons budget energy facing higher leading leave scattergun still thinktank",
+  "absentee ballots begin coalition count election israel live results talks under"
  ]
 }
