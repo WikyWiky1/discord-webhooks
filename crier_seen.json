@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o#0",
-  "https://thehill.com/?p=6141694",
   "CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA",
   "https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war",
   "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/2026/oct/28/mary-peltola-dan-sullivan-alaska-senate",
   "https://www.theguardian.com/uk-news/2026/oct/28/nigel-farage-reform-uk-budget-commons-seating-row-ukraine-crypto",
   "CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ",
-  "CBMiiwFBVV95cUxPUDd0U3Uwb1VvWHFKMjRVU3VsTHFDb01hdldxTzhNYk1XZzBMU1dCeXhfUzNURzdqeHE3OThPMTJjbHk3Z0tFTmVrZmJwTUYzSUMwSjRwVzBCYVpSemNCSjlkU21ZUm5qVS03dmR4TzduME1NWkFnOE9PYnR1U0J0Ukp2SkUyN3p6andB"
+  "CBMiiwFBVV95cUxPUDd0U3Uwb1VvWHFKMjRVU3VsTHFDb01hdldxTzhNYk1XZzBMU1dCeXhfUzNURzdqeHE3OThPMTJjbHk3Z0tFTmVrZmJwTUYzSUMwSjRwVzBCYVpSemNCSjlkU21ZUm5qVS03dmR4TzduME1NWkFnOE9PYnR1U0J0Ukp2SkUyN3p6andB",
+  "https://www.bbc.co.uk/news/articles/c678prm55gzzo#0",
+  "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "attack back bottle central cyclist fights masked metal park robs trio unprovoked water woman",
-   "title": "Masked trio robs woman cyclist \u2014 who fights back with metal water bottle \u2014 in unprovoked Central Park attack",
-   "source": "New York Post",
-   "at": "2026-10-20T00:03:03.346658+00:00"
-  },
-  {
-   "fp": "allegedly attack believe haines helen struck target turn twice",
-   "title": "Car allegedly did U-turn and struck Helen Haines twice, in what some believe was target attack against MP",
-   "source": "Guardian World",
-   "at": "2026-10-20T00:03:05.102011+00:00"
-  },
   {
    "fp": "attorneys bend hire investigate parents plans purchase school shooting victim",
    "title": "Parents of Bend school shooting victim hire attorneys to investigate school plans and gun purchase",
@@ -3201,11 +3189,21 @@
    "title": "Autumn Budget 2026: Key points at a glance",
    "source": "Telegraph",
    "at": "2026-10-28T20:05:40.419993+00:00"
+  },
+  {
+   "fp": "attack german girl injured park seriously wildlife wolf",
+   "title": "Girl seriously injured in wolf attack at German wildlife park",
+   "source": "BBC World",
+   "at": "2026-10-29T00:01:20.771037+00:00"
+  },
+  {
+   "fp": "about afghans australian dead knew officers report throwdowns unlawful",
+   "title": "Australian SAS officers knew about unlawful \u2018throwdowns\u2019 on dead Afghans, report says",
+   "source": "Guardian World",
+   "at": "2026-10-29T00:01:22.465098+00:00"
   }
  ],
  "titles": [
-  "attack back bottle central cyclist fights masked metal park robs trio unprovoked water woman",
-  "allegedly attack believe haines helen struck target turn twice",
   "attorneys bend hire investigate parents plans purchase school shooting victim",
   "earnings forecast group guidance lifts peak positive season strong",
   "edition journal print street wall",
@@ -3603,6 +3601,8 @@
   "alaska campaign democrat mary peltola race recruited reportedly second senate sullivan",
   "altercation budget commons concerns farage nigel seating skips",
   "december deferring hike holds likely mostly next rate rises steady street wall",
-  "2026 autumn budget glance points"
+  "2026 autumn budget glance points",
+  "attack german girl injured park seriously wildlife wolf",
+  "about afghans australian dead knew officers report throwdowns unlawful"
  ]
 }
