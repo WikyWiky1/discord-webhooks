@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41319736",
-  "CBMiqwFBVV95cUxOUHZPN1F0alExTEYwdFN3OWUyLUJkNUFWRWszQk94VDVzV09VUjI1LTM5WXJWbFZWakVYRl80VnZCbnV3elB3YnBIWXlFSE5jRkVvRnJvS3JVbktreHN5aVU3OE9BRlpBN0dWQUlBNXFncFFvZGVieVFTUmRpdGVfeUdvOGVMa3ZMT3NfS3ZhaFVFbFN1SS1sVjBZQ0hjc3JFRWt0M3RvQWRQcXM",
-  "CBMi1gFBVV95cUxNemVIQ2FhSTdKUkpYbmtTR1h6LVNyVmlNVG84ZUVRdW5FMV80V18wa0Q5YmR5UzVzZDRiYXZXbFJPdkVmVkZLVm9QaDlTNmdwUWJ0YldDaXB5N0I1cng5NHY1VnFTYUNfYmVjNlhmcWZCRllXbmRQUFJvYm54YjkwOWNYVU1Oa1hrVUFzWHU5dzhLWUlMOTVMc3pWUl9uNE1vREZYa0lJVXZsVjRlM09DeUR4M3M1YVVxSG41THpJOXloZTRzTkl4a0VfT3lEeVVIVEswd1BB",
-  "https://thehill.com/?p=6146008",
   "https://thehill.com/?p=6146632",
   "CBMiqgFBVV95cUxQMUZMNkpWRENiOFhoLU8wQm9uQXMxRHpPTnRZTzZIRjh5MWQ2ajE0eXRlNDRGdFJmdk5tOFlhcWgtOElrNVNPS2oxTDM0SlMyMkNVS2JHa0JNQWdsSndxcEZyakdLZjcyRlJvam9zUnhyUDRiMkxiMkJYcWdvcGl2dGVWeWZpYi01ZXZOSVNFRGJycWpuanozWXdDSGdkNFgxSm9oNXVDUDVidw",
   "CBMinwFBVV95cUxOZndZOXVHelR1M3hqMFp1NHAxbl9HTW9QVTRWeWZsOXhNTGRYYUp3VTFhSFdQOTluQjZSc0FoUDU5b3RWWWR1RTJPNGdmcTBJeUZqalozOFhoVTRGVnFOaE1jXzRVQUhINDFqRWVXcmVnbUN1b3d1Q0hfRmJCd1E1WmdvRm9jSEV0dHVTaXlxcTdTaFVYZ3dQcUQza1ZUUW8",
@@ -799,33 +795,13 @@
   "CBMikwFBVV95cUxOd0dCXzNIVWRZZmZVTWM2U25pX18zb0RtZlIwYjd0RUpuYzdpRUJBdl9pT3pjQkVpa29KU043MjhLOWhaLTBkUGxFZHVIcFNzWkFKQXkyMUVUakJIVlo5X3lPTlJWMGgtNFc2WDd4OE5BNkY4UzNOdjRVTDU0ZjBHZUkybEd2RkVVbHB4c2RrSl92OW8",
   "CBMi2AFBVV95cUxPcXRwTDRUaUQ3RG4yekIyZm1pRFFRVVBLcGZlMHdSVkFuR1Z5TURmcEdBZXJjUEZ0WVNaVEV6WW9zdmN6Qzl4bnVtQXJ3eEVZYkpPSHd1cUtRSVFqd25fMlRiTFNIUjl6Ynh4N0pDNjNlb0paTHEyWHZJOE9hM3J5R281dUxaWi1RcVk0NXBwcEpnRGlDQ1lscGtobGVhMkd3R25yMk5nWkloUm9CUEItaklUQmdla2ZWOUFlaXdrc0haenotVko4Q1NpWmVzVHBlamR6YXNtTTI",
   "https://thehill.com/?p=6184483",
-  "CBMivAFBVV95cUxON2JIcGhXLURlX1ZHUDVac0IwV1BuN1puU1ljMVFoMUJPNWtZQ2FFdEVMY1ZoZ3pENFUtZEpXZ0ZRU2ZLTFVobHd2XzRiaUxuRFRESXVYNm9zNUUxLWliR1A0RHpTUlNjSUxOazBFSzFvUS1HVWVJX1VGeU41WkxDSjlLTHlQX0dEd1NqUzNna0dkMEZBYmZEd1JZaHhuVElEZFBLZFR0YVQ4V3BxVkhLbGxOMzlRWjU1RmZzRA"
+  "CBMivAFBVV95cUxON2JIcGhXLURlX1ZHUDVac0IwV1BuN1puU1ljMVFoMUJPNWtZQ2FFdEVMY1ZoZ3pENFUtZEpXZ0ZRU2ZLTFVobHd2XzRiaUxuRFRESXVYNm9zNUUxLWliR1A0RHpTUlNjSUxOazBFSzFvUS1HVWVJX1VGeU41WkxDSjlLTHlQX0dEd1NqUzNna0dkMEZBYmZEd1JZaHhuVElEZFBLZFR0YVQ4V3BxVkhLbGxOMzlRWjU1RmZzRA",
+  "https://www.washingtonexaminer.com/?p=4786243",
+  "https://nypost.com/?post_type=article&p=41599069",
+  "CBMivwFBVV95cUxORW01d2dWQjEzQi1rNHpxb1hPYlE4b1dBMFgtUkxRQTZDY2RrNGlkeXpXNHNhUVU1MVRjVW9xY1lvbnpuSEFzNnZBaDM4ZkdGbEQwSUJ2Z0d0cms5bHVYcGhwYm5mZ3dIcU8zOXRlWFhFajVoMmtGRnA2cHQxdG1xQjdHMHJheWxyZ3dIMC12c0JyYzhScUZOOUdEd25UV3JEZ2ZNMl90ODJ4cnF2c09XUVFISEN5X2x1X0twYklBZw",
+  "https://thehill.com/?p=6184762"
  ],
  "posts": [
-  {
-   "fp": "american jailed links release russia sanctions trump waiver",
-   "title": "Trump links Russia sanctions waiver to release of jailed American",
-   "source": "The Hill",
-   "at": "2026-10-21T21:18:22.505148+00:00"
-  },
-  {
-   "fp": "boost earnings rise spacex stocks trade",
-   "title": "U.S. Stocks Rise as SpaceX Earnings Boost AI Trade",
-   "source": "WSJ",
-   "at": "2026-10-21T21:18:24.323921+00:00"
-  },
-  {
-   "fp": "back cornell cowboys dead defensive green legendary",
-   "title": "Cornell Green, legendary Cowboys defensive back, dead at 86",
-   "source": "New York Post",
-   "at": "2026-10-21T22:41:30.760092+00:00"
-  },
-  {
-   "fp": "amazon council crusade jobs kill lefty member shrugs thousands warnings",
-   "title": "Lefty NYC Council member shrugs off warnings that her crusade against Amazon could kill thousands of jobs",
-   "source": "New York Post",
-   "at": "2026-10-21T22:41:32.569366+00:00"
-  },
   {
    "fp": "attack capital injured missile russian ukrainian",
    "title": "Six injured in Russian missile attack on Ukrainian capital",
@@ -3201,13 +3177,33 @@
    "title": "Exxon, Chevron earnings propelled by war-driven refining surge",
    "source": "Reuters",
    "at": "2026-10-30T17:45:33.032166+00:00"
+  },
+  {
+   "fp": "back constitutional coup donald overseas police polish president scrambles swarmed tribunal trip tusk",
+   "title": "Polish president scrambles back from overseas trip amid Donald Tusk-led \u2018coup d\u2019\u00e9tat\u2019 at police-swarmed Constitutional Tribunal",
+   "source": "Washington Examiner",
+   "at": "2026-10-30T20:04:59.217394+00:00"
+  },
+  {
+   "fp": "derail familiar knicks problem star start threatening",
+   "title": "A familiar problem is threatening to derail Knicks star\u2019s hot start",
+   "source": "New York Post",
+   "at": "2026-10-30T20:05:01.036071+00:00"
+  },
+  {
+   "fp": "arabia emergency leave orders risks saudi security staff",
+   "title": "US orders non-emergency staff to leave Saudi Arabia over security risks",
+   "source": "Reuters",
+   "at": "2026-10-30T20:05:02.859973+00:00"
+  },
+  {
+   "fp": "airman been dead just leap lincoln navy recounts supposed then",
+   "title": "Navy airman recounts USS Lincoln leap: 'If I was supposed to die then I would have just been dead'",
+   "source": "The Hill",
+   "at": "2026-10-30T20:05:04.902196+00:00"
   }
  ],
  "titles": [
-  "american jailed links release russia sanctions trump waiver",
-  "boost earnings rise spacex stocks trade",
-  "back cornell cowboys dead defensive green legendary",
-  "amazon council crusade jobs kill lefty member shrugs thousands warnings",
   "attack capital injured missile russian ukrainian",
   "cause chopper crash fiery killed remains reporter touching tribute unclear",
   "airport arabia attack killed saudi wounded",
@@ -3603,6 +3599,10 @@
   "amazon earnings fuel intel selloff tech",
   "arms complete fire maker missions point spacex systems ukrainian without",
   "congress daylight does push saving stand time where",
-  "chevron driven earnings exxon propelled refining surge"
+  "chevron driven earnings exxon propelled refining surge",
+  "back constitutional coup donald overseas police polish president scrambles swarmed tribunal trip tusk",
+  "derail familiar knicks problem star start threatening",
+  "arabia emergency leave orders risks saudi security staff",
+  "airman been dead just leap lincoln navy recounts supposed then"
  ]
 }
