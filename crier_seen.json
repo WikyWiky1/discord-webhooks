@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
   "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
   "CBMimAFBVV95cUxPak5ZbXdiNVNTR2dUSG5BaXVDZlgyWEdLYVNWU2FiTTl6QmRQTk1BcmJ4VXFNWHVtYUFBOVdlRnpaUlNnV1ZFRkJtVDRXQ3JzeEUxMVkyUVhKRF9qQ2hQdFBJcEVTVWhCempCTGZ6cmpTME5RTHU0SWdGd0s1QnQ1R2hlUEFRc3RudnlLd0ZKd2w0VDZVU0I2Ng",
   "https://thehill.com/?p=6145166",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6182858",
   "https://www.washingtonexaminer.com/?p=4785292",
   "CBMiYkFVX3lxTE9sR2xmM28za1RMb2wtNWhnb1JVbThzeVJndjc1MVJYOHRZZkxmdkhYd2hLSld5NWlyTS0ybHVNS09yaVpwUklDaTRwa1ZqR0kzR1ZXLVFaT1BTLTJ3THN6TGZ3",
-  "CBMiogFBVV95cUxQSHY5R0oyOUtJUmI4bnZKNWFvX2NBNmw2VS0yQ3FnNmNWclVzVkNZYmU1U2diTXU4UE91Rm9wckZYS1ZoYXljM0Ffd01haWlsOVRkNy1WZU1CdnJKVV9EcC1SWExzcDJRTERYd0ZwdDlJeDRXdlQ2ZTdzaTlTQkpDUXZhZnFsTXNXM1NScmZxTi0zbnRfU002VWpsMTFiS1Q2Ymc"
+  "CBMiogFBVV95cUxQSHY5R0oyOUtJUmI4bnZKNWFvX2NBNmw2VS0yQ3FnNmNWclVzVkNZYmU1U2diTXU4UE91Rm9wckZYS1ZoYXljM0Ffd01haWlsOVRkNy1WZU1CdnJKVV9EcC1SWExzcDJRTERYd0ZwdDlJeDRXdlQ2ZTdzaTlTQkpDUXZhZnFsTXNXM1NScmZxTi0zbnRfU002VWpsMTFiS1Q2Ymc",
+  "https://nypost.com/?post_type=article&p=41588194"
  ],
  "posts": [
-  {
-   "fp": "america budget debt deficit eats hits huge interest payments piece trillion",
-   "title": "Interest payments on America\u2019s $40 trillion debt eats up a huge piece of the budget \u2014 as deficit hits $2 trillion",
-   "source": "New York Post",
-   "at": "2026-10-21T11:16:09.204186+00:00"
-  },
   {
    "fp": "campaign democrats fret guarded jackson maine senate troy",
    "title": "Maine Democrats fret over Troy Jackson\u2019s guarded Senate campaign",
@@ -3201,10 +3195,15 @@
    "title": "Trump administration bolsters bid to block Alaska Senate certification",
    "source": "Reuters",
    "at": "2026-10-30T00:38:06.713496+00:00"
+  },
+  {
+   "fp": "custody dead found home interest person taken woman",
+   "title": "Woman, 81, found dead in her NYC home, person of interest taken into custody",
+   "source": "New York Post",
+   "at": "2026-10-30T02:22:53.890233+00:00"
   }
  ],
  "titles": [
-  "america budget debt deficit eats hits huge interest payments piece trillion",
   "campaign democrats fret guarded jackson maine senate troy",
   "class decide fate halfway meet next save security senate social",
   "debate hamilton kansas marshall race senate stage take tight",
@@ -3603,6 +3602,7 @@
   "election expected several severe states weather",
   "california election investigation officials report rolls subpoenas voter",
   "edition journal print street wall",
-  "administration alaska block bolsters certification senate trump"
+  "administration alaska block bolsters certification senate trump",
+  "custody dead found home interest person taken woman"
  ]
 }
