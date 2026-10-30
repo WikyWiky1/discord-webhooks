@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-  "CBMimAFBVV95cUxPak5ZbXdiNVNTR2dUSG5BaXVDZlgyWEdLYVNWU2FiTTl6QmRQTk1BcmJ4VXFNWHVtYUFBOVdlRnpaUlNnV1ZFRkJtVDRXQ3JzeEUxMVkyUVhKRF9qQ2hQdFBJcEVTVWhCempCTGZ6cmpTME5RTHU0SWdGd0s1QnQ1R2hlUEFRc3RudnlLd0ZKd2w0VDZVU0I2Ng",
   "https://thehill.com/?p=6145166",
   "https://www.washingtonexaminer.com/?p=4763977",
   "https://thehill.com/?p=6145178",
@@ -799,21 +797,11 @@
   "https://www.washingtonexaminer.com/?p=4785292",
   "CBMiYkFVX3lxTE9sR2xmM28za1RMb2wtNWhnb1JVbThzeVJndjc1MVJYOHRZZkxmdkhYd2hLSld5NWlyTS0ybHVNS09yaVpwUklDaTRwa1ZqR0kzR1ZXLVFaT1BTLTJ3THN6TGZ3",
   "CBMiogFBVV95cUxQSHY5R0oyOUtJUmI4bnZKNWFvX2NBNmw2VS0yQ3FnNmNWclVzVkNZYmU1U2diTXU4UE91Rm9wckZYS1ZoYXljM0Ffd01haWlsOVRkNy1WZU1CdnJKVV9EcC1SWExzcDJRTERYd0ZwdDlJeDRXdlQ2ZTdzaTlTQkpDUXZhZnFsTXNXM1NScmZxTi0zbnRfU002VWpsMTFiS1Q2Ymc",
-  "https://nypost.com/?post_type=article&p=41588194"
+  "https://nypost.com/?post_type=article&p=41588194",
+  "CBMiqwFBVV95cUxPeUVUX2NBWHNDVGVjcFlnVFZheldmT0VJSllOcGIxQ1ZZdjdqaWp2cUtkOHFqSGNJMnBjZmtFS0NfZWhiV3dWUUNBVlRYa2xIMmJiUnprdVVVb0pUSzJQZEFKRXZpOVVjWHgtQ1VwVXRZYUVfNG84YzM1di11ekRmZFU0bkxqMTdyTDJSbF9HbVdhbkRULXpNanhpNGtfdWdRWXYtLWRUMkJtNzQ",
+  "https://nypost.com/?post_type=article&p=41590206"
  ],
  "posts": [
-  {
-   "fp": "campaign democrats fret guarded jackson maine senate troy",
-   "title": "Maine Democrats fret over Troy Jackson\u2019s guarded Senate campaign",
-   "source": "Washington Examiner",
-   "at": "2026-10-21T11:16:10.867283+00:00"
-  },
-  {
-   "fp": "class decide fate halfway meet next save security senate social",
-   "title": "The next Senate class will decide Social Security's fate. Can they meet halfway to save it?",
-   "source": "The Hill",
-   "at": "2026-10-21T11:16:12.583428+00:00"
-  },
   {
    "fp": "debate hamilton kansas marshall race senate stage take tight",
    "title": "Marshall, Hamilton set to take debate stage in tight Kansas Senate race",
@@ -3201,11 +3189,21 @@
    "title": "Woman, 81, found dead in her NYC home, person of interest taken into custody",
    "source": "New York Post",
    "at": "2026-10-30T02:22:53.890233+00:00"
+  },
+  {
+   "fp": "arrests athens explosion greece killed people three",
+   "title": "Greece arrests three over explosion that killed six people in Athens",
+   "source": "Reuters World",
+   "at": "2026-10-30T08:56:26.525174+00:00"
+  },
+  {
+   "fp": "airlines bound deadly delay disease flyers major rule seek sparks",
+   "title": "Deadly disease sparks new CDC rule for US-bound flyers as major airlines seek delay",
+   "source": "New York Post",
+   "at": "2026-10-30T08:56:28.150960+00:00"
   }
  ],
  "titles": [
-  "campaign democrats fret guarded jackson maine senate troy",
-  "class decide fate halfway meet next save security senate social",
   "debate hamilton kansas marshall race senate stage take tight",
   "angeles braces issued rare socal super threat tornado",
   "about fire nhtsa recall risk toyota vehicles",
@@ -3603,6 +3601,8 @@
   "california election investigation officials report rolls subpoenas voter",
   "edition journal print street wall",
   "administration alaska block bolsters certification senate trump",
-  "custody dead found home interest person taken woman"
+  "custody dead found home interest person taken woman",
+  "arrests athens explosion greece killed people three",
+  "airlines bound deadly delay disease flyers major rule seek sparks"
  ]
 }
