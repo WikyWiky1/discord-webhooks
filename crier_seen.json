@@ -1,11 +1,5 @@
 {
  "ids": [
-  "CBMiqwFBVV95cUxOWHlTeUJyODlNSGNJVjRKdzloTDJOZUZmb1NWN0xsRW05VkJETkJQejVsNTFVUG05N0FKZEJDaWhMb0JYMmc2dWk4QjdmRFpNUGQ1TEVmbGRPS2F2cmxjR1RsdEpoY3ZVYUFzWUtOeVpDMmxzam13X0dkNG1nZnMtWDlqNzQ1dEdxVFdNWm5Rb1F2b1loeU9JMzFzV2pFbGk0RTdRNnYzMUMtMTQ",
-  "CBMiugFBVV95cUxObjRfQjhMOXN6M3FfdUtlSWFzaFVpU1JuNjVDdkdTTzJlNkQzRHpfQUdrLW5oNHN0b1c1WXBxWnlRZzRDTXlkT3cwVDdnYVBpR2JoemZXV0toVGZBWmpCeEg0MktXWHFLNGZRdk83NkZzNGw4Y3BrdDdhaEx5Wk5pbGRrQ0JwcmhyWldqUU5tSEwwY0dVcDBrcUxoSmxoeDNFWXo3LXpBcTQxbVVYVGZxVFRJaDlFSmowWGc",
-  "CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA",
-  "https://pagesix.com/?post_type=article&p=9239266",
-  "https://nypost.com/?post_type=article&p=41306977",
-  "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o#0",
   "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
   "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
   "CBMimAFBVV95cUxPak5ZbXdiNVNTR2dUSG5BaXVDZlgyWEdLYVNWU2FiTTl6QmRQTk1BcmJ4VXFNWHVtYUFBOVdlRnpaUlNnV1ZFRkJtVDRXQ3JzeEUxMVkyUVhKRF9qQ2hQdFBJcEVTVWhCempCTGZ6cmpTME5RTHU0SWdGd0s1QnQ1R2hlUEFRc3RudnlLd0ZKd2w0VDZVU0I2Ng",
@@ -799,45 +793,15 @@
   "CBMilgFBVV95cUxOQnNQckFPMVpibWM5Z3ZYT2ZfOFlzVGVpbTFrSU5CbXROX2FPLUUwbENlM1FPSVNqOHBvNThCSWdXUTJHbmN1M3JEc2N6ZVlFYXJnZEpSX0U3Tm80X2xvN3pla0RtSFhsQWItZm5aQk5nc3N6XzB4NjA2eklnNVpoR2FHMk5paGpsUHE4X1VWSThSaURCenc",
   "https://www.washingtonexaminer.com/?p=4785167",
   "CBMilAFBVV95cUxPVzRoYi1lVFlhNzlwc3lnWWRyU3hEbFBHTjJmOGNqWUQ4eWpsWkhZdzFxbXpUUjhZTEY1WUVHMTVnTHVoTHlGWThuYXk4ZWszSDJDTTZmVEE4RC10bHRFWk5iSHlvUjN3dlJIQTc2ZWd1cjFYNGdsdW1sSllUTlFUZHMzMld4M2FBOHU5bnYybUM4Y3Nn",
-  "CBMimwFBVV95cUxPTUlFV3JZME1DdXNyVnZGZlhRZ1k2ZVUteFVpMVppdEd2YnVsVjEzSlZZT2lYbXJ2aXM0TjgxeTVYYnpKeXA1WWFsUHhxcEhEMEQ5U09sSWNDODFwZ2wxQUM0RjZQVVBzbDQ4cHh2djJRbkp3d2h1MlVGYWdtN3lEWDlacDVaaFQwTmV5aUpCZG5mRTBVSWp4bmtzdw"
+  "CBMimwFBVV95cUxPTUlFV3JZME1DdXNyVnZGZlhRZ1k2ZVUteFVpMVppdEd2YnVsVjEzSlZZT2lYbXJ2aXM0TjgxeTVYYnpKeXA1WWFsUHhxcEhEMEQ5U09sSWNDODFwZ2wxQUM0RjZQVVBzbDQ4cHh2djJRbkp3d2h1MlVGYWdtN3lEWDlacDVaaFQwTmV5aUpCZG5mRTBVSWp4bmtzdw",
+  "CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA",
+  "CBMixAFBVV95cUxPdzNleFRaTXNIWFFjOGZZTi1rVkNnUVF2eWZRZ25wZ0NJTXVmVlhjR2NuSExkZkswTkVWNHB1ZzdjWTJMcVJXZmdncWwzVVhuLUwwak9vSC00LXNlR2VfVnM3UUtpYmNlWHVyZXpjOEF0bldHSy0taFR0ZmdRWHd1Uks2OUk4dkFTb3h5YUNnN01mSERoZklIcF96UEpuRV9kVzhSY2VmQ3JVRnJ2dXg0VHFoS1BNNnY0U1ZUWG4xU1RiOVRR",
+  "https://thehill.com/?p=6182858",
+  "https://www.washingtonexaminer.com/?p=4785292",
+  "CBMiYkFVX3lxTE9sR2xmM28za1RMb2wtNWhnb1JVbThzeVJndjc1MVJYOHRZZkxmdkhYd2hLSld5NWlyTS0ybHVNS09yaVpwUklDaTRwa1ZqR0kzR1ZXLVFaT1BTLTJ3THN6TGZ3",
+  "CBMiogFBVV95cUxQSHY5R0oyOUtJUmI4bnZKNWFvX2NBNmw2VS0yQ3FnNmNWclVzVkNZYmU1U2diTXU4UE91Rm9wckZYS1ZoYXljM0Ffd01haWlsOVRkNy1WZU1CdnJKVV9EcC1SWExzcDJRTERYd0ZwdDlJeDRXdlQ2ZTdzaTlTQkpDUXZhZnFsTXNXM1NScmZxTi0zbnRfU002VWpsMTFiS1Q2Ymc"
  ],
  "posts": [
-  {
-   "fp": "concerns firefighters growing supplies tackle voice water wildfires",
-   "title": "Firefighters voice growing concerns over water supplies to tackle UK wildfires",
-   "source": "Guardian World",
-   "at": "2026-10-21T05:14:39.616029+00:00"
-  },
-  {
-   "fp": "agree elderly kill kyiv russian strikes terms trump ukrainians urges",
-   "title": "Russian strikes kill elderly Ukrainians after Trump urges Kyiv to agree terms",
-   "source": "Reuters",
-   "at": "2026-10-21T10:13:39.355989+00:00"
-  },
-  {
-   "fp": "approve because didn georgia girlfriend husband kills relationship woman younger",
-   "title": "Georgia woman, 76, kills ex-husband, his younger girlfriend because she didn\u2019t approve of their relationship",
-   "source": "New York Post",
-   "at": "2026-10-21T10:13:40.997890+00:00"
-  },
-  {
-   "fp": "attack australian both haines helen legs loses politician",
-   "title": "Australian politician Helen Haines loses both legs after car attack",
-   "source": "New York Post",
-   "at": "2026-10-21T10:13:42.712707+00:00"
-  },
-  {
-   "fp": "black cost down lock made race senate still strides talarico texas voters",
-   "title": "Talarico has made strides to lock down black voters. They could still cost him the Texas Senate race",
-   "source": "Washington Examiner",
-   "at": "2026-10-21T11:16:05.420517+00:00"
-  },
-  {
-   "fp": "boost budget finally international stratford trains",
-   "title": "Stratford International finally to have international trains in budget boost",
-   "source": "Guardian World",
-   "at": "2026-10-21T11:16:07.509646+00:00"
-  },
   {
    "fp": "america budget debt deficit eats hits huge interest payments piece trillion",
    "title": "Interest payments on America\u2019s $40 trillion debt eats up a huge piece of the budget \u2014 as deficit hits $2 trillion",
@@ -3201,15 +3165,45 @@
    "title": "Four killed in crash of Italian helicopter on EU mission in Bosnia",
    "source": "Reuters",
    "at": "2026-10-29T22:56:25.073970+00:00"
+  },
+  {
+   "fp": "alphabet capex ends jitters lower miss revenue revives street wall",
+   "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
+   "source": "Reuters",
+   "at": "2026-10-30T00:37:57.625691+00:00"
+  },
+  {
+   "fp": "boost forecasts sales satellite spacex stmicroelectronics strong supplier",
+   "title": "SpaceX Supplier STMicroelectronics Forecasts Strong Sales on AI, Satellite Boost",
+   "source": "WSJ",
+   "at": "2026-10-30T00:37:59.496063+00:00"
+  },
+  {
+   "fp": "election expected several severe states weather",
+   "title": "Severe weather expected on Election Day in several key states",
+   "source": "The Hill",
+   "at": "2026-10-30T00:38:01.292450+00:00"
+  },
+  {
+   "fp": "california election investigation officials report rolls subpoenas voter",
+   "title": "DOJ subpoenas California election officials in voter rolls investigation: Report",
+   "source": "Washington Examiner",
+   "at": "2026-10-30T00:38:02.999408+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-10-30T00:38:04.782568+00:00"
+  },
+  {
+   "fp": "administration alaska block bolsters certification senate trump",
+   "title": "Trump administration bolsters bid to block Alaska Senate certification",
+   "source": "Reuters",
+   "at": "2026-10-30T00:38:06.713496+00:00"
   }
  ],
  "titles": [
-  "concerns firefighters growing supplies tackle voice water wildfires",
-  "agree elderly kill kyiv russian strikes terms trump ukrainians urges",
-  "approve because didn georgia girlfriend husband kills relationship woman younger",
-  "attack australian both haines helen legs loses politician",
-  "black cost down lock made race senate still strides talarico texas voters",
-  "boost budget finally international stratford trains",
   "america budget debt deficit eats hits huge interest payments piece trillion",
   "campaign democrats fret guarded jackson maine senate troy",
   "class decide fate halfway meet next save security senate social",
@@ -3603,6 +3597,12 @@
   "about alarms build carolina component fire nuclear plans raise site south watchdogs where",
   "attack colorado crimes firebombing guilty hate jews pleads suspect",
   "accidents deadly does having keep rail spain",
-  "bosnia crash four helicopter italian killed mission"
+  "bosnia crash four helicopter italian killed mission",
+  "alphabet capex ends jitters lower miss revenue revives street wall",
+  "boost forecasts sales satellite spacex stmicroelectronics strong supplier",
+  "election expected several severe states weather",
+  "california election investigation officials report rolls subpoenas voter",
+  "edition journal print street wall",
+  "administration alaska block bolsters certification senate trump"
  ]
 }
