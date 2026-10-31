@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41325702",
-  "https://thehill.com/?p=6147587",
-  "https://www.washingtonexaminer.com/?p=4765294",
-  "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
-  "CBMixAFBVV95cUxNSmVTMHFJSVptMmRyQVZ3bTNtYktTRldrczlZUUF6dFBmZnl3WDRvcVpJOEU1azE3OEZlUXg2d005UGpnZ2NTR08tRC1xbmtMZVc4eldhb1ZaV1k3bVV1TXZ0VENlWWQ5MGduMk51dUNQVDJaaTNyRDk2dXB0X2xLT2FsNFRpemlybjZfZXlTei1TZEo5d2xLVmRUNTRJUkhhZEVZeWpBcHZrZ21VZFBYMVl6LTVHY2k2MkhFZnJ3RU9KS0Rs",
-  "CBMivAFBVV95cUxQaW5tZzlyQWx5WjVVeTRLam5wamtUZlltUlgzeG5sUlFpLVI1RHlleE54RTJkcnU4MkdLZ1g3czllalY1TFNyclZCWUh3SG9FRURWUklBdXZXTWtRVlZkeVVkZUVuZl9hY1M2UnlKN3JjV3BPZ3VYQVpnQjNaNUdGSWpsXzh5VjZQNFZzdXNzb09mZWg3QTR0WmVZNDN1MGMyMXZPUzB4OEZ1eUI2dFYxcmpPVGJWaE9VNkVveQ",
   "https://nypost.com/?post_type=article&p=41325757",
   "https://nypost.com/?post_type=article&p=41326770",
   "https://nypost.com/?post_type=article&p=41324975",
@@ -799,45 +793,15 @@
   "https://www.washingtonexaminer.com/?p=4786970",
   "https://thehill.com/?p=6185891",
   "CBMioAFBVV95cUxOWU1SRDdzUXFZNm5UeU5nZzVvMkFYMXNwNUF6eXdsbWNtN3lveTdwNVlCS3BVWjFRQ0NjTjc4Rm1qdC0yUmVQMFVXb21nREdOM3F5NVFxdWtqODNvVFh6Q3hLU2N1MWZhUFJ4c1dlTXRrRGlTQ01iUTBEdlVNR0VYdTJWc0JRck93bThTSUNvellaY3JUaVNJRFdOY2RiUWVW",
-  "https://www.bbc.co.uk/news/articles/c60me298k1yeo#1"
+  "https://www.bbc.co.uk/news/articles/c60me298k1yeo#1",
+  "https://nypost.com/?post_type=article&p=41595358",
+  "CBMimAFBVV95cUxNdEt3QnZYMW5WSVBNMUNqQ3pOUEV6RVVoM2xLa2RfV0VEQ1YyTzE2MFIwTnNGdTRFelljM3gtM3lORnhLYW5nT1VaSk5IVV85NlBIeGFlWlhaOHFIcHZhTm1ER1FsZzdZRElZUHl0Mm4ya04tMjZ2WV9ZbzVJLUhocktXVVFYVy1lbEJOWVF4eFVHdVNsbEQ4Tg",
+  "CBMiiwFBVV95cUxOYXMzV0RzenRaLWFEWG9zaS1RM0NXQ1Y0M2dDTmlfZG51OVN0NklTV3YtUWxXaGVGUndtMzFQcmZVQU1ibnljNlVld09qbXZVRmhGRkNfTHpVamUwcldLLUFrRFFUUEthcnhScWxmRjdLMnBRZFh3cE9hNGVKUVFjT05HZU9KTVhVM2ZR",
+  "https://thehill.com/?p=6183400",
+  "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices",
+  "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay"
  ],
  "posts": [
-  {
-   "fp": "bonus global linked micron plan pressure profit taiwan union unveils",
-   "title": "Micron unveils global profit-linked bonus plan after Taiwan union pressure",
-   "source": "Reuters",
-   "at": "2026-10-22T16:42:55.076852+00:00"
-  },
-  {
-   "fp": "awards court criminal days european international prize rights sanctions trump union",
-   "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions",
-   "source": "AP",
-   "at": "2026-10-22T16:42:56.785986+00:00"
-  },
-  {
-   "fp": "election monitors sending state utah",
-   "title": "Utah says DOJ is sending election monitors to the state",
-   "source": "Washington Examiner",
-   "at": "2026-10-22T16:42:58.468266+00:00"
-  },
-  {
-   "fp": "about election fraud hearing",
-   "title": "Why you will be hearing a lot more about fraud before Election Day",
-   "source": "Washington Examiner",
-   "at": "2026-10-22T16:43:00.202857+00:00"
-  },
-  {
-   "fp": "above concerns iran news plummet soars spending stocks strike",
-   "title": "Oil soars above $111 as stocks plummet on Iran strike news, AI spending concerns",
-   "source": "New York Post",
-   "at": "2026-10-22T16:43:01.966308+00:00"
-  },
-  {
-   "fp": "appeals court rules switchblades unconstitutional",
-   "title": "US ban on switchblades is unconstitutional, appeals court rules",
-   "source": "Reuters",
-   "at": "2026-10-22T16:43:03.670805+00:00"
-  },
   {
    "fp": "china earthquake magnitude strikes tibet",
    "title": "Earthquake of magnitude 7 strikes China's Tibet",
@@ -3201,15 +3165,45 @@
    "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
    "source": "BBC World",
    "at": "2026-10-31T09:55:54.148058+00:00"
+  },
+  {
+   "fp": "army days election headed jail midterm officials polls possible time trump warns watchers",
+   "title": "Trump DOJ warns election officials of possible jail time days before midterm \u2014 with army of watchers headed to polls",
+   "source": "New York Post",
+   "at": "2026-10-31T11:45:46.440614+00:00"
+  },
+  {
+   "fp": "alphabet dragging lower nasdaq sinks stock",
+   "title": "Alphabet Stock Sinks, Dragging Nasdaq Lower",
+   "source": "WSJ",
+   "at": "2026-10-31T11:45:48.142723+00:00"
+  },
+  {
+   "fp": "debt earnings slashes soar",
+   "title": "BP Slashes Net Debt as Earnings Soar",
+   "source": "WSJ",
+   "at": "2026-10-31T11:45:49.905622+00:00"
+  },
+  {
+   "fp": "chill costs heating home races senate threaten vote",
+   "title": "Home heating costs threaten to chill GOP vote in key Senate races",
+   "source": "The Hill",
+   "at": "2026-10-31T11:45:51.639588+00:00"
+  },
+  {
+   "fp": "again company earnings skyrocket",
+   "title": "Oil company earnings skyrocket \u2014 again",
+   "source": "NPR News",
+   "at": "2026-10-31T11:45:53.368769+00:00"
+  },
+  {
+   "fp": "back bring chesapeake oyster plunged resident stocks wants",
+   "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
+   "source": "NPR News",
+   "at": "2026-10-31T11:45:55.158629+00:00"
   }
  ],
  "titles": [
-  "bonus global linked micron plan pressure profit taiwan union unveils",
-  "awards court criminal days european international prize rights sanctions trump union",
-  "election monitors sending state utah",
-  "about election fraud hearing",
-  "above concerns iran news plummet soars spending stocks strike",
-  "appeals court rules switchblades unconstitutional",
   "china earthquake magnitude strikes tibet",
   "center destroyed fire killed living mississippi senior",
   "attack attempted facility feds firebomb seek suspect",
@@ -3603,6 +3597,12 @@
   "days explodes feud michigan sayed senate showdown stevens",
   "blocks claims election judge noncitizen officials threatening voting",
   "alaska ballots candidate criminal department isolate justice probe seeks senate underway",
-  "ceasefire evacuated hundreds occupied oleshky rare russian ukraine"
+  "ceasefire evacuated hundreds occupied oleshky rare russian ukraine",
+  "army days election headed jail midterm officials polls possible time trump warns watchers",
+  "alphabet dragging lower nasdaq sinks stock",
+  "debt earnings slashes soar",
+  "chill costs heating home races senate threaten vote",
+  "again company earnings skyrocket",
+  "back bring chesapeake oyster plunged resident stocks wants"
  ]
 }
