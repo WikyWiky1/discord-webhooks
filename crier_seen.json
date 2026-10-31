@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/oct/14/jellyfish-cloud-spacex-rocket-launch",
   "CBMitAFBVV95cUxQZDh1RnYtQmd3b0ZLYjh6dVd0cllieVhyUkpCbHB3SjdLMFc0N3FKOFVDbm1ISVhGNVVnY3ktVUVxcmszWjZacjJ5TkNLWVkyOHJpQTUzaEg5M0RsdXBvRXBqaWlWVFdHSU8wSGRWdi1kMkVmaGZjSVVEZWIzQnI3U21vTHBzS3VzRE5qckVzOVg4NXcwR1JpTDMyT083cTRYb1NWWWFIY1ZUd3h6MklfamVTNEw",
   "https://thehill.com/?p=6148426",
   "https://nypost.com/?post_type=article&p=41336173",
@@ -799,15 +798,10 @@
   "CBMiogFBVV95cUxNSHh0LVpYdmRNYXJIcW9jQ1BOTlNfZDRqcG5KM2FtSFR5cXg2YWFXUHpiaml0R3hrY3VGMVdFbW56UEI1NDNjVmtrQUh3ZVVhSnY3SXQ3TzB4RWhYc0haZkYzM0VrTHIwMEhuNGNlT1dkcUNUU2RtMlFhQTlTYnZWYUNla3pFVmNsUTUyY0NaOU00OEhvNkM1aXl2QjhEU3h2OHc",
   "CBMirgFBVV95cUxPZ2dXRjY0R0EzUzFSNXBrYmRsZGJFdXEzTEtvZHFJYmFwUEVoNndYRzVGWkRyTVlOcHN6LUZFYThjRFFkVDVjZTFYdlRfekxWTE13VTZYRnF4RXlvdmJtQkMzOFViVElDWVdqdW5tXzlCZ0tCSjBZR2dReVlCbVVWZ3NxMGFaNUJydXpoYUFRZVZqRjV2QkJhZE5YeExkZ1AzYUdaUnJ3bmtJRVRmRFE",
   "CBMiugFBVV95cUxOZk1TVThad3BBcnFwSU44RFlBSjU5NWNaOUxuTEFVQnp2c0tjU3h2Qmc3eUh1RWZGZVpnenlXRk5jcXczZmVhUENIcm53dFBPVm1pQnZxdDhGbmRRRHBXaTdBeHlaRjl3X05USjI3X1ViamRPX19Lc0ZrendnN2N0allNR0tLekhuM0ZCZFpmeWJROTdYY0YtbkdoZ2VEXzFiMlBIRzkwUUpxNXFPdFJERTNxRzNLMzZRUWc",
-  "https://www.washingtonexaminer.com/?p=4787142"
+  "https://www.washingtonexaminer.com/?p=4787142",
+  "https://nypost.com/?post_type=article&p=41611122"
  ],
  "posts": [
-  {
-   "fp": "adviser advocate calley maha means resigns",
-   "title": "Calley Means, a key MAHA advocate, resigns as a top RFK Jr. adviser",
-   "source": "AP",
-   "at": "2026-10-22T23:33:11.729431+00:00"
-  },
   {
    "fp": "administration leader maha resigns",
    "title": "MAHA leader resigns from administration",
@@ -3201,10 +3195,15 @@
    "title": "Americans turn against socialism in last months before midterm election: Poll",
    "source": "Washington Examiner",
    "at": "2026-10-31T21:03:22.320666+00:00"
+  },
+  {
+   "fp": "arrive evacuated hundreds land occupied oleshky russian safe town ukrainian",
+   "title": "Hundreds evacuated from Russian-occupied town of Oleshky arrive in safe Ukrainian land",
+   "source": "New York Post",
+   "at": "2026-10-31T22:47:26.620407+00:00"
   }
  ],
  "titles": [
-  "adviser advocate calley maha means resigns",
   "administration leader maha resigns",
   "attack came deploys find forces haiti help missing salvador soldiers special under",
   "china collapses earthquake homes hundreds kills least people powerful tibet",
@@ -3603,6 +3602,7 @@
   "alaska aside attorneys ballots demand even meritless possible senate trump",
   "birthday dismissed epstein journal lawsuit letter prejudice street trump wall",
   "away candidate democratic rival sayed senate source stay wants",
-  "americans election last midterm months poll socialism turn"
+  "americans election last midterm months poll socialism turn",
+  "arrive evacuated hundreds land occupied oleshky russian safe town ukrainian"
  ]
 }
