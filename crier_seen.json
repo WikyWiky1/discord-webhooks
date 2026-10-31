@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://news.sky.com/story/one-man-dead-and-two-missing-after-fishing-vessel-goes-missing-off-scotland-13599156",
-  "https://nypost.com/?post_type=article&p=41324011",
-  "CBMizAFBVV95cUxPbWNJbU8xUXFUUnBwakxUbEtfTURTWFlZd2xIdVJoU3RkUW1aTTBYN0ZIVmozQ2lfUVBVd2IzYlJPQnJpWDZEcGo0REpSbms1LV9pS2doZzBwdlR2cm0wOEpMZkp0NUlTS1hpN2k2akFhek1FWW8xYkYzZzNZZmloOGFjcVFmbG9yd25VVHJiZThPcThEaTJsNjBxSXE5SV9mUFBkZ3E0NHlmSEU0RHZnU3hhRWN0NXZFTEliUVRxYXlNSjJFZzlDQkROSlM",
-  "CBMiwgFBVV95cUxQbGsxSDRHRS1oVkExejZCTUlWU29GbGVZMDIxRUkyRkY0Y2Z2MFR0cGN2alpxeWZwNmFJN1V2STlsZktGZTJNQS1EZ0J3OV9aTHdkMFB5ckFDcVp3YXl4WXJMa3NzNXBQRWtDNHpMSzVOaWN0MGNzRG0wdlhoMVBJODRSVDFRMlVaY2REQzFTODE3MEhrNXdiUFEwWWItXzF5RXJWMkhjNXRNbUdyZEl4U0NKRDJCSWdkckFTTFhrQmxSdw",
   "https://nypost.com/?post_type=article&p=41323866",
   "https://nypost.com/?post_type=article&p=41325702",
   "https://thehill.com/?p=6147587",
@@ -799,33 +795,13 @@
   "https://nypost.com/?post_type=article&p=41600393",
   "https://nypost.com/?post_type=article&p=41606085",
   "https://nypost.com/?post_type=article&p=41607351",
-  "https://nypost.com/?post_type=article&p=41606060"
+  "https://nypost.com/?post_type=article&p=41606060",
+  "CBMiwgFBVV95cUxOTGQyeVJtc2RlU0ZkbHNFcTBmdEZCQ1FaYlk0SldtejFXZU9VZDdSb2k0RnZBanoyYkJkM3BZUVViMnZDcnpFdFEyRDYwXzd3cWJadVA4SWYwRTRSeG1BM25OSnBaS0pZSUlhMlpWTGVjSDRhVWNvaXVSeVlSME5HQ0hnQ01hUHh2M3R5amJpQWlTeTM5Y2R2ajJFaDVOOXR3RWx3Mkl6S0xGRE03c2pLQ29vZ2lPcDhyaXFXQndkQzhGdw",
+  "https://www.washingtonexaminer.com/?p=4786970",
+  "https://thehill.com/?p=6185891",
+  "CBMioAFBVV95cUxOWU1SRDdzUXFZNm5UeU5nZzVvMkFYMXNwNUF6eXdsbWNtN3lveTdwNVlCS3BVWjFRQ0NjTjc4Rm1qdC0yUmVQMFVXb21nREdOM3F5NVFxdWtqODNvVFh6Q3hLU2N1MWZhUFJ4c1dlTXRrRGlTQ01iUTBEdlVNR0VYdTJWc0JRck93bThTSUNvellaY3JUaVNJRFdOY2RiUWVW"
  ],
  "posts": [
-  {
-   "fp": "alleged brotherhood michigan muslim race sayed senate shake ties",
-   "title": "El-Sayed\u2019s alleged ties to Muslim Brotherhood shake up Michigan Senate race",
-   "source": "The Hill",
-   "at": "2026-10-22T11:14:57.161175+00:00"
-  },
-  {
-   "fp": "abbott dead governor heat leads paxton poll race senate talarico texas",
-   "title": "Talarico, Paxton in dead heat for Texas Senate, Abbott leads governor's race: Poll",
-   "source": "The Hill",
-   "at": "2026-10-22T11:14:58.859551+00:00"
-  },
-  {
-   "fp": "attack consider elections iran israel merging post spacex tesla",
-   "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-   "source": "NPR News",
-   "at": "2026-10-22T11:58:13.858817+00:00"
-  },
-  {
-   "fp": "brings dead flooding four france least southern storm",
-   "title": "At least four dead after storm brings flooding to southern France",
-   "source": "BBC World",
-   "at": "2026-10-22T11:58:15.558192+00:00"
-  },
   {
    "fp": "back bogongs bounced great moth revival",
    "title": "The great moth revival: how bogongs have bounced back",
@@ -3201,13 +3177,33 @@
    "title": "Nithya Raman accused of breaking the law with Hollywood twist in latest attack on Mayor Karen Bass",
    "source": "New York Post",
    "at": "2026-10-31T03:35:32.230443+00:00"
+  },
+  {
+   "fp": "ended exclusive flowing gulf inside keep military mission open",
+   "title": "Exclusive | Inside the U.S. Military\u2019s Open-Ended Mission to Keep Gulf Oil Flowing",
+   "source": "WSJ",
+   "at": "2026-10-31T04:20:59.766035+00:00"
+  },
+  {
+   "fp": "days explodes feud michigan sayed senate showdown stevens",
+   "title": "El Sayed and Stevens feud explodes days before Michigan Senate showdown",
+   "source": "Washington Examiner",
+   "at": "2026-10-31T04:21:01.547402+00:00"
+  },
+  {
+   "fp": "blocks claims election judge noncitizen officials threatening voting",
+   "title": "Judge blocks DOJ from threatening election officials over noncitizen voting claims",
+   "source": "The Hill",
+   "at": "2026-10-31T04:21:03.375551+00:00"
+  },
+  {
+   "fp": "alaska ballots candidate criminal department isolate justice probe seeks senate underway",
+   "title": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate",
+   "source": "AP",
+   "at": "2026-10-31T04:21:05.013291+00:00"
   }
  ],
  "titles": [
-  "alleged brotherhood michigan muslim race sayed senate shake ties",
-  "abbott dead governor heat leads paxton poll race senate talarico texas",
-  "attack consider elections iran israel merging post spacex tesla",
-  "brings dead flooding four france least southern storm",
   "back bogongs bounced great moth revival",
   "bonus global linked micron plan pressure profit taiwan union unveils",
   "awards court criminal days european international prize rights sanctions trump union",
@@ -3603,6 +3599,10 @@
   "approach bass biggest homelessness karen nithya promises raman regret reveals slams wildfire",
   "apartment battery bike death fire raising relatives sparked three toll tragic",
   "congress control dems hosts impeach regain shouldn trump view",
-  "accused attack bass breaking hollywood karen latest mayor nithya raman twist"
+  "accused attack bass breaking hollywood karen latest mayor nithya raman twist",
+  "ended exclusive flowing gulf inside keep military mission open",
+  "days explodes feud michigan sayed senate showdown stevens",
+  "blocks claims election judge noncitizen officials threatening voting",
+  "alaska ballots candidate criminal department isolate justice probe seeks senate underway"
  ]
 }
