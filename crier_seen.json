@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41323866",
   "https://nypost.com/?post_type=article&p=41325702",
   "https://thehill.com/?p=6147587",
   "https://www.washingtonexaminer.com/?p=4765294",
@@ -799,15 +798,10 @@
   "CBMiwgFBVV95cUxOTGQyeVJtc2RlU0ZkbHNFcTBmdEZCQ1FaYlk0SldtejFXZU9VZDdSb2k0RnZBanoyYkJkM3BZUVViMnZDcnpFdFEyRDYwXzd3cWJadVA4SWYwRTRSeG1BM25OSnBaS0pZSUlhMlpWTGVjSDRhVWNvaXVSeVlSME5HQ0hnQ01hUHh2M3R5amJpQWlTeTM5Y2R2ajJFaDVOOXR3RWx3Mkl6S0xGRE03c2pLQ29vZ2lPcDhyaXFXQndkQzhGdw",
   "https://www.washingtonexaminer.com/?p=4786970",
   "https://thehill.com/?p=6185891",
-  "CBMioAFBVV95cUxOWU1SRDdzUXFZNm5UeU5nZzVvMkFYMXNwNUF6eXdsbWNtN3lveTdwNVlCS3BVWjFRQ0NjTjc4Rm1qdC0yUmVQMFVXb21nREdOM3F5NVFxdWtqODNvVFh6Q3hLU2N1MWZhUFJ4c1dlTXRrRGlTQ01iUTBEdlVNR0VYdTJWc0JRck93bThTSUNvellaY3JUaVNJRFdOY2RiUWVW"
+  "CBMioAFBVV95cUxOWU1SRDdzUXFZNm5UeU5nZzVvMkFYMXNwNUF6eXdsbWNtN3lveTdwNVlCS3BVWjFRQ0NjTjc4Rm1qdC0yUmVQMFVXb21nREdOM3F5NVFxdWtqODNvVFh6Q3hLU2N1MWZhUFJ4c1dlTXRrRGlTQ01iUTBEdlVNR0VYdTJWc0JRck93bThTSUNvellaY3JUaVNJRFdOY2RiUWVW",
+  "https://www.bbc.co.uk/news/articles/c60me298k1yeo#1"
  ],
  "posts": [
-  {
-   "fp": "back bogongs bounced great moth revival",
-   "title": "The great moth revival: how bogongs have bounced back",
-   "source": "Guardian World",
-   "at": "2026-10-22T15:50:00.022256+00:00"
-  },
   {
    "fp": "bonus global linked micron plan pressure profit taiwan union unveils",
    "title": "Micron unveils global profit-linked bonus plan after Taiwan union pressure",
@@ -3201,10 +3195,15 @@
    "title": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate",
    "source": "AP",
    "at": "2026-10-31T04:21:05.013291+00:00"
+  },
+  {
+   "fp": "ceasefire evacuated hundreds occupied oleshky rare russian ukraine",
+   "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+   "source": "BBC World",
+   "at": "2026-10-31T09:55:54.148058+00:00"
   }
  ],
  "titles": [
-  "back bogongs bounced great moth revival",
   "bonus global linked micron plan pressure profit taiwan union unveils",
   "awards court criminal days european international prize rights sanctions trump union",
   "election monitors sending state utah",
@@ -3603,6 +3602,7 @@
   "ended exclusive flowing gulf inside keep military mission open",
   "days explodes feud michigan sayed senate showdown stevens",
   "blocks claims election judge noncitizen officials threatening voting",
-  "alaska ballots candidate criminal department isolate justice probe seeks senate underway"
+  "alaska ballots candidate criminal department isolate justice probe seeks senate underway",
+  "ceasefire evacuated hundreds occupied oleshky rare russian ukraine"
  ]
 }
