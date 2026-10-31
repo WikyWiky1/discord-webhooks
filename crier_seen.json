@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41326425",
   "CBMiowFBVV95cUxQYlNheVdFZk5KM25CV0NxS0tHbG81dGlSTTRZaVNLbkNiQklzNmV5d0s5M2NtTlBlSTIzTk5DbXFBME5USFNYS21ZYUxpeVhuUXpkZ2hCVVVITFZ1Q2ZJOWZsWlVkWVdSX3k4Qm5vNkl4MjhGWXp0NXVIcnNHc1c5S0VwU2Q5V29FcmF1NWh1a0hZa0FycXdvRVd3Q0I2VU9sS3NB",
   "CBMiygFBVV95cUxNZzlrRVp3SjY0Qjc1ejhzdHcxQWFQejJLS2hfZzJocWhnV3AtUi1OM1NGX2s2b0NjQkV4NnpYZUxTOGJTRVBlSEM2blAzMXRhbjNydFRjVnYyNGM4a25waTR1aGVTVWt1MXlKOURybDlzS0kxQXVrbUNlQTlRN3lxa3YxMEZ5djByOUhzTlg4MUZUYTRMT1V6MzBYODY3d2FhSk5zRkxMdWpocU1KYTV0TUVLMUtHcWZHbkJWVHVHc2NIRGFwQ1F2c0x3",
   "CBMirAFBVV95cUxOSWRmRG9DZUlZX3NNS19fcHRySUhIMlZadTN2YjVTdkdOQl9NT0lhSmJtdHM3ai1xMU9oQU1PVVRtMmdVbEFndlVWSXFJX2Y5RVEyRXlTQTFJclFBSHN3eVo2NlpMSlNrOWZfZ2hLR0VKZms1enQ1VjdicVdsN1R1RFVDVkJMLW5tQmUtbGpUN1JMMG5YWDNQSG9GVURLVmVZOVlzOFF1elAxR0w0",
@@ -799,15 +798,10 @@
   "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
   "https://pagesix.com/?post_type=article&p=9280157",
   "https://pagesix.com/?post_type=article&p=9280105",
-  "https://nypost.com/?post_type=article&p=41610278"
+  "https://nypost.com/?post_type=article&p=41610278",
+  "CBMivgFBVV95cUxQTzJYVGdPd3F0eXpuMDlIeWJPeVBfM3I4NldicEVDcUZUNXUzd0xsMndJWlladkZEb2ltTXpuMDdQdUF4X2hKVWRTWTBtd3lpRGFWeG93OFVpbWRZU1B1U1kteTZ3cXJQZDNINkJtYU9EbG8waFJZRzZaWkhXQ1c0ZzBGYXJKa0NlTG9FNV93cXhMbHJlYW1BN0traGRjMVZWUHQxak1ORFpVcWJKR2IzQlJjS1ZlMXNhZFdjSFlR"
  ],
  "posts": [
-  {
-   "fp": "altercation company deadly drove firm investment range rover shooter used",
-   "title": "GWB shooter drove for $2B investment firm\u2019s CEO, used company Range Rover during deadly altercation",
-   "source": "New York Post",
-   "at": "2026-10-22T20:21:43.153853+00:00"
-  },
   {
    "fp": "approximately asylum border ceuta crisis demand invasion italy migrants spain sparked still",
    "title": "Italy and Spain end border crisis sparked by Ceuta invasion, but approximately 15,000 migrants still demand asylum",
@@ -3201,10 +3195,15 @@
    "title": "Newlywed, 25, killed in \u2018freak\u2019 motorcycle crash \u2014 after wife was \u2018so upset\u2019 when he got bike",
    "source": "New York Post",
    "at": "2026-10-31T15:34:45.493377+00:00"
+  },
+  {
+   "fp": "fuel hard lost maps recover show supplies world",
+   "title": "These Maps Show Why It\u2019s So Hard to Recover the World\u2019s Lost Fuel Supplies",
+   "source": "WSJ",
+   "at": "2026-10-31T15:59:35.169847+00:00"
   }
  ],
  "titles": [
-  "altercation company deadly drove firm investment range rover shooter used",
   "approximately asylum border ceuta crisis demand invasion italy migrants spain sparked still",
   "arrested nottingham officer police shooting woman",
   "backs bank central chief eastern emerge libya parliament resignation rifts",
@@ -3603,6 +3602,7 @@
   "back bring chesapeake oyster plunged resident stocks wants",
   "cancels dates deep emergency gillan hospitalized medical purple singer tour upcoming",
   "2026 assassination costume halloween kids mormon posing slammed star wives",
-  "bike crash freak killed motorcycle newlywed upset wife"
+  "bike crash freak killed motorcycle newlywed upset wife",
+  "fuel hard lost maps recover show supplies world"
  ]
 }
