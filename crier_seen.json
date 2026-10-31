@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41325757",
-  "https://nypost.com/?post_type=article&p=41326770",
-  "https://nypost.com/?post_type=article&p=41324975",
   "https://nypost.com/?post_type=article&p=41326425",
   "CBMiowFBVV95cUxQYlNheVdFZk5KM25CV0NxS0tHbG81dGlSTTRZaVNLbkNiQklzNmV5d0s5M2NtTlBlSTIzTk5DbXFBME5USFNYS21ZYUxpeVhuUXpkZ2hCVVVITFZ1Q2ZJOWZsWlVkWVdSX3k4Qm5vNkl4MjhGWXp0NXVIcnNHc1c5S0VwU2Q5V29FcmF1NWh1a0hZa0FycXdvRVd3Q0I2VU9sS3NB",
   "CBMiygFBVV95cUxNZzlrRVp3SjY0Qjc1ejhzdHcxQWFQejJLS2hfZzJocWhnV3AtUi1OM1NGX2s2b0NjQkV4NnpYZUxTOGJTRVBlSEM2blAzMXRhbjNydFRjVnYyNGM4a25waTR1aGVTVWt1MXlKOURybDlzS0kxQXVrbUNlQTlRN3lxa3YxMEZ5djByOUhzTlg4MUZUYTRMT1V6MzBYODY3d2FhSk5zRkxMdWpocU1KYTV0TUVLMUtHcWZHbkJWVHVHc2NIRGFwQ1F2c0x3",
@@ -799,27 +796,12 @@
   "CBMiiwFBVV95cUxOYXMzV0RzenRaLWFEWG9zaS1RM0NXQ1Y0M2dDTmlfZG51OVN0NklTV3YtUWxXaGVGUndtMzFQcmZVQU1ibnljNlVld09qbXZVRmhGRkNfTHpVamUwcldLLUFrRFFUUEthcnhScWxmRjdLMnBRZFh3cE9hNGVKUVFjT05HZU9KTVhVM2ZR",
   "https://thehill.com/?p=6183400",
   "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices",
-  "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay"
+  "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
+  "https://pagesix.com/?post_type=article&p=9280157",
+  "https://pagesix.com/?post_type=article&p=9280105",
+  "https://nypost.com/?post_type=article&p=41610278"
  ],
  "posts": [
-  {
-   "fp": "china earthquake magnitude strikes tibet",
-   "title": "Earthquake of magnitude 7 strikes China's Tibet",
-   "source": "Reuters",
-   "at": "2026-10-22T16:46:24.129025+00:00"
-  },
-  {
-   "fp": "center destroyed fire killed living mississippi senior",
-   "title": "2 killed in fire that destroyed Mississippi senior living center",
-   "source": "AP",
-   "at": "2026-10-22T16:46:26.020156+00:00"
-  },
-  {
-   "fp": "attack attempted facility feds firebomb seek suspect",
-   "title": "Feds seek suspect in attempted firebomb attack on ICE facility",
-   "source": "Washington Examiner",
-   "at": "2026-10-22T16:46:27.727207+00:00"
-  },
   {
    "fp": "altercation company deadly drove firm investment range rover shooter used",
    "title": "GWB shooter drove for $2B investment firm\u2019s CEO, used company Range Rover during deadly altercation",
@@ -3201,12 +3183,27 @@
    "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
    "source": "NPR News",
    "at": "2026-10-31T11:45:55.158629+00:00"
+  },
+  {
+   "fp": "cancels dates deep emergency gillan hospitalized medical purple singer tour upcoming",
+   "title": "Deep Purple singer Ian Gillan, 81, hospitalized due to medical emergency, cancels upcoming tour dates",
+   "source": "New York Post",
+   "at": "2026-10-31T15:34:41.880420+00:00"
+  },
+  {
+   "fp": "2026 assassination costume halloween kids mormon posing slammed star wives",
+   "title": "\u2018Mormon Wives\u2019 star slammed for posing with her kids in JFK assassination Halloween 2026 costume",
+   "source": "New York Post",
+   "at": "2026-10-31T15:34:43.591115+00:00"
+  },
+  {
+   "fp": "bike crash freak killed motorcycle newlywed upset wife",
+   "title": "Newlywed, 25, killed in \u2018freak\u2019 motorcycle crash \u2014 after wife was \u2018so upset\u2019 when he got bike",
+   "source": "New York Post",
+   "at": "2026-10-31T15:34:45.493377+00:00"
   }
  ],
  "titles": [
-  "china earthquake magnitude strikes tibet",
-  "center destroyed fire killed living mississippi senior",
-  "attack attempted facility feds firebomb seek suspect",
   "altercation company deadly drove firm investment range rover shooter used",
   "approximately asylum border ceuta crisis demand invasion italy migrants spain sparked still",
   "arrested nottingham officer police shooting woman",
@@ -3603,6 +3600,9 @@
   "debt earnings slashes soar",
   "chill costs heating home races senate threaten vote",
   "again company earnings skyrocket",
-  "back bring chesapeake oyster plunged resident stocks wants"
+  "back bring chesapeake oyster plunged resident stocks wants",
+  "cancels dates deep emergency gillan hospitalized medical purple singer tour upcoming",
+  "2026 assassination costume halloween kids mormon posing slammed star wives",
+  "bike crash freak killed motorcycle newlywed upset wife"
  ]
 }
