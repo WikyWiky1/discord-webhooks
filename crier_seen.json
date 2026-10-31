@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
-  "CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw",
-  "CBMimwFBVV95cUxPZlB5V2Jsb0JsWi05WmppSk9JWUZyUFp5ZHBuWjZacTNKTFE2RVNwN2laRTJ2bGgwanpvLUtkSnBYVUEyZmdfeHR4QUVhOTA1NjJETXNGOG1TTzY4WDd0N3ZKbk9MVktyV3gyS0ZORnVzdk9lYkRrNnBKMjNRMW1FTnZUeTl5YThqa1MxYVF6SjYwbjEtRjljbXdybw",
-  "CBMiugFBVV95cUxNQmlFV0JYa1dHTUVUclFkNUhadTZmVW9Jc2JiclI5TnI4SDlHN0c5SU5ucG90dW82cXFwM2VFZHJ3Y2JXQjBNcV9pdTI1VVRhZUcxT2ZYaUF4S2VvTDgyRS1Wd2pGRnFXbTllVnRQemlpOTNaY2I2aVktLVJTYmlHWHkycldMVVJTMW1fUWxNeGJtWU1zWVVxYThJTzN0cVdBRWZHVC1kMWFSek5Bd1ZWWlRQeFVlanNSZEE",
   "https://news.sky.com/story/one-man-dead-and-two-missing-after-fishing-vessel-goes-missing-off-scotland-13599156",
   "https://nypost.com/?post_type=article&p=41324011",
   "CBMizAFBVV95cUxPbWNJbU8xUXFUUnBwakxUbEtfTURTWFlZd2xIdVJoU3RkUW1aTTBYN0ZIVmozQ2lfUVBVd2IzYlJPQnJpWDZEcGo0REpSbms1LV9pS2doZzBwdlR2cm0wOEpMZkp0NUlTS1hpN2k2akFhek1FWW8xYkYzZzNZZmloOGFjcVFmbG9yd25VVHJiZThPcThEaTJsNjBxSXE5SV9mUFBkZ3E0NHlmSEU0RHZnU3hhRWN0NXZFTEliUVRxYXlNSjJFZzlDQkROSlM",
@@ -799,33 +795,13 @@
   "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#1",
   "https://nypost.com/?post_type=article&p=41603077",
   "https://www.foxnews.com/world/polish-president-turns-plane-around-after-coup-at-nations-top-court",
-  "https://news.sky.com/story/ebola-outbreak-kills-more-than-5000-people-in-democratic-republic-of-congo-13605990"
+  "https://news.sky.com/story/ebola-outbreak-kills-more-than-5000-people-in-democratic-republic-of-congo-13605990",
+  "https://nypost.com/?post_type=article&p=41600393",
+  "https://nypost.com/?post_type=article&p=41606085",
+  "https://nypost.com/?post_type=article&p=41607351",
+  "https://nypost.com/?post_type=article&p=41606060"
  ],
  "posts": [
-  {
-   "fp": "about congo countries ebola know other outbreak spread",
-   "title": "What to know about the Ebola outbreak that has spread from Congo to 4 other countries",
-   "source": "AP",
-   "at": "2026-10-22T06:08:35.903926+00:00"
-  },
-  {
-   "fp": "abbott battle faces greg hold keys race senate texas tough",
-   "title": "Greg Abbott may hold the keys to the Texas Senate race as he faces a tough battle of his own",
-   "source": "Washington Examiner",
-   "at": "2026-10-22T11:14:50.543597+00:00"
-  },
-  {
-   "fp": "backs bank barclays bearable boss budget healey indicates live politics taxes",
-   "title": "Barclays boss indicates bank taxes in budget \u2018bearable\u2019 and backs Healey \u2013 UK politics live",
-   "source": "Guardian World",
-   "at": "2026-10-22T11:14:53.866148+00:00"
-  },
-  {
-   "fp": "decadeslong formalize merger musk partnership spacex tesla",
-   "title": "Musk\u2019s Tesla-SpaceX Merger Would Formalize a Decadeslong Partnership",
-   "source": "WSJ",
-   "at": "2026-10-22T11:14:55.504092+00:00"
-  },
   {
    "fp": "alleged brotherhood michigan muslim race sayed senate shake ties",
    "title": "El-Sayed\u2019s alleged ties to Muslim Brotherhood shake up Michigan Senate race",
@@ -3201,13 +3177,33 @@
    "title": "Ebola outbreak kills more than 5,000 people in Democratic Republic of Congo",
    "source": "Sky News",
    "at": "2026-10-30T23:51:11.319457+00:00"
+  },
+  {
+   "fp": "approach bass biggest homelessness karen nithya promises raman regret reveals slams wildfire",
+   "title": "Karen Bass reveals her biggest wildfire regret, promises new approach to homelessness and slams Nithya Raman",
+   "source": "New York Post",
+   "at": "2026-10-31T03:35:27.024475+00:00"
+  },
+  {
+   "fp": "apartment battery bike death fire raising relatives sparked three toll tragic",
+   "title": "Three more relatives die from tragic NYC apartment fire sparked by e-bike battery \u2014 raising death toll to 4",
+   "source": "New York Post",
+   "at": "2026-10-31T03:35:28.742807+00:00"
+  },
+  {
+   "fp": "congress control dems hosts impeach regain shouldn trump view",
+   "title": "\u2018The View\u2019 co-hosts say Dems shouldn\u2019t impeach Trump if they regain control of Congress",
+   "source": "New York Post",
+   "at": "2026-10-31T03:35:30.393901+00:00"
+  },
+  {
+   "fp": "accused attack bass breaking hollywood karen latest mayor nithya raman twist",
+   "title": "Nithya Raman accused of breaking the law with Hollywood twist in latest attack on Mayor Karen Bass",
+   "source": "New York Post",
+   "at": "2026-10-31T03:35:32.230443+00:00"
   }
  ],
  "titles": [
-  "about congo countries ebola know other outbreak spread",
-  "abbott battle faces greg hold keys race senate texas tough",
-  "backs bank barclays bearable boss budget healey indicates live politics taxes",
-  "decadeslong formalize merger musk partnership spacex tesla",
   "alleged brotherhood michigan muslim race sayed senate shake ties",
   "abbott dead governor heat leads paxton poll race senate talarico texas",
   "attack consider elections iran israel merging post spacex tesla",
@@ -3603,6 +3599,10 @@
   "about alaska alleged ballot candidate denies knowing plot senate sullivans",
   "california county health hits mpox officials outbreak probe spread",
   "around coup court nation plane polish president turns",
-  "congo democratic ebola kills outbreak people republic"
+  "congo democratic ebola kills outbreak people republic",
+  "approach bass biggest homelessness karen nithya promises raman regret reveals slams wildfire",
+  "apartment battery bike death fire raising relatives sparked three toll tragic",
+  "congress control dems hosts impeach regain shouldn trump view",
+  "accused attack bass breaking hollywood karen latest mayor nithya raman twist"
  ]
 }
