@@ -1368,6 +1368,15 @@
    "expired": true,
    "posted_at": "2026-11-01T01:24:52+00:00",
    "expired_at": "2026-11-01T07:58:39+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.1b8f1299089746503ab5ce35be32f90b4a19ba1b.001.1",
+   "message_id": "1566587995140653179",
+   "event": "Severe Thunderstorm Warning",
+   "area": "Clark, NV",
+   "expired": false,
+   "posted_at": "2026-11-01T23:01:24+00:00",
+   "expired_at": null
   }
  ]
 }
