@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o#0",
-  "https://nypost.com/?post_type=article&p=41338354",
   "CBMisAFBVV95cUxPQVEyQ0hiX29iYjlBTHpCYl9kd1BBRWpCZmpFQzU5NTVtYU5UVGRVZDNPUTdLRTZTMExsa1o3bFYtQW1jRW5HS000MmZWVjhlckNmbUR6clhDTTQ5aGdnUnJreVJHbmVfbjRTX0M4WVBrUi0wNzVLdmIzQUVEX2lIc21kdDM0ajhFTVlpOW1tWFlzVXlMQlJ2WnJQd2xDUXZiNk9PSFhlSnllVE1FakdFRg",
   "CBMioAFBVV95cUxQamtya0FZUkVIMEc2RS1pWU1tSmtOUlhvQXdEeVR0YTNEektDdVBHVmtqRmtIZlZUVC1vREFBUFRIcTJ4X0tNZDJYczhUUzl0ajUtNDVVcm1lMEl1a01aQVRiMndtZUlQNUdWRHRYWjk3Z2hvZlJsaWE0ckcwcWlNck9HUmxMcUNZSnE0WW1vbXNseDlJeVlCM294SHNXX1Yx",
   "https://pagesix.com/?post_type=article&p=9243382",
@@ -799,21 +797,11 @@
   "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#0",
   "CBMilwFBVV95cUxQaWQyb3A3TTFYN3ZpbXJJbGJHVlVVblhqMUtpZnFGLWV2dGNmank3TmRSOG9QMlZwRnpqXzRsbkRUQ2lGRElZcVBwNDFZQ3o0alhVVVlWX3dUSFp6eHl0Q1MxUk9KLXJIbkxfWGJLSDc4dGVpamM5UGxUaGM2YVJ1OVlrRzB5Y0p6RlFkV0xlanBvUTBxLW9F",
   "CBMiuAFBVV95cUxPN2F4SnlZRldnd1pER2ZKamRuQ1prZXlhWmdITjNlWURUV1d6b2k1Sm1aTDVVYjRPSi01NFZhTzVUUm1CZEQtZXJsbFBOSDNnWEV5SnhIT3RtemZQaE9HWERJR0h6MWdZbXVnWmxYZUpOaWhlSWhXVV9FMksxNXNDNnBZQXpRV1g1ZkswaUpMQ3E3aE9xZkRyNEVKT1dfeEtwajdpeTI5ZUpXOVl1YWp1UnU5clJmYUZI",
-  "CBMirgFBVV95cUxQRV9KLUhEZ0cwNXhZaFZjbnNSVFdwZW5WdHp0NFZhYUtSNnpaNUVwd3h3TVd5eVBMNHIyNlBoRjFpeUMtaEtVTEYzcU5WMl9VTTZLY0xrYW5PRkNoc05sdU5QRHBCVUVXb0YyQ1ZUangwTHZLUWloaWRuOVVOLWVxbjh5UHhWZk5JTUtsRFY2MEFEV1pmT0J6UDNFWHNDQ3V2WVplcjA1UUo5S2NYalE"
+  "CBMirgFBVV95cUxQRV9KLUhEZ0cwNXhZaFZjbnNSVFdwZW5WdHp0NFZhYUtSNnpaNUVwd3h3TVd5eVBMNHIyNlBoRjFpeUMtaEtVTEYzcU5WMl9VTTZLY0xrYW5PRkNoc05sdU5QRHBCVUVXb0YyQ1ZUangwTHZLUWloaWRuOVVOLWVxbjh5UHhWZk5JTUtsRFY2MEFEV1pmT0J6UDNFWHNDQ3V2WVplcjA1UUo5S2NYalE",
+  "CBMiwgFBVV95cUxQbmo4WVM3RVhVSFMyTlMxZkl0WDlxRWgwRTBWbG5WT0dMNFFtakFvbWJHT2cxMmF4NXdlTlcwdmRiOWV5eHFoRmx1WHpSTXNSQmlVekdlSFRhajlLOWwyQ3NhRUtqZjUyWVJZY2VXTVFnMzR4dGZCdEloTEJ6M2x4VHlmRW1LdkREQVRMcU1WNG9IZ2k3WFVHTjFuSlN4SHo0a19rcWptQ2x5WnpjVVVwTTFiRjJSWGEyMDZSVUgzNkhDZw",
+  "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
  ],
  "posts": [
-  {
-   "fp": "amazon battle brazil election podcast",
-   "title": "Brazil\u2019s election and the battle for the Amazon \u2013 podcast",
-   "source": "Guardian World",
-   "at": "2026-10-23T03:36:16.297628+00:00"
-  },
-  {
-   "fp": "cases coast earlier encourage experts health rise usual vaccine west",
-   "title": "Flu cases rise on west coast earlier than usual as US health experts encourage vaccine",
-   "source": "Guardian World",
-   "at": "2026-10-23T03:36:17.969741+00:00"
-  },
   {
    "fp": "blanche block certification doomsday election scenario",
    "title": "Blanche: DOJ could block election certification in 'doomsday scenario'",
@@ -3201,11 +3189,21 @@
    "title": "FBI visits Dan J. Sullivan donor in candidate\u2019s hometown as Alaska Senate inquiry widens",
    "source": "AP",
    "at": "2026-11-01T04:40:19.580415+00:00"
+  },
+  {
+   "fp": "behind biggest breaking crypto cyber heist nightmare record scenes",
+   "title": "Behind the Scenes of Crypto\u2019s Biggest Nightmare: a Record-Breaking Cyber Heist",
+   "source": "WSJ",
+   "at": "2026-11-01T08:31:26.501827+00:00"
+  },
+  {
+   "fp": "attack behind binance covered hack korea losses north",
+   "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+   "source": "Guardian World",
+   "at": "2026-11-01T08:31:28.256291+00:00"
   }
  ],
  "titles": [
-  "amazon battle brazil election podcast",
-  "cases coast earlier encourage experts health rise usual vaccine west",
   "blanche block certification doomsday election scenario",
   "13bn businesses collapse hmrc labour under writes",
   "admitting chief davies inappropriate military relationship resigns tony zealand",
@@ -3603,6 +3601,8 @@
   "chief election hold india mega opposition rally resignation seeking",
   "blues britain budget defense opinion",
   "administration ahead battle election harden lines states trump",
-  "alaska candidate donor hometown inquiry senate sullivan visits widens"
+  "alaska candidate donor hometown inquiry senate sullivan visits widens",
+  "behind biggest breaking crypto cyber heist nightmare record scenes",
+  "attack behind binance covered hack korea losses north"
  ]
 }
