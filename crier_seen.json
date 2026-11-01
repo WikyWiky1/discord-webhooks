@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41336173",
-  "https://nypost.com/?post_type=article&p=41336198",
-  "https://www.theguardian.com/us-news/2026/oct/14/great-wolf-lodge-woman-allegedly-kills-husband-son",
   "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o#0",
   "https://nypost.com/?post_type=article&p=41338354",
   "CBMisAFBVV95cUxPQVEyQ0hiX29iYjlBTHpCYl9kd1BBRWpCZmpFQzU5NTVtYU5UVGRVZDNPUTdLRTZTMExsa1o3bFYtQW1jRW5HS000MmZWVjhlckNmbUR6clhDTTQ5aGdnUnJreVJHbmVfbjRTX0M4WVBrUi0wNzVLdmIzQUVEX2lIc21kdDM0ajhFTVlpOW1tWFlzVXlMQlJ2WnJQd2xDUXZiNk9PSFhlSnllVE1FakdFRg",
@@ -799,27 +796,12 @@
   "https://www.washingtonexaminer.com/?p=4787142",
   "https://nypost.com/?post_type=article&p=41611122",
   "CBMitwFBVV95cUxPRkdQUUgzVUh1N1F4MWQyX2hDR2sweTZiMTBlOVBtemRaeXRuUDdrMEI2emRkSFM3aXRteVJFdWFQR3J2cWhUeUt6RHZhb2l1em5ZRm1YVF9nWnpyekZCM2NZYXlHeWlVVXZpbDYtN3hPWWRYbTlFVzU1bFR4dnprU0VEcUU1Um90LXBMUzlpREF2aXhXa0NKZHR1NWREUXA0UExSUUdnWG51S2dFTDNzaVBnMGFpUHc",
-  "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#0"
+  "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#0",
+  "CBMilwFBVV95cUxQaWQyb3A3TTFYN3ZpbXJJbGJHVlVVblhqMUtpZnFGLWV2dGNmank3TmRSOG9QMlZwRnpqXzRsbkRUQ2lGRElZcVBwNDFZQ3o0alhVVVlWX3dUSFp6eHl0Q1MxUk9KLXJIbkxfWGJLSDc4dGVpamM5UGxUaGM2YVJ1OVlrRzB5Y0p6RlFkV0xlanBvUTBxLW9F",
+  "CBMiuAFBVV95cUxPN2F4SnlZRldnd1pER2ZKamRuQ1prZXlhWmdITjNlWURUV1d6b2k1Sm1aTDVVYjRPSi01NFZhTzVUUm1CZEQtZXJsbFBOSDNnWEV5SnhIT3RtemZQaE9HWERJR0h6MWdZbXVnWmxYZUpOaWhlSWhXVV9FMksxNXNDNnBZQXpRV1g1ZkswaUpMQ3E3aE9xZkRyNEVKT1dfeEtwajdpeTI5ZUpXOVl1YWp1UnU5clJmYUZI",
+  "CBMirgFBVV95cUxQRV9KLUhEZ0cwNXhZaFZjbnNSVFdwZW5WdHp0NFZhYUtSNnpaNUVwd3h3TVd5eVBMNHIyNlBoRjFpeUMtaEtVTEYzcU5WMl9VTTZLY0xrYW5PRkNoc05sdU5QRHBCVUVXb0YyQ1ZUangwTHZLUWloaWRuOVVOLWVxbjh5UHhWZk5JTUtsRFY2MEFEV1pmT0J6UDNFWHNDQ3V2WVplcjA1UUo5S2NYalE"
  ],
  "posts": [
-  {
-   "fp": "china collapses earthquake homes hundreds kills least people powerful tibet",
-   "title": "Powerful earthquake in China\u2019s Tibet collapses hundreds of homes and kills at least 16 people",
-   "source": "AP",
-   "at": "2026-10-23T01:52:14.404729+00:00"
-  },
-  {
-   "fp": "army base canadian deadly fire grenade live military sparked training",
-   "title": "Live grenade training sparked deadly fire at Canadian military base, army says",
-   "source": "Washington Examiner",
-   "at": "2026-10-23T01:52:16.579140+00:00"
-  },
-  {
-   "fp": "fatal mississippi officer police releases shooting showing video year",
-   "title": "Mississippi releases video showing fatal shooting of 1-year-old boy by police officer",
-   "source": "AP",
-   "at": "2026-10-23T01:52:18.454309+00:00"
-  },
   {
    "fp": "amazon battle brazil election podcast",
    "title": "Brazil\u2019s election and the battle for the Amazon \u2013 podcast",
@@ -3201,12 +3183,27 @@
    "title": "India's opposition set to hold mega rally seeking election chief's resignation",
    "source": "BBC World",
    "at": "2026-11-01T01:44:43.480120+00:00"
+  },
+  {
+   "fp": "blues britain budget defense opinion",
+   "title": "Opinion | Britain\u2019s Defense Budget Blues",
+   "source": "WSJ",
+   "at": "2026-11-01T04:40:15.690003+00:00"
+  },
+  {
+   "fp": "administration ahead battle election harden lines states trump",
+   "title": "Trump Administration, States Harden Battle Lines Ahead of Election Day",
+   "source": "WSJ",
+   "at": "2026-11-01T04:40:17.707173+00:00"
+  },
+  {
+   "fp": "alaska candidate donor hometown inquiry senate sullivan visits widens",
+   "title": "FBI visits Dan J. Sullivan donor in candidate\u2019s hometown as Alaska Senate inquiry widens",
+   "source": "AP",
+   "at": "2026-11-01T04:40:19.580415+00:00"
   }
  ],
  "titles": [
-  "china collapses earthquake homes hundreds kills least people powerful tibet",
-  "army base canadian deadly fire grenade live military sparked training",
-  "fatal mississippi officer police releases shooting showing video year",
   "amazon battle brazil election podcast",
   "cases coast earlier encourage experts health rise usual vaccine west",
   "blanche block certification doomsday election scenario",
@@ -3603,6 +3600,9 @@
   "americans election last midterm months poll socialism turn",
   "arrive evacuated hundreds land occupied oleshky russian safe town ukrainian",
   "dead demand fair families mourn prison salvadoran trials",
-  "chief election hold india mega opposition rally resignation seeking"
+  "chief election hold india mega opposition rally resignation seeking",
+  "blues britain budget defense opinion",
+  "administration ahead battle election harden lines states trump",
+  "alaska candidate donor hometown inquiry senate sullivan visits widens"
  ]
 }
