@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMitAFBVV95cUxQZDh1RnYtQmd3b0ZLYjh6dVd0cllieVhyUkpCbHB3SjdLMFc0N3FKOFVDbm1ISVhGNVVnY3ktVUVxcmszWjZacjJ5TkNLWVkyOHJpQTUzaEg5M0RsdXBvRXBqaWlWVFdHSU8wSGRWdi1kMkVmaGZjSVVEZWIzQnI3U21vTHBzS3VzRE5qckVzOVg4NXcwR1JpTDMyT083cTRYb1NWWWFIY1ZUd3h6MklfamVTNEw",
-  "https://thehill.com/?p=6148426",
   "https://nypost.com/?post_type=article&p=41336173",
   "https://nypost.com/?post_type=article&p=41336198",
   "https://www.theguardian.com/us-news/2026/oct/14/great-wolf-lodge-woman-allegedly-kills-husband-son",
@@ -799,21 +797,11 @@
   "CBMirgFBVV95cUxPZ2dXRjY0R0EzUzFSNXBrYmRsZGJFdXEzTEtvZHFJYmFwUEVoNndYRzVGWkRyTVlOcHN6LUZFYThjRFFkVDVjZTFYdlRfekxWTE13VTZYRnF4RXlvdmJtQkMzOFViVElDWVdqdW5tXzlCZ0tCSjBZR2dReVlCbVVWZ3NxMGFaNUJydXpoYUFRZVZqRjV2QkJhZE5YeExkZ1AzYUdaUnJ3bmtJRVRmRFE",
   "CBMiugFBVV95cUxOZk1TVThad3BBcnFwSU44RFlBSjU5NWNaOUxuTEFVQnp2c0tjU3h2Qmc3eUh1RWZGZVpnenlXRk5jcXczZmVhUENIcm53dFBPVm1pQnZxdDhGbmRRRHBXaTdBeHlaRjl3X05USjI3X1ViamRPX19Lc0ZrendnN2N0allNR0tLekhuM0ZCZFpmeWJROTdYY0YtbkdoZ2VEXzFiMlBIRzkwUUpxNXFPdFJERTNxRzNLMzZRUWc",
   "https://www.washingtonexaminer.com/?p=4787142",
-  "https://nypost.com/?post_type=article&p=41611122"
+  "https://nypost.com/?post_type=article&p=41611122",
+  "CBMitwFBVV95cUxPRkdQUUgzVUh1N1F4MWQyX2hDR2sweTZiMTBlOVBtemRaeXRuUDdrMEI2emRkSFM3aXRteVJFdWFQR3J2cWhUeUt6RHZhb2l1em5ZRm1YVF9nWnpyekZCM2NZYXlHeWlVVXZpbDYtN3hPWWRYbTlFVzU1bFR4dnprU0VEcUU1Um90LXBMUzlpREF2aXhXa0NKZHR1NWREUXA0UExSUUdnWG51S2dFTDNzaVBnMGFpUHc",
+  "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#0"
  ],
  "posts": [
-  {
-   "fp": "administration leader maha resigns",
-   "title": "MAHA leader resigns from administration",
-   "source": "The Hill",
-   "at": "2026-10-22T23:33:13.420229+00:00"
-  },
-  {
-   "fp": "attack came deploys find forces haiti help missing salvador soldiers special under",
-   "title": "El Salvador deploys special forces to Haiti to help find 4 missing soldiers who came under attack",
-   "source": "AP",
-   "at": "2026-10-23T01:52:12.695185+00:00"
-  },
   {
    "fp": "china collapses earthquake homes hundreds kills least people powerful tibet",
    "title": "Powerful earthquake in China\u2019s Tibet collapses hundreds of homes and kills at least 16 people",
@@ -3201,11 +3189,21 @@
    "title": "Hundreds evacuated from Russian-occupied town of Oleshky arrive in safe Ukrainian land",
    "source": "New York Post",
    "at": "2026-10-31T22:47:26.620407+00:00"
+  },
+  {
+   "fp": "dead demand fair families mourn prison salvadoran trials",
+   "title": "Salvadoran families demand fair trials, mourn prison dead on Day of the Dead",
+   "source": "Reuters",
+   "at": "2026-11-01T01:44:41.770006+00:00"
+  },
+  {
+   "fp": "chief election hold india mega opposition rally resignation seeking",
+   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+   "source": "BBC World",
+   "at": "2026-11-01T01:44:43.480120+00:00"
   }
  ],
  "titles": [
-  "administration leader maha resigns",
-  "attack came deploys find forces haiti help missing salvador soldiers special under",
   "china collapses earthquake homes hundreds kills least people powerful tibet",
   "army base canadian deadly fire grenade live military sparked training",
   "fatal mississippi officer police releases shooting showing video year",
@@ -3603,6 +3601,8 @@
   "birthday dismissed epstein journal lawsuit letter prejudice street trump wall",
   "away candidate democratic rival sayed senate source stay wants",
   "americans election last midterm months poll socialism turn",
-  "arrive evacuated hundreds land occupied oleshky russian safe town ukrainian"
+  "arrive evacuated hundreds land occupied oleshky russian safe town ukrainian",
+  "dead demand fair families mourn prison salvadoran trials",
+  "chief election hold india mega opposition rally resignation seeking"
  ]
 }
