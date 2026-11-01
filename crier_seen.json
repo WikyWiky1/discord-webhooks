@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMitwFBVV95cUxNM3RRM0NxQnF4QURwYWR2RG9xMWxUTFl6Q0RuYlRYUmhhX25GZFJDdzBMaXhsWVJoUDRCTTY5TkdDTWpNN0V3Mjg0MkpaUmdnaUZWVmxhZ2ZXWWQ0b1ZFZ29BelpiNGl4ZUFvdVZjWkp3eVpBeEVjeDdnN0VIZF9YWFVScnBaaHFDTHVMOFZvUDJ0S0RTcXpQMFRfcDBkcFFNeW5XR0ZFbS01Zkp6TDN1bzZhOUVEa00",
-  "https://www.washingtonexaminer.com/?p=4767117",
   "https://thehill.com/?p=6151217",
   "CBMinAFBVV95cUxOZTRob0s4X3hCYkZQZzFfeUxuU1ZlN0tPT2hvelcwcW9QdU9yeVN1ZUZfR253ZUNoN3NjUlRHbG9aS0wzMmVGLUpNOVcyTUlHOWo3WERDX1psTXlmWGthb0JPN19GMGxnT2pkYkRWQ0R1THEyODhoWnZTd1NIQjdZbm5fLXNYb0M2c1g2YU02TENSSi1xSFZMQzRuUTc",
   "CBMivwFBVV95cUxPdjdXQjZTSnNCWmdZVmw4Mk5ydFlXRV9tbFltdkVId3l4TDR6YWw0RGFicmlQQU9EM0l3YXlzR3Z4eFY0WDlRa2RQa0o3UGN0TnFQdXBnME83enZWX2NlaEU4S2l6TU0wcXp0TnBvMWJPY3lVLVVBQTg0emE2OFNfWVdGOXU1ZDI4cnhCaHpaVUZYOU1QaGJ3UmtFYWtKQklmYTBMSlFoZ093YWtOVTF6RDNIenFlZGZKZnpZUnBqaw",
@@ -799,21 +797,11 @@
   "https://thehill.com/?p=6187032",
   "https://nypost.com/?post_type=article&p=41621283",
   "https://nypost.com/?post_type=article&p=41576800",
-  "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro#0"
+  "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro#0",
+  "https://www.bbc.co.uk/news/articles/c64g1y90p71eo#0",
+  "CBMijwFBVV95cUxObnJXRGdjT1JXQ0xtaFEwb2lQX2lZS3F4WkQ3QTVCbnFELUdaUmc4aWpQMzJKejJNNnE2aXJyR3QtWnZSWXgyYjB4b2ZzWmtwSzlaS2R0amkxdnJvNmFoUmstWXJ3VC1FLWJBLUtyc3BJZ1NHVFNzMXVsdUZyMTRlUi1tMHp2UWp3anhwS3ZOZw"
  ],
  "posts": [
-  {
-   "fp": "ballot buttigieg democrat endorses independent montana race senate still",
-   "title": "Buttigieg endorses independent in Montana Senate race with a Democrat still on the ballot",
-   "source": "The Hill",
-   "at": "2026-10-23T16:33:38.477308+00:00"
-  },
-  {
-   "fp": "agree brokered ceasefire city crisis food melania russia trump ukraine ukrainian",
-   "title": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump",
-   "source": "Reuters",
-   "at": "2026-10-23T17:16:55.880747+00:00"
-  },
   {
    "fp": "bayern coach collapsing hospital kompany taken training vincent",
    "title": "Bayern coach Vincent Kompany taken to hospital after collapsing at training",
@@ -3201,11 +3189,21 @@
    "title": "Armed police start patrols in Sydney after Bondi Beach attack",
    "source": "BBC World",
    "at": "2026-11-01T19:53:23.816122+00:00"
+  },
+  {
+   "fp": "ceasefire ends kherson power russian strikes thousands ukraine",
+   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+   "source": "BBC World",
+   "at": "2026-11-01T23:16:17.954604+00:00"
+  },
+  {
+   "fp": "crashes dead florida nine private",
+   "title": "Nine dead after private jet crashes in Florida",
+   "source": "Telegraph",
+   "at": "2026-11-01T23:16:19.656948+00:00"
   }
  ],
  "titles": [
-  "ballot buttigieg democrat endorses independent montana race senate still",
-  "agree brokered ceasefire city crisis food melania russia trump ukraine ukrainian",
   "bayern coach collapsing hospital kompany taken training vincent",
   "church dozens jordanian kills least mass seven shooting wounds",
   "killed mayor mississippi officer police resigned shot year",
@@ -3603,6 +3601,8 @@
   "endorsement resign rogers staff stevens",
   "dead hero jerry koosman mets miracle",
   "basketball breaking college eligibility ending mess never point reached",
-  "armed attack beach bondi patrols police start sydney"
+  "armed attack beach bondi patrols police start sydney",
+  "ceasefire ends kherson power russian strikes thousands ukraine",
+  "crashes dead florida nine private"
  ]
 }
