@@ -1365,9 +1365,9 @@
    "message_id": "1566261716189323416",
    "event": "Flash Flood Warning",
    "area": "Clark, NV",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-11-01T01:24:52+00:00",
-   "expired_at": null
+   "expired_at": "2026-11-01T07:58:39+00:00"
   }
  ]
 }
