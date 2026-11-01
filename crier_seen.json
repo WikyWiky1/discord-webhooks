@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41344782",
-  "https://pagesix.com/?post_type=article&p=9243809",
-  "CBMiogFBVV95cUxOYzR2R3ctV19YUFlJRy1QM3RoT0wyV2d1dTlfZHVEanNDcDFJMzZjM2Zyck45b3NMTktPWVVLYl9NUFBmZmRYRGw5YnI0Z3RLbDQ5MVZKck1PNF8yRTAtdlhFUWF5N0R5Z1psX0ZGN2k5ZUZ0RjFtWU9Sblg0MTZmbGxkcjFUeHlHdDd3em44UlY3cGRuUmdjOUtJQmstNFVCX3c",
-  "CBMiowFBVV95cUxPZlRmQVpQVHVNMDZxcHRENjNUVDllTWxDOVU2bjRoYzh4T0ZONnZiQXhyeWRsMTIwYTdUcVN5TzNrUy1ac1dudmVZVnQxUnhPbURQSnp6eDRiUjNPbTF1aEFnbXNrTW9mTm1IaS1tQS13UldpSkZjRDNKMm15SkRtdjVXbEM1UEVfWF90czZpNS1RZGo3MUV2b2FPUDNYOEpXNlRj",
   "CBMitwFBVV95cUxNM3RRM0NxQnF4QURwYWR2RG9xMWxUTFl6Q0RuYlRYUmhhX25GZFJDdzBMaXhsWVJoUDRCTTY5TkdDTWpNN0V3Mjg0MkpaUmdnaUZWVmxhZ2ZXWWQ0b1ZFZ29BelpiNGl4ZUFvdVZjWkp3eVpBeEVjeDdnN0VIZF9YWFVScnBaaHFDTHVMOFZvUDJ0S0RTcXpQMFRfcDBkcFFNeW5XR0ZFbS01Zkp6TDN1bzZhOUVEa00",
   "https://www.washingtonexaminer.com/?p=4767117",
   "https://thehill.com/?p=6151217",
@@ -799,33 +795,13 @@
   "https://www.bbc.co.uk/news/articles/c95ynzv88n68o#0",
   "https://www.washingtonexaminer.com/?p=4787398",
   "CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE",
-  "CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhLeXE2ZHFGalN2R0J2dw"
+  "CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhLeXE2ZHFGalN2R0J2dw",
+  "https://thehill.com/?p=6187032",
+  "https://nypost.com/?post_type=article&p=41621283",
+  "https://nypost.com/?post_type=article&p=41576800",
+  "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro#0"
  ],
  "posts": [
-  {
-   "fp": "congress democratic everything threatens trump veto",
-   "title": "Trump threatens to \u2018veto everything\u2019 during a Democratic Congress",
-   "source": "Washington Examiner",
-   "at": "2026-10-23T16:33:31.259451+00:00"
-  },
-  {
-   "fp": "biden charged congress employees hunter inquiries lying",
-   "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
-   "source": "NPR News",
-   "at": "2026-10-23T16:33:33.074508+00:00"
-  },
-  {
-   "fp": "attacks election increasingly large launch looms ohio personal races",
-   "title": "Ohio races launch increasingly personal attacks as Election Day looms large",
-   "source": "Washington Examiner",
-   "at": "2026-10-23T16:33:34.833820+00:00"
-  },
-  {
-   "fp": "administration alaska block certification loses race republican senate sues trump",
-   "title": "Trump administration sues to block Senate race certification in Alaska if Republican loses",
-   "source": "Reuters",
-   "at": "2026-10-23T16:33:36.710248+00:00"
-  },
   {
    "fp": "ballot buttigieg democrat endorses independent montana race senate still",
    "title": "Buttigieg endorses independent in Montana Senate race with a Democrat still on the ballot",
@@ -3201,13 +3177,33 @@
    "title": "Exit polls suggest that Yotova wins runoff to become Bulgaria\u2019s first elected female president",
    "source": "AP",
    "at": "2026-11-01T19:22:59.966837+00:00"
+  },
+  {
+   "fp": "endorsement resign rogers staff stevens",
+   "title": "Stevens staff resign over Rogers endorsement",
+   "source": "The Hill",
+   "at": "2026-11-01T19:53:18.125806+00:00"
+  },
+  {
+   "fp": "dead hero jerry koosman mets miracle",
+   "title": "Jerry Koosman, Miracle Mets hero, dead at 83",
+   "source": "New York Post",
+   "at": "2026-11-01T19:53:19.862654+00:00"
+  },
+  {
+   "fp": "basketball breaking college eligibility ending mess never point reached",
+   "title": "College basketball\u2019s never-ending eligibility mess has reached a breaking point",
+   "source": "New York Post",
+   "at": "2026-11-01T19:53:21.801228+00:00"
+  },
+  {
+   "fp": "armed attack beach bondi patrols police start sydney",
+   "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+   "source": "BBC World",
+   "at": "2026-11-01T19:53:23.816122+00:00"
   }
  ],
  "titles": [
-  "congress democratic everything threatens trump veto",
-  "biden charged congress employees hunter inquiries lying",
-  "attacks election increasingly large launch looms ohio personal races",
-  "administration alaska block certification loses race republican senate sues trump",
   "ballot buttigieg democrat endorses independent montana race senate still",
   "agree brokered ceasefire city crisis food melania russia trump ukraine ukrainian",
   "bayern coach collapsing hospital kompany taken training vincent",
@@ -3603,6 +3599,10 @@
   "candidate democrat endorses escalates michigan party race republican senate spat",
   "alaska delay dismisses judge loses republican results senate",
   "alaska dismisses election judge lawsuit trump",
-  "become bulgaria elected exit female polls president runoff suggest wins yotova"
+  "become bulgaria elected exit female polls president runoff suggest wins yotova",
+  "endorsement resign rogers staff stevens",
+  "dead hero jerry koosman mets miracle",
+  "basketball breaking college eligibility ending mess never point reached",
+  "armed attack beach bondi patrols police start sydney"
  ]
 }
