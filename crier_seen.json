@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo#0",
-  "CBMisAFBVV95cUxNOC04U2ViZ2xJWTZ6YTJkbVBMUkx2c3M1V0M4aXl1Z2VXVGs3NlVfSFlhRWtVVHVtSlRqdEVPQ2poQkhhNV8xN1NXbGUzbS0ybl9jaDljM3BSTEhrN3ZCa2hIZW1seTUzREdhRWtCTXN4V3ZsWDhlNUNTTFdGeGV3NzRrQU43Z1hMZmE5dzU1R2xDRnVJVENFRm1DMjlOWnRLalI2Y01obkM0aWoydlNYSg",
-  "CBMingFBVV95cUxOMF9MLUljekdzUXdSRXRWbjlkaGpBWjZNaHpIQmZKblFjOGdtbVZRbjFFMzd4enNhMENwZV9qeE1uSTV3eTdvTVJCNURXLXZwUVUtMTJWN3pXbFBRd2RRdFcxYjN6Q2ZyWGpJdUV2aXpXZWVvUHB1XzJoS2VjdGpGNTUzZnF2UnVNRG15NnNTOEQ3S1phTTFKT01lQnUyQQ",
-  "CBMilgFBVV95cUxOOWhsa2ZhTGZKbFhXckYzcXZGbDZoeUxRZXZlbEtSU1ZkOHZndkpDSWdqQUZZTmJDdHNHUlFHSXlRRm1zVUNKVFlXVEFSNW50Qk9vR29MazU0a3laNlJUR1ZBMlFlUGlWTl9VSk9CSnRUQTZvWV9INUNOLXdOeUtBdGpWaGo0YzNSeVVlMDlZQlRLQzV3TEE",
-  "https://nypost.com/?post_type=article&p=41353870",
   "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
   "https://thehill.com/?p=6151776",
   "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
@@ -799,39 +794,14 @@
   "https://nypost.com/?post_type=article&p=41623826",
   "CBMipAFBVV95cUxNX25oMDRRRDJqMHNnaHhUVm1udmtmTTZHUWtkclpsMjZocGtnSFpZVDYzMzRoMWlMOHY3ZkRzajRuWVB0UFdYak5qVHczMGR6UDFhTVBKR0dkSGhXVVY0bUItZ2plcS1FS3pTbXpOd2FYVFRISWtzVlBMZk9kQUx4VWFPNmY5U3NrNTA3THFFb0VhOUhFWGtpaUdkNmZBcTZhcGs2bA",
   "CBMi0AFBVV95cUxQU3ZYY3ZYdTVpNEJOdnk4a2xCTmVRM2xlempwRWFSNm14Y0JpRWx0WjExUTM4eHFpU3BDOTdiNFdwelp0Z2RXNHdRT19mOVBpem5sNGs3SVhJeEljajNERHhRSHVLNVJRcWRCS1pxQVQ0RjBGS3BYZ09IWEo1R29EUGowcHpNU0FjN1JabHRqZU9NNXdtVW1ocXdzYnI4NGRLbVJpSzlRYTJSUnZMSC1GM2NKLUFSNUNPU2ItSklLNU9pWmE0T29Rc0dDazhlbFhw",
-  "https://nypost.com/?post_type=article&p=41622612"
+  "https://nypost.com/?post_type=article&p=41622612",
+  "https://thehill.com/?p=6187619",
+  "CBMiuAFBVV95cUxNNDh4NktGVGxZOF80aEhPdnUtRmdDb0VFOWxTSEh4NTNkRFlyTTdzUWkwd3lfenZ4cVp3bFptRE5qVGloSU00OGs4SldjZHlvZjBLNVp0allfNE1KZmU3dGpoQ3pxNElSa1JpLXgzZzA1NkFJMExnVktzVzdDLUFSNUhrVFJORVMzS1VtMjZqZ0NpRnNnakFIem9wbG9rMmpoNEJaMHNwcFZwVk8wWVI4dUZ1dVg0bVdT",
+  "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
+  "CBMiygFBVV95cUxNRWlldndLdklSWDlnQjF3TFRqT0toSUlZUE1yQmNTem9aTDd0OE9WWlk1cy00aWpGYTFaWXdkLURmTkRMbUZOTWFxRFdZeUJfWTZMdlJUdHQ4MVcxb194VThjaFprTmk3NWNFWlFtX3VZS0NCV1FaM0RLaUNqcHl5SHRHUHZmQXFyWU5OV3hnUW0tNVlVSTRNUjAwTUYxMmZjM1dNc0RPc1VSaF9rd21BZy1zOEhHZ21NQkpxbC1WMHlGQVRocEE3NU9n",
+  "CBMiogFBVV95cUxOdTJzekVZRGJFUi1WWHVYN0hHZjdkbTlLblBuZHZfTkVlY1lMSW8yOVNRVklsNEk1NnlVTGpXc2h2Z1pCTHE3QlNSNjRVbWF5QmlFclIyVkllaXdrSE16OEp1REVSOThNcTJPOWZXVloxNGhIQjNRQW1iRjk2NVR5S081OWEtdlhmeHdyckYxeEl5VEg1eVpVSHRfeUVUQTBBSVE"
  ],
  "posts": [
-  {
-   "fp": "also attack bank dead gunmen israeli killed left military soldiers west",
-   "title": "Israeli military says 2 soldiers were killed in West Bank attack that also left 2 gunmen dead",
-   "source": "AP",
-   "at": "2026-10-23T17:17:08.361237+00:00"
-  },
-  {
-   "fp": "ceasefire city deal forge helps house melania occupied russian trump ukrainian white",
-   "title": "Melania Trump helps forge a ceasefire deal in a Russian-occupied Ukrainian city, White House says",
-   "source": "AP",
-   "at": "2026-10-23T17:17:10.067804+00:00"
-  },
-  {
-   "fp": "alum anika challenge dead rashaun real world",
-   "title": "\u2018The Challenge\u2019 and \u2018Real World\u2019 alum Anika Rashaun dead at 34",
-   "source": "New York Post",
-   "at": "2026-10-23T17:17:11.818609+00:00"
-  },
-  {
-   "fp": "church dead funeral gunmen jordan officials seven shot",
-   "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-   "source": "BBC World",
-   "at": "2026-10-23T17:17:13.588713+00:00"
-  },
-  {
-   "fp": "black cargo coast dead drone missing romania russian sailor ship strikes",
-   "title": "1 sailor dead and 3 missing after Russian drone strikes cargo ship in Black Sea off coast of Romania",
-   "source": "New York Post",
-   "at": "2026-10-23T17:17:15.559591+00:00"
-  },
   {
    "fp": "black force killed mississippi officer police resigns shot toddler",
    "title": "Officer who shot and killed Black toddler in Mississippi resigns from police force",
@@ -3201,14 +3171,39 @@
    "title": "Hochul stumps with Mamdani and AOC during Buffalo Bills NYC watch party ahead of election",
    "source": "New York Post",
    "at": "2026-11-02T00:17:53.739640+00:00"
+  },
+  {
+   "fp": "democrat election haven lightly newsom possible tsunami used word",
+   "title": "Newsom on possible Democrat 'tsunami' on Election Day: 'That's a word I haven't used lightly'",
+   "source": "The Hill",
+   "at": "2026-11-02T02:33:59.529173+00:00"
+  },
+  {
+   "fp": "colorado dire evacuations flash flooding southwest town triggers warning",
+   "title": "Flash flooding triggers evacuations in Southwest and dire warning for Colorado spa town",
+   "source": "AP",
+   "at": "2026-11-02T02:34:01.235513+00:00"
+  },
+  {
+   "fp": "authorities canada citizens crash dead japan spain train",
+   "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
+   "source": "Guardian World",
+   "at": "2026-11-02T02:34:03.020829+00:00"
+  },
+  {
+   "fp": "erdogan korea nuclear partner project reports sinop south turkey yonhap",
+   "title": "Erdogan says South Korea could partner in Turkey's Sinop nuclear project, Yonhap reports",
+   "source": "Reuters",
+   "at": "2026-11-02T02:34:04.777660+00:00"
+  },
+  {
+   "fp": "attack false hack nuclear russian sent suspected ukrainians warning",
+   "title": "Ukrainians sent false nuclear attack warning in suspected Russian hack",
+   "source": "Telegraph",
+   "at": "2026-11-02T02:34:06.483300+00:00"
   }
  ],
  "titles": [
-  "also attack bank dead gunmen israeli killed left military soldiers west",
-  "ceasefire city deal forge helps house melania occupied russian trump ukrainian white",
-  "alum anika challenge dead rashaun real world",
-  "church dead funeral gunmen jordan officials seven shot",
-  "black cargo coast dead drone missing romania russian sailor ship strikes",
   "black force killed mississippi officer police resigns shot toddler",
   "authorities church fire gunmen jordan killed open seven",
   "british hope only saving shooting wildlife",
@@ -3603,6 +3598,11 @@
   "ballots california district election error major officials school spot",
   "basf earnings full lifts outlook quarter strong third year",
   "booming commentary earnings growth india problem",
-  "ahead bills buffalo election hochul mamdani party stumps watch"
+  "ahead bills buffalo election hochul mamdani party stumps watch",
+  "democrat election haven lightly newsom possible tsunami used word",
+  "colorado dire evacuations flash flooding southwest town triggers warning",
+  "authorities canada citizens crash dead japan spain train",
+  "erdogan korea nuclear partner project reports sinop south turkey yonhap",
+  "attack false hack nuclear russian sent suspected ukrainians warning"
  ]
 }
