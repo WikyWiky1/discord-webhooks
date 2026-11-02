@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiqAFBVV95cUxNUm53TEZKeGNjZ21QOGcxMWJ6V0xQSExrNXN4dU9zY0l2dWVZLXR4THBGRXJOclp3aUNQcDhjRHVsOXdNY1hjSnhyc0NzTS1Da1ZEcW5MS19ON0JySE4wNkNDMHF0R2tDM1JsbnF5R05HbEhhYlRHX0ZoWGM5SUZDei1PMUFUSEx4OUFzV05VNWtuWVBMdE9QWnNlci1sQWJpQWVSN0xrVEc",
   "https://nypost.com/?post_type=article&p=41357444",
   "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
   "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo#1",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/us-news/2026/nov/02/investigators-florida-plane-crash",
   "CBMiugFBVV95cUxPcTJsVnE3eVE4T0Utbk5kRVBCb1dsT3ZrVjdDVmd5S3ZyczJkTVBvckZLejltX3pWeXVQaUQ5OXhOSlBpbThtOHlWZ2dZS3BOZXBNRXU2cHh0YjE2Yi1zZzJyY2pqWFRfVTZVZi1KcGw2RThBVVR2TmZwNEdhOEpLblZCUGtsUkd2YndfVTlQRU1UbksyQ2Z1a2RldGhMMWZrZGdRWmVTclhydlh6ZklYM1pfeE9lWUM2T1E",
   "https://www.bbc.co.uk/news/articles/cwx28mngxz8do#0",
-  "https://thehill.com/?p=6187927"
+  "https://thehill.com/?p=6187927",
+  "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone"
  ],
  "posts": [
-  {
-   "fp": "canadian certain collins exempt goods tariff",
-   "title": "Collins says certain Canadian goods now tariff-exempt",
-   "source": "The Hill",
-   "at": "2026-10-23T21:03:01.831039+00:00"
-  },
   {
    "fp": "ahead brazil count election midterms puts rapid security spotlight voting",
    "title": "Brazil\u2019s rapid election count puts spotlight on voting security ahead of US midterms",
@@ -3201,10 +3195,15 @@
    "title": "Don't kill license plate readers: Instead, have Congress rewrite the rules",
    "source": "The Hill",
    "at": "2026-11-02T19:55:20.437930+00:00"
+  },
+  {
+   "fp": "115m blood bone cells dinosaur fossilised found scientists year",
+   "title": "Fossilised red blood cells found in 115m-year-old dinosaur\u2019s bone, say scientists",
+   "source": "Guardian World",
+   "at": "2026-11-02T20:41:41.574389+00:00"
   }
  ],
  "titles": [
-  "canadian certain collins exempt goods tariff",
   "ahead brazil count election midterms puts rapid security spotlight voting",
   "about biden charged congress hunter lying officials probes",
   "effect just russia sanctions takes trump waives",
@@ -3603,6 +3602,7 @@
   "crash deadly florida named nine pilot plane victims young",
   "bombing emergency kills russian services southeastern ukraine village",
   "fake hacked nuclear panic sparks ukraine unease warning",
-  "congress instead kill license plate readers rewrite rules"
+  "congress instead kill license plate readers rewrite rules",
+  "115m blood bone cells dinosaur fossilised found scientists year"
  ]
 }
