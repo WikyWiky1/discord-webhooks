@@ -1383,8 +1383,17 @@
    "message_id": "1566903858557493279",
    "event": "Tornado Watch",
    "area": "Barton, KS; Butler, KS; Chase, KS; Cowley, KS; Ellsworth, KS; Harper, KS; Harvey, KS; Kingman, KS; Lincoln, KS; McPherson, KS; Marion, KS; Reno, KS; Rice, KS; Russell, KS; Saline, KS; Sedgwick, KS; Sumner, KS",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-11-02T19:56:31+00:00",
+   "expired_at": "2026-11-03T02:10:39+00:00"
+  },
+  {
+   "id": "urn:oid:2.49.0.1.840.0.cea71cd97b0b77b13fc3c8c0c8f63f9a095fc186.002.1",
+   "message_id": "1566998004164993025",
+   "event": "Tornado Watch",
+   "area": "Butler, KS; Chase, KS; Cowley, KS; Harvey, KS; Marion, KS; Sedgwick, KS; Sumner, KS",
+   "expired": false,
+   "posted_at": "2026-11-03T02:10:37+00:00",
    "expired_at": null
   }
  ]
