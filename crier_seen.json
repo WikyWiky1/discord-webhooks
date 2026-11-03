@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6152592",
-  "https://www.washingtonexaminer.com/?p=4768372",
   "CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ",
   "https://thehill.com/?p=6152820",
   "CBMiowFBVV95cUxQeTBDaTNrT3dxSVdGUWtqMS1lLUFyZGt3SDRrWnAxc1JUdTEzaUhvOFRBMWt2UGdZWW9PMEY3cmc3WVRXaWEyekVyWkR3WEJtbjdsM01JLVdkSEloNm9hSUkxalpwUVdMcHpScEhzcTYxRkZINzdHYW81X0R4cGFYeVctNlNGWXdnNGhPa3FpYU9CU2JnamIyb091a1A3MlZzSGZB",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
   "https://www.washingtonexaminer.com/?p=4787696",
   "https://www.theguardian.com/us-news/2026/nov/02/trump-reflecting-pool-renovation-midterms",
-  "CBMikwFBVV95cUxOaDlrREZMVWhaZHpFLWxtM3lWLUdPbUg5WUNxSV9sUFVRX2dxdGlzOFhISjk1c0FqNFEyVkJoM0lNYURGYXVMaWhYVDYzV2M1SzRoSHd0b0lBaThtVm1mSkxiVHJnVjhsYkdDMjRzMXljSjNqdDR3d2xZdTAzZkR4YWV2eGpQOG9ZcFpoYTdzZ2lTVVk"
+  "CBMikwFBVV95cUxOaDlrREZMVWhaZHpFLWxtM3lWLUdPbUg5WUNxSV9sUFVRX2dxdGlzOFhISjk1c0FqNFEyVkJoM0lNYURGYXVMaWhYVDYzV2M1SzRoSHd0b0lBaThtVm1mSkxiVHJnVjhsYkdDMjRzMXljSjNqdDR3d2xZdTAzZkR4YWV2eGpQOG9ZcFpoYTdzZ2lTVVk",
+  "https://news.sky.com/story/ai-highly-likely-to-be-used-in-attack-on-britains-infrastructure-ncsc-warns-13607264",
+  "CBMizgFBVV95cUxQTjFmQ0ExbUxlWldEekp5T3NVZUc2Mm92VzBUdzJBUUtGVHJjVEhzRmRPSXJTaW1SdFJRTDd0SDNhWGxfc0VJOXJSSFBzX1NfWTVYU2I4Xy1Xa1FPajdrOWVMOHhMeVF2cFlvRGhReXZnOHdRLWxkTGQzV2d5MjBRNkFzZmNick93VXZIdXJSbTk4OWNadkFkUW41RjJCME9FdlZ5ZGFMV0NMM2FuQnRTSmNGcktqR0pNNnZsRl9zTmpMbGZ1T1NiZ2MyLW9Qdw"
  ],
  "posts": [
-  {
-   "fp": "convicted killed murder officer ohio police running",
-   "title": "Ohio man convicted of murder for running over officer after police killed his son",
-   "source": "Guardian World",
-   "at": "2026-10-23T23:26:53.857658+00:00"
-  },
-  {
-   "fp": "attack deadly paris racist shooting suspected terrorist",
-   "title": "Deadly Paris shooting suspected to be \u2018racist terrorist attack\u2019",
-   "source": "Washington Examiner",
-   "at": "2026-10-23T23:26:55.666679+00:00"
-  },
   {
    "fp": "devastating escaped face flames nightmare only survivors wildfire",
    "title": "LA wildfire survivors escaped the flames \u2014 only to face a devastating new nightmare",
@@ -3201,11 +3189,21 @@
    "title": "Trump spends the day before midterm Election Day promoting his Reflecting Pool makeover",
    "source": "AP",
    "at": "2026-11-02T21:26:57.004301+00:00"
+  },
+  {
+   "fp": "attack britain highly infrastructure likely used",
+   "title": "AI 'highly likely' to be used in attack on Britain's infrastructure",
+   "source": "Sky News",
+   "at": "2026-11-03T01:56:47.228233+00:00"
+  },
+  {
+   "fp": "attack critical expect infrastructure must powered report within years",
+   "title": "UK must expect AI-powered attack on critical infrastructure within two years, report says",
+   "source": "Reuters",
+   "at": "2026-11-03T01:56:48.940238+00:00"
   }
  ],
  "titles": [
-  "convicted killed murder officer ohio police running",
-  "attack deadly paris racist shooting suspected terrorist",
   "devastating escaped face flames nightmare only survivors wildfire",
   "alleged attack both condition days haines helen improves legs losing",
   "alaska department justice lawsuit ordered race senate trump",
@@ -3603,6 +3601,8 @@
   "climb construction democrats election focuses live midterm polls projects trump washington",
   "coin elections final midterm nine races scorecard senate stacking toss",
   "appeal final makeover midterms pool reflecting results trump unveils",
-  "election makeover midterm pool promoting reflecting spends trump"
+  "election makeover midterm pool promoting reflecting spends trump",
+  "attack britain highly infrastructure likely used",
+  "attack critical expect infrastructure must powered report within years"
  ]
 }
