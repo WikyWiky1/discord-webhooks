@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41360549",
-  "https://thehill.com/?p=6152919",
-  "https://nypost.com/?post_type=article&p=41358566",
-  "CBMipgFBVV95cUxPS09IdHhZNi1VNGlKY0VmT1lLSEpfOHdnV01UU3lWY19admVncUFHYlNvb1ZfbjFqbDhyZjVnLVpoNkpoZEQ2ZVR3QWpycUtLVFRWUDExM3dwMk1nZTRYRUpYanp6azNjNW1jSlliQWZWQVV2Z2tvTHZEbXlOWFI2RzN5SHhlMml1NTNiTzJEWDBEZDBoNlkyY053VnRhZkNPUGFHWi1n",
-  "https://news.sky.com/story/woman-killed-in-suspected-stabbing-identified-by-police-13599583",
-  "https://nypost.com/?post_type=article&p=41361855",
   "CBMiYkFVX3lxTE5MT0p4STc5TWpadUF0cEVJcnZ6VTJ5SUh2TUxadkpDalBHQ2ZuX2FNeVdvSXBIR1ZhSHdnOEQ4VzBwSFJ3ZGxHM2xwZVNrazhmaE9HOENFYWxGWVNGOGxDSmVB",
   "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
   "https://www.washingtonexaminer.com/?p=4768002",
@@ -799,45 +793,15 @@
   "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo#1",
   "CBMie0FVX3lxTFAxcWNjUUxuZ2lvM29QWUdBcWpkZGdCaUpLSkJRT3pXbzNUcTh6ajFTN0d1NmpHTlN6d2p0TlNfRElGZV9ZTnR2SHdabGNxQ3FqUkMtN2N1LXppRmlxNGRlTHozQ0YxY3BqNnNNRGtaYUppX1ZyMjJVdkhiYw",
   "https://news.sky.com/story/british-troops-will-be-allowed-to-fire-back-at-russian-forces-if-attacked-in-mission-13607272",
-  "https://nypost.com/?post_type=article&p=41646957"
+  "https://nypost.com/?post_type=article&p=41646957",
+  "https://www.washingtonexaminer.com/?p=4789114",
+  "https://www.washingtonexaminer.com/?p=4788027",
+  "CBMitgFBVV95cUxQdDVoalRRMUFiekR3Q0hia3NEVkJjb29JY2xhZEF1RE85ZWZia25IblNMdVE3WnY5c1A4ZDh3aTVlSXhTTDl6cWxxVk5uNmNaNUJSUlRUTUdTU0d3ZFo3WW4wdmpRQXZ4Sk9zTHpXdVBRV2VIQnpNMnBDR2JyTDNjd2w1V20xRXJEenJtRUZ4VXYyYTNwQ2ZWWEJMYWFoaThSeTM2MmktQ0JhMlBvOWh3dVFUZ0ZPdw",
+  "CBMirAFBVV95cUxPXzBTeXRWM3ktaW9LQUFHVVg5V2JZMWZ3OG5LaWUtNGpVMmN2bnQ4RTJmaWVVaGctdnJZTkFZeWdjbG9JUUE4NFdFalFyQ2tZRFotZERxRkJQcHVtS1lwUGhVc0xJZnVqYnF4ZllqcDJFUkJxcEd2QTF0RGFERW1oSkFENEV0V3VQMEFabVkwOHcwTV9lVWNRZ3JmbDVDOUQ5aGYwWTJUb0o5RGpK",
+  "https://nypost.com/?post_type=article&p=41637858",
+  "https://thehill.com/?p=6188261"
  ],
  "posts": [
-  {
-   "fp": "closes lower rocky street wall week",
-   "title": "Wall Street closes lower to end rocky week",
-   "source": "Reuters",
-   "at": "2026-10-24T03:30:11.558358+00:00"
-  },
-  {
-   "fp": "californians lawns lush steel stone trading warding wildfires",
-   "title": "Californians Are Warding Off Wildfires by Trading Lush Lawns for Stone and Steel",
-   "source": "WSJ",
-   "at": "2026-10-24T06:47:33.079404+00:00"
-  },
-  {
-   "fp": "collapse grizzlies late lose loss sleep warriors",
-   "title": "Warriors will \u2018lose sleep\u2019 over late collapse in loss to Grizzlies",
-   "source": "New York Post",
-   "at": "2026-10-24T06:47:34.814170+00:00"
-  },
-  {
-   "fp": "blue might minnesota miss race senate wave",
-   "title": "Why a blue wave might miss Minnesota's Senate race",
-   "source": "The Hill",
-   "at": "2026-10-24T10:22:51.350535+00:00"
-  },
-  {
-   "fp": "costs cuts earnings fuel outlook rising southwest",
-   "title": "Southwest Cuts Earnings Outlook Amid Rising Fuel Costs",
-   "source": "WSJ",
-   "at": "2026-10-24T10:22:53.700353+00:00"
-  },
-  {
-   "fp": "deepfake election opposition outrage spanish sparks video wife",
-   "title": "Opposition deepfake video of Spanish PM\u2019s wife sparks outrage before election",
-   "source": "Guardian World",
-   "at": "2026-10-24T10:22:55.451418+00:00"
-  },
   {
    "fp": "assailant attack church handgun jordan pointed survivor",
    "title": "Jordan church attack survivor says assailant pointed handgun at him",
@@ -3201,15 +3165,45 @@
    "title": "NYC Marathon runner Rachel Apa dies after collapsing in Central Park two miles from finish line",
    "source": "New York Post",
    "at": "2026-11-03T08:59:02.620602+00:00"
+  },
+  {
+   "fp": "announces deployment election monitors states time",
+   "title": "DOJ announces deployment of election monitors in all 50 states for first time",
+   "source": "Washington Examiner",
+   "at": "2026-11-03T13:42:40.443993+00:00"
+  },
+  {
+   "fp": "better looks polls republicans senate suggest",
+   "title": "The Senate map looks better for Republicans than the polls suggest",
+   "source": "Washington Examiner",
+   "at": "2026-11-03T13:42:42.195275+00:00"
+  },
+  {
+   "fp": "again dismisses journal judge lawsuit publisher street trump wall",
+   "title": "Judge Dismisses Trump\u2019s Lawsuit Against Wall Street Journal Publisher Again",
+   "source": "WSJ",
+   "at": "2026-11-03T13:42:44.065937+00:00"
+  },
+  {
+   "fp": "arrives congress election investors possible ready shake",
+   "title": "Investors ready for possible shake-up in Congress as Election Day arrives",
+   "source": "Reuters",
+   "at": "2026-11-03T13:42:45.936809+00:00"
+  },
+  {
+   "fp": "board budget california cuts daunting fights members political quitting school take toll",
+   "title": "California school board members are quitting as budget cuts, political fights take toll: \u2018daunting\u2019",
+   "source": "New York Post",
+   "at": "2026-11-03T13:42:47.681150+00:00"
+  },
+  {
+   "fp": "come days defend election ready vote",
+   "title": "On this Election Day, and in the days to come, get ready to defend your vote",
+   "source": "The Hill",
+   "at": "2026-11-03T13:42:49.422331+00:00"
   }
  ],
  "titles": [
-  "closes lower rocky street wall week",
-  "californians lawns lush steel stone trading warding wildfires",
-  "collapse grizzlies late lose loss sleep warriors",
-  "blue might minnesota miss race senate wave",
-  "costs cuts earnings fuel outlook rising southwest",
-  "deepfake election opposition outrage spanish sparks video wife",
   "assailant attack church handgun jordan pointed survivor",
   "arts attack fighter killed martial near paris racist suspected",
   "atlantic brighton collapses england famous part pier storms sweep",
@@ -3603,6 +3597,12 @@
   "africa deal remove rwanda south trade trump",
   "ahead asian midterms retreat steadies stocks",
   "allowed attacked british fire forces mission multinational russian troops",
-  "central collapsing dies finish line marathon miles park rachel runner"
+  "central collapsing dies finish line marathon miles park rachel runner",
+  "announces deployment election monitors states time",
+  "better looks polls republicans senate suggest",
+  "again dismisses journal judge lawsuit publisher street trump wall",
+  "arrives congress election investors possible ready shake",
+  "board budget california cuts daunting fights members political quitting school take toll",
+  "come days defend election ready vote"
  ]
 }
