@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo#0",
   "https://nypost.com/?post_type=article&p=41360549",
   "https://thehill.com/?p=6152919",
   "https://nypost.com/?post_type=article&p=41358566",
@@ -799,15 +798,10 @@
   "CBMiqwFBVV95cUxPcVNvY0lPbFp1SlNTR1BlbUstUy1iMUtZcGJzSTBxLXVBdEpWajhoT0RuWklLUkxfM1dFd1pWLVJxMnlaQzFnQzVyMUJEVC1sbVJGbmJTd2p5RGhNaldxbkNicjBvNWJ4dXoxS3RobzN6NTRzeDM5TV9fME1FTTJWM1JaNVNvM0JsSGRXTWQ1TG03MmlGZU43TVJyS1NHT0xGRWRpXy1ETkx1Q1E",
   "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo#1",
   "CBMie0FVX3lxTFAxcWNjUUxuZ2lvM29QWUdBcWpkZGdCaUpLSkJRT3pXbzNUcTh6ajFTN0d1NmpHTlN6d2p0TlNfRElGZV9ZTnR2SHdabGNxQ3FqUkMtN2N1LXppRmlxNGRlTHozQ0YxY3BqNnNNRGtaYUppX1ZyMjJVdkhiYw",
-  "https://news.sky.com/story/british-troops-will-be-allowed-to-fire-back-at-russian-forces-if-attacked-in-mission-13607272"
+  "https://news.sky.com/story/british-troops-will-be-allowed-to-fire-back-at-russian-forces-if-attacked-in-mission-13607272",
+  "https://nypost.com/?post_type=article&p=41646957"
  ],
  "posts": [
-  {
-   "fp": "bolsonaro brazil here lula offer opens runoff state toolbox voters",
-   "title": "Brazil's Lula opens state toolbox to woo voters in runoff against Bolsonaro. Here's what is on offer",
-   "source": "AP",
-   "at": "2026-10-24T03:30:09.890659+00:00"
-  },
   {
    "fp": "closes lower rocky street wall week",
    "title": "Wall Street closes lower to end rocky week",
@@ -3201,10 +3195,15 @@
    "title": "British troops will be allowed to fire at Russian forces if attacked during multinational mission",
    "source": "Sky News",
    "at": "2026-11-03T05:33:20.140321+00:00"
+  },
+  {
+   "fp": "central collapsing dies finish line marathon miles park rachel runner",
+   "title": "NYC Marathon runner Rachel Apa dies after collapsing in Central Park two miles from finish line",
+   "source": "New York Post",
+   "at": "2026-11-03T08:59:02.620602+00:00"
   }
  ],
  "titles": [
-  "bolsonaro brazil here lula offer opens runoff state toolbox voters",
   "closes lower rocky street wall week",
   "californians lawns lush steel stone trading warding wildfires",
   "collapse grizzlies late lose loss sleep warriors",
@@ -3603,6 +3602,7 @@
   "earnings extend gains indian shares softer strong",
   "africa deal remove rwanda south trade trump",
   "ahead asian midterms retreat steadies stocks",
-  "allowed attacked british fire forces mission multinational russian troops"
+  "allowed attacked british fire forces mission multinational russian troops",
+  "central collapsing dies finish line marathon miles park rachel runner"
  ]
 }
