@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMipwFBVV95cUxQakpWMVZRcm5uRGZud2VuRkNVTkNMRHgxY0NNd01RbXh5bmRoUi14WUdsVUJKWnBpM3RFUUo0MGQ3dWlOc2FfaUpGMzhRMmNQUS14aF9JeXZGa2VBdk5JQ205c0FFM1FzSlpIYmtWTC01R1RqQW9xa01WVnVzQ2REY0Y5b3oyQ2pCcDRTellPNjIyWkMxZUpGMEhVVkR0cF9EUkJpVjNhNA",
-  "CBMiqAFBVV95cUxOa3BVQ3NxY3E3dWFiU3BuWXlPb2ZMcnIyTFBySENFRDJhaGJEMUl2MHVyRF9TWDdicXh2dHVaUU9McmFRd3BXT2lBeFZjZkFBeVhoTk9COXNCdFJDbTdQTk1pOTNPVi1VRE8xX2NzRUV3a3RHWXBibUt0cERROWY0ekhMS3hHaUlPUU0yMjJYcG9Kdm9tM1dLcTNPdDZTcDh6Y2JQcXRaM1o",
   "https://www.washingtonexaminer.com/?p=4768858",
   "https://nypost.com/?post_type=article&p=41369712",
   "https://thehill.com/?p=6154747",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
   "https://www.theguardian.com/us-news/2026/nov/03/jon-ossoff-mike-collins-georgia-senate",
   "CBMigAFBVV95cUxQenFFdlpfcXMxMDFlazQxQUZ0NF9aUmc1alFaUEExRUJDOTU2anRTUGt5c2syeTRsTXllelZCLUM1dWRNNUZPb3lUNUU5X29pcngwOUVoc1BIMTFELUdhT0RqZFN3ZU4ydThyMjkzT01wQm9peklScm9pMHRKU2p4TQ",
-  "https://nypost.com/?post_type=article&p=41482838"
+  "https://nypost.com/?post_type=article&p=41482838",
+  "https://nypost.com/?post_type=article&p=41668067",
+  "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back"
  ],
  "posts": [
-  {
-   "fp": "about brokered ceasefire know melania occupied oleshky russian trump",
-   "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
-   "source": "AP",
-   "at": "2026-10-24T22:48:22.344460+00:00"
-  },
-  {
-   "fp": "administration california county demands election identify noncitizen officials trump voters",
-   "title": "Trump administration demands county election officials identify noncitizen voters in California",
-   "source": "Reuters",
-   "at": "2026-10-24T22:55:24.539162+00:00"
-  },
   {
    "fp": "alaska blanche certification election lawsuit stop trying",
    "title": "Blanche: DOJ lawsuit not trying to 'stop the certification of Alaska's election'",
@@ -3201,11 +3189,21 @@
    "title": "Indicted NJ Dem LaMonica McIver wins re-election bid despite ongoing ICE case",
    "source": "New York Post",
    "at": "2026-11-04T02:22:42.027142+00:00"
+  },
+  {
+   "fp": "critically dead including injured leaves members shooting suspect swat team washington",
+   "title": "Washington shooting leaves 3 dead, including suspect, and 2 SWAT team members critically injured",
+   "source": "New York Post",
+   "at": "2026-11-04T09:47:27.334148+00:00"
+  },
+  {
+   "fp": "355m attack back bounce cyber profits recover takes year",
+   "title": "M&S takes more than a year to recover from cyber-attack as profits bounce back to \u00a3355m",
+   "source": "Guardian World",
+   "at": "2026-11-04T09:47:29.067824+00:00"
   }
  ],
  "titles": [
-  "about brokered ceasefire know melania occupied oleshky russian trump",
-  "administration california county demands election identify noncitizen officials trump voters",
   "alaska blanche certification election lawsuit stop trying",
   "2026 ahead dispatched election know midterms monitors nationwide",
   "borrowing budget english funding growth hand mayors powers",
@@ -3603,6 +3601,8 @@
   "2026 control democrats election elections live midterm ossoff senate updates warner",
   "collins georgia mike ossoff race republican senate wins",
   "democrat mark reelection senate virginia warner wins",
-  "case despite election indicted lamonica mciver ongoing wins"
+  "case despite election indicted lamonica mciver ongoing wins",
+  "critically dead including injured leaves members shooting suspect swat team washington",
+  "355m attack back bounce cyber profits recover takes year"
  ]
 }
