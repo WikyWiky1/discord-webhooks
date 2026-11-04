@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4768409",
   "CBMipwFBVV95cUxQakpWMVZRcm5uRGZud2VuRkNVTkNMRHgxY0NNd01RbXh5bmRoUi14WUdsVUJKWnBpM3RFUUo0MGQ3dWlOc2FfaUpGMzhRMmNQUS14aF9JeXZGa2VBdk5JQ205c0FFM1FzSlpIYmtWTC01R1RqQW9xa01WVnVzQ2REY0Y5b3oyQ2pCcDRTellPNjIyWkMxZUpGMEhVVkR0cF9EUkJpVjNhNA",
   "CBMiqAFBVV95cUxOa3BVQ3NxY3E3dWFiU3BuWXlPb2ZMcnIyTFBySENFRDJhaGJEMUl2MHVyRF9TWDdicXh2dHVaUU9McmFRd3BXT2lBeFZjZkFBeVhoTk9COXNCdFJDbTdQTk1pOTNPVi1VRE8xX2NzRUV3a3RHWXBibUt0cERROWY0ekhMS3hHaUlPUU0yMjJYcG9Kdm9tM1dLcTNPdDZTcDh6Y2JQcXRaM1o",
   "https://www.washingtonexaminer.com/?p=4768858",
@@ -799,7 +798,8 @@
   "https://nypost.com/?post_type=article&p=41661234",
   "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
   "https://www.theguardian.com/us-news/2026/nov/03/jon-ossoff-mike-collins-georgia-senate",
-  "CBMigAFBVV95cUxQenFFdlpfcXMxMDFlazQxQUZ0NF9aUmc1alFaUEExRUJDOTU2anRTUGt5c2syeTRsTXllelZCLUM1dWRNNUZPb3lUNUU5X29pcngwOUVoc1BIMTFELUdhT0RqZFN3ZU4ydThyMjkzT01wQm9peklScm9pMHRKU2p4TQ"
+  "CBMigAFBVV95cUxQenFFdlpfcXMxMDFlazQxQUZ0NF9aUmc1alFaUEExRUJDOTU2anRTUGt5c2syeTRsTXllelZCLUM1dWRNNUZPb3lUNUU5X29pcngwOUVoc1BIMTFELUdhT0RqZFN3ZU4ydThyMjkzT01wQm9peklScm9pMHRKU2p4TQ",
+  "https://nypost.com/?post_type=article&p=41482838"
  ],
  "posts": [
   {
@@ -3167,12 +3167,6 @@
    "at": "2026-11-03T22:09:59.075580+00:00"
   },
   {
-   "fp": "edition journal print street wall",
-   "title": "Print Edition | Wall Street Journal",
-   "source": "WSJ",
-   "at": "2026-11-04T01:03:38.031574+00:00"
-  },
-  {
    "fp": "collins defeats georgia hold mike ossoff seat senate",
    "title": "Jon Ossoff defeats Mike Collins to hold Georgia Senate seat",
    "source": "Washington Examiner",
@@ -3201,6 +3195,12 @@
    "title": "Democrat Mark Warner wins reelection to U.S. Senate from Virginia",
    "source": "AP",
    "at": "2026-11-04T01:03:47.843973+00:00"
+  },
+  {
+   "fp": "case despite election indicted lamonica mciver ongoing wins",
+   "title": "Indicted NJ Dem LaMonica McIver wins re-election bid despite ongoing ICE case",
+   "source": "New York Post",
+   "at": "2026-11-04T02:22:42.027142+00:00"
   }
  ],
  "titles": [
@@ -3598,11 +3598,11 @@
   "assassination charlie invokes kirk last minute plea trump voters",
   "crash deadly latest minister resign spain train transport",
   "australians confirmed crash dead high spain speed train",
-  "edition journal print street wall",
   "collins defeats georgia hold mike ossoff seat senate",
   "battles california closely election tonight watching",
   "2026 control democrats election elections live midterm ossoff senate updates warner",
   "collins georgia mike ossoff race republican senate wins",
-  "democrat mark reelection senate virginia warner wins"
+  "democrat mark reelection senate virginia warner wins",
+  "case despite election indicted lamonica mciver ongoing wins"
  ]
 }
