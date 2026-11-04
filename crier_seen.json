@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw",
   "https://thehill.com/?p=6154068",
   "CBMitAFBVV95cUxOMFIxaDNFUTFsWnMxSEY0d1NycVhrbEtVbHlGZHJpZDVVa3RuekIwVDFmejhRUWdoeVY4YUQxSXhmeU1NalJwZThXdUlIN1BBV0MyRUFYUmo4VWZ3RTV0VnBZc0xEM3VScTFDbnh0STBER0t6TVFFcnNubkxXM0t4M04zcVBGeW1iaXQ0X3JHQmE5a09KTlQ1UmRBUUJKMVJScnhsRVk1T0tsUS1YUlBGOUw2Zno",
   "https://www.theguardian.com/us-news/2026/oct/16/bend-oregon-shooting-victims",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=41674213",
   "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
   "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
-  "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system"
+  "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system",
+  "CBMixgFBVV95cUxPSHY1TlZBQVBfQnRoa1RwSjFtWmdBdWMtR1Y4UEdVMlp2MzZMVmo4dVJkc1g5NEgweFU4bmkxdGtEem5XQ1c5VW5EamNIXzdURExVYUVpSzlIY01IWkItRHNSZW1SMnNhVVNCSGhDd3VjZnNJM1E5QTZvSXpyd18tVzdIZ2c4M3d4YXNFWUJaYV95YjF0RWlRTHQ3dW1ucFYxWUlfWjlrQmpUU055NzhQQlplcTNCVkxWYURMeGg2Qnk5RGk4SGc"
  ],
  "posts": [
-  {
-   "fp": "attack cart city infamous killed loves nearly returns shopping yorker",
-   "title": "New Yorker nearly killed in infamous shopping cart attack returns to city she loves",
-   "source": "New York Post",
-   "at": "2026-10-25T00:43:15.862344+00:00"
-  },
   {
    "fp": "black bulgaria deadly drone president strikes votes wake",
    "title": "Bulgaria votes for president in wake of deadly Black Sea drone strikes",
@@ -3201,10 +3195,15 @@
    "title": "Spain\u2019s deadly train crashes have damaged public confidence in the system",
    "source": "Guardian World",
    "at": "2026-11-04T17:40:34.441205+00:00"
+  },
+  {
+   "fp": "affected airlines amadeus booking breach records singapore",
+   "title": "Singapore Airlines says 46,000 booking records affected by Amadeus breach",
+   "source": "Reuters",
+   "at": "2026-11-04T18:31:55.045853+00:00"
   }
  ],
  "titles": [
-  "attack cart city infamous killed loves nearly returns shopping yorker",
   "black bulgaria deadly drone president strikes votes wake",
   "boxing brisbane drive event four injured outside people shooting south",
   "earnings growth kroger operations overhaul plan targets three year",
@@ -3603,6 +3602,7 @@
   "crashes days dead florida helicopter horror injured learjet leaving plunge water",
   "british document ebola evacuated healthcare shows worker",
   "attack confirmed dead happened insane russian school zelenskyy",
-  "confidence crashes damaged deadly public spain system train"
+  "confidence crashes damaged deadly public spain system train",
+  "affected airlines amadeus booking breach records singapore"
  ]
 }
