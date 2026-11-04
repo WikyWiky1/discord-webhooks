@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4768858",
-  "https://nypost.com/?post_type=article&p=41369712",
-  "https://thehill.com/?p=6154747",
-  "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo#2",
-  "CBMirgFBVV95cUxQbWlhaU90MklTU2wtZDJ1OC1wcVZIeDF5Y3FGRGsyam90X1VCNF9NcGRSUFNwTG1PQ21fZXZndjN3WXM4UG9LSW82OW1xLVQ0Rng3ODZLcjdwRWZtYVEzTm5oYjdlZUZhMXVmVUhubUhuWVJrMzVndXdUN29sQ2h1SHRKMnF0UkdXQ2dkWXppOU50bDV2WXhLM0tHZjk3MGtiTm4xQWNkc2FpU0dXOUE",
   "CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw",
   "https://thehill.com/?p=6154068",
   "CBMitAFBVV95cUxOMFIxaDNFUTFsWnMxSEY0d1NycVhrbEtVbHlGZHJpZDVVa3RuekIwVDFmejhRUWdoeVY4YUQxSXhmeU1NalJwZThXdUlIN1BBV0MyRUFYUmo4VWZ3RTV0VnBZc0xEM3VScTFDbnh0STBER0t6TVFFcnNubkxXM0t4M04zcVBGeW1iaXQ0X3JHQmE5a09KTlQ1UmRBUUJKMVJScnhsRVk1T0tsUS1YUlBGOUw2Zno",
@@ -799,39 +794,14 @@
   "CBMigAFBVV95cUxQenFFdlpfcXMxMDFlazQxQUZ0NF9aUmc1alFaUEExRUJDOTU2anRTUGt5c2syeTRsTXllelZCLUM1dWRNNUZPb3lUNUU5X29pcngwOUVoc1BIMTFELUdhT0RqZFN3ZU4ydThyMjkzT01wQm9peklScm9pMHRKU2p4TQ",
   "https://nypost.com/?post_type=article&p=41482838",
   "https://nypost.com/?post_type=article&p=41668067",
-  "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back"
+  "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
+  "CBMioAFBVV95cUxQamVyNmRLVmZvMjhIVURTTEVhWlVBUGJfT216ZUlQU24zT1cyMWwzRXpqR0Y0OWRtdmYzNHB0N1NkZmVOTEV3TUgtUEdUS2FsZVVSYkxON2lRa1hwcTYwTV9JZXVJQlVFMUpqRVk2S1F4a0FLbjBWTWo4LVhWMy1IMTJFT2Q3NmRwZFBqR3ZvV3lsN2VjZlVyeE5OY01Na0to",
+  "https://nypost.com/?post_type=article&p=41674213",
+  "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+  "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
+  "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system"
  ],
  "posts": [
-  {
-   "fp": "alaska blanche certification election lawsuit stop trying",
-   "title": "Blanche: DOJ lawsuit not trying to 'stop the certification of Alaska's election'",
-   "source": "The Hill",
-   "at": "2026-10-24T22:55:26.244996+00:00"
-  },
-  {
-   "fp": "2026 ahead dispatched election know midterms monitors nationwide",
-   "title": "DOJ election monitors dispatched nationwide ahead of 2026 midterms: What to know",
-   "source": "Washington Examiner",
-   "at": "2026-10-24T22:55:27.948108+00:00"
-  },
-  {
-   "fp": "borrowing budget english funding growth hand mayors powers",
-   "title": "UK budget set to hand English mayors new borrowing powers, growth funding",
-   "source": "Reuters World",
-   "at": "2026-10-24T22:55:29.656733+00:00"
-  },
-  {
-   "fp": "boost budget devolution growth healey include package",
-   "title": "Healey\u2019s first budget to include big devolution package to boost growth",
-   "source": "Guardian World",
-   "at": "2026-10-24T22:55:31.341937+00:00"
-  },
-  {
-   "fp": "campaigning close election heats keeps last minute preview results shows sunday trump",
-   "title": "Sunday shows preview: Trump's DOJ keeps close eye on election results; Last-minute campaigning heats up",
-   "source": "The Hill",
-   "at": "2026-10-24T22:55:33.089377+00:00"
-  },
   {
    "fp": "attack cart city infamous killed loves nearly returns shopping yorker",
    "title": "New Yorker nearly killed in infamous shopping cart attack returns to city she loves",
@@ -3201,14 +3171,39 @@
    "title": "M&S takes more than a year to recover from cyber-attack as profits bounce back to \u00a3355m",
    "source": "Guardian World",
    "at": "2026-11-04T09:47:29.067824+00:00"
+  },
+  {
+   "fp": "attacks death disrupt kyiv power rises russian stricken toll village",
+   "title": "Russian attacks disrupt power in Kyiv, while the death toll in a stricken village rises to 40",
+   "source": "AP",
+   "at": "2026-11-04T17:40:27.116349+00:00"
+  },
+  {
+   "fp": "crashes days dead florida helicopter horror injured learjet leaving plunge water",
+   "title": "Florida helicopter crashes into water, leaving 1 dead, 2 injured \u2014 days after horror Learjet plunge",
+   "source": "New York Post",
+   "at": "2026-11-04T17:40:29.082534+00:00"
+  },
+  {
+   "fp": "british document ebola evacuated healthcare shows worker",
+   "title": "British healthcare worker with Ebola to be evacuated from DRC to UK, document shows",
+   "source": "Guardian World",
+   "at": "2026-11-04T17:40:30.790800+00:00"
+  },
+  {
+   "fp": "attack confirmed dead happened insane russian school zelenskyy",
+   "title": "Zelenskyy says 40 now confirmed dead after \u2018insane\u2019 Russian attack on school \u2013 as it happened",
+   "source": "Guardian World",
+   "at": "2026-11-04T17:40:32.594988+00:00"
+  },
+  {
+   "fp": "confidence crashes damaged deadly public spain system train",
+   "title": "Spain\u2019s deadly train crashes have damaged public confidence in the system",
+   "source": "Guardian World",
+   "at": "2026-11-04T17:40:34.441205+00:00"
   }
  ],
  "titles": [
-  "alaska blanche certification election lawsuit stop trying",
-  "2026 ahead dispatched election know midterms monitors nationwide",
-  "borrowing budget english funding growth hand mayors powers",
-  "boost budget devolution growth healey include package",
-  "campaigning close election heats keeps last minute preview results shows sunday trump",
   "attack cart city infamous killed loves nearly returns shopping yorker",
   "black bulgaria deadly drone president strikes votes wake",
   "boxing brisbane drive event four injured outside people shooting south",
@@ -3603,6 +3598,11 @@
   "democrat mark reelection senate virginia warner wins",
   "case despite election indicted lamonica mciver ongoing wins",
   "critically dead including injured leaves members shooting suspect swat team washington",
-  "355m attack back bounce cyber profits recover takes year"
+  "355m attack back bounce cyber profits recover takes year",
+  "attacks death disrupt kyiv power rises russian stricken toll village",
+  "crashes days dead florida helicopter horror injured learjet leaving plunge water",
+  "british document ebola evacuated healthcare shows worker",
+  "attack confirmed dead happened insane russian school zelenskyy",
+  "confidence crashes damaged deadly public spain system train"
  ]
 }
