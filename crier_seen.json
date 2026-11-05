@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4769595",
-  "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#0",
-  "https://thehill.com/?p=6155621",
   "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o#0",
   "https://nypost.com/?post_type=article&p=41378563",
   "https://www.washingtonexaminer.com/?p=4769569",
@@ -799,27 +796,12 @@
   "CBMidkFVX3lxTE5hUlp2RUgwZWdJZ3VPR3BPUjVGdlZxcDhvUnVIYnI1MzROOHFDRVh2QlotbUV3UVZkb0U3UVhXclowblI4NWhlNHZiR2NvRXRiTU1aWktia3hFV25WMElOelFYVUgyb0ZFZTdyN1dwNVRKeTc2TVE",
   "CBMieEFVX3lxTE9OTjNPZHJLcS04bVhZUTlzclMxYm5EeHR2d2ZDek5SWHNPVi1QeW1na0VfQ1lmUDJabUItLVZjTkg0ekFScVByMDAxSS1vcm1vRTRNenhIekNwc1hiNEk3dnotVUN5bGV0cXlwTk1CekNlWmZqb0d0eQ",
   "https://nypost.com/?post_type=article&p=41678270",
-  "https://www.washingtonexaminer.com/?p=4793480"
+  "https://www.washingtonexaminer.com/?p=4793480",
+  "https://www.washingtonexaminer.com/?p=4793550",
+  "https://pagesix.com/?post_type=article&p=9294736",
+  "https://thehill.com/?p=6199935"
  ],
  "posts": [
-  {
-   "fp": "breast cancer diagnosis homes microplastics mission sparked",
-   "title": "My breast cancer diagnosis at 38 sparked a mission to rid our homes of microplastics",
-   "source": "Telegraph",
-   "at": "2026-10-25T10:50:32.220674+00:00"
-  },
-  {
-   "fp": "alaska attack choice corrupt murkowski ranked rips trump voting",
-   "title": "Trump rips Alaska\u2019s \u2018corrupt\u2019 ranked choice voting in attack on Murkowski",
-   "source": "Washington Examiner",
-   "at": "2026-10-25T14:24:18.063108+00:00"
-  },
-  {
-   "fp": "accident crash fatal kenya kills near previous site",
-   "title": "Bus crash in Kenya kills 22 near the site of a previous fatal accident",
-   "source": "AP",
-   "at": "2026-10-25T14:24:19.899486+00:00"
-  },
   {
    "fp": "allies escape orbit race spacex",
    "title": "U.S. Allies Race to Escape SpaceX\u2019s Orbit",
@@ -3201,12 +3183,27 @@
    "title": "Trump pressures Senate on Sunshine Protection Act over \u2018ridiculous\u2019 early sunsets",
    "source": "Washington Examiner",
    "at": "2026-11-05T01:18:49.292246+00:00"
+  },
+  {
+   "fp": "blue gives hegseth impeachment iran massie pins ultimatum wave",
+   "title": "Massie gives Hegseth impeachment ultimatum as GOP pins blue wave on Iran war",
+   "source": "Washington Examiner",
+   "at": "2026-11-05T03:31:09.210725+00:00"
+  },
+  {
+   "fp": "bankruptcy breaking dean divorce filing norris revealed secret star",
+   "title": "\u2018Breaking Bad\u2019 star Dean Norris\u2019 secret divorce revealed amid $1M bankruptcy filing",
+   "source": "New York Post",
+   "at": "2026-11-05T03:31:10.987126+00:00"
+  },
+  {
+   "fp": "blue cruz hurt texans tsunami warns",
+   "title": "Cruz warns 'Texans will be hurt' after 'blue tsunami'",
+   "source": "The Hill",
+   "at": "2026-11-05T03:31:12.763844+00:00"
   }
  ],
  "titles": [
-  "breast cancer diagnosis homes microplastics mission sparked",
-  "alaska attack choice corrupt murkowski ranked rips trump voting",
-  "accident crash fatal kenya kills near previous site",
   "allies escape orbit race spacex",
   "access behind confirms evil musk spacex starlink thwarting ukraine warmongers",
   "alaska blanche fair fight race senate trump",
@@ -3603,6 +3600,9 @@
   "2026 election house kansas live results",
   "2026 election governor live maryland results",
   "bills braces congress conservative dash push takeover through",
-  "early pressures protection ridiculous senate sunsets sunshine trump"
+  "early pressures protection ridiculous senate sunsets sunshine trump",
+  "blue gives hegseth impeachment iran massie pins ultimatum wave",
+  "bankruptcy breaking dean divorce filing norris revealed secret star",
+  "blue cruz hurt texans tsunami warns"
  ]
 }
