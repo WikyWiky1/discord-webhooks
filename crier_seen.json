@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6155303",
-  "CBMinAFBVV95cUxNeXBpcEpXNEdyTTRkb0VfcDRmVEdGM0NTbEY5ZXlBc2N2STdjLXBtWGtTVnZYbHlkNFlFVVBnWFdxUlgzNzR2bFlWQjJ2Q3lQYXo4NXFfSEN3bmJPME5BMDdvcjBtSWJqSmRaM2txNVg0MHZzOXg2M2MyWVV3U1BzZjRBY25lWG8xb1JZalBGV0EwdV85RTI1cnlQd0U",
-  "CBMirAFBVV95cUxNVk5uUzN5NzdZNkh6U3AtRFNyMzQ3WU9vcTJNdmJCMW9FUVZJOVltaEFMS1FFUnduSHJOTUctYzlCVnJKdmF0WkY0ZEVyWFlpVzRrZDA4c0N4c0JVTFRJSUFJWVg5RWJialRCMXdOVlNIWWRQcW1WTmtWak5DcE4weGFqNnE1SFlPcVdlenMwM3VXdTUzQTFkczZtdTFZTnBrVnplVDhEVVZkajBw",
-  "CBMitwFBVV95cUxPeVZCM0dGV20xQzhvdElxcHVXZXh2OHpwSzdkQ2tfYjNyNWxMVnJKNzBuOXJyTkJwcEJTbHo4Rlo5a0hsZ2JuZWFKTkc5OGRUOF9meEJrMWRDRG5NSWFpc293OVQ4RzB6eU5iRHZRdld2U1FFMTRxeHBHcUhGeHVwUU13ekRKZDEwZUJWb0tMRWJWX2k5M0F5WUVBWWFnR2VnY1ZueTNfZzQzUzhIR2Z3NWhSdlI2aGs",
-  "https://pagesix.com/?post_type=article&p=9248390",
-  "https://nypost.com/?post_type=article&p=41374736",
   "https://www.washingtonexaminer.com/?p=4769595",
   "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#0",
   "https://thehill.com/?p=6155621",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=41681064",
   "https://thehill.com/?p=6199307",
   "CBMijAFBVV95cUxNUzM3b1doTkcwTEczejRUclhkX1hwaXRVMlllaXlhbGMtZERHSTlOb3kwV0IxTWJNSnVBLXhXU0o2dXNjY0k1WGJzNjNCejc1WHBSaWRQVkpwMWVxWGJjdHZXVzlZa25RTFdISWJXUEdhSktOQ0pXNjM2NG1SN3F4ZFBiRmRPalU5TjN2cQ",
-  "https://www.foxnews.com/world/canadian-mother-daughter-dead-suspected-grizzly-bear-attack-hiking-trail"
+  "https://www.foxnews.com/world/canadian-mother-daughter-dead-suspected-grizzly-bear-attack-hiking-trail",
+  "https://nypost.com/?post_type=article&p=41682389",
+  "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+  "CBMidkFVX3lxTE5hUlp2RUgwZWdJZ3VPR3BPUjVGdlZxcDhvUnVIYnI1MzROOHFDRVh2QlotbUV3UVZkb0U3UVhXclowblI4NWhlNHZiR2NvRXRiTU1aWktia3hFV25WMElOelFYVUgyb0ZFZTdyN1dwNVRKeTc2TVE",
+  "CBMieEFVX3lxTE9OTjNPZHJLcS04bVhZUTlzclMxYm5EeHR2d2ZDek5SWHNPVi1QeW1na0VfQ1lmUDJabUItLVZjTkg0ekFScVByMDAxSS1vcm1vRTRNenhIekNwc1hiNEk3dnotVUN5bGV0cXlwTk1CekNlWmZqb0d0eQ",
+  "https://nypost.com/?post_type=article&p=41678270",
+  "https://www.washingtonexaminer.com/?p=4793480"
  ],
  "posts": [
-  {
-   "fp": "attacks belgorod governor injured killed people region russia three ukrainian",
-   "title": "Three people killed and 14 injured in Ukrainian attacks on Russia's Belgorod region, governor says",
-   "source": "Reuters",
-   "at": "2026-10-25T10:05:30.139648+00:00"
-  },
-  {
-   "fp": "bill budget comes controls parliament party revised senegal",
-   "title": "Senegal party that controls parliament comes out against revised budget bill",
-   "source": "Reuters World",
-   "at": "2026-10-25T10:50:23.341910+00:00"
-  },
-  {
-   "fp": "army challenger chief eisenkot election emerges former gadi israeli leading netanyahu",
-   "title": "Former Israeli army chief Gadi Eisenkot emerges as Netanyahu\u2019s leading election challenger",
-   "source": "Fox News World",
-   "at": "2026-10-25T10:50:25.120507+00:00"
-  },
-  {
-   "fp": "election faces holds parliamentary populist protesting serbia students vucic",
-   "title": "Serbia holds a parliamentary election as populist Vucic faces protesting students",
-   "source": "AP",
-   "at": "2026-10-25T10:50:26.858659+00:00"
-  },
-  {
-   "fp": "connection musk restored restricted service spacex starlink ukraine",
-   "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-   "source": "BBC World",
-   "at": "2026-10-25T10:50:28.625247+00:00"
-  },
-  {
-   "fp": "between bolsonaro brazil heads leftist lula polls runoff",
-   "title": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr.",
-   "source": "Reuters",
-   "at": "2026-10-25T10:50:30.322561+00:00"
-  },
   {
    "fp": "breast cancer diagnosis homes microplastics mission sparked",
    "title": "My breast cancer diagnosis at 38 sparked a mission to rid our homes of microplastics",
@@ -3201,15 +3165,45 @@
    "title": "Canadian mother and daughter dead after suspected grizzly bear attack on hiking trail",
    "source": "Fox News World",
    "at": "2026-11-04T23:03:33.365536+00:00"
+  },
+  {
+   "fp": "ballot biggest blew boss california dave election failed loser props regan union",
+   "title": "California\u2019s biggest election loser is Dave Regan, union boss who blew $47M on two failed ballot props",
+   "source": "New York Post",
+   "at": "2026-11-05T01:18:40.005200+00:00"
+  },
+  {
+   "fp": "2026 begins blame democratic elections game grows lead live midterm mississippi race republican senate",
+   "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
+   "source": "Guardian World",
+   "at": "2026-11-05T01:18:42.394948+00:00"
+  },
+  {
+   "fp": "2026 election house kansas live results",
+   "title": "Kansas U.S. House Election Live Results 2026",
+   "source": "AP",
+   "at": "2026-11-05T01:18:44.251076+00:00"
+  },
+  {
+   "fp": "2026 election governor live maryland results",
+   "title": "Maryland Governor Election Live Results 2026",
+   "source": "AP",
+   "at": "2026-11-05T01:18:45.887940+00:00"
+  },
+  {
+   "fp": "bills braces congress conservative dash push takeover through",
+   "title": "GOP braces for mad dash to push conservative bills through Congress before Dem takeover",
+   "source": "New York Post",
+   "at": "2026-11-05T01:18:47.643895+00:00"
+  },
+  {
+   "fp": "early pressures protection ridiculous senate sunsets sunshine trump",
+   "title": "Trump pressures Senate on Sunshine Protection Act over \u2018ridiculous\u2019 early sunsets",
+   "source": "Washington Examiner",
+   "at": "2026-11-05T01:18:49.292246+00:00"
   }
  ],
  "titles": [
-  "attacks belgorod governor injured killed people region russia three ukrainian",
-  "bill budget comes controls parliament party revised senegal",
-  "army challenger chief eisenkot election emerges former gadi israeli leading netanyahu",
-  "election faces holds parliamentary populist protesting serbia students vucic",
-  "connection musk restored restricted service spacex starlink ukraine",
-  "between bolsonaro brazil heads leftist lula polls runoff",
   "breast cancer diagnosis homes microplastics mission sparked",
   "alaska attack choice corrupt murkowski ranked rips trump voting",
   "accident crash fatal kenya kills near previous site",
@@ -3603,6 +3597,12 @@
   "chilling citibank down gunman gunned moments obese shirtless shows tampa victim video",
   "democratic here missed polls tsunami wave",
   "crashes helicopter injured killed miami near officials others",
-  "attack bear canadian daughter dead grizzly hiking mother suspected trail"
+  "attack bear canadian daughter dead grizzly hiking mother suspected trail",
+  "ballot biggest blew boss california dave election failed loser props regan union",
+  "2026 begins blame democratic elections game grows lead live midterm mississippi race republican senate",
+  "2026 election house kansas live results",
+  "2026 election governor live maryland results",
+  "bills braces congress conservative dash push takeover through",
+  "early pressures protection ridiculous senate sunsets sunshine trump"
  ]
 }
