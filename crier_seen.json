@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41380396",
-  "https://nypost.com/?post_type=article&p=41381193",
-  "https://www.theguardian.com/us-news/2026/oct/17/alligator-attack-florida-fisher-killed",
-  "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-  "https://nypost.com/?post_type=article&p=41383153",
-  "https://nypost.com/?post_type=article&p=41382147",
   "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires",
   "CBMiuwFBVV95cUxQNUVjcERQUE83S1lFTVA1Q2tOMXJya3BMZXZPbWRkMk9wS21FRTBDcGdoN3BHRFhLUHd3dGNRcE9ackxXRm1QaHcyZE1oVVYxTzhjNkJHTVRUYUFIOTdUVUpkQnJneDRpNEdFSF9hc0NsRUx5Ti14RklDYm5DVzZEakxIRjBheWtlYXN2S25lcGloZmFXOGFRWk9kTld4ZXFzZ0VHUm0zVjcwQW9nRFZyMVJXS0hJcWtZUFpB",
   "CBMiowFBVV95cUxNYWs0Y0xMUzZxN3Z1anpnTDJOMDNUVDR2eFpIV0NrVjlzem9XUFhXTjZ0MnFVbUNvUkgzV280T0hTSkVlR21TRHBJR3RqdjhCMUc3NTNqakVfNVgxZ2tENFhnbkVUSXZENDJKZFdOeWo0dU5Vb0FnRjFSVUlMVVdqaTF1dkcybFdnelhWSllfOXlyWjZuWWV6N2xCLXVmek9nOUJV",
@@ -799,45 +793,15 @@
   "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo#0",
   "https://www.theguardian.com/us-news/2026/nov/05/harmeet-dhillon-doj-resignation",
   "CBMiuwFBVV95cUxOZHZuRGd1U2tscWdCODBsODdUemhHbzBEV2xpUkRFc19RZ3RmaDl1dGpUSnhycW9TOTUxTm5ZVjhKLURnUzZMYzBlRmNCSllJUVlZc2hUaFJOOUk4eWF5aDhfUnBSWEFxWTdlRXhsTWhVZVNDT0NFRmtQUmZGaWl2RTYyck43djRNZnpjVkszS0FMVnE1a1BpQnVmZ1lneUlWcXNpYlZLeWNZalowcC1CMnVXNkxYMlZHcTlF",
-  "https://www.foxnews.com/world/melania-trump-oleshky-ceasefire-spark-more-enduring-peace-ukraine-russia"
+  "https://www.foxnews.com/world/melania-trump-oleshky-ceasefire-spark-more-enduring-peace-ukraine-russia",
+  "https://nypost.com/?post_type=article&p=41693654",
+  "https://www.washingtonexaminer.com/?p=4793950",
+  "https://thehill.com/?p=6201679",
+  "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+  "CBMiuAFBVV95cUxOWjhqRms1YmpjV2l6LW1FMTllNnp5R3BoZzc3TExxXzJUVGk1RmNCbkQ0d3pGN05WSHBsX0RldGJ4UWxoWjd4VmpLT1RabTJQNDA5cmV5QXV4RG1ITHVBQUsxNEJla1pnWXJIYWhHTE9waEZCaUpud0dQX3lQVzZmUTlEalJLX29nSTBrcVFrLUdaSVU2cDRDNUFfbE03ZEZqcHhCbEN0My1zZmJYaXVtOWpYdUpEVDhL",
+  "CBMisgFBVV95cUxObTdYYmZaZmRqRUt0TDhBbERraDF2VlpSTDJ4M1NyZ2dRRkNUUVJ0OVFHdzJyc01uNDZOV2YzZFprbU90aUNzTEtYTEdNWU5Jc19VVVlHc24tNkZ2VFhqOWg3b0swVDFnY2hHaGxuNVZXVkE5S09xZXV2eGRQb1kwdWFEZWxpeGMybDZRcGtyWW52Q1JfaHY4MVo1YmJfRW9KZmNsdVJqS24zeGRZVUpaV3VB"
  ],
  "posts": [
-  {
-   "fp": "ballot bolsonaro cast flavio lula presidential runoff",
-   "title": "Lula and Flavio Bolsonaro cast their ballot in presidential runoff",
-   "source": "Reuters",
-   "at": "2026-10-25T20:26:44.085735+00:00"
-  },
-  {
-   "fp": "attack church gunmen jordan kill seven",
-   "title": "Gunmen Kill Seven in Church Attack in Jordan",
-   "source": "WSJ",
-   "at": "2026-10-25T22:35:50.193562+00:00"
-  },
-  {
-   "fp": "action britain ensure ready urgent where",
-   "title": "Where is the urgent action to ensure that Britain is ready for war?",
-   "source": "Telegraph",
-   "at": "2026-10-25T22:35:52.063359+00:00"
-  },
-  {
-   "fp": "candidate invokes michigan muslim oppose sayed senate trump urging voters",
-   "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
-   "source": "Reuters",
-   "at": "2026-10-25T23:01:34.487869+00:00"
-  },
-  {
-   "fp": "aide comedy days deal former leverage make moscow peace ties zelenskyy",
-   "title": "Zelenskyy can leverage Moscow ties from comedy days to make peace deal, says former key aide",
-   "source": "Fox News World",
-   "at": "2026-10-25T23:01:36.333396+00:00"
-  },
-  {
-   "fp": "concedes election movement protest ruler serbia student veteran",
-   "title": "Serbia's veteran ruler Vu\u010di\u0107 concedes election to student-led protest movement",
-   "source": "BBC World",
-   "at": "2026-10-25T23:01:38.043264+00:00"
-  },
   {
    "fp": "america choice election future midterm ordinary stark",
    "title": "No ordinary midterm \u2014 this election is a stark choice for America\u2019s future",
@@ -3201,15 +3165,45 @@
    "title": "Melania Trump: Oleshky ceasefire is a \u2018spark\u2019 for 'more enduring' peace between Ukraine, Russia",
    "source": "Fox News World",
    "at": "2026-11-05T18:56:29.562682+00:00"
+  },
+  {
+   "fp": "back defeat election khanna president screaming thinks",
+   "title": "Ro Khanna thinks he can run for president after screaming \u2018DEI is back!\u2019 after election defeat",
+   "source": "New York Post",
+   "at": "2026-11-05T19:34:03.532716+00:00"
+  },
+  {
+   "fp": "bluenami budget hegseth life midterm results support trillion",
+   "title": "Hegseth\u2019s $1.5 trillion budget on life support after \u2018bluenami\u2019 midterm results",
+   "source": "Washington Examiner",
+   "at": "2026-11-05T19:34:05.269475+00:00"
+  },
+  {
+   "fp": "analysis election event pulls stevens university",
+   "title": "Stevens pulls out of election analysis event at DC university",
+   "source": "The Hill",
+   "at": "2026-11-05T19:34:07.030243+00:00"
+  },
+  {
+   "fp": "democrats election fall investors shares sharply slowdown tech triumph",
+   "title": "US tech shares fall sharply as investors bet on AI slowdown after Democrats\u2019 election triumph",
+   "source": "Guardian World",
+   "at": "2026-11-05T19:34:08.780675+00:00"
+  },
+  {
+   "fp": "fear gauge jumps liberation since street stumbles trade wall",
+   "title": "Wall Street fear gauge jumps most since 'Liberation Day' as AI trade stumbles",
+   "source": "Reuters",
+   "at": "2026-11-05T19:34:10.496116+00:00"
+  },
+  {
+   "fp": "confirm correction nasdaq stocks tumble",
+   "title": "Nasdaq set to confirm correction as AI stocks tumble",
+   "source": "Reuters",
+   "at": "2026-11-05T19:34:12.277459+00:00"
   }
  ],
  "titles": [
-  "ballot bolsonaro cast flavio lula presidential runoff",
-  "attack church gunmen jordan kill seven",
-  "action britain ensure ready urgent where",
-  "candidate invokes michigan muslim oppose sayed senate trump urging voters",
-  "aide comedy days deal former leverage make moscow peace ties zelenskyy",
-  "concedes election movement protest ruler serbia student veteran",
   "america choice election future midterm ordinary stark",
   "belgrade celebration concedes election europe live scenes serbian wild",
   "braces deeply divided election israel pivotal",
@@ -3603,6 +3597,12 @@
   "bank collapse paraguay president resigns santiago",
   "civil controversial dhillon division down harmeet head rights steps",
   "ally civil department justice leading resign rights sources trump unit",
-  "between ceasefire enduring melania oleshky peace russia spark trump ukraine"
+  "between ceasefire enduring melania oleshky peace russia spark trump ukraine",
+  "back defeat election khanna president screaming thinks",
+  "bluenami budget hegseth life midterm results support trillion",
+  "analysis election event pulls stevens university",
+  "democrats election fall investors shares sharply slowdown tech triumph",
+  "fear gauge jumps liberation since street stumbles trade wall",
+  "confirm correction nasdaq stocks tumble"
  ]
 }
