@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
   "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
   "https://thehill.com/?p=6155800",
   "CBMiYkFVX3lxTE15Snc2QmNpNENraTJGMUJLbi04cEZBWV84ekJFTml3UkQ0Mm5oS2I0cDVGUlhBMTB2TmZPTDcwVnNQTmpGY043UnhxOFA4dUg3bHg3TGNSalFCVjRQU1JLYVJR",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=41687306",
   "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living",
   "https://nypost.com/?post_type=article&p=41687179",
-  "https://nypost.com/?post_type=article&p=41687189"
+  "https://nypost.com/?post_type=article&p=41687189",
+  "CBMisgFBVV95cUxQUG9OVmM2ZmxVb0dKYUFDTmw0QXpVakp5SmdOVGg5QmF0Zy1fdzdLSFkwYVJLWk9rWjV2akVCX1pLTDFfQWxkVkk4eENGTUZqVGlldjZsT0U1VHh0TWd1c3c2Ymg2RlBmVmhCSkdGWHJ0R05kNmdKRXduelFLMGZ2dXNsMnlqMVFhUzdINDJfdWFzeTRCbXc5RTRnM0dtVnRCZUxsTTVJaERxSEN0eU03TVFn"
  ],
  "posts": [
-  {
-   "fp": "death gunmen nigeria police raided rises toll village",
-   "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-   "source": "BBC World",
-   "at": "2026-10-25T20:14:27.146376+00:00"
-  },
   {
    "fp": "attack election iran israeli netanyahu test warns",
    "title": "Netanyahu warns Iran against Israeli Election Day attack: \u2018Don\u2019t test us\u2019",
@@ -3201,10 +3195,15 @@
    "title": "Multiple grizzlies may have attacked mother and daughter found dead: Canadian authorities",
    "source": "New York Post",
    "at": "2026-11-05T11:27:18.342286+00:00"
+  },
+  {
+   "fp": "falls fiery finale nasa orbit satellite swift telescope year",
+   "title": "NASA's 22-year-old Swift satellite telescope falls from orbit in fiery finale",
+   "source": "Reuters",
+   "at": "2026-11-05T18:37:46.475743+00:00"
   }
  ],
  "titles": [
-  "death gunmen nigeria police raided rises toll village",
   "attack election iran israeli netanyahu test warns",
   "charged death highway incident missouri road second shooting suspect teen",
   "forward guidance kevin nobel opinion prize warsh",
@@ -3603,6 +3602,7 @@
   "fast japan killed marine maryland native rope training year",
   "breaking budgets cards library people tighten",
   "aiwanger bavaria berlin dead deputy found hotel hubert leader ridden room scandal",
-  "attacked authorities canadian daughter dead found grizzlies mother multiple"
+  "attacked authorities canadian daughter dead found grizzlies mother multiple",
+  "falls fiery finale nasa orbit satellite swift telescope year"
  ]
 }
