@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://news.sky.com/story/crush-at-religious-festival-kills-at-least-17-and-injures-dozens-in-india-13600451",
   "CBMiNkFVX3lxTE5jYTZQNEFYbnZ6VjBFc1hGMF9WeGNwT08wOHRFRFQwa2dHeEY4NUd2UVhXZU1uQQ",
   "CBMikwFBVV95cUxOTlFreUZmRnpDR1p2YS1jU0NZT09sSjhWb2p1RnVWOEFkb1V5WjByem9HTV8zZVoybHV2ZXI5b2NvWlFIY19WeTFLQUFsV1VWXy05RzUtcDNVNVUzVjZoY3BVNzVHeEJSeGlOU3BVbzJsMTNFb0FFQnVaYkE4eFRyMFYxS1poNi16M2pqY09ZRVJBcnM",
   "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6134794",
   "https://nypost.com/?post_type=article&p=41702268",
   "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-  "CBMitgFBVV95cUxNbnhUT0ZFTnpsamNBblowSmJHVXhjMEhiRzZCWVRLVk95TXFFcVAxSkxBRXhxZHJaVWdERTdTOTVtcEZTRl9mYi1wSE90Q2hqZGVHSGUzdkxLa3R6SWxHbXlBa3ktdEhGRXhra1lIaG54ZUhFQWQ3TW5XUUdVVnBhcVptaFlVdUY2b3dIMHotRFh0T1pVTGpMTmNyU3R1UUlnakRaQWVPOVpTTUp2ZkxhMk9IMWFYZw"
+  "CBMitgFBVV95cUxNbnhUT0ZFTnpsamNBblowSmJHVXhjMEhiRzZCWVRLVk95TXFFcVAxSkxBRXhxZHJaVWdERTdTOTVtcEZTRl9mYi1wSE90Q2hqZGVHSGUzdkxLa3R6SWxHbXlBa3ktdEhGRXhra1lIaG54ZUhFQWQ3TW5XUUdVVnBhcVptaFlVdUY2b3dIMHotRFh0T1pVTGpMTmNyU3R1UUlnakRaQWVPOVpTTUp2ZkxhMk9IMWFYZw",
+  "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb"
  ],
  "posts": [
-  {
-   "fp": "collapse kids opinion overscheduled point",
-   "title": "Opinion | Kids Are Overscheduled to the Point of Collapse",
-   "source": "WSJ",
-   "at": "2026-10-26T12:01:34.356964+00:00"
-  },
   {
    "fp": "brokered ceasefire deep fled oleshky scepticism ukrainian views",
    "title": "Ukrainian who fled Oleshky views US-brokered ceasefire with deep scepticism",
@@ -3201,10 +3195,15 @@
    "title": "Lula's election win dashes US hopes of quick access to Brazil's rare earths",
    "source": "Reuters World",
    "at": "2026-11-06T01:23:25.350045+00:00"
+  },
+  {
+   "fp": "antisemitic attack beach bondi dies geller hospital massacre shooting shot year",
+   "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
+   "source": "Guardian World",
+   "at": "2026-11-06T04:46:43.133969+00:00"
   }
  ],
  "titles": [
-  "collapse kids opinion overscheduled point",
   "brokered ceasefire deep fled oleshky scepticism ukrainian views",
   "allegedly indicted marine murdering okinawa robbing woman",
   "condition ebola evacuation flight medical nigeria patient stable switzerland",
@@ -3603,6 +3602,7 @@
   "election mckinney newhouse open seat washington wins",
   "breaks cover election looks miserable nithya raman since time winning",
   "2026 blue congress democrats elections exceed grows house live seats sweeping wave",
-  "access brazil dashes earths election hopes lula quick rare"
+  "access brazil dashes earths election hopes lula quick rare",
+  "antisemitic attack beach bondi dies geller hospital massacre shooting shot year"
  ]
 }
