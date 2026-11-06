@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMirgFBVV95cUxNSGpZb1lmS0hlZGYwTmtOTUg2elhLcGFNTWItNDVFWTBMcGRlMlhlM3E3ajdSVktKdlA3ZW1jZEk1cTJLMXZKSWRQSWVtNkJMSzdEbWFBNHk2LWUzU3AwZVRVTnl6ajFZUHhZbE9Mdk92UUlGaktGUXJuOEZoOUw2cTZZaWpYbHp1MFdEeXYzckNZallkVWY5V0RVeE1fZV9qLXNtSDhlRmp3bndMeFE",
   "CBMinwFBVV95cUxQMFZQZDE0dUs3NEdHdVFtdTFOVWx6NE1aV3M0QnUzWG5JblYzVzRrcXZhT0hCT1pRcV9Zc3hFY1FlSlBzeWVlS1Zma3VpczJnQmRJYldTSUZmdDJvVjJoOWNKS1Joc3pPN01la0tBLVkxZnlqM05LNkpyRU16X0dvS0Vwb1VLQUZYcFVoUVljODZ0NUNlMDZuOWtZUFliSms",
   "CBMipgFBVV95cUxOT0JWSWU4S3JaTElScFlOdnhEZml0TkVISkFVWURZaS02TzR3eGNhMG5QbGI2UUVVSmx3ajBCZXpFNVJNSVQ5eHliRGVmOU9VRjZ0V2l6R1JqVC1xSjVINTBpajhLejg0bUQ2Mkx0dERJTFdzd0pLVGdaSGJ3RUU1MGVBeVo5ellXVXJndGdnYlNoUmczcnpHdVcyVnJXa01lQUk0NEVn",
   "CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU",
@@ -799,15 +798,10 @@
   "CBMixgFBVV95cUxNTDM4YlUwUzVPa0VhbS1wVTlvVXpPbWZ5Y1EwUUFfSG1Cbk5xR1NSeTNLZnhNLU1Lekk0eDVuaWtCQndUSTd0bDRELWNXdGJJYllrYmJUYkRqMkl4b0VwWVRCWF9Tc2doN3lIRm42eV9YQlBha3JfNHByNDFLb1RxV3RkdkZyRFZJRnVsc0VybnBGUzdJRUw5LXVMMl9zMGNrb05EeWFXVm5KYnVnNGYzMTNQd3oxcGJDZVlVUlFDTlJSeHAtUGc",
   "https://www.theguardian.com/us-news/2026/nov/06/idaho-hunters-newborn-wolf-pups",
   "https://nypost.com/?post_type=article&p=41694400",
-  "https://nypost.com/?post_type=article&p=41696835"
+  "https://nypost.com/?post_type=article&p=41696835",
+  "https://thehill.com/?p=6202503"
  ],
  "posts": [
-  {
-   "fp": "alan cancer children dead diagnosis dysert incurable star",
-   "title": "\u2018All My Children\u2019 star Alan Dysert dead at 75 after \u2018incurable cancer\u2019 diagnosis",
-   "source": "New York Post",
-   "at": "2026-10-26T18:41:56.420858+00:00"
-  },
   {
    "fp": "actor dead koenig star trek walter",
    "title": "\u2018Star Trek\u2019 actor Walter Koenig dead at 90",
@@ -3201,10 +3195,15 @@
    "title": "Girl, 4, couldn\u2019t walk or speak after getting rhabdomyolysis, which killed NYC Marathon runner, from common cold",
    "source": "New York Post",
    "at": "2026-11-06T12:38:44.289655+00:00"
+  },
+  {
+   "fp": "companies congress deceptive election must pacs scrutinize show super",
+   "title": "AI companies\u2019 deceptive election ads show why Congress must scrutinize super PACs",
+   "source": "The Hill",
+   "at": "2026-11-06T17:51:50.580455+00:00"
   }
  ],
  "titles": [
-  "alan cancer children dead diagnosis dysert incurable star",
   "actor dead koenig star trek walter",
   "arrested fifteen florida injured near shooting university year",
   "father field kansas killed pays soccer tribute truck",
@@ -3603,6 +3602,7 @@
   "authorities children crash eastern france killed least",
   "abomination dollars earned hunters idaho kill newborn pups records reveal thousands wolf",
   "anthony breaking deadline decisions down luis nine tender volpe yankees",
-  "cold common couldn getting girl killed marathon rhabdomyolysis runner speak walk"
+  "cold common couldn getting girl killed marathon rhabdomyolysis runner speak walk",
+  "companies congress deceptive election must pacs scrutinize show super"
  ]
 }
