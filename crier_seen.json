@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
-  "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
   "CBMipAFBVV95cUxQSXEzTWctWFllT2dCNGlES0Ewcm9qV0djallLZ3c2bEdoRVlta2RBQ09uQ1hZQnMxbndPUHNzRzdmakNYZU5IeHRPbF9wUVlFNTBCLUwyWE9TbUFFYjRua1BEM01VWm5ab0NwRm5QWXV2eW1ycERzRklTbzdxV2NpS1lOV29pZWtsRzgyOE9RTVVRNDhOdXhBdnJ6REFJQk54azV3ag",
   "CBMiwgFBVV95cUxORkdkNk9DVENGZU50OHVsbHF4Z3ZWbnBxcHVqaDJSa1JEWXZ5aFVqbTQwWmwzUGpvZUJsTUFzSnZHd2laVHpqd05XaF9KM2YxdUNUSVV0YUp1SFVKbTBRVHNzcVc0ek84cTY5TTVmZGhPbnhzMVJiejFXaDdXV3pBcTZYeEI3QkZrNDlOOWllWFk3ejFfMVdVd3lQUGJMeXBhNW5xTjZJQnBINTVSTjVDUnZKSm1laDdKaEE3eGdoSUtaQQ",
   "https://nypost.com/?post_type=article&p=41390683",
@@ -799,21 +797,11 @@
   "CBMiyAFBVV95cUxNc3d2VFhsUzJucjhiOHdzTnBuU0VDNF9PcEV3c2VvQ2FlQ3lZM2k5VXF3TXlseFJaMDlkekVxT19GUHJvbG1VdHdfbmNRWi1MdU9zdXpGVjJCSkhXc0NOSXVseldlXzZvOU1NVlJmaFlqNUlkUkJFeHFPZ2ZIRjNkdE5vb2Ixd01LVGttWEluTTNnakkybGVtMlFfM2VHcGVqbzBFbWJWWDNFcWVTSmJGWFdmRWlVVG9tS3hpcmVtQ3Jpd04yRmdKeg",
   "CBMitAFBVV95cUxQZC1MUWlWSWJIdmtzQTBRMmpzQjVKVUxQLU9qY2tkeGNDSXA5NjFxQnIyek44N3FuV1EzWTVnR2MtblZJTm5UM3VqdHhXbTlUdTRqdWNvUTRjZnJDRjV6alVBNHNkWkkyUUg1bW0wYWdmUGMyalFPMU50OGpnZ3ZVNFdxbHVNM25RWUFqaGFtVGlteW5nVjRRMDBYRUFuWEtYZ3BVZG80a3F1NERjSUdSVm9XRzI",
   "https://www.washingtonexaminer.com/?p=4795531",
-  "https://thehill.com/?p=6204559"
+  "https://thehill.com/?p=6204559",
+  "https://nypost.com/?post_type=article&p=41719782",
+  "CBMioAFBVV95cUxQb2ZjanctVTdKS0xQeHZPTW5zVk03dUkyLUtpcjZBVEkxcl9JNEVtaVFGQWhKZjZBV3VBWElqakJudlhRN3VhbGlOOEtnZmJjMFZnc25ZdThoNHlFS1NLZE8tb1c4UzhSTEQybm8zeDd4VXZGQmZzMVJsN0VMaFJaaTR3bXpXN2stWEZsUWdJbzBFcngwUmVSRDJ2YlpJTzhF"
  ],
  "posts": [
-  {
-   "fp": "alleged apology attack australian awaiting cartoon crackdown haines hanson lambie live nine politics security",
-   "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; security crackdown for nine MPs after alleged Haines attack",
-   "source": "Guardian World",
-   "at": "2026-10-26T22:58:28.309409+00:00"
-  },
-  {
-   "fp": "attack congo ebola health machete responding wielding workers",
-   "title": "Machete-wielding mob attack health workers responding to Ebola in Congo",
-   "source": "Reuters",
-   "at": "2026-10-26T22:58:30.019474+00:00"
-  },
   {
    "fp": "attack attacks church jordan last militants retaliation syria week",
    "title": "Jordan attacks militants in Syria in retaliation for last week\u2019s church attack",
@@ -3201,11 +3189,21 @@
    "title": "Comer says 'there's a lot of questions about Hegseth' amid impeachment push",
    "source": "The Hill",
    "at": "2026-11-06T19:40:56.313703+00:00"
+  },
+  {
+   "fp": "arrested assassinate filled firearm heard illegal immigrant stolen trump vehicle voices",
+   "title": "Illegal immigrant heard voices to assassinate Trump \u2014 arrested with firearm-filled stolen vehicle",
+   "source": "New York Post",
+   "at": "2026-11-06T23:54:03.620306+00:00"
+  },
+  {
+   "fp": "collapse desert flooding gets icons pummeled rain southwestern",
+   "title": "Desert icons collapse as southwestern US gets pummeled with rain and flooding",
+   "source": "AP",
+   "at": "2026-11-06T23:54:05.521392+00:00"
   }
  ],
  "titles": [
-  "alleged apology attack australian awaiting cartoon crackdown haines hanson lambie live nine politics security",
-  "attack congo ebola health machete responding wielding workers",
   "attack attacks church jordan last militants retaliation syria week",
   "attack facilities hits kills kyiv mayor medical metro person russian station",
   "election elections hold house leadership week",
@@ -3603,6 +3601,8 @@
   "accelerates department election exodus justice officials post resign",
   "collapse colorado democrat elects military republican time town",
   "collapse free sets trump vance",
-  "about comer hegseth impeachment push questions"
+  "about comer hegseth impeachment push questions",
+  "arrested assassinate filled firearm heard illegal immigrant stolen trump vehicle voices",
+  "collapse desert flooding gets icons pummeled rain southwestern"
  ]
 }
