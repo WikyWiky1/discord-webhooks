@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
-  "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths",
   "https://www.foxnews.com/world/canadian-pm-carney-4-service-members-killed-dozens-injured-military-base-fire",
   "https://www.washingtonexaminer.com/?p=4765170",
   "CBMipgFBVV95cUxNMm0tYXB5dUNKZXFPb1pZYkVMUjJMWlBuX25MNWNVMGRoMU43MzB4bEdJeUtGeDlPcjJmc1g5eVJYNDhNX0FPV0FiRDJkUjRLcmc2UTAxc3hncUJmRWF5VW1McE5yWEJMT3llaDlxYjBKM2JYem93dE45X1lsNHhIdmZZTDc1WmJnazFWWHY5cmVqRnMxMHJBa0NxeDNYQVVIYUpaNjBn",
@@ -799,21 +797,11 @@
   "CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0",
   "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
   "CBMihwFBVV95cUxNb1A3LU02UEMzODJVNUMwNVpGTkxzYjF3VW0xYi1WUlByTHN4ZmhjR0M0QnotWUt4c3ZXWnJ2dHcxVENGWHd3V0pVNEVCZWRMNzJmaUoyREhSUjFiLXQzcGtVbHN5QVhYemZ1ZU5mdUxYeTNteHFPbGVDRXh5UzZnZWJWQUE4RDg",
-  "CBMirgFBVV95cUxQYVZ6SS13ZlhVYVFPcXFkeXljMDY3M1dXTWNfZHVGb3Y4NXU4ZWw3SU5HSXRlMkRJNVUzcWVxRXhOZUVmeTNHblM3Wnd3MzYyNExaMWNKTXgxWWowb0VmTVFwT05CajhMV0d5ZGE5ZGtSV3ZZdXlidUc4dFpveG9XQnBldFQ2c2syWHY5MXZWaUd5Q0VHRmlmM3ZiYmVtTjlUUkJXR3hLckRpcjhCUFE"
+  "CBMirgFBVV95cUxQYVZ6SS13ZlhVYVFPcXFkeXljMDY3M1dXTWNfZHVGb3Y4NXU4ZWw3SU5HSXRlMkRJNVUzcWVxRXhOZUVmeTNHblM3Wnd3MzYyNExaMWNKTXgxWWowb0VmTVFwT05CajhMV0d5ZGE5ZGtSV3ZZdXlidUc4dFpveG9XQnBldFQ2c2syWHY5MXZWaUd5Q0VHRmlmM3ZiYmVtTjlUUkJXR3hLckRpcjhCUFE",
+  "https://nypost.com/?post_type=article&p=41724130",
+  "https://www.foxnews.com/world/gulf-official-glimmer-hope-trump-iran-nuclear-talks-threat-war-hangs-region"
  ],
  "posts": [
-  {
-   "fp": "deeply divided election heads israel know looms reckoning",
-   "title": "Israel heads into deeply divided election as Oct. 7 reckoning looms: What to know",
-   "source": "Fox News World",
-   "at": "2026-10-27T08:41:13.038219+00:00"
-  },
-  {
-   "fp": "britain budget class firing healey line middle",
-   "title": "Britain\u2019s middle class in Healey\u2019s Budget firing line",
-   "source": "Telegraph",
-   "at": "2026-10-27T08:41:14.724478+00:00"
-  },
   {
    "fp": "defined democracy election heads israel pivotal polls security",
    "title": "Israel heads to polls for pivotal election defined by security and democracy",
@@ -3201,11 +3189,21 @@
    "title": "Early count in New Zealand\u2019s election suggests result too close to call",
    "source": "AP",
    "at": "2026-11-07T09:39:37.849015+00:00"
+  },
+  {
+   "fp": "attack beat bonfire disabled florida four minute morons party sickening teen",
+   "title": "Four Florida teen \u2018morons\u2019 beat disabled man in sickening 40-minute attack at bonfire party",
+   "source": "New York Post",
+   "at": "2026-11-07T10:57:08.337861+00:00"
+  },
+  {
+   "fp": "glimmer gulf hangs hope iran nuclear offers official region talks threat trump",
+   "title": "Top Gulf official offers glimmer of hope on Trump-Iran nuclear talks as threat of war hangs over region",
+   "source": "Fox News World",
+   "at": "2026-11-07T10:57:10.076817+00:00"
   }
  ],
  "titles": [
-  "deeply divided election heads israel know looms reckoning",
-  "britain budget class firing healey line middle",
   "defined democracy election heads israel pivotal polls security",
   "ceasefire city holds melania negotiated occupied russia trump ukrainian",
   "days dead final followers found haunting post streamer twitch",
@@ -3603,6 +3601,8 @@
   "arrest bank collapse house ousted paraguayan placed president under",
   "2026 close continues count draws election labour level live national race results zealand",
   "2026 angeles election live mayor nonpartisan results runoff",
-  "call close count early election result suggests zealand"
+  "call close count early election result suggests zealand",
+  "attack beat bonfire disabled florida four minute morons party sickening teen",
+  "glimmer gulf hangs hope iran nuclear offers official region talks threat trump"
  ]
 }
