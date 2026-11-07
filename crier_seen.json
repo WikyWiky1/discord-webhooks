@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo#0",
   "CBMisAFBVV95cUxPVWI4ZTdFVmJ0YTg2Qm1fS3FhRFJCTEp1a1B3UlpSVW00T2dUR2NPZVg3VlZyUldmZmx4U1dKMUU0RDU5Q1N4anFadmVGTHYtYnF2bGhqWjlSRnpTRU9ra21uNklqMlFCZFBuRHRNYXQ4Wk1RNXBoMjRkTHVhZWVHWTBqVXFvcXBWRmk4bHh4b3Y1bFVpZ2FGbWdBaDZTQTNaZWdudzdoYXhsS1JITWpPcA",
   "CBMiswFBVV95cUxOSUFsbUxmVHc1WjQ5eHNRVFVNV3ZLdzdyRGV6MHNSMEZPRVJrejdESVc2Q204R2hKdi1EbVY3UVBHd0N6c0dMLTBDdVhoSkhFRWN2aWZLc1hmYTJrQjd2M3pXVUl5VDF2aktUMW9TQTNRN0lBZ0ZDcE1adjhlNzZ5NDZkNXNxSWdlS0ozREVlNlRDUkU1ZjVhdExxUDF3Zk5FY2tnSUNvNXdFYV9rTzJwTnlXSQ",
   "CBMiqwFBVV95cUxOcW54YlY3d0RSd1ZZRVhTejMtMGtOWDVCclNUalp3RW1qLV9KaG1uR09VbUdMbnZCbWFoS2d0a1Y1X3FjSnhJUFVTdUNnSjlOM1pQTElIZ1F4MG0tQ0VNdExkbXZGZVV3bjd6MmhhcTQ2Ty1oQ0E5eGVUT3JNVVVnYlBOclQ1UC00Z09OTUVWVnFQQWlqbGl5Q255V0RNS0dZdDYwNnd5dlFpU1k",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6206168",
   "https://nypost.com/?post_type=article&p=41727708",
   "CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA",
-  "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#1"
+  "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#1",
+  "CBMiU0FVX3lxTFB1c20xUHp2aTlsUF83T2FHckZoZ0dSNDhwRDktN1NReDZsaktuczU2Qkt2elcxOWRCdnJHbC1rNTlDS0JzYURiazFHaUFka25vRGVZ"
  ],
  "posts": [
-  {
-   "fp": "deployment nuclear submarines unusual",
-   "title": "UK's nuclear submarines in 'unusual' deployment",
-   "source": "Sky News",
-   "at": "2026-10-27T18:43:05.026272+00:00"
-  },
   {
    "fp": "ahead earnings gains statement stocks",
    "title": "U.S. Stocks Add to Gains Ahead of Earnings, Fed Statement",
@@ -3201,10 +3195,15 @@
    "title": "Paraguay's former president charged after bank collapse",
    "source": "BBC World",
    "at": "2026-11-07T20:37:58.810567+00:00"
+  },
+  {
+   "fp": "atlantic nato north organization treaty",
+   "title": "Nato (North Atlantic Treaty Organization)",
+   "source": "Telegraph",
+   "at": "2026-11-07T21:29:20.773431+00:00"
   }
  ],
  "titles": [
-  "deployment nuclear submarines unusual",
   "ahead earnings gains statement stocks",
   "clear election exit israel netanyahu polls rebuke suggest winner",
   "administration democrats election interference makes moves prep trump",
@@ -3603,6 +3602,7 @@
   "asks cabinet calling democrats impeachment investigate officials trump",
   "collapse coordinator fires nebraska offensive season spiraling ugly",
   "airstrikes arabia blames capital health houthi kill ministry near saudi yemen",
-  "bank charged collapse former paraguay president"
+  "bank charged collapse former paraguay president",
+  "atlantic nato north organization treaty"
  ]
 }
