@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o#0",
-  "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
   "https://nypost.com/?post_type=article&p=41390751",
   "CBMiZ0FVX3lxTE81aDJkdVFKSEhFaE1hWW8tUjBBdzU1OWxiY3prZlNPSno2Mi1leFBYREtDNVV0UmNiWXZKcExDZ1FGTEtsRUJyQlRpTkpKakpRQWEwa09DRk1zMi1YT2ZPT2Q3cDRmQU0",
   "https://nypost.com/?post_type=article&p=41390775",
@@ -799,21 +797,11 @@
   "https://thehill.com/?p=6205580",
   "CBMimAFBVV95cUxOR1p2cHVoU2tWUm44d1pxaTIxSldWelNQTWtrOGpJOXdtOGJYUGp1cjNDcVFHSDlEbXFvQ2ZHSVNsbGxPcHl1SU5MS0lMQzNhYW5zZHJRWmFnSzhpWHhpWHp6TXBqeVJBMTBnRVV2eG1McmE4d3RoNnoxc1dNMVU5UG5fcEs0eEw0bF9EY1F3OWlCcGpQcXZMbw",
   "CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE",
-  "CBMisgFBVV95cUxNVHdSSjVhSmQwUkViRVA5b0prMDltYWNMekxDV182QV9WRDJvak1JbjBBWXJRcTdNVlVsbHhfTWs5RjJfbGlkMzZldXpNSDBzM3hUTnVNNjBwTFRQWFFmc0paSXFtYnhndEQwMDJqVVE4OGVwaWh0Snl1V2xwMGdmcDdPRFZrWFJac05QdTh2cVZJSTJ0LVI2TGFreXN4NDRGdlhTZXNMMVdHYjJfNWFqeHZn"
+  "CBMisgFBVV95cUxNVHdSSjVhSmQwUkViRVA5b0prMDltYWNMekxDV182QV9WRDJvak1JbjBBWXJRcTdNVlVsbHhfTWs5RjJfbGlkMzZldXpNSDBzM3hUTnVNNjBwTFRQWFFmc0paSXFtYnhndEQwMDJqVVE4OGVwaWh0Snl1V2xwMGdmcDdPRFZrWFJac05QdTh2cVZJSTJ0LVI2TGFreXN4NDRGdlhTZXNMMVdHYjJfNWFqeHZn",
+  "https://nypost.com/?post_type=article&p=41722305",
+  "CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0"
  ],
  "posts": [
-  {
-   "fp": "charged congress illinois mailing members powder white",
-   "title": "Illinois man charged with mailing white powder to members of Congress",
-   "source": "AP",
-   "at": "2026-10-27T00:14:50.411032+00:00"
-  },
-  {
-   "fp": "bolsonaro brazil election looked lula recognize refuses rigged trump",
-   "title": "Trump says Brazil election looked 'rigged' as Bolsonaro refuses to recognize Lula win",
-   "source": "Reuters",
-   "at": "2026-10-27T00:14:52.172253+00:00"
-  },
   {
    "fp": "brokered ceasefire local melania southern starts trump ukraine",
    "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
@@ -3201,11 +3189,21 @@
    "title": "Cornell faculty senate declares no confidence in university leadership",
    "source": "Reuters",
    "at": "2026-11-07T00:38:22.393889+00:00"
+  },
+  {
+   "fp": "fire intensifies loom power risk shutoffs socal urgent warning weather",
+   "title": "Urgent weather warning as SoCal fire risk intensifies and power shutoffs loom",
+   "source": "New York Post",
+   "at": "2026-11-07T03:59:50.053110+00:00"
+  },
+  {
+   "fp": "arrest bank collapse house ousted paraguayan placed president under",
+   "title": "Ousted Paraguayan president placed under house arrest after bank collapse",
+   "source": "AP",
+   "at": "2026-11-07T03:59:52.008874+00:00"
   }
  ],
  "titles": [
-  "charged congress illinois mailing members powder white",
-  "bolsonaro brazil election looked lula recognize refuses rigged trump",
   "brokered ceasefire local melania southern starts trump ukraine",
   "attacks country election israel october open polls since",
   "consequential country election history israel live open polls vote",
@@ -3603,6 +3601,8 @@
   "advancing bill permitting senate vote",
   "data jobs mixed muted rebound stocks",
   "canadian firms iran money related sanctions services transactions treasury",
-  "confidence cornell declares faculty leadership senate university"
+  "confidence cornell declares faculty leadership senate university",
+  "fire intensifies loom power risk shutoffs socal urgent warning weather",
+  "arrest bank collapse house ousted paraguayan placed president under"
  ]
 }
