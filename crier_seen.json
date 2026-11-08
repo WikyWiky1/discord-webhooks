@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiwAFBVV95cUxNTjUxeXdZWDd5c3MxTHBocWZqajJlQ2UwRTF6dW9KMXh6Q1ROdllKRGZiMV9kWUhvRW9CQzNQMU1LYk80U04zc0dLU2ppcFkySWRjenZFSm8wQjA5QmRPVXhPN3dhMTZPdnFiWjh1QjZ6VDR1ZDg5dFFlZ0t0STJzZlBrUzBMQ0N1R1RTQ2FkekRVaTlPN3lPYU94ZjZRdktUTlJEeTVqSEVFamNkc1FWelQ2MnRNb25OemZ5aUx3dl8",
   "https://www.theguardian.com/us-news/2026/oct/19/white-powder-envelopes-congress",
   "https://thehill.com/?p=6158588",
   "https://thehill.com/?p=6158360/",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6206385",
   "CBMiugFBVV95cUxQMHA3VXMwNFNLLTJ5SXZ2MVFOSXh1UWY4b0ZoUk9tYUNfcGh4eU93dXMycXljX3gwZXFnV1Bjb3I5RWgtTF9ZRE92dnRFVzFNdHNwcWdxdjhhY0N1M1FDR2pHeHMxc0pMTklOWnBwR3B2VTRlZ3dqTDN1Um5wZXdKN2xTMGNPOVBsQWpGV1FYQWwyZk1yUEgyWENMa0xBMXRhNW10aXBVN2tWRmtYYkNfbTR6el9MZFB2Snc",
   "https://thehill.com/?p=6205219",
-  "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve"
+  "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
+  "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations"
  ],
  "posts": [
-  {
-   "fp": "await defeated election final israelis netanyahu remains results",
-   "title": "Israelis await final election results as Netanyahu remains far from defeated",
-   "source": "AP",
-   "at": "2026-10-28T12:12:48.545231+00:00"
-  },
   {
    "fp": "celebrates discovery natural tanzania years",
    "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
@@ -3201,10 +3195,15 @@
    "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
    "source": "Guardian World",
    "at": "2026-11-08T12:50:45.526499+00:00"
+  },
+  {
+   "fp": "datacenter demand discarded fossil fuel increased pipeline projects rules spurs",
+   "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+   "source": "Guardian World",
+   "at": "2026-11-08T16:58:07.370946+00:00"
   }
  ],
  "titles": [
-  "await defeated election final israelis netanyahu remains results",
   "celebrates discovery natural tanzania years",
   "crash dozens high kills spain speed train",
   "airstrikes gaza hamas including kidnapper kills terrorists three",
@@ -3603,6 +3602,7 @@
   "alaska close count gives governor race senate update very vote",
   "challenge chances election fifa infantino japan rates tashima",
   "actually congress democrats stop tariffs trump",
-  "achieve climate cop31 stake summit"
+  "achieve climate cop31 stake summit",
+  "datacenter demand discarded fossil fuel increased pipeline projects rules spurs"
  ]
 }
