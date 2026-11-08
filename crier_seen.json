@@ -1,14 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/us-news/2026/oct/19/white-powder-envelopes-congress",
-  "https://thehill.com/?p=6158588",
-  "https://thehill.com/?p=6158360/",
-  "https://nypost.com/?post_type=article&p=41406657",
-  "CBMikwFBVV95cUxPRV8yQ0hzcFRDbkhoWVZyeGJLbnh1eGU0UEZpSk5SUHhLUU45ZlpJcUx3elJZRlc0T2JrRDllWTE4SllpSVBRVG5uV1lYd2dxa1VwQmJMZldYS2hPajZjRDFWSXJhVDM0b29FXzQxQkU2TDltYnNjU1VaN3RaRnhHeHhfbTRLSEZ0MVppcVpuckhFamM",
-  "https://nypost.com/?post_type=article&p=41404553",
-  "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
-  "CBMipwFBVV95cUxOWHpXeUNIUVUyWncxa08zOW5sc3FBWVpwcmwxMDZwMWtlc0dLV2J4UnAzdFdFOG04SlRvYm1fdGpKLUJSc2lWVHdfeHIyNWktSEdFeUMzc3Atb0I2TWw2cmpyLVFyc1pPODdGdEExWDNteklrZndSbDlQYVk0VEFfdmROU093b0ZQa0czUEdDdHVzZW1DazRIQ2lHaVBzT2cySGNnUWV4TQ",
-  "CBMitAFBVV95cUxQZm5OT0o3ZlNzVzN2MHdFR1ROS2FvalhWNHV0REpLcC1fZm16eVc2QjVnalRlMlctNnpnSE5Jb0NRQ2lNYXZMUmV6RUsybG5Wam9ZWTRKSHJyeHB6LTN4bFE3b0dKcmhnUHNFZDJaWmdJd1ZfaXZQeWpWYzhOUmVJelJmVmh6ZlpUUms5VExDMTh3T0ozSlJCeXJicjN4eFlSZC1GQXA1U0xrNTJpcGJFd1JfLVQ",
   "CBMiYkFVX3lxTE56b1BnMjItUmxublpDSnNQWnBKWFQ3MWpnUUU3VGRiakxZQ1BtVkstVVM5QktvRGFVQkxBcGVDdUlnSmZOTlFySk1KN1h5R0g1N1BhRTVkXzgtUXNxZVZwMGV3",
   "https://www.washingtonexaminer.com/?p=4771527",
   "https://thehill.com/?p=6159184",
@@ -799,63 +790,18 @@
   "CBMiugFBVV95cUxQMHA3VXMwNFNLLTJ5SXZ2MVFOSXh1UWY4b0ZoUk9tYUNfcGh4eU93dXMycXljX3gwZXFnV1Bjb3I5RWgtTF9ZRE92dnRFVzFNdHNwcWdxdjhhY0N1M1FDR2pHeHMxc0pMTklOWnBwR3B2VTRlZ3dqTDN1Um5wZXdKN2xTMGNPOVBsQWpGV1FYQWwyZk1yUEgyWENMa0xBMXRhNW10aXBVN2tWRmtYYkNfbTR6el9MZFB2Snc",
   "https://thehill.com/?p=6205219",
   "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
-  "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations"
+  "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
+  "CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0",
+  "https://nypost.com/?post_type=article&p=41734969",
+  "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+  "CBMinAFBVV95cUxQNmxXWHlMc2dscmlkVnk0MmZHeTV0OGtRWmhlSkFqUjlzeldmM0tzb3Q0ZTNoYm9HZFNwOENUN2tnbGtXM2oxWV9JX0hLQUYtMF8zbmQxYThtUGpuTF9va2xmT18ySTZoelJUemtZVWlGcHMtSGhpVkNSRWlmV3JpWS1oMjdDcEVEY29GcG1TZDlOTUNJZlNkaE80ZFc",
+  "https://www.washingtonexaminer.com/?p=4796743",
+  "https://thehill.com/?p=6206617",
+  "CBMinwFBVV95cUxNUTEtRV9yZzVSaHpWNEFPS01fSEFydmw4TTlYcUNudTBmNE5YaWltbmZiRXFqSHNXOUxyalNDLWxxZGJwOHNYMzFmb0EyZUhNaEhhaE1RMFVXdV91TnQ4d2FqUU05ZnFlSjlPMW8wVUxrd0sta2FBMkN6ekNOS0NIdV9uc3ZYMkJvRi12WTBCQnRSN08yUFQ4WEI1T0NDVjQ",
+  "CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc",
+  "CBMimAFBVV95cUxNOE1QUDlWdy1qdEUzMmp4b2FCMUZKSFhLR0hFa0M5eXB3OGZwb0tVZk1xbEFnOXREZWhQTTVqa3BETXhqdTR6YnlONVNsaFRkS1JUc0JzYkZ1UnkwY01pUkRvcDZuQVVybVdlSGhjZHZtRWcyQjlSZnhhOHk5VkxwMURxN2NEZWFwWUd5UWdiUTBWMlRPd1ZwZg"
  ],
  "posts": [
-  {
-   "fp": "celebrates discovery natural tanzania years",
-   "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-   "source": "BBC World",
-   "at": "2026-10-28T12:12:50.317408+00:00"
-  },
-  {
-   "fp": "crash dozens high kills spain speed train",
-   "title": "High-Speed Train Crash Kills Dozens in Spain",
-   "source": "WSJ",
-   "at": "2026-10-28T14:47:01.350563+00:00"
-  },
-  {
-   "fp": "airstrikes gaza hamas including kidnapper kills terrorists three",
-   "title": "IDF kills three Hamas terrorists in Gaza airstrikes, including Oct. 7 kidnapper",
-   "source": "New York Post",
-   "at": "2026-10-28T14:47:03.062360+00:00"
-  },
-  {
-   "fp": "congress dems good harris idea impeaching kamala retake trump warns",
-   "title": "Kamala Harris warns Dems against impeaching Trump if they retake Congress: \u2018Not a good idea\u2019",
-   "source": "New York Post",
-   "at": "2026-10-28T14:47:04.832626+00:00"
-  },
-  {
-   "fp": "attempt bystander crossing despite freshman killed save street",
-   "title": "UF freshman killed while crossing street \u2014 despite bystander\u2019s attempt to save her",
-   "source": "New York Post",
-   "at": "2026-10-28T14:47:06.656717+00:00"
-  },
-  {
-   "fp": "apocalyptic breaking calamity people record shows super where",
-   "title": "Apocalyptic Super El Ni\u00f1o map shows where most people will die from record-breaking calamity",
-   "source": "New York Post",
-   "at": "2026-10-28T14:47:08.358406+00:00"
-  },
-  {
-   "fp": "collide death latest rises spain toll trains updates",
-   "title": "Death toll rises to 64 after two trains collide in Spain \u2013 latest updates",
-   "source": "Guardian World",
-   "at": "2026-10-28T14:47:10.024308+00:00"
-  },
-  {
-   "fp": "crash dead least major second spain train year",
-   "title": "At least 64 dead in Spain's second major train crash in a year",
-   "source": "Reuters",
-   "at": "2026-10-28T14:47:11.765078+00:00"
-  },
-  {
-   "fp": "another dead high least slams spain speed train",
-   "title": "At least 64 dead in Spain after one high-speed train slams into another",
-   "source": "AP",
-   "at": "2026-10-28T14:47:13.569147+00:00"
-  },
   {
    "fp": "attacker embassy israeli kills knife outside policeman serbia",
    "title": "Policeman kills knife attacker outside Israeli embassy in Serbia",
@@ -3201,18 +3147,63 @@
    "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
    "source": "Guardian World",
    "at": "2026-11-08T16:58:07.370946+00:00"
+  },
+  {
+   "fp": "crews deadly emergency russia site southern strike targets ukraine",
+   "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
+   "source": "AP",
+   "at": "2026-11-08T17:07:09.328480+00:00"
+  },
+  {
+   "fp": "coach collapse fires half head jansen nycfc pascal second",
+   "title": "NYCFC fires head coach Pascal Jansen after second-half collapse",
+   "source": "New York Post",
+   "at": "2026-11-08T17:07:11.684057+00:00"
+  },
+  {
+   "fp": "collision egypt four kills least trains",
+   "title": "Collision of two trains in Egypt kills at least four",
+   "source": "Guardian World",
+   "at": "2026-11-08T17:07:13.532320+00:00"
+  },
+  {
+   "fp": "government israel podcast poland shooting shopping talks",
+   "title": "PODCAST: Israel government talks, Poland shooting and AI shopping",
+   "source": "Reuters World",
+   "at": "2026-11-08T17:07:15.244167+00:00"
+  },
+  {
+   "fp": "ahead expected hard hegseth impeachment jeffries massie resolution",
+   "title": "Jeffries a \u2018hard yes\u2019 on Hegseth impeachment ahead of expected Massie resolution",
+   "source": "Washington Examiner",
+   "at": "2026-11-08T17:07:16.921371+00:00"
+  },
+  {
+   "fp": "hakeem hard hegseth impeach jeffries",
+   "title": "Hakeem Jeffries says he's a 'hard yes' to impeach Hegseth",
+   "source": "The Hill",
+   "at": "2026-11-08T17:07:18.639382+00:00"
+  },
+  {
+   "fp": "data death leak reveals russian toll ukraine",
+   "title": "Russian data leak reveals death toll in Ukraine",
+   "source": "Telegraph",
+   "at": "2026-11-08T17:07:20.348735+00:00"
+  },
+  {
+   "fp": "collision egypt giza health injures kills ministry province train",
+   "title": "Train collision in Egypt\u2019s Giza province kills 4 and injures 88, health ministry says",
+   "source": "Reuters",
+   "at": "2026-11-08T17:07:22.055327+00:00"
+  },
+  {
+   "fp": "cairo crash four kills least near train",
+   "title": "Train crash near Cairo kills at least four",
+   "source": "Telegraph",
+   "at": "2026-11-08T17:07:23.755096+00:00"
   }
  ],
  "titles": [
-  "celebrates discovery natural tanzania years",
-  "crash dozens high kills spain speed train",
-  "airstrikes gaza hamas including kidnapper kills terrorists three",
-  "congress dems good harris idea impeaching kamala retake trump warns",
-  "attempt bystander crossing despite freshman killed save street",
-  "apocalyptic breaking calamity people record shows super where",
-  "collide death latest rises spain toll trains updates",
-  "crash dead least major second spain train year",
-  "another dead high least slams spain speed train",
   "attacker embassy israeli kills knife outside policeman serbia",
   "aden airport evacuation houthis strike warning yemen",
   "collision crash dead least province spain toledo train",
@@ -3603,6 +3594,15 @@
   "challenge chances election fifa infantino japan rates tashima",
   "actually congress democrats stop tariffs trump",
   "achieve climate cop31 stake summit",
-  "datacenter demand discarded fossil fuel increased pipeline projects rules spurs"
+  "datacenter demand discarded fossil fuel increased pipeline projects rules spurs",
+  "crews deadly emergency russia site southern strike targets ukraine",
+  "coach collapse fires half head jansen nycfc pascal second",
+  "collision egypt four kills least trains",
+  "government israel podcast poland shooting shopping talks",
+  "ahead expected hard hegseth impeachment jeffries massie resolution",
+  "hakeem hard hegseth impeach jeffries",
+  "data death leak reveals russian toll ukraine",
+  "collision egypt giza health injures kills ministry province train",
+  "cairo crash four kills least near train"
  ]
 }
