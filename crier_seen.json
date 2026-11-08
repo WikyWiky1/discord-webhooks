@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6157113",
-  "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-  "https://www.theguardian.com/australia-news/live/2026/oct/19/helen-haines-updates-independent-mp-injured-in-incident-wangaratta-ntwnfb",
-  "https://nypost.com/?post_type=article&p=41398975",
   "https://www.bbc.co.uk/news/articles/c680zdmn100lo#1",
   "https://www.washingtonexaminer.com/?p=4769131",
   "https://thehill.com/?p=6155154",
@@ -799,33 +795,13 @@
   "https://nypost.com/?post_type=article&p=41729495",
   "https://nypost.com/?post_type=article&p=41704529",
   "CBMisgFBVV95cUxNSXlOVWFGbEdmcjdXRHh1UWR1aEZUUDVHSlpoMG9vUERJWEVRdWZRenlvaWlkZFJ3WFk4MTB6RVFNajRHY2oySHRFbkJqbWVWRVd6M3k3eWtNZTl4RjJZaGNKNWNBQUVrUTduNXFZODI0bmhCbm9XMmtGOHZVaHFKaHVlMURsd2tsUER4ZVZxdjFvLW9TQUxIM3dEMFpjWkpHY3FIdzhqOXZ4UTVDbW0xTFZ3",
-  "CBMivAFBVV95cUxNY1JmenBXVVhvTTZIU0dnVDduN0VVeWNYU3R1Sl9CLVRhQ3RPaUYwcG85TWZrenoxS3Nwc2NKU3FmNnI0Z05ydlhySG9fWjF1cy1sdm9WVlluYUt6SFNzSTVzUFdaSWVQY21Ud0dOV1ROamRnSUFPUUFTZF9mLXpidXRRdjlwRkZfaGVSNmxnMDVhWF9SRDE4TmxsanRkRktselE4SGVRZFlXYmNvbWo1aEJaVl8zZy1YZm9nQg"
+  "CBMivAFBVV95cUxNY1JmenBXVVhvTTZIU0dnVDduN0VVeWNYU3R1Sl9CLVRhQ3RPaUYwcG85TWZrenoxS3Nwc2NKU3FmNnI0Z05ydlhySG9fWjF1cy1sdm9WVlluYUt6SFNzSTVzUFdaSWVQY21Ud0dOV1ROamRnSUFPUUFTZF9mLXpidXRRdjlwRkZfaGVSNmxnMDVhWF9SRDE4TmxsanRkRktselE4SGVRZFlXYmNvbWo1aEJaVl8zZy1YZm9nQg",
+  "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo#0",
+  "https://nypost.com/?post_type=article&p=41731670",
+  "https://nypost.com/?post_type=article&p=41565245",
+  "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612"
  ],
  "posts": [
-  {
-   "fp": "california election issue mayor police terrifying threat warning",
-   "title": "Terrifying threat against California mayor as police issue election warning",
-   "source": "New York Post",
-   "at": "2026-10-27T21:52:16.062831+00:00"
-  },
-  {
-   "fp": "bloc call close election exit fewer give israel netanyahu polls seats slightly",
-   "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
-   "source": "Guardian World",
-   "at": "2026-10-27T21:52:17.704582+00:00"
-  },
-  {
-   "fp": "across ceasefire extended kherson officials region ukraine",
-   "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-   "source": "BBC World",
-   "at": "2026-10-27T22:47:44.791428+00:00"
-  },
-  {
-   "fp": "attack boosts central cops heinous knifepoint nypd park patrols rapes stranger woman",
-   "title": "NYPD boosts patrols in Central Park after stranger rapes woman at knifepoint in heinous attack: cops",
-   "source": "New York Post",
-   "at": "2026-10-27T22:47:46.530523+00:00"
-  },
   {
    "fp": "army attack drone group killed market people rights sudanese",
    "title": "More than 100 people killed in Sudanese army drone attack on market says Sudanese rights group",
@@ -3201,13 +3177,33 @@
    "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
    "source": "Reuters",
    "at": "2026-11-07T23:56:16.841483+00:00"
+  },
+  {
+   "fp": "houthis killed least saudi strike",
+   "title": "Houthis say at least 33 killed in Saudi air strike",
+   "source": "BBC World",
+   "at": "2026-11-08T04:07:29.164471+00:00"
+  },
+  {
+   "fp": "collapse fall hawks heartbreaking late latest loss nets",
+   "title": "Nets collapse late to fall against Hawks in latest heartbreaking loss",
+   "source": "New York Post",
+   "at": "2026-11-08T04:07:30.897690+00:00"
+  },
+  {
+   "fp": "brakes explosion handsaws inside loot millions robberies socal tens train",
+   "title": "Inside the explosion of SoCal train robberies: cut brakes, handsaws and tens of millions in loot",
+   "source": "New York Post",
+   "at": "2026-11-08T04:07:32.601169+00:00"
+  },
+  {
+   "fp": "briton gunman killed krakow rampage right",
+   "title": "Briton among six killed by 'far-right' gunman in Krakow rampage",
+   "source": "Sky News",
+   "at": "2026-11-08T04:07:34.330355+00:00"
   }
  ],
  "titles": [
-  "california election issue mayor police terrifying threat warning",
-  "bloc call close election exit fewer give israel netanyahu polls seats slightly",
-  "across ceasefire extended kherson officials region ukraine",
-  "attack boosts central cops heinous knifepoint nypd park patrols rapes stranger woman",
   "army attack drone group killed market people rights sudanese",
   "attempted case collapse freed murder president vice wife zimbabwe",
   "agent biden caught chicago illegal immigrant killed released sources under venezuelan",
@@ -3603,6 +3599,10 @@
   "collision deathwish haunting history jump killed midair post revealed skydivers tragic victim",
   "blue bucks dems election island malliotakis nicole party rejects rule staten tsunami",
   "armed attack guatemalan killed lawmaker officers police three",
-  "binance chief down finance justin kaiser named steps"
+  "binance chief down finance justin kaiser named steps",
+  "houthis killed least saudi strike",
+  "collapse fall hawks heartbreaking late latest loss nets",
+  "brakes explosion handsaws inside loot millions robberies socal tens train",
+  "briton gunman killed krakow rampage right"
  ]
 }
