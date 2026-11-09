@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiqAFBVV95cUxOeDIxVzUxQjg2MHp5a2twbDVRSXA4X2hUbkZGZVRTX0ZtV2ZEYmtILXFZWWNzbXVEMTJyZTBsVHo4d2MyMXJ3a2RZdVQwSnRkOWZqOWozNDVqcVRUUnVsSnhUOUxYY2x3UkRWWl9SS3NBcjhKQV9PMndYVmZrcThJTFFzSWM5eGRZSUU4RkhTazdXbWo4bjRxQmotWVZia2FJNGg2ZlViZUI",
   "CBMihgFBVV95cUxQbXFsVW11RFNRRmRqS2I3dHk1dUlLOXlzMDc1bFN1d21nanZrNTV0REFMR2hwVXBxTUxtZHlvS1pDR3YwR0ZJeUxWczBaTVJxOGMtVU1TT2xtLUZxQm5BTGRva1FlQkdMMEU5eUREWUJuOHhUd2xpU0tCdTM1X3o0N1luZ29PUQ",
   "https://news.sky.com/story/britain-woefully-unprepared-to-tackle-wildfires-and-needs-new-fire-fighting-planes-and-bbq-bans-needed-mps-warn-13601469",
   "https://nypost.com/?post_type=article&p=41433282",
@@ -799,15 +798,10 @@
   "CBMiogFBVV95cUxPaklVUVlCdlJqUWJRWHNPMER0X1VWQkhLTkdvU2RhaExRSTFlVHJPVEg2MTBKYzRQN0JtSlQ5VWpyNWxxU0dtQ2NkYURUZ3BYekM3N1VfVkZFTHNkMk5QakVpbi1PckoyeGc1MU9MdnFYc2ZRaE95YVkyOTBrM1VSc1lsdVZub0ZoQXVMdWlObUI3bUFEbFZyQTB3TVRpZjU4MGc",
   "CBMiswFBVV95cUxPYXRyTEtYNzJHemlndGF1QmMyd29vN25Id2VpUXlXb24xVWczTHphdDR2Tks3NUlGX19kY19MTzVhNmhjYUxrdmx2NmtQbS1MNklrM05sckVJUy11N1dPWXVGTDctcWNBM2xMZ1RQRHhBTnlqTDdzNm5WckRMM1BWMVRlS0RtZ2dvMG1BUm55VnRqRlE2eDM5Y0hVU3dTb0JVNlAyR2xSQ0NycGJnQWdOanpxSQ",
   "CBMilAFBVV95cUxOMklzemtqRmozV3F4SFlXLWNpSUQ1TGU4YU9Yd08zWGpCSEJqdWIyYkhlM1hKVUpHUl9UajlqZmtJR1REeHVvZERiU1p6MndTM255SXJfdWhKeVpMY1JGRTliTEF5d1JlQnk4bFVQRE0yb3c3V3BibVVYLUxkQ1BobkhIZ0sxemhiVU1meVhqZXVjVVdl",
-  "https://thehill.com/?p=6208177"
+  "https://thehill.com/?p=6208177",
+  "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo#3"
  ],
  "posts": [
-  {
-   "fp": "about election fact focus less misinformation spreads voting week",
-   "title": "FACT FOCUS: Misinformation about voting spreads less than a week before Election Day",
-   "source": "AP",
-   "at": "2026-10-29T18:05:14.879798+00:00"
-  },
   {
    "fp": "2024 carolina charges election illegal noncitizens north voting",
    "title": "DOJ charges 18 noncitizens in North Carolina for illegal voting in 2024 election",
@@ -3201,10 +3195,15 @@
    "title": "Fourth DOJ official resigns within the span of a week",
    "source": "The Hill",
    "at": "2026-11-09T17:47:06.159562+00:00"
+  },
+  {
+   "fp": "2026 begin climate hottest predict record scientists talks year",
+   "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+   "source": "BBC Science",
+   "at": "2026-11-09T21:21:37.588741+00:00"
   }
  ],
  "titles": [
-  "about election fact focus less misinformation spreads voting week",
   "2024 carolina charges election illegal noncitizens north voting",
   "detroit holds michigan seat senate",
   "alaska fishing issue race senate tight",
@@ -3603,6 +3602,7 @@
   "blast kills plant steel turkey western",
   "blanche civil department division head justice resigns",
   "attack centre ebola fears flee patients spread treatment",
-  "fourth official resigns span week within"
+  "fourth official resigns span week within",
+  "2026 begin climate hottest predict record scientists talks year"
  ]
 }
