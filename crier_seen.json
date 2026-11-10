@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
   "CBMiwAFBVV95cUxNSTVHd2VEZUVrVDJpZzdZTFpLRDlEdXdVck83NDhpeUlyZnNwVVNqRWppNThJVVFiMDJPazVOblA1ZDdScmJ2SWFodWpKMC1BZHdjTmlsdFROVkZfRWJpbzZ6VEdUUnVpcnE4NWxxNGI0V1VVNTJ6YnNaR01wT0VsZmhVNlJIU1BFV3ZPVUprek8ySE83U2xfaldDaGhwLTRHem5QMnBYTE9VbjEzS0JkSENkZTc2UUpETVpTUGtWejg",
   "CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw",
   "https://thehill.com/?p=6162781",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
   "CBMikwFBVV95cUxON3JURzdxSWtQNVp6X3phSmh4WmNLbUF4VzYtaDVLdEZ4QUlwbTMwTERYS2ZLWkhqbHIxWk14UlV5M1NKUWtfNEFFdGp2Rks4WURWV0Q5LV9uQW1UVjQyUFE0aVQyOXh5TDh3bkJ6aUlIS2ZHd3F5czRRTV9tZjRBaWJLb3pKN0pkb20weXlUMlhET1E",
   "CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA",
-  "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote"
+  "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+  "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat"
  ],
  "posts": [
-  {
-   "fp": "bosnia crash four helicopter italian killed mission",
-   "title": "Four killed in crash of Italian helicopter on EU mission in Bosnia",
-   "source": "Reuters",
-   "at": "2026-10-29T22:56:25.073970+00:00"
-  },
   {
    "fp": "alphabet capex ends jitters lower miss revenue revives street wall",
    "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
@@ -3201,10 +3195,15 @@
    "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
    "source": "Guardian World",
    "at": "2026-11-10T06:08:34.365272+00:00"
+  },
+  {
+   "fp": "aircraft evacuated iran mildenhall reportedly threat",
+   "title": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
+   "source": "Guardian World",
+   "at": "2026-11-10T08:26:56.623474+00:00"
   }
  ],
  "titles": [
-  "bosnia crash four helicopter italian killed mission",
   "alphabet capex ends jitters lower miss revenue revives street wall",
   "boost forecasts sales satellite spacex stmicroelectronics strong supplier",
   "election expected several severe states weather",
@@ -3603,6 +3602,7 @@
   "adolf candidate dumps election goat hitler nation praised victorian",
   "advance asian rise shares stocks street technology wall",
   "asian buoy climb prices sentiment sliding stocks",
-  "advances bill clean energy pipelines projects senate speed"
+  "advances bill clean energy pipelines projects senate speed",
+  "aircraft evacuated iran mildenhall reportedly threat"
  ]
 }
