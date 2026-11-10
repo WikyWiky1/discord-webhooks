@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41437030",
-  "CBMiuAFBVV95cUxNMmU2eWgtaS16RkowaUc4X1NDSVNrT3IzLXhaZW9LUEVFcGFFakNrWnJidjU4NEdnYW9LdzhvYnh2aFdiTGNQMEYwMWRHLXV3ZFZ1R0V5N3RSVi1IYk5JcklvYmpxVXhHZWdBMGgwSjQzMkVydUJWUjIzdzl6MVpGZEZSeTJWeEtzQjVKb29QMjlQd1BhOHh5SWs4Y1dXWFJ4eVcySjRHaWRpWDJkWkphRWZyMEl0bHU3",
-  "CBMisAFBVV95cUxQV3Z1M0hIWmMwVzhzMjdpX3Zxd3Vmenpidl9vXzNxc3RyOXV4ZGpQTFdGLUNMRFpZMkV6ZDY5SUpPTUotenN0N1VGS01RNGxaQUlROGoyV3dRN1YwWHR6YzdRdzdLSzdJdlR4alRzcHVOdkRrb2JmdzRsOEFDMXB0Wk5SQjg5ZkczMF8yVjB3VktXbWduaGEwbFZaOHgyejBsOUVWWXhTVm9uSUZiX3dIVw",
-  "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
-  "https://www.bbc.co.uk/news/articles/ck20rver1j31o#0",
   "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
   "CBMiwAFBVV95cUxNSTVHd2VEZUVrVDJpZzdZTFpLRDlEdXdVck83NDhpeUlyZnNwVVNqRWppNThJVVFiMDJPazVOblA1ZDdScmJ2SWFodWpKMC1BZHdjTmlsdFROVkZfRWJpbzZ6VEdUUnVpcnE4NWxxNGI0V1VVNTJ6YnNaR01wT0VsZmhVNlJIU1BFV3ZPVUprek8ySE83U2xfaldDaGhwLTRHem5QMnBYTE9VbjEzS0JkSENkZTc2UUpETVpTUGtWejg",
   "CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw",
@@ -799,39 +794,14 @@
   "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
   "CBMiwAFBVV95cUxNdWw0eFdQQ241MXc4cEJodjl6UWtSVFNSaEdUeFEtSjB5b3ZYRVh1aGRJR2lyeGtYM09sejhMQzF1TnBwWjcteHUtUlVwSTZ6SFFEN3M4cFlLU3NaMkZYMlZoWFJmRE1KODBVRlh3TmNQNklvY2p3UVEtc1VrU0FzLWlLeHpDenVuN1dkSGMxb2QxRXR2dzV5dWhRUE1lQVR6UU14aWJZVml6bi1sT2hLQU42VENxUEVGQnhQSU82N04",
   "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro#0",
-  "https://www.washingtonexaminer.com/?p=4798081"
+  "https://www.washingtonexaminer.com/?p=4798081",
+  "CBMirgFBVV95cUxOV0o0bUl0UHR1anhDb09XX3Q5cFpiOHIyU1h5R3EtdlZjZE1KTGd2OEFRSDFleWxuR0F5dVNUd3gxZ2xnX193MlgxYmpHM3lWejdVVDFHQWJUZjVFV2d1VlpocE1DOEIxRUtoZ1JGS0Fwck1nc0VGSTBEbUNHZG90QnB3Sno3a0FZLWpHNm9JRFh6VkozbXBjY1lqak1sUkVrdl9JQk53Qko0ZElSR1E",
+  "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
+  "CBMikwFBVV95cUxON3JURzdxSWtQNVp6X3phSmh4WmNLbUF4VzYtaDVLdEZ4QUlwbTMwTERYS2ZLWkhqbHIxWk14UlV5M1NKUWtfNEFFdGp2Rks4WURWV0Q5LV9uQW1UVjQyUFE0aVQyOXh5TDh3bkJ6aUlIS2ZHd3F5czRRTV9tZjRBaWJLb3pKN0pkb20weXlUMlhET1E",
+  "CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA",
+  "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote"
  ],
  "posts": [
-  {
-   "fp": "beyond early freely lagarde monetary policy resigns speak topics",
-   "title": "ECB's Lagarde resigns early so she can speak freely on topics beyond monetary policy",
-   "source": "Reuters",
-   "at": "2026-10-29T18:29:56.499684+00:00"
-  },
-  {
-   "fp": "action couple crash florida killed leapt lives responder save spain survives then train",
-   "title": "Florida first-responder couple survives Spain train crash that killed 69 \u2014 then leapt into action to save lives",
-   "source": "New York Post",
-   "at": "2026-10-29T22:56:17.821897+00:00"
-  },
-  {
-   "fp": "about alarms build carolina component fire nuclear plans raise site south watchdogs where",
-   "title": "Watchdogs raise alarms about fire at South Carolina site where US plans to build nuclear component",
-   "source": "AP",
-   "at": "2026-10-29T22:56:19.640828+00:00"
-  },
-  {
-   "fp": "attack colorado crimes firebombing guilty hate jews pleads suspect",
-   "title": "Colorado firebombing attack suspect pleads guilty to hate crimes against Jews",
-   "source": "Washington Examiner",
-   "at": "2026-10-29T22:56:21.381991+00:00"
-  },
-  {
-   "fp": "accidents deadly does having keep rail spain",
-   "title": "Why Does Spain Keep Having Deadly Rail Accidents?",
-   "source": "WSJ",
-   "at": "2026-10-29T22:56:23.054282+00:00"
-  },
   {
    "fp": "bosnia crash four helicopter italian killed mission",
    "title": "Four killed in crash of Italian helicopter on EU mission in Bosnia",
@@ -3201,14 +3171,39 @@
    "title": "Trump says he\u2019ll \u2018stand by\u2019 Hegseth as \u2018loser\u2019 Massie renews impeachment effort",
    "source": "Washington Examiner",
    "at": "2026-11-10T01:02:01.326924+00:00"
+  },
+  {
+   "fp": "change control democrats elects gained president states",
+   "title": "Democrats have gained control in more states. That could change the way the US elects its president",
+   "source": "AP",
+   "at": "2026-11-10T06:08:27.127321+00:00"
+  },
+  {
+   "fp": "adolf candidate dumps election goat hitler nation praised victorian",
+   "title": "One Nation dumps Victorian election candidate who praised Adolf Hitler as \u2018GOAT\u2019",
+   "source": "Guardian World",
+   "at": "2026-11-10T06:08:29.053533+00:00"
+  },
+  {
+   "fp": "advance asian rise shares stocks street technology wall",
+   "title": "Asian stocks rise after technology shares advance on Wall Street",
+   "source": "AP",
+   "at": "2026-11-10T06:08:30.786451+00:00"
+  },
+  {
+   "fp": "asian buoy climb prices sentiment sliding stocks",
+   "title": "Asian stocks climb as sliding oil prices buoy sentiment",
+   "source": "Reuters",
+   "at": "2026-11-10T06:08:32.546445+00:00"
+  },
+  {
+   "fp": "advances bill clean energy pipelines projects senate speed",
+   "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
+   "source": "Guardian World",
+   "at": "2026-11-10T06:08:34.365272+00:00"
   }
  ],
  "titles": [
-  "beyond early freely lagarde monetary policy resigns speak topics",
-  "action couple crash florida killed leapt lives responder save spain survives then train",
-  "about alarms build carolina component fire nuclear plans raise site south watchdogs where",
-  "attack colorado crimes firebombing guilty hate jews pleads suspect",
-  "accidents deadly does having keep rail spain",
   "bosnia crash four helicopter italian killed mission",
   "alphabet capex ends jitters lower miss revenue revives street wall",
   "boost forecasts sales satellite spacex stmicroelectronics strong supplier",
@@ -3603,6 +3598,11 @@
   "aged beaconsfield collapse dies illness mine russell survivor todd",
   "krakow march mass nation participate shocked shooting silent thousands",
   "congressman defence force hegseth impeachment republican secretary vote",
-  "effort hegseth impeachment loser massie renews stand trump"
+  "effort hegseth impeachment loser massie renews stand trump",
+  "change control democrats elects gained president states",
+  "adolf candidate dumps election goat hitler nation praised victorian",
+  "advance asian rise shares stocks street technology wall",
+  "asian buoy climb prices sentiment sliding stocks",
+  "advances bill clean energy pipelines projects senate speed"
  ]
 }
