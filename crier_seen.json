@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6166975",
-  "CBMinwFBVV95cUxPRFRLNG50TnRVZ0t2T0h3M3AxR0s2SkJXbWxabnBWQU43dlY5dTNrdGZhdi1XUkxwMTc0OVBlV0NnVkNLaGhKY3k0YUJWQW03ZEJfemJPZVpkVG5sa1FZcTc5QUtFQWVDUHY1RFJZSDB2ck4wSGxUcGxaMmo1SlN2bW9xMzlPRmpMRlFGMG15bkhuUjhtV2FZcU1xcUw5OWs",
-  "CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc",
-  "https://www.washingtonexaminer.com/?p=4776807",
-  "CBMiogFBVV95cUxOVXBZYkZtdldzQ01oLVBGazQ1WTlGbkVWZW9vSlljTHBDY0liRXJ0cC0yRlhCSG80MFZJT3VDNzNsWldMczBGS0dQR3ZyQ3ZlLWd1T2p4cTJEVHItSEhtcU4wSWNaUjJhMXF1SW5vRlNZQk8zNXA0aTVfTmJhOFQzOTZzS3JOYmxoNFludUpUZlhYQXBhZHE5SlRTdHY4bW1kMFE",
-  "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
   "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc",
   "https://thehill.com/?p=6167033",
   "CBMimgFBVV95cUxQcWdSTE1xZjBQWlRuLVlHeGg3MmdGTkJhTlNyR3l5VXc1eXN5eGE4NmdGYm1ZOWJNMDBKUGcza2FhcjhvZ1V3ZjJzUk5qSWxhTkkxWXl6VTQ4WXlKcnRyZDNYd2xqc3ZoQTY0WE1FS1FNcTlaWThoT2FYeXZoSjNSLW1TeHFxR2VJZTVYaERJeHhZd2JMSERJWUh3",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=41797640",
   "https://thehill.com/?p=6214107",
   "CBMiggFBVV95cUxPUExDWTZsajA0RFd3MEFVLUVkUEpBeksyNXhieURxS0NxR3EtbW1vU08teHBqc1BDTXVpY0pYZEhDMGVQbG1qQ1IzZko1dGJZbTFjNnNiRTNyeVhNTkRDRzg3VUZsbERVVkpWdTNvYU45NUpIdFJWM2lqQ1ExTHpVbUZn",
-  "CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw"
+  "CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw",
+  "https://nypost.com/?post_type=article&p=41799533",
+  "https://nypost.com/?post_type=article&p=41803206",
+  "https://nypost.com/?post_type=article&p=41800514",
+  "https://pagesix.com/?post_type=article&p=9334167",
+  "CBMijwFBVV95cUxQMlZId0RsMUdSc3RNcWhhS3NHaFNVUXJBMGtVWVJhZHZ5WWIxOHk2MnJKUHRLNlV5aGEyYmZ6TEhKQmYxaE9JWGh5dVdfOGg2LWxUUEVuV3JoYjNGb0c4M0lmZDdGRS1yTG9ydmNfdHlsNDllQWJySlVZcDh2b3A4Y0t3NWZ6S0I0aFQtazUwRQ",
+  "CBMilwFBVV95cUxQSm5NRExULU5tcTd4RzJheFRpVjBmbnVGY09uZFowamtTOTg4bG9KTUZnN0tIS2FCdGpMOUFCQm9xLUUzb01nSGx2UUZkdUFfV3BvcHc2QXcxNzJCeDRXUzFzS0VLd2ZLZ0tVc2RWWGMySHctZWQ4M0hQZ1pQYlAzU3FJMTYtVFRTdlh0ZUZGMUs3QWE5M2VV"
  ],
  "posts": [
-  {
-   "fp": "control decide races senate",
-   "title": "The 6 races that could decide Senate control",
-   "source": "The Hill",
-   "at": "2026-10-31T16:53:10.949706+00:00"
-  },
-  {
-   "fp": "brazil election foreign meet minister rubio source tension",
-   "title": "Rubio and Brazil's foreign minister to meet after election tension, source says",
-   "source": "Reuters World",
-   "at": "2026-10-31T16:53:12.767851+00:00"
-  },
-  {
-   "fp": "campaign congress control enters final weekend",
-   "title": "US campaign for control of Congress enters final weekend",
-   "source": "Reuters",
-   "at": "2026-10-31T16:53:14.552839+00:00"
-  },
-  {
-   "fp": "budget government keeps rules stay track within",
-   "title": "U.K. Budget Keeps Government on Track to Stay Within Rules",
-   "source": "WSJ",
-   "at": "2026-10-31T16:53:16.314721+00:00"
-  },
-  {
-   "fp": "candidate independent latest leads nebraska osborn points poll ricketts senate",
-   "title": "Ricketts leads independent candidate Osborn by 6 points in latest Nebraska Senate poll",
-   "source": "The Hill",
-   "at": "2026-10-31T16:53:18.193698+00:00"
-  },
-  {
-   "fp": "black ceasefire growing interest limited sees",
-   "title": "US sees growing interest in limited ceasefire in Black Sea",
-   "source": "Reuters",
-   "at": "2026-10-31T19:31:07.340915+00:00"
-  },
   {
    "fp": "attack immediate iranian leader mideast news other potential response threatens",
    "title": "Iranian leader threatens immediate response to potential attack, and other Mideast news",
@@ -3201,15 +3165,45 @@
    "title": "Housing protests fill Barcelona and Madrid as Spain\u2019s workers strike ahead of election",
    "source": "AP",
    "at": "2026-11-11T21:45:04.265444+00:00"
+  },
+  {
+   "fp": "democrats draws fire hegseth impeachment pete success",
+   "title": "Pete Hegseth\u2019s success draws Democrats\u2019 impeachment fire",
+   "source": "New York Post",
+   "at": "2026-11-11T22:59:33.193144+00:00"
+  },
+  {
+   "fp": "building collapse dead fdny least leaves massive rubble searches through",
+   "title": "Massive NYC building collapse leaves at least 1 dead as FDNY searches through rubble",
+   "source": "New York Post",
+   "at": "2026-11-11T22:59:34.921545+00:00"
+  },
+  {
+   "fp": "blames bogus excuse fume gillen hegseth impeachment laura missing traffic vote voters",
+   "title": "LI voters fume after Rep. Laura Gillen blames traffic for missing Hegseth impeachment vote: \u2018Bogus excuse\u2019",
+   "source": "New York Post",
+   "at": "2026-11-11T22:59:36.742875+00:00"
+  },
+  {
+   "fp": "dead england favorite general hospital randall villain",
+   "title": "\u2018General Hospital\u2019 fan-favorite villain Randall England dead at 75",
+   "source": "New York Post",
+   "at": "2026-11-11T22:59:38.487968+00:00"
+  },
+  {
+   "fp": "building city collapse people rubble traps york",
+   "title": "New York City building collapse traps people in rubble",
+   "source": "AP",
+   "at": "2026-11-11T22:59:40.263115+00:00"
+  },
+  {
+   "fp": "country joins krakow march nationalist poland president reels shooting",
+   "title": "Poland\u2019s president joins a nationalist march as the country reels from the Krakow shooting",
+   "source": "AP",
+   "at": "2026-11-11T22:59:41.998189+00:00"
   }
  ],
  "titles": [
-  "control decide races senate",
-  "brazil election foreign meet minister rubio source tension",
-  "campaign congress control enters final weekend",
-  "budget government keeps rules stay track within",
-  "candidate independent latest leads nebraska osborn points poll ricketts senate",
-  "black ceasefire growing interest limited sees",
   "attack immediate iranian leader mideast news other potential response threatens",
   "allegedly associate charged kash kill michigan patel threatening",
   "alaska aside attorneys ballots demand even meritless possible senate trump",
@@ -3603,6 +3597,12 @@
   "congress delay dems hospitals january medicaid panicking push requirements slated work",
   "administration alice allegations democrat following huang megaspeed presses probe senate trump",
   "2026 carolina election live results senate south",
-  "ahead barcelona election fill housing madrid protests spain strike workers"
+  "ahead barcelona election fill housing madrid protests spain strike workers",
+  "democrats draws fire hegseth impeachment pete success",
+  "building collapse dead fdny least leaves massive rubble searches through",
+  "blames bogus excuse fume gillen hegseth impeachment laura missing traffic vote voters",
+  "dead england favorite general hospital randall villain",
+  "building city collapse people rubble traps york",
+  "country joins krakow march nationalist poland president reels shooting"
  ]
 }
