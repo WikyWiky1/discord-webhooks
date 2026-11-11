@@ -1,15 +1,10 @@
 {
   "events": {
-    "600061268": {
-      "discord_id": "1566523194272129105",
-      "start": "2026-11-07T22:00:00+00:00",
-      "name": "UFC Fight Night: Cortes Acosta vs. Walker"
-    },
     "600061400": {
       "discord_id": "1569058529048920189",
       "start": "2026-11-14T22:00:00+00:00",
       "name": "UFC 334: Gane vs. Hokit"
     }
   },
-  "last_run": "2026-11-10T20:41:42+00:00"
+  "last_run": "2026-11-11T21:02:04+00:00"
 }
