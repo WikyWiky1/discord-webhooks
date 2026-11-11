@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4775450",
   "https://nypost.com/?post_type=article&p=41461070",
   "CBMisgFBVV95cUxNZFM5MXdER0tRRjNfSVE4QXZpNzd1eGxJUWFGSkd5WVhpREx3a2JiZ3VaSVlVUVBkMk14NXpJLWp6Z2wxaEFQalFubDZuTElER0NXa21tMS1kbi14Q2Z1T0ZvYTltakQ4Z0h3Sko3RExtRERHS18wM3BsRWkzQXJCelFWXzd6QkU3RFdVeFZiNzNrX2JPemFvdXVsVUp1NW0tOVY1bkJYVzZPd1JsckR0RUZn",
   "CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc",
@@ -799,15 +798,10 @@
   "CBMitgFBVV95cUxQWGIzT1Bsa3NLR1VMamE3ZXpZblhwbFVuV0I1Q1UxZDhGQW9RR3E5NmpQVVBiMW1ibUhkYXRoN1ZESUlRZVIteU9OX2FfcUlyZEJiU1lFcllZQm5jaWx1Wkh2WGhqMjRWYUc5NjJBY252UERLVU5HTEFmb1pwNHlXYXVUN3Z5dE4xVkVRbXJnMkZTTGpDNldBMS1PTlBRVFpPVjhOUEE5eEFsQkE0bHVjU2FJN0NSdw",
   "CBMitwFBVV95cUxPWjF0cmpoaVllMVJheTNxYklTOUhpVjRaS3M1NUxoTDVVWklMMzdNZV9YVnh0dlEzVTI0Zk4tTVRkSzFtbXlWMThLcXI2X0F4M2lRRkZXZ0tEV2FOS1ZLeVZ5Q0x5czRRSExneER0REFDYVI5ZFdVWjd3V3hyNHpuV2NkdUpTN1dMUUlBbktiNzYzOGtFT1NQZzFvTTFLa2V5SWkwUDVpSEZQNlZjNVNxeE50cEFveFE",
   "https://thehill.com/?p=6212389",
-  "CBMirwFBVV95cUxNeDdIZ0RwVjNYVGVNbFY5SnFjcFlkdHUtNk1hVjRyVzNKbS1mOUtEZDdjQzgtV2phQy1oSXBVY3hlcHE2WUVxaDlreGo4d3kyU2NYZDc2anN6Zm5GWjBoRmpKMGs1YktyOU5XSDBEMjhNS2hEUXR2OWZuWm1XZVBvRWpnSTUwcW0zdFpYOTgySG5JYTVna29OdVlPYU82TnI0eENTQjJrQk85NFNiMVBN"
+  "CBMirwFBVV95cUxNeDdIZ0RwVjNYVGVNbFY5SnFjcFlkdHUtNk1hVjRyVzNKbS1mOUtEZDdjQzgtV2phQy1oSXBVY3hlcHE2WUVxaDlreGo4d3kyU2NYZDc2anN6Zm5GWjBoRmpKMGs1YktyOU5XSDBEMjhNS2hEUXR2OWZuWm1XZVBvRWpnSTUwcW0zdFpYOTgySG5JYTVna29OdVlPYU82TnI0eENTQjJrQk85NFNiMVBN",
+  "https://nypost.com/?post_type=article&p=41784407"
  ],
  "posts": [
-  {
-   "fp": "around coup court nation plane polish president turns",
-   "title": "Polish president turns plane around after 'coup' at nation\u2019s top court",
-   "source": "Fox News World",
-   "at": "2026-10-30T23:51:09.503442+00:00"
-  },
   {
    "fp": "congo democratic ebola kills outbreak people republic",
    "title": "Ebola outbreak kills more than 5,000 people in Democratic Republic of Congo",
@@ -3201,10 +3195,15 @@
    "title": "India garment makers rethink reliance on US after tariff shock",
    "source": "Reuters",
    "at": "2026-11-11T04:55:33.006368+00:00"
+  },
+  {
+   "fp": "dispute fight going killed mexico neighbors noise shoot teen warned",
+   "title": "New Mexico mom warned neighbors her son, 10, is \u2018going to shoot you\u2019 before he killed teen over noise dispute fight",
+   "source": "New York Post",
+   "at": "2026-11-11T08:22:15.635792+00:00"
   }
  ],
  "titles": [
-  "around coup court nation plane polish president turns",
   "congo democratic ebola kills outbreak people republic",
   "approach bass biggest homelessness karen nithya promises raman regret reveals slams wildfire",
   "apartment battery bike death fire raising relatives sparked three toll tragic",
@@ -3603,6 +3602,7 @@
   "buying crude foreign higher indian open robust softer stocks",
   "call dozen early election races remain week",
   "advances bill closer finish permitting reform senate",
-  "garment india makers reliance rethink shock tariff"
+  "garment india makers reliance rethink shock tariff",
+  "dispute fight going killed mexico neighbors noise shoot teen warned"
  ]
 }
