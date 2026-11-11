@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR",
   "https://www.washingtonexaminer.com/?p=4776378",
   "CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ",
   "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o#0",
@@ -799,15 +798,10 @@
   "CBMiyAFBVV95cUxPcXlneHB3NXU4Z25aT3Q0NThuU05WN2ZyS001akVGdlMzV3JfeWYzLWd0dko0MVZSZHlFUExJWE42UnUzOUd0aEZJZ05LZFJPTkRzcE9kWmVsS0Y0X1R6blJ0OTJNeEVxZHhNcERtLWU0c2RzS1hxcTZwTkdwNGtHdTNmYXk0eVQzcmVXMlQzZ3FkdVJKTzdyZVZVeWdNYm5idC0yTTk0TW42cVp5bkx6NlVidFF0Mnk0T05BQVd0bzNnSmRURTdWRA",
   "https://thehill.com/?p=6212080",
   "CBMirgFBVV95cUxNQ0tDaWxJVnFUVzlrbFZ4UlNRWTRpdWdidXRnenUzSVlISnNTT1RNaDRNWC1iWU9PZXdPTHRQUUJOTlJaOFRLdWxodDBhV3hINllRODNtSnVtdVU5ZHZMcWN1Q0h5ejJUVHB2WGpyVWxJU2ZFTGtROC11SUJTdU1DNWt5MUNiRTFfSmNkMjhrcU1aODh6bEQ2SThibDcxMUIzUmx4TDRsR1cxcUNta0E",
-  "https://www.theguardian.com/us-news/2026/nov/11/virginia-murder-dismembering"
+  "https://www.theguardian.com/us-news/2026/nov/11/virginia-murder-dismembering",
+  "https://www.washingtonexaminer.com/?p=4799937"
  ],
  "posts": [
-  {
-   "fp": "chill costs heating home races senate threaten vote",
-   "title": "Home heating costs threaten to chill GOP vote in key Senate races",
-   "source": "The Hill",
-   "at": "2026-10-31T11:45:51.639588+00:00"
-  },
   {
    "fp": "again company earnings skyrocket",
    "title": "Oil company earnings skyrocket \u2014 again",
@@ -3201,10 +3195,15 @@
    "title": "Virginia man convicted of murder says he did not kill wife before dismembering her body",
    "source": "Guardian World",
    "at": "2026-11-11T16:33:00.547296+00:00"
+  },
+  {
+   "fp": "afghanistan army claims combat disputes military moore record renewed scrutiny supervisor under",
+   "title": "Wes Moore\u2019s military record under renewed scrutiny after Army supervisor disputes his Afghanistan combat claims",
+   "source": "Washington Examiner",
+   "at": "2026-11-11T18:29:55.732817+00:00"
   }
  ],
  "titles": [
-  "chill costs heating home races senate threaten vote",
   "again company earnings skyrocket",
   "back bring chesapeake oyster plunged resident stocks wants",
   "cancels dates deep emergency gillan hospitalized medical purple singer tour upcoming",
@@ -3603,6 +3602,7 @@
   "alternatives bank collapse digital leaves market paraguay scrambling traders",
   "greene hegseth impeach marjorie taylor vote",
   "aircraft base evacuated exclusive iran second threat",
-  "body convicted dismembering kill murder virginia wife"
+  "body convicted dismembering kill murder virginia wife",
+  "afghanistan army claims combat disputes military moore record renewed scrutiny supervisor under"
  ]
 }
