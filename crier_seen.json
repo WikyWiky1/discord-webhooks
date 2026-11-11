@@ -1,10 +1,5 @@
 {
  "ids": [
-  "CBMiYkFVX3lxTE5PdnZxdHFJSDhuV0I4VVpRRVZJUnFiMDJ6Z3cyeGQ4Sllsb0xfVzBSWGJ2ZUlNRk5WRkR2dEtQNlBXZkp6YzlaajdlSERCc3dCaC1jU20talBQYzdPbjFMd0R3",
-  "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-  "CBMiqAFBVV95cUxQNVdHcXJLUDN1N0FpRTE3WDBtU2dWQVZmQl8wb3RDaWpuRkpqcUU3NERZYjA0Ri15WC1FT3FHMENTaDIxVUFFR3NjWXZ4TFUyN2EtVVFiR243UGRZQVY3dmo3Q1o0bkE0bVdQUHBUYlEtMWJlbmFqZi1FUTVpeHpoeXlRby1Nb2JvU1Rtb0k3cFZKMkNUX0dha1VUSFU2QzVzZkF6RkFsdzQ",
-  "https://thehill.com/?p=6164202",
-  "https://thehill.com/?p=6163841",
   "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
   "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo#0",
   "https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back",
@@ -799,39 +794,14 @@
   "https://nypost.com/?post_type=article&p=41777054",
   "https://www.washingtonexaminer.com/?p=4799317",
   "https://thehill.com/?p=6212032",
-  "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats"
+  "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats",
+  "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo#0",
+  "https://thehill.com/?p=6212332",
+  "https://www.bbc.co.uk/news/articles/c687z7g4xr97o#3",
+  "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo#0",
+  "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth"
  ],
  "posts": [
-  {
-   "fp": "back constitutional coup donald overseas police polish president scrambles swarmed tribunal trip tusk",
-   "title": "Polish president scrambles back from overseas trip amid Donald Tusk-led \u2018coup d\u2019\u00e9tat\u2019 at police-swarmed Constitutional Tribunal",
-   "source": "Washington Examiner",
-   "at": "2026-10-30T20:04:59.217394+00:00"
-  },
-  {
-   "fp": "derail familiar knicks problem star start threatening",
-   "title": "A familiar problem is threatening to derail Knicks star\u2019s hot start",
-   "source": "New York Post",
-   "at": "2026-10-30T20:05:01.036071+00:00"
-  },
-  {
-   "fp": "arabia emergency leave orders risks saudi security staff",
-   "title": "US orders non-emergency staff to leave Saudi Arabia over security risks",
-   "source": "Reuters",
-   "at": "2026-10-30T20:05:02.859973+00:00"
-  },
-  {
-   "fp": "airman been dead just leap lincoln navy recounts supposed then",
-   "title": "Navy airman recounts USS Lincoln leap: 'If I was supposed to die then I would have just been dead'",
-   "source": "The Hill",
-   "at": "2026-10-30T20:05:04.902196+00:00"
-  },
-  {
-   "fp": "admitting dept didn know past probes sheriff street swindler ties wall",
-   "title": "LA sheriff\u2019s dept probes its ties to $43M Wall Street swindler \u2014 after admitting it didn\u2019t know his past",
-   "source": "New York Post",
-   "at": "2026-10-30T21:57:58.735933+00:00"
-  },
   {
    "fp": "blakeman coming dares election hikes hochul pledges post refused sign taxes",
    "title": "Blakeman dares Hochul to sign \u2018no new taxes\u2019 pledges after she refused to say if hikes were coming post-election",
@@ -3201,14 +3171,39 @@
    "title": "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
    "source": "Guardian World",
    "at": "2026-11-10T22:53:39.450490+00:00"
+  },
+  {
+   "fp": "blocks defence hegseth house impeach pete secretary",
+   "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+   "source": "BBC World",
+   "at": "2026-11-11T01:39:49.123197+00:00"
+  },
+  {
+   "fp": "cruz fired hegseth impeached resign",
+   "title": "Cruz says Hegseth will resign, be fired or get impeached",
+   "source": "The Hill",
+   "at": "2026-11-11T01:39:50.929946+00:00"
+  },
+  {
+   "fp": "gandhi indian journey kill politics sonia turbulent",
+   "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+   "source": "BBC World",
+   "at": "2026-11-11T01:39:52.700332+00:00"
+  },
+  {
+   "fp": "fear floods impact kenyans kill predicted",
+   "title": "'It can kill us': Kenyans fear impact of El Ni\u00f1o with floods predicted",
+   "source": "BBC World",
+   "at": "2026-11-11T01:39:54.492083+00:00"
+  },
+  {
+   "fp": "effectively effort hegseth house impeachment pete votes",
+   "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+   "source": "NPR News",
+   "at": "2026-11-11T01:39:56.246130+00:00"
   }
  ],
  "titles": [
-  "back constitutional coup donald overseas police polish president scrambles swarmed tribunal trip tusk",
-  "derail familiar knicks problem star start threatening",
-  "arabia emergency leave orders risks saudi security staff",
-  "airman been dead just leap lincoln navy recounts supposed then",
-  "admitting dept didn know past probes sheriff street swindler ties wall",
   "blakeman coming dares election hikes hochul pledges post refused sign taxes",
   "deepen faces fears nasdaq october spending trillion wipeout",
   "burn cash closes fears lower selloff sharply spark street tech wall",
@@ -3603,6 +3598,11 @@
   "defeat door election governor lawler leaves mike open outgoing stinging",
   "calls democrats generation grows leading opposition schumer senate",
   "bills chip congress export investigation nvidia pushes",
-  "back bernie democratic leader sanders schumer senate"
+  "back bernie democratic leader sanders schumer senate",
+  "blocks defence hegseth house impeach pete secretary",
+  "cruz fired hegseth impeached resign",
+  "gandhi indian journey kill politics sonia turbulent",
+  "fear floods impact kenyans kill predicted",
+  "effectively effort hegseth house impeachment pete votes"
  ]
 }
