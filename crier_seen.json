@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4777193",
   "CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRUFIZnAxVnM2V0hDMGhUOHVKemxQcFdxc0hmLTJDTTFQWTFTRFhRalM1Y1I3Y0dRTEF6UldFdHg3OVVxd0hkdUFyNTdUN0dDZVRwbTFqbVVyT2FtSw",
   "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
   "https://thehill.com/?p=6168287",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6215464",
   "https://www.washingtonexaminer.com/?p=4801158",
   "CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0",
-  "CBMiqAFBVV95cUxNdXBKWGJabnpPdWxiMlVyeVJmOVB6OGpsX0RNeXVmeEhwRzhnLW1SeXRMZ0h5ZG1TWE9nYXNfZDVfcmxyRl9KZlpsSklrRzhSYnEtaWI1SURoRjFvZzBSeUNqeFpsaGgybjc3amdXUm9YeVVQTGl4T1dVdF9sMV85TlpfLUJ6MUc5cjFhSnBtRi1kVE1qaElUbC1rVVZHaWN4eEhKVldBZUs"
+  "CBMiqAFBVV95cUxNdXBKWGJabnpPdWxiMlVyeVJmOVB6OGpsX0RNeXVmeEhwRzhnLW1SeXRMZ0h5ZG1TWE9nYXNfZDVfcmxyRl9KZlpsSklrRzhSYnEtaWI1SURoRjFvZzBSeUNqeFpsaGgybjc3amdXUm9YeVVQTGl4T1dVdF9sMV85TlpfLUJ6MUc5cjFhSnBtRi1kVE1qaElUbC1rVVZHaWN4eEhKVldBZUs",
+  "CBMinAFBVV95cUxObkxTZjczYXBnS0NQMkdwWXNzY196cl96cmZ5bmZmaU1RMUJXODIwSVVxQng5Z1h0V2NPU2RwelhUeDlOZVVxVHpWLTAyZXBZLVhtcUpFNy1iRWJ3cGpMQ2FadUs0cTU4a3FmQVpvSnkxbENLRmdpMEo1OTRlUGVUUFd6ZDJFdEJwRWpWNTE5YTNTY3h4enV5SVJ3TnY"
  ],
  "posts": [
-  {
-   "fp": "alabama dead football game leaves mass shooting wounded",
-   "title": "Mass shooting after Alabama football game leaves 1 dead, 8 wounded",
-   "source": "AP",
-   "at": "2026-11-01T15:26:01.313768+00:00"
-  },
   {
    "fp": "alabama city classic football game killed magic outside person shooting",
    "title": "One person killed in shooting outside Magic City Classic football game in Alabama",
@@ -3201,10 +3195,15 @@
    "title": "Spain approves housing measures after huge protests. Their duration may depend on election result",
    "source": "AP",
    "at": "2026-11-12T14:55:55.417781+00:00"
+  },
+  {
+   "fp": "2022 asteroid begins close europe hera inspections nasa rammed spacecraft test",
+   "title": "Europe's Hera spacecraft begins close inspections of an asteroid rammed by NASA in a 2022 test",
+   "source": "AP",
+   "at": "2026-11-12T18:45:36.253107+00:00"
   }
  ],
  "titles": [
-  "alabama dead football game leaves mass shooting wounded",
   "alabama city classic football game killed magic outside person shooting",
   "attack blatant condemned nature northern plan shameless territory water",
   "eight gaza israeli kill medics people strikes",
@@ -3603,6 +3602,7 @@
   "colleagues downplaying losses midterm republican senate warns",
   "colom help mississippi scott secure senate stunner viral",
   "crisis deepens global nvidia sector selloff sink stocks",
-  "approves depend duration election housing huge measures protests result spain"
+  "approves depend duration election housing huge measures protests result spain",
+  "2022 asteroid begins close europe hera inspections nasa rammed spacecraft test"
  ]
 }
