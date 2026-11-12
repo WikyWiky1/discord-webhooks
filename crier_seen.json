@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41461130",
-  "https://thehill.com/?p=6166745",
-  "https://thehill.com/?p=6166920",
-  "CBMiqAFBVV95cUxNOGlfN2MxOER5a0RvLVVOMFBXRE5OVkZmTk8weHMtQkFVQWpfYjdxYXFPSV9oR3lZTWgtU3BTa1oxZXdDbTVGb2lDRU9IcUpwaEZoUld2YjdWckNQYzFFbjNreTB4TFRFZU90cW56cGFSM1ZwSFR0N2VkWEdndTN5V1Z1MkplbHVlemNoYWRZeVhDaDFmUkEyTFBrSnJoS3lRLTk0T3Z4SF8",
-  "CBMilgFBVV95cUxPNWpGTk1fbkF2SWY0S1Q2MHN6WjRqQ1R3VWp4WXFKd3VQUG5WSlI1ZXFDY1pSUGJyampWMGtwZ3dRQmxGRzlTbERHSnlraUZ4WmFCSXM4U3J1Z1VSdV81eTB2ck1lWElpSnR2Qi1FbWUwUmJBT1l5enVZLVpsYmMySnBhZ0FDWHZBTElJVEhGYl9tN2tXblE",
-  "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo#0",
   "CBMiugFBVV95cUxOVmRBVlhXaFdmTFBac29hb2o0NWNXRlJsYWRNYUJKeWtPLWN1c3FqcVh6RWhsemJPeFFzZThhM0dUWnNRTVFoWlNxemgtcGVfTnNBYy1vNlF1aEc0QU44Zy1KdVhiNGstRFFOU0JqVk1XMzFrQ1RTcUJvNmcwYVo5RUI1bkZBTFFDUERMYlRLdXh0VFU1Z0p0UlRySjk2QkxhX2Mya3NPaEw5TFR2b0o0T0VpWlRJRjJZTUE",
   "CBMixgFBVV95cUxNejUxWUdfTnA1dERLbFdHM21QSnA0cTl2NVhpeUo1cTRlWElBOHBCazM3cFNxQ3MyQUZuR3BUdTFteHVTeWFqWE1LZWxUa2UtQWxZWmxETUl3c1RJblFobnNUbXFfUkQ5eEpGNkhFUkp2c1NnYnRoaEVyclpmS21kbldqM1dOOHFlSHFtcF9FR3JRRnU5eVhmSUM0U2lOTm05X2d5Vk1HekphdUw5UmtsN25Icks0X0dVVXVGb1BVVElnXzQxcXc",
   "https://nypost.com/?post_type=article&p=41477963",
@@ -799,39 +793,15 @@
   "https://pagesix.com/?post_type=article&p=9335997",
   "CBMizwFBVV95cUxQNWF4NFNZWmEyenpmSjNGM3A3aTZPcEtCT2dTZWstLW8xNFB6VEgzcGNBekJFN2NzUWxCZEhzWTRHM1JzVk51SDZ3ZWNDcThSaTZia0d6X3Zfc3Q1enFWc0kxNThTUTcxblZQUEE5cVN5VXk5VDdrNW1jeGNmeUNGZjM4UW1SMFdqWmtsUGtnYlhxdUMyd3EtMlRIdjV1MEt4b2ZZWDRsQzgzLTVQOWJnX0Z4NDVFMS1RWUR0cHQzMWdudEQ1RmZtX0JPOERVLWM",
   "https://thehill.com/?p=6215009",
-  "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse"
+  "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse",
+  "CBMioAFBVV95cUxQVVhWcG5USS14S1FTbUdWOGtpYjRXSWdoUlJ4Ym95VXFGdnQtdVgyY3pMcjFScHpQc0c3a202TWJVcHp6YjFobDFfRl9Ga01PSGdaTEhZREZXRmtKUFBQY1JWQ0NmTHM2aVZnUVdNS3lPZG5RbDVVdHZFZnBkNmlwNU1Sc21GV1RvY0dwVHlyekd0UFg5aUZlNU1nYkJQZE1Y",
+  "CBMirAFBVV95cUxNLXBWUXlkQ1dVeWdsZ3BNdTlHZkY0Mmw1ZGdZdW9ZY01lUVBNZGN3MjJBeXFOYTNyT3BKdDhMM3dhcDdQMlpVWG5vb214aUpEc0tvNjNqWWNqQ3ppc3RtaXFQN0RrWHNnaEhyRTdBYWZ6YUxzYVVoM09YUWpkclZCN3FDSVNLVXZVY1lpYWlzc1plRFBTNXRrREU5NC10b3BtdXF3X3hnZ1RpS1hT",
+  "https://www.washingtonexaminer.com/?p=4788383",
+  "CBMinAFBVV95cUxPVFFiZmRWVmxZNDlVRnR1NHVQNkprRUhWMnNLMHFLWC1qdGljTm9ON2Z3U2FuXzNUcjRwRmNqMFZVemE4TVA1RVhRdl9paUtyMXJoYWhHbVl5d1FfNWZIZTVVU0IwcDQ0eHlnWGxxWEFhZjdkVko1a1hwY25XWE9uc3Q0MkIyaHpCWkNuZk05SGs1ck5DTFV4ZktQNWo",
+  "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo#0",
+  "https://www.washingtonexaminer.com/?p=4800965"
  ],
  "posts": [
-  {
-   "fp": "americans election last midterm months poll socialism turn",
-   "title": "Americans turn against socialism in last months before midterm election: Poll",
-   "source": "Washington Examiner",
-   "at": "2026-10-31T21:03:22.320666+00:00"
-  },
-  {
-   "fp": "arrive evacuated hundreds land occupied oleshky russian safe town ukrainian",
-   "title": "Hundreds evacuated from Russian-occupied town of Oleshky arrive in safe Ukrainian land",
-   "source": "New York Post",
-   "at": "2026-10-31T22:47:26.620407+00:00"
-  },
-  {
-   "fp": "dead demand fair families mourn prison salvadoran trials",
-   "title": "Salvadoran families demand fair trials, mourn prison dead on Day of the Dead",
-   "source": "Reuters",
-   "at": "2026-11-01T01:44:41.770006+00:00"
-  },
-  {
-   "fp": "chief election hold india mega opposition rally resignation seeking",
-   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-   "source": "BBC World",
-   "at": "2026-11-01T01:44:43.480120+00:00"
-  },
-  {
-   "fp": "blues britain budget defense opinion",
-   "title": "Opinion | Britain\u2019s Defense Budget Blues",
-   "source": "WSJ",
-   "at": "2026-11-01T04:40:15.690003+00:00"
-  },
   {
    "fp": "administration ahead battle election harden lines states trump",
    "title": "Trump Administration, States Harden Battle Lines Ahead of Election Day",
@@ -3201,14 +3171,39 @@
    "title": "Brooklyn building collapse kills at least two people and traps others in wreckage",
    "source": "Guardian World",
    "at": "2026-11-12T03:41:08.180105+00:00"
+  },
+  {
+   "fp": "black colom democrat elects mississippi reconstruction scott senator since state",
+   "title": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
+   "source": "AP",
+   "at": "2026-11-12T05:57:18.246621+00:00"
+  },
+  {
+   "fp": "colom historic mississippi scott seat senate victory wins",
+   "title": "Scott Colom Wins Mississippi Senate Seat in Historic Victory",
+   "source": "WSJ",
+   "at": "2026-11-12T05:57:19.923660+00:00"
+  },
+  {
+   "fp": "asian despite mostly nvidia rally shares slip stocks troubles wall weigh",
+   "title": "Asian shares mostly slip as Nvidia\u2019s troubles weigh on AI stocks, despite a rally on Wall St",
+   "source": "AP",
+   "at": "2026-11-12T05:57:21.646219+00:00"
+  },
+  {
+   "fp": "colom democrat historic mississippi race scott seals senate",
+   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "source": "BBC World",
+   "at": "2026-11-12T05:57:23.380333+00:00"
+  },
+  {
+   "fp": "alaska ballot data judge peltola race reasonable request rules senate",
+   "title": "Judge rules Peltola request for ballot data in Alaska Senate race \u2018not reasonable\u2019",
+   "source": "Washington Examiner",
+   "at": "2026-11-12T05:57:25.147112+00:00"
   }
  ],
  "titles": [
-  "americans election last midterm months poll socialism turn",
-  "arrive evacuated hundreds land occupied oleshky russian safe town ukrainian",
-  "dead demand fair families mourn prison salvadoran trials",
-  "chief election hold india mega opposition rally resignation seeking",
-  "blues britain budget defense opinion",
   "administration ahead battle election harden lines states trump",
   "alaska candidate donor hometown inquiry senate sullivan visits widens",
   "behind biggest breaking crypto cyber heist nightmare record scenes",
@@ -3603,6 +3598,11 @@
   "anthony clark dead dear star",
   "building collapse deadly firefighters photos rubble search",
   "feels huang jensen nvidia resign senator should strongly",
-  "brooklyn building collapse kills least others people traps wreckage"
+  "brooklyn building collapse kills least others people traps wreckage",
+  "black colom democrat elects mississippi reconstruction scott senator since state",
+  "colom historic mississippi scott seat senate victory wins",
+  "asian despite mostly nvidia rally shares slip stocks troubles wall weigh",
+  "colom democrat historic mississippi race scott seals senate",
+  "alaska ballot data judge peltola race reasonable request rules senate"
  ]
 }
