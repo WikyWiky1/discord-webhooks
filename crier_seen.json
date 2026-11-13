@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41488627",
-  "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
-  "CBMitAFBVV95cUxNY2lwdVh1SXlFeWVFaFRvNGN6a0dUaVV1b0diS0ZvaXhmYWJRR3JVYmRudTdhRmg0V18wYVVvenVWaUJJLTRBRkFkZXhIbEdYcHFGOXZiQ1JUMGRadHRMclMxdG9GTE5rTnBlVVoxbUdNM3VuZ0pkN2REZ2hKYWxVcDNubW9ESVMyQmVtS3doVUNLRTk4a1ZBT1hKTVNoT1Qta2U4V28tMW9KaTdpcUI3bDhPYjk",
-  "CBMikAFBVV95cUxNb1RMMm9xckt1YnNRZXdCUWFQVUh4aGlIUnBCbGJLbnFWdTBkcTV4ZWlxbkFiTHJuaGJBZWRtMFhTS19EYkdzUDg1ak9idms4S0RjemJLeE16OFBaTnlFb2lyMElKOGFkVWNtUnZLRklOSXhMdnplQl8yUWNObHRDbFJZcjVTSFNHbG1FZEZQN2c",
-  "CBMirwFBVV95cUxNclhHTkdDZkZ3VldQb1h2Z3RNX1VVMU53SVVwSHBORFRkZWc4bGJjV09fSmRuX2s4NEVCVnhKUE1uZDZzTktqQmZjbHpSR2I3UGFIOXRpeXdxYUV0RnFnckN2ZEVmc3JQMkc2ejduNko0NzVEZkUxbkRTQVlVTE1JX1hQWnFRMkZGNVE0YWowb3hnb05FRE1sazlSQ0laTjFuTC1oNVFrLWFYT053b1Zr",
-  "CBMikwFBVV95cUxQMVk3ODVoRjR6QllSMjBiWkVwWEJSN0hIcWljWDBxb2czZDVMV2lrSnVpUTlTWWdHanhpMGRIUUxaM0ZLN1dyMUJLNHZCaXF4WWRXRGQ2bG5uQVFJV2RLM0ZrZURkU0RKbEphZVh1R1dIeUlhMkpiQzVuaDN2MGdiWmdJUDYyT25LVzRRSXBOLUVldms",
   "CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw",
   "CBMijwFBVV95cUxQamRwXzcwNHNKY1ZyYzctd0JBTlFpWTBtaVVHVU5ZT0lsU1R3STcwMWtzRnlMaGdEMFFheDBRaWRIejhqLXZqajlOanJSbTZEcE16VzZ2VUZQUHpJX0YyZmFXckEwbUtWaDl4Zi1DQmNVOUVmNW5PcnB3UmZIMHgtV3htOFpORXU5dUNmUWNvcw",
   "https://nypost.com/?post_type=article&p=41496664",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=41840308",
   "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
   "CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw",
-  "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+  "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+  "CBMiYkFVX3lxTFBlczBDMGJlM1JqcS1jdTlkT2JNTWVZQmcwR2dwRFRSaXVYNGs5SkNWT3Q3a1VQb2otdGhKWmpUTm9ERV9ZdE5nQndCY2k2bUtBc1hucER6M1JiZE1WT0paM0l3",
+  "https://thehill.com/?p=6219619",
+  "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+  "CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw",
+  "https://thehill.com/?p=6219585",
+  "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader"
  ],
  "posts": [
-  {
-   "fp": "crash deadly florida named nine pilot plane victims young",
-   "title": "Young co-pilot, 20, named as one of nine victims of deadly Florida plane crash",
-   "source": "Guardian World",
-   "at": "2026-11-02T19:55:14.929365+00:00"
-  },
-  {
-   "fp": "bombing emergency kills russian services southeastern ukraine village",
-   "title": "Russian bombing kills 24 in village in southeastern Ukraine, emergency services say",
-   "source": "Reuters",
-   "at": "2026-11-02T19:55:16.825299+00:00"
-  },
-  {
-   "fp": "fake hacked nuclear panic sparks ukraine unease warning",
-   "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-   "source": "BBC World",
-   "at": "2026-11-02T19:55:18.599523+00:00"
-  },
-  {
-   "fp": "congress instead kill license plate readers rewrite rules",
-   "title": "Don't kill license plate readers: Instead, have Congress rewrite the rules",
-   "source": "The Hill",
-   "at": "2026-11-02T19:55:20.437930+00:00"
-  },
-  {
-   "fp": "115m blood bone cells dinosaur fossilised found scientists year",
-   "title": "Fossilised red blood cells found in 115m-year-old dinosaur\u2019s bone, say scientists",
-   "source": "Guardian World",
-   "at": "2026-11-02T20:41:41.574389+00:00"
-  },
-  {
-   "fp": "defection democrats galvanize michigan push race sayed senate stunning voters",
-   "title": "El-Sayed, Michigan Democrats push to galvanize voters after stunning Senate race defection",
-   "source": "AP",
-   "at": "2026-11-02T21:26:47.770027+00:00"
-  },
   {
    "fp": "drop election price touts trump",
    "title": "Trump touts oil price drop on day before election",
@@ -3201,15 +3165,45 @@
    "title": "\u2018Ahead of his time\u2019: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
    "source": "Guardian World",
    "at": "2026-11-13T18:26:57.915737+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-11-13T21:12:43.354379+00:00"
+  },
+  {
+   "fp": "been congress cortez ocasio republicans returned since stevens",
+   "title": "Ocasio Cortez: Stevens has 'been with the Republicans' since Congress returned",
+   "source": "The Hill",
+   "at": "2026-11-13T21:12:45.104428+00:00"
+  },
+  {
+   "fp": "2028 challenge chris gains hollen leadership live politics presidential rules senate support take",
+   "title": "Chris Van Hollen rules out 2028 presidential bid as his challenge to take Senate leadership gains support \u2013 US politics live",
+   "source": "Guardian World",
+   "at": "2026-11-13T21:12:46.821431+00:00"
+  },
+  {
+   "fp": "15th achieve flight launch round seeking spacex starship trip unprecedented",
+   "title": "SpaceX to launch 15th Starship flight, seeking to achieve unprecedented round trip",
+   "source": "Reuters",
+   "at": "2026-11-13T21:12:48.474824+00:00"
+  },
+  {
+   "fp": "2028 abolish calls filibuster hollen house rules senate white",
+   "title": "Van Hollen calls to abolish Senate filibuster, rules out 2028 White House bid",
+   "source": "The Hill",
+   "at": "2026-11-13T21:12:50.242029+00:00"
+  },
+  {
+   "fp": "challenge democrats elect hollen leader senate torn wages whom",
+   "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
+   "source": "Guardian World",
+   "at": "2026-11-13T21:12:51.923870+00:00"
   }
  ],
  "titles": [
-  "crash deadly florida named nine pilot plane victims young",
-  "bombing emergency kills russian services southeastern ukraine village",
-  "fake hacked nuclear panic sparks ukraine unease warning",
-  "congress instead kill license plate readers rewrite rules",
-  "115m blood bone cells dinosaur fossilised found scientists year",
-  "defection democrats galvanize michigan push race sayed senate stunning voters",
   "drop election price touts trump",
   "climb construction democrats election focuses live midterm polls projects trump washington",
   "coin elections final midterm nine races scorecard senate stacking toss",
@@ -3603,6 +3597,12 @@
   "attack dawn detonating device explosive inside officer shocking tossed",
   "conditions confessed detailing dispute doctor living named police shooting suspect",
   "attack bahrain claims downs drones iran iranian military radar strike",
-  "ahead discoveries helps hidden maths notebooks time transformed unlock"
+  "ahead discoveries helps hidden maths notebooks time transformed unlock",
+  "edition journal print street wall",
+  "been congress cortez ocasio republicans returned since stevens",
+  "2028 challenge chris gains hollen leadership live politics presidential rules senate support take",
+  "15th achieve flight launch round seeking spacex starship trip unprecedented",
+  "2028 abolish calls filibuster hollen house rules senate white",
+  "challenge democrats elect hollen leader senate torn wages whom"
  ]
 }
