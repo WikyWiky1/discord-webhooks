@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4778114",
   "https://nypost.com/?post_type=article&p=41488627",
   "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
   "CBMitAFBVV95cUxNY2lwdVh1SXlFeWVFaFRvNGN6a0dUaVV1b0diS0ZvaXhmYWJRR3JVYmRudTdhRmg0V18wYVVvenVWaUJJLTRBRkFkZXhIbEdYcHFGOXZiQ1JUMGRadHRMclMxdG9GTE5rTnBlVVoxbUdNM3VuZ0pkN2REZ2hKYWxVcDNubW9ESVMyQmVtS3doVUNLRTk4a1ZBT1hKTVNoT1Qta2U4V28tMW9KaTdpcUI3bDhPYjk",
@@ -799,15 +798,10 @@
   "CBMijAFBVV95cUxPYzlsZHFSZjhGdjdadGI2VjQ0bVdUX2VXT2lsTk1BQUlLejdKNS0zSEpvUTRhR0I1bjNGQXMtVUZJR1VvUm9jT2xaTXFkTGM1Q1laOHh0YkpONllQTVdTMHgtcUlqUGhFNGotUXRvV2VZT190c3NFWUpRanhyVDNWZ3lfRUgyS3dGZUZHNw",
   "https://nypost.com/?post_type=article&p=41840308",
   "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
-  "CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw"
+  "CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw",
+  "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
  ],
  "posts": [
-  {
-   "fp": "bombing centre kills kyiv people russian ukraine",
-   "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-   "source": "BBC World",
-   "at": "2026-11-02T19:55:13.136576+00:00"
-  },
   {
    "fp": "crash deadly florida named nine pilot plane victims young",
    "title": "Young co-pilot, 20, named as one of nine victims of deadly Florida plane crash",
@@ -3201,10 +3195,15 @@
    "title": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
    "source": "AP",
    "at": "2026-11-13T15:39:47.697615+00:00"
+  },
+  {
+   "fp": "ahead discoveries helps hidden maths notebooks time transformed unlock",
+   "title": "\u2018Ahead of his time\u2019: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+   "source": "Guardian World",
+   "at": "2026-11-13T18:26:57.915737+00:00"
   }
  ],
  "titles": [
-  "bombing centre kills kyiv people russian ukraine",
   "crash deadly florida named nine pilot plane victims young",
   "bombing emergency kills russian services southeastern ukraine village",
   "fake hacked nuclear panic sparks ukraine unease warning",
@@ -3603,6 +3602,7 @@
   "climb futures keeps microsoft nvidia prices producer street wall",
   "attack dawn detonating device explosive inside officer shocking tossed",
   "conditions confessed detailing dispute doctor living named police shooting suspect",
-  "attack bahrain claims downs drones iran iranian military radar strike"
+  "attack bahrain claims downs drones iran iranian military radar strike",
+  "ahead discoveries helps hidden maths notebooks time transformed unlock"
  ]
 }
