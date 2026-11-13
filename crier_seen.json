@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4777960",
   "CBMirAFBVV95cUxNOXVIVWkzMzQ2SzNjV3BwdHcwQ2FzeXhrRGpoSnFQU2RtQ0lCR1Q1NHpGbk5pcEZsd2gwMlFjZjlxbnFodFZDRFlJeEdkbFMtUDNlbzBqUTl5dHNFbTdLb19BNFNBU1Uzem1ZajdWY2RMS0lCci03MG44dDNLVFdrXzdEUlZKVUphay1nR3Jid29pU05iRkZsaFprRDNpbTlTNVpBMjZzdHJlNHdo",
   "https://thehill.com/?p=6169025",
   "https://www.foxnews.com/world/brazils-rapid-election-count-puts-spotlight-voting-security-ahead-us-midterms",
@@ -799,15 +798,10 @@
   "CBMiqAFBVV95cUxPWHdvWlI3NzgxYVZmZGoxT0taeTh6dmJKRklCMW1tc2Q3Vm9XV2o4ZlU0amFrZ1BXcFRxOXB5STZCMmE1NzhVa25RSGRLN0xtWEZSVTZkUS1pbHBCM0s2OEZUMHlFLUc2WHVLdnNtYlozdXoxdzFSMG9IM0ZVd3o2WjJ6V01JQkdtbThUbUc3WVFTV0p6ZzBsTHJoT1hMVlAzdUFMVXdKUzM",
   "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o#0",
   "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
-  "https://thehill.com/?p=6217960"
+  "https://thehill.com/?p=6217960",
+  "https://nypost.com/?post_type=article&p=41835804"
  ],
  "posts": [
-  {
-   "fp": "attack false hack nuclear russian sent suspected ukrainians warning",
-   "title": "Ukrainians sent false nuclear attack warning in suspected Russian hack",
-   "source": "Telegraph",
-   "at": "2026-11-02T02:34:06.483300+00:00"
-  },
   {
    "fp": "brief ceasefire escape kherson kill opens perilous riverside window zone",
    "title": "A brief ceasefire opens a perilous escape window from Kherson\u2019s riverside kill zone",
@@ -3201,10 +3195,15 @@
    "title": "Alito warns Congress can \u2018turn off the lights\u2019 at Supreme Court",
    "source": "The Hill",
    "at": "2026-11-13T05:20:38.837566+00:00"
+  },
+  {
+   "fp": "above airport borough cloud ominous swirled tornado under warning",
+   "title": "NYC borough under tornado warning as ominous cloud swirled above JFK airport",
+   "source": "New York Post",
+   "at": "2026-11-13T07:34:27.256617+00:00"
   }
  ],
  "titles": [
-  "attack false hack nuclear russian sent suspected ukrainians warning",
   "brief ceasefire escape kherson kill opens perilous riverside window zone",
   "crashes florida killed nine small street",
   "cyber emergency europe hacks live raid russia systems ukraine warning",
@@ -3603,6 +3602,7 @@
   "asia lingers nvidia rebound stage stocks tentative uncertainty",
   "about affair alleged chinese congress huang jensen nvidia summoned testify",
   "challenge chris chuck hollen leader majority schumer senate",
-  "alito congress court lights supreme turn warns"
+  "alito congress court lights supreme turn warns",
+  "above airport borough cloud ominous swirled tornado under warning"
  ]
 }
