@@ -1,8 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41461540",
-  "CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA",
-  "https://www.theguardian.com/us-news/2026/oct/23/ohio-rodney-hinton-murder-conviction-police",
   "https://www.washingtonexaminer.com/?p=4778114",
   "https://nypost.com/?post_type=article&p=41488627",
   "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
@@ -799,27 +796,12 @@
   "https://nypost.com/?post_type=article&p=41838610",
   "https://thehill.com/?p=6216545",
   "CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc",
-  "CBMijAFBVV95cUxPYzlsZHFSZjhGdjdadGI2VjQ0bVdUX2VXT2lsTk1BQUlLejdKNS0zSEpvUTRhR0I1bjNGQXMtVUZJR1VvUm9jT2xaTXFkTGM1Q1laOHh0YkpONllQTVdTMHgtcUlqUGhFNGotUXRvV2VZT190c3NFWUpRanhyVDNWZ3lfRUgyS3dGZUZHNw"
+  "CBMijAFBVV95cUxPYzlsZHFSZjhGdjdadGI2VjQ0bVdUX2VXT2lsTk1BQUlLejdKNS0zSEpvUTRhR0I1bjNGQXMtVUZJR1VvUm9jT2xaTXFkTGM1Q1laOHh0YkpONllQTVdTMHgtcUlqUGhFNGotUXRvV2VZT190c3NFWUpRanhyVDNWZ3lfRUgyS3dGZUZHNw",
+  "https://nypost.com/?post_type=article&p=41840308",
+  "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
+  "CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw"
  ],
  "posts": [
-  {
-   "fp": "anywhere comes election georgia michigan pressure year",
-   "title": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
-   "source": "NPR News",
-   "at": "2026-11-02T10:36:15.147462+00:00"
-  },
-  {
-   "fp": "certification election elias fight hand including lawsuits major marc mary midterm peltola",
-   "title": "Marc Elias has hand in major election lawsuits this midterm, including Mary Peltola certification fight",
-   "source": "Washington Examiner",
-   "at": "2026-11-02T10:36:16.922351+00:00"
-  },
-  {
-   "fp": "bulgaria final iotova near presidential results runoff show wins",
-   "title": "Bulgaria's Iotova wins presidential runoff, near-final results show",
-   "source": "Reuters",
-   "at": "2026-11-02T10:36:20.235924+00:00"
-  },
   {
    "fp": "bombing centre kills kyiv people russian ukraine",
    "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
@@ -3201,12 +3183,27 @@
    "title": "US futures climb as Wall Street keeps an eye on Nvidia, Microsoft and producer prices",
    "source": "AP",
    "at": "2026-11-13T13:59:46.191106+00:00"
+  },
+  {
+   "fp": "attack dawn detonating device explosive inside officer shocking tossed",
+   "title": "Explosive device tossed at cop car in shocking dawn attack \u2014 detonating with officer inside",
+   "source": "New York Post",
+   "at": "2026-11-13T15:39:44.241245+00:00"
+  },
+  {
+   "fp": "conditions confessed detailing dispute doctor living named police shooting suspect",
+   "title": "Doctor named as DC gym shooting suspect confessed, detailing dispute over living conditions, police say",
+   "source": "Guardian World",
+   "at": "2026-11-13T15:39:46.022517+00:00"
+  },
+  {
+   "fp": "attack bahrain claims downs drones iran iranian military radar strike",
+   "title": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
+   "source": "AP",
+   "at": "2026-11-13T15:39:47.697615+00:00"
   }
  ],
  "titles": [
-  "anywhere comes election georgia michigan pressure year",
-  "certification election elias fight hand including lawsuits major marc mary midterm peltola",
-  "bulgaria final iotova near presidential results runoff show wins",
   "bombing centre kills kyiv people russian ukraine",
   "crash deadly florida named nine pilot plane victims young",
   "bombing emergency kills russian services southeastern ukraine village",
@@ -3603,6 +3600,9 @@
   "calls commenced election lawmaker nonbinary proof woke",
   "about congress democratic fooled moderate nothing",
   "futures nasdaq nvidia roils subdued trade upheaval",
-  "climb futures keeps microsoft nvidia prices producer street wall"
+  "climb futures keeps microsoft nvidia prices producer street wall",
+  "attack dawn detonating device explosive inside officer shocking tossed",
+  "conditions confessed detailing dispute doctor living named police shooting suspect",
+  "attack bahrain claims downs drones iran iranian military radar strike"
  ]
 }
