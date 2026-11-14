@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41499370",
   "https://nypost.com/?post_type=article&p=41486701",
   "https://nypost.com/?post_type=article&p=41501219",
   "CBMivwFBVV95cUxQb2pnT1VmVHRrU1I2MHl3cGFQQk51cUx2S0NhUHBydDBnQWtpbndGWm54NDl0OGhhRUVIUlJCN0hLcWNvVmROQjJ5VGYyekhPNEVTTU5oMVRiM2VQbFBmaWwwTkhSUjFUQ3N3d016YlZZdFdfaGx4WmwtVjNlZkNqOGhPNVpLRFVCRmZITU10X3hhOHJ0bU5NUUN1aU5TLW8tOFNxRnloS3ZDM2xxQU9qaWJWVmowRkJRQjV1d3Viaw",
@@ -799,15 +798,10 @@
   "https://www.washingtonexaminer.com/?p=4803880",
   "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges",
   "CBMiowFBVV95cUxNLVJHTEpnR0lwRmdFbHVCNEQ5YWRiTXcyRy1HcTczUHVMaDdyUjBIWlVpOW9xTnBFUGZnVXhMSk53WXFuLWtoeEp0RTkwVVZjbDBvd2E3bVplY2tPZnJaY2xhNzFta1kxUEZtMFhTYzZvYWlCeGs1X0ZVT2xvMHJDbEphYjJoQVlvZkJQdlN6VXBwZG9kQnpPMHNWYlA5aDF4Z3BF",
-  "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb"
+  "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+  "CBMiowFBVV95cUxOcjhSbmVIV2VsQXprSVowOFVLUWV3T1pPUGFNekUxc0xEeHJMV0dqRENUNDNLSDFFaHhpQWRsMDdadjNXZThxak9nbm5uLS1fRWdMQUJnZWd6UTFicjZBZEMzbEFrRTFGanB5ekdrQTdOZVJ4YzZzR2pBQjYwMk8tSkdibkxTYUxrdjV6UW5TRHlfRmRNOWpfX1lRSGtSY09GZDRB"
  ],
  "posts": [
-  {
-   "fp": "arrives congress election investors possible ready shake",
-   "title": "Investors ready for possible shake-up in Congress as Election Day arrives",
-   "source": "Reuters",
-   "at": "2026-11-03T13:42:45.936809+00:00"
-  },
   {
    "fp": "board budget california cuts daunting fights members political quitting school take toll",
    "title": "California school board members are quitting as budget cuts, political fights take toll: \u2018daunting\u2019",
@@ -3201,10 +3195,15 @@
    "title": "Bomb found at Illinois ethanol plant, prompting evacuations",
    "source": "Guardian World",
    "at": "2026-11-14T15:18:43.957399+00:00"
+  },
+  {
+   "fp": "closes distance interstellar light nasa record space voyager",
+   "title": "NASA\u2019s Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+   "source": "AP",
+   "at": "2026-11-14T16:54:35.772527+00:00"
   }
  ],
  "titles": [
-  "arrives congress election investors possible ready shake",
   "board budget california cuts daunting fights members political quitting school take toll",
   "come days defend election ready vote",
   "collapsing felt good home marathon never rachel runner stretch told",
@@ -3603,6 +3602,7 @@
   "bomb ethanol evacuation forces illinois investigates plant",
   "charged driver field kansas killed napping soccer sped truck whose",
   "drone gaza israeli kills mideast news other palestinians strike",
-  "bomb ethanol evacuations found illinois plant prompting"
+  "bomb ethanol evacuations found illinois plant prompting",
+  "closes distance interstellar light nasa record space voyager"
  ]
 }
