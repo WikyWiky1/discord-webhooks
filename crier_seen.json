@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41486701",
-  "https://nypost.com/?post_type=article&p=41501219",
   "CBMivwFBVV95cUxQb2pnT1VmVHRrU1I2MHl3cGFQQk51cUx2S0NhUHBydDBnQWtpbndGWm54NDl0OGhhRUVIUlJCN0hLcWNvVmROQjJ5VGYyekhPNEVTTU5oMVRiM2VQbFBmaWwwTkhSUjFUQ3N3d016YlZZdFdfaGx4WmwtVjNlZkNqOGhPNVpLRFVCRmZITU10X3hhOHJ0bU5NUUN1aU5TLW8tOFNxRnloS3ZDM2xxQU9qaWJWVmowRkJRQjV1d3Viaw",
   "CBMikgFBVV95cUxPem0xR3lFdmx3SDVUQTVqZXhRZUlSWkk5NU1PUWpoVkI0TXo0N3ZyeDRtYjZoV3phMjdwZnhaRVc4dkdibUhEcU5jd2F1RVNqQjV1ZDJHbC1UWEJsSnRLdi0xTWFUSFNEbWVuY2F4M0M4QWxVdnh2dUw4OVJCUFhJcXVpcDVWUFBNZGZtTjRoSnBHUQ",
   "CBMiqAFBVV95cUxPSmFqM1hWbjQ0dTdQanlVcExyOGdZbVBYQUlNd1FuQS1mYlV2dHR6MmVMVlJETXZ0bmtlX0VxMXlxQThkS0c2ZnplNl84RFRXb3BzU20xOWE1RVFtVEh6Mi1oQWhuaFR5SFhXd3IzLVAwWTAtVkRiZFFKX1BweXpKVGVrVXh4N3B6eEMyb0ZDaFJ1bVRKWTF6cV94TFZucnBLZHdaeXZnYUc",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges",
   "CBMiowFBVV95cUxNLVJHTEpnR0lwRmdFbHVCNEQ5YWRiTXcyRy1HcTczUHVMaDdyUjBIWlVpOW9xTnBFUGZnVXhMSk53WXFuLWtoeEp0RTkwVVZjbDBvd2E3bVplY2tPZnJaY2xhNzFta1kxUEZtMFhTYzZvYWlCeGs1X0ZVT2xvMHJDbEphYjJoQVlvZkJQdlN6VXBwZG9kQnpPMHNWYlA5aDF4Z3BF",
   "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
-  "CBMiowFBVV95cUxOcjhSbmVIV2VsQXprSVowOFVLUWV3T1pPUGFNekUxc0xEeHJMV0dqRENUNDNLSDFFaHhpQWRsMDdadjNXZThxak9nbm5uLS1fRWdMQUJnZWd6UTFicjZBZEMzbEFrRTFGanB5ekdrQTdOZVJ4YzZzR2pBQjYwMk8tSkdibkxTYUxrdjV6UW5TRHlfRmRNOWpfX1lRSGtSY09GZDRB"
+  "CBMiowFBVV95cUxOcjhSbmVIV2VsQXprSVowOFVLUWV3T1pPUGFNekUxc0xEeHJMV0dqRENUNDNLSDFFaHhpQWRsMDdadjNXZThxak9nbm5uLS1fRWdMQUJnZWd6UTFicjZBZEMzbEFrRTFGanB5ekdrQTdOZVJ4YzZzR2pBQjYwMk8tSkdibkxTYUxrdjV6UW5TRHlfRmRNOWpfX1lRSGtSY09GZDRB",
+  "https://nypost.com/?post_type=article&p=41863418",
+  "CBMiyAFBVV95cUxQZ25xZHF6NVM2ekhIVmRFejZfdVZ4MVRwMTQ1QjBFeFFQQkN2LTh6eHRVeDF2QzhxMmlzdFg2M1drVm9Sc0lCeWJBZDhwUjV1Vm91TzF4ZzgxczY4RlppNGc0WVJxU0t4dFV3OHIyNWJoREpaWGNweGVoY25XNzBzQWUxUk13RDJkSDZzZXVtVVRKU09admlYMmt0RGFyV3ljbHl3elp5TV9NMmo0ZEVMUENvQTFSTkh0ZHF6U2c2LVpWdE05YlJ4Xw"
  ],
  "posts": [
-  {
-   "fp": "board budget california cuts daunting fights members political quitting school take toll",
-   "title": "California school board members are quitting as budget cuts, political fights take toll: \u2018daunting\u2019",
-   "source": "New York Post",
-   "at": "2026-11-03T13:42:47.681150+00:00"
-  },
-  {
-   "fp": "come days defend election ready vote",
-   "title": "On this Election Day, and in the days to come, get ready to defend your vote",
-   "source": "The Hill",
-   "at": "2026-11-03T13:42:49.422331+00:00"
-  },
   {
    "fp": "collapsing felt good home marathon never rachel runner stretch told",
    "title": "NYC Marathon runner Rachel Apa told dad \u2018I\u2019ve never felt this good\u2019 before collapsing in home stretch",
@@ -3201,11 +3189,21 @@
    "title": "NASA\u2019s Voyager 1 closes in on a light-day in interstellar space for a new distance record",
    "source": "AP",
    "at": "2026-11-14T16:54:35.772527+00:00"
+  },
+  {
+   "fp": "alaska declares democrat mary nears peltola race senate victory",
+   "title": "Alaska Democrat Mary Peltola nears 50%, declares victory in Senate race",
+   "source": "New York Post",
+   "at": "2026-11-14T19:44:06.177188+00:00"
+  },
+  {
+   "fp": "15th attempt flight landing nears return spacex starship test",
+   "title": "SpaceX's Starship nears end of 15th test flight and return-landing attempt",
+   "source": "Reuters",
+   "at": "2026-11-14T19:44:07.895446+00:00"
   }
  ],
  "titles": [
-  "board budget california cuts daunting fights members political quitting school take toll",
-  "come days defend election ready vote",
   "collapsing felt good home marathon never rachel runner stretch told",
   "death dozens hits missing russian site still strikes toll ukrainian",
   "ceasefire kherson life meant momentary normal region return short ukraine",
@@ -3603,6 +3601,8 @@
   "charged driver field kansas killed napping soccer sped truck whose",
   "drone gaza israeli kills mideast news other palestinians strike",
   "bomb ethanol evacuations found illinois plant prompting",
-  "closes distance interstellar light nasa record space voyager"
+  "closes distance interstellar light nasa record space voyager",
+  "alaska declares democrat mary nears peltola race senate victory",
+  "15th attempt flight landing nears return spacex starship test"
  ]
 }
