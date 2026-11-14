@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
   "CBMimgFBVV95cUxNMm9yS3hqd3djazFxSWY1dVhmUklmMmllRjVaZURIaGdpaFpkVTZ2cUIyRngxMFVwYndCd3dJWTJCenMtSDRZMkh1Z3Zwd2ZFak4tNzQ1eU9oSDJZRmxmUWVyN05ITVFOajVFVm9NWm84YWhXZkZQMnRXbC1PclAya1FWV1dvOGU4Sjhxb2c2TGJHMEtGcmhFRkxn",
   "https://nypost.com/?post_type=article&p=41501540",
   "CBMijgFBVV95cUxOOE9KM2tuaTcxbTA2SXJENWFXU1Ixd1g2X0hNZXkzR2RjU2lQMUNmX1RETjB6UFNOMGxpcmVMSWlBMzdZdWlOc094TFpjVGRMMnI5TnFUc1ZqTUJ2TmpxZW93aE00TENZZ3NxOGpoZjBuUWpVdTF0WHhwOVhNNW9RMjNBU3NzOVE3RUNCVFVn",
@@ -799,15 +798,10 @@
   "CBMiyAFBVV95cUxQZ25xZHF6NVM2ekhIVmRFejZfdVZ4MVRwMTQ1QjBFeFFQQkN2LTh6eHRVeDF2QzhxMmlzdFg2M1drVm9Sc0lCeWJBZDhwUjV1Vm91TzF4ZzgxczY4RlppNGc0WVJxU0t4dFV3OHIyNWJoREpaWGNweGVoY25XNzBzQWUxUk13RDJkSDZzZXVtVVRKU09admlYMmt0RGFyV3ljbHl3elp5TV9NMmo0ZEVMUENvQTFSTkh0ZHF6U2c2LVpWdE05YlJ4Xw",
   "CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc",
   "https://nypost.com/?post_type=article&p=41866118",
-  "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack"
+  "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
+  "https://nypost.com/?post_type=article&p=41869216"
  ],
  "posts": [
-  {
-   "fp": "attack billion binance compromise computer fake hackers interview used",
-   "title": "Binance hackers used fake job interview to compromise computer before $6.3 billion attack",
-   "source": "Reuters",
-   "at": "2026-11-03T16:53:34.166277+00:00"
-  },
   {
    "fp": "celebrating left morocco russia showdown",
    "title": "Why a US-Russia showdown left Morocco celebrating",
@@ -3201,10 +3195,15 @@
    "title": "Family of Watford woman set alight \u2018desperate for answers\u2019 after attack",
    "source": "Guardian World",
    "at": "2026-11-14T19:58:02.937108+00:00"
+  },
+  {
+   "fp": "bloody breaking fuel hours iran lines long november point protests rationing reaches system",
+   "title": "Iran\u2019s fuel rationing system reaches breaking point with hours-long lines, protests on eve of \u2018Bloody November\u2019",
+   "source": "New York Post",
+   "at": "2026-11-14T23:41:06.652889+00:00"
   }
  ],
  "titles": [
-  "attack billion binance compromise computer fake hackers interview used",
   "celebrating left morocco russia showdown",
   "control merger musk payday spacex tesla trillion under voting",
   "2026 advocate discovery editor education letters shocking",
@@ -3603,6 +3602,7 @@
   "15th attempt flight landing nears return spacex starship test",
   "canceled delayed flights recovers shutdown slowly system thousands travel",
   "about california chilling deadly discovery grisly missing near questions raises victim wildfire zone",
-  "alight answers attack desperate family watford woman"
+  "alight answers attack desperate family watford woman",
+  "bloody breaking fuel hours iran lines long november point protests rationing reaches system"
  ]
 }
