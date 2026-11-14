@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6169517",
-  "CBMiowFBVV95cUxOcDl5MXNpaUFmM2s4V3hMNXRIN2FXNlVSUXp0V1Z1blBHZnJjc3FTTkI1b19rSmQycXhDSEpiVS13X2VMdFo0cHpDZFRQajV6MDRrZ1hqRkp3VWVURFJnTTA3dGpnRmd4UlA1QnFqeHdYcDNfSTN2VlMwS1dQbGxzcFNSRC13ZU1nMWJFUG1DRldBOV9lV08xYzdYYjhFMXpDay13",
   "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
   "CBMiugFBVV95cUxOZVhBcHBITVRDY2hGb1hueUEwVnhWbUhBc3dvc2NXTk5Yd3NybDQyUW15R3NfVnBmOHpJLVo5b2UyVmN5NjdURndGT2xQb05hSlE4UU52cnFYMDdjbnlQTm9LRHpBSkdLSDUtTlhKdGJYVjN1cGY3c2hEelZjN3FhRXM1X0ZYbVk1Q05lX3ZPdWtBRHE4U3BHUjJtNUpMemJTbXhRcEVERGFZTUt2QW1JbXlSWUpWOGZ6UWc",
   "https://nypost.com/?post_type=article&p=41497335",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
   "https://nypost.com/?post_type=article&p=41852790",
   "https://nypost.com/?post_type=article&p=41850423",
-  "CBMijwFBVV95cUxQNEtodkNOMXMxUmpNeDVwOGdPTlY3cTZQUHRkYl9HMU9kUFZYQ2c2Skl3YU9aNDIxR09BZUpWX0xaTGwxdmpsN1R4UVNmNjM4Um1LR3lUU2tVZjdUUFl4OWcyUktxM0lmTG44MHZGOXVLbEVHakQ4dVplX1U4bmoycDFydTVvMkliTjFIZzU0bw"
+  "CBMijwFBVV95cUxQNEtodkNOMXMxUmpNeDVwOGdPTlY3cTZQUHRkYl9HMU9kUFZYQ2c2Skl3YU9aNDIxR09BZUpWX0xaTGwxdmpsN1R4UVNmNjM4Um1LR3lUU2tVZjdUUFl4OWcyUktxM0lmTG44MHZGOXVLbEVHakQ4dVplX1U4bmoycDFydTVvMkliTjFIZzU0bw",
+  "https://www.washingtonexaminer.com/?p=4803767",
+  "CBMitAFBVV95cUxPc0h5Z2ZOZ3hGRDU2d0RaMk5ocV84cmVmTXhBOWl2dFgzVWhQN3hTNTVuNGhfcFJJbDJhZnZ3aVJFT1I1SnFSdUZGUW9tNFZrZ1ZkQlpXVXlaNDBqQUh0eWxZVU1jM3hSZ01hNEYwV1R1a3p2N2NJOThfTk9TbUNmUmFkZ2RkeTJMRVB6ZVdqeEhVQ0o1ZVozRmRHYVMydlZCWjBKVS1vTDNpZEtIWHpoVGxlUWc"
  ],
  "posts": [
-  {
-   "fp": "coin elections final midterm nine races scorecard senate stacking toss",
-   "title": "Senate scorecard: How nine coin-toss races are stacking up on final day before midterm elections",
-   "source": "Washington Examiner",
-   "at": "2026-11-02T21:26:53.420272+00:00"
-  },
-  {
-   "fp": "appeal final makeover midterms pool reflecting results trump unveils",
-   "title": "Trump unveils results of $14m reflecting pool makeover in final appeal before midterms",
-   "source": "Guardian World",
-   "at": "2026-11-02T21:26:55.168429+00:00"
-  },
   {
    "fp": "election makeover midterm pool promoting reflecting spends trump",
    "title": "Trump spends the day before midterm Election Day promoting his Reflecting Pool makeover",
@@ -3201,11 +3189,21 @@
    "title": "Survivors of the deadly Brooklyn building collapse recall shock, terror and grief",
    "source": "AP",
    "at": "2026-11-13T21:36:59.901561+00:00"
+  },
+  {
+   "fp": "billion congress duffy give implores money outage stump",
+   "title": "Duffy implores Congress to stump up $50 billion after FAA outage: \u2018Give us the money to fix it\u2019",
+   "source": "Washington Examiner",
+   "at": "2026-11-14T05:10:52.817091+00:00"
+  },
+  {
+   "fp": "early hits latest mission setback spacex starship",
+   "title": "SpaceX\u2019s Latest Starship Mission Hits Early Setback",
+   "source": "WSJ",
+   "at": "2026-11-14T05:10:54.520317+00:00"
   }
  ],
  "titles": [
-  "coin elections final midterm nine races scorecard senate stacking toss",
-  "appeal final makeover midterms pool reflecting results trump unveils",
   "election makeover midterm pool promoting reflecting spends trump",
   "attack britain highly infrastructure likely used",
   "attack critical expect infrastructure must powered report within years",
@@ -3603,6 +3601,8 @@
   "challenge democrats elect hollen leader senate torn wages whom",
   "brooklyn building collapse family fear girl inside killed little often stayed",
   "arms china control historic meeting nuclear putin talk trump",
-  "brooklyn building collapse deadly grief recall shock survivors terror"
+  "brooklyn building collapse deadly grief recall shock survivors terror",
+  "billion congress duffy give implores money outage stump",
+  "early hits latest mission setback spacex starship"
  ]
 }
