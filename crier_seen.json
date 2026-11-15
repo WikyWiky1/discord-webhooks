@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6170232",
-  "https://nypost.com/?post_type=article&p=41464584",
-  "CBMipAFBVV95cUxPOE5IMGRMTzd6dTFDS21qbTdmVDBkUzcteU1OWlQ0aWt2Z1Z6d0cxRGRVbEhGNkVkSnRGQVN1WVlLdU9vRkJmVHphOWk5RUFCNmJuUzJ0TGVaNC1tenk5NGNmUldFSnVXVkQ1bHd4aHJzZHFlWWJ2UHU0VHhETDFVNFpoaXdsQXpDZ21rMllSTlplRTItdnNuNUt6X1JjckV5OWJrWA",
-  "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
   "CBMiugFBVV95cUxPWG1nbmRMc2hiR1NOSmNmVTRDbWJ2d0x2RUcyaWV4TF9KcEMtMmJvSlpRcTZpTE5mZW1jQ24xa2o2YVBjSTEzUmloZVBPOTh4cUhPYTF1ZnMxdmNFQl9kQ1Z0M2pLV1JmdWZYRDR0eFlfSjhZSk1mVDNaejdZZVd5NTNhYzZiSG9UTUZHZUNONGpuTXVsVmtNT3BWdFVseHpVUHBDZ0Q0RFNRTmNGWEpmQ3FsZ0hBaGIzVEE",
   "CBMirAFBVV95cUxQaHhLUi1IeDVOLXZPSmlYYVpxRnZDUVBiMDRTTUdtMnQxRE5DcEUyenlyaWhZWXdfVno3ZU5FUzZUYkg4ODVlY0VDV0hneFdYUG1nX090Wml0dmk4b2NBM2k2QzA2VV9FNUVtM2lVczJGbjc2c3EyVmN2LVVGeUh0ZXllRnMxaUFfcVIyQmVuYXVPVGROeEk4akxUbmxKcElHUXU4eE42TFBwdkVj",
   "https://thehill.com/?p=6170458",
@@ -799,33 +795,13 @@
   "CBMigAFBVV95cUxQejFSVUVRZkFMMk51MFIwaXBTX29nR0pDWTBZbVNGekNVLVBobFRwYXlSV2pHTER4bHNzRzhHeTV1WElDMkZlblUwVGNxQV96ckhEMWhQUTVMOVVzYjltXzdaN21CMVBXbGQtSFpyaHVDZ1ptTTNHZVZNbXRRZUlFZg",
   "https://nypost.com/?post_type=article&p=41873920",
   "https://nypost.com/?post_type=article&p=41873679",
-  "CBMimAFBVV95cUxQa1Q4eldib3RjVUVRelZqMXVZY3Nma2JnWEw4aEV0VVFjbzBqMG50RVA2WTQ2clZWYldaczhBeTNqSm9URG1GMkxRc3NSdEVpdzNaajVhaE4tVlZsNktBc09HbG1GWjdRbkpzZmFoekt6SlpVUVpDUy1rZ1JQWjZGUjNJWTVyNlhRQV9JMW5ZYkZnV1J1amczNg"
+  "CBMimAFBVV95cUxQa1Q4eldib3RjVUVRelZqMXVZY3Nma2JnWEw4aEV0VVFjbzBqMG50RVA2WTQ2clZWYldaczhBeTNqSm9URG1GMkxRc3NSdEVpdzNaajVhaE4tVlZsNktBc09HbG1GWjdRbkpzZmFoekt6SlpVUVpDUy1rZ1JQWjZGUjNJWTVyNlhRQV9JMW5ZYkZnV1J1amczNg",
+  "CBMiqgFBVV95cUxQN0lIYjU0OG55Z253dDhlYmdmSURkRWZWU3NnWUdwVk5iekp3aXJDbGVQM0RfMUpGRnVQbkowUHBNdEtFaWFYMjRwN2Z5VU04WURFcEhzUTEtcWRMclhYcHlQc0hLV0QxZmNZR0ZMS3RpdkpnNnNMdjhRN0hodGgzaGVHS0N3cjhrcjNPUDNpbTVGNnZzQlhSMnEyelczQVdZLVI5SlFtVzhFUQ",
+  "CBMirgFBVV95cUxNeUFsRkZQaDJvNDF0bE5nQ2U3Uk13UGx3aTcxOWoySE42cWdDOTlIenFfM3JRSTc5cjFlUDhpNWNsZUJrblRxQXQyLWhJdVI4emxJcFJ3Ymk4cldyQU9JQ1dabWNSV0IwcVhFV0NZc0M2anRoNmdxOFFfQl9DRHowQjVIU1hrejFIT1Foc0hXQWZKWmRpQ2xhRXNRa0RiQmhrZTBlR3Q0SnhNWks2R0E",
+  "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo#0",
+  "CBMisgFBVV95cUxOSW5qZzl5QmYwRkpOaUNfQlVXU1FOdEhVX0RUWEtsYjU5a3ZfWEJGS3R4MjVRYlVha3ZrcWpnQVV1SHQ0c09qY0V2U2RscnZUNjlaVjUwYW1GN2pfMjNHNE1LemRjUEZTSGlQY3JhcUNFTjhOYlNDZkVQTzFVbHZ1elgzX01md3BoRG0tam4zVEFha2tnUjU5TlllRmtrb09PMHFQVFZmNXNWSm9wTVRPYUFn"
  ],
  "posts": [
-  {
-   "fp": "crash deadly latest minister resign spain train transport",
-   "title": "Spain's transport minister says he will resign after latest deadly train crash",
-   "source": "Reuters",
-   "at": "2026-11-03T22:09:57.297824+00:00"
-  },
-  {
-   "fp": "australians confirmed crash dead high spain speed train",
-   "title": "Two Australians confirmed dead in Spain\u2019s high-speed train crash",
-   "source": "Guardian World",
-   "at": "2026-11-03T22:09:59.075580+00:00"
-  },
-  {
-   "fp": "collins defeats georgia hold mike ossoff seat senate",
-   "title": "Jon Ossoff defeats Mike Collins to hold Georgia Senate seat",
-   "source": "Washington Examiner",
-   "at": "2026-11-04T01:03:39.728517+00:00"
-  },
-  {
-   "fp": "battles california closely election tonight watching",
-   "title": "The California election battles I\u2019ll be watching most closely tonight",
-   "source": "New York Post",
-   "at": "2026-11-04T01:03:41.569406+00:00"
-  },
   {
    "fp": "2026 control democrats election elections live midterm ossoff senate updates warner",
    "title": "US midterm elections 2026 live updates: Ossoff and Warner win re-election as Democrats vie for Senate control",
@@ -3201,13 +3177,33 @@
    "title": "Four Things to Watch as Power Changes Hands in Congress",
    "source": "WSJ",
    "at": "2026-11-15T10:26:37.562855+00:00"
+  },
+  {
+   "fp": "attack church commander hamas israel jordan kills mideast news other sentences",
+   "title": "Israel kills a top Hamas commander as Jordan sentences 3 in church attack, and other Mideast news",
+   "source": "AP",
+   "at": "2026-11-15T11:58:46.327441+00:00"
+  },
+  {
+   "fp": "canadian cleveland cliffs laid operation recall steel workers",
+   "title": "Cleveland-Cliffs to Recall Laid-Off Workers at Canadian Steel Operation",
+   "source": "WSJ",
+   "at": "2026-11-15T11:58:48.003094+00:00"
+  },
+  {
+   "fp": "church death fatal jordan mass sentenced shooting three",
+   "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+   "source": "BBC World",
+   "at": "2026-11-15T11:58:49.694432+00:00"
+  },
+  {
+   "fp": "attack church deadly death jordan sentences three",
+   "title": "Jordan sentences three men to death over deadly church attack",
+   "source": "Reuters",
+   "at": "2026-11-15T11:58:51.542456+00:00"
   }
  ],
  "titles": [
-  "crash deadly latest minister resign spain train transport",
-  "australians confirmed crash dead high spain speed train",
-  "collins defeats georgia hold mike ossoff seat senate",
-  "battles california closely election tonight watching",
   "2026 control democrats election elections live midterm ossoff senate updates warner",
   "collins georgia mike ossoff race republican senate wins",
   "democrat mark reelection senate virginia warner wins",
@@ -3603,6 +3599,10 @@
   "four injured killed person shooting",
   "appears california charges court deadly face halloween mass murder shooting store suspect teen",
   "alaska class collapsing dies football high school star suddenly",
-  "changes congress four hands power things watch"
+  "changes congress four hands power things watch",
+  "attack church commander hamas israel jordan kills mideast news other sentences",
+  "canadian cleveland cliffs laid operation recall steel workers",
+  "church death fatal jordan mass sentenced shooting three",
+  "attack church deadly death jordan sentences three"
  ]
 }
