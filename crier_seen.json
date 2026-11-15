@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
   "https://thehill.com/?p=6170232",
   "https://nypost.com/?post_type=article&p=41464584",
   "CBMipAFBVV95cUxPOE5IMGRMTzd6dTFDS21qbTdmVDBkUzcteU1OWlQ0aWt2Z1Z6d0cxRGRVbEhGNkVkSnRGQVN1WVlLdU9vRkJmVHphOWk5RUFCNmJuUzJ0TGVaNC1tenk5NGNmUldFSnVXVkQ1bHd4aHJzZHFlWWJ2UHU0VHhETDFVNFpoaXdsQXpDZ21rMllSTlplRTItdnNuNUt6X1JjckV5OWJrWA",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=41874234",
   "CBMigAFBVV95cUxQejFSVUVRZkFMMk51MFIwaXBTX29nR0pDWTBZbVNGekNVLVBobFRwYXlSV2pHTER4bHNzRzhHeTV1WElDMkZlblUwVGNxQV96ckhEMWhQUTVMOVVzYjltXzdaN21CMVBXbGQtSFpyaHVDZ1ptTTNHZVZNbXRRZUlFZg",
   "https://nypost.com/?post_type=article&p=41873920",
-  "https://nypost.com/?post_type=article&p=41873679"
+  "https://nypost.com/?post_type=article&p=41873679",
+  "CBMimAFBVV95cUxQa1Q4eldib3RjVUVRelZqMXVZY3Nma2JnWEw4aEV0VVFjbzBqMG50RVA2WTQ2clZWYldaczhBeTNqSm9URG1GMkxRc3NSdEVpdzNaajVhaE4tVlZsNktBc09HbG1GWjdRbkpzZmFoekt6SlpVUVpDUy1rZ1JQWjZGUjNJWTVyNlhRQV9JMW5ZYkZnV1J1amczNg"
  ],
  "posts": [
-  {
-   "fp": "assassination charlie invokes kirk last minute plea trump voters",
-   "title": "Trump Jr. invokes Charlie Kirk assassination in last-minute plea to voters",
-   "source": "The Hill",
-   "at": "2026-11-03T22:09:55.479531+00:00"
-  },
   {
    "fp": "crash deadly latest minister resign spain train transport",
    "title": "Spain's transport minister says he will resign after latest deadly train crash",
@@ -3201,10 +3195,15 @@
    "title": "Alaska high school football star dies after suddenly collapsing in gym class",
    "source": "New York Post",
    "at": "2026-11-15T04:11:43.383142+00:00"
+  },
+  {
+   "fp": "changes congress four hands power things watch",
+   "title": "Four Things to Watch as Power Changes Hands in Congress",
+   "source": "WSJ",
+   "at": "2026-11-15T10:26:37.562855+00:00"
   }
  ],
  "titles": [
-  "assassination charlie invokes kirk last minute plea trump voters",
   "crash deadly latest minister resign spain train transport",
   "australians confirmed crash dead high spain speed train",
   "collins defeats georgia hold mike ossoff seat senate",
@@ -3603,6 +3602,7 @@
   "always brooklyn building collapse construction gather hundreds killed loving remember smiling worker young",
   "four injured killed person shooting",
   "appears california charges court deadly face halloween mass murder shooting store suspect teen",
-  "alaska class collapsing dies football high school star suddenly"
+  "alaska class collapsing dies football high school star suddenly",
+  "changes congress four hands power things watch"
  ]
 }
