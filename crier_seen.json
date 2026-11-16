@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6170732",
   "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
   "CBMimwFBVV95cUxOdGlfSUE1OGh0RVkyYTFKNElvU1Z6TDFVQnk5TVBpekNsb3hyZlVEUVdNcm90OTNrSzhNUHVSYWVtTDZiQ1VRSEZwQlJGZDg4cERoZ3BKc0ltZkE4dHltT2VjLXVWQ1AtRmc3ZDdweDVzSHdrempla21LTDh3OVBMVVlQZndVck1fazZUemVfR0kybnpkb3ZacDRfQQ",
   "https://www.washingtonexaminer.com/?p=4778946",
@@ -799,15 +798,10 @@
   "CBMimAFBVV95cUxNR0kzd29fdzk5QVJNbFY5ckduWmU5NGdHMDNFTVpJVTZ5VU9VVXVJcWpxWVE4VnIwdHZ4OUs1cGpxTTcwZDVCaDNncDFQWHhQSFl1ZTJjZHY0ampKWkJuUVFKbjNzd0N5SjF4WDZQcnhhdVFLYUVwVFhsd2Z5c3FvbHBnWm9ST2xZTkxobUVESDBmSDZacHhSUg",
   "CBMiwwFBVV95cUxNa25HanoteThXd2lib2FtRlZvd3p4ZTd6VHJ6aWUyWENoTnVhbUJQbkV4UHV3aUN0eXdjWHYzNFdkTTRWeVIybWNjYmlRSHZucEl1NDZVQVFqNmVVMFpLZmkzTXhFbHNHeGRPUlJaaE9hdXRMSXVTV3BlZW92czhLNm9rclZ2RW1QQlAxMDBNMWpQaHlKLWthTTc3YUJ0azhvLU1nNEJROTJ6WGlOeDJsc2VkU2FZYU1ZdGx5VWs4enFzb2s",
   "CBMickFVX3lxTE1idTJGb1ltdDMxdFhUWHhQRERaMVFxc2t3MngzQ0RLZE5OcS0zdHZOQ1Y3U1U3d1EzaUQyQ1VKdGN6bUItRmpGV1ZFQTFvd2xqSThKbjFva0pyX09DUi1yclBCZ0M0UDZTM1NkNnZTZWpXQQ",
-  "CBMiigFBVV95cUxQbzk4OFVteWx4WUVRM3F4WkJ2dVZ0VHRheFIwSExwTzZEcE44X1lzand1N05VVUc4akZiRzRCMUZXUGhuWmJVVUdQR0laV0I5TkhxUFlobDJGTkVobzRVREVKZVFubWFqX3ZYdXcwY3M1MmZHc2kyWmg5b2t2SjJwUU41SXFoa0J6R1E"
+  "CBMiigFBVV95cUxQbzk4OFVteWx4WUVRM3F4WkJ2dVZ0VHRheFIwSExwTzZEcE44X1lzand1N05VVUc4akZiRzRCMUZXUGhuWmJVVUdQR0laV0I5TkhxUFlobDJGTkVobzRVREVKZVFubWFqX3ZYdXcwY3M1MmZHc2kyWmg5b2t2SjJwUU41SXFoa0J6R1E",
+  "CBMizAFBVV95cUxPSkdFR0ppNThGcnFUbE1vVHBkWG5GQkFrQ3B5M2x0VFh4bDNRVFdXUm9LazNYYUI4WnpBdXpQQ0NpS2llVWFEcE1LTWpLRWVqdFp4eTRibUtROW16ZU5XeXRmc1RwaTZCbzV2UXlKcEhvaHpCNlJSeTFucnl4ZXZvUWVWbXl2MUtHY1hXUzJ3SEFCR3ZZUDY2VGFuTC1lek80UmRZTGlxRkItd2I4S1lrcnotSF8tVG5tTnJySnBoMlJ0NXJtcEo5bjROV1c"
  ],
  "posts": [
-  {
-   "fp": "democratic here missed polls tsunami wave",
-   "title": "Polls saw the Democratic wave. Here\u2019s why they missed the tsunami",
-   "source": "The Hill",
-   "at": "2026-11-04T23:03:29.663527+00:00"
-  },
   {
    "fp": "crashes helicopter injured killed miami near officials others",
    "title": "1 killed and 2 others injured when a helicopter crashes into bay near Miami, officials say",
@@ -3201,10 +3195,15 @@
    "title": "Nuclear submariners return \u2018grey\u2019 from record seven months at sea",
    "source": "Telegraph",
    "at": "2026-11-15T23:08:59.573781+00:00"
+  },
+  {
+   "fp": "approve cancer declines drug goal lung misses summit survival trial",
+   "title": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal",
+   "source": "Reuters",
+   "at": "2026-11-16T00:47:04.222694+00:00"
   }
  ],
  "titles": [
-  "democratic here missed polls tsunami wave",
   "crashes helicopter injured killed miami near officials others",
   "attack bear canadian daughter dead grizzly hiking mother suspected trail",
   "ballot biggest blew boss california dave election failed loser props regan union",
@@ -3603,6 +3602,7 @@
   "congress doctor drug findings handling resigns",
   "acapulco dead found journalist mexican missing people reported",
   "another chase crashes dead police vehicle",
-  "grey months nuclear record return seven submariners"
+  "grey months nuclear record return seven submariners",
+  "approve cancer declines drug goal lung misses summit survival trial"
  ]
 }
