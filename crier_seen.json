@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://news.sky.com/story/two-day-manhunt-for-escaped-prisoner-who-is-a-risk-to-himself-and-the-public-13603674",
-  "CBMipAFBVV95cUxNdDRpeXJ1dUJPQ204M0NuOFBla1dvdXk2djVEUzJCQzk0SlBydEZiUmNFVF9LY0oySThQSkszTXdZZUlCdnFYaU93SnNCZGlWeWJUMEhCNERCbE5CQ1RXUHRCU3BMbnh4cDUyQVR6bHBWMHFaXzZ4Qmd3U2pwUWVDWndGU1FRQ2VXeEVLY0d1dndOWW1zSUFJRHoxUUF2M01qMnlmRA",
   "CBMihgFBVV95cUxOZ0RORnFPYjVtbTVHNzBDVi1QNVZmQ2thYi1heU50andMMUZwZGNzZ29RY192MWhlbUhqeXF2cy13bUl1eUVMVmpDVFBfSFMySjg1QWY2STFXSGllUWFLTXVUWE9YMDVISk5WTlpiOGZBVEstXzZGYUY4VTctY0cyY2w0MGllZw",
   "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do#1",
   "https://www.washingtonexaminer.com/?p=4779018",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
   "https://nypost.com/?post_type=article&p=41882624",
   "https://www.bbc.co.uk/news/articles/cmpqr9j81888o#0",
-  "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment"
+  "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+  "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
+  "https://news.sky.com/story/at-least-17-people-killed-in-two-separate-shootings-in-south-africa-13612711"
  ],
  "posts": [
-  {
-   "fp": "2026 election governor live maryland results",
-   "title": "Maryland Governor Election Live Results 2026",
-   "source": "AP",
-   "at": "2026-11-05T01:18:45.887940+00:00"
-  },
-  {
-   "fp": "bills braces congress conservative dash push takeover through",
-   "title": "GOP braces for mad dash to push conservative bills through Congress before Dem takeover",
-   "source": "New York Post",
-   "at": "2026-11-05T01:18:47.643895+00:00"
-  },
   {
    "fp": "early pressures protection ridiculous senate sunsets sunshine trump",
    "title": "Trump pressures Senate on Sunshine Protection Act over \u2018ridiculous\u2019 early sunsets",
@@ -3201,11 +3189,21 @@
    "title": "\u2018The blood of these brothers cries out\u2019: Pope Leo demands justice for people killed protecting the Amazon",
    "source": "Guardian World",
    "at": "2026-11-16T02:46:38.352246+00:00"
+  },
+  {
+   "fp": "delaware november rare tornado",
+   "title": "Delaware hit by rare November tornado",
+   "source": "Guardian World",
+   "at": "2026-11-16T10:27:55.298542+00:00"
+  },
+  {
+   "fp": "africa killed least people separate shootings south",
+   "title": "At least 17 people killed in two separate shootings in South Africa",
+   "source": "Sky News",
+   "at": "2026-11-16T10:27:56.958125+00:00"
   }
  ],
  "titles": [
-  "2026 election governor live maryland results",
-  "bills braces congress conservative dash push takeover through",
   "early pressures protection ridiculous senate sunsets sunshine trump",
   "blue gives hegseth impeachment iran massie pins ultimatum wave",
   "bankruptcy breaking dean divorce filing norris revealed secret star",
@@ -3603,6 +3601,8 @@
   "alleged amputation attack double four haines helen hospital leaves weeks",
   "accused bizarre dead fabricating friendship including involving maryland military moore scandal soldier",
   "alleged attack australian both discharged hospital legs lost",
-  "amazon blood brothers cries demands justice killed people pope protecting"
+  "amazon blood brothers cries demands justice killed people pope protecting",
+  "delaware november rare tornado",
+  "africa killed least people separate shootings south"
  ]
 }
