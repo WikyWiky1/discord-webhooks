@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiZ0FVX3lxTE9ickctZVVoWEptcTlSYU5wLWVWakxCeDlyemF2RUNjRW9uYXU4YldiQU1EWkUtNHUtUHpReGZhcXpqcU1yTHNKcUFVM3lhd19qN1BGLWVtQkhTNWNwSC14OGIzdUZxUDA",
   "CBMilgFBVV95cUxQS21WNUxwOVpLMlRycVBlQzZ5MUk1eHp1MW5EQUFGOEZoaXFaSnVXczYtZzZmMV8tTFJNeUdvMloxdERKa3p6dVp2eW1YZUw2a2tKQ01Kb2lyaWNZWTJ5X1lxQmJzZWRReEx5Wlg4aEY1b2k0QTVzUjd1Rk1aT2Y3dTM2SldYRklUcF9ZSUVmS2N2Z2RwY3c",
   "CBMiqwFBVV95cUxPUTEtbzdiSENESl8zTEt6ZFRtQVpmOVdUM1NlNVpmUEpiMjFyemVfc0ZFS09teXBpdG9yZVZQaFJlT3dHT19CZUpSbmozdmUtamhBN2lnZ3lOSjdMdFlKNGk1NFA5TkJrWVJLS0lzXzhkdTk0NWlQU2VrMDU5dldoYVlFNDM5YndGbldEa2FfME92MVZQUkc3ZmktdUNsZjhJSUFyR0RPVldVWmc",
   "CBMipgFBVV95cUxNbW50b2RKQnYxQ3pEY21lOWdDMTNwTmN6cDFsS1lKVmpWcDZ2U25TVGlELXpFMkZoOXJhU1R4WUF5NHNISmNKejJ2VnFnckRaUWlrVi04SFQxT2xOS19qQWM0ZkZsVmlpOFBjUVlNN3gxU2Y4aTRsZGtLRXZfWlVSV0xoSXd1em0xUUlfZzlIVDJGOElMdlpvVVY3ZGFDcjRGaDRQMlVR",
@@ -799,15 +798,10 @@
   "CBMi6AFBVV95cUxNZEtrRU5sVF9hdkplVEwycHdSQkZ0VE5HbTdGM3JEdXVYZnRGTEU3N1ZEMlgwTEM1anVndDZPR3BiZFZpWFR1aGptNmxVYWRNVTZGcXRUaUdSNjd2SWZLOElFOTViYXBJSWx4SU1TcEVwdEt3Y3NNc1NuMTJJN0k0OWs5U29SWms1ZmJhQ0xMN21vM1pqYV9zTl8tZExFclpTUUpOQVRsb1BBaDdwZk9WdG5kaVludkxYd3R0X3ZjamZFUDVDc3dINGhCVEQwT0JjU3lyeHFCOFNjNTBibkcwUWhfclMzMlM3",
   "https://www.washingtonexaminer.com/?p=4804917",
   "https://nypost.com/?post_type=article&p=41901021",
-  "https://nypost.com/?post_type=article&p=41898587"
+  "https://nypost.com/?post_type=article&p=41898587",
+  "CBMiwAFBVV95cUxQWGFfZXpLdHF2T0MyTDBFVXJ3U0YtOVJTS2UtdTFjWkZZZDl3X0g1TEZKcEMzU0RXS2x6ZGgxZm5ZQzJMb19aMnNKZmNlSnRzYVNVTXcwSW1YSWhVTWdUVGZ0YnJuZVhYVzZVOWxjZ280YUJkMjB1b3Z6VGlwMjYzLXRmWklpcXJoLS1YaDJsVU5TNXdXdnRvaktoeUpaWTlUeHJfM2tMWTNOY1VvOThGaHF3M3NjakRMY0RvSU1qc0g"
  ],
  "posts": [
-  {
-   "fp": "2026 california election live proposition results",
-   "title": "2026 California Proposition 40 Election Live Results",
-   "source": "AP",
-   "at": "2026-11-05T10:24:43.995522+00:00"
-  },
   {
    "fp": "brooklyn fire firefighters house including injures kills others several",
    "title": "Brooklyn house fire kills 6, injures several others including 3 firefighters",
@@ -3201,10 +3195,15 @@
    "title": "One-third of caregivers don\u2019t know about this potentially deadly heart condition \u2014 despite seeing the warning signs",
    "source": "New York Post",
    "at": "2026-11-16T20:39:16.752529+00:00"
+  },
+  {
+   "fp": "alarming atlantic drops north population rare right scientists whale",
+   "title": "Rare North Atlantic right whale population drops, alarming scientists",
+   "source": "AP",
+   "at": "2026-11-16T20:52:39.369979+00:00"
   }
  ],
  "titles": [
-  "2026 california election live proposition results",
   "brooklyn fire firefighters house including injures kills others several",
   "fast japan killed marine maryland native rope training year",
   "breaking budgets cards library people tighten",
@@ -3603,6 +3602,7 @@
   "congress departure huang lawyers mollify morning nvidia plaintiffs report risk unlikely",
   "complaint effort ethics failed files group hegseth impeachment massie thomas watchdog",
   "attack bridge crimea drone largest prized putin russia strikes ukraine",
-  "about caregivers condition deadly despite heart know potentially seeing signs third warning"
+  "about caregivers condition deadly despite heart know potentially seeing signs third warning",
+  "alarming atlantic drops north population rare right scientists whale"
  ]
 }
