@@ -1,6 +1,5 @@
 {
  "ids": [
-  "CBMiowFBVV95cUxPNTNqT1RkY0RsU1oyTkpOUHNVR3V3eDNUckxOSV9QeW1JelM3TjhzTjJ5NmJkcl8tMXFOOVJjVlJhMEtaSmI2RjNqV2VwbW93RWlRanFHZjJJTVg4Qi1jQmQ2ekRpZU1tZzk1Y1BEZDVYNlVzblNtV2loeFkzSHZQWFdTdUFXMjkxSHozRENYZWp3cXBzQ3ZPRTZDaGRrRGNOZzVF",
   "https://nypost.com/?post_type=article&p=41467124",
   "CBMiiAFBVV95cUxQWXU0azFGRXd0a2VjRUxHdzU4ak03aENuZmxRc0thbXZiRHluQzlGbzFvYnR0M21kcWpFdjNta1JJcUxtcDQ2MTYweURhS2s0eXV2RjNkb0w1bDVXdDZqMVdZNmVhYXRGNjVMa0toTEV6RzJzNFpQd3R4WGQ5Vl9NRXZRLUpVNU1o",
   "CBMiuwFBVV95cUxQcHBRckFsU2Y0QkxqVW8zMXlNcXNpQkVNbkE3Um1jQ0puZWxTNGJWbkMxUDcyVjM0OEtxdFpqY3c1ZEk0dC1iYTFzS1dpQ2RtQVUxa0VqdEFSYnYtMVZud1A0enZ0Rmttd29DR0oxZXN5WnJaWk5jSWpKWmJldGVIYnQ2TjJnSjVGLWR3YmlZajR0bFhmMVFaVnYxU0p3WjRXT1JoUk9yN05aYjFvTFk1Y0phOUZ6X2pILXdR",
@@ -799,15 +798,10 @@
   "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
   "CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw",
   "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
-  "CBMirAFBVV95cUxNYjg1OG03YzROdzhSWG13NTVZYWM3VVdCNnhpOW04MnIwcFJueEY4N3hqTGZVV0dScFJOOUxvRlFxQ3BlNWhZc0Qwd1c1V3d4SHpDb2hieXd4TUZ1WkZ2Rmt4OS1NVnkyYm1KSjY1cDE3cE1kRlRKakZHT1l3ZUFGTmh6QWVQdkdnWlNtdmhEZUtzT1hqeS1BbEdPd25lRXRvZ0hNWHVPbGs2UkFm"
+  "CBMirAFBVV95cUxNYjg1OG03YzROdzhSWG13NTVZYWM3VVdCNnhpOW04MnIwcFJueEY4N3hqTGZVV0dScFJOOUxvRlFxQ3BlNWhZc0Qwd1c1V3d4SHpDb2hieXd4TUZ1WkZ2Rmt4OS1NVnkyYm1KSjY1cDE3cE1kRlRKakZHT1l3ZUFGTmh6QWVQdkdnWlNtdmhEZUtzT1hqeS1BbEdPd25lRXRvZ0hNWHVPbGs2UkFm",
+  "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women"
  ],
  "posts": [
-  {
-   "fp": "fears major midterms plunge slowdown stocks tech",
-   "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-   "source": "BBC World",
-   "at": "2026-11-06T01:23:16.219411+00:00"
-  },
   {
    "fp": "blackburn considered hegseth report seat senate tennessee",
    "title": "Hegseth not being considered for Blackburn\u2019s Tennessee Senate seat: Report",
@@ -3201,10 +3195,15 @@
    "title": "British tech entrepreneur raises $5bn for AI drug discovery company",
    "source": "Telegraph",
    "at": "2026-11-17T18:11:32.789037+00:00"
+  },
+  {
+   "fp": "2027 been beyond destination here india insiders named tips travelling tropes year",
+   "title": "India has been named a \u2018destination of the year\u2019 for 2027 \u2013 here are insiders\u2019 tips on travelling beyond the tropes",
+   "source": "Guardian World",
+   "at": "2026-11-17T19:42:02.694005+00:00"
   }
  ],
  "titles": [
-  "fears major midterms plunge slowdown stocks tech",
   "blackburn considered hegseth report seat senate tennessee",
   "election mckinney newhouse open seat washington wins",
   "breaks cover election looks miserable nithya raman since time winning",
@@ -3603,6 +3602,7 @@
   "anti arab election finds hate israel media report social speech surged",
   "earnings falls huang nvidia open return test wall",
   "agrees congress honored huang nvidia return testify",
-  "british company discovery drug entrepreneur raises tech"
+  "british company discovery drug entrepreneur raises tech",
+  "2027 been beyond destination here india insiders named tips travelling tropes year"
  ]
 }
