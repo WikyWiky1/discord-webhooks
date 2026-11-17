@@ -1,10 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41514307",
-  "CBMipgFBVV95cUxOMEV4ZERZV1BZVnk4XzhGS1RNNnNsX2RXZFhzeGpxMzFoY1FlRS1PMVEwdmp5VUVfT0VGQWM1c1JRTkFZN2luZ09SWjIzbWs3MTBHZERnWlJRMFZ4bU5qSkkwSDB5TG9zYWVGU1ZjTkJ0dkNvZEtMX3FNMXVrZ2NUVUVZLThnSGtLNk1sVTJIU0hZc05mLVRtLUNXaXlPU21tcnd4d2Jn",
-  "CBMinwFBVV95cUxQV1FGQ01uRTk1eWVoWThueGVyUF9RWERUVlh4UmFGZjVhd3dJYlUxakk3VEVRVkxabEhlUlItWFFoQ09WdV95eVNBUEhCRTY4eUlrV1F0ZlFEWUtGZFItSE8wd2RXR3BjU3k4N0hqbklWeTVOc2dxZzdaSmhYMjBNVDlTcjdzWWwtOEIxa1lOcjhwZGc1bXRyR1pvTU9hanc",
-  "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-  "https://www.washingtonexaminer.com/?p=4779321",
   "CBMimwFBVV95cUxOZHlFTlU1OU10R1dWdF8yVlRucTI5b0ZySlBOLTYtMFBZTkRIelBEdUFyUTA1a0FzYTBieG5nbGMtUEtWZXNkM255blQ2Q29KZTdlZl9YcWtHWUFibS1icUc0akZuVnJSck9FTEhvWkhEWmQ0ZlFKc1ZIcnJLRENPUmMzS2VjNV9QT2VUYzEtbGdZYlAxS3hvVW1ONA",
   "CBMisgFBVV95cUxNSElINHZmYXlEYkdaa0FvWkZVOVU3Tm4yQmdjZ2tXMXJveURKTkt6TVJDN2lEc2ozZTM5M0F3cWZsamgwa2ZtVFRKajJuU1NXd21kVGdad2hBdnJwdlZLOXFrNjhTbFZIZE5QX2tzYUhrendRVTFuSHpjcU85NEotX29VdjJvd3hvZmlfaUlHSnl0Ym9IYjROMm5tblBjbXNTYzAxLTdRTjJqcDlQTU0yZUlB",
   "CBMipAFBVV95cUxPSXhaU2ZZaldmV2c3LU1hT0FHOFpEUko5d0ZaSDN0SG50cUMzYXdsX2tEUHM3bzR6N01JSzhVWEFjMS1jQVc5c3J0REc2ZjVVZl83WUFEeEpIQXFnUHVWcXlhNW02NkUxbUZCV0N6bTFuakdZblJMRTdPaUg5bmZ0c3AzbVNGXzRPSU5sUllUT3VTQV9TbHRoN1BjNU9GQ002cmhYNA",
@@ -799,39 +794,14 @@
   "https://www.theguardian.com/society/2026/nov/16/how-milburn-won-over-labour-tackling-rising-youth-unemployment",
   "CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE",
   "https://nypost.com/?post_type=article&p=41913107",
-  "https://nypost.com/?post_type=article&p=41912823"
+  "https://nypost.com/?post_type=article&p=41912823",
+  "CBMiuAFBVV95cUxPdWVVdldZOXZsVElHNUkwYWR2aGpfaVhRTFZKZ183elNOOVNNZ196a2drOXhxQTQwVGk3eWtQLXJZYjZiX2JSOXduOG1Gb2tZRUJGUDdhVXo5RW1TRloxWFRhNjFWZmhqaXFyYmRsQkxtZzFZWmpxWTNhaEQxQnJybEE1MGQ0ZmZ4UFFtSm10U0RIUE1zSUxMT3UtSW9zdXBXRzBZUnN5cXNQejJPSkE0TmliWkF4YU5S",
+  "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
+  "CBMiogFBVV95cUxPR3pCLU9Xd1c1amM5dzdoNy1paUJHS3lMOVdsTkp4ZEdSVG9oanlSRHcyV1Njb25xZ1lfSmFsU0JSNlR2MWVkb0owTDNRQW1zZzdqTXpYUVYzTWJUQnB2YXd0Q2g0eUhZT0lDVzdZSmd3SE1FYnNEQ0RoTWhhZDJYR2llcGlRbzJ3SlB1UXJZRmkxQkNPd2dYMVkydlR4OU96YlE",
+  "CBMipgFBVV95cUxOb0tlNzNydmppLWsyNUtjdXVCSmRsNklSN1BwNWU4a3ZHbDIxSFVvQ05wLUtoenJDcFNMaE9jRzRpaWlRamY4dzVMUDVTanJqb2FuMENLVDR0Rl9TTGhIUG1xeEdBN0FrN3lZREJBMEh1UkludllTczVlblA4bndsVGFCcHlja3N4dXFqWlR0WGpjQ2xKb3lmYXVUcjhZSHdMOHQ1akVR",
+  "CBMikwFBVV95cUxNRGhyRTdNckNzZ19VRTBDYU51akNCTGllamZOLXRQUDFob1cycU9JRkhEdlpCSE8zVkR3NDFtZHV2UmZ6MXZCaFdpSEN4N0Y2MEllWnpvLUxDQXJRVVVQSmlQX2dmSVU2U2VVejkzVjNZbk9Wem1nY0hEU0NVS3lBaGFPOWN2eTd1UGZISG1KeE1CdGM"
  ],
  "posts": [
-  {
-   "fp": "dhillon exit harmeet major postmidterm resigns",
-   "title": "Harmeet Dhillon resigns from DOJ in first major postmidterm exit",
-   "source": "The Hill",
-   "at": "2026-11-05T18:56:22.577264+00:00"
-  },
-  {
-   "fp": "bank collapse paraguay president resigns santiago",
-   "title": "Paraguay President Santiago Pe\u00f1a resigns after bank collapse",
-   "source": "BBC World",
-   "at": "2026-11-05T18:56:24.360210+00:00"
-  },
-  {
-   "fp": "civil controversial dhillon division down harmeet head rights steps",
-   "title": "Harmeet Dhillon, controversial head of DoJ\u2019s civil rights division, steps down",
-   "source": "Guardian World",
-   "at": "2026-11-05T18:56:26.129439+00:00"
-  },
-  {
-   "fp": "ally civil department justice leading resign rights sources trump unit",
-   "title": "Trump ally leading Justice Department civil rights unit to resign, sources say",
-   "source": "Reuters",
-   "at": "2026-11-05T18:56:27.852781+00:00"
-  },
-  {
-   "fp": "between ceasefire enduring melania oleshky peace russia spark trump ukraine",
-   "title": "Melania Trump: Oleshky ceasefire is a \u2018spark\u2019 for 'more enduring' peace between Ukraine, Russia",
-   "source": "Fox News World",
-   "at": "2026-11-05T18:56:29.562682+00:00"
-  },
   {
    "fp": "back defeat election khanna president screaming thinks",
    "title": "Ro Khanna thinks he can run for president after screaming \u2018DEI is back!\u2019 after election defeat",
@@ -3201,14 +3171,39 @@
    "title": "Explosion rocks SoCal landfill sending workers scrambling and smoke billowing into the air",
    "source": "New York Post",
    "at": "2026-11-17T03:08:48.724994+00:00"
+  },
+  {
+   "fp": "asia chip commerce cracks department down fall shipments stocks",
+   "title": "Asia Stocks Fall as U.S. Commerce Department Cracks Down on Chip Shipments",
+   "source": "WSJ",
+   "at": "2026-11-17T06:48:46.637973+00:00"
+  },
+  {
+   "fp": "candidates election list serbia student sworn triumph",
+   "title": "Serbia\u2019s Student List candidates to be sworn in as MPs after election triumph",
+   "source": "Guardian World",
+   "at": "2026-11-17T06:48:48.331435+00:00"
+  },
+  {
+   "fp": "ahead apec canada carney china deals extend meets summit trade",
+   "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit",
+   "source": "Reuters",
+   "at": "2026-11-17T06:48:50.023184+00:00"
+  },
+  {
+   "fp": "apec backseat meet summit taiwan take third time trump",
+   "title": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit",
+   "source": "AP",
+   "at": "2026-11-17T06:48:51.740622+00:00"
+  },
+  {
+   "fp": "asian decline following shares stocks street tumbled wall",
+   "title": "Asian shares decline following stocks tumbled on Wall Street",
+   "source": "AP",
+   "at": "2026-11-17T06:48:53.448834+00:00"
   }
  ],
  "titles": [
-  "dhillon exit harmeet major postmidterm resigns",
-  "bank collapse paraguay president resigns santiago",
-  "civil controversial dhillon division down harmeet head rights steps",
-  "ally civil department justice leading resign rights sources trump unit",
-  "between ceasefire enduring melania oleshky peace russia spark trump ukraine",
   "back defeat election khanna president screaming thinks",
   "bluenami budget hegseth life midterm results support trillion",
   "analysis election event pulls stevens university",
@@ -3603,6 +3598,11 @@
   "labour milburn rising tackling unemployment youth",
   "asia deals manila maybe meeting nuclear putin shenzhen summit trip trump",
   "area canyon dead grand national park plane plunges remote three",
-  "billowing explosion landfill rocks scrambling sending smoke socal workers"
+  "billowing explosion landfill rocks scrambling sending smoke socal workers",
+  "asia chip commerce cracks department down fall shipments stocks",
+  "candidates election list serbia student sworn triumph",
+  "ahead apec canada carney china deals extend meets summit trade",
+  "apec backseat meet summit taiwan take third time trump",
+  "asian decline following shares stocks street tumbled wall"
  ]
 }
