@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41533961",
-  "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o#1",
-  "CBMivwFBVV95cUxPY0RYTHBkV0Y4OGdwdlBLSUtISTZ2ZEhfbWlRS2luMVhjTU55ZVhnQWpVbWI4UHRCMFRDLVRuejY1dFlXOWtEOEUzLWRnSUJZMTNyampPdlY0OWxvMkN3b2VaeEhLT09fbVpXYWhTdWV6V0lCZHZPbWp4WTJxRnZKWUFsanYxOW9FSUNheGxwcUs5NVYyRjBoYzBpdzhYckl4dEhCU1JhZndRdTNYVEZOTTNCZE1Ya3NpdnB5UXdaaw",
-  "https://www.washingtonexaminer.com/?p=4780874",
-  "CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw",
-  "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
   "CBMingFBVV95cUxNRXF6SzRzQjFlSVJ4Wjk2OEdySTRrS0F3eWlZcXQtRDdXN3hYZ1Z1YmVqbUJzbURWRW9zZHBEcmd3QWNxRGp4QWZuX0VfT1dQNVBJNDNMaXVYSDFHY3NTb2ZvNlJfdjZuUmluNERuS3FIeF92cV9uWVFyQ29zU29ybEFHRU92SDR3ODZvWXpvQU5NZ3dfZGFQcy1iQVhudw",
   "CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw",
   "CBMitgFBVV95cUxQT3JwdW0zaTY4LTYtWHR0VVRPVUV0T0tmWmFkVkRIMzdZcGIyalNnT3pPeUZQLWNCdzRhZTdoOHpSWi0tdUwyR013aldzekZoT3Q0bDlPTFc3LUw0cmw4bUgtN1k3YTFGSVlta2FlWEM2aVFlQWhoYnY2M2l3OVdwS09iWlpIWmNVTTB2eDN0RU1Db1dEczBZb1VWdzBfLXNMSjRtMzBXNk1GSzB5dXIzeEhIS0Jfdw",
@@ -799,45 +793,15 @@
   "CBMikwFBVV95cUxPWFF6T2tpa2JWRXltSGhKSThhb0FaSFJ4OUpfQko5N2IzRFBraDNmdjBtaGxnWkZaMTh3a2hmSm9tcmlHMjRMU0lPcTZScHFWRHo2d0pHZlZKMUhNVGphMURVTzNCRFdTMGt2TmpzRjZBaGdpZ1hLYk14X1RQSVFuV0VPS2dPdVVTWC02VmFlVVZzTTg",
   "https://pagesix.com/?post_type=article&p=9383301",
   "https://nypost.com/?post_type=article&p=41972821",
-  "CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA"
+  "CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA",
+  "CBMipgFBVV95cUxPbjM3c3k5Q2otRklJTDllbEJZR1N1VUMwQ3NoajUtV1k0bWkyZmg1eDJZbkxZRmlWdzBCSko1d0laWnVQaFhYN2RYNFAyUjN1R0VxaU1GbjcteC0tQ252bkRZWFhSb3ZjWEhNd2JMdVRwR0hXVmM5SzliNmtiWU5IN3Y2Y3ZHSmdURWZnY1doTzA2cmdVLXExYUNrMXU3VGw5WXNUblBR",
+  "CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF",
+  "https://news.sky.com/story/fifa-confirms-candidates-to-stand-against-gianni-infantino-in-presidential-election-13613862",
+  "https://nypost.com/?post_type=article&p=41973595",
+  "CBMiqAFBVV95cUxQOGFYWEJrZkpsMjh1dWNROWxsODdhQzUxYmR2WEhqNFIxRjNLM2l6QWlNZ2lHSlFIeGhQQnJBQTN4MGNpVXBIVkxSU1lLOVZkTk9LRXJfb0RDeXJKaFM5X245bFg5WnQ0WEtQQktxSzhGbjNPMVNFRmNLb25zM1JqcUE1Z1dFSXRjSjJUS1hzZXpEREFiejN4V1dWc05kbnA5Yi1sUjBUcjU",
+  "CBMib0FVX3lxTE9Ha0poay11emY4V2pvcHFiV3pLbXNXWFVvd1o2bkZWOHRKNHIwSFg1Z1RuQjRaNWhLeTIwZTF2Vmx4OHMtaER3bFJmWjZjMHhpT3VUQ0lvRzVBUjRodlBrOW40MEVxNkl0TkVZLWdGTQ"
  ],
  "posts": [
-  {
-   "fp": "biter colom mississippi nail race scott senate turned",
-   "title": "How Scott Colom turned his Mississippi Senate race into a nail-biter",
-   "source": "The Hill",
-   "at": "2026-11-07T00:38:12.946388+00:00"
-  },
-  {
-   "fp": "dumb dumber election everybody humiliation lost mayoral pratt ritual spencer",
-   "title": "Spencer Pratt: LA\u2019s \u2018Dumb and Dumber\u2019 mayoral election was a humiliation ritual \u2014 and everybody lost",
-   "source": "New York Post",
-   "at": "2026-11-07T00:38:14.761727+00:00"
-  },
-  {
-   "fp": "advancing bill permitting senate vote",
-   "title": "Senate to vote on advancing permitting bill",
-   "source": "The Hill",
-   "at": "2026-11-07T00:38:16.474102+00:00"
-  },
-  {
-   "fp": "data jobs mixed muted rebound stocks",
-   "title": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound",
-   "source": "WSJ",
-   "at": "2026-11-07T00:38:18.308982+00:00"
-  },
-  {
-   "fp": "canadian firms iran money related sanctions services transactions treasury",
-   "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
-   "source": "Reuters",
-   "at": "2026-11-07T00:38:20.353310+00:00"
-  },
-  {
-   "fp": "confidence cornell declares faculty leadership senate university",
-   "title": "Cornell faculty senate declares no confidence in university leadership",
-   "source": "Reuters",
-   "at": "2026-11-07T00:38:22.393889+00:00"
-  },
   {
    "fp": "fire intensifies loom power risk shutoffs socal urgent warning weather",
    "title": "Urgent weather warning as SoCal fire risk intensifies and power shutoffs loom",
@@ -3201,15 +3165,45 @@
    "title": "Nuclear arms and ending wars in Iran and Ukraine will top the agenda at Trump-Xi-Putin meeting",
    "source": "AP",
    "at": "2026-11-19T08:50:50.464088+00:00"
+  },
+  {
+   "fp": "ahead anthropic earnings economy nvidia test",
+   "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
+   "source": "WSJ",
+   "at": "2026-11-19T11:10:54.323943+00:00"
+  },
+  {
+   "fp": "anthropic debut futures hopes jump market nasdaq strong",
+   "title": "Nasdaq futures jump on hopes for strong Anthropic market debut",
+   "source": "Reuters",
+   "at": "2026-11-19T11:10:56.110696+00:00"
+  },
+  {
+   "fp": "candidates confirms election fifa gianni infantino presidential stand",
+   "title": "FIFA confirms candidates to stand against Gianni Infantino in presidential election",
+   "source": "Sky News",
+   "at": "2026-11-19T11:10:57.805028+00:00"
+  },
+  {
+   "fp": "brisk diplomacy historic knocks minute putin school summit trump",
+   "title": "Trump knocks \u2018old school\u2019 diplomacy at historic but brisk 80-minute summit with Xi, Putin",
+   "source": "New York Post",
+   "at": "2026-11-19T11:10:59.474843+00:00"
+  },
+  {
+   "fp": "apec china held japan putin summit takaichi talks",
+   "title": "Japan says PM Takaichi, Putin held talks at APEC summit in China",
+   "source": "Reuters",
+   "at": "2026-11-19T11:11:01.134305+00:00"
+  },
+  {
+   "fp": "2026 california election midterm results",
+   "title": "2026 California Midterm Election Results",
+   "source": "AP",
+   "at": "2026-11-19T11:11:02.805771+00:00"
   }
  ],
  "titles": [
-  "biter colom mississippi nail race scott senate turned",
-  "dumb dumber election everybody humiliation lost mayoral pratt ritual spencer",
-  "advancing bill permitting senate vote",
-  "data jobs mixed muted rebound stocks",
-  "canadian firms iran money related sanctions services transactions treasury",
-  "confidence cornell declares faculty leadership senate university",
   "fire intensifies loom power risk shutoffs socal urgent warning weather",
   "arrest bank collapse house ousted paraguayan placed president under",
   "2026 close continues count draws election labour level live national race results zealand",
@@ -3603,6 +3597,12 @@
   "china extend fears nvidia slide stocks",
   "actor days dead larry lives poindexter",
   "coach football high kicked mistake playoffs resigns school second team undefeated",
-  "agenda arms ending iran meeting nuclear putin trump ukraine wars"
+  "agenda arms ending iran meeting nuclear putin trump ukraine wars",
+  "ahead anthropic earnings economy nvidia test",
+  "anthropic debut futures hopes jump market nasdaq strong",
+  "candidates confirms election fifa gianni infantino presidential stand",
+  "brisk diplomacy historic knocks minute putin school summit trump",
+  "apec china held japan putin summit takaichi talks",
+  "2026 california election midterm results"
  ]
 }
