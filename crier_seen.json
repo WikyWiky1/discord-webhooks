@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c6vgj813mlelo#0",
   "CBMiqwFBVV95cUxPRlcyVjhVaDliZERCZF9SeERLNEdHblNvbk0wUS1RNExOLS1jMVJ1UU15R3JBZ0FwNm9oQjN3N3RrWmZFa0FmakVNem5QNS11dnFUOFRtZ3Q3REU1MDc2MTVLOXJpQ2Fva0lEYWFIbWtPbXBKWGxzN1hudlV4SFFWTUIzYUlzVVdxaDNTVy10T21halNuV1BRZDRXYzR3bXJ1bWdybVFLUkRtVGM",
   "https://www.washingtonexaminer.com/?p=4781529",
   "https://nypost.com/?post_type=article&p=41483223",
@@ -799,15 +798,10 @@
   "https://thehill.com/?p=6229145/",
   "https://nypost.com/?post_type=article&p=41978423",
   "https://www.washingtonexaminer.com/?p=4808624",
-  "https://www.theguardian.com/us-news/2026/nov/19/british-woman-florida-murder-case-sonia-exelby"
+  "https://www.theguardian.com/us-news/2026/nov/19/british-woman-florida-murder-case-sonia-exelby",
+  "https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa"
  ],
  "posts": [
-  {
-   "fp": "attack beat bonfire disabled florida four minute morons party sickening teen",
-   "title": "Four Florida teen \u2018morons\u2019 beat disabled man in sickening 40-minute attack at bonfire party",
-   "source": "New York Post",
-   "at": "2026-11-07T10:57:08.337861+00:00"
-  },
   {
    "fp": "glimmer gulf hangs hope iran nuclear offers official region talks threat trump",
    "title": "Top Gulf official offers glimmer of hope on Trump-Iran nuclear talks as threat of war hangs over region",
@@ -3201,10 +3195,15 @@
    "title": "Prosecutors allege British woman \u2018trying to find someone who would kill her\u2019 lured to US and murdered",
    "source": "Guardian World",
    "at": "2026-11-19T17:52:59.257759+00:00"
+  },
+  {
+   "fp": "base food future moon potatoes scientists source space spuds",
+   "title": "Spuds in space: scientists say potatoes could be key food source for future moon base",
+   "source": "Guardian World",
+   "at": "2026-11-19T19:26:04.669095+00:00"
   }
  ],
  "titles": [
-  "attack beat bonfire disabled florida four minute morons party sickening teen",
   "glimmer gulf hangs hope iran nuclear offers official region talks threat trump",
   "actress dead director found heartbreaking oscar partner tribute winning writes",
   "dozen five injured killed krak latest police shooting updates",
@@ -3603,6 +3602,7 @@
   "aboard bound cruise florida outbreak ship sickened unknown",
   "dangerous declarations emergency flooding florida grows prompts rain torrential",
   "armored ceasefire hamas incursion israel launches since territory",
-  "allege british find kill lured murdered prosecutors someone trying woman"
+  "allege british find kill lured murdered prosecutors someone trying woman",
+  "base food future moon potatoes scientists source space spuds"
  ]
 }
