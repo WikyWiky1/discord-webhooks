@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41551561",
-  "https://nypost.com/?post_type=article&p=41551785",
-  "https://nypost.com/?post_type=article&p=41552857",
-  "https://nypost.com/?post_type=article&p=41551492",
   "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
   "CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw",
   "CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00",
@@ -799,33 +795,13 @@
   "CBMiYkFVX3lxTE44NG5GcVVHSFJUa0trQTE0UzNVaWFUZ2ZHaVlQTDhWSXVmZkNEcFlWR2hGeGc0ZUtCUmF0a1l3ZVZCUmktQ1d5elZJMV9OS0tjSW1HaVg1SlJCRmt3d2pWRkJB",
   "CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ",
   "CBMiswFBVV95cUxQVGl6dU85bExfQlhuODY0Rkh6a3M2UVhRTlV1QmRsclI5ZHpRbWo5M3JIbUdydkRzOFNrZkZ6RDBIMHJVNGhqeklnRl9UVVAzRFpFUUk0OTVDVnU3RVh2VjdWZ2ktMUhMNmZZMUZkVDE5RFAtTjJ4UEZjUDlKZWd4YlhSaFBoYXdnYVI1ajFaRkdnTkpyMExkU0U4YjBHMTNSblZkRWt6aUVtTGJ5UWU1RVdrNA",
-  "https://thehill.com/?p=6233321"
+  "https://thehill.com/?p=6233321",
+  "https://nypost.com/?post_type=article&p=42019937",
+  "https://www.washingtonexaminer.com/?p=4809943",
+  "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno#0",
+  "https://www.washingtonexaminer.com/?p=4810053"
  ],
  "posts": [
-  {
-   "fp": "2026 call close election faces results uncertainty weeks zealand",
-   "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results \u2018too close to call\u2019",
-   "source": "Guardian World",
-   "at": "2026-11-08T04:43:42.953953+00:00"
-  },
-  {
-   "fp": "american deliver midterm politics quake results youth",
-   "title": "Midterm results deliver \u2018youth quake\u2019 to American politics",
-   "source": "The Hill",
-   "at": "2026-11-08T11:18:49.170325+00:00"
-  },
-  {
-   "fp": "alleged behavior dead found home neighbors parents poland rampage recall shooter sister square strange town",
-   "title": "Alleged Poland shooter\u2019s parents, sister found dead in home after town square rampage \u2014 as neighbors recall \u2018strange\u2019 behavior",
-   "source": "New York Post",
-   "at": "2026-11-08T11:18:50.835468+00:00"
-  },
-  {
-   "fp": "fears grow krakow mass mourns poland security shooting victims",
-   "title": "Poland mourns victims of Krakow mass shooting as security fears grow",
-   "source": "Reuters World",
-   "at": "2026-11-08T11:18:52.513744+00:00"
-  },
   {
    "fp": "chengdu chinese claim collapse dalian league super title",
    "title": "Dalian claim Chinese Super League title after Chengdu collapse",
@@ -3201,13 +3177,33 @@
    "title": "Watch live: Trump briefs on Asia trip after Xi, Putin summit",
    "source": "The Hill",
    "at": "2026-11-20T19:39:33.766858+00:00"
+  },
+  {
+   "fp": "back bike bring change demands family fire killed relative",
+   "title": "Relative of family killed in NYC e-bike fire demands change: \u2018I can\u2019t bring them back\u2019",
+   "source": "New York Post",
+   "at": "2026-11-20T22:42:13.974636+00:00"
+  },
+  {
+   "fp": "court emergency petition policies sitting sports supreme transgender washington",
+   "title": "Supreme Court sitting on emergency petition over Washington\u2019s transgender sports policies",
+   "source": "Washington Examiner",
+   "at": "2026-11-20T22:42:15.705248+00:00"
+  },
+  {
+   "fp": "accuses assassinate denmark plotting rapper russia ukrainian",
+   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "source": "BBC World",
+   "at": "2026-11-20T22:42:17.582607+00:00"
+  },
+  {
+   "fp": "australia deplete fleet many nuclear subs supplying warns years",
+   "title": "Supplying nuclear subs to Australia could deplete fleet for \u2018many years,\u2019 CBO warns",
+   "source": "Washington Examiner",
+   "at": "2026-11-20T22:42:19.841498+00:00"
   }
  ],
  "titles": [
-  "2026 call close election faces results uncertainty weeks zealand",
-  "american deliver midterm politics quake results youth",
-  "alleged behavior dead found home neighbors parents poland rampage recall shooter sister square strange town",
-  "fears grow krakow mass mourns poland security shooting victims",
   "chengdu chinese claim collapse dalian league super title",
   "congress opinion probe solyndra trump",
   "2026 election kansas live results senate",
@@ -3603,6 +3599,10 @@
   "anthropic fails hype lives mega revive street trade wall",
   "anthropic correction retreat stocks track weighs",
   "countries drill european hold mission poland postwar potential troops ukraine",
-  "asia briefs live putin summit trip trump watch"
+  "asia briefs live putin summit trip trump watch",
+  "back bike bring change demands family fire killed relative",
+  "court emergency petition policies sitting sports supreme transgender washington",
+  "accuses assassinate denmark plotting rapper russia ukrainian",
+  "australia deplete fleet many nuclear subs supplying warns years"
  ]
 }
