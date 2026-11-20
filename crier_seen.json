@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41550380",
-  "CBMikgFBVV95cUxOM1hja3hGcG1XTFEyajJxMVdPaUZZdkVnd1hMOUlEUDU1Z091NHlvR3FmelozWjhFc2Z6YjVsZWJBR1FoS3F2OU1QU0g0T3ZkWmVqSkFkYXhhMEludXdlaTJNdnU1bE5zNVFVYTZLeURJWUtNY0hSTWJ3ZUt4cWJ1dlVjMi1nWGtNc3Q1RlNJSGFjdw",
-  "CBMijgFBVV95cUxOOXRyNFZIek1GNjVac3F1aWFUNFIwZTlMTWNTVXZEMEhmOVFvOEJ3WHFaVXVOb0JLeVNoV1ZROHJXMTlLd2VWa3dHRjB0aGJaLUlBR2NVU3U1VVFBSVJZQ21DeUlWbFdfNGk3aC15RUJTQkctQ0J3eEZQdjFNNjNnME4xWGVLdXd0SVdVTVd3",
-  "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
   "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
   "CBMiYkFVX3lxTE5OLUF6djY4ak9fWm5OMXB3U0JyYjNhOU8yTGRYYVVHa2hHd0U5cDZfRnhkVWhpaWhCUGpIMnV6cEd3b04xUDkwYnhUSlR4UTJ5c2xxOElOaHRPMHZkZDNIaG93",
   "CBMitAFBVV95cUxQdkNIdDBFN3czS0Vrc29VYkItdTdmX29IM2NIbU1aRVFsUW80Y1JsTTlEUXRqODZ6N1dEakJ3SXhja3JneWNodFFpNHV3UkV1RVNHcVhTU3ZXVU5hQ25ySXc1ZFhxcTJjRG1kdlgzdE9ldHQwQ3VqTUZ6anhuUmJ4R2JNTGlYeG1wbV9Ca3MxV18zTkNHdHRFTmRSdGZmNlJ2WUZfVVFpX2JmRlI0dGNfaXNHSUU",
@@ -799,33 +795,13 @@
   "https://www.theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani",
   "CBMitAFBVV95cUxOWjdzR25CWl9WWlp1SVp4cVl0OE1TUWhmVXBKZVJ1RFNudjFKOEtabjJCX1o0bTRteGZPbVZmRURDazJ3a2UtajRYQ3d2eENyUFpCNHoxZzlSWFRHYnlITVNoSWx4V0g5bjN0S2o0MWVsMm9XSzN3Znd2Zk9CbVkxc2VKa0xJUDRWRGh0aVdEcU4tNTVNVkw3cV9SQUc0d3Nya1dCNkFLTlc0VWdqTWh6M0VwZlQ",
   "CBMilAFBVV95cUxPc2hHRHF5eU4zSVdBWTc3TUtKdTlfRlNUNkxGWXRiLUFLeWdOWGpqOFZDdm5kTllHUGQwR2F0VnNzOXJGM1ZZNjNuOEhRVUFmM3ZjeWdNZHQtSU5xaWVaRFlHXy00bVhINmhHMVRibDJMNmoyeWtXS1FRUDdudVFTdmJwbEtMVnNSclgzMkNoZFdELThm",
-  "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit"
+  "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+  "https://www.bbc.co.uk/news/articles/c69vwyjp0339o#0",
+  "https://nypost.com/?post_type=article&p=42007512",
+  "https://nypost.com/?post_type=article&p=42006209",
+  "https://www.foxnews.com/world/senate-foreign-relations-chairman-warns-horrific-trend-christians-killed-ethiopia"
  ],
  "posts": [
-  {
-   "fp": "armed attack guatemalan killed lawmaker officers police three",
-   "title": "Guatemalan lawmaker, three police officers killed in armed attack",
-   "source": "Reuters",
-   "at": "2026-11-07T23:56:15.102583+00:00"
-  },
-  {
-   "fp": "binance chief down finance justin kaiser named steps",
-   "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
-   "source": "Reuters",
-   "at": "2026-11-07T23:56:16.841483+00:00"
-  },
-  {
-   "fp": "houthis killed least saudi strike",
-   "title": "Houthis say at least 33 killed in Saudi air strike",
-   "source": "BBC World",
-   "at": "2026-11-08T04:07:29.164471+00:00"
-  },
-  {
-   "fp": "collapse fall hawks heartbreaking late latest loss nets",
-   "title": "Nets collapse late to fall against Hawks in latest heartbreaking loss",
-   "source": "New York Post",
-   "at": "2026-11-08T04:07:30.897690+00:00"
-  },
   {
    "fp": "brakes explosion handsaws inside loot millions robberies socal tens train",
    "title": "Inside the explosion of SoCal train robberies: cut brakes, handsaws and tens of millions in loot",
@@ -3201,13 +3177,33 @@
    "title": "The U.K. and EU hold a rare summit to strengthen ties",
    "source": "NPR News",
    "at": "2026-11-20T10:57:44.323656+00:00"
+  },
+  {
+   "fp": "africa killed months nearly south three within women",
+   "title": "Nearly 600 women killed in South Africa within three months",
+   "source": "BBC World",
+   "at": "2026-11-20T16:19:55.463261+00:00"
+  },
+  {
+   "fp": "cops himself kids kills mexico turning wife young",
+   "title": "New Mexico dad kills wife, two young kids before turning gun on himself: cops",
+   "source": "New York Post",
+   "at": "2026-11-20T16:19:57.165579+00:00"
+  },
+  {
+   "fp": "breaking down ever guard knicks rotation unpredictable",
+   "title": "Breaking down the Knicks guard rotation \u2014 which is as unpredictable as ever",
+   "source": "New York Post",
+   "at": "2026-11-20T16:19:58.873690+00:00"
+  },
+  {
+   "fp": "chairman christians ethiopia foreign horrific killed relations senate trend warns",
+   "title": "Senate foreign relations chairman warns of 'horrific trend' as Christians killed in Ethiopia",
+   "source": "Fox News World",
+   "at": "2026-11-20T16:20:00.724206+00:00"
   }
  ],
  "titles": [
-  "armed attack guatemalan killed lawmaker officers police three",
-  "binance chief down finance justin kaiser named steps",
-  "houthis killed least saudi strike",
-  "collapse fall hawks heartbreaking late latest loss nets",
   "brakes explosion handsaws inside loot millions robberies socal tens train",
   "briton gunman killed krakow rampage right",
   "2026 election live measure results washington",
@@ -3603,6 +3599,10 @@
   "close complex island jail mamdani plan rikers unveils zohran",
   "billion dime exclusive hasn mobilize nvidia pledged street wall",
   "european intensifies selloff stocks tech tumble",
-  "hold rare strengthen summit ties"
+  "hold rare strengthen summit ties",
+  "africa killed months nearly south three within women",
+  "cops himself kids kills mexico turning wife young",
+  "breaking down ever guard knicks rotation unpredictable",
+  "chairman christians ethiopia foreign horrific killed relations senate trend warns"
  ]
 }
