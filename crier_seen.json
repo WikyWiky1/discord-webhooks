@@ -1,11 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41541508",
-  "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
-  "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o#0",
-  "https://nypost.com/?post_type=article&p=41542128",
-  "CBMilwFBVV95cUxOZTZWWWdRcTJOdFJpbHlUYVYxZ2p5MmlnT2x3YnRfS0RQOVBER3h0NHowMXp4MWNvOUwybGhFT2pNQUtteVNVd1FmMDhTZ3BpTlJmYTE3dlNfdktyb0I3VG1wRGJsTTQ3S2hEQTI4eFp4c2hhdEl2UkFiaUpINzJVSGtWeURKS3UtUnRUQl9jS0duQ1A5eFQ4",
-  "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo#1",
   "https://nypost.com/?post_type=article&p=41547453",
   "https://nypost.com/?post_type=article&p=41546980",
   "CBMivwFBVV95cUxORS13MExBQ0RLMjJkM1FxVkF0aVVJVzRib0Uxa0FTejhNTlY5M216LURtMFRrZ1Bwc1ZZU2E2cHRwS3FocGtvanZMRmdTWGxYUnRUd3FzMnMySDFZMmRBVVBvR3dsVDFqemZCdmdHcnpXZTZobTF0TlpaejgydmtkUUIwWGhaWGVNU1VEa3dwOFJEb1dkNUxNbXZBNFhPQVMxMjRQcWZ0dnl2VWR4TDZCdWFoeVBNcHM4eElJaGFTTQ",
@@ -799,45 +793,15 @@
   "CBMilwFBVV95cUxOUFBtSTFsdTBzdnM2dzloZXROSmMtM0IwWkVOYVpCQzFlMlo1UHZYT3p6WmpMcTJVYWRycHN6bDBPS0Iwa2lNWkNoQUNUMlplUk5VMWJCYmN5SjZNc3FlemRDakZsQjFxMm9iV3ZYYjdTTndrb21SQ2dvcHhzSEpHNHhtNjNWajNTajNqY05tSXEySHJBc3k0",
   "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
   "CBMitgFBVV95cUxPQlpEemZGMG1ZOWZGZ1R2UFFrM0ZwcmQ0dnRrSkVsZlRhYm1Pd3FKVktodU5DYXFTb0w0d21HV0JMZHI1RUVCdktndGhVd2lzSzBNcDN4QXNzcjQ0Ung4cDdfUzJaNEtkeWFGeVJyTmNOR0c3Q3Z1ODV4c1YzXzljVnk5MlJhcy1WWGp4OXI3SFNlMG5xbW05U2txQmNvdmlYbW1EWGF6NjM3d2QyMGE3eEFJbDJ3dw",
-  "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues"
+  "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+  "CBMiwAFBVV95cUxNVW1XVDJYZ3lvNndWZTU2TXBhRElmUlhGRjdvQTF4ZHNDMXlyUDFTUVpEVjI1YUFtLTdKbzAwSkF6S0UzaFk4QkVzMlJmTDVZVWJjSUFvRVMzY3VDYjVqb0ktc0VNSXVFX2VMSGo2bzR1VGQzNzBRVUtWN3VVRjB3eHByTFk5b1B6eGcxUXYwblpZTV9BVVVPQ0doRGJxWWFiMmVZMDk4NW5MMElldW5fcEY1V3FwYmhXUDJRU3FVaFM",
+  "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+  "CBMimgFBVV95cUxPY2ZlSHR1Y0w1R05KVmx5VHlrbkpTV3Q0NVVEV1QyOUNRNVVpbUplSmJZQ3R1VWFJOWctd0Z0SXhHNDFxSUFVdVVER0drYUZQczFoTHlfT01meDFRU0pTM2doNkZHSm1YWXZ3dzBiWFdhT2dhYWZZMmpiQUZKRTFtOUNnUTRzaE1WaGYwYmlENExsSjZoRGdUSTBn",
+  "CBMiYkFVX3lxTE8wNDl2RzFyeFFfb3BLdXZMd2x5ZFJqR3VKQ3h3MHQwM3k0Y0NaUF93Q3hnZEZKUldtRnpmeEdvb3czX1RUUVFEbnJtdWJmS3lSSEQ1eHYzbTFjMFNHeEw4YVNB",
+  "https://www.bbc.co.uk/news/articles/c3x29ggenz12o#0",
+  "CBMiqgFBVV95cUxOWEFZOC1uRnlpWnBqMzc0VTNDN2ZEREE4ODVTUVVOOTk0Q2htb0NWVVhXdk5VbXg4Z3dSY0Z4Z3VVbG1ld2lvMEwxYXFQOHRIMk41Q3lGcUx6UFExcGpGa3F0YzF1OUIwbmpaY3Bka1ZiUUZ2RzRYd0RadkRnYmxHN2xYLS1SUVdkWks4Q3pGZTdsU2NmaHJNS0ZBLTJNUlM1Mk10MnFiRW5nQQ"
  ],
  "posts": [
-  {
-   "fp": "conservatives deadlocked election path power zealand",
-   "title": "New Zealand conservatives see path to power after deadlocked election",
-   "source": "Telegraph",
-   "at": "2026-11-07T17:28:48.999796+00:00"
-  },
-  {
-   "fp": "clear election general tight winner zealand",
-   "title": "No clear winner after tight New Zealand general election",
-   "source": "BBC World",
-   "at": "2026-11-07T17:28:50.746008+00:00"
-  },
-  {
-   "fp": "alcohol companies flying high midterms shook stocks street tariff wall",
-   "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
-   "source": "AP",
-   "at": "2026-11-07T17:28:52.491841+00:00"
-  },
-  {
-   "fp": "amish clash faith mandates vaccine versus york",
-   "title": "The Amish versus New York: When vaccine mandates clash with faith",
-   "source": "The Hill",
-   "at": "2026-11-07T17:28:54.392592+00:00"
-  },
-  {
-   "fp": "fire gunman know krakow main opens polish square",
-   "title": "What we know so far after Polish gunman opens fire in Krakow main square",
-   "source": "BBC World",
-   "at": "2026-11-07T20:37:49.987103+00:00"
-  },
-  {
-   "fp": "dead fire gunman krak market opens random square",
-   "title": "Six dead after gunman opens fire \u2018at random\u2019 in Krak\u00f3w market square",
-   "source": "Guardian World",
-   "at": "2026-11-07T20:37:51.857782+00:00"
-  },
   {
    "fp": "asks cabinet calling democrats impeachment investigate officials trump",
    "title": "Trump asks DOJ to investigate Democrats calling for impeachment of cabinet officials",
@@ -3201,15 +3165,45 @@
    "title": "Mark Speakman resigns and says Liberals face \u2018existential threat\u2019 as NSW exodus continues",
    "source": "Guardian World",
    "at": "2026-11-20T00:06:43.613268+00:00"
+  },
+  {
+   "fp": "administration alaska challenge dismissed lawsuit moves race senate trump",
+   "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's US Senate race",
+   "source": "AP",
+   "at": "2026-11-20T02:01:38.685379+00:00"
+  },
+  {
+   "fp": "administration alaska asks court dismiss election federal lawsuit live senate trump",
+   "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska \u2013 live",
+   "source": "Guardian World",
+   "at": "2026-11-20T02:01:40.433348+00:00"
+  },
+  {
+   "fp": "cycling grown huntress make mission",
+   "title": "The Cycling Huntress on a Mission to Make Grown Men Cry",
+   "source": "WSJ",
+   "at": "2026-11-20T02:01:42.272394+00:00"
+  },
+  {
+   "fp": "edition journal print street wall",
+   "title": "Print Edition | Wall Street Journal",
+   "source": "WSJ",
+   "at": "2026-11-20T02:01:44.014501+00:00"
+  },
+  {
+   "fp": "anthropic becomes companies debut market public stock valuable world",
+   "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+   "source": "BBC World",
+   "at": "2026-11-20T02:01:45.758491+00:00"
+  },
+  {
+   "fp": "attempt block bombings iran republicans senate stop",
+   "title": "Senate Republicans block attempt to stop Iran bombings",
+   "source": "Telegraph",
+   "at": "2026-11-20T02:01:47.463757+00:00"
   }
  ],
  "titles": [
-  "conservatives deadlocked election path power zealand",
-  "clear election general tight winner zealand",
-  "alcohol companies flying high midterms shook stocks street tariff wall",
-  "amish clash faith mandates vaccine versus york",
-  "fire gunman know krakow main opens polish square",
-  "dead fire gunman krak market opens random square",
   "asks cabinet calling democrats impeachment investigate officials trump",
   "collapse coordinator fires nebraska offensive season spiraling ugly",
   "airstrikes arabia blames capital health houthi kill ministry near saudi yemen",
@@ -3603,6 +3597,12 @@
   "agency attack elections lead pick protecting trump wasn",
   "20th breaking carry execution florida record year",
   "capital gang haiti kills members operation police suspected",
-  "continues existential exodus face liberals mark resigns speakman threat"
+  "continues existential exodus face liberals mark resigns speakman threat",
+  "administration alaska challenge dismissed lawsuit moves race senate trump",
+  "administration alaska asks court dismiss election federal lawsuit live senate trump",
+  "cycling grown huntress make mission",
+  "edition journal print street wall",
+  "anthropic becomes companies debut market public stock valuable world",
+  "attempt block bombings iran republicans senate stop"
  ]
 }
