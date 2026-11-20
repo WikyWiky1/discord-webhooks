@@ -1410,9 +1410,9 @@
    "message_id": "1573165736396988457",
    "event": "Winter Storm Warning",
    "area": "Spring Mountains-Red Rock Canyon",
-   "expired": false,
+   "expired": true,
    "posted_at": "2026-11-20T02:38:59+00:00",
-   "expired_at": null
+   "expired_at": "2026-11-20T18:47:34+00:00"
   }
  ]
 }
