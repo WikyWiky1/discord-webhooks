@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
   "CBMiYkFVX3lxTE5OLUF6djY4ak9fWm5OMXB3U0JyYjNhOU8yTGRYYVVHa2hHd0U5cDZfRnhkVWhpaWhCUGpIMnV6cEd3b04xUDkwYnhUSlR4UTJ5c2xxOElOaHRPMHZkZDNIaG93",
   "CBMitAFBVV95cUxQdkNIdDBFN3czS0Vrc29VYkItdTdmX29IM2NIbU1aRVFsUW80Y1JsTTlEUXRqODZ6N1dEakJ3SXhja3JneWNodFFpNHV3UkV1RVNHcVhTU3ZXVU5hQ25ySXc1ZFhxcTJjRG1kdlgzdE9ldHQwQ3VqTUZ6anhuUmJ4R2JNTGlYeG1wbV9Ca3MxV18zTkNHdHRFTmRSdGZmNlJ2WUZfVVFpX2JmRlI0dGNfaXNHSUU",
   "CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE",
@@ -799,15 +798,10 @@
   "https://www.bbc.co.uk/news/articles/c69vwyjp0339o#0",
   "https://nypost.com/?post_type=article&p=42007512",
   "https://nypost.com/?post_type=article&p=42006209",
-  "https://www.foxnews.com/world/senate-foreign-relations-chairman-warns-horrific-trend-christians-killed-ethiopia"
+  "https://www.foxnews.com/world/senate-foreign-relations-chairman-warns-horrific-trend-christians-killed-ethiopia",
+  "CBMi1AFBVV95cUxPSlFDZ0t2LWZfOElkUERrS0d5RVdaVERpejI2Q2lYdTNIY0RLSHVqQTM2UFJGVVlYNm9veHRzVHYxRmRyVjVCWlJhRnlXQTRpOF9MYVZ2d180X0tZM09sZnVUbzFJalZBbmVmRjJaUkJrbHpJUjI3Y0cwUl9zTlNuSnhsdHByUXNkOVRxV2RwaEkwYzVBeHJRMXdGY3VIdkJGdXZHOEVONmdWVmFOX2hQSkdFT2J1SjZaUXpsTnZ2UmlOUzdEOEhjOWFLX2U3UjBCb2ZjeA"
  ],
  "posts": [
-  {
-   "fp": "brakes explosion handsaws inside loot millions robberies socal tens train",
-   "title": "Inside the explosion of SoCal train robberies: cut brakes, handsaws and tens of millions in loot",
-   "source": "New York Post",
-   "at": "2026-11-08T04:07:32.601169+00:00"
-  },
   {
    "fp": "briton gunman killed krakow rampage right",
    "title": "Briton among six killed by 'far-right' gunman in Krakow rampage",
@@ -3201,10 +3195,15 @@
    "title": "Senate foreign relations chairman warns of 'horrific trend' as Christians killed in Ethiopia",
    "source": "Fox News World",
    "at": "2026-11-20T16:20:00.724206+00:00"
+  },
+  {
+   "fp": "about congo ebola learning outbreak rare scientists virus",
+   "title": "Scientists are learning more about the rare Ebola virus in Congo outbreak",
+   "source": "Reuters",
+   "at": "2026-11-20T19:00:23.501354+00:00"
   }
  ],
  "titles": [
-  "brakes explosion handsaws inside loot millions robberies socal tens train",
   "briton gunman killed krakow rampage right",
   "2026 election live measure results washington",
   "2026 arizona election live proposition results",
@@ -3603,6 +3602,7 @@
   "africa killed months nearly south three within women",
   "cops himself kids kills mexico turning wife young",
   "breaking down ever guard knicks rotation unpredictable",
-  "chairman christians ethiopia foreign horrific killed relations senate trend warns"
+  "chairman christians ethiopia foreign horrific killed relations senate trend warns",
+  "about congo ebola learning outbreak rare scientists virus"
  ]
 }
