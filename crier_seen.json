@@ -1,11 +1,5 @@
 {
  "ids": [
-  "CBMiYkFVX3lxTE5OLUF6djY4ak9fWm5OMXB3U0JyYjNhOU8yTGRYYVVHa2hHd0U5cDZfRnhkVWhpaWhCUGpIMnV6cEd3b04xUDkwYnhUSlR4UTJ5c2xxOElOaHRPMHZkZDNIaG93",
-  "CBMitAFBVV95cUxQdkNIdDBFN3czS0Vrc29VYkItdTdmX29IM2NIbU1aRVFsUW80Y1JsTTlEUXRqODZ6N1dEakJ3SXhja3JneWNodFFpNHV3UkV1RVNHcVhTU3ZXVU5hQ25ySXc1ZFhxcTJjRG1kdlgzdE9ldHQwQ3VqTUZ6anhuUmJ4R2JNTGlYeG1wbV9Ca3MxV18zTkNHdHRFTmRSdGZmNlJ2WUZfVVFpX2JmRlI0dGNfaXNHSUU",
-  "CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE",
-  "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo#0",
-  "CBMikAFBVV95cUxQYlNUUkhsMkJEb2UzSEItWS1sWTFsTG1IWHFTYmYtNTVtSC1LOWp6R1c3dlU2b1RTUVZlVUhZVFZ5Ym1mOW9OczhDY09LVlk5c2tiNC1Bbmp3Q2hRMjdTdGpYZTZvelBzOGNoaTEtYklBU3dZbGRZUGRUcTBZcWl0Ymk4Y3pkZTM3cXd1ckxCbnM",
-  "https://www.foxnews.com/world/spain-high-speed-train-crash-deaths",
   "https://nypost.com/?post_type=article&p=41551561",
   "https://nypost.com/?post_type=article&p=41551785",
   "https://nypost.com/?post_type=article&p=41552857",
@@ -799,45 +793,15 @@
   "https://nypost.com/?post_type=article&p=42007512",
   "https://nypost.com/?post_type=article&p=42006209",
   "https://www.foxnews.com/world/senate-foreign-relations-chairman-warns-horrific-trend-christians-killed-ethiopia",
-  "CBMi1AFBVV95cUxPSlFDZ0t2LWZfOElkUERrS0d5RVdaVERpejI2Q2lYdTNIY0RLSHVqQTM2UFJGVVlYNm9veHRzVHYxRmRyVjVCWlJhRnlXQTRpOF9MYVZ2d180X0tZM09sZnVUbzFJalZBbmVmRjJaUkJrbHpJUjI3Y0cwUl9zTlNuSnhsdHByUXNkOVRxV2RwaEkwYzVBeHJRMXdGY3VIdkJGdXZHOEVONmdWVmFOX2hQSkdFT2J1SjZaUXpsTnZ2UmlOUzdEOEhjOWFLX2U3UjBCb2ZjeA"
+  "CBMi1AFBVV95cUxPSlFDZ0t2LWZfOElkUERrS0d5RVdaVERpejI2Q2lYdTNIY0RLSHVqQTM2UFJGVVlYNm9veHRzVHYxRmRyVjVCWlJhRnlXQTRpOF9MYVZ2d180X0tZM09sZnVUbzFJalZBbmVmRjJaUkJrbHpJUjI3Y0cwUl9zTlNuSnhsdHByUXNkOVRxV2RwaEkwYzVBeHJRMXdGY3VIdkJGdXZHOEVONmdWVmFOX2hQSkdFT2J1SjZaUXpsTnZ2UmlOUzdEOEhjOWFLX2U3UjBCb2ZjeA",
+  "https://nypost.com/?post_type=article&p=42013392",
+  "https://www.washingtonexaminer.com/?p=4809915",
+  "CBMiYkFVX3lxTE44NG5GcVVHSFJUa0trQTE0UzNVaWFUZ2ZHaVlQTDhWSXVmZkNEcFlWR2hGeGc0ZUtCUmF0a1l3ZVZCUmktQ1d5elZJMV9OS0tjSW1HaVg1SlJCRmt3d2pWRkJB",
+  "CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ",
+  "CBMiswFBVV95cUxQVGl6dU85bExfQlhuODY0Rkh6a3M2UVhRTlV1QmRsclI5ZHpRbWo5M3JIbUdydkRzOFNrZkZ6RDBIMHJVNGhqeklnRl9UVVAzRFpFUUk0OTVDVnU3RVh2VjdWZ2ktMUhMNmZZMUZkVDE5RFAtTjJ4UEZjUDlKZWd4YlhSaFBoYXdnYVI1ajFaRkdnTkpyMExkU0U4YjBHMTNSblZkRWt6aUVtTGJ5UWU1RVdrNA",
+  "https://thehill.com/?p=6233321"
  ],
  "posts": [
-  {
-   "fp": "briton gunman killed krakow rampage right",
-   "title": "Briton among six killed by 'far-right' gunman in Krakow rampage",
-   "source": "Sky News",
-   "at": "2026-11-08T04:07:34.330355+00:00"
-  },
-  {
-   "fp": "2026 election live measure results washington",
-   "title": "2026 Washington Measure 638 Election Live Results",
-   "source": "AP",
-   "at": "2026-11-08T04:43:34.210275+00:00"
-  },
-  {
-   "fp": "2026 arizona election live proposition results",
-   "title": "2026 Arizona Proposition 318 Election Live Results",
-   "source": "AP",
-   "at": "2026-11-08T04:43:35.940723+00:00"
-  },
-  {
-   "fp": "2028 broke election just open wide",
-   "title": "The 2028 Election Map Just Broke Wide Open",
-   "source": "WSJ",
-   "at": "2026-11-08T04:43:37.700347+00:00"
-  },
-  {
-   "fp": "back bring elizabeth expect hates knives once power street wall warren",
-   "title": "Elizabeth Warren hates Wall Street \u2014 expect her to bring out the knives once she\u2019s back in power",
-   "source": "New York Post",
-   "at": "2026-11-08T04:43:39.407147+00:00"
-  },
-  {
-   "fp": "democrats elon fall midterms musk premarket shares spacex sweep tesla",
-   "title": "Shares in Elon Musk\u2019s SpaceX, Tesla Fall Premarket After Democrats Sweep Midterms",
-   "source": "WSJ",
-   "at": "2026-11-08T04:43:41.224441+00:00"
-  },
   {
    "fp": "2026 call close election faces results uncertainty weeks zealand",
    "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results \u2018too close to call\u2019",
@@ -3201,15 +3165,45 @@
    "title": "Scientists are learning more about the rare Ebola virus in Congo outbreak",
    "source": "Reuters",
    "at": "2026-11-20T19:00:23.501354+00:00"
+  },
+  {
+   "fp": "2026 anthropic correction dives enter gains loses nasdaq territory",
+   "title": "S&P 500 and Dow enter correction territory, Nasdaq loses 2026 gains as Anthropic dives",
+   "source": "New York Post",
+   "at": "2026-11-20T19:39:23.830240+00:00"
+  },
+  {
+   "fp": "affiliation claim congress five lawmakers religious",
+   "title": "Who are the five lawmakers who claim no religious affiliation in the new Congress?",
+   "source": "Washington Examiner",
+   "at": "2026-11-20T19:39:25.529413+00:00"
+  },
+  {
+   "fp": "anthropic fails hype lives mega revive street trade wall",
+   "title": "Anthropic\u2019s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade",
+   "source": "WSJ",
+   "at": "2026-11-20T19:39:27.495906+00:00"
+  },
+  {
+   "fp": "anthropic correction retreat stocks track weighs",
+   "title": "S&P 500, Dow on track for correction as Anthropic retreat weighs on AI stocks",
+   "source": "Reuters",
+   "at": "2026-11-20T19:39:29.266357+00:00"
+  },
+  {
+   "fp": "countries drill european hold mission poland postwar potential troops ukraine",
+   "title": "European troops from 11 countries hold a drill in Poland for a potential postwar Ukraine mission",
+   "source": "AP",
+   "at": "2026-11-20T19:39:31.895341+00:00"
+  },
+  {
+   "fp": "asia briefs live putin summit trip trump watch",
+   "title": "Watch live: Trump briefs on Asia trip after Xi, Putin summit",
+   "source": "The Hill",
+   "at": "2026-11-20T19:39:33.766858+00:00"
   }
  ],
  "titles": [
-  "briton gunman killed krakow rampage right",
-  "2026 election live measure results washington",
-  "2026 arizona election live proposition results",
-  "2028 broke election just open wide",
-  "back bring elizabeth expect hates knives once power street wall warren",
-  "democrats elon fall midterms musk premarket shares spacex sweep tesla",
   "2026 call close election faces results uncertainty weeks zealand",
   "american deliver midterm politics quake results youth",
   "alleged behavior dead found home neighbors parents poland rampage recall shooter sister square strange town",
@@ -3603,6 +3597,12 @@
   "cops himself kids kills mexico turning wife young",
   "breaking down ever guard knicks rotation unpredictable",
   "chairman christians ethiopia foreign horrific killed relations senate trend warns",
-  "about congo ebola learning outbreak rare scientists virus"
+  "about congo ebola learning outbreak rare scientists virus",
+  "2026 anthropic correction dives enter gains loses nasdaq territory",
+  "affiliation claim congress five lawmakers religious",
+  "anthropic fails hype lives mega revive street trade wall",
+  "anthropic correction retreat stocks track weighs",
+  "countries drill european hold mission poland postwar potential troops ukraine",
+  "asia briefs live putin summit trip trump watch"
  ]
 }
