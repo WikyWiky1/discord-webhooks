@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c678prm55gzzo#0",
   "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb",
   "CBMiiAFBVV95cUxQbmI5VHgtQjFuck9nQkJ5Q0hCekJJT1YxVVR4MlFwcUNodk9hYzJPYWlaQ2JhYjVRcC1JYUFpZlRNNE5iZWJFMFZUQ0tyQ3VnempEZFJNcnhmalhDQWlpWjN5MkllV0p6cWtzd1lHWGZXZVdjcDVlREplX1JReV9fUUdSWjRqQUNr",
   "https://www.washingtonexaminer.com/?p=4783608",
@@ -799,15 +798,10 @@
   "CBMifEFVX3lxTE1jMVRGNmM2LXVUalRrSEREd3VLUDl4alRBLTZDaEhhWjdCbXZJQlNxZnBhQWdvS2lrLVRESjg3LUZLRkpEQ0wtUFZVLWcwNllRX190Vm5PcHlEcndfODBubE9HZDVHVkMyYWFiMlo0YkpkVWpCdXhLaGhHZG8",
   "CBMipAFBVV95cUxPWm1waHdJRVp4M2dKRlhKSHRHQmpEOFZZdGJRRndnR3ZXb0pmc1d6cUNmZWcwX3VwTHBzY1VMVmh3RDJBNVYtV2tDV1pDX25kNFhMWlE4a3N0RVpIMV80alNzRl9VQ0NMNF81UzVXTUJWVk1ZSmkwSFZDOHFNNHBLZ2RlNWloalpTOWs5UXFVQWJqenE4RGFXLWZRN1JlS1l6MnJlWQ",
   "CBMiYkFVX3lxTE5JbVhpeHhGSEl5RUVUcjc3NHdLSnYxcDJ0dWxHV2U0MkU0SUFNckVhQjdxMEx3YXIwOE95VC12OEhuUjN3M0dTVXZTU3FYNFFVMzJpZU1WRnR1N3FmX2YzR0t3",
-  "CBMirAFBVV95cUxOUFV4OVZvT2pfd0pPR19mYTBDZ3h5ejhxX0tOVV9BdTlNWGFqX0RZV2pQREtIdVVPQXdlWk5Ka0o0MnhBM0hxcU0zTUpTY1dwNE9ZNUcyQnVidlVxWTJ4TnVPU2xiU1VVTEJsb0dhZHFuSmJlSF9DY1VJLVhqdWgxZkJrRXN4X1NsZXpUekFyUWJpMWQtSEhGb1h6ck5TcmY4UkJZZWF3VHhWM2VQ"
+  "CBMirAFBVV95cUxOUFV4OVZvT2pfd0pPR19mYTBDZ3h5ejhxX0tOVV9BdTlNWGFqX0RZV2pQREtIdVVPQXdlWk5Ka0o0MnhBM0hxcU0zTUpTY1dwNE9ZNUcyQnVidlVxWTJ4TnVPU2xiU1VVTEJsb0dhZHFuSmJlSF9DY1VJLVhqdWgxZkJrRXN4X1NsZXpUekFyUWJpMWQtSEhGb1h6ck5TcmY4UkJZZWF3VHhWM2VQ",
+  "CBMiwgFBVV95cUxNQ1V1Zkd3TEhMWFZOajEyMFVTdnY5SVFZMGVRcG56ZENWc0JhNnZ6WFlhaHp5aTViMkhCVWwtMFRZUnRYcmNsWmxpU0FMUm1SQ1lZeXNRRTdzRWtKU2E3NDlZckp0TjVYZXR1RGJ4cmhiYTZEX01VaDdiUXJTRWJ3UVhtQkNVdjJEVGNkZlN2TEtmWTdTQlZBSmhKZEo4cVZ4cTRFdDNZV3hSSzFaSnRzVjJ0ZllLUEVmZXZqSThSbEVjdw"
  ],
  "posts": [
-  {
-   "fp": "data death leak reveals russian toll ukraine",
-   "title": "Russian data leak reveals death toll in Ukraine",
-   "source": "Telegraph",
-   "at": "2026-11-08T17:07:20.348735+00:00"
-  },
   {
    "fp": "collision egypt giza health injures kills ministry province train",
    "title": "Train collision in Egypt\u2019s Giza province kills 4 and injures 88, health ministry says",
@@ -3201,10 +3195,15 @@
    "title": "How Joe Biden\u2019s former aide sparked a $100bn stock market sell-off",
    "source": "Telegraph",
    "at": "2026-11-21T10:40:51.533857+00:00"
+  },
+  {
+   "fp": "banda earthquake leste magnitude near strikes timor",
+   "title": "Magnitude 6.8 earthquake strikes Banda Sea near Timor-Leste, GFZ says",
+   "source": "Reuters",
+   "at": "2026-11-21T11:57:10.520537+00:00"
   }
  ],
  "titles": [
-  "data death leak reveals russian toll ukraine",
   "collision egypt giza health injures kills ministry province train",
   "cairo crash four kills least near train",
   "away congress swung trump voters",
@@ -3603,6 +3602,7 @@
   "resume slide stocks",
   "basks china hand pomp strengthens summit trump",
   "anthropic caps street trillion turmoil wall wipeout",
-  "100bn aide biden former market sell sparked stock"
+  "100bn aide biden former market sell sparked stock",
+  "banda earthquake leste magnitude near strikes timor"
  ]
 }
