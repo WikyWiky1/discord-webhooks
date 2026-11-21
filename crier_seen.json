@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
-  "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-  "https://www.theguardian.com/business/2026/oct/29/thames-water-creditors-vote-emergency-loan-cash-runs-low",
-  "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage",
   "https://nypost.com/?post_type=article&p=41569514",
   "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo#3",
   "https://nypost.com/?post_type=article&p=41566881",
@@ -799,33 +795,13 @@
   "CBMixAFBVV95cUxNcGJaYVIzb00tWkFac2pEaFdTRnVFYWFTRHVZeWtRU1ZuMUZCSXVnOTAyUU9WSHVmWHEtaTdSQlF0eUpoTHBVeXhUYTVseTY0SXZmX2pTVWNDR19fVlhBYlVxZzdHSURLekxjd3daXzZ2V0R5V0xiUXNCQ0ZoRWZHVDNpS0ZHSF9VTEVPVFAzWjI4Q2lzLW5TSElRa3FGTDlGR2xCU3VOTzB4MGtiaFRQOE9kbkxFbEJVYWw5c0dvRjlseG94",
   "https://thehill.com/?p=6231959",
   "https://www.washingtonexaminer.com/?p=4811197",
-  "https://thehill.com/?p=6235181"
+  "https://thehill.com/?p=6235181",
+  "https://nypost.com/?post_type=article&p=42036459",
+  "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+  "https://nypost.com/?post_type=article&p=42036000",
+  "CBMiqwFBVV95cUxOa2RiNXlYT1VFSmc3cEJmU0N4QW9Ydk9rX1RBZ3hvakVOYWtIa1ZDdGlhVm8wSUp5MUk2bWg0TFNyc2lvN3VXazhaamp3WTZBOVpqXzBPcnV5OVVGREVtU1FNVDBXb2d2ck5mVmhybmptaUtCMGRJNEt0UGhxU25fM0JWZE5NSUF2NmRxZVlZOGJSaUpncmt6dnFkNEpDdG9ZejlidXU5RnJUdm8"
  ],
  "posts": [
-  {
-   "fp": "bank collapse digital paraguay president toppled",
-   "title": "How a digital bank\u2019s collapse toppled Paraguay\u2019s president",
-   "source": "Reuters",
-   "at": "2026-11-08T21:12:40.266817+00:00"
-  },
-  {
-   "fp": "attack drone field iraq khor production sources suspended",
-   "title": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say",
-   "source": "Reuters",
-   "at": "2026-11-08T21:12:42.071085+00:00"
-  },
-  {
-   "fp": "another gloats hakeem hard impeachment jeffries",
-   "title": "Hakeem Jeffries gloats that he\u2019s a \u2018hard yes\u2019 on another impeachment",
-   "source": "New York Post",
-   "at": "2026-11-08T21:12:43.801114+00:00"
-  },
-  {
-   "fp": "between collision egypt injures kills seven trains",
-   "title": "Collision between two trains in Egypt kills seven and injures more than 100",
-   "source": "Washington Examiner",
-   "at": "2026-11-08T21:12:45.509352+00:00"
-  },
   {
    "fp": "appeared assailant club fellow highly krakow member shooting skilled",
    "title": "Krakow assailant appeared highly skilled, fellow shooting club member says",
@@ -3201,13 +3177,33 @@
    "title": "Trump limits Congress's accesses to confidential agency, contractor information",
    "source": "The Hill",
    "at": "2026-11-21T18:45:04.499280+00:00"
+  },
+  {
+   "fp": "admits allah grinning jogger killed nypd post told",
+   "title": "Grinning ex-NYPD cop admits to The Post that he killed NYC jogger \u2014 and says \u2018Allah told me to\u2019",
+   "source": "New York Post",
+   "at": "2026-11-21T23:39:41.677088+00:00"
+  },
+  {
+   "fp": "authorities dead flinders found island linked officer police shooting tasmanian",
+   "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
+   "source": "Guardian World",
+   "at": "2026-11-21T23:39:43.469912+00:00"
+  },
+  {
+   "fp": "chapo dead dramatic drug isidro kingpin leaves mexican perp raid shows video walked",
+   "title": "Dramatic video shows Mexican drug kingpin \u2018Chapo Isidro\u2019 perp-walked after raid leaves 11 dead",
+   "source": "New York Post",
+   "at": "2026-11-21T23:39:45.306206+00:00"
+  },
+  {
+   "fp": "bloody captured cartel dead firefight leader left mexico northern",
+   "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+   "source": "AP",
+   "at": "2026-11-21T23:39:47.032199+00:00"
   }
  ],
  "titles": [
-  "bank collapse digital paraguay president toppled",
-  "attack drone field iraq khor production sources suspended",
-  "another gloats hakeem hard impeachment jeffries",
-  "between collision egypt injures kills seven trains",
   "appeared assailant club fellow highly krakow member shooting skilled",
   "iaea nuclear plant power restored zaporizhzhia",
   "attack england fast fingerprints flowing smith",
@@ -3603,6 +3599,10 @@
   "check congress contractors federal house orders responding trump white",
   "clear leadership means nomination overton vacuum withdrawal",
   "congress court covid federal overturns pregnant remote voting workers",
-  "accesses agency confidential congress contractor information limits trump"
+  "accesses agency confidential congress contractor information limits trump",
+  "admits allah grinning jogger killed nypd post told",
+  "authorities dead flinders found island linked officer police shooting tasmanian",
+  "chapo dead dramatic drug isidro kingpin leaves mexican perp raid shows video walked",
+  "bloody captured cartel dead firefight leader left mexico northern"
  ]
 }
