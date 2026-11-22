@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41571341",
   "https://www.bbc.co.uk/news/articles/cmqxnl312v34o#0",
   "CBMimgFBVV95cUxPMG5CSk5rbFRVazFYVEpXdWU2cTE2R2h4OFZaZUI5VU81Y3JFQzVPenJybnhDeUlNWGNuSl9MdVlSbmU4bXRYaVB1aTZyLWliQTBCaE5ka0F2elN1XzllVVZRSGFXUnJOdXlqTkRFVUhGSWNfTGJ5N0VpdUpQQlBqQXZUU3BJY0dMYTd3Yk9YN1UxZ1lmV1hoejNn",
   "CBMinwFBVV95cUxPd3FmVnJnVlFQYVZ3U0k0TFpoWDdmQWVHZ0lZU21uOVZLZUVhZ2d3djg0YzJNc2RURmxMTkVULURKZTBKcy1wMlJ5ZldxTjRQSkJ3ak55MU0yU1ItalNRYmZDbHZzWkh6UmN3OHlucWFhQWhrSkYtcjZnSnNINWhybXdLLTh3elNvY3dvenVUQnp3TmpQUExzUkpzYzkzcU0",
@@ -799,15 +798,10 @@
   "CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3",
   "https://nypost.com/?post_type=article&p=42039605",
   "https://www.bbc.co.uk/news/articles/cj752ddve27ko#0",
-  "https://thehill.com/?p=6234623"
+  "https://thehill.com/?p=6234623",
+  "https://nypost.com/?post_type=article&p=42043374"
  ],
  "posts": [
-  {
-   "fp": "alert arabia attack danger houthi passed riyadh saudi",
-   "title": "Saudi Arabia says danger passed in Riyadh after alert, day after Houthi attack",
-   "source": "Reuters World",
-   "at": "2026-11-09T07:35:30.682955+00:00"
-  },
   {
    "fp": "about city killed know krakow people polish shooting",
    "title": "What to know about the shooting in the Polish city of Krakow that killed 6 people",
@@ -3201,10 +3195,15 @@
    "title": "House Democrats split over risking lame-duck shutdown to defund Iran war",
    "source": "The Hill",
    "at": "2026-11-22T11:55:56.835077+00:00"
+  },
+  {
+   "fp": "dismissing mission mystery object officials scientist scrubbed solar system warns",
+   "title": "Scientist warns officials against dismissing mystery object in solar system after mission is scrubbed",
+   "source": "New York Post",
+   "at": "2026-11-22T18:21:49.523670+00:00"
   }
  ],
  "titles": [
-  "alert arabia attack danger houthi passed riyadh saudi",
   "about city killed know krakow people polish shooting",
   "died hospital krakow police shooting suspect",
   "dies gunman hospital krakow",
@@ -3603,6 +3602,7 @@
   "attack cargo finland fire russian ship still",
   "america attack christmas george gift greatest icons post surprise washington",
   "attack bound finland fire gulf russia ship still",
-  "defund democrats duck house iran lame risking shutdown split"
+  "defund democrats duck house iran lame risking shutdown split",
+  "dismissing mission mystery object officials scientist scrubbed solar system warns"
  ]
 }
