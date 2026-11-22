@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6181622",
-  "https://nypost.com/?post_type=article&p=41574710",
-  "https://nypost.com/?post_type=article&p=41578735",
-  "https://nypost.com/?post_type=article&p=41578064",
   "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
   "https://nypost.com/?post_type=article&p=41577822",
   "CBMiqwFBVV95cUxQZDBoQmhOeXpHRkV2bGdQRVY0dWpCdG9wSk1rM2hvSmhLYmpXOFNYYU9ONTFaVmwybDBNTmQ1bTItWXByOW80YzVObnJUamFzc1VBbTB4cHJ3Z19QWHQ2a1lfSGt2X0NVWEJaVWY0XzNyNFMxU3YzOTFpUmMxNkhfTWhoSkhWRTR6TkZMbTJ2dlZJbHEyeHFsYmNseFZNX1NkVF9nQUw1S0NoU2c",
@@ -799,33 +795,13 @@
   "CBMiiwFBVV95cUxPZHFKMHJIajluckJkM3hjLUFzSmtPb2hqNGpYU3dTYW9TM2ZVN3B5NDFyNERXcFMzYTI3UjgxWVZiX21jMlJDNllmNVdpWmtwekw3cmRqYjNjZDFHaHJMR2RJU2hjUzN4WENmaDVzd0ktTGhwcVZZM2M3Q050RnlxQjhkWmJ1bTFiZklj",
   "CBMiyAFBVV95cUxPWktPQlhDQmZja2RjS09vdFlCdkFtTjVHVE1xRHVMeDBVNkFiVWlrMVdlQXl2SjRsekFabUxiV05Ud0RlR1M3aVhDcVlNNURCYnVFZXBaT1RDTmNQb3ViblpuQVNGdUVwQmlad1dWc2pYaWtpeXZCQVBnalZaT1M5RTcwUzdXZndua3JNdGpHOERNczk0NExoLXRIMUttMlRXRVdTSjNmWFR6dUJVSVVlOEhVNXpHakZfVzNiY1QybVFmeXFCamYtMg",
   "CBMiowFBVV95cUxPSV94RVFwcGlsN1pRazZNUHpIT052NWV5Y0ROcXoxcU9IRWFMLVJWeXJTZXNZV1ZLUkp2SHRqWl8tU3FtUDRQYXlQZlQ1QmNuOW9KVjNQaVBIeDhjUWtzN3hjTXBtNlphLUFLNkhkaFJ0N1BhRk9yc0JtaEFWWmZtVlJUTXozM1NBSGVET2V3czhuSTlWbGRjdEJmc2J0UE5TT09J",
-  "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo#0"
+  "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo#0",
+  "CBMitgFBVV95cUxNTERSMk14WEFYekl4TFNXSVNPMW0xMUFveUdlRG9aNlE3TWtJNWxoUE5HWG95ZUZGdEE2WTBodGwxUVRiTF9XUnBidDlJcDMzdUhMOTVKV2lrRS0wVGZzUW9RcHNVdURKVmVZYVA4REZ6TzZjTGRBN0xNMjZqZHRDNFhOdmp5V2Z5X3N5dzJpVzFwZ2NDbDZCQXdqZ1FVRllsbUdRSHRudkFBMEhRWFdBdjFRUDA4UQ",
+  "CBMinwFBVV95cUxPMG5BRkNWNzJ4alhTazFUeExrT1RMSjczaE1NOF8yNEVja1ROZ2xBakszdXdjTHZDMzlDY29Qc1ZKYTVHZDFQbFVhazVqYjNLVFVPMVdNM0praFAxem9IUW9JZnRuRU9MdkxBbEJBQklfc250SV9tQWtrV29VeHJrZTZfYlNzODNQU2FsMTg2R092dExYV2ktc1R1RXdQT0k",
+  "https://www.foxnews.com/world/flavio-bolsonaro-claims-judge-ordered-passports-seized-just-7-minutes-after-brazil-election-loss",
+  "https://thehill.com/?p=6235788"
  ],
  "posts": [
-  {
-   "fp": "congress democratic faces former hires palantir scrutiny senator",
-   "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-   "source": "NPR News",
-   "at": "2026-11-09T10:57:12.415144+00:00"
-  },
-  {
-   "fp": "grips panic stocks",
-   "title": "AI Panic Grips Stocks",
-   "source": "WSJ",
-   "at": "2026-11-09T10:57:14.074080+00:00"
-  },
-  {
-   "fp": "china extends hanwha korea linked months ocean sanctions suspension units",
-   "title": "China extends sanctions suspension on US-linked units of S.Korea's Hanwha Ocean by 2 months",
-   "source": "Reuters World",
-   "at": "2026-11-09T10:57:15.713359+00:00"
-  },
-  {
-   "fp": "airstrike capital houthi killed least mideast near news other rebels yemeni",
-   "title": "Houthi rebels say at least 44 killed in airstrike near Yemeni capital, and other Mideast news",
-   "source": "AP",
-   "at": "2026-11-09T17:46:57.089590+00:00"
-  },
   {
    "fp": "christmas future ghost impeachment nightmare trump",
    "title": "Trump's Christmas nightmare: The ghost of impeachment future",
@@ -3201,13 +3177,33 @@
    "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
    "source": "BBC World",
    "at": "2026-11-22T18:57:19.417187+00:00"
+  },
+  {
+   "fp": "democrats leader need schumer senate",
+   "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader",
+   "source": "Reuters",
+   "at": "2026-11-22T19:06:13.793547+00:00"
+  },
+  {
+   "fp": "ahead difficulties leads schumer sees senate trump",
+   "title": "Trump sees difficulties ahead if Schumer leads Senate",
+   "source": "Reuters",
+   "at": "2026-11-22T19:06:15.634929+00:00"
+  },
+  {
+   "fp": "bolsonaro brazil claims election flavio judge just loss minutes ordered passports seized",
+   "title": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
+   "source": "Fox News World",
+   "at": "2026-11-22T19:06:17.391126+00:00"
+  },
+  {
+   "fp": "hard leader majority schumer senate trump very work",
+   "title": "Trump says it will be \u2018very hard\u2019 to work with Schumer as Senate majority leader",
+   "source": "The Hill",
+   "at": "2026-11-22T19:06:19.170284+00:00"
   }
  ],
  "titles": [
-  "congress democratic faces former hires palantir scrutiny senator",
-  "grips panic stocks",
-  "china extends hanwha korea linked months ocean sanctions suspension units",
-  "airstrike capital houthi killed least mideast near news other rebels yemeni",
   "christmas future ghost impeachment nightmare trump",
   "blast kills plant steel turkey western",
   "blanche civil department division head justice resigns",
@@ -3603,6 +3599,10 @@
   "climate collapse fossil fuel rift talks",
   "army bypassing court detonation emergency iowa lead order powers proceed under",
   "arsenal building ghosts nuclear trump",
-  "attack caused drone explosion libya officials port russian ship suspected"
+  "attack caused drone explosion libya officials port russian ship suspected",
+  "democrats leader need schumer senate",
+  "ahead difficulties leads schumer sees senate trump",
+  "bolsonaro brazil claims election flavio judge just loss minutes ordered passports seized",
+  "hard leader majority schumer senate trump very work"
  ]
 }
