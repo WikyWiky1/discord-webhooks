@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank",
-  "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
   "CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj",
   "CBMitgFBVV95cUxPYm9UODU2NnZwekhXd0lSNnVsalJxQmNPbllDOEJBdllTdUwyTFFwY2NIb0F5YXBfWWgzVmxLUUNIV2JnTXgyY2tZNEZGUy1pVTRxT2ozdGFJMXFSck40ZFhKNC1LRXBMQ0ZXd2NHbWg0bk1FT1IwM3oyNHVMbTZJTnB0SjBaeTFwLW1ncFVzUElyWFpVeG5BQ0E4b3g5Sk5wY1BiME5FUGVHN0ZPNWpZQ3lRWGVwUQ",
   "https://nypost.com/?post_type=article&p=41571206",
@@ -799,21 +797,11 @@
   "CBMiswFBVV95cUxNN3FQanMtV3N5N3NtMFp4WmVBTHpwMlo4empMNlhGaGprWFJFZ1VDSFFxcUhUVnQzcUJNVFB5dDNEeUgwY19WaXRGcnhYNEpfaE53T0dzbGJKSGhSSmhfdkY2eW04aW13NEZtYnpOVnpLZ3dIV0RlY3VCQU0yZnlVWkp4aWk0YlA3NTdDUjRFZzRWMmhSdUtBbDBhT1ZfdmhZMDRlNlZ2V3hrdkxrSnFNTXBOTQ",
   "https://www.washingtonexaminer.com/?p=4811339",
   "CBMiRkFVX3lxTE50a25Nc3cyeDNMMGlPNEVMU19HcXFkeHI1MkpNb0F4ZmRKVVVuaV9vMm9JU1d0TTBOa3JmWDJSMnMzQ1F4RHc",
-  "https://nypost.com/?post_type=article&p=42039639"
+  "https://nypost.com/?post_type=article&p=42039639",
+  "CBMirAFBVV95cUxOT3B6VkpjZGJoaUJSX2xTUlNWekU1cVJBNzRHdWZZTl9Oa3NRazQ3WnprNTJ5TmduWDdMMjFRTnBhS1c3M1hKSUJuRWJTNnFKVjA4c054S0hHUnZINzkxU2FzV3RjLVhQY3NjaXA0dUhIQ2phSWRycmdULTJaTElNZXc0UU1pRmdOUk83YWIzN3hCdGlHbDc4a3VncElSWXVFNW8ySEU2elluRkxm",
+  "https://nypost.com/?post_type=article&p=42041262"
  ],
  "posts": [
-  {
-   "fp": "aides bitter election fallout feud former legal online threats trade trump",
-   "title": "Former Trump Aides Feud Online, Trade Legal Threats in Bitter Election Fallout",
-   "source": "WSJ",
-   "at": "2026-11-09T00:34:30.000126+00:00"
-  },
-  {
-   "fp": "2028 democrats expand majority path senate",
-   "title": "Democrats see new path to expand Senate majority in 2028",
-   "source": "The Hill",
-   "at": "2026-11-09T00:34:31.674784+00:00"
-  },
   {
    "fp": "been better house investment market stock",
    "title": "Your House vs. the Stock Market: Which Has Been a Better Investment?",
@@ -3201,11 +3189,21 @@
    "title": "3 killed, including teen girl, in mass shooting at Ohio baby shower \u2014 then brawl erupts while cops rush in to help",
    "source": "New York Post",
    "at": "2026-11-22T03:28:28.789153+00:00"
+  },
+  {
+   "fp": "been billion deployed dollar nvidia pledged street wall",
+   "title": "Wall Street Pledged $500 Billion for Nvidia. Not a Dollar Has Been Deployed.",
+   "source": "WSJ",
+   "at": "2026-11-22T10:45:55.973245+00:00"
+  },
+  {
+   "fp": "gets loop mercury mission orbit pair spacecraft visitor years",
+   "title": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit in $2B mission",
+   "source": "New York Post",
+   "at": "2026-11-22T10:45:57.673356+00:00"
   }
  ],
  "titles": [
-  "aides bitter election fallout feud former legal online threats trade trump",
-  "2028 democrats expand majority path senate",
   "been better house investment market stock",
   "500m america collapse expensive homes neighborhood verge",
   "colleague having krakow life lunch near officer saved shooting surgeon undoubtedly",
@@ -3603,6 +3601,8 @@
   "climate close cop31 deal final president summit talks",
   "card credit interest rate trump",
   "congress latest news updates",
-  "baby brawl cops erupts girl help including killed mass ohio rush shooting shower teen then"
+  "baby brawl cops erupts girl help including killed mass ohio rush shooting shower teen then",
+  "been billion deployed dollar nvidia pledged street wall",
+  "gets loop mercury mission orbit pair spacecraft visitor years"
  ]
 }
