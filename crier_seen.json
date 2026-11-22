@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4782896",
   "https://www.theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank",
   "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
   "CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj",
@@ -799,15 +798,10 @@
   "https://www.bbc.co.uk/news/articles/ck4g174n020eo#3",
   "CBMiswFBVV95cUxNN3FQanMtV3N5N3NtMFp4WmVBTHpwMlo4empMNlhGaGprWFJFZ1VDSFFxcUhUVnQzcUJNVFB5dDNEeUgwY19WaXRGcnhYNEpfaE53T0dzbGJKSGhSSmhfdkY2eW04aW13NEZtYnpOVnpLZ3dIV0RlY3VCQU0yZnlVWkp4aWk0YlA3NTdDUjRFZzRWMmhSdUtBbDBhT1ZfdmhZMDRlNlZ2V3hrdkxrSnFNTXBOTQ",
   "https://www.washingtonexaminer.com/?p=4811339",
-  "CBMiRkFVX3lxTE50a25Nc3cyeDNMMGlPNEVMU19HcXFkeHI1MkpNb0F4ZmRKVVVuaV9vMm9JU1d0TTBOa3JmWDJSMnMzQ1F4RHc"
+  "CBMiRkFVX3lxTE50a25Nc3cyeDNMMGlPNEVMU19HcXFkeHI1MkpNb0F4ZmRKVVVuaV9vMm9JU1d0TTBOa3JmWDJSMnMzQ1F4RHc",
+  "https://nypost.com/?post_type=article&p=42039639"
  ],
  "posts": [
-  {
-   "fp": "about brazil budget discipline high interest lula pledges rates worried",
-   "title": "Brazil's Lula, worried about high interest rates, pledges budget discipline",
-   "source": "Reuters World",
-   "at": "2026-11-09T00:34:28.247424+00:00"
-  },
   {
    "fp": "aides bitter election fallout feud former legal online threats trade trump",
    "title": "Former Trump Aides Feud Online, Trade Legal Threats in Bitter Election Fallout",
@@ -3201,10 +3195,15 @@
    "title": "U.S. Congress | Latest News & Updates",
    "source": "AP",
    "at": "2026-11-22T00:58:24.923913+00:00"
+  },
+  {
+   "fp": "baby brawl cops erupts girl help including killed mass ohio rush shooting shower teen then",
+   "title": "3 killed, including teen girl, in mass shooting at Ohio baby shower \u2014 then brawl erupts while cops rush in to help",
+   "source": "New York Post",
+   "at": "2026-11-22T03:28:28.789153+00:00"
   }
  ],
  "titles": [
-  "about brazil budget discipline high interest lula pledges rates worried",
   "aides bitter election fallout feud former legal online threats trade trump",
   "2028 democrats expand majority path senate",
   "been better house investment market stock",
@@ -3603,6 +3602,7 @@
   "aren election nigerian past power shaping shown youth",
   "climate close cop31 deal final president summit talks",
   "card credit interest rate trump",
-  "congress latest news updates"
+  "congress latest news updates",
+  "baby brawl cops erupts girl help including killed mass ohio rush shooting shower teen then"
  ]
 }
