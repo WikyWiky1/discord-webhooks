@@ -1,10 +1,4 @@
 {
-  "events": {
-    "600061665": {
-      "discord_id": "1571237398136881454",
-      "start": "2026-11-21T15:00:00+00:00",
-      "name": "UFC Fight Night: Proch\u00e1zka vs. Stirling"
-    }
-  },
-  "last_run": "2026-11-24T01:27:50+00:00"
+  "events": {},
+  "last_run": "2026-11-24T23:21:53+00:00"
 }
