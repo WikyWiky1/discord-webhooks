@@ -1,7 +1,5 @@
 {
  "ids": [
-  "CBMiwgFBVV95cUxOTGQyeVJtc2RlU0ZkbHNFcTBmdEZCQ1FaYlk0SldtejFXZU9VZDdSb2k0RnZBanoyYkJkM3BZUVViMnZDcnpFdFEyRDYwXzd3cWJadVA4SWYwRTRSeG1BM25OSnBaS0pZSUlhMlpWTGVjSDRhVWNvaXVSeVlSME5HQ0hnQ01hUHh2M3R5amJpQWlTeTM5Y2R2ajJFaDVOOXR3RWx3Mkl6S0xGRE03c2pLQ29vZ2lPcDhyaXFXQndkQzhGdw",
-  "https://www.washingtonexaminer.com/?p=4786970",
   "https://thehill.com/?p=6185891",
   "CBMioAFBVV95cUxOWU1SRDdzUXFZNm5UeU5nZzVvMkFYMXNwNUF6eXdsbWNtN3lveTdwNVlCS3BVWjFRQ0NjTjc4Rm1qdC0yUmVQMFVXb21nREdOM3F5NVFxdWtqODNvVFh6Q3hLU2N1MWZhUFJ4c1dlTXRrRGlTQ01iUTBEdlVNR0VYdTJWc0JRck93bThTSUNvellaY3JUaVNJRFdOY2RiUWVW",
   "https://www.bbc.co.uk/news/articles/c60me298k1yeo#1",
@@ -799,21 +797,11 @@
   "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
   "CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw",
   "CBMipAFBVV95cUxOTzR3QWpwUC0zOE5SUnhYWFRFV21KRzFSWmk4WlF1OWlkV1pUeEJ0UjZ1aGVtcVl4VFBhc1N3eXh4akZoRkVfalZtclFNQ2FOcWJqZDNGMU9ublNKalNnYnhNQVJYdXFNWmZwb2hkb1IyVFFlLWk2TzEtVG56VUthbHF4VDRRbzY5WkZuWHN1UXBfY2Utd2tKZGY5NW5UWUYwOWdLcg",
-  "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election"
+  "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
+  "CBMiqwFBVV95cUxNenVjUUFKNWN2MmhnTlZNMVFwMWJFWDZqYUltX1UyRDhDNGsxSjVadWVYbWhyZEVaYmRhWW41Z2trakUwTG5YMmtGb25kQlRsTjZ1Unl3N2FlSVFMS21XS1BDMGpXb0tjenAyblkxUzcwRzdYYmJESTcxT1VpLVVERzFFQXZodXJjcGoyYzFUUm45Rm8yb3IxSGUza2F3VEhsRW1hNzNtOHU2Y0U",
+  "https://nypost.com/?post_type=article&p=42109173"
  ],
  "posts": [
-  {
-   "fp": "cruz fired hegseth impeached resign",
-   "title": "Cruz says Hegseth will resign, be fired or get impeached",
-   "source": "The Hill",
-   "at": "2026-11-11T01:39:50.929946+00:00"
-  },
-  {
-   "fp": "gandhi indian journey kill politics sonia turbulent",
-   "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-   "source": "BBC World",
-   "at": "2026-11-11T01:39:52.700332+00:00"
-  },
   {
    "fp": "fear floods impact kenyans kill predicted",
    "title": "'It can kill us': Kenyans fear impact of El Ni\u00f1o with floods predicted",
@@ -3201,11 +3189,21 @@
    "title": "What will Victoria\u2019s election result mean for nine datacentre projects awaiting approval?",
    "source": "Guardian World",
    "at": "2026-11-25T03:57:38.808855+00:00"
+  },
+  {
+   "fp": "know nuclear russia space weapon world",
+   "title": "How Russia\u2019s nuclear space weapon could end the world as we know it",
+   "source": "Telegraph",
+   "at": "2026-11-25T06:24:54.735154+00:00"
+  },
+  {
+   "fp": "dead firestone ford lions longtime martha owner",
+   "title": "Longtime Lions owner Martha Firestone Ford dead at 101",
+   "source": "New York Post",
+   "at": "2026-11-25T06:24:56.441878+00:00"
   }
  ],
  "titles": [
-  "cruz fired hegseth impeached resign",
-  "gandhi indian journey kill politics sonia turbulent",
   "fear floods impact kenyans kill predicted",
   "effectively effort hegseth house impeachment pete votes",
   "absentee alaska ballots campaign decision files judge lawsuit mary peltola predicts quick race senate",
@@ -3603,6 +3601,8 @@
   "ahead committee happened huang jensen open pardoning planned reportedly senate testimony trump",
   "loom rebound retreat stocks stumbles tariff threats",
   "africa back court given morocco rules senegal sports title",
-  "approval awaiting datacentre election mean nine projects result victoria"
+  "approval awaiting datacentre election mean nine projects result victoria",
+  "know nuclear russia space weapon world",
+  "dead firestone ford lions longtime martha owner"
  ]
 }
