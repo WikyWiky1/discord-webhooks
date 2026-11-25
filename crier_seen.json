@@ -1,14 +1,5 @@
 {
  "ids": [
-  "https://thehill.com/?p=6183400",
-  "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices",
-  "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
-  "https://pagesix.com/?post_type=article&p=9280157",
-  "https://pagesix.com/?post_type=article&p=9280105",
-  "https://nypost.com/?post_type=article&p=41610278",
-  "CBMivgFBVV95cUxQTzJYVGdPd3F0eXpuMDlIeWJPeVBfM3I4NldicEVDcUZUNXUzd0xsMndJWlladkZEb2ltTXpuMDdQdUF4X2hKVWRTWTBtd3lpRGFWeG93OFVpbWRZU1B1U1kteTZ3cXJQZDNINkJtYU9EbG8waFJZRzZaWkhXQ1c0ZzBGYXJKa0NlTG9FNV93cXhMbHJlYW1BN0traGRjMVZWUHQxak1ORFpVcWJKR2IzQlJjS1ZlMXNhZFdjSFlR",
-  "https://thehill.com/?p=6185470",
-  "CBMivgFBVV95cUxQUmVTUWlGdkFmblZKTmJTRUZCLS01dWJocVZmVmd1UUtkR3ZLZlMyaG8wMVphRV83QU5RV3haOWlDeG50eG10cU80UkhaeWtnOXgyeHhXV3MzNktnNmgyY1BoMndvVzNTWGtLVnJYQVV3cER4eG93QXdEVWtsU1dnME1SdjJnMlEtSXBqcUlXR3A0MTV4RDE5cGQySHhJYUdUYWZUR3p0Z1J4SWoyeGJ4dlFScmJid2tVTG9lRkZ3",
   "CBMipAFBVV95cUxQWDRaNDJmRmxia1RPY2l4Z1ZIRTFHVU1pNHUydFRRUUhZVlZpUGVnZUVqUm82NFVfZXpsNVdWam5UNTVMc1RNWXZPbjJsTzlucDNWcmJxbjJLSWNwclRrWmFuVVBzb2lYcUFkbDRRc1JjbV94SFh3aG5majlaODVxTFNTUXhNUWZQWmR6bU4wS3hNQjNSUk9mN2hFQURQR1hMUmU5Rw",
   "CBMioAFBVV95cUxNTW81OGFLZkI5eDREbEo2OXNzbl9mengtUk8yMVJ1eWNRSjBQTjl5LUJ2Q3U2ZnFfSHVLRk1iQ012TGZnbnZoTGZtMEd6ZDRZaVZUVEZxdEUwVUE0RmtENVBMcUR6OU85LVVIczdJTjkxSGNfdEs1U1ZubVFfVE1jWHNpdURPYU0tZHVzelZWdDE4aUNSbnZNa0VSLWIxMXNN",
   "https://thehill.com/?p=6186054",
@@ -799,63 +790,18 @@
   "https://thehill.com/?p=6240523",
   "CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB",
   "https://thehill.com/?p=6238570",
-  "https://www.foxnews.com/world/christian-filmmakers-discovery-jewish-roots-sparks-mission-uncover-centuries-old-secret"
+  "https://www.foxnews.com/world/christian-filmmakers-discovery-jewish-roots-sparks-mission-uncover-centuries-old-secret",
+  "https://nypost.com/?post_type=article&p=42093284",
+  "https://nypost.com/?post_type=article&p=42116612",
+  "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+  "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
+  "CBMitAFBVV95cUxQYlhQMFFISGFSRC1TVkJtS2FtWXl1anZubHJfTnY1VzdiaG5fV2J3MGlWZk84RWUtQUQtRG1DR3Z2b2swWjdacE8zRG1xcHFHN0p3Q25GX3dMTHByRTBnSGl6dHBkcDQxZHF3VF8tMmVLVG5jRm50aGtndHBhWEFaUkFaaVJoZkp1aW8zMDFpVlZlODhqeXhwVG1TV0VNd2Frb2ZsUmg1R0wyb2VxclNscVVRMzc",
+  "https://thehill.com/?p=6240832",
+  "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo#1",
+  "CBMilAFBVV95cUxPa3Jzb2VHSk9lV2k4UlRIWXRJdHBSUzE5a2JjYjc0dWVIRlpmY0dmVjNCSGk5MktVREE1UnNXaHZEb2c2bUFBeV9Oa0tuR2JwYU1rYzdJYXNSVEt3dEJ3cHhnNzZxaFE2YjRJM1FISE0zQlNzWHhQMHRmaW10cGNxamJabUExME9sSFpqMHJpc19kTm9X",
+  "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o#1"
  ],
  "posts": [
-  {
-   "fp": "advances bill closer finish permitting reform senate",
-   "title": "Permitting reform bill advances closer to Senate finish",
-   "source": "The Hill",
-   "at": "2026-11-11T04:55:31.168861+00:00"
-  },
-  {
-   "fp": "garment india makers reliance rethink shock tariff",
-   "title": "India garment makers rethink reliance on US after tariff shock",
-   "source": "Reuters",
-   "at": "2026-11-11T04:55:33.006368+00:00"
-  },
-  {
-   "fp": "dispute fight going killed mexico neighbors noise shoot teen warned",
-   "title": "New Mexico mom warned neighbors her son, 10, is \u2018going to shoot you\u2019 before he killed teen over noise dispute fight",
-   "source": "New York Post",
-   "at": "2026-11-11T08:22:15.635792+00:00"
-  },
-  {
-   "fp": "colom extends hyde lead mississippi race senate slim smith",
-   "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race",
-   "source": "The Hill",
-   "at": "2026-11-11T13:39:17.172592+00:00"
-  },
-  {
-   "fp": "agenda anti free lose measles pushes soon status vaccine",
-   "title": "US could lose measles-free status soon as RFK Jr\u2019s pushes anti-vaccine agenda",
-   "source": "Guardian World",
-   "at": "2026-11-11T13:39:18.926521+00:00"
-  },
-  {
-   "fp": "calm coreweave futures jitters nasdaq results rise",
-   "title": "S&P 500, Nasdaq futures rise as CoreWeave results calm AI jitters",
-   "source": "Reuters",
-   "at": "2026-11-11T13:39:20.681807+00:00"
-  },
-  {
-   "fp": "backed european exclusive launches nasdaq payward stocks tokenized versions",
-   "title": "Exclusive | Nasdaq-Backed Payward Launches Tokenized Versions of European Stocks",
-   "source": "WSJ",
-   "at": "2026-11-11T13:39:22.544158+00:00"
-  },
-  {
-   "fp": "based change climate devised economist market nobel nordhaus prize solutions william winning",
-   "title": "William Nordhaus, Nobel Prize-winning economist who devised market-based solutions to climate change",
-   "source": "Telegraph",
-   "at": "2026-11-11T13:39:24.247243+00:00"
-  },
-  {
-   "fp": "democrats epstein inside jeffrey plan street trial wall",
-   "title": "Inside Democrats\u2019 plan to put Wall Street on trial over Jeffrey Epstein",
-   "source": "The Hill",
-   "at": "2026-11-11T13:39:26.019728+00:00"
-  },
   {
    "fp": "ambush cops killed least militants pakistan police vehicles",
    "title": "At least 10 cops killed after militants ambush police vehicles in Pakistan",
@@ -3201,18 +3147,63 @@
    "title": "Christian filmmaker's discovery of Jewish roots sparks mission to uncover centuries-old secret",
    "source": "Fox News World",
    "at": "2026-11-25T16:52:17.966786+00:00"
+  },
+  {
+   "fp": "deranged heartbroken herself indiana kill kult loving maniac nefarious pushed reveals teen",
+   "title": "Deranged \u2018Nefarious Maniac Kult\u2019 pushed \u2018fun-loving\u2019 Indiana teen to kill herself, heartbroken mom reveals",
+   "source": "New York Post",
+   "at": "2026-11-25T17:34:32.540128+00:00"
+  },
+  {
+   "fp": "collapsing dodgers infield injury keep latest plagued trade",
+   "title": "Latest Dodgers trade will keep injury-plagued infield from collapsing",
+   "source": "New York Post",
+   "at": "2026-11-25T17:34:34.225014+00:00"
+  },
+  {
+   "fp": "accusations always boss breaking export huang laws live nvidia option pardon politics trump",
+   "title": "Trump says pardon for Nvidia boss Huang \u2018always an option\u2019 after accusations of breaking export laws \u2013 US politics live",
+   "source": "Guardian World",
+   "at": "2026-11-25T17:34:36.043234+00:00"
+  },
+  {
+   "fp": "administration collapses jobs poundland putting risk",
+   "title": "Poundland collapses into administration, putting 12,000 jobs at risk",
+   "source": "Guardian World",
+   "at": "2026-11-25T17:34:37.736465+00:00"
+  },
+  {
+   "fp": "army attack drone libyan naval officers retaliation ukrainian vows wounds",
+   "title": "Libyan army vows retaliation after 2 naval officers die of wounds from Ukrainian drone attack",
+   "source": "AP",
+   "at": "2026-11-25T17:34:39.415604+00:00"
+  },
+  {
+   "fp": "about hunters kill make paying pups washington wolf worse",
+   "title": "We\u2019re paying hunters to kill wolf pups. Washington is about to make it worse",
+   "source": "The Hill",
+   "at": "2026-11-25T17:34:41.057048+00:00"
+  },
+  {
+   "fp": "colombian free held hostage hours police storm supermarket",
+   "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+   "source": "BBC World",
+   "at": "2026-11-25T17:34:42.790767+00:00"
+  },
+  {
+   "fp": "almost arrive breaking canary islands migrants record single spain",
+   "title": "Almost 2,000 migrants arrive on Spain\u2019s Canary Islands in a single day, breaking a record",
+   "source": "AP",
+   "at": "2026-11-25T17:34:44.478088+00:00"
+  },
+  {
+   "fp": "africa battle court impeachment ramaphosa south threat wins",
+   "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+   "source": "BBC World",
+   "at": "2026-11-25T17:34:46.183368+00:00"
   }
  ],
  "titles": [
-  "advances bill closer finish permitting reform senate",
-  "garment india makers reliance rethink shock tariff",
-  "dispute fight going killed mexico neighbors noise shoot teen warned",
-  "colom extends hyde lead mississippi race senate slim smith",
-  "agenda anti free lose measles pushes soon status vaccine",
-  "calm coreweave futures jitters nasdaq results rise",
-  "backed european exclusive launches nasdaq payward stocks tokenized versions",
-  "based change climate devised economist market nobel nordhaus prize solutions william winning",
-  "democrats epstein inside jeffrey plan street trial wall",
   "ambush cops killed least militants pakistan police vehicles",
   "bomb europe evacuates faces hundreds italy schools threats wave",
   "blame democrats hegseth impeach live missed pete politics procedural traffic vote",
@@ -3603,6 +3594,15 @@
   "iran sabotaging sanctions strategy trump",
   "capacity defeat excess factory fight midterms tariffs trump undeterred unveils",
   "discovery scientific steroid welcome",
-  "centuries christian discovery filmmaker jewish mission roots secret sparks uncover"
+  "centuries christian discovery filmmaker jewish mission roots secret sparks uncover",
+  "deranged heartbroken herself indiana kill kult loving maniac nefarious pushed reveals teen",
+  "collapsing dodgers infield injury keep latest plagued trade",
+  "accusations always boss breaking export huang laws live nvidia option pardon politics trump",
+  "administration collapses jobs poundland putting risk",
+  "army attack drone libyan naval officers retaliation ukrainian vows wounds",
+  "about hunters kill make paying pups washington wolf worse",
+  "colombian free held hostage hours police storm supermarket",
+  "almost arrive breaking canary islands migrants record single spain",
+  "africa battle court impeachment ramaphosa south threat wins"
  ]
 }
