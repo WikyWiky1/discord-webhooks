@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://nypost.com/?post_type=article&p=41600393",
-  "https://nypost.com/?post_type=article&p=41606085",
-  "https://nypost.com/?post_type=article&p=41607351",
-  "https://nypost.com/?post_type=article&p=41606060",
   "CBMiwgFBVV95cUxOTGQyeVJtc2RlU0ZkbHNFcTBmdEZCQ1FaYlk0SldtejFXZU9VZDdSb2k0RnZBanoyYkJkM3BZUVViMnZDcnpFdFEyRDYwXzd3cWJadVA4SWYwRTRSeG1BM25OSnBaS0pZSUlhMlpWTGVjSDRhVWNvaXVSeVlSME5HQ0hnQ01hUHh2M3R5amJpQWlTeTM5Y2R2ajJFaDVOOXR3RWx3Mkl6S0xGRE03c2pLQ29vZ2lPcDhyaXFXQndkQzhGdw",
   "https://www.washingtonexaminer.com/?p=4786970",
   "https://thehill.com/?p=6185891",
@@ -799,33 +795,13 @@
   "https://www.theguardian.com/uk-news/2026/nov/24/burnham-inquiry-nuclear-bomb-test-veterans",
   "https://www.theguardian.com/us-news/2026/nov/24/social-media-not-liable-2022-buffalo-mass-shooting",
   "CBMiowFBVV95cUxQS0FKNHlHNndoa1p1a08zekt3aUZXNkJ3SkF2ckQtYy1NTVFoVHRXdHliYThvNzk2M2E1RlhxOUZ3MEVnR2JvR3phc2JERXRBWXlEQkZ0djM1bnlxb2g2blJ6MWtvYjlmNzhPQUE3TU9pNEkyajFhLThzT053d25Oby1BRFhRTlA1cHhNVS0zdEdBM3FwMzZTb0pPTDcwWklkTFdB",
-  "https://www.washingtonexaminer.com/?p=4814308"
+  "https://www.washingtonexaminer.com/?p=4814308",
+  "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+  "CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw",
+  "CBMipAFBVV95cUxOTzR3QWpwUC0zOE5SUnhYWFRFV21KRzFSWmk4WlF1OWlkV1pUeEJ0UjZ1aGVtcVl4VFBhc1N3eXh4akZoRkVfalZtclFNQ2FOcWJqZDNGMU9ublNKalNnYnhNQVJYdXFNWmZwb2hkb1IyVFFlLWk2TzEtVG56VUthbHF4VDRRbzY5WkZuWHN1UXBfY2Utd2tKZGY5NW5UWUYwOWdLcg",
+  "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election"
  ],
  "posts": [
-  {
-   "fp": "calls democrats generation grows leading opposition schumer senate",
-   "title": "Opposition to Schumer leading Senate grows amid calls for a \u2018new generation\u2019 from Democrats",
-   "source": "Washington Examiner",
-   "at": "2026-11-10T22:53:35.904032+00:00"
-  },
-  {
-   "fp": "bills chip congress export investigation nvidia pushes",
-   "title": "Congress pushes chip export bills amid Nvidia investigation",
-   "source": "The Hill",
-   "at": "2026-11-10T22:53:37.763361+00:00"
-  },
-  {
-   "fp": "back bernie democratic leader sanders schumer senate",
-   "title": "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
-   "source": "Guardian World",
-   "at": "2026-11-10T22:53:39.450490+00:00"
-  },
-  {
-   "fp": "blocks defence hegseth house impeach pete secretary",
-   "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-   "source": "BBC World",
-   "at": "2026-11-11T01:39:49.123197+00:00"
-  },
   {
    "fp": "cruz fired hegseth impeached resign",
    "title": "Cruz says Hegseth will resign, be fired or get impeached",
@@ -3201,13 +3177,33 @@
    "title": "CDC activates emergency response ahead of controlled lead azide detonation in Iowa",
    "source": "Washington Examiner",
    "at": "2026-11-24T23:42:04.104583+00:00"
+  },
+  {
+   "fp": "ahead committee happened huang jensen open pardoning planned reportedly senate testimony trump",
+   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO\u2019s planned Senate committee testimony \u2013 as it happened",
+   "source": "Guardian World",
+   "at": "2026-11-25T03:57:33.674112+00:00"
+  },
+  {
+   "fp": "loom rebound retreat stocks stumbles tariff threats",
+   "title": "Stocks retreat as AI rebound stumbles, tariff threats loom",
+   "source": "Reuters",
+   "at": "2026-11-25T03:57:35.362836+00:00"
+  },
+  {
+   "fp": "africa back court given morocco rules senegal sports title",
+   "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+   "source": "AP",
+   "at": "2026-11-25T03:57:37.110769+00:00"
+  },
+  {
+   "fp": "approval awaiting datacentre election mean nine projects result victoria",
+   "title": "What will Victoria\u2019s election result mean for nine datacentre projects awaiting approval?",
+   "source": "Guardian World",
+   "at": "2026-11-25T03:57:38.808855+00:00"
   }
  ],
  "titles": [
-  "calls democrats generation grows leading opposition schumer senate",
-  "bills chip congress export investigation nvidia pushes",
-  "back bernie democratic leader sanders schumer senate",
-  "blocks defence hegseth house impeach pete secretary",
   "cruz fired hegseth impeached resign",
   "gandhi indian journey kill politics sonia turbulent",
   "fear floods impact kenyans kill predicted",
@@ -3603,6 +3599,10 @@
   "bomb burnham inquiry launches nuclear records test veterans",
   "buffalo court firms liable mass media meta other rules shooting social",
   "appeal execution final fort hasan hood lose nidal shooting survivors three witness",
-  "activates ahead azide controlled detonation emergency iowa lead response"
+  "activates ahead azide controlled detonation emergency iowa lead response",
+  "ahead committee happened huang jensen open pardoning planned reportedly senate testimony trump",
+  "loom rebound retreat stocks stumbles tariff threats",
+  "africa back court given morocco rules senegal sports title",
+  "approval awaiting datacentre election mean nine projects result victoria"
  ]
 }
