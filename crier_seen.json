@@ -1,6 +1,5 @@
 {
  "ids": [
-  "https://www.washingtonexaminer.com/?p=4787399",
   "https://www.bbc.co.uk/news/articles/c95ynzv88n68o#0",
   "https://www.washingtonexaminer.com/?p=4787398",
   "CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE",
@@ -799,15 +798,10 @@
   "https://nypost.com/?post_type=article&p=42149634",
   "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o#0",
   "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
-  "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes"
+  "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+  "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#0"
  ],
  "posts": [
-  {
-   "fp": "building collapsed confirmed continues dead least massive operation rescue",
-   "title": "At least 5 confirmed dead in collapsed NYC building as massive rescue operation continues",
-   "source": "New York Post",
-   "at": "2026-11-12T12:02:01.552400+00:00"
-  },
   {
    "fp": "airstrike five gaza hospital israeli kills nasser others surgeon",
    "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
@@ -3201,10 +3195,15 @@
    "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
    "source": "Guardian World",
    "at": "2026-11-26T19:16:05.000023+00:00"
+  },
+  {
+   "fp": "asteroid crater defences earth images reveal sized stadium targeted test",
+   "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+   "source": "BBC Science",
+   "at": "2026-11-26T20:03:20.552277+00:00"
   }
  ],
  "titles": [
-  "building collapsed confirmed continues dead least massive operation rescue",
   "airstrike five gaza hospital israeli kills nasser others surgeon",
   "blame blue trump tsunami",
   "congress immigration media officials should social using",
@@ -3603,6 +3602,7 @@
   "baja california earthquake magnitude peninsula preliminary strikes",
   "denies iran italians killed kuwait responsibility strike",
   "detonated happen nuclear russia space weapon",
-  "gaza israeli kill ministry month schoolchildren strikes"
+  "gaza israeli kill ministry month schoolchildren strikes",
+  "asteroid crater defences earth images reveal sized stadium targeted test"
  ]
 }
