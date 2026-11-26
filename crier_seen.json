@@ -1,7 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/c95ynzv88n68o#0",
-  "https://www.washingtonexaminer.com/?p=4787398",
   "CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE",
   "CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhLeXE2ZHFGalN2R0J2dw",
   "https://thehill.com/?p=6187032",
@@ -799,21 +797,11 @@
   "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o#0",
   "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
   "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
-  "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#0"
+  "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#0",
+  "https://thehill.com/?p=6244857",
+  "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water"
  ],
  "posts": [
-  {
-   "fp": "airstrike five gaza hospital israeli kills nasser others surgeon",
-   "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-   "source": "Guardian World",
-   "at": "2026-11-12T12:02:03.280345+00:00"
-  },
-  {
-   "fp": "blame blue trump tsunami",
-   "title": "Don\u2019t blame Trump for the blue tsunami",
-   "source": "Washington Examiner",
-   "at": "2026-11-12T12:02:04.944248+00:00"
-  },
   {
    "fp": "congress immigration media officials should social using",
    "title": "Congress should ban immigration officials from using social media",
@@ -3201,11 +3189,21 @@
    "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
    "source": "BBC Science",
    "at": "2026-11-26T20:03:20.552277+00:00"
+  },
+  {
+   "fp": "american child musk pledges shares spacex",
+   "title": "Musk pledges 2 SpaceX shares per American child",
+   "source": "The Hill",
+   "at": "2026-11-26T21:10:53.134177+00:00"
+  },
+  {
+   "fp": "bill clean energy permitting projects protections senate speed threatens water",
+   "title": "US Senate \u2018permitting bill\u2019 threatens clean water protections to speed up energy projects",
+   "source": "Guardian World",
+   "at": "2026-11-26T21:10:54.780327+00:00"
   }
  ],
  "titles": [
-  "airstrike five gaza hospital israeli kills nasser others surgeon",
-  "blame blue trump tsunami",
   "congress immigration media officials should social using",
   "believe colom courage historic live mississippi politics scott senate",
   "colleagues downplaying losses midterm republican senate warns",
@@ -3603,6 +3601,8 @@
   "denies iran italians killed kuwait responsibility strike",
   "detonated happen nuclear russia space weapon",
   "gaza israeli kill ministry month schoolchildren strikes",
-  "asteroid crater defences earth images reveal sized stadium targeted test"
+  "asteroid crater defences earth images reveal sized stadium targeted test",
+  "american child musk pledges shares spacex",
+  "bill clean energy permitting projects protections senate speed threatens water"
  ]
 }
