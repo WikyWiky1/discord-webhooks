@@ -1,8 +1,5 @@
 {
  "ids": [
-  "CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE",
-  "CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhLeXE2ZHFGalN2R0J2dw",
-  "https://thehill.com/?p=6187032",
   "https://nypost.com/?post_type=article&p=41621283",
   "https://nypost.com/?post_type=article&p=41576800",
   "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro#0",
@@ -799,27 +796,12 @@
   "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
   "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#0",
   "https://thehill.com/?p=6244857",
-  "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water"
+  "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
+  "https://nypost.com/?post_type=article&p=42156769",
+  "https://nypost.com/?post_type=article&p=42153818",
+  "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o#3"
  ],
  "posts": [
-  {
-   "fp": "congress immigration media officials should social using",
-   "title": "Congress should ban immigration officials from using social media",
-   "source": "The Hill",
-   "at": "2026-11-12T14:55:46.563026+00:00"
-  },
-  {
-   "fp": "believe colom courage historic live mississippi politics scott senate",
-   "title": "\u2018I had the courage to believe in Mississippi\u2019 says Scott Colom after historic Senate win \u2013 US politics live",
-   "source": "Guardian World",
-   "at": "2026-11-12T14:55:48.539583+00:00"
-  },
-  {
-   "fp": "colleagues downplaying losses midterm republican senate warns",
-   "title": "Senate Republican warns colleagues against downplaying midterm losses",
-   "source": "The Hill",
-   "at": "2026-11-12T14:55:50.319623+00:00"
-  },
   {
    "fp": "colom help mississippi scott secure senate stunner viral",
    "title": "Who is Scott Colom, and how did his viral ads help secure Mississippi Senate stunner?",
@@ -3201,12 +3183,27 @@
    "title": "US Senate \u2018permitting bill\u2019 threatens clean water protections to speed up energy projects",
    "source": "Guardian World",
    "at": "2026-11-26T21:10:54.780327+00:00"
+  },
+  {
+   "fp": "collapse cowboys decision disastrous eagles miracle pull rally stunningly thanksgiving",
+   "title": "Eagles pull off miracle Thanksgiving rally as Cowboys stunningly collapse after disastrous decision",
+   "source": "New York Post",
+   "at": "2026-11-27T02:14:00.634766+00:00"
+  },
+  {
+   "fp": "california deadly fuels growth lurking mushroom threat toxic",
+   "title": "Deadly new threat lurking in California as El Ni\u00f1o fuels toxic mushroom growth",
+   "source": "New York Post",
+   "at": "2026-11-27T02:14:02.379604+00:00"
+  },
+  {
+   "fp": "attack couple kenyan life police ruined sentenced wrongly",
+   "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+   "source": "BBC World",
+   "at": "2026-11-27T02:14:04.143941+00:00"
   }
  ],
  "titles": [
-  "congress immigration media officials should social using",
-  "believe colom courage historic live mississippi politics scott senate",
-  "colleagues downplaying losses midterm republican senate warns",
   "colom help mississippi scott secure senate stunner viral",
   "crisis deepens global nvidia sector selloff sink stocks",
   "approves depend duration election housing huge measures protests result spain",
@@ -3603,6 +3600,9 @@
   "gaza israeli kill ministry month schoolchildren strikes",
   "asteroid crater defences earth images reveal sized stadium targeted test",
   "american child musk pledges shares spacex",
-  "bill clean energy permitting projects protections senate speed threatens water"
+  "bill clean energy permitting projects protections senate speed threatens water",
+  "collapse cowboys decision disastrous eagles miracle pull rally stunningly thanksgiving",
+  "california deadly fuels growth lurking mushroom threat toxic",
+  "attack couple kenyan life police ruined sentenced wrongly"
  ]
 }
