@@ -1,9 +1,5 @@
 {
  "ids": [
-  "https://www.bbc.co.uk/news/articles/cm369yy7lw73o#0",
-  "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-  "https://nypost.com/?post_type=article&p=41627931",
-  "CBMif0FVX3lxTFBnb1V5RDNKWWlEQnNHY2RMUUhmek0wcXROc1ctcTFUdURNaDRrSUI3R1VWdDNKb05BX0JBMnpXNzRZT1ZFdkkzdGVsVEQyakwzWHhWcm9qOUVTQktLZGFqNGNHMXhvWnhmTC1nVnBrSVEtd3hXekZYZGZqWlZxZDg",
   "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
   "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure",
   "https://www.washingtonexaminer.com/?p=4786599",
@@ -799,33 +795,13 @@
   "https://news.sky.com/story/son-of-hamas-chief-and-his-family-survive-israeli-airstrike-group-says-13617394",
   "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
   "CBMidEFVX3lxTFAwajBpX0pHSkQ3RFZLUTFTZlN4Um0xdWFJOEhJd0ZaT2VYQmVpeEEtWVBqdVZ2YnVyNkUzTC1pMm9mSGd2ZGFwQkZWd25iSHZRV1lYZUpFM2tnVTU3VjNsSXctWTRMM2tuT1BIMk1IX1ZHN2tt",
-  "CBMibEFVX3lxTE1mS2l6TkJDTGFkMUJVd3BicElFSnBmeHJxNGdHaUwwNUR0cFlmeUlLUWdwX01HWDFYdUlhbjBiU1Q0bDdabDd6R1hVaFlCd1hEX3VvaF9na0VFS0hYeWphZkhCZTVTc2tyYm00OQ"
+  "CBMibEFVX3lxTE1mS2l6TkJDTGFkMUJVd3BicElFSnBmeHJxNGdHaUwwNUR0cFlmeUlLUWdwX01HWDFYdUlhbjBiU1Q0bDdabDd6R1hVaFlCd1hEX3VvaF9na0VFS0hYeWphZkhCZTVTc2tyYm00OQ",
+  "https://www.bbc.co.uk/news/articles/cm5y10yydln3o#0",
+  "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o#0",
+  "CBMixgFBVV95cUxPdTFCMEFWV3I5ZUdPS0xrdm5rTGFSTG5VZmhDdV9fSjFQeTI5bDFEdEg1RlozZF9xT0RKVTluVlh0bG1HTEgtLUVnSlNFelJfRUZXLW5nWU9PNzlTcTNDb0JTWXp2X3NQVFY1ek42RmJMTUdsWHdyMExFNVNLdzdKOENKRHphNld1WGg3UlE1eThvYTFINHl4czM4UWFnM3R0dUlBSGZOaEN3YjlBMjUwT09jWTdLWFZscUhKUXpBckU0WGFPV2c",
+  "CBMikgFBVV95cUxOYzQwcm1zRUVmQVB2b3E5X1Q4RHZxbWRGY1ctOFQwZ1otcC11UUJHM2wyZVBhUGhlTTgxYmt1SFc0N0k1aGlnQmxwVUI4S0dXX3NpdzhXYVg2UTdQc3R2bGNrZFJMempoZ3FTZzFhamFPWGt6TDc4NG5BTElMS3JqSmM4OUVlcFBod09hZnIzcVBwdw"
  ],
  "posts": [
-  {
-   "fp": "colette congress follow huang interim jensen kress live nvidia replaces reports scandal testify",
-   "title": "Nvidia\u2019s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO \u2013 follow live",
-   "source": "Guardian World",
-   "at": "2026-11-12T21:45:50.027983+00:00"
-  },
-  {
-   "fp": "arizona billion campuses investment plans spacex texas",
-   "title": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses",
-   "source": "Reuters",
-   "at": "2026-11-12T21:45:51.658900+00:00"
-  },
-  {
-   "fp": "350b bill leadership move reconciliation senate trump urges",
-   "title": "Trump urges Senate leadership to move $350B reconciliation bill",
-   "source": "The Hill",
-   "at": "2026-11-12T21:45:53.491666+00:00"
-  },
-  {
-   "fp": "2026 colorado election house live results",
-   "title": "Colorado U.S. House Election Live Results 2026",
-   "source": "AP",
-   "at": "2026-11-12T21:45:55.189914+00:00"
-  },
   {
    "fp": "election melania midterm private spotlight steps trump usually",
    "title": "Usually private, Melania Trump steps into the spotlight after the midterm election",
@@ -3201,13 +3177,33 @@
    "title": "2026 Missouri Midterm Election Results",
    "source": "AP",
    "at": "2026-11-28T03:06:24.527754+00:00"
+  },
+  {
+   "fp": "clinic gaza israeli killed medical staff strike",
+   "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+   "source": "BBC World",
+   "at": "2026-11-28T10:49:05.516849+00:00"
+  },
+  {
+   "fp": "afghanistan explosion injured killed nearly official seven students",
+   "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
+   "source": "BBC World",
+   "at": "2026-11-28T10:49:07.247813+00:00"
+  },
+  {
+   "fp": "attack coordinated libya partners russian ship ukraine zelenskiy",
+   "title": "Ukraine's attack on Russian ship in Libya was not coordinated with partners, Zelenskiy says",
+   "source": "Reuters",
+   "at": "2026-11-28T10:49:08.885979+00:00"
+  },
+  {
+   "fp": "afghanistan eastern explosion kills school wounds",
+   "title": "An explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+   "source": "AP",
+   "at": "2026-11-28T10:49:10.527061+00:00"
   }
  ],
  "titles": [
-  "colette congress follow huang interim jensen kress live nvidia replaces reports scandal testify",
-  "arizona billion campuses investment plans spacex texas",
-  "350b bill leadership move reconciliation senate trump urges",
-  "2026 colorado election house live results",
   "election melania midterm private spotlight steps trump usually",
   "building gunman known manager police shooting suspected victim",
   "brooklyn building cause collapse devastating excavation eyed killed potential work",
@@ -3603,6 +3599,10 @@
   "airstrike chief family group hamas israeli survive",
   "2026 coalition election head labor latest live news polls seeks topple victorian voters",
   "americans ever exposed market stock",
-  "2026 election midterm missouri results"
+  "2026 election midterm missouri results",
+  "clinic gaza israeli killed medical staff strike",
+  "afghanistan explosion injured killed nearly official seven students",
+  "attack coordinated libya partners russian ship ukraine zelenskiy",
+  "afghanistan eastern explosion kills school wounds"
  ]
 }
